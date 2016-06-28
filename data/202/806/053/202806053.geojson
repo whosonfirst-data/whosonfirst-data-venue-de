@@ -2,13 +2,14 @@
   "id": 202806053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.235442,52.610935,13.235442,52.610935",
     "geom:latitude":52.610935,
     "geom:longitude":13.235442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00e4gerweg 24A",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202806053,
-    "wof:lastmodified":1449060101,
+    "wof:lastmodified":1466221339,
     "wof:name":"Silvia Patzlaff",
     "wof:parent_id":85899275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.235442,52.610935,13.235442,52.610935],
+  "bbox": [
+    13.235442,
+    52.610935,
+    13.235442,
+    52.610935
+],
   "geometry": {"coordinates":[13.235442,52.610935],"type":"Point"}
 }

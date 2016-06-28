@@ -2,13 +2,14 @@
   "id": 152611671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.073663,54.075027,12.073663,54.075027",
     "geom:latitude":54.075027,
     "geom:longitude":12.073663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tannenweg 25",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898985,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85898985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152611671,
-    "wof:lastmodified":1449047938,
+    "wof:lastmodified":1466222746,
     "wof:name":"Verwaltung Rohstoff- Recycling Rostock Gmbh",
     "wof:parent_id":85898985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.073663,54.075027,12.073663,54.075027],
+  "bbox": [
+    12.073663,
+    54.075027,
+    12.073663,
+    54.075027
+],
   "geometry": {"coordinates":[12.073663,54.075027],"type":"Point"}
 }

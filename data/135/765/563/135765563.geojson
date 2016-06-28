@@ -2,13 +2,14 @@
   "id": 135765563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.731755,51.561806,6.731755,51.561806",
     "geom:latitude":51.561806,
     "geom:longitude":6.731755,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thyssenstr. 123 - Tor 1",
     "sg:city":"Dinslaken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795575,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135765563,
-    "wof:lastmodified":1449022755,
+    "wof:lastmodified":1466243789,
     "wof:name":"Mainka Friseurbetriebs- Gmbh",
     "wof:parent_id":85795575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.731755,51.561806,6.731755,51.561806],
+  "bbox": [
+    6.731755,
+    51.561806,
+    6.731755,
+    51.561806
+],
   "geometry": {"coordinates":[6.731755,51.561806],"type":"Point"}
 }

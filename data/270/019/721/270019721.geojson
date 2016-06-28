@@ -2,13 +2,14 @@
   "id": 270019721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.015235,51.001293,11.015235,51.001293",
     "geom:latitude":51.001293,
     "geom:longitude":11.015235,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riethstr. 42",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270019721,
-    "wof:lastmodified":1449010062,
+    "wof:lastmodified":1466221825,
     "wof:name":"M. Geil",
     "wof:parent_id":85899201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.015235,51.001293,11.015235,51.001293],
+  "bbox": [
+    11.015235,
+    51.001293,
+    11.015235,
+    51.001293
+],
   "geometry": {"coordinates":[11.015235,51.001293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135390925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.787415,52.421268,10.787415,52.421268",
     "geom:latitude":52.421268,
     "geom:longitude":10.787415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingraben 11-13",
     "sg:city":"Moosburg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063921,
-        85633111,
         85682555,
-        85905775
+        85633111,
+        85905775,
+        102063921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135390925,
-    "wof:lastmodified":1449024019,
+    "wof:lastmodified":1466222096,
     "wof:name":"Kabelcom Wolfsburg Gesellschaft F\u00fcr Breitbandkabel-kommunikation Mbh",
     "wof:parent_id":85905775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.787415,52.421268,10.787415,52.421268],
+  "bbox": [
+    10.787415,
+    52.421268,
+    10.787415,
+    52.421268
+],
   "geometry": {"coordinates":[10.787415,52.421268],"type":"Point"}
 }

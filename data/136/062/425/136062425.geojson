@@ -2,13 +2,14 @@
   "id": 136062425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.560998,48.105556,11.560998,48.105556",
     "geom:latitude":48.105556,
     "geom:longitude":11.560998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oertlinweg 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899261,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136062425,
-    "wof:lastmodified":1449076180,
+    "wof:lastmodified":1466215020,
     "wof:name":"Ferienwohnungen Fischer Und Schiller,jenbach,tirol",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.560998,48.105556,11.560998,48.105556],
+  "bbox": [
+    11.560998,
+    48.105556,
+    11.560998,
+    48.105556
+],
   "geometry": {"coordinates":[11.560998,48.105556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303306459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.52481,50.03297,10.52481,50.03297",
     "geom:latitude":50.03297,
     "geom:longitude":10.52481,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestr. 34",
     "sg:city":"Ha\u00dffurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303306459,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1466232066,
     "wof:name":"Baumgart Offset-druck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.52481,50.03297,10.52481,50.03297],
+  "bbox": [
+    10.52481,
+    50.03297,
+    10.52481,
+    50.03297
+],
   "geometry": {"coordinates":[10.52481,50.03297],"type":"Point"}
 }

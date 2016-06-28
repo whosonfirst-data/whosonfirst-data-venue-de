@@ -2,13 +2,14 @@
   "id": 119108573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39975,50.140751,8.39975,50.140751",
     "geom:latitude":50.140751,
     "geom:longitude":8.39975,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gimbacher Str. 1a",
     "sg:city":"Eppstein",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85794725
+        85633111,
+        85794725,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119108573,
-    "wof:lastmodified":1449040926,
+    "wof:lastmodified":1466220843,
     "wof:name":"Peter Mauer Architekt",
     "wof:parent_id":85794725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39975,50.140751,8.39975,50.140751],
+  "bbox": [
+    8.39975,
+    50.140751,
+    8.39975,
+    50.140751
+],
   "geometry": {"coordinates":[8.39975,50.140751],"type":"Point"}
 }

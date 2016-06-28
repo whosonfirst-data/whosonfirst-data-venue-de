@@ -2,13 +2,14 @@
   "id": 119532535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.340988,51.655994,10.340988,51.655994",
     "geom:latitude":51.655994,
     "geom:longitude":10.340988,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brauhausstr. 2",
     "sg:city":"Herzberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119532535,
-    "wof:lastmodified":1449041670,
+    "wof:lastmodified":1466244032,
     "wof:name":"H. Friehe",
     "wof:parent_id":101821777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.340988,51.655994,10.340988,51.655994],
+  "bbox": [
+    10.340988,
+    51.655994,
+    10.340988,
+    51.655994
+],
   "geometry": {"coordinates":[10.340988,51.655994],"type":"Point"}
 }

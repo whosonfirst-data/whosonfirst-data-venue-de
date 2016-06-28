@@ -2,13 +2,14 @@
   "id": 119001937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.19532,51.610161,7.19532,51.610161",
     "geom:latitude":51.610161,
     "geom:longitude":7.19532,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulusstr. 22",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -17,12 +18,12 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
+        85633111,
         85795495,
-        85796265,
-        101748751
+        102063831,
+        101748751,
+        85796265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119001937,
-    "wof:lastmodified":1449041407,
+    "wof:lastmodified":1466213204,
     "wof:name":"Elemento Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.19532,51.610161,7.19532,51.610161],
+  "bbox": [
+    7.19532,
+    51.610161,
+    7.19532,
+    51.610161
+],
   "geometry": {"coordinates":[7.19532,51.610161],"type":"Point"}
 }

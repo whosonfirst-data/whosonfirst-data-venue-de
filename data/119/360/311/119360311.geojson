@@ -2,13 +2,14 @@
   "id": 119360311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.667451,52.34922,9.667451,52.34922",
     "geom:latitude":52.34922,
     "geom:longitude":9.667451,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenbleckstr. 47",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899413,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119360311,
-    "wof:lastmodified":1449042887,
+    "wof:lastmodified":1466240405,
     "wof:name":"Martin Schmitz",
     "wof:parent_id":85899413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.667451,52.34922,9.667451,52.34922],
+  "bbox": [
+    9.667451,
+    52.34922,
+    9.667451,
+    52.34922
+],
   "geometry": {"coordinates":[9.667451,52.34922],"type":"Point"}
 }

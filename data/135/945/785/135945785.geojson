@@ -2,13 +2,14 @@
   "id": 135945785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62951,51.587009,7.62951,51.587009",
     "geom:latitude":51.587009,
     "geom:longitude":7.62951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Seseke 30",
     "sg:city":"Kamen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063823,
-        85633111,
         85682513,
-        85795609
+        85633111,
+        85795609,
+        102063823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135945785,
-    "wof:lastmodified":1449021262,
+    "wof:lastmodified":1466244734,
     "wof:name":"Heinz B\u00e4cker Beteiligungs Gmbh",
     "wof:parent_id":85795609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62951,51.587009,7.62951,51.587009],
+  "bbox": [
+    7.62951,
+    51.587009,
+    7.62951,
+    51.587009
+],
   "geometry": {"coordinates":[7.62951,51.587009],"type":"Point"}
 }

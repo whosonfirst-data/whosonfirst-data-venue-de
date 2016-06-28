@@ -2,13 +2,14 @@
   "id": 135635467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.109192,53.643265,10.109192,53.643265",
     "geom:latitude":53.643265,
     "geom:longitude":10.109192,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goppeltweg 14a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899895,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135635467,
-    "wof:lastmodified":1449022319,
+    "wof:lastmodified":1466240678,
     "wof:name":"Nsh Natursteinhandel Gmbh",
     "wof:parent_id":85899895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.109192,53.643265,10.109192,53.643265],
+  "bbox": [
+    10.109192,
+    53.643265,
+    10.109192,
+    53.643265
+],
   "geometry": {"coordinates":[10.109192,53.643265],"type":"Point"}
 }

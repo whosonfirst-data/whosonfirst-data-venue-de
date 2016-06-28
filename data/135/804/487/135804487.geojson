@@ -2,13 +2,14 @@
   "id": 135804487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.147543,50.773922,6.147543,50.773922",
     "geom:latitude":50.773922,
     "geom:longitude":6.147543,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krebsstr. 24",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796331,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85796331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135804487,
-    "wof:lastmodified":1449023099,
+    "wof:lastmodified":1466244107,
     "wof:name":"Acron-tufting Produktions- Gmbh",
     "wof:parent_id":85796331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.147543,50.773922,6.147543,50.773922],
+  "bbox": [
+    6.147543,
+    50.773922,
+    6.147543,
+    50.773922
+],
   "geometry": {"coordinates":[6.147543,50.773922],"type":"Point"}
 }

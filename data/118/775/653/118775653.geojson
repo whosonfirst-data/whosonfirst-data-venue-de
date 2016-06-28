@@ -2,13 +2,14 @@
   "id": 118775653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57906,48.151588,11.57906,48.151588",
     "geom:latitude":48.151588,
     "geom:longitude":11.57906,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amalienstr. 93",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118775653,
-    "wof:lastmodified":1449054183,
+    "wof:lastmodified":1466228272,
     "wof:name":"Farben-klotz Stefan Klotz",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57906,48.151588,11.57906,48.151588],
+  "bbox": [
+    11.57906,
+    48.151588,
+    11.57906,
+    48.151588
+],
   "geometry": {"coordinates":[11.57906,48.151588],"type":"Point"}
 }

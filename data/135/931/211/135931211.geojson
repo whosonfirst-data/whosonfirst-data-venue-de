@@ -2,13 +2,14 @@
   "id": 135931211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.245819,49.132668,9.245819,49.132668",
     "geom:latitude":49.132668,
     "geom:longitude":9.245819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reutlinger Str. 27",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135931211,
-    "wof:lastmodified":1449023733,
+    "wof:lastmodified":1466244647,
     "wof:name":"Walter Herrmann Ohg",
     "wof:parent_id":101748529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.245819,49.132668,9.245819,49.132668],
+  "bbox": [
+    9.245819,
+    49.132668,
+    9.245819,
+    49.132668
+],
   "geometry": {"coordinates":[9.245819,49.132668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119146651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.377138,51.349991,12.377138,51.349991",
     "geom:latitude":51.349991,
     "geom:longitude":12.377138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Liebknecht-Platz 3",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119146651,
-    "wof:lastmodified":1449041921,
+    "wof:lastmodified":1466223816,
     "wof:name":"W. Trimborn Innenarchitekt",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.377138,51.349991,12.377138,51.349991],
+  "bbox": [
+    12.377138,
+    51.349991,
+    12.377138,
+    51.349991
+],
   "geometry": {"coordinates":[12.377138,51.349991],"type":"Point"}
 }

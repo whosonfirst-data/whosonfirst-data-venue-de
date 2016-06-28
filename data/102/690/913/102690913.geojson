@@ -2,13 +2,14 @@
   "id": 102690913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.345851,50.103401,8.345851,50.103401",
     "geom:latitude":50.103401,
     "geom:longitude":8.345851,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An den drei Weiden 3",
     "sg:city":"Wiesbaden-Medenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102690913,
-    "wof:lastmodified":1449069018,
+    "wof:lastmodified":1466215837,
     "wof:name":"Baudekoration H\u00fctzen Gmbh - Wiesbaden",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.345851,50.103401,8.345851,50.103401],
+  "bbox": [
+    8.345851,
+    50.103401,
+    8.345851,
+    50.103401
+],
   "geometry": {"coordinates":[8.345851,50.103401],"type":"Point"}
 }

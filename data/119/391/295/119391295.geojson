@@ -2,13 +2,14 @@
   "id": 119391295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.14783,51.266003,7.14783,51.266003",
     "geom:latitude":51.266003,
     "geom:longitude":7.14783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uellendahler Str. 24 a",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119391295,
-    "wof:lastmodified":1449042589,
+    "wof:lastmodified":1466241306,
     "wof:name":"Wolfgang Liebetruth",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.14783,51.266003,7.14783,51.266003],
+  "bbox": [
+    7.14783,
+    51.266003,
+    7.14783,
+    51.266003
+],
   "geometry": {"coordinates":[7.14783,51.266003],"type":"Point"}
 }

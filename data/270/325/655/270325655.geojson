@@ -2,13 +2,14 @@
   "id": 270325655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.683612,50.127094,8.683612,50.127094",
     "geom:latitude":50.127094,
     "geom:longitude":8.683612,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzburgstr. 69",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270325655,
-    "wof:lastmodified":1449009585,
+    "wof:lastmodified":1466229042,
     "wof:name":"Organisation & Personal Gmbh",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.683612,50.127094,8.683612,50.127094],
+  "bbox": [
+    8.683612,
+    50.127094,
+    8.683612,
+    50.127094
+],
   "geometry": {"coordinates":[8.683612,50.127094],"type":"Point"}
 }

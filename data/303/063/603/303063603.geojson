@@ -2,13 +2,14 @@
   "id": 303063603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.00214,51.402679,8.00214,51.402679",
     "geom:latitude":51.402679,
     "geom:longitude":8.00214,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf der \u00dcmcke 14",
     "sg:city":"Arnsberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303063603,
-    "wof:lastmodified":1448998333,
+    "wof:lastmodified":1466226101,
     "wof:name":"Funke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.00214,51.402679,8.00214,51.402679],
+  "bbox": [
+    8.00214,
+    51.402679,
+    8.00214,
+    51.402679
+],
   "geometry": {"coordinates":[8.00214,51.402679],"type":"Point"}
 }

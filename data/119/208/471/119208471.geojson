@@ -2,13 +2,14 @@
   "id": 119208471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.467028,48.112465,11.467028,48.112465",
     "geom:latitude":48.112465,
     "geom:longitude":11.467028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marchioninistr. 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899225
+        85633111,
+        85899225,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119208471,
-    "wof:lastmodified":1449041155,
+    "wof:lastmodified":1466229502,
     "wof:name":"Gesellschaft F\u00fcr Strahlen- Und Umweltforschung Mbh",
     "wof:parent_id":85899225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.467028,48.112465,11.467028,48.112465],
+  "bbox": [
+    11.467028,
+    48.112465,
+    11.467028,
+    48.112465
+],
   "geometry": {"coordinates":[11.467028,48.112465],"type":"Point"}
 }

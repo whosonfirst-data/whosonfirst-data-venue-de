@@ -2,13 +2,14 @@
   "id": 152871105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.334917,51.332973,12.334917,51.332973",
     "geom:latitude":51.332973,
     "geom:longitude":12.334917,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Josephstr.38",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152871105,
-    "wof:lastmodified":1449045825,
+    "wof:lastmodified":1466228700,
     "wof:name":"Klangwerk C",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.334917,51.332973,12.334917,51.332973],
+  "bbox": [
+    12.334917,
+    51.332973,
+    12.334917,
+    51.332973
+],
   "geometry": {"coordinates":[12.334917,51.332973],"type":"Point"}
 }

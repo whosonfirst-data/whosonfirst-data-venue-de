@@ -2,13 +2,14 @@
   "id": 118625835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.286888,51.287292,7.286888,51.287292",
     "geom:latitude":51.287292,
     "geom:longitude":7.286888,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00f6inghauser Str. 23",
     "sg:city":"Schwelm",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796243,
+        85682513,
         85633111,
         101756009,
         102063779,
-        85682513
+        85796243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118625835,
-    "wof:lastmodified":1449054569,
+    "wof:lastmodified":1466219762,
     "wof:name":"Feierabendhaus Altersheim",
     "wof:parent_id":85796243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.286888,51.287292,7.286888,51.287292],
+  "bbox": [
+    7.286888,
+    51.287292,
+    7.286888,
+    51.287292
+],
   "geometry": {"coordinates":[7.286888,51.287292],"type":"Point"}
 }

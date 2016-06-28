@@ -2,13 +2,14 @@
   "id": 136087937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.196665,52.53207,13.196665,52.53207",
     "geom:latitude":52.53207,
     "geom:longitude":13.196665,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borkumer Str. 19",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899379,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136087937,
-    "wof:lastmodified":1449075509,
+    "wof:lastmodified":1466216176,
     "wof:name":"Karl-heinz Happel",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.196665,52.53207,13.196665,52.53207],
+  "bbox": [
+    13.196665,
+    52.53207,
+    13.196665,
+    52.53207
+],
   "geometry": {"coordinates":[13.196665,52.53207],"type":"Point"}
 }

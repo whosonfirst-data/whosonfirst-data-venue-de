@@ -2,13 +2,14 @@
   "id": 152249857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.648503,50.087193,8.648503,50.087193",
     "geom:latitude":50.087193,
     "geom:longitude":8.648503,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruchfeldstr. 32-34",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152249857,
-    "wof:lastmodified":1449044538,
+    "wof:lastmodified":1466215091,
     "wof:name":"Daniela W\u00e4schemode",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.648503,50.087193,8.648503,50.087193],
+  "bbox": [
+    8.648503,
+    50.087193,
+    8.648503,
+    50.087193
+],
   "geometry": {"coordinates":[8.648503,50.087193],"type":"Point"}
 }

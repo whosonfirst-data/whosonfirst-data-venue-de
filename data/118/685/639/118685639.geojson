@@ -2,13 +2,14 @@
   "id": 118685639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.786999,50.08416,8.786999,50.08416",
     "geom:latitude":50.08416,
     "geom:longitude":8.786999,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenweg 69",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118685639,
-    "wof:lastmodified":1449054491,
+    "wof:lastmodified":1466223072,
     "wof:name":"Ambulantes Pflegeteam Helga Hussein",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.786999,50.08416,8.786999,50.08416],
+  "bbox": [
+    8.786999,
+    50.08416,
+    8.786999,
+    50.08416
+],
   "geometry": {"coordinates":[8.786999,50.08416],"type":"Point"}
 }

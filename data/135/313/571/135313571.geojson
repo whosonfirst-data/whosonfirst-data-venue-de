@@ -2,13 +2,14 @@
   "id": 135313571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.150916,48.09341,10.150916,48.09341",
     "geom:latitude":48.09341,
     "geom:longitude":10.150916,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulmer Str. 12",
     "sg:city":"Ple\u00df",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135313571,
-    "wof:lastmodified":1449021064,
+    "wof:lastmodified":1466214928,
     "wof:name":"Rudolf Hintermeyr",
     "wof:parent_id":101905715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.150916,48.09341,10.150916,48.09341],
+  "bbox": [
+    10.150916,
+    48.09341,
+    10.150916,
+    48.09341
+],
   "geometry": {"coordinates":[10.150916,48.09341],"type":"Point"}
 }

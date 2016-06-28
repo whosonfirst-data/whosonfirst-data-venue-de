@@ -2,13 +2,14 @@
   "id": 185801439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.191436,51.27216,7.191436,51.27216",
     "geom:latitude":51.27216,
     "geom:longitude":7.191436,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6diger Str. 23",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185801439,
-    "wof:lastmodified":1449007952,
+    "wof:lastmodified":1466215127,
     "wof:name":"R. Woltmann",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.191436,51.27216,7.191436,51.27216],
+  "bbox": [
+    7.191436,
+    51.27216,
+    7.191436,
+    51.27216
+],
   "geometry": {"coordinates":[7.191436,51.27216],"type":"Point"}
 }

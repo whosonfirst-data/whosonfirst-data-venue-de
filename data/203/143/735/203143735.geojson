@@ -2,13 +2,14 @@
   "id": 203143735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.760348,50.49099,7.760348,50.49099",
     "geom:latitude":50.49099,
     "geom:longitude":7.760348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 4",
     "sg:city":"Mogendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203143735,
-    "wof:lastmodified":1449026529,
+    "wof:lastmodified":1466216257,
     "wof:name":"Berthold Stauder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.760348,50.49099,7.760348,50.49099],
+  "bbox": [
+    7.760348,
+    50.49099,
+    7.760348,
+    50.49099
+],
   "geometry": {"coordinates":[7.760348,50.49099],"type":"Point"}
 }

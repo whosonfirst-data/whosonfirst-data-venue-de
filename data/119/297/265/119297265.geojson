@@ -2,13 +2,14 @@
   "id": 119297265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.40514,51.481121,7.40514,51.481121",
     "geom:latitude":51.481121,
     "geom:longitude":7.40514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stortsweg 8",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85795143
+        85633111,
+        85795143,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119297265,
-    "wof:lastmodified":1449042577,
+    "wof:lastmodified":1466237204,
     "wof:name":"Ch. Blei",
     "wof:parent_id":85795143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.40514,51.481121,7.40514,51.481121],
+  "bbox": [
+    7.40514,
+    51.481121,
+    7.40514,
+    51.481121
+],
   "geometry": {"coordinates":[7.40514,51.481121],"type":"Point"}
 }

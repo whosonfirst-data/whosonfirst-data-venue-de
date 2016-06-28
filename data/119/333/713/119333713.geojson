@@ -2,13 +2,14 @@
   "id": 119333713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.600327,50.051083,11.600327,50.051083",
     "geom:latitude":50.051083,
     "geom:longitude":11.600327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badgasse 3",
     "sg:city":"Himmelkron",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119333713,
-    "wof:lastmodified":1449043360,
+    "wof:lastmodified":1466239048,
     "wof:name":"Herbert Jahreis",
     "wof:parent_id":101826019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.600327,50.051083,11.600327,50.051083],
+  "bbox": [
+    11.600327,
+    50.051083,
+    11.600327,
+    50.051083
+],
   "geometry": {"coordinates":[11.600327,50.051083],"type":"Point"}
 }

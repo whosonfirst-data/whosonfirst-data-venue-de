@@ -2,13 +2,14 @@
   "id": 119217481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.083377,50.730457,7.083377,50.730457",
     "geom:latitude":50.730457,
     "geom:longitude":7.083377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinbacher Str. 5",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119217481,
-    "wof:lastmodified":1449043393,
+    "wof:lastmodified":1466230398,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Michael",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.083377,50.730457,7.083377,50.730457],
+  "bbox": [
+    7.083377,
+    50.730457,
+    7.083377,
+    50.730457
+],
   "geometry": {"coordinates":[7.083377,50.730457],"type":"Point"}
 }

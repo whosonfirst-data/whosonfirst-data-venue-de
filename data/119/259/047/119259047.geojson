@@ -2,13 +2,14 @@
   "id": 119259047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.076992,52.378342,13.076992,52.378342",
     "geom:latitude":52.378342,
     "geom:longitude":13.076992,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Brunnen 16",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900127,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85900127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119259047,
-    "wof:lastmodified":1449041424,
+    "wof:lastmodified":1466234532,
     "wof:name":"Dr. Med. Erika Fischer",
     "wof:parent_id":85900127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.076992,52.378342,13.076992,52.378342],
+  "bbox": [
+    13.076992,
+    52.378342,
+    13.076992,
+    52.378342
+],
   "geometry": {"coordinates":[13.076992,52.378342],"type":"Point"}
 }

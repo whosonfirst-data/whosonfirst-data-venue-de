@@ -2,13 +2,14 @@
   "id": 118989591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.092113,49.404991,11.092113,49.404991",
     "geom:latitude":49.404991,
     "geom:longitude":11.092113,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dillinger Str. 17a",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899237,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118989591,
-    "wof:lastmodified":1449054167,
+    "wof:lastmodified":1466239689,
     "wof:name":"D. Port Architekt",
     "wof:parent_id":85899237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.092113,49.404991,11.092113,49.404991],
+  "bbox": [
+    11.092113,
+    49.404991,
+    11.092113,
+    49.404991
+],
   "geometry": {"coordinates":[11.092113,49.404991],"type":"Point"}
 }

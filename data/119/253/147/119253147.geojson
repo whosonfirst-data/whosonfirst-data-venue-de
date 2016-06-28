@@ -2,13 +2,14 @@
   "id": 119253147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802691,53.093018,8.802691,53.093018",
     "geom:latitude":53.093018,
     "geom:longitude":8.802691,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walsroder Str 6",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796503,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119253147,
-    "wof:lastmodified":1449043206,
+    "wof:lastmodified":1466233909,
     "wof:name":"Deutschland K\u00fcnstler Musik Entertainment Jack Bochenek",
     "wof:parent_id":85796503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.802691,53.093018,8.802691,53.093018],
+  "bbox": [
+    8.802691,
+    53.093018,
+    8.802691,
+    53.093018
+],
   "geometry": {"coordinates":[8.802691,53.093018],"type":"Point"}
 }

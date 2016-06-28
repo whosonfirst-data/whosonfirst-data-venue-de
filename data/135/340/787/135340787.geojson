@@ -2,13 +2,14 @@
   "id": 135340787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.091201,54.094456,12.091201,54.094456",
     "geom:latitude":54.094456,
     "geom:longitude":12.091201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Sch\u00fctz-Str. 26",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899039,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135340787,
-    "wof:lastmodified":1449023339,
+    "wof:lastmodified":1466217226,
     "wof:name":"B\u00e4ckerei Und Konditorei Claus-heinz Never & Co. Kg",
     "wof:parent_id":85899039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.091201,54.094456,12.091201,54.094456],
+  "bbox": [
+    12.091201,
+    54.094456,
+    12.091201,
+    54.094456
+],
   "geometry": {"coordinates":[12.091201,54.094456],"type":"Point"}
 }

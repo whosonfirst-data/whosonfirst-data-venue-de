@@ -2,13 +2,14 @@
   "id": 135877377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.092888,53.652527,10.092888,53.652527",
     "geom:latitude":53.652527,
     "geom:longitude":10.092888,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heegbarg 2",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900157,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135877377,
-    "wof:lastmodified":1449023119,
+    "wof:lastmodified":1466244429,
     "wof:name":"Atg Zweite Alstertal Beteiligungs- Ag",
     "wof:parent_id":85900157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.092888,53.652527,10.092888,53.652527],
+  "bbox": [
+    10.092888,
+    53.652527,
+    10.092888,
+    53.652527
+],
   "geometry": {"coordinates":[10.092888,53.652527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135636465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.394461,51.357964,12.394461,51.357964",
     "geom:latitude":51.357964,
     "geom:longitude":12.394461,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 83",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135636465,
-    "wof:lastmodified":1449022199,
+    "wof:lastmodified":1466240550,
     "wof:name":"Elg Bau Leipzig Eg Eink. - Und Liefergen. Des Bauhandw. Fh",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.394461,51.357964,12.394461,51.357964],
+  "bbox": [
+    12.394461,
+    51.357964,
+    12.394461,
+    51.357964
+],
   "geometry": {"coordinates":[12.394461,51.357964],"type":"Point"}
 }

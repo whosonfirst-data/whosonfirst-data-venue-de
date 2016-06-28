@@ -2,13 +2,14 @@
   "id": 253355269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.789548,48.060356,8.789548,48.060356",
     "geom:latitude":48.060356,
     "geom:longitude":8.789548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 63",
     "sg:city":"D\u00fcrbheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253355269,
-    "wof:lastmodified":1449063641,
+    "wof:lastmodified":1466225975,
     "wof:name":"Johann Keller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.789548,48.060356,8.789548,48.060356],
+  "bbox": [
+    8.789548,
+    48.060356,
+    8.789548,
+    48.060356
+],
   "geometry": {"coordinates":[8.789548,48.060356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118791507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.826499,53.569111,9.826499,53.569111",
     "geom:latitude":53.569111,
     "geom:longitude":9.826499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holtkamp 5",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899581,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118791507,
-    "wof:lastmodified":1449054237,
+    "wof:lastmodified":1466229254,
     "wof:name":"Hansa Verm\u00f6gensberatungs- Gmbh",
     "wof:parent_id":85899581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.826499,53.569111,9.826499,53.569111],
+  "bbox": [
+    9.826499,
+    53.569111,
+    9.826499,
+    53.569111
+],
   "geometry": {"coordinates":[9.826499,53.569111],"type":"Point"}
 }

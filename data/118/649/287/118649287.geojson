@@ -2,13 +2,14 @@
   "id": 118649287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.31173,52.461575,13.31173,52.461575",
     "geom:latitude":52.461575,
     "geom:longitude":13.31173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulsenstr. 5-6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118649287,
-    "wof:lastmodified":1449054093,
+    "wof:lastmodified":1466221064,
     "wof:name":"Sophien-krankenheim",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.31173,52.461575,13.31173,52.461575],
+  "bbox": [
+    13.31173,
+    52.461575,
+    13.31173,
+    52.461575
+],
   "geometry": {"coordinates":[13.31173,52.461575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119444413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.741302,50.128864,8.741302,50.128864",
     "geom:latitude":50.128864,
     "geom:longitude":8.741302,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sontraer Str. 18",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
-        85795451
+        85633111,
+        85795451,
+        102063589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119444413,
-    "wof:lastmodified":1449043165,
+    "wof:lastmodified":1466242434,
     "wof:name":"Bvw Rollgitterbau Gmbh Nachf. Gk Kimmich",
     "wof:parent_id":85795451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.741302,50.128864,8.741302,50.128864],
+  "bbox": [
+    8.741302,
+    50.128864,
+    8.741302,
+    50.128864
+],
   "geometry": {"coordinates":[8.741302,50.128864],"type":"Point"}
 }

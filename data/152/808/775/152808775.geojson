@@ -2,13 +2,14 @@
   "id": 152808775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.042129,49.454842,11.042129,49.454842",
     "geom:latitude":49.454842,
     "geom:longitude":11.042129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"murrstrasse 3",
     "sg:city":"n\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899667,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152808775,
-    "wof:lastmodified":1449044517,
+    "wof:lastmodified":1466227255,
     "wof:name":"Etone Webdesign Und Internetagentur",
     "wof:parent_id":85899667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.042129,49.454842,11.042129,49.454842],
+  "bbox": [
+    11.042129,
+    49.454842,
+    11.042129,
+    49.454842
+],
   "geometry": {"coordinates":[11.042129,49.454842],"type":"Point"}
 }

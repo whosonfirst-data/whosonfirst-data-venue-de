@@ -2,13 +2,14 @@
   "id": 135689747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.797771,52.446205,10.797771,52.446205",
     "geom:latitude":52.446205,
     "geom:longitude":10.797771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Tiergartenbreite 50",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898953,
+        85682555,
         85633111,
         101748803,
         102063921,
-        85682555
+        85898953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135689747,
-    "wof:lastmodified":1449023505,
+    "wof:lastmodified":1466242230,
     "wof:name":"Bausteinhaus Gmbh",
     "wof:parent_id":85898953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.797771,52.446205,10.797771,52.446205],
+  "bbox": [
+    10.797771,
+    52.446205,
+    10.797771,
+    52.446205
+],
   "geometry": {"coordinates":[10.797771,52.446205],"type":"Point"}
 }

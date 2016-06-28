@@ -2,13 +2,14 @@
   "id": 135307529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.853069,50.704746,10.853069,50.704746",
     "geom:latitude":50.704746,
     "geom:longitude":10.853069,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 3",
     "sg:city":"Elgersburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135307529,
-    "wof:lastmodified":1449021776,
+    "wof:lastmodified":1466214413,
     "wof:name":"Peter Reichelt",
     "wof:parent_id":101824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.853069,50.704746,10.853069,50.704746],
+  "bbox": [
+    10.853069,
+    50.704746,
+    10.853069,
+    50.704746
+],
   "geometry": {"coordinates":[10.853069,50.704746],"type":"Point"}
 }

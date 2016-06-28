@@ -2,13 +2,14 @@
   "id": 152696091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.455739,51.320156,9.455739,51.320156",
     "geom:latitude":51.320156,
     "geom:longitude":9.455739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lnische Str. 168",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063755,
-        85633111,
         85682531,
-        85905691
+        85633111,
+        85905691,
+        102063755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152696091,
-    "wof:lastmodified":1449044645,
+    "wof:lastmodified":1466224515,
     "wof:name":"Windpark Eselsberg Verwaltungs Gmbh",
     "wof:parent_id":85905691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.455739,51.320156,9.455739,51.320156],
+  "bbox": [
+    9.455739,
+    51.320156,
+    9.455739,
+    51.320156
+],
   "geometry": {"coordinates":[9.455739,51.320156],"type":"Point"}
 }

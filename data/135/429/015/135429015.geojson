@@ -2,13 +2,14 @@
   "id": 135429015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.25396,48.429611,9.25396,48.429611",
     "geom:latitude":48.429611,
     "geom:longitude":9.25396,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1125:: 72801 Lichtenstein-Unterhause:: Germany.^^Rathausplatz 11::",
     "sg:city":"Lichtenstein-Unterhause",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135429015,
-    "wof:lastmodified":1449023834,
+    "wof:lastmodified":1466225312,
     "wof:name":"Raiffeisenbank Unterhausen-honau Eg",
     "wof:parent_id":101762915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.25396,48.429611,9.25396,48.429611],
+  "bbox": [
+    9.25396,
+    48.429611,
+    9.25396,
+    48.429611
+],
   "geometry": {"coordinates":[9.25396,48.429611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203249657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.874162,48.359222,10.874162,48.359222",
     "geom:latitude":48.359222,
     "geom:longitude":10.874162,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Thoma-Str. 15",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203249657,
-    "wof:lastmodified":1449025049,
+    "wof:lastmodified":1466218032,
     "wof:name":"Erich Heiser",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.874162,48.359222,10.874162,48.359222],
+  "bbox": [
+    10.874162,
+    48.359222,
+    10.874162,
+    48.359222
+],
   "geometry": {"coordinates":[10.874162,48.359222],"type":"Point"}
 }

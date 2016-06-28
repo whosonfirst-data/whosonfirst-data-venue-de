@@ -2,13 +2,14 @@
   "id": 136087945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.622375,40.348873,-89.622375,40.348873",
     "geom:latitude":40.348873,
     "geom:longitude":-89.622375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Bumsberg 6",
     "sg:city":"Reit im Winkel",
     "sg:classifiers":[],
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":136087945,
-    "wof:lastmodified":1449075510,
+    "wof:lastmodified":1466216177,
     "wof:name":"Karlis Website",
     "wof:parent_id":85688697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.622375,40.348873,-89.622375,40.348873],
-  "geometry": {"coordinates":[-89.622375,40.348873],"type":"Point"}
+  "bbox": [
+    -89.622375,
+    40.348873,
+    -89.622375,
+    40.348873
+],
+  "geometry": {"coordinates":[-89.62237500000001,40.348873],"type":"Point"}
 }

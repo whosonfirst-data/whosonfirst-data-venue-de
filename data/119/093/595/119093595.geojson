@@ -2,13 +2,14 @@
   "id": 119093595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.555637,48.088882,11.555637,48.088882",
     "geom:latitude":48.088882,
     "geom:longitude":11.555637,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geiselgasteigstr. 48",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899261,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119093595,
-    "wof:lastmodified":1449040885,
+    "wof:lastmodified":1466219437,
     "wof:name":"Manfred M\u00fcnnichhausen Architekt",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.555637,48.088882,11.555637,48.088882],
+  "bbox": [
+    11.555637,
+    48.088882,
+    11.555637,
+    48.088882
+],
   "geometry": {"coordinates":[11.555637,48.088882],"type":"Point"}
 }

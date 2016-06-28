@@ -2,13 +2,14 @@
   "id": 270081541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.499842,52.251129,10.499842,52.251129",
     "geom:latitude":52.251129,
     "geom:longitude":10.499842,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcchnerstr. 15",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270081541,
-    "wof:lastmodified":1449009372,
+    "wof:lastmodified":1466223289,
     "wof:name":"Tomas Liebig",
     "wof:parent_id":85905753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.499842,52.251129,10.499842,52.251129],
+  "bbox": [
+    10.499842,
+    52.251129,
+    10.499842,
+    52.251129
+],
   "geometry": {"coordinates":[10.499842,52.251129],"type":"Point"}
 }

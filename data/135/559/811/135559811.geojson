@@ -2,13 +2,14 @@
   "id": 135559811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.188053,53.387413,10.188053,53.387413",
     "geom:latitude":53.387413,
     "geom:longitude":10.188053,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hoopter Str. 250",
     "sg:city":"Winsen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064053,
-        85633111,
         85682505,
-        85900281
+        85633111,
+        85900281,
+        102064053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135559811,
-    "wof:lastmodified":1449023366,
+    "wof:lastmodified":1466236480,
     "wof:name":"Baugesch\u00e4ft Ruschmeyer Inh. Gertrud Ruschmeyer E. K.",
     "wof:parent_id":85900281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.188053,53.387413,10.188053,53.387413],
+  "bbox": [
+    10.188053,
+    53.387413,
+    10.188053,
+    53.387413
+],
   "geometry": {"coordinates":[10.188053,53.387413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119183965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.716377,50.113152,8.716377,50.113152",
     "geom:latitude":50.113152,
     "geom:longitude":8.716377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hanauer Landstr. 175-179",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119183965,
-    "wof:lastmodified":1449042279,
+    "wof:lastmodified":1466227299,
     "wof:name":"Vertical.net Gmbh",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.716377,50.113152,8.716377,50.113152],
+  "bbox": [
+    8.716377,
+    50.113152,
+    8.716377,
+    50.113152
+],
   "geometry": {"coordinates":[8.716377,50.113152],"type":"Point"}
 }

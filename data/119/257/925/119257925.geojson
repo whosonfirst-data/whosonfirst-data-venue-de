@@ -2,13 +2,14 @@
   "id": 119257925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.377773,51.333385,12.377773,51.333385",
     "geom:latitude":51.333385,
     "geom:longitude":12.377773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcnewaldstr. 17",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119257925,
-    "wof:lastmodified":1449041554,
+    "wof:lastmodified":1466234413,
     "wof:name":"Dr. Med. Dagnar P\u00f6nisch",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.377773,51.333385,12.377773,51.333385],
+  "bbox": [
+    12.377773,
+    51.333385,
+    12.377773,
+    51.333385
+],
   "geometry": {"coordinates":[12.377773,51.333385],"type":"Point"}
 }

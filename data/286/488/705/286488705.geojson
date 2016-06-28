@@ -2,13 +2,14 @@
   "id": 286488705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.240558,49.140274,9.240558,49.140274",
     "geom:latitude":49.140274,
     "geom:longitude":9.240558,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00e4gerhausstr. 11",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286488705,
-    "wof:lastmodified":1449018006,
+    "wof:lastmodified":1466229867,
     "wof:name":"Karl Schmich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.240558,49.140274,9.240558,49.140274],
+  "bbox": [
+    9.240558,
+    49.140274,
+    9.240558,
+    49.140274
+],
   "geometry": {"coordinates":[9.240558,49.140274],"type":"Point"}
 }

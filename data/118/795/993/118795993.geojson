@@ -2,13 +2,14 @@
   "id": 118795993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.176813,51.514908,7.176813,51.514908",
     "geom:latitude":51.514908,
     "geom:longitude":7.176813,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 11",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795147,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85795147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118795993,
-    "wof:lastmodified":1449053988,
+    "wof:lastmodified":1466229531,
     "wof:name":"Alte-apotheke Inh. H. Matschke",
     "wof:parent_id":85795147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.176813,51.514908,7.176813,51.514908],
+  "bbox": [
+    7.176813,
+    51.514908,
+    7.176813,
+    51.514908
+],
   "geometry": {"coordinates":[7.176813,51.514908],"type":"Point"}
 }

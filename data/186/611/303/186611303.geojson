@@ -2,13 +2,14 @@
   "id": 186611303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.015365,50.741783,7.015365,50.741783",
     "geom:latitude":50.741783,
     "geom:longitude":7.015365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 44",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186611303,
-    "wof:lastmodified":1449052438,
+    "wof:lastmodified":1466220119,
     "wof:name":"Stein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.015365,50.741783,7.015365,50.741783],
+  "bbox": [
+    7.015365,
+    50.741783,
+    7.015365,
+    50.741783
+],
   "geometry": {"coordinates":[7.015365,50.741783],"type":"Point"}
 }

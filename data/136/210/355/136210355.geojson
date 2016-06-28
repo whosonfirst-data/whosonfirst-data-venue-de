@@ -2,13 +2,14 @@
   "id": 136210355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.273484,51.188259,7.273484,51.188259",
     "geom:latitude":51.188259,
     "geom:longitude":7.273484,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emil-Nohl-Str. 72",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136210355,
-    "wof:lastmodified":1449075357,
+    "wof:lastmodified":1466221796,
     "wof:name":"Gieron",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.273484,51.188259,7.273484,51.188259],
+  "bbox": [
+    7.273484,
+    51.188259,
+    7.273484,
+    51.188259
+],
   "geometry": {"coordinates":[7.273484,51.188259],"type":"Point"}
 }

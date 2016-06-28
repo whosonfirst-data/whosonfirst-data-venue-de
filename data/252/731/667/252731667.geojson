@@ -2,13 +2,14 @@
   "id": 252731667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.196511,49.418808,11.196511,49.418808",
     "geom:latitude":49.418808,
     "geom:longitude":11.196511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischbacher Hauptstr. 221",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252731667,
-    "wof:lastmodified":1449006391,
+    "wof:lastmodified":1466219544,
     "wof:name":"Hans Buchner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.196511,49.418808,11.196511,49.418808],
+  "bbox": [
+    11.196511,
+    49.418808,
+    11.196511,
+    49.418808
+],
   "geometry": {"coordinates":[11.196511,49.418808],"type":"Point"}
 }

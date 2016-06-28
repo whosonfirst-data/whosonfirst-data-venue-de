@@ -2,13 +2,14 @@
   "id": 118935661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.394264,49.421555,8.394264,49.421555",
     "geom:latitude":49.421555,
     "geom:longitude":8.394264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Speyerer Str. 97",
     "sg:city":"Limburgerhof",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796279,
+        85682491,
         85633111,
         101815675,
         102063479,
-        85682491
+        85796279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118935661,
-    "wof:lastmodified":1449054309,
+    "wof:lastmodified":1466237210,
     "wof:name":"Sonnen-apotheke Clemens Konrad E. K.",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.394264,49.421555,8.394264,49.421555],
+  "bbox": [
+    8.394264,
+    49.421555,
+    8.394264,
+    49.421555
+],
   "geometry": {"coordinates":[8.394264,49.421555],"type":"Point"}
 }

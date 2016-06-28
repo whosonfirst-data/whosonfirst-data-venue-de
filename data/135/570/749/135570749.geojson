@@ -2,13 +2,14 @@
   "id": 135570749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.389697,52.421486,13.389697,52.421486",
     "geom:latitude":52.421486,
     "geom:longitude":13.389697,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirzerweg 147",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135570749,
-    "wof:lastmodified":1449022812,
+    "wof:lastmodified":1466237293,
     "wof:name":"Datum Bau Gmbh",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.389697,52.421486,13.389697,52.421486],
+  "bbox": [
+    13.389697,
+    52.421486,
+    13.389697,
+    52.421486
+],
   "geometry": {"coordinates":[13.389697,52.421486],"type":"Point"}
 }

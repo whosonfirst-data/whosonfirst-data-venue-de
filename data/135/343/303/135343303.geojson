@@ -2,13 +2,14 @@
   "id": 135343303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.427833,49.462894,8.427833,49.462894",
     "geom:latitude":49.462894,
     "geom:longitude":8.427833,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberstr. 14",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135343303,
-    "wof:lastmodified":1449023144,
+    "wof:lastmodified":1466217446,
     "wof:name":"G. Dillenburg",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.427833,49.462894,8.427833,49.462894],
+  "bbox": [
+    8.427833,
+    49.462894,
+    8.427833,
+    49.462894
+],
   "geometry": {"coordinates":[8.427833,49.462894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303050861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.048493,50.627899,7.048493,50.627899",
     "geom:latitude":50.627899,
     "geom:longitude":7.048493,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Planck-Str. 49",
     "sg:city":"Meckenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303050861,
-    "wof:lastmodified":1448999469,
+    "wof:lastmodified":1466225777,
     "wof:name":"Wolfgang Fehlberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.048493,50.627899,7.048493,50.627899],
+  "bbox": [
+    7.048493,
+    50.627899,
+    7.048493,
+    50.627899
+],
   "geometry": {"coordinates":[7.048493,50.627899],"type":"Point"}
 }

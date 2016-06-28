@@ -2,13 +2,14 @@
   "id": 286309087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.980946,50.972588,10.980946,50.972588",
     "geom:latitude":50.972588,
     "geom:longitude":10.980946,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kreuzchen 41",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286309087,
-    "wof:lastmodified":1449015826,
+    "wof:lastmodified":1466225721,
     "wof:name":"Fritz Walter",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.980946,50.972588,10.980946,50.972588],
+  "bbox": [
+    10.980946,
+    50.972588,
+    10.980946,
+    50.972588
+],
   "geometry": {"coordinates":[10.980946,50.972588],"type":"Point"}
 }

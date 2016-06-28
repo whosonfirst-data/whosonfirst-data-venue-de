@@ -2,13 +2,14 @@
   "id": 203343599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.343001,49.966145,8.343001,49.966145",
     "geom:latitude":49.966145,
     "geom:longitude":8.343001,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 24",
     "sg:city":"Ginsheim-Gustavsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203343599,
-    "wof:lastmodified":1449026313,
+    "wof:lastmodified":1466219555,
     "wof:name":"Fritz Rauch Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.343001,49.966145,8.343001,49.966145],
+  "bbox": [
+    8.343001,
+    49.966145,
+    8.343001,
+    49.966145
+],
   "geometry": {"coordinates":[8.343001,49.966145],"type":"Point"}
 }

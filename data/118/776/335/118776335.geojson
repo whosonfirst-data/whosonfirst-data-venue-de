@@ -2,13 +2,14 @@
   "id": 118776335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.287912,52.682781,13.287912,52.682781",
     "geom:latitude":52.682781,
     "geom:longitude":13.287912,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fchlsdorfer Str. 25",
     "sg:city":"Hohen Neuendorf",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063995,
-        85633111,
         85682553,
-        85907699
+        85633111,
+        85907699,
+        102063995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118776335,
-    "wof:lastmodified":1449053455,
+    "wof:lastmodified":1466228315,
     "wof:name":"Atropos Michael \u00d6hl",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.287912,52.682781,13.287912,52.682781],
+  "bbox": [
+    13.287912,
+    52.682781,
+    13.287912,
+    52.682781
+],
   "geometry": {"coordinates":[13.287912,52.682781],"type":"Point"}
 }

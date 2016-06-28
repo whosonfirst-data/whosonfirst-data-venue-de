@@ -2,13 +2,14 @@
   "id": 118656043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65088,51.530922,7.65088,51.530922",
     "geom:latitude":51.530922,
     "geom:longitude":7.65088,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Roonstr. 2a",
     "sg:city":"Unna",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796731,
+        85682513,
         85633111,
         101748733,
         102063823,
-        85682513
+        85796731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118656043,
-    "wof:lastmodified":1449054057,
+    "wof:lastmodified":1466221407,
     "wof:name":"Elke Kurpas Seniorenpflegeheim",
     "wof:parent_id":85796731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65088,51.530922,7.65088,51.530922],
+  "bbox": [
+    7.65088,
+    51.530922,
+    7.65088,
+    51.530922
+],
   "geometry": {"coordinates":[7.65088,51.530922],"type":"Point"}
 }

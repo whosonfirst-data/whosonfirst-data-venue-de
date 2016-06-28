@@ -2,13 +2,14 @@
   "id": 118512551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.16383,50.74966,6.16383,50.74966",
     "geom:latitude":50.74966,
     "geom:longitude":6.16383,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Aachen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,10 +17,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85795237
+        85633111,
+        85795237,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":118512551,
-    "wof:lastmodified":1449054159,
+    "wof:lastmodified":1466213092,
     "wof:name":"Die Inoffizielle Formel 1 Seite",
     "wof:parent_id":85795237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.16383,50.74966,6.16383,50.74966],
+  "bbox": [
+    6.16383,
+    50.74966,
+    6.16383,
+    50.74966
+],
   "geometry": {"coordinates":[6.16383,50.74966],"type":"Point"}
 }

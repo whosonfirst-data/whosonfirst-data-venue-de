@@ -2,13 +2,14 @@
   "id": 136006699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.82226,51.23399,6.82226,51.23399",
     "geom:latitude":51.23399,
     "geom:longitude":6.82226,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schl\u00fcterstr. 41",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136006699,
-    "wof:lastmodified":1449075966,
+    "wof:lastmodified":1466221028,
     "wof:name":"Mdh Tertius Verm\u00f6gens- Verwaltung Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.82226,51.23399,6.82226,51.23399],
+  "bbox": [
+    6.82226,
+    51.23399,
+    6.82226,
+    51.23399
+],
   "geometry": {"coordinates":[6.82226,51.23399],"type":"Point"}
 }

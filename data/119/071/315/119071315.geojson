@@ -2,13 +2,14 @@
   "id": 119071315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.059099,53.632759,10.059099,53.632759",
     "geom:latitude":53.632759,
     "geom:longitude":10.059099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siriusweg 41",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898949,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119071315,
-    "wof:lastmodified":1449042548,
+    "wof:lastmodified":1466217410,
     "wof:name":"J\u00fcrgen M\u00e4hlmann Architekt",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.059099,53.632759,10.059099,53.632759],
+  "bbox": [
+    10.059099,
+    53.632759,
+    10.059099,
+    53.632759
+],
   "geometry": {"coordinates":[10.059099,53.632759],"type":"Point"}
 }

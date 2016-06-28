@@ -2,13 +2,14 @@
   "id": 118796309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.98168,47.839298,12.98168,47.839298",
     "geom:latitude":47.839298,
     "geom:longitude":12.98168,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 14",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118796309,
-    "wof:lastmodified":1449053803,
+    "wof:lastmodified":1466229548,
     "wof:name":"Amadeus-apotheke",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.98168,47.839298,12.98168,47.839298],
+  "bbox": [
+    12.98168,
+    47.839298,
+    12.98168,
+    47.839298
+],
   "geometry": {"coordinates":[12.98168,47.839298],"type":"Point"}
 }

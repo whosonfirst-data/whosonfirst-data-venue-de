@@ -2,13 +2,14 @@
   "id": 119142911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.996869,49.240723,6.996869,49.240723",
     "geom:latitude":49.240723,
     "geom:longitude":6.996869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ursulinenstr. 55",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862841,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119142911,
-    "wof:lastmodified":1449042973,
+    "wof:lastmodified":1466223454,
     "wof:name":"Ulrike Bandel-dieudonne & R. Dieudonne",
     "wof:parent_id":85862841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.996869,49.240723,6.996869,49.240723],
+  "bbox": [
+    6.996869,
+    49.240723,
+    6.996869,
+    49.240723
+],
   "geometry": {"coordinates":[6.996869,49.240723],"type":"Point"}
 }

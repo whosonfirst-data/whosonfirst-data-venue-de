@@ -2,13 +2,14 @@
   "id": 118961695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.96803,53.669319,9.96803,53.669319",
     "geom:latitude":53.669319,
     "geom:longitude":9.96803,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An'n Slagboom 51",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899181,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118961695,
-    "wof:lastmodified":1449054495,
+    "wof:lastmodified":1466238184,
     "wof:name":"Ib&t Gmbh",
     "wof:parent_id":85899181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.96803,53.669319,9.96803,53.669319],
+  "bbox": [
+    9.96803,
+    53.669319,
+    9.96803,
+    53.669319
+],
   "geometry": {"coordinates":[9.96803,53.669319],"type":"Point"}
 }

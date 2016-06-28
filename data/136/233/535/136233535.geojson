@@ -2,13 +2,14 @@
   "id": 136233535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.92855,53.552086,9.92855,53.552086",
     "geom:latitude":53.552086,
     "geom:longitude":9.92855,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ottenser Hauptstr. 40",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136233535,
-    "wof:lastmodified":1449076290,
+    "wof:lastmodified":1466223205,
     "wof:name":"Linda Schroeder",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.92855,53.552086,9.92855,53.552086],
+  "bbox": [
+    9.92855,
+    53.552086,
+    9.92855,
+    53.552086
+],
   "geometry": {"coordinates":[9.92855,53.552086],"type":"Point"}
 }

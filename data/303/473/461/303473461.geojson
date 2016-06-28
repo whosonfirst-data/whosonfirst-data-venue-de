@@ -2,13 +2,14 @@
   "id": 303473461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.328109,52.524338,13.328109,52.524338",
     "geom:latitude":52.524338,
     "geom:longitude":13.328109,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alt-Moabit 57",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303473461,
-    "wof:lastmodified":1448998623,
+    "wof:lastmodified":1466236315,
     "wof:name":"Raul B. Hensel",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.328109,52.524338,13.328109,52.524338],
+  "bbox": [
+    13.328109,
+    52.524338,
+    13.328109,
+    52.524338
+],
   "geometry": {"coordinates":[13.328109,52.524338],"type":"Point"}
 }

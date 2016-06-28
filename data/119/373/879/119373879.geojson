@@ -2,13 +2,14 @@
   "id": 119373879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.011188,53.614647,10.011188,53.614647",
     "geom:latitude":53.614647,
     "geom:longitude":10.011188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Brabandkanal 20",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898947,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119373879,
-    "wof:lastmodified":1449042213,
+    "wof:lastmodified":1466240741,
     "wof:name":"Rudolf M\u00fcller",
     "wof:parent_id":85898947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.011188,53.614647,10.011188,53.614647],
+  "bbox": [
+    10.011188,
+    53.614647,
+    10.011188,
+    53.614647
+],
   "geometry": {"coordinates":[10.011188,53.614647],"type":"Point"}
 }

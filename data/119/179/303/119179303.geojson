@@ -2,13 +2,14 @@
   "id": 119179303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.352995,49.537392,8.352995,49.537392",
     "geom:latitude":49.537392,
     "geom:longitude":8.352995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schnurgasse 30",
     "sg:city":"Frankenthal",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119179303,
-    "wof:lastmodified":1449043252,
+    "wof:lastmodified":1466226886,
     "wof:name":"Aquarius Engineering Dr. Frank Sand",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.352995,49.537392,8.352995,49.537392],
+  "bbox": [
+    8.352995,
+    49.537392,
+    8.352995,
+    49.537392
+],
   "geometry": {"coordinates":[8.352995,49.537392],"type":"Point"}
 }

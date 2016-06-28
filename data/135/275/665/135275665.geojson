@@ -2,13 +2,14 @@
   "id": 135275665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.44109,50.121338,11.44109,50.121338",
     "geom:latitude":50.121338,
     "geom:longitude":11.44109,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelh\u00fcttener Str. 33",
     "sg:city":"Kulmbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135275665,
-    "wof:lastmodified":1449021979,
+    "wof:lastmodified":1466220866,
     "wof:name":"Hermann Passing",
     "wof:parent_id":101826017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.44109,50.121338,11.44109,50.121338],
+  "bbox": [
+    11.44109,
+    50.121338,
+    11.44109,
+    50.121338
+],
   "geometry": {"coordinates":[11.44109,50.121338],"type":"Point"}
 }

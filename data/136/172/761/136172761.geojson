@@ -2,13 +2,14 @@
   "id": 136172761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.431196,51.375763,12.431196,51.375763",
     "geom:latitude":51.375763,
     "geom:longitude":12.431196,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fl\u00f6haer Str. 2",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136172761,
-    "wof:lastmodified":1449075455,
+    "wof:lastmodified":1466219833,
     "wof:name":"Michael R\u00f6der",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.431196,51.375763,12.431196,51.375763],
+  "bbox": [
+    12.431196,
+    51.375763,
+    12.431196,
+    51.375763
+],
   "geometry": {"coordinates":[12.431196,51.375763],"type":"Point"}
 }

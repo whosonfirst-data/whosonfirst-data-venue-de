@@ -2,13 +2,14 @@
   "id": 118803601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.686577,49.281025,10.686577,49.281025",
     "geom:latitude":49.281025,
     "geom:longitude":10.686577,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windsbacher Str. 1",
     "sg:city":"Lichtenau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118803601,
-    "wof:lastmodified":1449054561,
+    "wof:lastmodified":1466229969,
     "wof:name":"Apotheke Lichtenau",
     "wof:parent_id":101782109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.686577,49.281025,10.686577,49.281025],
+  "bbox": [
+    10.686577,
+    49.281025,
+    10.686577,
+    49.281025
+],
   "geometry": {"coordinates":[10.686577,49.281025],"type":"Point"}
 }

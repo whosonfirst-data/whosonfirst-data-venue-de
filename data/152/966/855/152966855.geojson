@@ -2,13 +2,14 @@
   "id": 152966855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.491245,51.469601,7.491245,51.469601",
     "geom:latitude":51.469601,
     "geom:longitude":7.491245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schleefstra\u00dfe",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795399,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152966855,
-    "wof:lastmodified":1449044323,
+    "wof:lastmodified":1466231023,
     "wof:name":"Tintometer Gmbh - Lovibond",
     "wof:parent_id":85795399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.491245,51.469601,7.491245,51.469601],
+  "bbox": [
+    7.491245,
+    51.469601,
+    7.491245,
+    51.469601
+],
   "geometry": {"coordinates":[7.491245,51.469601],"type":"Point"}
 }

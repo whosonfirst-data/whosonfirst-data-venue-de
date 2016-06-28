@@ -2,13 +2,14 @@
   "id": 303384713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.461499,52.471119,13.461499,52.471119",
     "geom:latitude":52.471119,
     "geom:longitude":13.461499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenallee 252",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303384713,
-    "wof:lastmodified":1448998426,
+    "wof:lastmodified":1466234012,
     "wof:name":"Ursula Gerstner",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.461499,52.471119,13.461499,52.471119],
+  "bbox": [
+    13.461499,
+    52.471119,
+    13.461499,
+    52.471119
+],
   "geometry": {"coordinates":[13.461499,52.471119],"type":"Point"}
 }

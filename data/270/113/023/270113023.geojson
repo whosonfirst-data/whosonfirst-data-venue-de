@@ -2,13 +2,14 @@
   "id": 270113023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.473096,49.774994,8.473096,49.774994",
     "geom:latitude":49.774994,
     "geom:longitude":8.473096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsberger Str. 15",
     "sg:city":"Biebesheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270113023,
-    "wof:lastmodified":1449010893,
+    "wof:lastmodified":1466224039,
     "wof:name":"Carmel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.473096,49.774994,8.473096,49.774994],
+  "bbox": [
+    8.473096,
+    49.774994,
+    8.473096,
+    49.774994
+],
   "geometry": {"coordinates":[8.473096,49.774994],"type":"Point"}
 }

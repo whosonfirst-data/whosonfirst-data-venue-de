@@ -2,13 +2,14 @@
   "id": 270003869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.022496,50.963833,11.022496,50.963833",
     "geom:latitude":50.963833,
     "geom:longitude":11.022496,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herderstr. 27",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270003869,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466221447,
     "wof:name":"K. S. Kraft",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.022496,50.963833,11.022496,50.963833],
+  "bbox": [
+    11.022496,
+    50.963833,
+    11.022496,
+    50.963833
+],
   "geometry": {"coordinates":[11.022496,50.963833],"type":"Point"}
 }

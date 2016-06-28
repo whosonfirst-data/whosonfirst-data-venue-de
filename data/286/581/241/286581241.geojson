@@ -2,13 +2,14 @@
   "id": 286581241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.047586,50.759529,7.047586,50.759529",
     "geom:latitude":50.759529,
     "geom:longitude":7.047586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schickgasse 14 a",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286581241,
-    "wof:lastmodified":1449015791,
+    "wof:lastmodified":1466232131,
     "wof:name":"Richard Fa\u00dfbender",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.047586,50.759529,7.047586,50.759529],
+  "bbox": [
+    7.047586,
+    50.759529,
+    7.047586,
+    50.759529
+],
   "geometry": {"coordinates":[7.047586,50.759529],"type":"Point"}
 }

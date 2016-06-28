@@ -2,13 +2,14 @@
   "id": 152520215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.97919,51.251251,6.97919,51.251251",
     "geom:latitude":51.251251,
     "geom:longitude":6.97919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannes-Flintrop-Str. 8-10",
     "sg:city":"Mettmann",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063761,
-        85633111,
         85682513,
-        85862931
+        85633111,
+        85862931,
+        102063761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152520215,
-    "wof:lastmodified":1449045833,
+    "wof:lastmodified":1466220678,
     "wof:name":"Sharos Gmbh",
     "wof:parent_id":85862931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.97919,51.251251,6.97919,51.251251],
+  "bbox": [
+    6.97919,
+    51.251251,
+    6.97919,
+    51.251251
+],
   "geometry": {"coordinates":[6.97919,51.251251],"type":"Point"}
 }

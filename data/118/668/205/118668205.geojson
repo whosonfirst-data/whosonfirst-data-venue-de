@@ -2,13 +2,14 @@
   "id": 118668205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.768107,51.091747,13.768107,51.091747",
     "geom:latitude":51.091747,
     "geom:longitude":13.768107,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Eisenbahn 6",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906331,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118668205,
-    "wof:lastmodified":1449054119,
+    "wof:lastmodified":1466222078,
     "wof:name":"P. Schulz & Co.",
     "wof:parent_id":85906331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.768107,51.091747,13.768107,51.091747],
+  "bbox": [
+    13.768107,
+    51.091747,
+    13.768107,
+    51.091747
+],
   "geometry": {"coordinates":[13.768107,51.091747],"type":"Point"}
 }

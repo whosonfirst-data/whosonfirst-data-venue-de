@@ -2,13 +2,14 @@
   "id": 135441415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.488576,48.852707,10.488576,48.852707",
     "geom:latitude":48.852707,
     "geom:longitude":10.488576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1531:: 86715 N\u00f6rdlingen:: Germany.^^Bei den Kornschrannen 1::",
     "sg:city":"N\u00f6rdlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135441415,
-    "wof:lastmodified":1449021229,
+    "wof:lastmodified":1466226434,
     "wof:name":"Sparkasse N\u00f6rdlingen",
     "wof:parent_id":101783121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.488576,48.852707,10.488576,48.852707],
+  "bbox": [
+    10.488576,
+    48.852707,
+    10.488576,
+    48.852707
+],
   "geometry": {"coordinates":[10.488576,48.852707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135805381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59292,49.904953,8.59292,49.904953",
     "geom:latitude":49.904953,
     "geom:longitude":8.59292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Baumgartenstr. 23-25",
     "sg:city":"Weiterstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135805381,
-    "wof:lastmodified":1449022012,
+    "wof:lastmodified":1466244096,
     "wof:name":"Leder- Weikert Ohg",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59292,49.904953,8.59292,49.904953],
+  "bbox": [
+    8.59292,
+    49.904953,
+    8.59292,
+    49.904953
+],
   "geometry": {"coordinates":[8.59292,49.904953],"type":"Point"}
 }

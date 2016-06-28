@@ -2,13 +2,14 @@
   "id": 252900161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.685648,52.468479,10.685648,52.468479",
     "geom:latitude":52.468479,
     "geom:longitude":10.685648,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 49",
     "sg:city":"Oslo\u00df",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252900161,
-    "wof:lastmodified":1449005883,
+    "wof:lastmodified":1466222725,
     "wof:name":"Heinrich Hansmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.685648,52.468479,10.685648,52.468479],
+  "bbox": [
+    10.685648,
+    52.468479,
+    10.685648,
+    52.468479
+],
   "geometry": {"coordinates":[10.685648,52.468479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336895599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.35203,51.390041,12.35203,51.390041",
     "geom:latitude":51.390041,
     "geom:longitude":12.35203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwedenstr. 40",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336895599,
-    "wof:lastmodified":1448997402,
+    "wof:lastmodified":1466238579,
     "wof:name":"Henry Ingber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.35203,51.390041,12.35203,51.390041],
+  "bbox": [
+    12.35203,
+    51.390041,
+    12.35203,
+    51.390041
+],
   "geometry": {"coordinates":[12.35203,51.390041],"type":"Point"}
 }

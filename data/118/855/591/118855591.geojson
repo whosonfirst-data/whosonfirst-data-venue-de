@@ -2,13 +2,14 @@
   "id": 118855591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.625384,47.884884,10.625384,47.884884",
     "geom:latitude":47.884884,
     "geom:longitude":10.625384,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugablonzer Str. 31",
     "sg:city":"Kaufbeuren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118855591,
-    "wof:lastmodified":1449054178,
+    "wof:lastmodified":1466233131,
     "wof:name":"Wertach-apotheke",
     "wof:parent_id":101787529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.625384,47.884884,10.625384,47.884884],
+  "bbox": [
+    10.625384,
+    47.884884,
+    10.625384,
+    47.884884
+],
   "geometry": {"coordinates":[10.625384,47.884884],"type":"Point"}
 }

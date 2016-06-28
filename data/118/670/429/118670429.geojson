@@ -2,13 +2,14 @@
   "id": 118670429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.948754,51.370998,6.948754,51.370998",
     "geom:latitude":51.370998,
     "geom:longitude":6.948754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Berns-Str. 1",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796621,
+        85682513,
         85633111,
         101748709,
         102063761,
-        85682513
+        85796621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118670429,
-    "wof:lastmodified":1449053353,
+    "wof:lastmodified":1466222191,
     "wof:name":"Neuheiten Gmbh",
     "wof:parent_id":85796621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.948754,51.370998,6.948754,51.370998],
+  "bbox": [
+    6.948754,
+    51.370998,
+    6.948754,
+    51.370998
+],
   "geometry": {"coordinates":[6.948754,51.370998],"type":"Point"}
 }

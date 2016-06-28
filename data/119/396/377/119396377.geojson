@@ -2,13 +2,14 @@
   "id": 119396377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.615663,51.319405,6.615663,51.319405",
     "geom:latitude":51.319405,
     "geom:longitude":6.615663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bromeledonk 63",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063769,
-        85633111,
         85682513,
-        85862863
+        85633111,
+        85862863,
+        102063769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119396377,
-    "wof:lastmodified":1449042632,
+    "wof:lastmodified":1466241468,
     "wof:name":"Rolladen Fischer Inh. N. Dercks E. K.",
     "wof:parent_id":85862863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.615663,51.319405,6.615663,51.319405],
+  "bbox": [
+    6.615663,
+    51.319405,
+    6.615663,
+    51.319405
+],
   "geometry": {"coordinates":[6.615663,51.319405],"type":"Point"}
 }

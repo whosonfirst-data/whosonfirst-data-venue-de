@@ -2,13 +2,14 @@
   "id": 202486649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.082415,51.391472,7.082415,51.391472",
     "geom:latitude":51.391472,
     "geom:longitude":7.082415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kupferdreher Str. 158",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202486649,
-    "wof:lastmodified":1449061520,
+    "wof:lastmodified":1466215351,
     "wof:name":"Mikus Gmbh",
     "wof:parent_id":85795085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.082415,51.391472,7.082415,51.391472],
+  "bbox": [
+    7.082415,
+    51.391472,
+    7.082415,
+    51.391472
+],
   "geometry": {"coordinates":[7.082415,51.391472],"type":"Point"}
 }

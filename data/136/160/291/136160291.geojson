@@ -2,13 +2,14 @@
   "id": 136160291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.975095,52.133461,9.975095,52.133461",
     "geom:latitude":52.133461,
     "geom:longitude":9.975095,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"MArienburger Platz 22",
     "sg:city":"Hildesheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898935,
+        85682555,
         85633111,
         101748791,
         102063895,
-        85682555
+        85898935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136160291,
-    "wof:lastmodified":1449076041,
+    "wof:lastmodified":1466219281,
     "wof:name":"Universit\u00e4t Hildesheim",
     "wof:parent_id":85898935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.975095,52.133461,9.975095,52.133461],
+  "bbox": [
+    9.975095,
+    52.133461,
+    9.975095,
+    52.133461
+],
   "geometry": {"coordinates":[9.975095,52.133461],"type":"Point"}
 }

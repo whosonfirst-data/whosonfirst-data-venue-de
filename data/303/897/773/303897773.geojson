@@ -2,13 +2,14 @@
   "id": 303897773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.519165,48.671486,9.519165,48.671486",
     "geom:latitude":48.671486,
     "geom:longitude":9.519165,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfwiesenstr. 6",
     "sg:city":"Schlierbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303897773,
-    "wof:lastmodified":1449000162,
+    "wof:lastmodified":1466241118,
     "wof:name":"H. Kick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.519165,48.671486,9.519165,48.671486],
+  "bbox": [
+    9.519165,
+    48.671486,
+    9.519165,
+    48.671486
+],
   "geometry": {"coordinates":[9.519165,48.671486],"type":"Point"}
 }

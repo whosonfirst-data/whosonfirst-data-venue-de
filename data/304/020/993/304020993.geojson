@@ -2,13 +2,14 @@
   "id": 304020993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.104711,53.00919,11.104711,53.00919",
     "geom:latitude":53.00919,
     "geom:longitude":11.104711,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Rott 1",
     "sg:city":"L\u00fcchow",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":304020993,
-    "wof:lastmodified":1449043807,
+    "wof:lastmodified":1466231347,
     "wof:name":"Wendland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.104711,53.00919,11.104711,53.00919],
+  "bbox": [
+    11.104711,
+    53.00919,
+    11.104711,
+    53.00919
+],
   "geometry": {"coordinates":[11.104711,53.00919],"type":"Point"}
 }

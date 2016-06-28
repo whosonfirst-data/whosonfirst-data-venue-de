@@ -2,13 +2,14 @@
   "id": 119008529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.996961,50.960793,6.996961,50.960793",
     "geom:latitude":50.960793,
     "geom:longitude":6.996961,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Deutz-M\u00fclheimer Str. 314",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795597,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119008529,
-    "wof:lastmodified":1449041616,
+    "wof:lastmodified":1466218517,
     "wof:name":"Frank Ellwart Architekt",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.996961,50.960793,6.996961,50.960793],
+  "bbox": [
+    6.996961,
+    50.960793,
+    6.996961,
+    50.960793
+],
   "geometry": {"coordinates":[6.996961,50.960793],"type":"Point"}
 }

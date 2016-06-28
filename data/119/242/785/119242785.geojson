@@ -2,13 +2,14 @@
   "id": 119242785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.33457,52.511353,13.33457,52.511353",
     "geom:latitude":52.511353,
     "geom:longitude":13.33457,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcller-Breslau-Str. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119242785,
-    "wof:lastmodified":1449043218,
+    "wof:lastmodified":1466232903,
     "wof:name":"Techn. Universit\u00e4t Berlin H.-f\u00f6ttinger-inst. F. Thermo-",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.33457,52.511353,13.33457,52.511353],
+  "bbox": [
+    13.33457,
+    52.511353,
+    13.33457,
+    52.511353
+],
   "geometry": {"coordinates":[13.33457,52.511353],"type":"Point"}
 }

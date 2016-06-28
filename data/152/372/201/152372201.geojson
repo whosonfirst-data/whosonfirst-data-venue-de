@@ -2,13 +2,14 @@
   "id": 152372201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.008654,50.396904,11.008654,50.396904",
     "geom:latitude":50.396904,
     "geom:longitude":11.008654,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstr. 2",
     "sg:city":"Schalkau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152372201,
-    "wof:lastmodified":1449047104,
+    "wof:lastmodified":1466217644,
     "wof:name":"Hermann Steiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.008654,50.396904,11.008654,50.396904],
+  "bbox": [
+    11.008654,
+    50.396904,
+    11.008654,
+    50.396904
+],
   "geometry": {"coordinates":[11.008654,50.396904],"type":"Point"}
 }

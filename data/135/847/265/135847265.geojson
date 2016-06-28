@@ -2,13 +2,14 @@
   "id": 135847265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.911087,51.524464,11.911087,51.524464",
     "geom:latitude":51.524464,
     "geom:longitude":11.911087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadelberg 3",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899521,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85899521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135847265,
-    "wof:lastmodified":1449022098,
+    "wof:lastmodified":1466244267,
     "wof:name":"Hartmut Plato",
     "wof:parent_id":85899521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.911087,51.524464,11.911087,51.524464],
+  "bbox": [
+    11.911087,
+    51.524464,
+    11.911087,
+    51.524464
+],
   "geometry": {"coordinates":[11.911087,51.524464],"type":"Point"}
 }

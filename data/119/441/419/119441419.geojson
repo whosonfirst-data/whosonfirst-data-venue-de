@@ -2,13 +2,14 @@
   "id": 119441419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.626962,52.50518,13.626962,52.50518",
     "geom:latitude":52.50518,
     "geom:longitude":13.626962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsberger Str. 236",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119441419,
-    "wof:lastmodified":1449041056,
+    "wof:lastmodified":1466242395,
     "wof:name":"Riexinger T\u00fcrenwerke Gmbh Niederlassung Berlin",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.626962,52.50518,13.626962,52.50518],
+  "bbox": [
+    13.626962,
+    52.50518,
+    13.626962,
+    52.50518
+],
   "geometry": {"coordinates":[13.626962,52.50518],"type":"Point"}
 }

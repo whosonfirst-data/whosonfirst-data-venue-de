@@ -2,13 +2,14 @@
   "id": 303597779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.88513,49.889519,10.88513,49.889519",
     "geom:latitude":49.889519,
     "geom:longitude":10.88513,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrgasse 3",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303597779,
-    "wof:lastmodified":1449000532,
+    "wof:lastmodified":1466238084,
     "wof:name":"Alfred Aumiller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.88513,49.889519,10.88513,49.889519],
+  "bbox": [
+    10.88513,
+    49.889519,
+    10.88513,
+    49.889519
+],
   "geometry": {"coordinates":[10.88513,49.889519],"type":"Point"}
 }

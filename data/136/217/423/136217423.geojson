@@ -2,13 +2,14 @@
   "id": 136217423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.255849,50.435543,12.255849,50.435543",
     "geom:latitude":50.435543,
     "geom:longitude":12.255849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstr. 2",
     "sg:city":"Tirpersdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136217423,
-    "wof:lastmodified":1449076189,
+    "wof:lastmodified":1466222241,
     "wof:name":"Heiner Jacob",
     "wof:parent_id":101825179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.255849,50.435543,12.255849,50.435543],
+  "bbox": [
+    12.255849,
+    50.435543,
+    12.255849,
+    50.435543
+],
   "geometry": {"coordinates":[12.255849,50.435543],"type":"Point"}
 }

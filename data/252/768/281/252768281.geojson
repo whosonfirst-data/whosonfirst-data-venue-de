@@ -2,13 +2,14 @@
   "id": 252768281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.049348,53.545151,10.049348,53.545151",
     "geom:latitude":53.545151,
     "geom:longitude":10.049348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammer Deich 142",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252768281,
-    "wof:lastmodified":1449005827,
+    "wof:lastmodified":1466220234,
     "wof:name":"Robert Timm Gmbh",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.049348,53.545151,10.049348,53.545151],
+  "bbox": [
+    10.049348,
+    53.545151,
+    10.049348,
+    53.545151
+],
   "geometry": {"coordinates":[10.049348,53.545151],"type":"Point"}
 }

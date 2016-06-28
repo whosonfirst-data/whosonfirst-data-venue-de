@@ -2,13 +2,14 @@
   "id": 320267395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.013206,50.867123,13.013206,50.867123",
     "geom:latitude":50.867123,
     "geom:longitude":13.013206,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Str. 17",
     "sg:city":"Braunsdorf",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320267395,
-    "wof:lastmodified":1449014628,
+    "wof:lastmodified":1466238460,
     "wof:name":"Christian Matzke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.013206,50.867123,13.013206,50.867123],
+  "bbox": [
+    13.013206,
+    50.867123,
+    13.013206,
+    50.867123
+],
   "geometry": {"coordinates":[13.013206,50.867123],"type":"Point"}
 }

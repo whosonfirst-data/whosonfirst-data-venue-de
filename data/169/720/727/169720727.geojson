@@ -2,13 +2,14 @@
   "id": 169720727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.359076,51.33477,12.359076,51.33477",
     "geom:latitude":51.33477,
     "geom:longitude":12.359076,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marschnerstr. 2",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169720727,
-    "wof:lastmodified":1449033481,
+    "wof:lastmodified":1466213150,
     "wof:name":"Iris Wessel",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.359076,51.33477,12.359076,51.33477],
+  "bbox": [
+    12.359076,
+    51.33477,
+    12.359076,
+    51.33477
+],
   "geometry": {"coordinates":[12.359076,51.33477],"type":"Point"}
 }

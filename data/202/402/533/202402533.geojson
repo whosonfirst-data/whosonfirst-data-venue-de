@@ -2,13 +2,14 @@
   "id": 202402533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.335412,52.197304,8.335412,52.197304",
     "geom:latitude":52.197304,
     "geom:longitude":8.335412,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Engelgarten 4",
     "sg:city":"Melle",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202402533,
-    "wof:lastmodified":1449060924,
+    "wof:lastmodified":1466213815,
     "wof:name":"Walter Schievink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.335412,52.197304,8.335412,52.197304],
+  "bbox": [
+    8.335412,
+    52.197304,
+    8.335412,
+    52.197304
+],
   "geometry": {"coordinates":[8.335412,52.197304],"type":"Point"}
 }

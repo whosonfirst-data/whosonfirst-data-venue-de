@@ -2,13 +2,14 @@
   "id": 135679895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.130703,50.72514,7.130703,50.72514",
     "geom:latitude":50.72514,
     "geom:longitude":7.130703,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elsa-Br\u00e4ndstr\u00f6m-Str. 119",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794887,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85794887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135679895,
-    "wof:lastmodified":1449022954,
+    "wof:lastmodified":1466241921,
     "wof:name":"Sims System Montage Service Inh. Hans-joachim Biernatzki",
     "wof:parent_id":85794887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.130703,50.72514,7.130703,50.72514],
+  "bbox": [
+    7.130703,
+    50.72514,
+    7.130703,
+    50.72514
+],
   "geometry": {"coordinates":[7.130703,50.72514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119273401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.616096,52.499691,13.616096,52.499691",
     "geom:latitude":52.499691,
     "geom:longitude":13.616096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6beler Weg 15",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119273401,
-    "wof:lastmodified":1449042220,
+    "wof:lastmodified":1466235862,
     "wof:name":"Prof. Dr. F. Sartorius",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.616096,52.499691,13.616096,52.499691],
+  "bbox": [
+    13.616096,
+    52.499691,
+    13.616096,
+    52.499691
+],
   "geometry": {"coordinates":[13.616096,52.499691],"type":"Point"}
 }

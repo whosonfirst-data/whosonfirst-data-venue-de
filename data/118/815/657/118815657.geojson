@@ -2,13 +2,14 @@
   "id": 118815657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.121556,50.833862,6.121556,50.833862",
     "geom:latitude":50.833862,
     "geom:longitude":6.121556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bardenberger Str. 46",
     "sg:city":"W\u00fcrselen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862973,
+        85682513,
         85633111,
         101839485,
         102063693,
-        85682513
+        85862973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118815657,
-    "wof:lastmodified":1449053827,
+    "wof:lastmodified":1466230696,
     "wof:name":"Friedrich Gruissem",
     "wof:parent_id":85862973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.121556,50.833862,6.121556,50.833862],
+  "bbox": [
+    6.121556,
+    50.833862,
+    6.121556,
+    50.833862
+],
   "geometry": {"coordinates":[6.121556,50.833862],"type":"Point"}
 }

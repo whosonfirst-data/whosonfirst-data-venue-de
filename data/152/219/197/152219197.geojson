@@ -2,13 +2,14 @@
   "id": 152219197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.510645,51.37149,6.510645,51.37149",
     "geom:latitude":51.37149,
     "geom:longitude":6.510645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krefelder Str. 36",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063769,
-        85633111,
         85682513,
-        85794979
+        85633111,
+        85794979,
+        102063769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152219197,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466214460,
     "wof:name":"Van Elten Gmbh & Co.",
     "wof:parent_id":85794979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.510645,51.37149,6.510645,51.37149],
+  "bbox": [
+    6.510645,
+    51.37149,
+    6.510645,
+    51.37149
+],
   "geometry": {"coordinates":[6.510645,51.37149],"type":"Point"}
 }

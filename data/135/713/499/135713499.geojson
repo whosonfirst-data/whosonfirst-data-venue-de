@@ -2,13 +2,14 @@
   "id": 135713499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.209202,51.134182,7.209202,51.134182",
     "geom:latitude":51.134182,
     "geom:longitude":7.209202,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jahnstr. 25",
     "sg:city":"Wermelskirchen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85795381
+        85633111,
+        85795381,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135713499,
-    "wof:lastmodified":1449023719,
+    "wof:lastmodified":1466242737,
     "wof:name":"Empersmann Bautr\u00e4ger Gmbh",
     "wof:parent_id":85795381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.209202,51.134182,7.209202,51.134182],
+  "bbox": [
+    7.209202,
+    51.134182,
+    7.209202,
+    51.134182
+],
   "geometry": {"coordinates":[7.209202,51.134182],"type":"Point"}
 }

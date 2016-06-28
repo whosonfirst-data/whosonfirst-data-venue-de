@@ -2,13 +2,14 @@
   "id": 135710749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.057787,50.40126,8.057787,50.40126",
     "geom:latitude":50.40126,
     "geom:longitude":8.057787,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 16",
     "sg:city":"Limburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862831,
+        85682531,
         85633111,
         101840081,
         102063643,
-        85682531
+        85862831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135710749,
-    "wof:lastmodified":1449021180,
+    "wof:lastmodified":1466242761,
     "wof:name":"Amadeus Gesellschaft F\u00fcr Wohnungsbau Gmbh",
     "wof:parent_id":85862831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.057787,50.40126,8.057787,50.40126],
+  "bbox": [
+    8.057787,
+    50.40126,
+    8.057787,
+    50.40126
+],
   "geometry": {"coordinates":[8.057787,50.40126],"type":"Point"}
 }

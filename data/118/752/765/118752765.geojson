@@ -2,13 +2,14 @@
   "id": 118752765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.448933,52.477074,13.448933,52.477074",
     "geom:latitude":52.477074,
     "geom:longitude":13.448933,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenallee 174",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928793,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118752765,
-    "wof:lastmodified":1449053372,
+    "wof:lastmodified":1466226935,
     "wof:name":"Goldschmiedemeister Peter Giese",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.448933,52.477074,13.448933,52.477074],
+  "bbox": [
+    13.448933,
+    52.477074,
+    13.448933,
+    52.477074
+],
   "geometry": {"coordinates":[13.448933,52.477074],"type":"Point"}
 }

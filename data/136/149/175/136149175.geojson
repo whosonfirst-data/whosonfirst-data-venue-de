@@ -2,13 +2,14 @@
   "id": 136149175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.870814,53.556026,9.870814,53.556026",
     "geom:latitude":53.556026,
     "geom:longitude":9.870814,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ohnsorgweg 24",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899369,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136149175,
-    "wof:lastmodified":1449074918,
+    "wof:lastmodified":1466218786,
     "wof:name":"Wilhelm Wisser",
     "wof:parent_id":85899369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.870814,53.556026,9.870814,53.556026],
+  "bbox": [
+    9.870814,
+    53.556026,
+    9.870814,
+    53.556026
+],
   "geometry": {"coordinates":[9.870814,53.556026],"type":"Point"}
 }

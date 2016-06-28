@@ -2,13 +2,14 @@
   "id": 152956337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.592102,36.849457,-79.592102,36.849457",
     "geom:latitude":36.849457,
     "geom:longitude":-79.592102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Saiyanz dr",
     "sg:city":"Sayianz World",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"38211",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868197,
+        85688747,
         85633793,
         101728587,
         102083813,
-        85688747
+        85868197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152956337,
-    "wof:lastmodified":1449045092,
+    "wof:lastmodified":1466230744,
     "wof:name":"Sz World,dbz Pics,dbz Music,dbz Movies,dbz Gifs",
     "wof:parent_id":85868197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.592102,36.849457,-79.592102,36.849457],
+  "bbox": [
+    -79.592102,
+    36.849457,
+    -79.592102,
+    36.849457
+],
   "geometry": {"coordinates":[-79.592102,36.849457],"type":"Point"}
 }

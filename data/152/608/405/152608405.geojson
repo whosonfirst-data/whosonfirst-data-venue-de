@@ -2,13 +2,14 @@
   "id": 152608405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.117943,50.033516,8.117943,50.033516",
     "geom:latitude":50.033516,
     "geom:longitude":8.117943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herberstr. 12",
     "sg:city":"Eltville",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063605,
-        85633111,
         85682531,
-        85796457
+        85633111,
+        85796457,
+        102063605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152608405,
-    "wof:lastmodified":1449046290,
+    "wof:lastmodified":1466222678,
     "wof:name":"Sol-3 Verwaltungs Gmbh",
     "wof:parent_id":85796457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.117943,50.033516,8.117943,50.033516],
+  "bbox": [
+    8.117943,
+    50.033516,
+    8.117943,
+    50.033516
+],
   "geometry": {"coordinates":[8.117943,50.033516],"type":"Point"}
 }

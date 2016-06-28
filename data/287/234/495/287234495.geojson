@@ -2,13 +2,14 @@
   "id": 287234495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.23012,47.555679,10.23012,47.555679",
     "geom:latitude":47.555679,
     "geom:longitude":10.23012,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonthofener Str. 53",
     "sg:city":"Immenstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287234495,
-    "wof:lastmodified":1449001542,
+    "wof:lastmodified":1466231275,
     "wof:name":"Burkart Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.23012,47.555679,10.23012,47.555679],
+  "bbox": [
+    10.23012,
+    47.555679,
+    10.23012,
+    47.555679
+],
   "geometry": {"coordinates":[10.23012,47.555679],"type":"Point"}
 }

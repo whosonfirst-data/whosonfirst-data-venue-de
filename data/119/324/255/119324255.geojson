@@ -2,13 +2,14 @@
   "id": 119324255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.75348,51.928326,9.75348,51.928326",
     "geom:latitude":51.928326,
     "geom:longitude":9.75348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellenspringstr. 24",
     "sg:city":"Delligsen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119324255,
-    "wof:lastmodified":1449042413,
+    "wof:lastmodified":1466238753,
     "wof:name":"Hans Ackermann",
     "wof:parent_id":85682555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.75348,51.928326,9.75348,51.928326],
+  "bbox": [
+    9.75348,
+    51.928326,
+    9.75348,
+    51.928326
+],
   "geometry": {"coordinates":[9.75348,51.928326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269572789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.891054,49.891933,10.891054,49.891933",
     "geom:latitude":49.891933,
     "geom:longitude":10.891054,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Str. 36",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269572789,
-    "wof:lastmodified":1449037630,
+    "wof:lastmodified":1466222951,
     "wof:name":"Rodier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.891054,49.891933,10.891054,49.891933],
+  "bbox": [
+    10.891054,
+    49.891933,
+    10.891054,
+    49.891933
+],
   "geometry": {"coordinates":[10.891054,49.891933],"type":"Point"}
 }

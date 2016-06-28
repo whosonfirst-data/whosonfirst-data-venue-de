@@ -2,13 +2,14 @@
   "id": 320224699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.862463,48.32505,11.862463,48.32505",
     "geom:latitude":48.32505,
     "geom:longitude":11.862463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erdinger Str. 24",
     "sg:city":"Oberding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320224699,
-    "wof:lastmodified":1449013985,
+    "wof:lastmodified":1466237732,
     "wof:name":"Martin Stemmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.862463,48.32505,11.862463,48.32505],
+  "bbox": [
+    11.862463,
+    48.32505,
+    11.862463,
+    48.32505
+],
   "geometry": {"coordinates":[11.862463,48.32505],"type":"Point"}
 }

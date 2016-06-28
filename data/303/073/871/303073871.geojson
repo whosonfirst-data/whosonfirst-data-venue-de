@@ -2,13 +2,14 @@
   "id": 303073871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.00779,52.059772,10.00779,52.059772",
     "geom:latitude":52.059772,
     "geom:longitude":10.00779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Horststr. 3",
     "sg:city":"Bad Salzdetfurth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303073871,
-    "wof:lastmodified":1448998457,
+    "wof:lastmodified":1466226347,
     "wof:name":"Karl Lohmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.00779,52.059772,10.00779,52.059772],
+  "bbox": [
+    10.00779,
+    52.059772,
+    10.00779,
+    52.059772
+],
   "geometry": {"coordinates":[10.00779,52.059772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135514029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.320991,49.429619,8.320991,49.429619",
     "geom:latitude":49.429619,
     "geom:longitude":8.320991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedstr. 4",
     "sg:city":"Dannstadt-Schauernheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063479,
-        85633111,
         85682491,
-        85795945
+        85633111,
+        85795945,
+        102063479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135514029,
-    "wof:lastmodified":1449022533,
+    "wof:lastmodified":1466232899,
     "wof:name":"Ega Elektrotechnik Gmbh",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.320991,49.429619,8.320991,49.429619],
+  "bbox": [
+    8.320991,
+    49.429619,
+    8.320991,
+    49.429619
+],
   "geometry": {"coordinates":[8.320991,49.429619],"type":"Point"}
 }

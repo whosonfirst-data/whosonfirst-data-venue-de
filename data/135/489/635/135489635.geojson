@@ -2,13 +2,14 @@
   "id": 135489635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.756187,50.816826,8.756187,50.816826",
     "geom:latitude":50.816826,
     "geom:longitude":8.756187,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Haustatt 15",
     "sg:city":"Marburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135489635,
-    "wof:lastmodified":1449022657,
+    "wof:lastmodified":1466230693,
     "wof:name":"Dr. K. Keuchel",
     "wof:parent_id":101748615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.756187,50.816826,8.756187,50.816826],
+  "bbox": [
+    8.756187,
+    50.816826,
+    8.756187,
+    50.816826
+],
   "geometry": {"coordinates":[8.756187,50.816826],"type":"Point"}
 }

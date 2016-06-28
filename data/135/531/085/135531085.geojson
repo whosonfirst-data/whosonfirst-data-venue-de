@@ -2,13 +2,14 @@
   "id": 135531085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.154607,48.829945,9.154607,48.829945",
     "geom:latitude":48.829945,
     "geom:longitude":9.154607,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marconistr. 64 b",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135531085,
-    "wof:lastmodified":1449021694,
+    "wof:lastmodified":1466234473,
     "wof:name":"Nack Bau Gmbh",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.154607,48.829945,9.154607,48.829945],
+  "bbox": [
+    9.154607,
+    48.829945,
+    9.154607,
+    48.829945
+],
   "geometry": {"coordinates":[9.154607,48.829945],"type":"Point"}
 }

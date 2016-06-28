@@ -2,13 +2,14 @@
   "id": 220039501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.374874,51.339828,12.374874,51.339828",
     "geom:latitude":51.339828,
     "geom:longitude":12.374874,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markt 17",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220039501,
-    "wof:lastmodified":1449074776,
+    "wof:lastmodified":1466215347,
     "wof:name":"Cafe Corso",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.374874,51.339828,12.374874,51.339828],
+  "bbox": [
+    12.374874,
+    51.339828,
+    12.374874,
+    51.339828
+],
   "geometry": {"coordinates":[12.374874,51.339828],"type":"Point"}
 }

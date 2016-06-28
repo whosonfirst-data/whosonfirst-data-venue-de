@@ -2,13 +2,14 @@
   "id": 203373641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.983575,49.599422,10.983575,49.599422",
     "geom:latitude":49.599422,
     "geom:longitude":10.983575,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schinnererstr. 4",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203373641,
-    "wof:lastmodified":1449025910,
+    "wof:lastmodified":1466220034,
     "wof:name":"Georg Gumler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.983575,49.599422,10.983575,49.599422],
+  "bbox": [
+    10.983575,
+    49.599422,
+    10.983575,
+    49.599422
+],
   "geometry": {"coordinates":[10.983575,49.599422],"type":"Point"}
 }

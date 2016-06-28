@@ -2,13 +2,14 @@
   "id": 135266467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.962164,49.241787,10.962164,49.241787",
     "geom:latitude":49.241787,
     "geom:longitude":10.962164,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 10",
     "sg:city":"Abenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135266467,
-    "wof:lastmodified":1449021067,
+    "wof:lastmodified":1466213161,
     "wof:name":"Hans Maurer",
     "wof:parent_id":101782051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.962164,49.241787,10.962164,49.241787],
+  "bbox": [
+    10.962164,
+    49.241787,
+    10.962164,
+    49.241787
+],
   "geometry": {"coordinates":[10.962164,49.241787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152435219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.82355,48.999329,8.82355,48.999329",
     "geom:latitude":48.999329,
     "geom:longitude":8.82355,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stuttgarter Str. 95",
     "sg:city":"Maulbronn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152435219,
-    "wof:lastmodified":1449048494,
+    "wof:lastmodified":1466218823,
     "wof:name":"O. Kammerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.82355,48.999329,8.82355,48.999329],
+  "bbox": [
+    8.82355,
+    48.999329,
+    8.82355,
+    48.999329
+],
   "geometry": {"coordinates":[8.82355,48.999329],"type":"Point"}
 }

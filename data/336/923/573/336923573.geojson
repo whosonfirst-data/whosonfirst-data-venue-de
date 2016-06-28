@@ -2,13 +2,14 @@
   "id": 336923573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.707033,52.373764,9.707033,52.373764",
     "geom:latitude":52.373764,
     "geom:longitude":9.707033,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmerstr. 50",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336923573,
-    "wof:lastmodified":1448997966,
+    "wof:lastmodified":1466239072,
     "wof:name":"Apollo Studio",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.707033,52.373764,9.707033,52.373764],
+  "bbox": [
+    9.707033,
+    52.373764,
+    9.707033,
+    52.373764
+],
   "geometry": {"coordinates":[9.707033,52.373764],"type":"Point"}
 }

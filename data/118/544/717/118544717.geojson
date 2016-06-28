@@ -2,13 +2,14 @@
   "id": 118544717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.681093,51.931927,7.681093,51.931927",
     "geom:latitude":51.931927,
     "geom:longitude":7.681093,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gremmendorfer Weg 116",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863197,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85863197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118544717,
-    "wof:lastmodified":1449054534,
+    "wof:lastmodified":1466215108,
     "wof:name":"Beyer Sicherheitstechnik Gmbh",
     "wof:parent_id":85863197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.681093,51.931927,7.681093,51.931927],
+  "bbox": [
+    7.681093,
+    51.931927,
+    7.681093,
+    51.931927
+],
   "geometry": {"coordinates":[7.681093,51.931927],"type":"Point"}
 }

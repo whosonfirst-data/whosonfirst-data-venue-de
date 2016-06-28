@@ -2,13 +2,14 @@
   "id": 119368903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.85364,50.980541,13.85364,50.980541",
     "geom:latitude":50.980541,
     "geom:longitude":13.85364,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcterbahnhofstr. 27",
     "sg:city":"Heidenau",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900285,
+        85682523,
         85633111,
         101755853,
         102064217,
-        85682523
+        85900285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119368903,
-    "wof:lastmodified":1449041426,
+    "wof:lastmodified":1466240768,
     "wof:name":"R. Pohlink",
     "wof:parent_id":85900285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.85364,50.980541,13.85364,50.980541],
+  "bbox": [
+    13.85364,
+    50.980541,
+    13.85364,
+    50.980541
+],
   "geometry": {"coordinates":[13.85364,50.980541],"type":"Point"}
 }

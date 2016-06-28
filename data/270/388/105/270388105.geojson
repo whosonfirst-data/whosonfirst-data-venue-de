@@ -2,13 +2,14 @@
   "id": 270388105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.396649,51.346165,12.396649,51.346165",
     "geom:latitude":51.346165,
     "geom:longitude":12.396649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenbahnstr. 13",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270388105,
-    "wof:lastmodified":1449008765,
+    "wof:lastmodified":1466230742,
     "wof:name":"Runtime Socco Gmbh",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.396649,51.346165,12.396649,51.346165],
+  "bbox": [
+    12.396649,
+    51.346165,
+    12.396649,
+    51.346165
+],
   "geometry": {"coordinates":[12.396649,51.346165],"type":"Point"}
 }

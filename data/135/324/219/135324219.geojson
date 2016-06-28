@@ -2,13 +2,14 @@
   "id": 135324219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.569033,52.774349,11.569033,52.774349",
     "geom:latitude":52.774349,
     "geom:longitude":11.569033,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Einwinkler Str. 5",
     "sg:city":"Gladigau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135324219,
-    "wof:lastmodified":1449022784,
+    "wof:lastmodified":1466215862,
     "wof:name":"Walter Schulz",
     "wof:parent_id":101907957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.569033,52.774349,11.569033,52.774349],
+  "bbox": [
+    11.569033,
+    52.774349,
+    11.569033,
+    52.774349
+],
   "geometry": {"coordinates":[11.569033,52.774349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287281189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.560049,48.129044,11.560049,48.129044",
     "geom:latitude":48.129044,
     "geom:longitude":11.560049,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waltherstr. 28",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287281189,
-    "wof:lastmodified":1449001435,
+    "wof:lastmodified":1466232540,
     "wof:name":"H. Lang Dolmetscher",
     "wof:parent_id":85900137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.560049,48.129044,11.560049,48.129044],
+  "bbox": [
+    11.560049,
+    48.129044,
+    11.560049,
+    48.129044
+],
   "geometry": {"coordinates":[11.560049,48.129044],"type":"Point"}
 }

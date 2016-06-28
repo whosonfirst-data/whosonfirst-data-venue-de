@@ -2,13 +2,14 @@
   "id": 202419331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.166835,49.705517,8.166835,49.705517",
     "geom:latitude":49.705517,
     "geom:longitude":8.166835,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 16",
     "sg:city":"Eppelsheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202419331,
-    "wof:lastmodified":1449062587,
+    "wof:lastmodified":1466214106,
     "wof:name":"Willi Meinhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.166835,49.705517,8.166835,49.705517],
+  "bbox": [
+    8.166835,
+    49.705517,
+    8.166835,
+    49.705517
+],
   "geometry": {"coordinates":[8.166835,49.705517],"type":"Point"}
 }

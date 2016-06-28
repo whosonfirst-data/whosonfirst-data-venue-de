@@ -2,13 +2,14 @@
   "id": 119014955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.41712,51.329514,12.41712,51.329514",
     "geom:latitude":51.329514,
     "geom:longitude":12.41712,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oststr. 118",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119014955,
-    "wof:lastmodified":1449042140,
+    "wof:lastmodified":1466224852,
     "wof:name":"G. Schaaf Architekt",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.41712,51.329514,12.41712,51.329514],
+  "bbox": [
+    12.41712,
+    51.329514,
+    12.41712,
+    51.329514
+],
   "geometry": {"coordinates":[12.41712,51.329514],"type":"Point"}
 }

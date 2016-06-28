@@ -2,13 +2,14 @@
   "id": 135652957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.260488,48.364456,12.260488,48.364456",
     "geom:latitude":48.364456,
     "geom:longitude":12.260488,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchbacher Str. 27",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135652957,
-    "wof:lastmodified":1449022960,
+    "wof:lastmodified":1466241180,
     "wof:name":"Anton Schneider",
     "wof:parent_id":101785575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.260488,48.364456,12.260488,48.364456],
+  "bbox": [
+    12.260488,
+    48.364456,
+    12.260488,
+    48.364456
+],
   "geometry": {"coordinates":[12.260488,48.364456],"type":"Point"}
 }

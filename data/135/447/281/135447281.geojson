@@ -2,13 +2,14 @@
   "id": 135447281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.91347,50.316582,11.91347,50.316582",
     "geom:latitude":50.316582,
     "geom:longitude":11.91347,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1660::",
     "sg:city":"Hof",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135447281,
-    "wof:lastmodified":1449023129,
+    "wof:lastmodified":1466226927,
     "wof:name":"Stadt-und Kreissparkasse Hof",
     "wof:parent_id":101841157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.91347,50.316582,11.91347,50.316582],
+  "bbox": [
+    11.91347,
+    50.316582,
+    11.91347,
+    50.316582
+],
   "geometry": {"coordinates":[11.91347,50.316582],"type":"Point"}
 }

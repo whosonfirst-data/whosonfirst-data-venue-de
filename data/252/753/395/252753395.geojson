@@ -2,13 +2,14 @@
   "id": 252753395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.701615,49.3144,10.701615,49.3144",
     "geom:latitude":49.3144,
     "geom:longitude":10.701615,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lichtenauer Str. 5",
     "sg:city":"Petersaurach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252753395,
-    "wof:lastmodified":1449005531,
+    "wof:lastmodified":1466219946,
     "wof:name":"Hans Keim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.701615,49.3144,10.701615,49.3144],
+  "bbox": [
+    10.701615,
+    49.3144,
+    10.701615,
+    49.3144
+],
   "geometry": {"coordinates":[10.701615,49.3144],"type":"Point"}
 }

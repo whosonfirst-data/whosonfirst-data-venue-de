@@ -2,13 +2,14 @@
   "id": 119069013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.111245,48.811989,9.111245,48.811989",
     "geom:latitude":48.811989,
     "geom:longitude":9.111245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thaerstr. 10",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119069013,
-    "wof:lastmodified":1449042560,
+    "wof:lastmodified":1466217201,
     "wof:name":"Julius Schindler Innenarchitekt",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.111245,48.811989,9.111245,48.811989],
+  "bbox": [
+    9.111245,
+    48.811989,
+    9.111245,
+    48.811989
+],
   "geometry": {"coordinates":[9.111245,48.811989],"type":"Point"}
 }

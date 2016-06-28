@@ -2,13 +2,14 @@
   "id": 252768881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.044404,49.840832,12.044404,49.840832",
     "geom:latitude":49.840832,
     "geom:longitude":12.044404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Veit-Str. 14",
     "sg:city":"Erbendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252768881,
-    "wof:lastmodified":1449005827,
+    "wof:lastmodified":1466220246,
     "wof:name":"Hans Reger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.044404,49.840832,12.044404,49.840832],
+  "bbox": [
+    12.044404,
+    49.840832,
+    12.044404,
+    49.840832
+],
   "geometry": {"coordinates":[12.044404,49.840832],"type":"Point"}
 }

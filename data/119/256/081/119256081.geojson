@@ -2,13 +2,14 @@
   "id": 119256081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.053593,53.356976,13.053593,53.356976",
     "geom:latitude":53.356976,
     "geom:longitude":13.053593,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstr. 2",
     "sg:city":"Neustrelitz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119256081,
-    "wof:lastmodified":1449042874,
+    "wof:lastmodified":1466234203,
     "wof:name":"Dr. Joachim Oppermann",
     "wof:parent_id":101818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.053593,53.356976,13.053593,53.356976],
+  "bbox": [
+    13.053593,
+    53.356976,
+    13.053593,
+    53.356976
+],
   "geometry": {"coordinates":[13.053593,53.356976],"type":"Point"}
 }

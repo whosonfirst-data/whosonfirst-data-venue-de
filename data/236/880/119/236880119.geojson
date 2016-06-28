@@ -2,13 +2,14 @@
   "id": 236880119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.649588,54.278645,10.649588,54.278645",
     "geom:latitude":54.278645,
     "geom:longitude":10.649588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blekendorfer Berg 10",
     "sg:city":"Blekendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236880119,
-    "wof:lastmodified":1449005288,
+    "wof:lastmodified":1466235102,
     "wof:name":"Gerhard Brandenburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.649588,54.278645,10.649588,54.278645],
+  "bbox": [
+    10.649588,
+    54.278645,
+    10.649588,
+    54.278645
+],
   "geometry": {"coordinates":[10.649588,54.278645],"type":"Point"}
 }

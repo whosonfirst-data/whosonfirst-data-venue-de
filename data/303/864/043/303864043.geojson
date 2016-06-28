@@ -2,13 +2,14 @@
   "id": 303864043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.508778,52.336864,10.508778,52.336864",
     "geom:latitude":52.336864,
     "geom:longitude":10.508778,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstr. 8",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303864043,
-    "wof:lastmodified":1449000597,
+    "wof:lastmodified":1466240848,
     "wof:name":"Die Bauernstube",
     "wof:parent_id":85900227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.508778,52.336864,10.508778,52.336864],
+  "bbox": [
+    10.508778,
+    52.336864,
+    10.508778,
+    52.336864
+],
   "geometry": {"coordinates":[10.508778,52.336864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119215601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.410258,49.498112,8.410258,49.498112",
     "geom:latitude":49.498112,
     "geom:longitude":8.410258,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luitpoldstr. 62",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795247,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215601,
-    "wof:lastmodified":1449043045,
+    "wof:lastmodified":1466230220,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Gallus",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.410258,49.498112,8.410258,49.498112],
+  "bbox": [
+    8.410258,
+    49.498112,
+    8.410258,
+    49.498112
+],
   "geometry": {"coordinates":[8.410258,49.498112],"type":"Point"}
 }

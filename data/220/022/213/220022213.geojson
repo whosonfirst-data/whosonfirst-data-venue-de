@@ -2,13 +2,14 @@
   "id": 220022213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.261169,50.056732,8.261169,50.056732",
     "geom:latitude":50.056732,
     "geom:longitude":8.261169,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenstr. 26",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220022213,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466215016,
     "wof:name":"Willi Kremer",
     "wof:parent_id":85795955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.261169,50.056732,8.261169,50.056732],
+  "bbox": [
+    8.261169,
+    50.056732,
+    8.261169,
+    50.056732
+],
   "geometry": {"coordinates":[8.261169,50.056732],"type":"Point"}
 }

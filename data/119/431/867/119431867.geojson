@@ -2,13 +2,14 @@
   "id": 119431867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.771424,51.188774,6.771424,51.188774",
     "geom:latitude":51.188774,
     "geom:longitude":6.771424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fleher Str. 307",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795217,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119431867,
-    "wof:lastmodified":1449041193,
+    "wof:lastmodified":1466242433,
     "wof:name":"H-k-t Gmbh",
     "wof:parent_id":85795217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.771424,51.188774,6.771424,51.188774],
+  "bbox": [
+    6.771424,
+    51.188774,
+    6.771424,
+    51.188774
+],
   "geometry": {"coordinates":[6.771424,51.188774],"type":"Point"}
 }

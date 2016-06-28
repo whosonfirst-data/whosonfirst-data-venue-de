@@ -2,13 +2,14 @@
   "id": 118860099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.660729,53.174946,8.660729,53.174946",
     "geom:latitude":53.174946,
     "geom:longitude":8.660729,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unter den Linden 28",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796473,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118860099,
-    "wof:lastmodified":1449053764,
+    "wof:lastmodified":1466233425,
     "wof:name":"Albert-schweitzer-apotheke",
     "wof:parent_id":85796473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.660729,53.174946,8.660729,53.174946],
+  "bbox": [
+    8.660729,
+    53.174946,
+    8.660729,
+    53.174946
+],
   "geometry": {"coordinates":[8.660729,53.174946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152756359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.202406,51.161785,7.202406,51.161785",
     "geom:latitude":51.161785,
     "geom:longitude":7.202406,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Querstr. 13",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85796227
+        85633111,
+        85796227,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152756359,
-    "wof:lastmodified":1449047064,
+    "wof:lastmodified":1466226011,
     "wof:name":"Berner-sennenhunde-zucht Vom Diepmannsbachtal",
     "wof:parent_id":85796227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.202406,51.161785,7.202406,51.161785],
+  "bbox": [
+    7.202406,
+    51.161785,
+    7.202406,
+    51.161785
+],
   "geometry": {"coordinates":[7.202406,51.161785],"type":"Point"}
 }

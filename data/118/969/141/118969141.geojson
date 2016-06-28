@@ -2,13 +2,14 @@
   "id": 118969141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.820421,52.38015,9.820421,52.38015",
     "geom:latitude":52.38015,
     "geom:longitude":9.820421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcdener Weg 30",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899361,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118969141,
-    "wof:lastmodified":1449053480,
+    "wof:lastmodified":1466238405,
     "wof:name":"Ruprecht Dr\u00f6ge Garten- Und Landschafts-",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.820421,52.38015,9.820421,52.38015],
+  "bbox": [
+    9.820421,
+    52.38015,
+    9.820421,
+    52.38015
+],
   "geometry": {"coordinates":[9.820421,52.38015],"type":"Point"}
 }

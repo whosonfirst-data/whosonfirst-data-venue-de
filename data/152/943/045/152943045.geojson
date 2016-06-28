@@ -2,13 +2,14 @@
   "id": 152943045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.44869,43.60574,1.44869,43.60574",
     "geom:latitude":43.60574,
     "geom:longitude":1.44869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"du cul",
     "sg:city":"toulouse",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"31000",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794585,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152943045,
-    "wof:lastmodified":1449045520,
+    "wof:lastmodified":1466230428,
     "wof:name":"Soiffard.com",
     "wof:parent_id":85794585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.44869,43.60574,1.44869,43.60574],
+  "bbox": [
+    1.44869,
+    43.60574,
+    1.44869,
+    43.60574
+],
   "geometry": {"coordinates":[1.44869,43.60574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118505549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.46476,52.515701,13.46476,52.515701",
     "geom:latitude":52.515701,
     "geom:longitude":13.46476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Berlin",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899171,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118505549,
-    "wof:lastmodified":1449054325,
+    "wof:lastmodified":1466230399,
     "wof:name":"B\u00fchnenvertrieb - Theaterst\u00fccke, H\u00f6rspiele Von Igor Kroitzsch",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.46476,52.515701,13.46476,52.515701],
+  "bbox": [
+    13.46476,
+    52.515701,
+    13.46476,
+    52.515701
+],
   "geometry": {"coordinates":[13.46476,52.515701],"type":"Point"}
 }

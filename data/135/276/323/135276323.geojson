@@ -2,13 +2,14 @@
   "id": 135276323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615605,51.49902,7.615605,51.49902",
     "geom:latitude":51.49902,
     "geom:longitude":7.615605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 66",
     "sg:city":"Holzwickede",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796735,
+        85682513,
         85633111,
         101756023,
         102063823,
-        85682513
+        85796735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135276323,
-    "wof:lastmodified":1449021088,
+    "wof:lastmodified":1466221148,
     "wof:name":"Hobergs B\u00e4ckereien Gmbh",
     "wof:parent_id":85796735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615605,51.49902,7.615605,51.49902],
+  "bbox": [
+    7.615605,
+    51.49902,
+    7.615605,
+    51.49902
+],
   "geometry": {"coordinates":[7.615605,51.49902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119383953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.630972,53.752377,10.630972,53.752377",
     "geom:latitude":53.752377,
     "geom:longitude":10.630972,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf dem Sandberg 2",
     "sg:city":"Rondeshagen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119383953,
-    "wof:lastmodified":1449041962,
+    "wof:lastmodified":1466241153,
     "wof:name":"W. Schmidt",
     "wof:parent_id":101908347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.630972,53.752377,10.630972,53.752377],
+  "bbox": [
+    10.630972,
+    53.752377,
+    10.630972,
+    53.752377
+],
   "geometry": {"coordinates":[10.630972,53.752377],"type":"Point"}
 }

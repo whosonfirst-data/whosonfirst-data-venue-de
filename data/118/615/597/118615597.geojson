@@ -2,13 +2,14 @@
   "id": 118615597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.869338,48.336102,10.869338,48.336102",
     "geom:latitude":48.336102,
     "geom:longitude":10.869338,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merweg 50",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899931,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118615597,
-    "wof:lastmodified":1449053589,
+    "wof:lastmodified":1466219152,
     "wof:name":"Altenheim Clemens-h\u00f6gg-haus Der Arbeiterwohlfahrt",
     "wof:parent_id":85899931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.869338,48.336102,10.869338,48.336102],
+  "bbox": [
+    10.869338,
+    48.336102,
+    10.869338,
+    48.336102
+],
   "geometry": {"coordinates":[10.869338,48.336102],"type":"Point"}
 }

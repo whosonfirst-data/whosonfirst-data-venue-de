@@ -2,13 +2,14 @@
   "id": 202460921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.083278,53.483215,10.083278,53.483215",
     "geom:latitude":53.483215,
     "geom:longitude":10.083278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tatenberger Deich 35",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202460921,
-    "wof:lastmodified":1449062508,
+    "wof:lastmodified":1466214876,
     "wof:name":"Willi Und Heiko Behncken",
     "wof:parent_id":85899189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.083278,53.483215,10.083278,53.483215],
+  "bbox": [
+    10.083278,
+    53.483215,
+    10.083278,
+    53.483215
+],
   "geometry": {"coordinates":[10.083278,53.483215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135534761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.10538,51.52541,7.10538,51.52541",
     "geom:latitude":51.52541,
     "geom:longitude":7.10538,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794991,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135534761,
-    "wof:lastmodified":1449021783,
+    "wof:lastmodified":1466234798,
     "wof:name":"Stein- Und Metall-bau Gmbh",
     "wof:parent_id":85794991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.10538,51.52541,7.10538,51.52541],
+  "bbox": [
+    7.10538,
+    51.52541,
+    7.10538,
+    51.52541
+],
   "geometry": {"coordinates":[7.10538,51.52541],"type":"Point"}
 }

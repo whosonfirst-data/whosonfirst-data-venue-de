@@ -2,13 +2,14 @@
   "id": 135311719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.150372,50.002899,9.150372,50.002899",
     "geom:latitude":50.002899,
     "geom:longitude":9.150372,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 56",
     "sg:city":"Glattbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135311719,
-    "wof:lastmodified":1449021685,
+    "wof:lastmodified":1466214778,
     "wof:name":"Robert Bernhard",
     "wof:parent_id":101811817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.150372,50.002899,9.150372,50.002899],
+  "bbox": [
+    9.150372,
+    50.002899,
+    9.150372,
+    50.002899
+],
   "geometry": {"coordinates":[9.150372,50.002899],"type":"Point"}
 }

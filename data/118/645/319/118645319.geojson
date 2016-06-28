@@ -2,13 +2,14 @@
   "id": 118645319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.037294,52.636711,10.037294,52.636711",
     "geom:latitude":52.636711,
     "geom:longitude":10.037294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rolandstr. 6",
     "sg:city":"Celle",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118645319,
-    "wof:lastmodified":1449053289,
+    "wof:lastmodified":1466220836,
     "wof:name":"Wohnpark Rolandstrasse",
     "wof:parent_id":101748827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.037294,52.636711,10.037294,52.636711],
+  "bbox": [
+    10.037294,
+    52.636711,
+    10.037294,
+    52.636711
+],
   "geometry": {"coordinates":[10.037294,52.636711],"type":"Point"}
 }

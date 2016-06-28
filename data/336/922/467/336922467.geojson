@@ -2,13 +2,14 @@
   "id": 336922467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.443819,48.788597,11.443819,48.788597",
     "geom:latitude":48.788597,
     "geom:longitude":11.443819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weckenweg 26",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336922467,
-    "wof:lastmodified":1448997029,
+    "wof:lastmodified":1466239054,
     "wof:name":"Johann Maier",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.443819,48.788597,11.443819,48.788597],
+  "bbox": [
+    11.443819,
+    48.788597,
+    11.443819,
+    48.788597
+],
   "geometry": {"coordinates":[11.443819,48.788597],"type":"Point"}
 }

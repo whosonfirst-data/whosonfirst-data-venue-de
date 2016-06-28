@@ -2,13 +2,14 @@
   "id": 119006819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.612572,50.146801,8.612572,50.146801",
     "geom:latitude":50.146801,
     "geom:longitude":8.612572,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heerstr. 149",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119006819,
-    "wof:lastmodified":1449042982,
+    "wof:lastmodified":1466214520,
     "wof:name":"Eva Hupas Architektin",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.612572,50.146801,8.612572,50.146801],
+  "bbox": [
+    8.612572,
+    50.146801,
+    8.612572,
+    50.146801
+],
   "geometry": {"coordinates":[8.612572,50.146801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118644585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.145226,51.589485,7.145226,51.589485",
     "geom:latitude":51.589485,
     "geom:longitude":7.145226,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Theodor-Fliedner-Weg 6",
     "sg:city":"Herten",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
-        85795495
+        85633111,
+        85795495,
+        102063831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118644585,
-    "wof:lastmodified":1449053951,
+    "wof:lastmodified":1466220794,
     "wof:name":"Theodor-fliedner-heim",
     "wof:parent_id":85795495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.145226,51.589485,7.145226,51.589485],
+  "bbox": [
+    7.145226,
+    51.589485,
+    7.145226,
+    51.589485
+],
   "geometry": {"coordinates":[7.145226,51.589485],"type":"Point"}
 }

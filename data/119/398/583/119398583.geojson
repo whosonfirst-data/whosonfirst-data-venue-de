@@ -2,13 +2,14 @@
   "id": 119398583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435849,51.595772,7.435849,51.595772",
     "geom:latitude":51.595772,
     "geom:longitude":7.435849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mengeder Str. 28",
     "sg:city":"L\u00fcnen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796435,
+        85682513,
         85633111,
         101748737,
         102063823,
-        85682513
+        85796435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119398583,
-    "wof:lastmodified":1449041066,
+    "wof:lastmodified":1466241560,
     "wof:name":"Brocksiepe Kg",
     "wof:parent_id":85796435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435849,51.595772,7.435849,51.595772],
+  "bbox": [
+    7.435849,
+    51.595772,
+    7.435849,
+    51.595772
+],
   "geometry": {"coordinates":[7.435849,51.595772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202860175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.006337,50.036354,12.006337,50.036354",
     "geom:latitude":50.036354,
     "geom:longitude":12.006337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Hacker-Platz 12",
     "sg:city":"Wunsiedel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202860175,
-    "wof:lastmodified":1449061252,
+    "wof:lastmodified":1466222387,
     "wof:name":"Schurig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.006337,50.036354,12.006337,50.036354],
+  "bbox": [
+    12.006337,
+    50.036354,
+    12.006337,
+    50.036354
+],
   "geometry": {"coordinates":[12.006337,50.036354],"type":"Point"}
 }

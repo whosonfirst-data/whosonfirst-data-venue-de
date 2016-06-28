@@ -2,13 +2,14 @@
   "id": 118705255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.280217,51.421001,7.280217,51.421001",
     "geom:latitude":51.421001,
     "geom:longitude":7.280217,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meesmannstr. 74",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795465,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85795465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118705255,
-    "wof:lastmodified":1449054548,
+    "wof:lastmodified":1466224219,
     "wof:name":"Familien- Und Krankenpflege E. V.",
     "wof:parent_id":85795465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.280217,51.421001,7.280217,51.421001],
+  "bbox": [
+    7.280217,
+    51.421001,
+    7.280217,
+    51.421001
+],
   "geometry": {"coordinates":[7.280217,51.421001],"type":"Point"}
 }

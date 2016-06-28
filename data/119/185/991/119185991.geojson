@@ -2,13 +2,14 @@
   "id": 119185991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.686263,51.183067,6.686263,51.183067",
     "geom:latitude":51.183067,
     "geom:longitude":6.686263,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzheimer Weg 42b",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862935,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85862935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119185991,
-    "wof:lastmodified":1449041258,
+    "wof:lastmodified":1466227478,
     "wof:name":"E. Stoschek Ingenieur",
     "wof:parent_id":85862935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.686263,51.183067,6.686263,51.183067],
+  "bbox": [
+    6.686263,
+    51.183067,
+    6.686263,
+    51.183067
+],
   "geometry": {"coordinates":[6.686263,51.183067],"type":"Point"}
 }

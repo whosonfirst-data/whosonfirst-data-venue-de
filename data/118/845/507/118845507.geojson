@@ -2,13 +2,14 @@
   "id": 118845507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.016647,48.400635,10.016647,48.400635",
     "geom:latitude":48.400635,
     "geom:longitude":10.016647,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schubertstr. 1",
     "sg:city":"Neu-Ulm",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118845507,
-    "wof:lastmodified":1449053371,
+    "wof:lastmodified":1466232513,
     "wof:name":"Schubert-apotheke",
     "wof:parent_id":101748487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.016647,48.400635,10.016647,48.400635],
+  "bbox": [
+    10.016647,
+    48.400635,
+    10.016647,
+    48.400635
+],
   "geometry": {"coordinates":[10.016647,48.400635],"type":"Point"}
 }

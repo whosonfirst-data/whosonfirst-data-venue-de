@@ -2,13 +2,14 @@
   "id": 136092601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.777169,52.404949,9.777169,52.404949",
     "geom:latitude":52.404949,
     "geom:longitude":9.777169,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinrichsring 6",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899361,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136092601,
-    "wof:lastmodified":1449075981,
+    "wof:lastmodified":1466216408,
     "wof:name":"Kostenlose Desig - E-cards !",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.777169,52.404949,9.777169,52.404949],
+  "bbox": [
+    9.777169,
+    52.404949,
+    9.777169,
+    52.404949
+],
   "geometry": {"coordinates":[9.777169,52.404949],"type":"Point"}
 }

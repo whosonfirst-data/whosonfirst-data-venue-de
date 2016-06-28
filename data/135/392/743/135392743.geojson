@@ -2,13 +2,14 @@
   "id": 135392743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.42395,48.947788,9.42395,48.947788",
     "geom:latitude":48.947788,
     "geom:longitude":9.42395,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aspacher Str. 51",
     "sg:city":"Backnang",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135392743,
-    "wof:lastmodified":1449023422,
+    "wof:lastmodified":1466222258,
     "wof:name":"Kreissparkasse Backnang",
     "wof:parent_id":101760685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.42395,48.947788,9.42395,48.947788],
+  "bbox": [
+    9.42395,
+    48.947788,
+    9.42395,
+    48.947788
+],
   "geometry": {"coordinates":[9.42395,48.947788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118960733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.106444,50.997314,8.106444,50.997314",
     "geom:latitude":50.997314,
     "geom:longitude":8.106444,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rothenberger Str. 29",
     "sg:city":"Hilchenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118960733,
-    "wof:lastmodified":1449054148,
+    "wof:lastmodified":1466238132,
     "wof:name":"Hermann Weber",
     "wof:parent_id":101755981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.106444,50.997314,8.106444,50.997314],
+  "bbox": [
+    8.106444,
+    50.997314,
+    8.106444,
+    50.997314
+],
   "geometry": {"coordinates":[8.106444,50.997314],"type":"Point"}
 }

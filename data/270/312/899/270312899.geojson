@@ -2,13 +2,14 @@
   "id": 270312899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.12139,49.130947,11.12139,49.130947",
     "geom:latitude":49.130947,
     "geom:longitude":11.12139,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfberger Str. 10",
     "sg:city":"Heideck",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270312899,
-    "wof:lastmodified":1449009873,
+    "wof:lastmodified":1466228733,
     "wof:name":"H. Steib",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.12139,49.130947,11.12139,49.130947],
+  "bbox": [
+    11.12139,
+    49.130947,
+    11.12139,
+    49.130947
+],
   "geometry": {"coordinates":[11.12139,49.130947],"type":"Point"}
 }

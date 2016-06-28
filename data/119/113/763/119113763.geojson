@@ -2,13 +2,14 @@
   "id": 119113763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.126773,49.4673,11.126773,49.4673",
     "geom:latitude":49.4673,
     "geom:longitude":11.126773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstegenstr. 14",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119113763,
-    "wof:lastmodified":1449043312,
+    "wof:lastmodified":1466221369,
     "wof:name":"R. H\u00e4usler Architekt",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.126773,49.4673,11.126773,49.4673],
+  "bbox": [
+    11.126773,
+    49.4673,
+    11.126773,
+    49.4673
+],
   "geometry": {"coordinates":[11.126773,49.4673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136048831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.160452,51.467403,7.160452,51.467403",
     "geom:latitude":51.467403,
     "geom:longitude":7.160452,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Telemannstr.20A",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796583,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136048831,
-    "wof:lastmodified":1449075372,
+    "wof:lastmodified":1466214368,
     "wof:name":"Dirk Retkowski Bernd Schnarr",
     "wof:parent_id":85796583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.160452,51.467403,7.160452,51.467403],
+  "bbox": [
+    7.160452,
+    51.467403,
+    7.160452,
+    51.467403
+],
   "geometry": {"coordinates":[7.160452,51.467403],"type":"Point"}
 }

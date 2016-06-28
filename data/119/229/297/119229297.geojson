@@ -2,13 +2,14 @@
   "id": 119229297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.890108,48.368259,10.890108,48.368259",
     "geom:latitude":48.368259,
     "geom:longitude":10.890108,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Prinzregentenstr. 11 a",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899507,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119229297,
-    "wof:lastmodified":1449042968,
+    "wof:lastmodified":1466231525,
     "wof:name":"Staatliche Beratungsstelle F\u00fcr \u00f6ffentliche B\u00fcchereien",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.890108,48.368259,10.890108,48.368259],
+  "bbox": [
+    10.890108,
+    48.368259,
+    10.890108,
+    48.368259
+],
   "geometry": {"coordinates":[10.890108,48.368259],"type":"Point"}
 }

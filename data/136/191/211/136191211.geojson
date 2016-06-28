@@ -2,13 +2,14 @@
   "id": 136191211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.87112,50.8764,12.87112,50.8764",
     "geom:latitude":50.8764,
     "geom:longitude":12.87112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemnitzer Str. 20",
     "sg:city":"Wittgensdorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900249,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85900249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136191211,
-    "wof:lastmodified":1449075705,
+    "wof:lastmodified":1466220697,
     "wof:name":"Blumenring Einzelhandels Gmbh",
     "wof:parent_id":85900249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.87112,50.8764,12.87112,50.8764],
+  "bbox": [
+    12.87112,
+    50.8764,
+    12.87112,
+    50.8764
+],
   "geometry": {"coordinates":[12.87112,50.8764],"type":"Point"}
 }

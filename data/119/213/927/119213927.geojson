@@ -2,13 +2,14 @@
   "id": 119213927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.903336,51.484898,6.903336,51.484898",
     "geom:latitude":51.484898,
     "geom:longitude":6.903336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leostr. 22",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863073,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119213927,
-    "wof:lastmodified":1449040912,
+    "wof:lastmodified":1466230073,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek Herz Jesu",
     "wof:parent_id":85863073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.903336,51.484898,6.903336,51.484898],
+  "bbox": [
+    6.903336,
+    51.484898,
+    6.903336,
+    51.484898
+],
   "geometry": {"coordinates":[6.903336,51.484898],"type":"Point"}
 }

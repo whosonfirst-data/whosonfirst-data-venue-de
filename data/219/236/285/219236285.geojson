@@ -2,13 +2,14 @@
   "id": 219236285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.145948,54.374081,10.145948,54.374081",
     "geom:latitude":54.374081,
     "geom:longitude":10.145948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctjohannstr. 30",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219236285,
-    "wof:lastmodified":1449070764,
+    "wof:lastmodified":1466215774,
     "wof:name":"Hans Oelrich",
     "wof:parent_id":85900035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.145948,54.374081,10.145948,54.374081],
+  "bbox": [
+    10.145948,
+    54.374081,
+    10.145948,
+    54.374081
+],
   "geometry": {"coordinates":[10.145948,54.374081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119458311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.767519,51.095242,13.767519,51.095242",
     "geom:latitude":51.095242,
     "geom:longitude":13.767519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Manfred-von-Ardenne-Ring 6",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906331,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119458311,
-    "wof:lastmodified":1449042765,
+    "wof:lastmodified":1466242893,
     "wof:name":"Systema Systementwicklung Dipl-inf. Manfred Austen Gmbh",
     "wof:parent_id":85906331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.767519,51.095242,13.767519,51.095242],
+  "bbox": [
+    13.767519,
+    51.095242,
+    13.767519,
+    51.095242
+],
   "geometry": {"coordinates":[13.767519,51.095242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202621049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.170769,50.86063,13.170769,50.86063",
     "geom:latitude":50.86063,
     "geom:longitude":13.170769,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seilergasse 5",
     "sg:city":"Oederan",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202621049,
-    "wof:lastmodified":1449062349,
+    "wof:lastmodified":1466218006,
     "wof:name":"Oederaner Feinbackhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.170769,50.86063,13.170769,50.86063],
+  "bbox": [
+    13.170769,
+    50.86063,
+    13.170769,
+    50.86063
+],
   "geometry": {"coordinates":[13.170769,50.86063],"type":"Point"}
 }

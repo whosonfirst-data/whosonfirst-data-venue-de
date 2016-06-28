@@ -2,13 +2,14 @@
   "id": 269500261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.671478,48.971161,12.671478,48.971161",
     "geom:latitude":48.971161,
     "geom:longitude":12.671478,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Straubinger Str. 62",
     "sg:city":"Mitterfels",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269500261,
-    "wof:lastmodified":1449036752,
+    "wof:lastmodified":1466221301,
     "wof:name":"M. Bergner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.671478,48.971161,12.671478,48.971161],
+  "bbox": [
+    12.671478,
+    48.971161,
+    12.671478,
+    48.971161
+],
   "geometry": {"coordinates":[12.671478,48.971161],"type":"Point"}
 }

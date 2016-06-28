@@ -2,13 +2,14 @@
   "id": 202812009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.05973,48.656471,9.05973,48.656471",
     "geom:latitude":48.656471,
     "geom:longitude":9.05973,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wettgasse 44",
     "sg:city":"Sch\u00f6naich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202812009,
-    "wof:lastmodified":1449060172,
+    "wof:lastmodified":1466221440,
     "wof:name":"Metzger Kohlenhandlung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.05973,48.656471,9.05973,48.656471],
+  "bbox": [
+    9.05973,
+    48.656471,
+    9.05973,
+    48.656471
+],
   "geometry": {"coordinates":[9.05973,48.656471],"type":"Point"}
 }

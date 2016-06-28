@@ -2,13 +2,14 @@
   "id": 118688793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.581791,48.131622,11.581791,48.131622",
     "geom:latitude":48.131622,
     "geom:longitude":11.581791,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Morassistr. 26",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118688793,
-    "wof:lastmodified":1449053669,
+    "wof:lastmodified":1466223259,
     "wof:name":"Arbeitsgemeinschaft Ambulanter Hauskranken- Und Altenpflege",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.581791,48.131622,11.581791,48.131622],
+  "bbox": [
+    11.581791,
+    48.131622,
+    11.581791,
+    48.131622
+],
   "geometry": {"coordinates":[11.581791,48.131622],"type":"Point"}
 }

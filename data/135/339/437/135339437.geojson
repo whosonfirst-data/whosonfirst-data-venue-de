@@ -2,13 +2,14 @@
   "id": 135339437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.071019,51.89867,11.071019,51.89867",
     "geom:latitude":51.89867,
     "geom:longitude":11.071019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleine Ringstr. 200",
     "sg:city":"Halberstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135339437,
-    "wof:lastmodified":1449022361,
+    "wof:lastmodified":1466217113,
     "wof:name":"Alfred Metzenmacher",
     "wof:parent_id":101820899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.071019,51.89867,11.071019,51.89867],
+  "bbox": [
+    11.071019,
+    51.89867,
+    11.071019,
+    51.89867
+],
   "geometry": {"coordinates":[11.071019,51.89867],"type":"Point"}
 }

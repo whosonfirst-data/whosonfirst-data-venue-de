@@ -2,13 +2,14 @@
   "id": 119017255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.110979,54.297909,10.110979,54.297909",
     "geom:latitude":54.297909,
     "geom:longitude":10.110979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagebuttenstr. 16",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900187,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85900187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119017255,
-    "wof:lastmodified":1449042261,
+    "wof:lastmodified":1466230801,
     "wof:name":"Gerd David Architekt",
     "wof:parent_id":85900187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.110979,54.297909,10.110979,54.297909],
+  "bbox": [
+    10.110979,
+    54.297909,
+    10.110979,
+    54.297909
+],
   "geometry": {"coordinates":[10.110979,54.297909],"type":"Point"}
 }

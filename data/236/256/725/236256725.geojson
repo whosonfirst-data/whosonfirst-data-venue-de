@@ -2,13 +2,14 @@
   "id": 236256725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68063,49.178181,8.68063,49.178181",
     "geom:latitude":49.178181,
     "geom:longitude":8.68063,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapellenstr. 51",
     "sg:city":"Ubstadt-Weiher",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236256725,
-    "wof:lastmodified":1449004299,
+    "wof:lastmodified":1466223637,
     "wof:name":"Fritz Bader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68063,49.178181,8.68063,49.178181],
+  "bbox": [
+    8.68063,
+    49.178181,
+    8.68063,
+    49.178181
+],
   "geometry": {"coordinates":[8.68063,49.178181],"type":"Point"}
 }

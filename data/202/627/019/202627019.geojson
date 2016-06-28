@@ -2,13 +2,14 @@
   "id": 202627019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.493859,50.545536,8.493859,50.545536",
     "geom:latitude":50.545536,
     "geom:longitude":8.493859,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufdorfer Weg 85",
     "sg:city":"Wetzlar",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202627019,
-    "wof:lastmodified":1449062719,
+    "wof:lastmodified":1466218115,
     "wof:name":"A. Gross Bildhauer",
     "wof:parent_id":85796453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.493859,50.545536,8.493859,50.545536],
+  "bbox": [
+    8.493859,
+    50.545536,
+    8.493859,
+    50.545536
+],
   "geometry": {"coordinates":[8.493859,50.545536],"type":"Point"}
 }

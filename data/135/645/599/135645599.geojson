@@ -2,13 +2,14 @@
   "id": 135645599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.544369,48.191635,11.544369,48.191635",
     "geom:latitude":48.191635,
     "geom:longitude":11.544369,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schittgablerstr. 11-13",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899395
+        85633111,
+        85899395,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135645599,
-    "wof:lastmodified":1449021301,
+    "wof:lastmodified":1466240709,
     "wof:name":"Hgh Holzgro\u00dfhandel M\u00fcnchen Gmbh & Co. Kg",
     "wof:parent_id":85899395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.544369,48.191635,11.544369,48.191635],
+  "bbox": [
+    11.544369,
+    48.191635,
+    11.544369,
+    48.191635
+],
   "geometry": {"coordinates":[11.544369,48.191635],"type":"Point"}
 }

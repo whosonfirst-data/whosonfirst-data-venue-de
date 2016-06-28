@@ -2,13 +2,14 @@
   "id": 303939037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025024,49.371662,11.025024,49.371662",
     "geom:latitude":49.371662,
     "geom:longitude":11.025024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldwinkel 25",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303939037,
-    "wof:lastmodified":1448998834,
+    "wof:lastmodified":1466241492,
     "wof:name":"Kurt Schlund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025024,49.371662,11.025024,49.371662],
+  "bbox": [
+    11.025024,
+    49.371662,
+    11.025024,
+    49.371662
+],
   "geometry": {"coordinates":[11.025024,49.371662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135662077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.403211,51.483459,7.403211,51.483459",
     "geom:latitude":51.483459,
     "geom:longitude":7.403211,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichlinghofer Str. 14",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85796185
+        85633111,
+        85796185,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135662077,
-    "wof:lastmodified":1449023048,
+    "wof:lastmodified":1466241391,
     "wof:name":"Helmut Dilewski",
     "wof:parent_id":85796185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.403211,51.483459,7.403211,51.483459],
+  "bbox": [
+    7.403211,
+    51.483459,
+    7.403211,
+    51.483459
+],
   "geometry": {"coordinates":[7.403211,51.483459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135308243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.384566,49.533688,8.384566,49.533688",
     "geom:latitude":49.533688,
     "geom:longitude":8.384566,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bannwasserstr. 39",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135308243,
-    "wof:lastmodified":1449024077,
+    "wof:lastmodified":1466214472,
     "wof:name":"R. Brosius",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.384566,49.533688,8.384566,49.533688],
+  "bbox": [
+    8.384566,
+    49.533688,
+    8.384566,
+    49.533688
+],
   "geometry": {"coordinates":[8.384566,49.533688],"type":"Point"}
 }

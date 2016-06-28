@@ -2,13 +2,14 @@
   "id": 152883377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.973487,53.907417,10.973487,53.907417",
     "geom:latitude":53.907417,
     "geom:longitude":10.973487,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcbecker-Str. 48",
     "sg:city":"Dassow",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064093,
-        85633111,
         85682487,
-        85899923
+        85633111,
+        85899923,
+        102064093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152883377,
-    "wof:lastmodified":1449047828,
+    "wof:lastmodified":1466228979,
     "wof:name":"Mv-consult ..firmen-, Finanz- & Immobilienservice",
     "wof:parent_id":85899923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.973487,53.907417,10.973487,53.907417],
+  "bbox": [
+    10.973487,
+    53.907417,
+    10.973487,
+    53.907417
+],
   "geometry": {"coordinates":[10.973487,53.907417],"type":"Point"}
 }

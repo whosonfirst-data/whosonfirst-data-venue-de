@@ -2,13 +2,14 @@
   "id": 135480299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.90722,49.892899,10.90722,49.892899",
     "geom:latitude":49.892899,
     "geom:longitude":10.90722,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 131",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135480299,
-    "wof:lastmodified":1449021981,
+    "wof:lastmodified":1466229846,
     "wof:name":"Pussy-cat",
     "wof:parent_id":101748561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.90722,49.892899,10.90722,49.892899],
+  "bbox": [
+    10.90722,
+    49.892899,
+    10.90722,
+    49.892899
+],
   "geometry": {"coordinates":[10.90722,49.892899],"type":"Point"}
 }

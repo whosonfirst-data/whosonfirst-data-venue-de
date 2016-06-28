@@ -2,13 +2,14 @@
   "id": 202701193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.851745,53.03997,8.851745,53.03997",
     "geom:latitude":53.03997,
     "geom:longitude":8.851745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Senator-Theil-Str. 89",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202701193,
-    "wof:lastmodified":1449062131,
+    "wof:lastmodified":1466219441,
     "wof:name":"H. Und U. Wasner",
     "wof:parent_id":85795395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.851745,53.03997,8.851745,53.03997],
+  "bbox": [
+    8.851745,
+    53.03997,
+    8.851745,
+    53.03997
+],
   "geometry": {"coordinates":[8.851745,53.03997],"type":"Point"}
 }

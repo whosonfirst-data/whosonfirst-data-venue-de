@@ -2,13 +2,14 @@
   "id": 135320773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.396799,48.966301,9.396799,48.966301",
     "geom:latitude":48.966301,
     "geom:longitude":9.396799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spengelgasse 3",
     "sg:city":"Aspach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135320773,
-    "wof:lastmodified":1449021754,
+    "wof:lastmodified":1466215572,
     "wof:name":"W. Brosi",
     "wof:parent_id":101760699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.396799,48.966301,9.396799,48.966301],
+  "bbox": [
+    9.396799,
+    48.966301,
+    9.396799,
+    48.966301
+],
   "geometry": {"coordinates":[9.396799,48.966301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135300129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.998775,49.636806,10.998775,49.636806",
     "geom:latitude":49.636806,
     "geom:longitude":10.998775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruhsteinstr. 11",
     "sg:city":"M\u00f6hrendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135300129,
-    "wof:lastmodified":1449022706,
+    "wof:lastmodified":1466213826,
     "wof:name":"Martin Hartmann",
     "wof:parent_id":101826971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.998775,49.636806,10.998775,49.636806],
+  "bbox": [
+    10.998775,
+    49.636806,
+    10.998775,
+    49.636806
+],
   "geometry": {"coordinates":[10.998775,49.636806],"type":"Point"}
 }

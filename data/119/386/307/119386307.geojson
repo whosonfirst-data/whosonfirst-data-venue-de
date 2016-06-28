@@ -2,13 +2,14 @@
   "id": 119386307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.45127,49.037968,10.45127,49.037968",
     "geom:latitude":49.037968,
     "geom:longitude":10.45127,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlerstr. 9",
     "sg:city":"Weiltingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119386307,
-    "wof:lastmodified":1449042247,
+    "wof:lastmodified":1466241090,
     "wof:name":"Werner Erkenbrecher",
     "wof:parent_id":101782119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.45127,49.037968,10.45127,49.037968],
+  "bbox": [
+    10.45127,
+    49.037968,
+    10.45127,
+    49.037968
+],
   "geometry": {"coordinates":[10.45127,49.037968],"type":"Point"}
 }

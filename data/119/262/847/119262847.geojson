@@ -2,13 +2,14 @@
   "id": 119262847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.496759,52.62624,13.496759,52.62624",
     "geom:latitude":52.62624,
     "geom:longitude":13.496759,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karower Chaussee 95",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907701,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85907701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119262847,
-    "wof:lastmodified":1449042512,
+    "wof:lastmodified":1466234902,
     "wof:name":"Dr. Med. Horst Krause",
     "wof:parent_id":85907701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.496759,52.62624,13.496759,52.62624],
+  "bbox": [
+    13.496759,
+    52.62624,
+    13.496759,
+    52.62624
+],
   "geometry": {"coordinates":[13.496759,52.62624],"type":"Point"}
 }

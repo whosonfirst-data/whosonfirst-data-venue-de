@@ -2,13 +2,14 @@
   "id": 119267331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.415421,52.553379,13.415421,52.553379",
     "geom:latitude":52.553379,
     "geom:longitude":13.415421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wisbyer Str. 2",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899193,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119267331,
-    "wof:lastmodified":1449043295,
+    "wof:lastmodified":1466235326,
     "wof:name":"Dr. Med. Renate Kirst",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.415421,52.553379,13.415421,52.553379],
+  "bbox": [
+    13.415421,
+    52.553379,
+    13.415421,
+    52.553379
+],
   "geometry": {"coordinates":[13.415421,52.553379],"type":"Point"}
 }

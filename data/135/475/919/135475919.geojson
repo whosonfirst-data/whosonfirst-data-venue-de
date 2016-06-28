@@ -2,13 +2,14 @@
   "id": 135475919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.408169,49.009533,8.408169,49.009533",
     "geom:latitude":49.009533,
     "geom:longitude":8.408169,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 36a",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135475919,
-    "wof:lastmodified":1449022256,
+    "wof:lastmodified":1466229384,
     "wof:name":"Cherie Bar",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.408169,49.009533,8.408169,49.009533],
+  "bbox": [
+    8.408169,
+    49.009533,
+    8.408169,
+    49.009533
+],
   "geometry": {"coordinates":[8.408169,49.009533],"type":"Point"}
 }

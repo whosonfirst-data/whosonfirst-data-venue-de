@@ -2,13 +2,14 @@
   "id": 152333233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.035364,53.603428,10.035364,53.603428",
     "geom:latitude":53.603428,
     "geom:longitude":10.035364,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcbenkamp 148",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152333233,
-    "wof:lastmodified":1449048597,
+    "wof:lastmodified":1466216858,
     "wof:name":"Genetische Beratungsstelle",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.035364,53.603428,10.035364,53.603428],
+  "bbox": [
+    10.035364,
+    53.603428,
+    10.035364,
+    53.603428
+],
   "geometry": {"coordinates":[10.035364,53.603428],"type":"Point"}
 }

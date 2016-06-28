@@ -2,13 +2,14 @@
   "id": 152786945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.833893,35.207249,-101.833893,35.207249",
     "geom:latitude":35.207249,
     "geom:longitude":-101.833893,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Batzenbergstrasse 9",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85875863,
+        85688753,
         85633793,
         101724103,
         102086749,
-        85688753
+        85875863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152786945,
-    "wof:lastmodified":1449044904,
+    "wof:lastmodified":1466226739,
     "wof:name":"Die Internet Seite",
     "wof:parent_id":85875863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.833893,35.207249,-101.833893,35.207249],
+  "bbox": [
+    -101.833893,
+    35.207249,
+    -101.833893,
+    35.207249
+],
   "geometry": {"coordinates":[-101.833893,35.207249],"type":"Point"}
 }

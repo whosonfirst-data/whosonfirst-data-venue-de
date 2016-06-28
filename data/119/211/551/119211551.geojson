@@ -2,13 +2,14 @@
   "id": 119211551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.35132,48.171013,11.35132,48.171013",
     "geom:latitude":48.171013,
     "geom:longitude":11.35132,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Gr\u00fcnen Markt 2",
     "sg:city":"Puchheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85898975
+        85633111,
+        85898975,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119211551,
-    "wof:lastmodified":1449041459,
+    "wof:lastmodified":1466229855,
     "wof:name":"Kath. Pfarramt St. Josef",
     "wof:parent_id":85898975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.35132,48.171013,11.35132,48.171013],
+  "bbox": [
+    11.35132,
+    48.171013,
+    11.35132,
+    48.171013
+],
   "geometry": {"coordinates":[11.35132,48.171013],"type":"Point"}
 }

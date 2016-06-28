@@ -2,13 +2,14 @@
   "id": 202900557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.432375,48.337055,11.432375,48.337055",
     "geom:latitude":48.337055,
     "geom:longitude":11.432375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kramerfeld 5",
     "sg:city":"R\u00f6hrmoos",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202900557,
-    "wof:lastmodified":1449061210,
+    "wof:lastmodified":1466223143,
     "wof:name":"Anton Einertshofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.432375,48.337055,11.432375,48.337055],
+  "bbox": [
+    11.432375,
+    48.337055,
+    11.432375,
+    48.337055
+],
   "geometry": {"coordinates":[11.432375,48.337055],"type":"Point"}
 }

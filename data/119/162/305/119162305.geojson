@@ -2,13 +2,14 @@
   "id": 119162305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.547323,48.12653,11.547323,48.12653",
     "geom:latitude":48.12653,
     "geom:longitude":11.547323,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bavariastr. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900137,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119162305,
-    "wof:lastmodified":1449043139,
+    "wof:lastmodified":1466225247,
     "wof:name":"Wolfgang Wulfes Architekt",
     "wof:parent_id":85900137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.547323,48.12653,11.547323,48.12653],
+  "bbox": [
+    11.547323,
+    48.12653,
+    11.547323,
+    48.12653
+],
   "geometry": {"coordinates":[11.547323,48.12653],"type":"Point"}
 }

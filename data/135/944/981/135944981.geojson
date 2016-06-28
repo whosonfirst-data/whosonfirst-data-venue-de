@@ -2,13 +2,14 @@
   "id": 135944981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.765147,51.56192,6.765147,51.56192",
     "geom:latitude":51.56192,
     "geom:longitude":6.765147,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelfeldstr. 2",
     "sg:city":"Dinslaken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795575,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135944981,
-    "wof:lastmodified":1449022528,
+    "wof:lastmodified":1466244749,
     "wof:name":"H. I. M Verwaltungs Gmbh",
     "wof:parent_id":85795575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.765147,51.56192,6.765147,51.56192],
+  "bbox": [
+    6.765147,
+    51.56192,
+    6.765147,
+    51.56192
+],
   "geometry": {"coordinates":[6.765147,51.56192],"type":"Point"}
 }

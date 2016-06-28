@@ -2,13 +2,14 @@
   "id": 136097057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.769989,51.216576,6.769989,51.216576",
     "geom:latitude":51.216576,
     "geom:longitude":6.769989,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Konkordiastr. 1",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796275,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85796275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136097057,
-    "wof:lastmodified":1449075433,
+    "wof:lastmodified":1466216629,
     "wof:name":"Net-pic.de - Ihre Adresse Im Internet",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.769989,51.216576,6.769989,51.216576],
+  "bbox": [
+    6.769989,
+    51.216576,
+    6.769989,
+    51.216576
+],
   "geometry": {"coordinates":[6.769989,51.216576],"type":"Point"}
 }

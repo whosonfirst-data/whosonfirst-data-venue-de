@@ -2,13 +2,14 @@
   "id": 236680313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.345832,48.633499,10.345832,48.633499",
     "geom:latitude":48.633499,
     "geom:longitude":10.345832,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tratzbergstr. 15",
     "sg:city":"Bachhagel",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236680313,
-    "wof:lastmodified":1449004060,
+    "wof:lastmodified":1466231367,
     "wof:name":"Franz Wiedemann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.345832,48.633499,10.345832,48.633499],
+  "bbox": [
+    10.345832,
+    48.633499,
+    10.345832,
+    48.633499
+],
   "geometry": {"coordinates":[10.345832,48.633499],"type":"Point"}
 }

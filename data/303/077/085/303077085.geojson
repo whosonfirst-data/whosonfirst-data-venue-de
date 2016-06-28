@@ -2,13 +2,14 @@
   "id": 303077085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.432927,48.259289,11.432927,48.259289",
     "geom:latitude":48.259289,
     "geom:longitude":11.432927,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterstr. 3",
     "sg:city":"Dachau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303077085,
-    "wof:lastmodified":1448998507,
+    "wof:lastmodified":1466226423,
     "wof:name":"Leonhard Polzmacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.432927,48.259289,11.432927,48.259289],
+  "bbox": [
+    11.432927,
+    48.259289,
+    11.432927,
+    48.259289
+],
   "geometry": {"coordinates":[11.432927,48.259289],"type":"Point"}
 }

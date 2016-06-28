@@ -2,13 +2,14 @@
   "id": 118662283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.16614,50.685387,7.16614,50.685387",
     "geom:latitude":50.685387,
     "geom:longitude":7.16614,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronprinzenstr. 1",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794809,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85794809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118662283,
-    "wof:lastmodified":1449054089,
+    "wof:lastmodified":1466221753,
     "wof:name":"St. Vincenzhaus Alten- Und Pflegeheim",
     "wof:parent_id":85794809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.16614,50.685387,7.16614,50.685387],
+  "bbox": [
+    7.16614,
+    50.685387,
+    7.16614,
+    50.685387
+],
   "geometry": {"coordinates":[7.16614,50.685387],"type":"Point"}
 }

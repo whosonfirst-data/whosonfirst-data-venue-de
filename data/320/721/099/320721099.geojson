@@ -2,13 +2,14 @@
   "id": 320721099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.306542,52.355495,13.306542,52.355495",
     "geom:latitude":52.355495,
     "geom:longitude":13.306542,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruhlsdorfer Str. 6",
     "sg:city":"Gro\u00dfbeeren",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320721099,
-    "wof:lastmodified":1449014957,
+    "wof:lastmodified":1466242628,
     "wof:name":"R. Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.306542,52.355495,13.306542,52.355495],
+  "bbox": [
+    13.306542,
+    52.355495,
+    13.306542,
+    52.355495
+],
   "geometry": {"coordinates":[13.306542,52.355495],"type":"Point"}
 }

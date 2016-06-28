@@ -2,13 +2,14 @@
   "id": 135505201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.244305,52.395847,13.244305,52.395847",
     "geom:latitude":52.395847,
     "geom:longitude":13.244305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Iserstr. 8-10",
     "sg:city":"Teltow",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905641,
+        85682553,
         85633111,
         101756031,
         102063937,
-        85682553
+        85905641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135505201,
-    "wof:lastmodified":1449023517,
+    "wof:lastmodified":1466232063,
     "wof:name":"Isosy Gmbh",
     "wof:parent_id":85905641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.244305,52.395847,13.244305,52.395847],
+  "bbox": [
+    13.244305,
+    52.395847,
+    13.244305,
+    52.395847
+],
   "geometry": {"coordinates":[13.244305,52.395847],"type":"Point"}
 }

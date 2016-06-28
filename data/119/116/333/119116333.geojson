@@ -2,13 +2,14 @@
   "id": 119116333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.484586,49.508862,8.484586,49.508862",
     "geom:latitude":49.508862,
     "geom:longitude":8.484586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zum Herrenried 3",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796039,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85796039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119116333,
-    "wof:lastmodified":1449041217,
+    "wof:lastmodified":1466221613,
     "wof:name":"Reimar Schr\u00f6ter Architekt",
     "wof:parent_id":85796039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.484586,49.508862,8.484586,49.508862],
+  "bbox": [
+    8.484586,
+    49.508862,
+    8.484586,
+    49.508862
+],
   "geometry": {"coordinates":[8.484586,49.508862],"type":"Point"}
 }

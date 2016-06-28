@@ -2,13 +2,14 @@
   "id": 203344847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.85015,52.432083,10.85015,52.432083",
     "geom:latitude":52.432083,
     "geom:longitude":10.85015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Jasper-Str. 18",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203344847,
-    "wof:lastmodified":1449025044,
+    "wof:lastmodified":1466219574,
     "wof:name":"Fritz Schulze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.85015,52.432083,10.85015,52.432083],
+  "bbox": [
+    10.85015,
+    52.432083,
+    10.85015,
+    52.432083
+],
   "geometry": {"coordinates":[10.85015,52.432083],"type":"Point"}
 }

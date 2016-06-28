@@ -2,13 +2,14 @@
   "id": 202426925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.10105,53.62463,10.10105,53.62463",
     "geom:latitude":53.62463,
     "geom:longitude":10.10105,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tucholskyring 31 f",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202426925,
-    "wof:lastmodified":1449060658,
+    "wof:lastmodified":1466214238,
     "wof:name":"C. Steffen",
     "wof:parent_id":85899895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.10105,53.62463,10.10105,53.62463],
+  "bbox": [
+    10.10105,
+    53.62463,
+    10.10105,
+    53.62463
+],
   "geometry": {"coordinates":[10.10105,53.62463],"type":"Point"}
 }

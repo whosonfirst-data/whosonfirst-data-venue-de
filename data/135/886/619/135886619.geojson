@@ -2,13 +2,14 @@
   "id": 135886619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.021025,50.70993,7.021025,50.70993",
     "geom:latitude":50.70993,
     "geom:longitude":7.021025,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zur Degensm\u00fchle",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795871,
+        85682513,
         85633111,
         101755969,
         102063683,
-        85682513
+        85795871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135886619,
-    "wof:lastmodified":1449022676,
+    "wof:lastmodified":1466244463,
     "wof:name":"Fourne Verwaltungs Gmbh",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.021025,50.70993,7.021025,50.70993],
+  "bbox": [
+    7.021025,
+    50.70993,
+    7.021025,
+    50.70993
+],
   "geometry": {"coordinates":[7.021025,50.70993],"type":"Point"}
 }

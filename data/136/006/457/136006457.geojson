@@ -2,13 +2,14 @@
   "id": 136006457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.97416,53.54892,9.97416,53.54892",
     "geom:latitude":53.54892,
     "geom:longitude":9.97416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeughausmarkt 33/34",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899367,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136006457,
-    "wof:lastmodified":1449075969,
+    "wof:lastmodified":1466221015,
     "wof:name":"Lighthouse Communications Holding Ag",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.97416,53.54892,9.97416,53.54892],
+  "bbox": [
+    9.97416,
+    53.54892,
+    9.97416,
+    53.54892
+],
   "geometry": {"coordinates":[9.97416,53.54892],"type":"Point"}
 }

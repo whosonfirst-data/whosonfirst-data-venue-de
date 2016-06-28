@@ -2,13 +2,14 @@
   "id": 203211053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.742138,48.911957,8.742138,48.911957",
     "geom:latitude":48.911957,
     "geom:longitude":8.742138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haydnstr. 32",
     "sg:city":"Pforzheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203211053,
-    "wof:lastmodified":1449025383,
+    "wof:lastmodified":1466217394,
     "wof:name":"E. Jung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.742138,48.911957,8.742138,48.911957],
+  "bbox": [
+    8.742138,
+    48.911957,
+    8.742138,
+    48.911957
+],
   "geometry": {"coordinates":[8.742138,48.911957],"type":"Point"}
 }

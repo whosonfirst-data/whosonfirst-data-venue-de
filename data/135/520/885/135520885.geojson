@@ -2,13 +2,14 @@
   "id": 135520885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.09771,49.285049,7.09771,49.285049",
     "geom:latitude":49.285049,
     "geom:longitude":7.09771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zur Rothell 2-4",
     "sg:city":"St. Ingbert",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063437,
-        85633111,
         85682479,
-        85796383
+        85633111,
+        85796383,
+        102063437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135520885,
-    "wof:lastmodified":1449021998,
+    "wof:lastmodified":1466233533,
     "wof:name":"D\u00fcrr & Co. Nachfolger Baugesellschaft Mbh",
     "wof:parent_id":85796383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.09771,49.285049,7.09771,49.285049],
+  "bbox": [
+    7.09771,
+    49.285049,
+    7.09771,
+    49.285049
+],
   "geometry": {"coordinates":[7.09771,49.285049],"type":"Point"}
 }

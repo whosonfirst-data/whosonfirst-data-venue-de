@@ -2,13 +2,14 @@
   "id": 320402319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.991435,47.861584,11.991435,47.861584",
     "geom:latitude":47.861584,
     "geom:longitude":11.991435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotwandstr. 13",
     "sg:city":"Bad Aibling",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320402319,
-    "wof:lastmodified":1449012463,
+    "wof:lastmodified":1466240040,
     "wof:name":"Walter Gareis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.991435,47.861584,11.991435,47.861584],
+  "bbox": [
+    11.991435,
+    47.861584,
+    11.991435,
+    47.861584
+],
   "geometry": {"coordinates":[11.991435,47.861584],"type":"Point"}
 }

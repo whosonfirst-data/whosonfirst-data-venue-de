@@ -2,13 +2,14 @@
   "id": 102612097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.03352,50.589008,12.03352,50.589008",
     "geom:latitude":50.589008,
     "geom:longitude":12.03352,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Pausa",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -34,14 +35,20 @@
         }
     ],
     "wof:id":102612097,
-    "wof:lastmodified":1449068833,
+    "wof:lastmodified":1466213591,
     "wof:name":"Ritschel",
     "wof:parent_id":85682541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.03352,50.589008,12.03352,50.589008],
+  "bbox": [
+    12.03352,
+    50.589008,
+    12.03352,
+    50.589008
+],
   "geometry": {"coordinates":[12.03352,50.589008],"type":"Point"}
 }

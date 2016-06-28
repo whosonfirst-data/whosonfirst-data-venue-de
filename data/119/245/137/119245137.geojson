@@ -2,13 +2,14 @@
   "id": 119245137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.812013,53.073032,8.812013,53.073032",
     "geom:latitude":53.073032,
     "geom:longitude":8.812013,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenwall 6",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119245137,
-    "wof:lastmodified":1449043474,
+    "wof:lastmodified":1466233120,
     "wof:name":"Verwaltungsgerichte Der Freien Hansestadt Bremen",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.812013,53.073032,8.812013,53.073032],
+  "bbox": [
+    8.812013,
+    53.073032,
+    8.812013,
+    53.073032
+],
   "geometry": {"coordinates":[8.812013,53.073032],"type":"Point"}
 }

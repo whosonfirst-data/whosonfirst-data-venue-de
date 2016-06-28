@@ -2,13 +2,14 @@
   "id": 119337715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.227924,53.6688,10.227924,53.6688",
     "geom:latitude":53.6688,
     "geom:longitude":10.227924,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelweg 14",
     "sg:city":"Ahrensburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064085,
-        85633111,
         85682517,
-        85899083
+        85633111,
+        85899083,
+        102064085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119337715,
-    "wof:lastmodified":1449042087,
+    "wof:lastmodified":1466239410,
     "wof:name":"Hubert Winkler",
     "wof:parent_id":85899083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.227924,53.6688,10.227924,53.6688],
+  "bbox": [
+    10.227924,
+    53.6688,
+    10.227924,
+    53.6688
+],
   "geometry": {"coordinates":[10.227924,53.6688],"type":"Point"}
 }

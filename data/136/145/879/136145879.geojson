@@ -2,13 +2,14 @@
   "id": 136145879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.313781,52.496456,13.313781,52.496456",
     "geom:latitude":52.496456,
     "geom:longitude":13.313781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"bayerische str 25",
     "sg:city":"berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136145879,
-    "wof:lastmodified":1449075290,
+    "wof:lastmodified":1466218650,
     "wof:name":"Webdesignteam Cakberlin",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.313781,52.496456,13.313781,52.496456],
+  "bbox": [
+    13.313781,
+    52.496456,
+    13.313781,
+    52.496456
+],
   "geometry": {"coordinates":[13.313781,52.496456],"type":"Point"}
 }

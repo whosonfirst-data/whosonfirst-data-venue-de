@@ -2,13 +2,14 @@
   "id": 320788401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.532871,52.372658,12.532871,52.372658",
     "geom:latitude":52.372658,
     "geom:longitude":12.532871,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Akazienweg 6 b",
     "sg:city":"Brandenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320788401,
-    "wof:lastmodified":1449013186,
+    "wof:lastmodified":1466243079,
     "wof:name":"De La Rue Garny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.532871,52.372658,12.532871,52.372658],
+  "bbox": [
+    12.532871,
+    52.372658,
+    12.532871,
+    52.372658
+],
   "geometry": {"coordinates":[12.532871,52.372658],"type":"Point"}
 }

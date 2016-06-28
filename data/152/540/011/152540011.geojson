@@ -2,13 +2,14 @@
   "id": 152540011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.67953,48.23468,11.67953,48.23468",
     "geom:latitude":48.23468,
     "geom:longitude":11.67953,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Zeiss-Ring 5",
     "sg:city":"Ismaning",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899173
+        85633111,
+        85899173,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152540011,
-    "wof:lastmodified":1449046129,
+    "wof:lastmodified":1466221119,
     "wof:name":"Cine Classics Television Beteiligungs Gmbh",
     "wof:parent_id":85899173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.67953,48.23468,11.67953,48.23468],
+  "bbox": [
+    11.67953,
+    48.23468,
+    11.67953,
+    48.23468
+],
   "geometry": {"coordinates":[11.67953,48.23468],"type":"Point"}
 }

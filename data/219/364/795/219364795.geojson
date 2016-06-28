@@ -2,13 +2,14 @@
   "id": 219364795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.897918,48.404465,10.897918,48.404465",
     "geom:latitude":48.404465,
     "geom:longitude":10.897918,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Lukas-Str. 63",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219364795,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466218099,
     "wof:name":"Hermann V\u00f6st",
     "wof:parent_id":85899157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.897918,48.404465,10.897918,48.404465],
+  "bbox": [
+    10.897918,
+    48.404465,
+    10.897918,
+    48.404465
+],
   "geometry": {"coordinates":[10.897918,48.404465],"type":"Point"}
 }

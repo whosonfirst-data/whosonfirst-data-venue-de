@@ -2,13 +2,14 @@
   "id": 102727227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.244794,50.079918,8.244794,50.079918",
     "geom:latitude":50.079918,
     "geom:longitude":8.244794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr 16",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102727227,
-    "wof:lastmodified":1449068162,
+    "wof:lastmodified":1466216917,
     "wof:name":"Personatec Gmbh",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.244794,50.079918,8.244794,50.079918],
+  "bbox": [
+    8.244794,
+    50.079918,
+    8.244794,
+    50.079918
+],
   "geometry": {"coordinates":[8.244794,50.079918],"type":"Point"}
 }

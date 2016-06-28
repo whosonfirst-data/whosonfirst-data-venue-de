@@ -2,13 +2,14 @@
   "id": 135329601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.714436,51.092926,13.714436,51.092926",
     "geom:latitude":51.092926,
     "geom:longitude":13.714436,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronenstr. 32",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900153,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135329601,
-    "wof:lastmodified":1449021847,
+    "wof:lastmodified":1466216300,
     "wof:name":"Wolfgang E. Rothe",
     "wof:parent_id":85900153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.714436,51.092926,13.714436,51.092926],
+  "bbox": [
+    13.714436,
+    51.092926,
+    13.714436,
+    51.092926
+],
   "geometry": {"coordinates":[13.714436,51.092926],"type":"Point"}
 }

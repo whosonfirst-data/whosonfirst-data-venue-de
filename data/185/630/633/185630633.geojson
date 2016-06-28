@@ -2,13 +2,14 @@
   "id": 185630633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.199507,50.006664,9.199507,50.006664",
     "geom:latitude":50.006664,
     "geom:longitude":9.199507,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Afferbachstr. 8a",
     "sg:city":"H\u00f6sbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185630633,
-    "wof:lastmodified":1449007164,
+    "wof:lastmodified":1466213429,
     "wof:name":"M. Thieme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.199507,50.006664,9.199507,50.006664],
+  "bbox": [
+    9.199507,
+    50.006664,
+    9.199507,
+    50.006664
+],
   "geometry": {"coordinates":[9.199507,50.006664],"type":"Point"}
 }

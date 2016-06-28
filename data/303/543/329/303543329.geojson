@@ -2,13 +2,14 @@
   "id": 303543329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.854464,49.841114,7.854464,49.841114",
     "geom:latitude":49.841114,
     "geom:longitude":7.854464,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurhausstr. 23",
     "sg:city":"Bad Kreuznach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303543329,
-    "wof:lastmodified":1448998592,
+    "wof:lastmodified":1466237323,
     "wof:name":"B\u00e4derhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.854464,49.841114,7.854464,49.841114],
+  "bbox": [
+    7.854464,
+    49.841114,
+    7.854464,
+    49.841114
+],
   "geometry": {"coordinates":[7.854464,49.841114],"type":"Point"}
 }

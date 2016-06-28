@@ -2,13 +2,14 @@
   "id": 202997971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.044312,42.423679,-79.044312,42.423679",
     "geom:latitude":42.423679,
     "geom:longitude":-79.044312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nr. 21",
     "sg:city":"Cotta",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202997971,
-    "wof:lastmodified":1449062219,
+    "wof:lastmodified":1466224866,
     "wof:name":"Friedrich Sonntag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.044312,42.423679,-79.044312,42.423679],
-  "geometry": {"coordinates":[-79.044312,42.423679],"type":"Point"}
+  "bbox": [
+    -79.044312,
+    42.423679,
+    -79.044312,
+    42.423679
+],
+  "geometry": {"coordinates":[-79.04431200000001,42.423679],"type":"Point"}
 }

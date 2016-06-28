@@ -2,13 +2,14 @@
   "id": 153060405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.61384,52.406651,9.61384,52.406651",
     "geom:latitude":52.406651,
     "geom:longitude":9.61384,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Tiefen Lande 7",
     "sg:city":"Garbsen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85905781
+        85633111,
+        85905781,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":153060405,
-    "wof:lastmodified":1449040786,
+    "wof:lastmodified":1466213821,
     "wof:name":"Aquatarium Inh. Jens Gottwald",
     "wof:parent_id":85905781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.61384,52.406651,9.61384,52.406651],
+  "bbox": [
+    9.61384,
+    52.406651,
+    9.61384,
+    52.406651
+],
   "geometry": {"coordinates":[9.61384,52.406651],"type":"Point"}
 }

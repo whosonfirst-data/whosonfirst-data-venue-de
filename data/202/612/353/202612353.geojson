@@ -2,13 +2,14 @@
   "id": 202612353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.959748,50.972256,6.959748,50.972256",
     "geom:latitude":50.972256,
     "geom:longitude":6.959748,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niehler Str. 256",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202612353,
-    "wof:lastmodified":1449061242,
+    "wof:lastmodified":1466217841,
     "wof:name":"Alfred Elsen",
     "wof:parent_id":85862995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.959748,50.972256,6.959748,50.972256],
+  "bbox": [
+    6.959748,
+    50.972256,
+    6.959748,
+    50.972256
+],
   "geometry": {"coordinates":[6.959748,50.972256],"type":"Point"}
 }

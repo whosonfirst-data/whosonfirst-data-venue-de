@@ -2,13 +2,14 @@
   "id": 253401115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.035312,52.083469,10.035312,52.083469",
     "geom:latitude":52.083469,
     "geom:longitude":10.035312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Schafberg 6",
     "sg:city":"Bad Salzdetfurth",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253401115,
-    "wof:lastmodified":1449065333,
+    "wof:lastmodified":1466226967,
     "wof:name":"Johannes Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.035312,52.083469,10.035312,52.083469],
+  "bbox": [
+    10.035312,
+    52.083469,
+    10.035312,
+    52.083469
+],
   "geometry": {"coordinates":[10.035312,52.083469],"type":"Point"}
 }

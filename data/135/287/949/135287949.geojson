@@ -2,13 +2,14 @@
   "id": 135287949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.076608,51.544582,7.076608,51.544582",
     "geom:latitude":51.544582,
     "geom:longitude":7.076608,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emscherstr. 37",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795439,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85795439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135287949,
-    "wof:lastmodified":1449021178,
+    "wof:lastmodified":1466234628,
     "wof:name":"Karl Brinker Gmbh & Co. Kg",
     "wof:parent_id":85795439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.076608,51.544582,7.076608,51.544582],
+  "bbox": [
+    7.076608,
+    51.544582,
+    7.076608,
+    51.544582
+],
   "geometry": {"coordinates":[7.076608,51.544582],"type":"Point"}
 }

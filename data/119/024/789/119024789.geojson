@@ -2,13 +2,14 @@
   "id": 119024789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560984,52.022842,8.560984,52.022842",
     "geom:latitude":52.022842,
     "geom:longitude":8.560984,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heeper Str. 151",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796357,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119024789,
-    "wof:lastmodified":1449042113,
+    "wof:lastmodified":1466234962,
     "wof:name":"G\u00fcnter B\u00fcrgel Architekt",
     "wof:parent_id":85796357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560984,52.022842,8.560984,52.022842],
+  "bbox": [
+    8.560984,
+    52.022842,
+    8.560984,
+    52.022842
+],
   "geometry": {"coordinates":[8.560984,52.022842],"type":"Point"}
 }

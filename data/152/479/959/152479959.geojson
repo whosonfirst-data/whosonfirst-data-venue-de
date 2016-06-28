@@ -2,13 +2,14 @@
   "id": 152479959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.787173,52.422997,10.787173,52.422997",
     "geom:latitude":52.422997,
     "geom:longitude":10.787173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Porschestr. 56 A",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -18,12 +19,12 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063921,
-        85633111,
         85682555,
+        85633111,
         85905775,
-        85899291,
-        101748803
+        102063921,
+        101748803,
+        85899291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152479959,
-    "wof:lastmodified":1449047463,
+    "wof:lastmodified":1466219800,
     "wof:name":"Friedrich & Scholz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.787173,52.422997,10.787173,52.422997],
+  "bbox": [
+    10.787173,
+    52.422997,
+    10.787173,
+    52.422997
+],
   "geometry": {"coordinates":[10.787173,52.422997],"type":"Point"}
 }

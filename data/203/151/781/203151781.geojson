@@ -2,13 +2,14 @@
   "id": 203151781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.243905,48.015362,10.243905,48.015362",
     "geom:latitude":48.015362,
     "geom:longitude":10.243905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenstr. 10",
     "sg:city":"Holzg\u00fcnz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203151781,
-    "wof:lastmodified":1449024957,
+    "wof:lastmodified":1466216398,
     "wof:name":"Josef Kraus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.243905,48.015362,10.243905,48.015362],
+  "bbox": [
+    10.243905,
+    48.015362,
+    10.243905,
+    48.015362
+],
   "geometry": {"coordinates":[10.243905,48.015362],"type":"Point"}
 }

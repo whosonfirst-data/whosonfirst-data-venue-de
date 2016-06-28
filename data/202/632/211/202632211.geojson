@@ -2,13 +2,14 @@
   "id": 202632211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.784437,52.155575,9.784437,52.155575",
     "geom:latitude":52.155575,
     "geom:longitude":9.784437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Wagner-Str. 3",
     "sg:city":"Nordstemmen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202632211,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1466218211,
     "wof:name":"Baumgarten Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.784437,52.155575,9.784437,52.155575],
+  "bbox": [
+    9.784437,
+    52.155575,
+    9.784437,
+    52.155575
+],
   "geometry": {"coordinates":[9.784437,52.155575],"type":"Point"}
 }

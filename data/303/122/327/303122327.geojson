@@ -2,13 +2,14 @@
   "id": 303122327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.506059,49.461197,6.506059,49.461197",
     "geom:latitude":49.461197,
     "geom:longitude":6.506059,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zum Kewelsberg 1",
     "sg:city":"Mettlach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303122327,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466227518,
     "wof:name":"Peter Weiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.506059,49.461197,6.506059,49.461197],
+  "bbox": [
+    6.506059,
+    49.461197,
+    6.506059,
+    49.461197
+],
   "geometry": {"coordinates":[6.506059,49.461197],"type":"Point"}
 }

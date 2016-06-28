@@ -2,13 +2,14 @@
   "id": 119251265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.568829,48.13105,11.568829,48.13105",
     "geom:latitude":48.13105,
     "geom:longitude":11.568829,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzstr. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119251265,
-    "wof:lastmodified":1449040933,
+    "wof:lastmodified":1466233729,
     "wof:name":"Christian Kr\u00f6hl",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.568829,48.13105,11.568829,48.13105],
+  "bbox": [
+    11.568829,
+    48.13105,
+    11.568829,
+    48.13105
+],
   "geometry": {"coordinates":[11.568829,48.13105],"type":"Point"}
 }

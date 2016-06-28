@@ -2,13 +2,14 @@
   "id": 135602977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.85402,51.066181,13.85402,51.066181",
     "geom:latitude":51.066181,
     "geom:longitude":13.85402,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidem\u00fchlweg 23 e",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906333,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135602977,
-    "wof:lastmodified":1449022437,
+    "wof:lastmodified":1466239425,
     "wof:name":"Hans Maasz",
     "wof:parent_id":85906333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.85402,51.066181,13.85402,51.066181],
+  "bbox": [
+    13.85402,
+    51.066181,
+    13.85402,
+    51.066181
+],
   "geometry": {"coordinates":[13.85402,51.066181],"type":"Point"}
 }

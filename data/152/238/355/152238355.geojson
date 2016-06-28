@@ -2,13 +2,14 @@
   "id": 152238355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.223821,51.540974,7.223821,51.540974",
     "geom:latitude":51.540974,
     "geom:longitude":7.223821,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrichstr. 10",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863257,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152238355,
-    "wof:lastmodified":1449046036,
+    "wof:lastmodified":1466214852,
     "wof:name":"Do-it Bewegungs-studios Gmbh",
     "wof:parent_id":85863257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.223821,51.540974,7.223821,51.540974],
+  "bbox": [
+    7.223821,
+    51.540974,
+    7.223821,
+    51.540974
+],
   "geometry": {"coordinates":[7.223821,51.540974],"type":"Point"}
 }

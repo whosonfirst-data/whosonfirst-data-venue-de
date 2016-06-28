@@ -2,13 +2,14 @@
   "id": 135542827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.089555,50.741268,7.089555,50.741268",
     "geom:latitude":50.741268,
     "geom:longitude":7.089555,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Krausfeld 33",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135542827,
-    "wof:lastmodified":1449023353,
+    "wof:lastmodified":1466235485,
     "wof:name":"Wbg Wohnungsbauges. Bonn Gmbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.089555,50.741268,7.089555,50.741268],
+  "bbox": [
+    7.089555,
+    50.741268,
+    7.089555,
+    50.741268
+],
   "geometry": {"coordinates":[7.089555,50.741268],"type":"Point"}
 }

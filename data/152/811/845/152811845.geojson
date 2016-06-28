@@ -2,13 +2,14 @@
   "id": 152811845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.339569,34.862274,-82.339569,34.862274",
     "geom:latitude":34.862274,
     "geom:longitude":-82.339569,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Caledon Wood",
     "sg:city":"Greenville",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"29651",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822039,
+        85688683,
         85633793,
         101721421,
         102085747,
-        85688683
+        85822039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152811845,
-    "wof:lastmodified":1449046530,
+    "wof:lastmodified":1466227328,
     "wof:name":"Factory4web",
     "wof:parent_id":85822039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.339569,34.862274,-82.339569,34.862274],
+  "bbox": [
+    -82.339569,
+    34.862274,
+    -82.339569,
+    34.862274
+],
   "geometry": {"coordinates":[-82.339569,34.862274],"type":"Point"}
 }

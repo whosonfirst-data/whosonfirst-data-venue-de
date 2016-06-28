@@ -2,13 +2,14 @@
   "id": 303366065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.219776,51.400471,12.219776,51.400471",
     "geom:latitude":51.400471,
     "geom:longitude":12.219776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Str. 3",
     "sg:city":"Schkeuditz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303366065,
-    "wof:lastmodified":1448999903,
+    "wof:lastmodified":1466233513,
     "wof:name":"Messedruck Leipzig Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.219776,51.400471,12.219776,51.400471],
+  "bbox": [
+    12.219776,
+    51.400471,
+    12.219776,
+    51.400471
+],
   "geometry": {"coordinates":[12.219776,51.400471],"type":"Point"}
 }

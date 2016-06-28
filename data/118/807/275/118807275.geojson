@@ -2,13 +2,14 @@
   "id": 118807275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.230989,51.451233,7.230989,51.451233",
     "geom:latitude":51.451233,
     "geom:longitude":7.230989,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brenscheder Str. 60",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796531,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118807275,
-    "wof:lastmodified":1449053508,
+    "wof:lastmodified":1466230165,
     "wof:name":"Berg-apotheke",
     "wof:parent_id":85796531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.230989,51.451233,7.230989,51.451233],
+  "bbox": [
+    7.230989,
+    51.451233,
+    7.230989,
+    51.451233
+],
   "geometry": {"coordinates":[7.230989,51.451233],"type":"Point"}
 }

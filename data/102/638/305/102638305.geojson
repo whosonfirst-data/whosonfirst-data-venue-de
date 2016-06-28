@@ -2,13 +2,14 @@
   "id": 102638305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.192777,51.45166,7.192777,51.45166",
     "geom:latitude":51.45166,
     "geom:longitude":7.192777,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Bochum",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863241,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102638305,
-    "wof:lastmodified":1449067915,
+    "wof:lastmodified":1466214324,
     "wof:name":"Fd Fleischhauer Datentr\u00e4ger Und- Service Gmbh & Co.kg",
     "wof:parent_id":85863241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.192777,51.45166,7.192777,51.45166],
+  "bbox": [
+    7.192777,
+    51.45166,
+    7.192777,
+    51.45166
+],
   "geometry": {"coordinates":[7.192777,51.45166],"type":"Point"}
 }

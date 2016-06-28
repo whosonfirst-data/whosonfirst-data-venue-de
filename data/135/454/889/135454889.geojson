@@ -2,13 +2,14 @@
   "id": 135454889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.279348,51.828785,7.279348,51.828785",
     "geom:latitude":51.828785,
     "geom:longitude":7.279348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1120:: 26888 D\u00f6rpen:: Germany.^^Hauptstr 21::",
     "sg:city":"D\u00f6rpen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135454889,
-    "wof:lastmodified":1449023716,
+    "wof:lastmodified":1466227578,
     "wof:name":"Volksbank D\u00fclmen Eg",
     "wof:parent_id":101809043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.279348,51.828785,7.279348,51.828785],
+  "bbox": [
+    7.279348,
+    51.828785,
+    7.279348,
+    51.828785
+],
   "geometry": {"coordinates":[7.279348,51.828785],"type":"Point"}
 }

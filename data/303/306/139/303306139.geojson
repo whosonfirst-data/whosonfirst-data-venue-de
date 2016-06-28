@@ -2,13 +2,14 @@
   "id": 303306139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.146927,52.545811,13.146927,52.545811",
     "geom:latitude":52.545811,
     "geom:longitude":13.146927,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reckeweg 142",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303306139,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1466232058,
     "wof:name":"Be-druck",
     "wof:parent_id":85900057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.146927,52.545811,13.146927,52.545811],
+  "bbox": [
+    13.146927,
+    52.545811,
+    13.146927,
+    52.545811
+],
   "geometry": {"coordinates":[13.146927,52.545811],"type":"Point"}
 }

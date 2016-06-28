@@ -2,13 +2,14 @@
   "id": 118976171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.87938,53.566296,9.87938,53.566296",
     "geom:latitude":53.566296,
     "geom:longitude":9.87938,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Milcherstr. 3",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899221,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118976171,
-    "wof:lastmodified":1449053716,
+    "wof:lastmodified":1466238893,
     "wof:name":"Architekturb\u00fcro Andreas Scheid",
     "wof:parent_id":85899221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.87938,53.566296,9.87938,53.566296],
+  "bbox": [
+    9.87938,
+    53.566296,
+    9.87938,
+    53.566296
+],
   "geometry": {"coordinates":[9.87938,53.566296],"type":"Point"}
 }

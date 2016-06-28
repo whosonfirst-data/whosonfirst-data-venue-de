@@ -2,13 +2,14 @@
   "id": 119127787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.855085,51.551491,6.855085,51.551491",
     "geom:latitude":51.551491,
     "geom:longitude":6.855085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigshardter Str. 176",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795737,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85795737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119127787,
-    "wof:lastmodified":1449043312,
+    "wof:lastmodified":1466222390,
     "wof:name":"Rudolf Schwarz Architekt",
     "wof:parent_id":85795737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.855085,51.551491,6.855085,51.551491],
+  "bbox": [
+    6.855085,
+    51.551491,
+    6.855085,
+    51.551491
+],
   "geometry": {"coordinates":[6.855085,51.551491],"type":"Point"}
 }

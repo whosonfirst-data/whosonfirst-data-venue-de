@@ -2,13 +2,14 @@
   "id": 135302921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.126309,49.749584,11.126309,49.749584",
     "geom:latitude":49.749584,
     "geom:longitude":11.126309,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wei\u00dfenbacher Str. 9",
     "sg:city":"Weilersbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135302921,
-    "wof:lastmodified":1449022030,
+    "wof:lastmodified":1466214047,
     "wof:name":"Norbert Kreller",
     "wof:parent_id":101827109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.126309,49.749584,11.126309,49.749584],
+  "bbox": [
+    11.126309,
+    49.749584,
+    11.126309,
+    49.749584
+],
   "geometry": {"coordinates":[11.126309,49.749584],"type":"Point"}
 }

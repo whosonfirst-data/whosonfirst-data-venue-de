@@ -2,13 +2,14 @@
   "id": 320511729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.374285,51.343826,12.374285,51.343826",
     "geom:latitude":51.343826,
     "geom:longitude":12.374285,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Wagner-Str. 20",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320511729,
-    "wof:lastmodified":1449012977,
+    "wof:lastmodified":1466241122,
     "wof:name":"Leipzig Ticket Gmbh & Co. Kg",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.374285,51.343826,12.374285,51.343826],
+  "bbox": [
+    12.374285,
+    51.343826,
+    12.374285,
+    51.343826
+],
   "geometry": {"coordinates":[12.374285,51.343826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119366861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.791121,51.238033,6.791121,51.238033",
     "geom:latitude":51.238033,
     "geom:longitude":6.791121,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augustastr. 15",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119366861,
-    "wof:lastmodified":1449042824,
+    "wof:lastmodified":1466240772,
     "wof:name":"Peter Koelmann",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.791121,51.238033,6.791121,51.238033],
+  "bbox": [
+    6.791121,
+    51.238033,
+    6.791121,
+    51.238033
+],
   "geometry": {"coordinates":[6.791121,51.238033],"type":"Point"}
 }

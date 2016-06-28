@@ -2,13 +2,14 @@
   "id": 303385673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.180697,49.85754,9.180697,49.85754",
     "geom:latitude":49.85754,
     "geom:longitude":9.180697,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Daimlerring 2",
     "sg:city":"Kleinwallstadt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303385673,
-    "wof:lastmodified":1448999572,
+    "wof:lastmodified":1466234036,
     "wof:name":"Schuck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.180697,49.85754,9.180697,49.85754],
+  "bbox": [
+    9.180697,
+    49.85754,
+    9.180697,
+    49.85754
+],
   "geometry": {"coordinates":[9.180697,49.85754],"type":"Point"}
 }

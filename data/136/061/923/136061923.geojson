@@ -2,13 +2,14 @@
   "id": 136061923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.082422,53.500206,10.082422,53.500206",
     "geom:latitude":53.500206,
     "geom:longitude":10.082422,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorfleeter Deich 274a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064053,
-        85633111,
         85682505,
-        85899129
+        85633111,
+        85899129,
+        102064053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136061923,
-    "wof:lastmodified":1449075883,
+    "wof:lastmodified":1466214998,
     "wof:name":"Ferienwohnung Hamburg",
     "wof:parent_id":85899129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.082422,53.500206,10.082422,53.500206],
+  "bbox": [
+    10.082422,
+    53.500206,
+    10.082422,
+    53.500206
+],
   "geometry": {"coordinates":[10.082422,53.500206],"type":"Point"}
 }

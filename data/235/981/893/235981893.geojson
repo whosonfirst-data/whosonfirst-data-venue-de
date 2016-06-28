@@ -2,13 +2,14 @@
   "id": 235981893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.875407,48.341713,10.875407,48.341713",
     "geom:latitude":48.341713,
     "geom:longitude":10.875407,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Peter-Henlein-Str. 11",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235981893,
-    "wof:lastmodified":1449008607,
+    "wof:lastmodified":1466218453,
     "wof:name":"Karl Gmbh",
     "wof:parent_id":85899931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.875407,48.341713,10.875407,48.341713],
+  "bbox": [
+    10.875407,
+    48.341713,
+    10.875407,
+    48.341713
+],
   "geometry": {"coordinates":[10.875407,48.341713],"type":"Point"}
 }

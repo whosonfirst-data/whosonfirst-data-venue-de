@@ -2,13 +2,14 @@
   "id": 118797949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.494358,51.346233,7.494358,51.346233",
     "geom:latitude":51.346233,
     "geom:longitude":7.494358,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adrianstr. 6",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795169,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118797949,
-    "wof:lastmodified":1449054415,
+    "wof:lastmodified":1466229634,
     "wof:name":"Apotheke Am Denkmal Inh. Beate Hinze E. K.",
     "wof:parent_id":85795169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.494358,51.346233,7.494358,51.346233],
+  "bbox": [
+    7.494358,
+    51.346233,
+    7.494358,
+    51.346233
+],
   "geometry": {"coordinates":[7.494358,51.346233],"type":"Point"}
 }

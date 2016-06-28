@@ -2,13 +2,14 @@
   "id": 152232833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.081404,53.641735,10.081404,53.641735",
     "geom:latitude":53.641735,
     "geom:longitude":10.081404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellingsb\u00fcttler Weg 144",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900157,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152232833,
-    "wof:lastmodified":1449045792,
+    "wof:lastmodified":1466214736,
     "wof:name":"Christella Christel Von B\u00fchler",
     "wof:parent_id":85900157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.081404,53.641735,10.081404,53.641735],
+  "bbox": [
+    10.081404,
+    53.641735,
+    10.081404,
+    53.641735
+],
   "geometry": {"coordinates":[10.081404,53.641735],"type":"Point"}
 }

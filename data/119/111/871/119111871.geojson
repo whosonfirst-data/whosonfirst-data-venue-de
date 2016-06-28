@@ -2,13 +2,14 @@
   "id": 119111871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.301152,52.626324,13.301152,52.626324",
     "geom:latitude":52.626324,
     "geom:longitude":13.301152,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgfrauenstr. 76 a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063995,
-        85633111,
         85682553,
-        85907699
+        85633111,
+        85907699,
+        102063995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119111871,
-    "wof:lastmodified":1449043594,
+    "wof:lastmodified":1466221170,
     "wof:name":"Prof. Dr. P. Und D. Gummert Architekten",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.301152,52.626324,13.301152,52.626324],
+  "bbox": [
+    13.301152,
+    52.626324,
+    13.301152,
+    52.626324
+],
   "geometry": {"coordinates":[13.301152,52.626324],"type":"Point"}
 }

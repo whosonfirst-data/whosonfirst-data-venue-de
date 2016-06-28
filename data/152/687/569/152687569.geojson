@@ -2,13 +2,14 @@
   "id": 152687569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.328173,49.011429,8.328173,49.011429",
     "geom:latitude":49.011429,
     "geom:longitude":8.328173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hansastr.",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795951,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152687569,
-    "wof:lastmodified":1449045598,
+    "wof:lastmodified":1466224318,
     "wof:name":"S\u00fcdwest Baustoffe- Recycling-verwaltungs Gmbh",
     "wof:parent_id":85795951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.328173,49.011429,8.328173,49.011429],
+  "bbox": [
+    8.328173,
+    49.011429,
+    8.328173,
+    49.011429
+],
   "geometry": {"coordinates":[8.328173,49.011429],"type":"Point"}
 }

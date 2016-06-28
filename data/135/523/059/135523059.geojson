@@ -2,13 +2,14 @@
   "id": 135523059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.932141,50.015366,10.932141,50.015366",
     "geom:latitude":50.015366,
     "geom:longitude":10.932141,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufer Str. 17",
     "sg:city":"Zapfendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135523059,
-    "wof:lastmodified":1449022748,
+    "wof:lastmodified":1466233726,
     "wof:name":"Georg Schneider",
     "wof:parent_id":101825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.932141,50.015366,10.932141,50.015366],
+  "bbox": [
+    10.932141,
+    50.015366,
+    10.932141,
+    50.015366
+],
   "geometry": {"coordinates":[10.932141,50.015366],"type":"Point"}
 }

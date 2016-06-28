@@ -2,13 +2,14 @@
   "id": 119089309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.69289,51.84359,7.69289,51.84359",
     "geom:latitude":51.84359,
     "geom:longitude":7.69289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6nsstr. 57",
     "sg:city":"Drensteinfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063871,
-        85633111,
         85682513,
-        85794805
+        85633111,
+        85794805,
+        102063871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119089309,
-    "wof:lastmodified":1449041349,
+    "wof:lastmodified":1466219045,
     "wof:name":"Ludger Harmann Architekt",
     "wof:parent_id":85794805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.69289,51.84359,7.69289,51.84359],
+  "bbox": [
+    7.69289,
+    51.84359,
+    7.69289,
+    51.84359
+],
   "geometry": {"coordinates":[7.69289,51.84359],"type":"Point"}
 }

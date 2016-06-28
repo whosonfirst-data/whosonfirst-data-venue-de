@@ -2,13 +2,14 @@
   "id": 118721863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.009464,50.94186,7.009464,50.94186",
     "geom:latitude":50.94186,
     "geom:longitude":7.009464,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Classen-Str. 68",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862991,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85862991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118721863,
-    "wof:lastmodified":1449054534,
+    "wof:lastmodified":1466225119,
     "wof:name":"Jutta Heinemann-kelm",
     "wof:parent_id":85862991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.009464,50.94186,7.009464,50.94186],
+  "bbox": [
+    7.009464,
+    50.94186,
+    7.009464,
+    50.94186
+],
   "geometry": {"coordinates":[7.009464,50.94186],"type":"Point"}
 }

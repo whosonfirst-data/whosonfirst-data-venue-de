@@ -2,13 +2,14 @@
   "id": 202585413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.309886,49.783421,12.309886,49.783421",
     "geom:latitude":49.783421,
     "geom:longitude":12.309886,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchenstr. 2",
     "sg:city":"Pl\u00f6\u00dfberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202585413,
-    "wof:lastmodified":1449061775,
+    "wof:lastmodified":1466217356,
     "wof:name":"Hans Riedl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.309886,49.783421,12.309886,49.783421],
+  "bbox": [
+    12.309886,
+    49.783421,
+    12.309886,
+    49.783421
+],
   "geometry": {"coordinates":[12.309886,49.783421],"type":"Point"}
 }

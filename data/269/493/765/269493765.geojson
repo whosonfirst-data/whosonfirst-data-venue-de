@@ -2,13 +2,14 @@
   "id": 269493765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.555367,48.319351,11.555367,48.319351",
     "geom:latitude":48.319351,
     "geom:longitude":11.555367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrstr. 22",
     "sg:city":"Haimhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269493765,
-    "wof:lastmodified":1449036911,
+    "wof:lastmodified":1466221145,
     "wof:name":"Michael Kranz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.555367,48.319351,11.555367,48.319351],
+  "bbox": [
+    11.555367,
+    48.319351,
+    11.555367,
+    48.319351
+],
   "geometry": {"coordinates":[11.555367,48.319351],"type":"Point"}
 }

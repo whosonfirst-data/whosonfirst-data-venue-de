@@ -2,13 +2,14 @@
   "id": 119191279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.947282,53.598698,9.947282,53.598698",
     "geom:latitude":53.598698,
     "geom:longitude":9.947282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gazellenkamp 57",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899703,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119191279,
-    "wof:lastmodified":1449042463,
+    "wof:lastmodified":1466227978,
     "wof:name":"Archiv Des Norddeutschen Rundfunks",
     "wof:parent_id":85899703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.947282,53.598698,9.947282,53.598698],
+  "bbox": [
+    9.947282,
+    53.598698,
+    9.947282,
+    53.598698
+],
   "geometry": {"coordinates":[9.947282,53.598698],"type":"Point"}
 }

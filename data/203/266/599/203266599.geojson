@@ -2,13 +2,14 @@
   "id": 203266599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.046512,53.549919,10.046512,53.549919",
     "geom:latitude":53.549919,
     "geom:longitude":10.046512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sorbenstr. 67",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203266599,
-    "wof:lastmodified":1449025012,
+    "wof:lastmodified":1466218309,
     "wof:name":"Ernst Ziebke",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.046512,53.549919,10.046512,53.549919],
+  "bbox": [
+    10.046512,
+    53.549919,
+    10.046512,
+    53.549919
+],
   "geometry": {"coordinates":[10.046512,53.549919],"type":"Point"}
 }

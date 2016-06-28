@@ -2,13 +2,14 @@
   "id": 118666933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.334593,51.446449,7.334593,51.446449",
     "geom:latitude":51.446449,
     "geom:longitude":7.334593,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 3",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794853,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118666933,
-    "wof:lastmodified":1449053655,
+    "wof:lastmodified":1466222002,
     "wof:name":"J. Schneider Alt. Und Abfallstoffe",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.334593,51.446449,7.334593,51.446449],
+  "bbox": [
+    7.334593,
+    51.446449,
+    7.334593,
+    51.446449
+],
   "geometry": {"coordinates":[7.334593,51.446449],"type":"Point"}
 }

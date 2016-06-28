@@ -2,13 +2,14 @@
   "id": 219998327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.351243,48.875153,9.351243,48.875153",
     "geom:latitude":48.875153,
     "geom:longitude":9.351243,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 14",
     "sg:city":"Schwaikheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219998327,
-    "wof:lastmodified":1449071563,
+    "wof:lastmodified":1466230334,
     "wof:name":"Becker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.351243,48.875153,9.351243,48.875153],
+  "bbox": [
+    9.351243,
+    48.875153,
+    9.351243,
+    48.875153
+],
   "geometry": {"coordinates":[9.351243,48.875153],"type":"Point"}
 }

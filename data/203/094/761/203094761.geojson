@@ -2,13 +2,14 @@
   "id": 203094761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.234257,48.064114,12.234257,48.064114",
     "geom:latitude":48.064114,
     "geom:longitude":12.234257,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landwehrstr. 21",
     "sg:city":"Wasserburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203094761,
-    "wof:lastmodified":1449026146,
+    "wof:lastmodified":1466215417,
     "wof:name":"Anton Breit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.234257,48.064114,12.234257,48.064114],
+  "bbox": [
+    12.234257,
+    48.064114,
+    12.234257,
+    48.064114
+],
   "geometry": {"coordinates":[12.234257,48.064114],"type":"Point"}
 }

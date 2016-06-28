@@ -2,13 +2,14 @@
   "id": 303306625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.724535,50.09885,8.724535,50.09885",
     "geom:latitude":50.09885,
     "geom:longitude":8.724535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchrainstr. 15",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303306625,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1466232070,
     "wof:name":"Bernd Luding",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.724535,50.09885,8.724535,50.09885],
+  "bbox": [
+    8.724535,
+    50.09885,
+    8.724535,
+    50.09885
+],
   "geometry": {"coordinates":[8.724535,50.09885],"type":"Point"}
 }

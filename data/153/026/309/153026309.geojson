@@ -2,13 +2,14 @@
   "id": 153026309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.665844,52.411137,9.665844,52.411137",
     "geom:latitude":52.411137,
     "geom:longitude":9.665844,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Suentelstr. 3",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85907711
+        85633111,
+        85907711,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":153026309,
-    "wof:lastmodified":1449040637,
+    "wof:lastmodified":1466213087,
     "wof:name":"Hermann-knoblauch-akademie Mensch Natur Zukunftswissenchaft",
     "wof:parent_id":85907711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.665844,52.411137,9.665844,52.411137],
+  "bbox": [
+    9.665844,
+    52.411137,
+    9.665844,
+    52.411137
+],
   "geometry": {"coordinates":[9.665844,52.411137],"type":"Point"}
 }

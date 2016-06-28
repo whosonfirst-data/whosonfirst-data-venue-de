@@ -2,13 +2,14 @@
   "id": 118875531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.206881,51.28154,7.206881,51.28154",
     "geom:latitude":51.28154,
     "geom:longitude":7.206881,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westkotter Str. 118",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795025,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85795025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118875531,
-    "wof:lastmodified":1449054186,
+    "wof:lastmodified":1466234407,
     "wof:name":"Bergische Apotheke",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.206881,51.28154,7.206881,51.28154],
+  "bbox": [
+    7.206881,
+    51.28154,
+    7.206881,
+    51.28154
+],
   "geometry": {"coordinates":[7.206881,51.28154],"type":"Point"}
 }

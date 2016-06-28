@@ -2,13 +2,14 @@
   "id": 119429683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.418099,48.780231,11.418099,48.780231",
     "geom:latitude":48.780231,
     "geom:longitude":11.418099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hindemithstr. 70",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900055,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85900055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119429683,
-    "wof:lastmodified":1449043415,
+    "wof:lastmodified":1466242382,
     "wof:name":"Michael Hofmann Modell- Und Vorrichtungs-",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.418099,48.780231,11.418099,48.780231],
+  "bbox": [
+    11.418099,
+    48.780231,
+    11.418099,
+    48.780231
+],
   "geometry": {"coordinates":[11.418099,48.780231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119425089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.593387,49.549484,8.593387,49.549484",
     "geom:latitude":49.549484,
     "geom:longitude":8.593387,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Edisonstr. 3",
     "sg:city":"Viernheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119425089,
-    "wof:lastmodified":1449041724,
+    "wof:lastmodified":1466242285,
     "wof:name":"R. Und U. Winkenbach Gmbh",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.593387,49.549484,8.593387,49.549484],
+  "bbox": [
+    8.593387,
+    49.549484,
+    8.593387,
+    49.549484
+],
   "geometry": {"coordinates":[8.593387,49.549484],"type":"Point"}
 }

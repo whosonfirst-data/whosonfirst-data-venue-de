@@ -2,13 +2,14 @@
   "id": 119376475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.179535,51.424679,7.179535,51.424679",
     "geom:latitude":51.424679,
     "geom:longitude":7.179535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Deimketal 52",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863241,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119376475,
-    "wof:lastmodified":1449041691,
+    "wof:lastmodified":1466240959,
     "wof:name":"Siegfried Leutloff",
     "wof:parent_id":85863241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.179535,51.424679,7.179535,51.424679],
+  "bbox": [
+    7.179535,
+    51.424679,
+    7.179535,
+    51.424679
+],
   "geometry": {"coordinates":[7.179535,51.424679],"type":"Point"}
 }

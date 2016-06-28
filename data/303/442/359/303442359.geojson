@@ -2,13 +2,14 @@
   "id": 303442359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.72731,49.444538,7.72731,49.444538",
     "geom:latitude":49.444538,
     "geom:longitude":7.72731,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gienanthstr. 1",
     "sg:city":"Kaiserslautern",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303442359,
-    "wof:lastmodified":1448999190,
+    "wof:lastmodified":1466235724,
     "wof:name":"Karl Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.72731,49.444538,7.72731,49.444538],
+  "bbox": [
+    7.72731,
+    49.444538,
+    7.72731,
+    49.444538
+],
   "geometry": {"coordinates":[7.72731,49.444538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220032443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.10149,49.463875,11.10149,49.463875",
     "geom:latitude":49.463875,
     "geom:longitude":11.10149,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schoppershofstr. 54",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220032443,
-    "wof:lastmodified":1449074420,
+    "wof:lastmodified":1466215208,
     "wof:name":"Cafe Bismarck",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.10149,49.463875,11.10149,49.463875],
+  "bbox": [
+    11.10149,
+    49.463875,
+    11.10149,
+    49.463875
+],
   "geometry": {"coordinates":[11.10149,49.463875],"type":"Point"}
 }

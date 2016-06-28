@@ -2,13 +2,14 @@
   "id": 102701401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.614705,48.11565,11.614705,48.11565",
     "geom:latitude":48.11565,
     "geom:longitude":11.614705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899939,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102701401,
-    "wof:lastmodified":1449069683,
+    "wof:lastmodified":1466216176,
     "wof:name":"Meteorite - Martin .de",
     "wof:parent_id":85899939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.614705,48.11565,11.614705,48.11565],
+  "bbox": [
+    11.614705,
+    48.11565,
+    11.614705,
+    48.11565
+],
   "geometry": {"coordinates":[11.614705,48.11565],"type":"Point"}
 }

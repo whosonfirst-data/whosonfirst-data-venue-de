@@ -2,13 +2,14 @@
   "id": 152616635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.757955,51.393093,6.757955,51.393093",
     "geom:latitude":51.393093,
     "geom:longitude":6.757955,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forststr. 102",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796677,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85796677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152616635,
-    "wof:lastmodified":1449047698,
+    "wof:lastmodified":1466222843,
     "wof:name":"Bkb Verwaltungs- Und Beteiligungsges. Mbh",
     "wof:parent_id":85796677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.757955,51.393093,6.757955,51.393093],
+  "bbox": [
+    6.757955,
+    51.393093,
+    6.757955,
+    51.393093
+],
   "geometry": {"coordinates":[6.757955,51.393093],"type":"Point"}
 }

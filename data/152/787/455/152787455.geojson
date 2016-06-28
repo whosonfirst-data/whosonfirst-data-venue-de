@@ -2,13 +2,14 @@
   "id": 152787455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.989424,53.553104,9.989424,53.553104",
     "geom:latitude":53.553104,
     "geom:longitude":9.989424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grosse Bleichen 32",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152787455,
-    "wof:lastmodified":1449046403,
+    "wof:lastmodified":1466226749,
     "wof:name":"Die Magnetische Energie Ist Die Elementare Energie",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.989424,53.553104,9.989424,53.553104],
+  "bbox": [
+    9.989424,
+    53.553104,
+    9.989424,
+    53.553104
+],
   "geometry": {"coordinates":[9.989424,53.553104],"type":"Point"}
 }

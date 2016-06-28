@@ -2,13 +2,14 @@
   "id": 135584273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.460516,50.805283,12.460516,50.805283",
     "geom:latitude":50.805283,
     "geom:longitude":12.460516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lauenhainer Str. 30 B",
     "sg:city":"Dennheritz",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135584273,
-    "wof:lastmodified":1449021319,
+    "wof:lastmodified":1466238058,
     "wof:name":"Herzog Gmbh",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.460516,50.805283,12.460516,50.805283],
+  "bbox": [
+    12.460516,
+    50.805283,
+    12.460516,
+    50.805283
+],
   "geometry": {"coordinates":[12.460516,50.805283],"type":"Point"}
 }

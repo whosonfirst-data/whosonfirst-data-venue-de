@@ -2,13 +2,14 @@
   "id": 119111677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.315066,52.502625,13.315066,52.502625",
     "geom:latitude":52.502625,
     "geom:longitude":13.315066,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wielandstr. 16",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119111677,
-    "wof:lastmodified":1449043592,
+    "wof:lastmodified":1466221149,
     "wof:name":"Prof. Dr. Fritz Neumeyer Architekt",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.315066,52.502625,13.315066,52.502625],
+  "bbox": [
+    13.315066,
+    52.502625,
+    13.315066,
+    52.502625
+],
   "geometry": {"coordinates":[13.315066,52.502625],"type":"Point"}
 }

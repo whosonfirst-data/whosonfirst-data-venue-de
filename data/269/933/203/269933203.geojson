@@ -2,13 +2,14 @@
   "id": 269933203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.285444,52.680569,13.285444,52.680569",
     "geom:latitude":52.680569,
     "geom:longitude":13.285444,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochlandstr. 17",
     "sg:city":"Hohen Neuendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269933203,
-    "wof:lastmodified":1449036636,
+    "wof:lastmodified":1466231510,
     "wof:name":"Dirk Lubasch",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.285444,52.680569,13.285444,52.680569],
+  "bbox": [
+    13.285444,
+    52.680569,
+    13.285444,
+    52.680569
+],
   "geometry": {"coordinates":[13.285444,52.680569],"type":"Point"}
 }

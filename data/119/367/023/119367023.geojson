@@ -2,13 +2,14 @@
   "id": 119367023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453274,51.551186,7.453274,51.551186",
     "geom:latitude":51.551186,
     "geom:longitude":7.453274,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Evinger Berg 11",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85795887
+        85633111,
+        85795887,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119367023,
-    "wof:lastmodified":1449042439,
+    "wof:lastmodified":1466240715,
     "wof:name":"Peter Pfefferkuch",
     "wof:parent_id":85795887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453274,51.551186,7.453274,51.551186],
+  "bbox": [
+    7.453274,
+    51.551186,
+    7.453274,
+    51.551186
+],
   "geometry": {"coordinates":[7.453274,51.551186],"type":"Point"}
 }

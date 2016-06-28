@@ -2,13 +2,14 @@
   "id": 135806215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.076961,51.18409,7.076961,51.18409",
     "geom:latitude":51.18409,
     "geom:longitude":7.076961,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Behringstr. 41 a",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862909,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85862909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135806215,
-    "wof:lastmodified":1449020977,
+    "wof:lastmodified":1466244084,
     "wof:name":"Klaus Ueberholz",
     "wof:parent_id":85862909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.076961,51.18409,7.076961,51.18409],
+  "bbox": [
+    7.076961,
+    51.18409,
+    7.076961,
+    51.18409
+],
   "geometry": {"coordinates":[7.076961,51.18409],"type":"Point"}
 }

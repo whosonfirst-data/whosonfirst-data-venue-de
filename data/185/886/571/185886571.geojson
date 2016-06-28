@@ -2,13 +2,14 @@
   "id": 185886571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.535385,48.000755,12.535385,48.000755",
     "geom:latitude":48.000755,
     "geom:longitude":12.535385,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 17",
     "sg:city":"Altenmarkt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185886571,
-    "wof:lastmodified":1449007504,
+    "wof:lastmodified":1466215923,
     "wof:name":"Furtner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.535385,48.000755,12.535385,48.000755],
+  "bbox": [
+    12.535385,
+    48.000755,
+    12.535385,
+    48.000755
+],
   "geometry": {"coordinates":[12.535385,48.000755],"type":"Point"}
 }

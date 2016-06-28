@@ -2,13 +2,14 @@
   "id": 135709541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.893024,53.572903,9.893024,53.572903",
     "geom:latitude":53.572903,
     "geom:longitude":9.893024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luruper Chaussee 125",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899221,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135709541,
-    "wof:lastmodified":1449021577,
+    "wof:lastmodified":1466242700,
     "wof:name":"Grundst\u00fccksgesellschaft Pinnow Mbh",
     "wof:parent_id":85899221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.893024,53.572903,9.893024,53.572903],
+  "bbox": [
+    9.893024,
+    53.572903,
+    9.893024,
+    53.572903
+],
   "geometry": {"coordinates":[9.893024,53.572903],"type":"Point"}
 }

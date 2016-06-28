@@ -2,13 +2,14 @@
   "id": 135648185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.089057,48.802368,9.089057,48.802368",
     "geom:latitude":48.802368,
     "geom:longitude":9.089057,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krokodilweg 40",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135648185,
-    "wof:lastmodified":1449021833,
+    "wof:lastmodified":1466240939,
     "wof:name":"Rott International Group Gmbh",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.089057,48.802368,9.089057,48.802368],
+  "bbox": [
+    9.089057,
+    48.802368,
+    9.089057,
+    48.802368
+],
   "geometry": {"coordinates":[9.089057,48.802368],"type":"Point"}
 }

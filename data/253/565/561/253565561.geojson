@@ -2,13 +2,14 @@
   "id": 253565561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.215536,48.68029,9.215536,48.68029",
     "geom:latitude":48.68029,
     "geom:longitude":9.215536,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintere Gasse 50",
     "sg:city":"Filderstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253565561,
-    "wof:lastmodified":1449065525,
+    "wof:lastmodified":1466230635,
     "wof:name":"Karl Lutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.215536,48.68029,9.215536,48.68029],
+  "bbox": [
+    9.215536,
+    48.68029,
+    9.215536,
+    48.68029
+],
   "geometry": {"coordinates":[9.215536,48.68029],"type":"Point"}
 }

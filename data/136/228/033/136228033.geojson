@@ -2,13 +2,14 @@
   "id": 136228033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.527427,51.465702,7.527427,51.465702",
     "geom:latitude":51.465702,
     "geom:longitude":7.527427,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wieselweg 4",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794881,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85794881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136228033,
-    "wof:lastmodified":1449075310,
+    "wof:lastmodified":1466222885,
     "wof:name":"K. Rosendahl",
     "wof:parent_id":85794881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.527427,51.465702,7.527427,51.465702],
+  "bbox": [
+    7.527427,
+    51.465702,
+    7.527427,
+    51.465702
+],
   "geometry": {"coordinates":[7.527427,51.465702],"type":"Point"}
 }

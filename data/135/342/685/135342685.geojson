@@ -2,13 +2,14 @@
   "id": 135342685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.969576,50.044552,8.969576,50.044552",
     "geom:latitude":50.044552,
     "geom:longitude":8.969576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapellenstr. 12",
     "sg:city":"Seligenstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135342685,
-    "wof:lastmodified":1449023786,
+    "wof:lastmodified":1466217390,
     "wof:name":"F. Mayer",
     "wof:parent_id":101840017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.969576,50.044552,8.969576,50.044552],
+  "bbox": [
+    8.969576,
+    50.044552,
+    8.969576,
+    50.044552
+],
   "geometry": {"coordinates":[8.969576,50.044552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202433255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.02497,49.798023,10.02497,49.798023",
     "geom:latitude":49.798023,
     "geom:longitude":10.02497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstr. 20",
     "sg:city":"Rottendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202433255,
-    "wof:lastmodified":1449060400,
+    "wof:lastmodified":1466214364,
     "wof:name":"D. Seiler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.02497,49.798023,10.02497,49.798023],
+  "bbox": [
+    10.02497,
+    49.798023,
+    10.02497,
+    49.798023
+],
   "geometry": {"coordinates":[10.02497,49.798023],"type":"Point"}
 }

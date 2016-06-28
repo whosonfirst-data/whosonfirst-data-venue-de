@@ -2,13 +2,14 @@
   "id": 135705313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.18723,51.215469,7.18723,51.215469",
     "geom:latitude":51.215469,
     "geom:longitude":7.18723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidter Str. 2",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796007,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135705313,
-    "wof:lastmodified":1449024002,
+    "wof:lastmodified":1466242387,
     "wof:name":"Regge Bautr\u00e4ger Gmbh",
     "wof:parent_id":85796007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.18723,51.215469,7.18723,51.215469],
+  "bbox": [
+    7.18723,
+    51.215469,
+    7.18723,
+    51.215469
+],
   "geometry": {"coordinates":[7.18723,51.215469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203046331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.52415,51.111389,11.52415,51.111389",
     "geom:latitude":51.111389,
     "geom:longitude":11.52415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 69",
     "sg:city":"Tromsdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203046331,
-    "wof:lastmodified":1449025999,
+    "wof:lastmodified":1466214572,
     "wof:name":"H. Kurz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.52415,51.111389,11.52415,51.111389],
+  "bbox": [
+    11.52415,
+    51.111389,
+    11.52415,
+    51.111389
+],
   "geometry": {"coordinates":[11.52415,51.111389],"type":"Point"}
 }

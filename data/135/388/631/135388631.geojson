@@ -2,13 +2,14 @@
   "id": 135388631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57752,48.13641,11.57752,48.13641",
     "geom:latitude":48.13641,
     "geom:longitude":11.57752,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str 61-62::",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905605,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135388631,
-    "wof:lastmodified":1449021094,
+    "wof:lastmodified":1466221882,
     "wof:name":"Hcm Hypo Capital Management Verm\u00f6gensbetreuungs-aktiengesellschaft",
     "wof:parent_id":85905605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57752,48.13641,11.57752,48.13641],
+  "bbox": [
+    11.57752,
+    48.13641,
+    11.57752,
+    48.13641
+],
   "geometry": {"coordinates":[11.57752,48.13641],"type":"Point"}
 }

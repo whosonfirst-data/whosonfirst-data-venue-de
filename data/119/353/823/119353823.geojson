@@ -2,13 +2,14 @@
   "id": 119353823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.194035,51.597706,7.194035,51.597706",
     "geom:latitude":51.597706,
     "geom:longitude":7.194035,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Stadion 20",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
-        85795495
+        85633111,
+        85795495,
+        102063831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119353823,
-    "wof:lastmodified":1449041541,
+    "wof:lastmodified":1466240092,
     "wof:name":"Kottmayr Tischlerei Gmbh",
     "wof:parent_id":85795495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.194035,51.597706,7.194035,51.597706],
+  "bbox": [
+    7.194035,
+    51.597706,
+    7.194035,
+    51.597706
+],
   "geometry": {"coordinates":[7.194035,51.597706],"type":"Point"}
 }

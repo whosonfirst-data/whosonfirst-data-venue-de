@@ -2,13 +2,14 @@
   "id": 303275311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.250299,48.911438,8.250299,48.911438",
     "geom:latitude":48.911438,
     "geom:longitude":8.250299,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ritterstr. 24",
     "sg:city":"Bietigheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303275311,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466231285,
     "wof:name":"Ulrich Benke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.250299,48.911438,8.250299,48.911438],
+  "bbox": [
+    8.250299,
+    48.911438,
+    8.250299,
+    48.911438
+],
   "geometry": {"coordinates":[8.250299,48.911438],"type":"Point"}
 }

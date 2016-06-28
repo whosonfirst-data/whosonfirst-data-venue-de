@@ -2,13 +2,14 @@
   "id": 135275005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.620881,50.167591,8.620881,50.167591",
     "geom:latitude":50.167591,
     "geom:longitude":8.620881,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alt Niederursel 21",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135275005,
-    "wof:lastmodified":1449021982,
+    "wof:lastmodified":1466220804,
     "wof:name":"Hermann Calmano",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.620881,50.167591,8.620881,50.167591],
+  "bbox": [
+    8.620881,
+    50.167591,
+    8.620881,
+    50.167591
+],
   "geometry": {"coordinates":[8.620881,50.167591],"type":"Point"}
 }

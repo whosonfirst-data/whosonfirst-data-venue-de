@@ -2,13 +2,14 @@
   "id": 152395763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.92146,48.858318,12.92146,48.858318",
     "geom:latitude":48.858318,
     "geom:longitude":12.92146,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Egger Str. 64",
     "sg:city":"Metten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152395763,
-    "wof:lastmodified":1449048241,
+    "wof:lastmodified":1466218076,
     "wof:name":"Franz Eid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.92146,48.858318,12.92146,48.858318],
+  "bbox": [
+    12.92146,
+    48.858318,
+    12.92146,
+    48.858318
+],
   "geometry": {"coordinates":[12.92146,48.858318],"type":"Point"}
 }

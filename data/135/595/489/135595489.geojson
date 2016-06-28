@@ -2,13 +2,14 @@
   "id": 135595489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.04568,48.473991,12.04568,48.473991",
     "geom:latitude":48.473991,
     "geom:longitude":12.04568,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windtener Str. 1",
     "sg:city":"Eching",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135595489,
-    "wof:lastmodified":1449023709,
+    "wof:lastmodified":1466239187,
     "wof:name":"Hans Seubert",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.04568,48.473991,12.04568,48.473991],
+  "bbox": [
+    12.04568,
+    48.473991,
+    12.04568,
+    48.473991
+],
   "geometry": {"coordinates":[12.04568,48.473991],"type":"Point"}
 }

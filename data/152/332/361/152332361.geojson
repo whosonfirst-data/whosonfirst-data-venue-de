@@ -2,13 +2,14 @@
   "id": 152332361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539822,52.040169,8.539822,52.040169",
     "geom:latitude":52.040169,
     "geom:longitude":8.539822,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johanneswerkstr. 12",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152332361,
-    "wof:lastmodified":1449046874,
+    "wof:lastmodified":1466216836,
     "wof:name":"Beratungsstelle F\u00fcr Selbstmordgef\u00e4hrdete",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539822,52.040169,8.539822,52.040169],
+  "bbox": [
+    8.539822,
+    52.040169,
+    8.539822,
+    52.040169
+],
   "geometry": {"coordinates":[8.539822,52.040169],"type":"Point"}
 }

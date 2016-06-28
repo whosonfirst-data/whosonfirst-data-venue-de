@@ -2,13 +2,14 @@
   "id": 118836969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.089282,52.394569,13.089282,52.394569",
     "geom:latitude":52.394569,
     "geom:longitude":13.089282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Garnstr. 34",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898981,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85898981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118836969,
-    "wof:lastmodified":1449054065,
+    "wof:lastmodified":1466231963,
     "wof:name":"Nowawes-apotheke Inh. Sigrun Ullrich",
     "wof:parent_id":85898981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.089282,52.394569,13.089282,52.394569],
+  "bbox": [
+    13.089282,
+    52.394569,
+    13.089282,
+    52.394569
+],
   "geometry": {"coordinates":[13.089282,52.394569],"type":"Point"}
 }

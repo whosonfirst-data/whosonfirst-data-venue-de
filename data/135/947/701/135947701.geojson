@@ -2,13 +2,14 @@
   "id": 135947701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.409968,49.474194,8.409968,49.474194",
     "geom:latitude":49.474194,
     "geom:longitude":8.409968,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Croissant-Rust-Str. 6",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135947701,
-    "wof:lastmodified":1449023188,
+    "wof:lastmodified":1466244744,
     "wof:name":"Jp Mayer Verwaltungs Gmbh",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.409968,49.474194,8.409968,49.474194],
+  "bbox": [
+    8.409968,
+    49.474194,
+    8.409968,
+    49.474194
+],
   "geometry": {"coordinates":[8.409968,49.474194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203222035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.467008,48.562054,9.467008,48.562054",
     "geom:latitude":48.562054,
     "geom:longitude":9.467008,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedenstr. 10",
     "sg:city":"Lenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203222035,
-    "wof:lastmodified":1449026247,
+    "wof:lastmodified":1466217567,
     "wof:name":"M. Schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.467008,48.562054,9.467008,48.562054],
+  "bbox": [
+    9.467008,
+    48.562054,
+    9.467008,
+    48.562054
+],
   "geometry": {"coordinates":[9.467008,48.562054],"type":"Point"}
 }

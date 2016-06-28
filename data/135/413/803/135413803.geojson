@@ -2,13 +2,14 @@
   "id": 135413803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.114855,50.292778,9.114855,50.292778",
     "geom:latitude":50.292778,
     "geom:longitude":9.114855,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 29:: 63648 B\u00fcdingen:: Germany.^^Markstr 14-18::",
     "sg:city":"B\u00fcdingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135413803,
-    "wof:lastmodified":1449021463,
+    "wof:lastmodified":1466224051,
     "wof:name":"Raiffeisenbank D\u00fcdelsheim Eg",
     "wof:parent_id":101812209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.114855,50.292778,9.114855,50.292778],
+  "bbox": [
+    9.114855,
+    50.292778,
+    9.114855,
+    50.292778
+],
   "geometry": {"coordinates":[9.114855,50.292778],"type":"Point"}
 }

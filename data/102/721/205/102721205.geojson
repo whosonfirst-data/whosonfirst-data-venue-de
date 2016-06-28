@@ -2,13 +2,14 @@
   "id": 102721205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.364152,49.016899,8.364152,49.016899",
     "geom:latitude":49.016899,
     "geom:longitude":8.364152,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6sserstr 17-19",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102721205,
-    "wof:lastmodified":1449070201,
+    "wof:lastmodified":1466216731,
     "wof:name":"Kondima Engelhardt Gmbh & Co Kg",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.364152,49.016899,8.364152,49.016899],
+  "bbox": [
+    8.364152,
+    49.016899,
+    8.364152,
+    49.016899
+],
   "geometry": {"coordinates":[8.364152,49.016899],"type":"Point"}
 }

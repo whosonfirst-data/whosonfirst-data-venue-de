@@ -2,13 +2,14 @@
   "id": 135669001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.166476,47.679985,9.166476,47.679985",
     "geom:latitude":47.679985,
     "geom:longitude":9.166476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wollmatinger Str. 106",
     "sg:city":"Konstanz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135669001,
-    "wof:lastmodified":1449021334,
+    "wof:lastmodified":1466241492,
     "wof:name":"Michael M\u00f6llers",
     "wof:parent_id":101748473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.166476,47.679985,9.166476,47.679985],
+  "bbox": [
+    9.166476,
+    47.679985,
+    9.166476,
+    47.679985
+],
   "geometry": {"coordinates":[9.166476,47.679985],"type":"Point"}
 }

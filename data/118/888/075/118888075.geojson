@@ -2,13 +2,14 @@
   "id": 118888075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.574737,53.181595,8.574737,53.181595",
     "geom:latitude":53.181595,
     "geom:longitude":8.574737,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landrat-Christians-Str. 126",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796313,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118888075,
-    "wof:lastmodified":1449054032,
+    "wof:lastmodified":1466235214,
     "wof:name":"Flora-apotheke",
     "wof:parent_id":85796313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.574737,53.181595,8.574737,53.181595],
+  "bbox": [
+    8.574737,
+    53.181595,
+    8.574737,
+    53.181595
+],
   "geometry": {"coordinates":[8.574737,53.181595],"type":"Point"}
 }

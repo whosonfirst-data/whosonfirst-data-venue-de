@@ -2,13 +2,14 @@
   "id": 219245899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.544325,50.416019,10.544325,50.416019",
     "geom:latitude":50.416019,
     "geom:longitude":10.544325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstr. 3",
     "sg:city":"Haina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219245899,
-    "wof:lastmodified":1449073802,
+    "wof:lastmodified":1466215936,
     "wof:name":"Hans Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.544325,50.416019,10.544325,50.416019],
+  "bbox": [
+    10.544325,
+    50.416019,
+    10.544325,
+    50.416019
+],
   "geometry": {"coordinates":[10.544325,50.416019],"type":"Point"}
 }

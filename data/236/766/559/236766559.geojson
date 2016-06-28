@@ -2,13 +2,14 @@
   "id": 236766559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.559021,49.402561,8.559021,49.402561",
     "geom:latitude":49.402561,
     "geom:longitude":8.559021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Duisburger Str 2",
     "sg:city":"Schwetzingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236766559,
-    "wof:lastmodified":1449001644,
+    "wof:lastmodified":1466232957,
     "wof:name":"Bcr",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.559021,49.402561,8.559021,49.402561],
+  "bbox": [
+    8.559021,
+    49.402561,
+    8.559021,
+    49.402561
+],
   "geometry": {"coordinates":[8.559021,49.402561],"type":"Point"}
 }

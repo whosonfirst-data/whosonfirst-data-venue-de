@@ -2,13 +2,14 @@
   "id": 118943333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.978753,51.488739,11.978753,51.488739",
     "geom:latitude":51.488739,
     "geom:longitude":11.978753,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Steintor 16",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118943333,
-    "wof:lastmodified":1449053522,
+    "wof:lastmodified":1466237515,
     "wof:name":"Steintor-apotheke Inh. Barbara Langhans",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.978753,51.488739,11.978753,51.488739],
+  "bbox": [
+    11.978753,
+    51.488739,
+    11.978753,
+    51.488739
+],
   "geometry": {"coordinates":[11.978753,51.488739],"type":"Point"}
 }

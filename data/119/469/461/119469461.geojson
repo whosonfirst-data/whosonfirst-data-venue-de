@@ -2,13 +2,14 @@
   "id": 119469461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.144871,53.174232,13.144871,53.174232",
     "geom:latitude":53.174232,
     "geom:longitude":13.144871,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berner Str. 9",
     "sg:city":"F\u00fcrstenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119469461,
-    "wof:lastmodified":1449043580,
+    "wof:lastmodified":1466243071,
     "wof:name":"Erich Ketzl",
     "wof:parent_id":101818465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.144871,53.174232,13.144871,53.174232],
+  "bbox": [
+    13.144871,
+    53.174232,
+    13.144871,
+    53.174232
+],
   "geometry": {"coordinates":[13.144871,53.174232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135899087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.23132,51.47435,7.23132,51.47435",
     "geom:latitude":51.47435,
     "geom:longitude":7.23132,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinring 45",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135899087,
-    "wof:lastmodified":1449023846,
+    "wof:lastmodified":1466244497,
     "wof:name":"M.b.g. Medien-beteiligungs Gesellschaft Nr. 14 Mbh",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.23132,51.47435,7.23132,51.47435],
+  "bbox": [
+    7.23132,
+    51.47435,
+    7.23132,
+    51.47435
+],
   "geometry": {"coordinates":[7.23132,51.47435],"type":"Point"}
 }

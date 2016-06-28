@@ -2,13 +2,14 @@
   "id": 236258509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.944645,50.818485,12.944645,50.818485",
     "geom:latitude":50.818485,
     "geom:longitude":12.944645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschopauer Str. 178",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236258509,
-    "wof:lastmodified":1449004428,
+    "wof:lastmodified":1466223671,
     "wof:name":"Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.944645,50.818485,12.944645,50.818485],
+  "bbox": [
+    12.944645,
+    50.818485,
+    12.944645,
+    50.818485
+],
   "geometry": {"coordinates":[12.944645,50.818485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118632463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.050263,51.49947,7.050263,51.49947",
     "geom:latitude":51.49947,
     "geom:longitude":7.050263,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Joseph-Oertgen-Weg 51",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118632463,
-    "wof:lastmodified":1449054040,
+    "wof:lastmodified":1466220114,
     "wof:name":"Louise-schroeder-heim",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.050263,51.49947,7.050263,51.49947],
+  "bbox": [
+    7.050263,
+    51.49947,
+    7.050263,
+    51.49947
+],
   "geometry": {"coordinates":[7.050263,51.49947],"type":"Point"}
 }

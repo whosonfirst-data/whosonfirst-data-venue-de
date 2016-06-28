@@ -2,13 +2,14 @@
   "id": 286510171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.504815,50.537544,12.504815,50.537544",
     "geom:latitude":50.537544,
     "geom:longitude":12.504815,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Angerwiese 6",
     "sg:city":"Steinberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286510171,
-    "wof:lastmodified":1449016973,
+    "wof:lastmodified":1466230368,
     "wof:name":"Leistner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.504815,50.537544,12.504815,50.537544],
+  "bbox": [
+    12.504815,
+    50.537544,
+    12.504815,
+    50.537544
+],
   "geometry": {"coordinates":[12.504815,50.537544],"type":"Point"}
 }

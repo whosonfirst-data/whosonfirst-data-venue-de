@@ -2,13 +2,14 @@
   "id": 119099517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.155897,48.798622,9.155897,48.798622",
     "geom:latitude":48.798622,
     "geom:longitude":9.155897,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcnewaldstr. 45",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119099517,
-    "wof:lastmodified":1449042620,
+    "wof:lastmodified":1466220002,
     "wof:name":"Monika Gremmelspacher Architektin",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.155897,48.798622,9.155897,48.798622],
+  "bbox": [
+    9.155897,
+    48.798622,
+    9.155897,
+    48.798622
+],
   "geometry": {"coordinates":[9.155897,48.798622],"type":"Point"}
 }

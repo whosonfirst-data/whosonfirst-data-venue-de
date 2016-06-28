@@ -2,13 +2,14 @@
   "id": 135282579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.620944,49.757248,10.620944,49.757248",
     "geom:latitude":49.757248,
     "geom:longitude":10.620944,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bamberger Str. 7",
     "sg:city":"Schl\u00fcsselfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135282579,
-    "wof:lastmodified":1449022911,
+    "wof:lastmodified":1466232074,
     "wof:name":"Josef Fischer",
     "wof:parent_id":101827137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.620944,49.757248,10.620944,49.757248],
+  "bbox": [
+    10.620944,
+    49.757248,
+    10.620944,
+    49.757248
+],
   "geometry": {"coordinates":[10.620944,49.757248],"type":"Point"}
 }

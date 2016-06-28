@@ -2,13 +2,14 @@
   "id": 135306363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.34648,49.123295,8.34648,49.123295",
     "geom:latitude":49.123295,
     "geom:longitude":8.34648,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hauptstr. 46",
     "sg:city":"Leimersheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135306363,
-    "wof:lastmodified":1449023865,
+    "wof:lastmodified":1466214315,
     "wof:name":"Paul Schaaf",
     "wof:parent_id":101760787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.34648,49.123295,8.34648,49.123295],
+  "bbox": [
+    8.34648,
+    49.123295,
+    8.34648,
+    49.123295
+],
   "geometry": {"coordinates":[8.34648,49.123295],"type":"Point"}
 }

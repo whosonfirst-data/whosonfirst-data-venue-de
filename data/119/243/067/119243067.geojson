@@ -2,13 +2,14 @@
   "id": 119243067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.594194,48.164387,11.594194,48.164387",
     "geom:latitude":48.164387,
     "geom:longitude":11.594194,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Biedersteiner Str. 29",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119243067,
-    "wof:lastmodified":1449041645,
+    "wof:lastmodified":1466232941,
     "wof:name":"Teilbibliothek Medizin Vorklinikum",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.594194,48.164387,11.594194,48.164387],
+  "bbox": [
+    11.594194,
+    48.164387,
+    11.594194,
+    48.164387
+],
   "geometry": {"coordinates":[11.594194,48.164387],"type":"Point"}
 }

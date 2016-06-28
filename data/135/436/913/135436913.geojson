@@ -2,13 +2,14 @@
   "id": 135436913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.34993,49.69479,11.34993,49.69479",
     "geom:latitude":49.69479,
     "geom:longitude":11.34993,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 4",
     "sg:city":"Obertrubach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135436913,
-    "wof:lastmodified":1449023711,
+    "wof:lastmodified":1466226027,
     "wof:name":"Sparkasse Forchheim",
     "wof:parent_id":101827105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.34993,49.69479,11.34993,49.69479],
+  "bbox": [
+    11.34993,
+    49.69479,
+    11.34993,
+    49.69479
+],
   "geometry": {"coordinates":[11.34993,49.69479],"type":"Point"}
 }

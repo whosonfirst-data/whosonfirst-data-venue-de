@@ -2,13 +2,14 @@
   "id": 119111705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.528627,52.273457,10.528627,52.273457",
     "geom:latitude":52.273457,
     "geom:longitude":10.528627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pockelsstr. 4",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905763,
+        85682555,
         85633111,
         101748797,
         102063903,
-        85682555
+        85905763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119111705,
-    "wof:lastmodified":1449043600,
+    "wof:lastmodified":1466221152,
     "wof:name":"Prof. Dr. Gerhard Auer Architekt",
     "wof:parent_id":85905763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.528627,52.273457,10.528627,52.273457],
+  "bbox": [
+    10.528627,
+    52.273457,
+    10.528627,
+    52.273457
+],
   "geometry": {"coordinates":[10.528627,52.273457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118949653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.700754,53.033112,8.700754,53.033112",
     "geom:latitude":53.033112,
     "geom:longitude":8.700754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Graftwinkel 2",
     "sg:city":"Stuhr",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063971,
-        85633111,
         85682555,
-        85795997
+        85633111,
+        85795997,
+        102063971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118949653,
-    "wof:lastmodified":1449054027,
+    "wof:lastmodified":1466237816,
     "wof:name":"Wilhelm-hauff Apotheke Inh. Bernd Ga\u00dfmann",
     "wof:parent_id":85795997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.700754,53.033112,8.700754,53.033112],
+  "bbox": [
+    8.700754,
+    53.033112,
+    8.700754,
+    53.033112
+],
   "geometry": {"coordinates":[8.700754,53.033112],"type":"Point"}
 }

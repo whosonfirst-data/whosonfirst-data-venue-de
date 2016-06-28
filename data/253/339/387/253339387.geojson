@@ -2,13 +2,14 @@
   "id": 253339387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.198625,49.028393,12.198625,49.028393",
     "geom:latitude":49.028393,
     "geom:longitude":12.198625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensburger Str. 60",
     "sg:city":"Donaustauf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253339387,
-    "wof:lastmodified":1449064147,
+    "wof:lastmodified":1466225642,
     "wof:name":"Johann Eich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.198625,49.028393,12.198625,49.028393],
+  "bbox": [
+    12.198625,
+    49.028393,
+    12.198625,
+    49.028393
+],
   "geometry": {"coordinates":[12.198625,49.028393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136207569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.92612,51.52623,6.92612,51.52623",
     "geom:latitude":51.52623,
     "geom:longitude":6.92612,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerichtsstr. 28",
     "sg:city":"Bottrop",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795845,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85795845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136207569,
-    "wof:lastmodified":1449075855,
+    "wof:lastmodified":1466221622,
     "wof:name":"G. Ostendorf",
     "wof:parent_id":85795845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.92612,51.52623,6.92612,51.52623],
+  "bbox": [
+    6.92612,
+    51.52623,
+    6.92612,
+    51.52623
+],
   "geometry": {"coordinates":[6.92612,51.52623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136057631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.641079,50.127979,8.641079,50.127979",
     "geom:latitude":50.127979,
     "geom:longitude":8.641079,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ginnheimer Str. 45",
     "sg:city":"Frankfurt am Main",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795985,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136057631,
-    "wof:lastmodified":1449075562,
+    "wof:lastmodified":1466214794,
     "wof:name":"Ethik  Bei Theology.de",
     "wof:parent_id":85795985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.641079,50.127979,8.641079,50.127979],
+  "bbox": [
+    8.641079,
+    50.127979,
+    8.641079,
+    50.127979
+],
   "geometry": {"coordinates":[8.641079,50.127979],"type":"Point"}
 }

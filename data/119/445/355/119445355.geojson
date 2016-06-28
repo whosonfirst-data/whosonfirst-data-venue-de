@@ -2,13 +2,14 @@
   "id": 119445355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.874577,48.381519,10.874577,48.381519",
     "geom:latitude":48.381519,
     "geom:longitude":10.874577,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuh\u00e4userstr. 2",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899849,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119445355,
-    "wof:lastmodified":1449041190,
+    "wof:lastmodified":1466242595,
     "wof:name":"Prisma Gmbh",
     "wof:parent_id":85899849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.874577,48.381519,10.874577,48.381519],
+  "bbox": [
+    10.874577,
+    48.381519,
+    10.874577,
+    48.381519
+],
   "geometry": {"coordinates":[10.874577,48.381519],"type":"Point"}
 }

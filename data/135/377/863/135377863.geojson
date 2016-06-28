@@ -2,13 +2,14 @@
   "id": 135377863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.19655,51.271564,7.19655,51.271564",
     "geom:latitude":51.271564,
     "geom:longitude":7.19655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 20 03 65:: 42203 Wuppertal:: Germany.^^Bernhard-Letterhaus-Strasse 1-3::",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795025,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85795025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135377863,
-    "wof:lastmodified":1449022130,
+    "wof:lastmodified":1466220768,
     "wof:name":"Credit-und Volksbank Eg",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.19655,51.271564,7.19655,51.271564],
+  "bbox": [
+    7.19655,
+    51.271564,
+    7.19655,
+    51.271564
+],
   "geometry": {"coordinates":[7.19655,51.271564],"type":"Point"}
 }

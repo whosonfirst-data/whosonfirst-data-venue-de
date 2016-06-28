@@ -2,13 +2,14 @@
   "id": 118609151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.766306,51.018803,13.766306,51.018803",
     "geom:latitude":51.018803,
     "geom:longitude":13.766306,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uhdestr 5",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899525,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118609151,
-    "wof:lastmodified":1449053668,
+    "wof:lastmodified":1466218762,
     "wof:name":"Haus- Und Sicherheitstechnik Gmbh",
     "wof:parent_id":85899525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.766306,51.018803,13.766306,51.018803],
+  "bbox": [
+    13.766306,
+    51.018803,
+    13.766306,
+    51.018803
+],
   "geometry": {"coordinates":[13.766306,51.018803],"type":"Point"}
 }

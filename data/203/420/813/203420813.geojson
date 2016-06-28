@@ -2,13 +2,14 @@
   "id": 203420813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.797201,52.89188,12.797201,52.89188",
     "geom:latitude":52.89188,
     "geom:longitude":12.797201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcner Weg 2",
     "sg:city":"Neuruppin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203420813,
-    "wof:lastmodified":1449025819,
+    "wof:lastmodified":1466220874,
     "wof:name":"Andreas Teller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.797201,52.89188,12.797201,52.89188],
+  "bbox": [
+    12.797201,
+    52.89188,
+    12.797201,
+    52.89188
+],
   "geometry": {"coordinates":[12.797201,52.89188],"type":"Point"}
 }

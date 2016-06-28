@@ -2,13 +2,14 @@
   "id": 202818599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.358786,52.473412,10.358786,52.473412",
     "geom:latitude":52.473412,
     "geom:longitude":10.358786,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uhlenkamp 4",
     "sg:city":"Meinersen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202818599,
-    "wof:lastmodified":1449061365,
+    "wof:lastmodified":1466221564,
     "wof:name":"R. Bergmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.358786,52.473412,10.358786,52.473412],
+  "bbox": [
+    10.358786,
+    52.473412,
+    10.358786,
+    52.473412
+],
   "geometry": {"coordinates":[10.358786,52.473412],"type":"Point"}
 }

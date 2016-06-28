@@ -2,13 +2,14 @@
   "id": 135529215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.840511,50.985123,13.840511,50.985123",
     "geom:latitude":50.985123,
     "geom:longitude":13.840511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sporbitzer Str. 21",
     "sg:city":"Heidenau",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900283,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135529215,
-    "wof:lastmodified":1449022335,
+    "wof:lastmodified":1466234307,
     "wof:name":"Lemme-bau Peter Lemme",
     "wof:parent_id":85900283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.840511,50.985123,13.840511,50.985123],
+  "bbox": [
+    13.840511,
+    50.985123,
+    13.840511,
+    50.985123
+],
   "geometry": {"coordinates":[13.840511,50.985123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119136323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69995,49.821251,8.69995,49.821251",
     "geom:latitude":49.821251,
     "geom:longitude":8.69995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstr. 70",
     "sg:city":"M\u00fchltal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119136323,
-    "wof:lastmodified":1449043520,
+    "wof:lastmodified":1466222914,
     "wof:name":"Stuard Mac Links Architekt",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69995,49.821251,8.69995,49.821251],
+  "bbox": [
+    8.69995,
+    49.821251,
+    8.69995,
+    49.821251
+],
   "geometry": {"coordinates":[8.69995,49.821251],"type":"Point"}
 }

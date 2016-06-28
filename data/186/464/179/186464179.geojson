@@ -2,13 +2,14 @@
   "id": 186464179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.248545,50.822895,6.248545,50.822895",
     "geom:latitude":50.822895,
     "geom:longitude":6.248545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aachener Str. 66",
     "sg:city":"Eschweiler",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186464179,
-    "wof:lastmodified":1449051109,
+    "wof:lastmodified":1466218099,
     "wof:name":"Martin Thelen",
     "wof:parent_id":85796641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.248545,50.822895,6.248545,50.822895],
+  "bbox": [
+    6.248545,
+    50.822895,
+    6.248545,
+    50.822895
+],
   "geometry": {"coordinates":[6.248545,50.822895],"type":"Point"}
 }

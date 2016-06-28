@@ -2,13 +2,14 @@
   "id": 136066497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.230615,50.081234,8.230615,50.081234",
     "geom:latitude":50.081234,
     "geom:longitude":8.230615,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenstr",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136066497,
-    "wof:lastmodified":1449075275,
+    "wof:lastmodified":1466215180,
     "wof:name":"Foro Forum \u00fcber Forentechnik Und H\u00e4ufig Gestellte",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.230615,50.081234,8.230615,50.081234],
+  "bbox": [
+    8.230615,
+    50.081234,
+    8.230615,
+    50.081234
+],
   "geometry": {"coordinates":[8.230615,50.081234],"type":"Point"}
 }

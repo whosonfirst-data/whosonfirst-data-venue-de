@@ -2,13 +2,14 @@
   "id": 303426791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.639905,50.686508,7.639905,50.686508",
     "geom:latitude":50.686508,
     "geom:longitude":7.639905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 5",
     "sg:city":"Altenkirchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303426791,
-    "wof:lastmodified":1448998636,
+    "wof:lastmodified":1466235162,
     "wof:name":"Wilhelm Dieckmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.639905,50.686508,7.639905,50.686508],
+  "bbox": [
+    7.639905,
+    50.686508,
+    7.639905,
+    50.686508
+],
   "geometry": {"coordinates":[7.639905,50.686508],"type":"Point"}
 }

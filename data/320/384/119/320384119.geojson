@@ -2,13 +2,14 @@
   "id": 320384119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.129371,48.963512,10.129371,48.963512",
     "geom:latitude":48.963512,
     "geom:longitude":10.129371,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Jagst 4",
     "sg:city":"Ellwangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320384119,
-    "wof:lastmodified":1449011715,
+    "wof:lastmodified":1466240136,
     "wof:name":"Schlotter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.129371,48.963512,10.129371,48.963512],
+  "bbox": [
+    10.129371,
+    48.963512,
+    10.129371,
+    48.963512
+],
   "geometry": {"coordinates":[10.129371,48.963512],"type":"Point"}
 }

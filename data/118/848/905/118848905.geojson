@@ -2,13 +2,14 @@
   "id": 118848905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.773883,51.26963,6.773883,51.26963",
     "geom:latitude":51.26963,
     "geom:longitude":6.773883,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalkumer Str. 113",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795627,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118848905,
-    "wof:lastmodified":1449053338,
+    "wof:lastmodified":1466232722,
     "wof:name":"St. Georg-apotheke Inh. Josefine Jeandree",
     "wof:parent_id":85795627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.773883,51.26963,6.773883,51.26963],
+  "bbox": [
+    6.773883,
+    51.26963,
+    6.773883,
+    51.26963
+],
   "geometry": {"coordinates":[6.773883,51.26963],"type":"Point"}
 }

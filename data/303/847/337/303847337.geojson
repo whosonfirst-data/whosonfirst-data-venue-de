@@ -2,13 +2,14 @@
   "id": 303847337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.407372,49.002213,8.407372,49.002213",
     "geom:latitude":49.002213,
     "geom:longitude":8.407372,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstr. 42",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303847337,
-    "wof:lastmodified":1448999009,
+    "wof:lastmodified":1466240833,
     "wof:name":"Aras",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.407372,49.002213,8.407372,49.002213],
+  "bbox": [
+    8.407372,
+    49.002213,
+    8.407372,
+    49.002213
+],
   "geometry": {"coordinates":[8.407372,49.002213],"type":"Point"}
 }

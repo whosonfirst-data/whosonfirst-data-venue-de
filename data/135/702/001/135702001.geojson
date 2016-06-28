@@ -2,13 +2,14 @@
   "id": 135702001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.047588,51.748474,11.047588,51.748474",
     "geom:latitude":51.748474,
     "geom:longitude":11.047588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ferdinand-Freiligrath-Str. 53",
     "sg:city":"Thale",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135702001,
-    "wof:lastmodified":1449022520,
+    "wof:lastmodified":1466242230,
     "wof:name":"Wohnungsgenossenschaft Thale Eg",
     "wof:parent_id":101821789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.047588,51.748474,11.047588,51.748474],
+  "bbox": [
+    11.047588,
+    51.748474,
+    11.047588,
+    51.748474
+],
   "geometry": {"coordinates":[11.047588,51.748474],"type":"Point"}
 }

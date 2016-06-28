@@ -2,13 +2,14 @@
   "id": 118868479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.648041,53.855183,10.648041,53.855183",
     "geom:latitude":53.855183,
     "geom:longitude":10.648041,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Korvettenstr. 69",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064089,
-        85633111,
         85682517,
-        85899875
+        85633111,
+        85899875,
+        102064089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118868479,
-    "wof:lastmodified":1449053201,
+    "wof:lastmodified":1466233961,
     "wof:name":"Apotheke Buntekuh Inh. Carla Dellien",
     "wof:parent_id":85899875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.648041,53.855183,10.648041,53.855183],
+  "bbox": [
+    10.648041,
+    53.855183,
+    10.648041,
+    53.855183
+],
   "geometry": {"coordinates":[10.648041,53.855183],"type":"Point"}
 }

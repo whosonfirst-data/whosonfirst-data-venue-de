@@ -2,13 +2,14 @@
   "id": 136157547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.178014,51.184162,7.178014,51.184162",
     "geom:latitude":51.184162,
     "geom:longitude":7.178014,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hindenburgstr. 63",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796263,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85796263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136157547,
-    "wof:lastmodified":1449076075,
+    "wof:lastmodified":1466219144,
     "wof:name":"Zeitarbeitsmaschine.de",
     "wof:parent_id":85796263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.178014,51.184162,7.178014,51.184162],
+  "bbox": [
+    7.178014,
+    51.184162,
+    7.178014,
+    51.184162
+],
   "geometry": {"coordinates":[7.178014,51.184162],"type":"Point"}
 }

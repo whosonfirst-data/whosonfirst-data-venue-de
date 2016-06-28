@@ -2,13 +2,14 @@
   "id": 119356901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.045153,51.88327,11.045153,51.88327",
     "geom:latitude":51.88327,
     "geom:longitude":11.045153,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beethovenstr. 10",
     "sg:city":"Halberstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119356901,
-    "wof:lastmodified":1449043036,
+    "wof:lastmodified":1466240398,
     "wof:name":"Lukas Stadtler",
     "wof:parent_id":101820899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.045153,51.88327,11.045153,51.88327],
+  "bbox": [
+    11.045153,
+    51.88327,
+    11.045153,
+    51.88327
+],
   "geometry": {"coordinates":[11.045153,51.88327],"type":"Point"}
 }

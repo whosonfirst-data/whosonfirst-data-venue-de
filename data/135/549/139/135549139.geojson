@@ -2,13 +2,14 @@
   "id": 135549139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.459243,52.476391,13.459243,52.476391",
     "geom:latitude":52.476391,
     "geom:longitude":13.459243,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegrastr. 11-13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928789,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135549139,
-    "wof:lastmodified":1449021835,
+    "wof:lastmodified":1466236228,
     "wof:name":"M. P. A. A. Durmaz Gmbh",
     "wof:parent_id":85928789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.459243,52.476391,13.459243,52.476391],
+  "bbox": [
+    13.459243,
+    52.476391,
+    13.459243,
+    52.476391
+],
   "geometry": {"coordinates":[13.459243,52.476391],"type":"Point"}
 }

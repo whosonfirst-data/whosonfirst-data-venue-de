@@ -2,13 +2,14 @@
   "id": 152318003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.556006,48.135502,11.556006,48.135502",
     "geom:latitude":48.135502,
     "geom:longitude":11.556006,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-Heyse-Str. 31 a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900137,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152318003,
-    "wof:lastmodified":1449045326,
+    "wof:lastmodified":1466216521,
     "wof:name":"Krawattenfabrik Fritz Schubert",
     "wof:parent_id":85900137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.556006,48.135502,11.556006,48.135502],
+  "bbox": [
+    11.556006,
+    48.135502,
+    11.556006,
+    48.135502
+],
   "geometry": {"coordinates":[11.556006,48.135502],"type":"Point"}
 }

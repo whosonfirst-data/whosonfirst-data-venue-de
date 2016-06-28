@@ -2,13 +2,14 @@
   "id": 203211777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.103378,50.879959,12.103378,50.879959",
     "geom:latitude":50.879959,
     "geom:longitude":12.103378,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenburger Str. 85",
     "sg:city":"Gera",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203211777,
-    "wof:lastmodified":1449025382,
+    "wof:lastmodified":1466217405,
     "wof:name":"Lorenz Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.103378,50.879959,12.103378,50.879959],
+  "bbox": [
+    12.103378,
+    50.879959,
+    12.103378,
+    50.879959
+],
   "geometry": {"coordinates":[12.103378,50.879959],"type":"Point"}
 }

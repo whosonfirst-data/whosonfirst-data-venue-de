@@ -2,13 +2,14 @@
   "id": 118621805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.311077,52.518497,13.311077,52.518497",
     "geom:latitude":52.518497,
     "geom:longitude":13.311077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alt-Lietzow 29",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118621805,
-    "wof:lastmodified":1449054379,
+    "wof:lastmodified":1466219514,
     "wof:name":"Bernhard-lichtenberg-haus",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.311077,52.518497,13.311077,52.518497],
+  "bbox": [
+    13.311077,
+    52.518497,
+    13.311077,
+    52.518497
+],
   "geometry": {"coordinates":[13.311077,52.518497],"type":"Point"}
 }

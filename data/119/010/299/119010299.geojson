@@ -2,13 +2,14 @@
   "id": 119010299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.470654,47.654907,9.470654,47.654907",
     "geom:latitude":47.654907,
     "geom:longitude":9.470654,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eugenstr. 37",
     "sg:city":"Friedrichshafen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119010299,
-    "wof:lastmodified":1449042518,
+    "wof:lastmodified":1466219023,
     "wof:name":"Franz Schauwecker Architekt",
     "wof:parent_id":101748469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.470654,47.654907,9.470654,47.654907],
+  "bbox": [
+    9.470654,
+    47.654907,
+    9.470654,
+    47.654907
+],
   "geometry": {"coordinates":[9.470654,47.654907],"type":"Point"}
 }

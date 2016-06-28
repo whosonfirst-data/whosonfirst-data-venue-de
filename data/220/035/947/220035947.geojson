@@ -2,13 +2,14 @@
   "id": 220035947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.368341,48.553181,10.368341,48.553181",
     "geom:latitude":48.553181,
     "geom:longitude":10.368341,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Professor-Bamann-Str. 17",
     "sg:city":"Gundelfingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220035947,
-    "wof:lastmodified":1449074692,
+    "wof:lastmodified":1466215275,
     "wof:name":"Cafe Bucher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.368341,48.553181,10.368341,48.553181],
+  "bbox": [
+    10.368341,
+    48.553181,
+    10.368341,
+    48.553181
+],
   "geometry": {"coordinates":[10.368341,48.553181],"type":"Point"}
 }

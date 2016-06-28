@@ -2,13 +2,14 @@
   "id": 118982823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.091215,51.559093,7.091215,51.559093",
     "geom:latitude":51.559093,
     "geom:longitude":7.091215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Darler Str. 5",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063813,
-        85633111,
         85682513,
-        85863127
+        85633111,
+        85863127,
+        102063813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118982823,
-    "wof:lastmodified":1449053380,
+    "wof:lastmodified":1466239121,
     "wof:name":"Bernhard Herbr\u00fcggen Ingenieur Und Architekt",
     "wof:parent_id":85863127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.091215,51.559093,7.091215,51.559093],
+  "bbox": [
+    7.091215,
+    51.559093,
+    7.091215,
+    51.559093
+],
   "geometry": {"coordinates":[7.091215,51.559093],"type":"Point"}
 }

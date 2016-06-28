@@ -2,13 +2,14 @@
   "id": 119063653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.399314,52.411484,13.399314,52.411484",
     "geom:latitude":52.411484,
     "geom:longitude":13.399314,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rackeb\u00fcller Weg 10a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119063653,
-    "wof:lastmodified":1449041082,
+    "wof:lastmodified":1466216721,
     "wof:name":"Joachim Burghardt Architekt",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.399314,52.411484,13.399314,52.411484],
+  "bbox": [
+    13.399314,
+    52.411484,
+    13.399314,
+    52.411484
+],
   "geometry": {"coordinates":[13.399314,52.411484],"type":"Point"}
 }

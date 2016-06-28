@@ -2,13 +2,14 @@
   "id": 269528105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.451248,48.619526,9.451248,48.619526",
     "geom:latitude":48.619526,
     "geom:longitude":9.451248,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merstr. 13",
     "sg:city":"Dettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269528105,
-    "wof:lastmodified":1449036801,
+    "wof:lastmodified":1466221923,
     "wof:name":"Otto Klein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.451248,48.619526,9.451248,48.619526],
+  "bbox": [
+    9.451248,
+    48.619526,
+    9.451248,
+    48.619526
+],
   "geometry": {"coordinates":[9.451248,48.619526],"type":"Point"}
 }

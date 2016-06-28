@@ -2,13 +2,14 @@
   "id": 203267441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.260343,48.909149,9.260343,48.909149",
     "geom:latitude":48.909149,
     "geom:longitude":9.260343,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luginsland 15",
     "sg:city":"Ludwigsburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203267441,
-    "wof:lastmodified":1449026691,
+    "wof:lastmodified":1466218323,
     "wof:name":"Ernst Ziegler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.260343,48.909149,9.260343,48.909149],
+  "bbox": [
+    9.260343,
+    48.909149,
+    9.260343,
+    48.909149
+],
   "geometry": {"coordinates":[9.260343,48.909149],"type":"Point"}
 }

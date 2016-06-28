@@ -2,13 +2,14 @@
   "id": 135289077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.186405,50.056339,12.186405,50.056339",
     "geom:latitude":50.056339,
     "geom:longitude":12.186405,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausstr. 25",
     "sg:city":"Arzberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135289077,
-    "wof:lastmodified":1449023509,
+    "wof:lastmodified":1466234858,
     "wof:name":"Karl Meyer",
     "wof:parent_id":101825997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.186405,50.056339,12.186405,50.056339],
+  "bbox": [
+    12.186405,
+    50.056339,
+    12.186405,
+    50.056339
+],
   "geometry": {"coordinates":[12.186405,50.056339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135338335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611878,51.984711,7.611878,51.984711",
     "geom:latitude":51.984711,
     "geom:longitude":7.611878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grevener Str. 248",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795671,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135338335,
-    "wof:lastmodified":1449022052,
+    "wof:lastmodified":1466217026,
     "wof:name":"Franz Und K. Herbsthoff",
     "wof:parent_id":85795671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611878,51.984711,7.611878,51.984711],
+  "bbox": [
+    7.611878,
+    51.984711,
+    7.611878,
+    51.984711
+],
   "geometry": {"coordinates":[7.611878,51.984711],"type":"Point"}
 }

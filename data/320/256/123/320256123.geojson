@@ -2,13 +2,14 @@
   "id": 320256123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.330551,52.491776,13.330551,52.491776",
     "geom:latitude":52.491776,
     "geom:longitude":13.330551,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesallee 28",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320256123,
-    "wof:lastmodified":1449014073,
+    "wof:lastmodified":1466238082,
     "wof:name":"London",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.330551,52.491776,13.330551,52.491776],
+  "bbox": [
+    13.330551,
+    52.491776,
+    13.330551,
+    52.491776
+],
   "geometry": {"coordinates":[13.330551,52.491776],"type":"Point"}
 }

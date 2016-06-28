@@ -2,13 +2,14 @@
   "id": 220119113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.585015,48.769531,8.585015,48.769531",
     "geom:latitude":48.769531,
     "geom:longitude":8.585015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleinenztalstr. 56",
     "sg:city":"Bad Wildbad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220119113,
-    "wof:lastmodified":1449074626,
+    "wof:lastmodified":1466216867,
     "wof:name":"B. Rommel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.585015,48.769531,8.585015,48.769531],
+  "bbox": [
+    8.585015,
+    48.769531,
+    8.585015,
+    48.769531
+],
   "geometry": {"coordinates":[8.585015,48.769531],"type":"Point"}
 }

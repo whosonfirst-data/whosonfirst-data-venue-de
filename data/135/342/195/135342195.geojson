@@ -2,13 +2,14 @@
   "id": 135342195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.595258,49.390938,8.595258,49.390938",
     "geom:latitude":49.390938,
     "geom:longitude":8.595258,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstr. 23",
     "sg:city":"Plankstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135342195,
-    "wof:lastmodified":1449023785,
+    "wof:lastmodified":1466217351,
     "wof:name":"Emil Leisinger",
     "wof:parent_id":101756335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.595258,49.390938,8.595258,49.390938],
+  "bbox": [
+    8.595258,
+    49.390938,
+    8.595258,
+    49.390938
+],
   "geometry": {"coordinates":[8.595258,49.390938],"type":"Point"}
 }

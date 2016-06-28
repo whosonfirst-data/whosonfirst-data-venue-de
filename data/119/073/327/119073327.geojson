@@ -2,13 +2,14 @@
   "id": 119073327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.123231,52.390816,13.123231,52.390816",
     "geom:latitude":52.390816,
     "geom:longitude":13.123231,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"August-Bebel-Str. 85",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,14 +19,14 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85934639,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553,
-        85928779,
+        85934639,
+        85682499,
         102063945,
-        85682499
+        85928779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119073327,
-    "wof:lastmodified":1449041203,
+    "wof:lastmodified":1466217594,
     "wof:name":"Kaiser Rabenalt Und Zimmermann Architekten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.123231,52.390816,13.123231,52.390816],
+  "bbox": [
+    13.123231,
+    52.390816,
+    13.123231,
+    52.390816
+],
   "geometry": {"coordinates":[13.123231,52.390816],"type":"Point"}
 }

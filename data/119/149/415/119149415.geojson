@@ -2,13 +2,14 @@
   "id": 119149415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.385184,49.416477,8.385184,49.416477",
     "geom:latitude":49.416477,
     "geom:longitude":8.385184,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldgasse 14",
     "sg:city":"Limburgerhof",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796279,
+        85682491,
         85633111,
         101815675,
         102063479,
-        85682491
+        85796279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119149415,
-    "wof:lastmodified":1449040887,
+    "wof:lastmodified":1466224071,
     "wof:name":"Walter Seitz Architekt",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.385184,49.416477,8.385184,49.416477],
+  "bbox": [
+    8.385184,
+    49.416477,
+    8.385184,
+    49.416477
+],
   "geometry": {"coordinates":[8.385184,49.416477],"type":"Point"}
 }

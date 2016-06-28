@@ -2,13 +2,14 @@
   "id": 152831585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.202809,48.792213,9.202809,48.792213",
     "geom:latitude":48.792213,
     "geom:longitude":9.202809,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6ckachstra\u00dfe 58",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152831585,
-    "wof:lastmodified":1449047014,
+    "wof:lastmodified":1466227786,
     "wof:name":"Hallo Tauchsportfreunde",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.202809,48.792213,9.202809,48.792213],
+  "bbox": [
+    9.202809,
+    48.792213,
+    9.202809,
+    48.792213
+],
   "geometry": {"coordinates":[9.202809,48.792213],"type":"Point"}
 }

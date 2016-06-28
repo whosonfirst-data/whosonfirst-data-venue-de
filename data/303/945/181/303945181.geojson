@@ -2,13 +2,14 @@
   "id": 303945181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.372734,48.716179,11.372734,48.716179",
     "geom:latitude":48.716179,
     "geom:longitude":11.372734,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenschwaigstr. 48",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303945181,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1466241533,
     "wof:name":"M. Esch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.372734,48.716179,11.372734,48.716179],
+  "bbox": [
+    11.372734,
+    48.716179,
+    11.372734,
+    48.716179
+],
   "geometry": {"coordinates":[11.372734,48.716179],"type":"Point"}
 }

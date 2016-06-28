@@ -2,13 +2,14 @@
   "id": 303279439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.710202,50.726486,12.710202,50.726486",
     "geom:latitude":50.726486,
     "geom:longitude":12.710202,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hauptstr. 38",
     "sg:city":"Oelsnitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303279439,
-    "wof:lastmodified":1448999241,
+    "wof:lastmodified":1466231384,
     "wof:name":"Werner Heynlein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.710202,50.726486,12.710202,50.726486],
+  "bbox": [
+    12.710202,
+    50.726486,
+    12.710202,
+    50.726486
+],
   "geometry": {"coordinates":[12.710202,50.726486],"type":"Point"}
 }

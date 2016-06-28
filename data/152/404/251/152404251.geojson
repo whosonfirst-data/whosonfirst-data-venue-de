@@ -2,13 +2,14 @@
   "id": 152404251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.314963,51.349369,12.314963,51.349369",
     "geom:latitude":51.349369,
     "geom:longitude":12.314963,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Driesch-Str. 34",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899021,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152404251,
-    "wof:lastmodified":1449047366,
+    "wof:lastmodified":1466218230,
     "wof:name":"Bestattungshaus B\u00f6ttge Gmbh",
     "wof:parent_id":85899021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.314963,51.349369,12.314963,51.349369],
+  "bbox": [
+    12.314963,
+    51.349369,
+    12.314963,
+    51.349369
+],
   "geometry": {"coordinates":[12.314963,51.349369],"type":"Point"}
 }

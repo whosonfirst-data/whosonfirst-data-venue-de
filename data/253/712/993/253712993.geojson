@@ -2,13 +2,14 @@
   "id": 253712993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.240541,49.861168,10.240541,49.861168",
     "geom:latitude":49.861168,
     "geom:longitude":10.240541,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlachweg 51",
     "sg:city":"Volkach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253712993,
-    "wof:lastmodified":1449064091,
+    "wof:lastmodified":1466234102,
     "wof:name":"Hans Vallbracht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.240541,49.861168,10.240541,49.861168],
+  "bbox": [
+    10.240541,
+    49.861168,
+    10.240541,
+    49.861168
+],
   "geometry": {"coordinates":[10.240541,49.861168],"type":"Point"}
 }

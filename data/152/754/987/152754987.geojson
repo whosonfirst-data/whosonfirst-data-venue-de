@@ -2,13 +2,14 @@
   "id": 152754987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.434578,39.923481,-79.434578,39.923481",
     "geom:latitude":39.923481,
     "geom:longitude":-79.434578,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tolle Stra\u00dfe",
     "sg:city":"Buchshausen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:postcode":"15464",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080959,
-        85633793,
         85688481,
-        85827829
+        85633793,
+        85827829,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152754987,
-    "wof:lastmodified":1449047324,
+    "wof:lastmodified":1466225970,
     "wof:name":"Bc Bliesheim Tischtennis",
     "wof:parent_id":85827829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.434578,39.923481,-79.434578,39.923481],
+  "bbox": [
+    -79.434578,
+    39.923481,
+    -79.434578,
+    39.923481
+],
   "geometry": {"coordinates":[-79.434578,39.923481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303742725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.481116,51.359497,7.481116,51.359497",
     "geom:latitude":51.359497,
     "geom:longitude":7.481116,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eickertstr. 4",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303742725,
-    "wof:lastmodified":1448998280,
+    "wof:lastmodified":1466239852,
     "wof:name":"Paul Trabandt",
     "wof:parent_id":85795787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.481116,51.359497,7.481116,51.359497],
+  "bbox": [
+    7.481116,
+    51.359497,
+    7.481116,
+    51.359497
+],
   "geometry": {"coordinates":[7.481116,51.359497],"type":"Point"}
 }

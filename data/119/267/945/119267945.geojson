@@ -2,13 +2,14 @@
   "id": 119267945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.310053,52.524815,13.310053,52.524815",
     "geom:latitude":52.524815,
     "geom:longitude":13.310053,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ilsenburger Str. 13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900231,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119267945,
-    "wof:lastmodified":1449043295,
+    "wof:lastmodified":1466235391,
     "wof:name":"Dr. Med. Sabine Pfeiffer \u00c4rztin F\u00fcr Allgemeinmedizin",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.310053,52.524815,13.310053,52.524815],
+  "bbox": [
+    13.310053,
+    52.524815,
+    13.310053,
+    52.524815
+],
   "geometry": {"coordinates":[13.310053,52.524815],"type":"Point"}
 }

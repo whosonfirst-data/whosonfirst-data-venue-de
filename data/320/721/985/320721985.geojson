@@ -2,13 +2,14 @@
   "id": 320721985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.81057,48.161449,10.81057,48.161449",
     "geom:latitude":48.161449,
     "geom:longitude":10.81057,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 10",
     "sg:city":"Untermeitingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320721985,
-    "wof:lastmodified":1449014957,
+    "wof:lastmodified":1466242549,
     "wof:name":"A. Reich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.81057,48.161449,10.81057,48.161449],
+  "bbox": [
+    10.81057,
+    48.161449,
+    10.81057,
+    48.161449
+],
   "geometry": {"coordinates":[10.81057,48.161449],"type":"Point"}
 }

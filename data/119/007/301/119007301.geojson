@@ -2,13 +2,14 @@
   "id": 119007301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.67185,50.12112,8.67185,50.12112",
     "geom:latitude":50.12112,
     "geom:longitude":8.67185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcneburgweg 27",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119007301,
-    "wof:lastmodified":1449043055,
+    "wof:lastmodified":1466217277,
     "wof:name":"F. Gramlich Architekt",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.67185,50.12112,8.67185,50.12112],
+  "bbox": [
+    8.67185,
+    50.12112,
+    8.67185,
+    50.12112
+],
   "geometry": {"coordinates":[8.67185,50.12112],"type":"Point"}
 }

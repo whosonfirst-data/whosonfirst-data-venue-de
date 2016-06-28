@@ -2,13 +2,14 @@
   "id": 152188181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.390706,51.255478,6.390706,51.255478",
     "geom:latitude":51.255478,
     "geom:longitude":6.390706,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 89",
     "sg:city":"Viersen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796257,
+        85682513,
         85633111,
         101748689,
         102063773,
-        85682513
+        85796257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152188181,
-    "wof:lastmodified":1449046601,
+    "wof:lastmodified":1466213802,
     "wof:name":"H. Und E. Heisters",
     "wof:parent_id":85796257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.390706,51.255478,6.390706,51.255478],
+  "bbox": [
+    6.390706,
+    51.255478,
+    6.390706,
+    51.255478
+],
   "geometry": {"coordinates":[6.390706,51.255478],"type":"Point"}
 }

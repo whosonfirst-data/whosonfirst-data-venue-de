@@ -2,13 +2,14 @@
   "id": 119260369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.720091,51.088127,13.720091,51.088127",
     "geom:latitude":51.088127,
     "geom:longitude":13.720091,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boxdorfer Str. 36",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905669,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119260369,
-    "wof:lastmodified":1449041271,
+    "wof:lastmodified":1466234674,
     "wof:name":"Dr. Med. Gottfried Arnold",
     "wof:parent_id":85905669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.720091,51.088127,13.720091,51.088127],
+  "bbox": [
+    13.720091,
+    51.088127,
+    13.720091,
+    51.088127
+],
   "geometry": {"coordinates":[13.720091,51.088127],"type":"Point"}
 }

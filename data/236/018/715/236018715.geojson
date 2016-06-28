@@ -2,13 +2,14 @@
   "id": 236018715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.642191,49.807968,8.642191,49.807968",
     "geom:latitude":49.807968,
     "geom:longitude":8.642191,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidelberger Landstr. 379",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236018715,
-    "wof:lastmodified":1449003264,
+    "wof:lastmodified":1466219007,
     "wof:name":"W. Landzettel",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.642191,49.807968,8.642191,49.807968],
+  "bbox": [
+    8.642191,
+    49.807968,
+    8.642191,
+    49.807968
+],
   "geometry": {"coordinates":[8.642191,49.807968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119214785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.050445,51.022884,7.050445,51.022884",
     "geom:latitude":51.022884,
     "geom:longitude":7.050445,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lortzingstr. 3",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796391,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85796391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119214785,
-    "wof:lastmodified":1449043482,
+    "wof:lastmodified":1466230138,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Albertus Magnus",
     "wof:parent_id":85796391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.050445,51.022884,7.050445,51.022884],
+  "bbox": [
+    7.050445,
+    51.022884,
+    7.050445,
+    51.022884
+],
   "geometry": {"coordinates":[7.050445,51.022884],"type":"Point"}
 }

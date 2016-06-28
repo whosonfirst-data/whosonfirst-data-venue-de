@@ -2,13 +2,14 @@
   "id": 118677383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.504263,48.098305,11.504263,48.098305",
     "geom:latitude":48.098305,
     "geom:longitude":11.504263,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hatzfelder Weg 13 c",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899853,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118677383,
-    "wof:lastmodified":1449053646,
+    "wof:lastmodified":1466222575,
     "wof:name":"Prankl Gmbh Dach- Und Wandprofile",
     "wof:parent_id":85899853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.504263,48.098305,11.504263,48.098305],
+  "bbox": [
+    11.504263,
+    48.098305,
+    11.504263,
+    48.098305
+],
   "geometry": {"coordinates":[11.504263,48.098305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119191451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.27854,52.44672,13.27854,52.44672",
     "geom:latitude":52.44672,
     "geom:longitude":13.27854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boltzmannstr. 14",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119191451,
-    "wof:lastmodified":1449042461,
+    "wof:lastmodified":1466228000,
     "wof:name":"Archiv Zur Geschichte Der Max-planck-gesellschaft",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.27854,52.44672,13.27854,52.44672],
+  "bbox": [
+    13.27854,
+    52.44672,
+    13.27854,
+    52.44672
+],
   "geometry": {"coordinates":[13.27854,52.44672],"type":"Point"}
 }

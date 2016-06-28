@@ -2,13 +2,14 @@
   "id": 303510313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.40756,52.553169,13.40756,52.553169",
     "geom:latitude":52.553169,
     "geom:longitude":13.40756,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Czarnikauer Str. 21",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303510313,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466236849,
     "wof:name":"Barbara Kriegs",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.40756,52.553169,13.40756,52.553169],
+  "bbox": [
+    13.40756,
+    52.553169,
+    13.40756,
+    52.553169
+],
   "geometry": {"coordinates":[13.40756,52.553169],"type":"Point"}
 }

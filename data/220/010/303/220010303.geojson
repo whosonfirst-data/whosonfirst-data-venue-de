@@ -2,13 +2,14 @@
   "id": 220010303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.527516,51.061245,7.527516,51.061245",
     "geom:latitude":51.061245,
     "geom:longitude":7.527516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gimborner Str. 40",
     "sg:city":"Marienheide",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220010303,
-    "wof:lastmodified":1449074536,
+    "wof:lastmodified":1466214796,
     "wof:name":"Wilhelm Heedt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.527516,51.061245,7.527516,51.061245],
+  "bbox": [
+    7.527516,
+    51.061245,
+    7.527516,
+    51.061245
+],
   "geometry": {"coordinates":[7.527516,51.061245],"type":"Point"}
 }

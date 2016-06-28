@@ -2,13 +2,14 @@
   "id": 118998281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.682686,50.101151,8.682686,50.101151",
     "geom:latitude":50.101151,
     "geom:longitude":8.682686,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanthaler Str. 33",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
-        85796369
+        85633111,
+        85796369,
+        102063589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118998281,
-    "wof:lastmodified":1449053608,
+    "wof:lastmodified":1466239854,
     "wof:name":"Duo-plan Innenarchitekten",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.682686,50.101151,8.682686,50.101151],
+  "bbox": [
+    8.682686,
+    50.101151,
+    8.682686,
+    50.101151
+],
   "geometry": {"coordinates":[8.682686,50.101151],"type":"Point"}
 }

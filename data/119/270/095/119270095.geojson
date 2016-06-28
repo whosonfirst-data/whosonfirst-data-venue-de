@@ -2,13 +2,14 @@
   "id": 119270095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.406666,52.572849,13.406666,52.572849",
     "geom:latitude":52.572849,
     "geom:longitude":13.406666,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistr. 28",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905647,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119270095,
-    "wof:lastmodified":1449041300,
+    "wof:lastmodified":1466235598,
     "wof:name":"Dr. Planitzer",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.406666,52.572849,13.406666,52.572849],
+  "bbox": [
+    13.406666,
+    52.572849,
+    13.406666,
+    52.572849
+],
   "geometry": {"coordinates":[13.406666,52.572849],"type":"Point"}
 }

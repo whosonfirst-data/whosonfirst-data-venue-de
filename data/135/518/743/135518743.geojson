@@ -2,13 +2,14 @@
   "id": 135518743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.597292,48.104187,11.597292,48.104187",
     "geom:latitude":48.104187,
     "geom:longitude":11.597292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanseestr. 43",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899199,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135518743,
-    "wof:lastmodified":1449022716,
+    "wof:lastmodified":1466233341,
     "wof:name":"Bcs Bau-massiv Gesellschaft F\u00fcr Rohbau Und Schl\u00fcssel-",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.597292,48.104187,11.597292,48.104187],
+  "bbox": [
+    11.597292,
+    48.104187,
+    11.597292,
+    48.104187
+],
   "geometry": {"coordinates":[11.597292,48.104187],"type":"Point"}
 }

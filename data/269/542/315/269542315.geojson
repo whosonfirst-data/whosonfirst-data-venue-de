@@ -2,13 +2,14 @@
   "id": 269542315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.48092,49.46014,8.48092,49.46014",
     "geom:latitude":49.46014,
     "geom:longitude":8.48092,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Str. 6",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269542315,
-    "wof:lastmodified":1449038297,
+    "wof:lastmodified":1466222243,
     "wof:name":"Monsun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.48092,49.46014,8.48092,49.46014],
+  "bbox": [
+    8.48092,
+    49.46014,
+    8.48092,
+    49.46014
+],
   "geometry": {"coordinates":[8.48092,49.46014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119479477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.592542,51.334236,6.592542,51.334236",
     "geom:latitude":51.334236,
     "geom:longitude":6.592542,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glockenspitz 50",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795791,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119479477,
-    "wof:lastmodified":1449042711,
+    "wof:lastmodified":1466243392,
     "wof:name":"T & C Autovermietung Gmbh",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.592542,51.334236,6.592542,51.334236],
+  "bbox": [
+    6.592542,
+    51.334236,
+    6.592542,
+    51.334236
+],
   "geometry": {"coordinates":[6.592542,51.334236],"type":"Point"}
 }

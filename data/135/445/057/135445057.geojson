@@ -2,13 +2,14 @@
   "id": 135445057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.517975,49.759853,9.517975,49.759853",
     "geom:latitude":49.759853,
     "geom:longitude":9.517975,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausgasse 9",
     "sg:city":"Wertheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135445057,
-    "wof:lastmodified":1449021388,
+    "wof:lastmodified":1466226734,
     "wof:name":"Sparkasse Wertheim",
     "wof:parent_id":101913675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.517975,49.759853,9.517975,49.759853],
+  "bbox": [
+    9.517975,
+    49.759853,
+    9.517975,
+    49.759853
+],
   "geometry": {"coordinates":[9.517975,49.759853],"type":"Point"}
 }

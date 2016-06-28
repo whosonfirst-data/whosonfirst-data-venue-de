@@ -2,13 +2,14 @@
   "id": 119029107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.988024,53.701656,9.988024,53.701656",
     "geom:latitude":53.701656,
     "geom:longitude":9.988024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidbergstr. 15",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119029107,
-    "wof:lastmodified":1449041955,
+    "wof:lastmodified":1466213436,
     "wof:name":"H. Oetzmann Architekt",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.988024,53.701656,9.988024,53.701656],
+  "bbox": [
+    9.988024,
+    53.701656,
+    9.988024,
+    53.701656
+],
   "geometry": {"coordinates":[9.988024,53.701656],"type":"Point"}
 }

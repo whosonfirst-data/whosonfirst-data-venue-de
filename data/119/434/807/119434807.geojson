@@ -2,13 +2,14 @@
   "id": 119434807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.853754,53.085072,8.853754,53.085072",
     "geom:latitude":53.085072,
     "geom:longitude":8.853754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchenstr. 67",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796219,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119434807,
-    "wof:lastmodified":1449041374,
+    "wof:lastmodified":1466242432,
     "wof:name":"Rolf Br\u00fche",
     "wof:parent_id":85796219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.853754,53.085072,8.853754,53.085072],
+  "bbox": [
+    8.853754,
+    53.085072,
+    8.853754,
+    53.085072
+],
   "geometry": {"coordinates":[8.853754,53.085072],"type":"Point"}
 }

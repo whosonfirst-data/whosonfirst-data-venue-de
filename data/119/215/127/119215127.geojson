@@ -2,13 +2,14 @@
   "id": 119215127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.101902,51.249474,7.101902,51.249474",
     "geom:latitude":51.249474,
     "geom:longitude":7.101902,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Deutscher Ring 9",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796377,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215127,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466230178,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Bonifatius",
     "wof:parent_id":85796377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.101902,51.249474,7.101902,51.249474],
+  "bbox": [
+    7.101902,
+    51.249474,
+    7.101902,
+    51.249474
+],
   "geometry": {"coordinates":[7.101902,51.249474],"type":"Point"}
 }

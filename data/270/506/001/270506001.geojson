@@ -2,13 +2,14 @@
   "id": 270506001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.152117,51.488178,9.152117,51.488178",
     "geom:latitude":51.488178,
     "geom:longitude":9.152117,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 23",
     "sg:city":"Warburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270506001,
-    "wof:lastmodified":1449008718,
+    "wof:lastmodified":1466233729,
     "wof:name":"Rolf List",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.152117,51.488178,9.152117,51.488178],
+  "bbox": [
+    9.152117,
+    51.488178,
+    9.152117,
+    51.488178
+],
   "geometry": {"coordinates":[9.152117,51.488178],"type":"Point"}
 }

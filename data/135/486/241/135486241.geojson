@@ -2,13 +2,14 @@
   "id": 135486241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.345756,51.297443,7.345756,51.297443",
     "geom:latitude":51.297443,
     "geom:longitude":7.345756,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saarlandring 5",
     "sg:city":"Ennepetal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795679
+        85633111,
+        85795679,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135486241,
-    "wof:lastmodified":1449022688,
+    "wof:lastmodified":1466230405,
     "wof:name":"Pmg Paul M\u00fcller Gmbh",
     "wof:parent_id":85795679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.345756,51.297443,7.345756,51.297443],
+  "bbox": [
+    7.345756,
+    51.297443,
+    7.345756,
+    51.297443
+],
   "geometry": {"coordinates":[7.345756,51.297443],"type":"Point"}
 }

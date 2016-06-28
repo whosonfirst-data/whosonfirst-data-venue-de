@@ -2,13 +2,14 @@
   "id": 135935065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.00605,53.456917,10.00605,53.456917",
     "geom:latitude":53.456917,
     "geom:longitude":10.00605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfmoorring 9a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064053,
-        85633111,
         85682505,
-        85899337
+        85633111,
+        85899337,
+        102064053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135935065,
-    "wof:lastmodified":1449023485,
+    "wof:lastmodified":1466244657,
     "wof:name":"Hans-peter Bl\u00e4ssinger Beteiligungsges. Mbh",
     "wof:parent_id":85899337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.00605,53.456917,10.00605,53.456917],
+  "bbox": [
+    10.00605,
+    53.456917,
+    10.00605,
+    53.456917
+],
   "geometry": {"coordinates":[10.00605,53.456917],"type":"Point"}
 }

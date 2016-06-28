@@ -2,13 +2,14 @@
   "id": 236915477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084007,49.467045,9.084007,49.467045",
     "geom:latitude":49.467045,
     "geom:longitude":9.084007,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hahnenfeldstr. 11",
     "sg:city":"Waldbrunn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236915477,
-    "wof:lastmodified":1449005208,
+    "wof:lastmodified":1466235940,
     "wof:name":"Zimmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084007,49.467045,9.084007,49.467045],
+  "bbox": [
+    9.084007,
+    49.467045,
+    9.084007,
+    49.467045
+],
   "geometry": {"coordinates":[9.084007,49.467045],"type":"Point"}
 }

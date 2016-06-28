@@ -2,13 +2,14 @@
   "id": 119447175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.000932,49.463951,11.000932,49.463951",
     "geom:latitude":49.463951,
     "geom:longitude":11.000932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fl\u00f6\u00dfaustr. 161",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899305,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119447175,
-    "wof:lastmodified":1449042744,
+    "wof:lastmodified":1466242585,
     "wof:name":"Uluca",
     "wof:parent_id":85899305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.000932,49.463951,11.000932,49.463951],
+  "bbox": [
+    11.000932,
+    49.463951,
+    11.000932,
+    49.463951
+],
   "geometry": {"coordinates":[11.000932,49.463951],"type":"Point"}
 }

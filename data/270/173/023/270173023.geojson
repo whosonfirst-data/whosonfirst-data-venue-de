@@ -2,13 +2,14 @@
   "id": 270173023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.050561,47.901707,9.050561,47.901707",
     "geom:latitude":47.901707,
     "geom:longitude":9.050561,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mindersdorfer Str. 3",
     "sg:city":"M\u00fchlingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270173023,
-    "wof:lastmodified":1449009106,
+    "wof:lastmodified":1466225392,
     "wof:name":"E. Auer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.050561,47.901707,9.050561,47.901707],
+  "bbox": [
+    9.050561,
+    47.901707,
+    9.050561,
+    47.901707
+],
   "geometry": {"coordinates":[9.050561,47.901707],"type":"Point"}
 }

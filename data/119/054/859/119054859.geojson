@@ -2,13 +2,14 @@
   "id": 119054859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.153598,54.384384,10.153598,54.384384",
     "geom:latitude":54.384384,
     "geom:longitude":10.153598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schusterkrug 2a",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900035,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85900035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119054859,
-    "wof:lastmodified":1449042091,
+    "wof:lastmodified":1466215842,
     "wof:name":"Hermann Pump Architekt",
     "wof:parent_id":85900035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.153598,54.384384,10.153598,54.384384],
+  "bbox": [
+    10.153598,
+    54.384384,
+    10.153598,
+    54.384384
+],
   "geometry": {"coordinates":[10.153598,54.384384],"type":"Point"}
 }

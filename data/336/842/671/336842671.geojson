@@ -2,13 +2,14 @@
   "id": 336842671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.081098,50.752289,7.081098,50.752289",
     "geom:latitude":50.752289,
     "geom:longitude":7.081098,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seehausstr. 66",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336842671,
-    "wof:lastmodified":1448997006,
+    "wof:lastmodified":1466238050,
     "wof:name":"Gerhard Sankowsky",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.081098,50.752289,7.081098,50.752289],
+  "bbox": [
+    7.081098,
+    50.752289,
+    7.081098,
+    50.752289
+],
   "geometry": {"coordinates":[7.081098,50.752289],"type":"Point"}
 }

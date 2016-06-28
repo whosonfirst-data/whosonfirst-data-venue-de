@@ -2,13 +2,14 @@
   "id": 253617177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.801125,51.169579,6.801125,51.169579",
     "geom:latitude":51.169579,
     "geom:longitude":6.801125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nikolausstr. 32",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253617177,
-    "wof:lastmodified":1449062925,
+    "wof:lastmodified":1466231829,
     "wof:name":"Karl-peter Bergmeister",
     "wof:parent_id":85796611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.801125,51.169579,6.801125,51.169579],
+  "bbox": [
+    6.801125,
+    51.169579,
+    6.801125,
+    51.169579
+],
   "geometry": {"coordinates":[6.801125,51.169579],"type":"Point"}
 }

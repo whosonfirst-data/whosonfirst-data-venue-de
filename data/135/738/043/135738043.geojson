@@ -2,13 +2,14 @@
   "id": 135738043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.396101,52.943726,12.396101,52.943726",
     "geom:latitude":52.943726,
     "geom:longitude":12.396101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Sebastian-Bach-Str. 29",
     "sg:city":"Kyritz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135738043,
-    "wof:lastmodified":1449023211,
+    "wof:lastmodified":1466243326,
     "wof:name":"F. Seidenschnur",
     "wof:parent_id":101820061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.396101,52.943726,12.396101,52.943726],
+  "bbox": [
+    12.396101,
+    52.943726,
+    12.396101,
+    52.943726
+],
   "geometry": {"coordinates":[12.396101,52.943726],"type":"Point"}
 }

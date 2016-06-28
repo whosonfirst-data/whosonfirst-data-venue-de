@@ -2,13 +2,14 @@
   "id": 119484811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.762998,52.403416,9.762998,52.403416",
     "geom:latitude":52.403416,
     "geom:longitude":9.762998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Listholze 89",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119484811,
-    "wof:lastmodified":1449043394,
+    "wof:lastmodified":1466243404,
     "wof:name":"Clean Car Autoservice",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.762998,52.403416,9.762998,52.403416],
+  "bbox": [
+    9.762998,
+    52.403416,
+    9.762998,
+    52.403416
+],
   "geometry": {"coordinates":[9.762998,52.403416],"type":"Point"}
 }

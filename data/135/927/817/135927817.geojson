@@ -2,13 +2,14 @@
   "id": 135927817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.645657,48.149036,11.645657,48.149036",
     "geom:latitude":48.149036,
     "geom:longitude":11.645657,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Posener Str. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899143,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135927817,
-    "wof:lastmodified":1449023685,
+    "wof:lastmodified":1466244664,
     "wof:name":"R. M. Holding Gmbh",
     "wof:parent_id":85899143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.645657,48.149036,11.645657,48.149036],
+  "bbox": [
+    11.645657,
+    48.149036,
+    11.645657,
+    48.149036
+],
   "geometry": {"coordinates":[11.645657,48.149036],"type":"Point"}
 }

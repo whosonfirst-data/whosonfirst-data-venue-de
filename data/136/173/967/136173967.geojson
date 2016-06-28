@@ -2,13 +2,14 @@
   "id": 136173967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.504185,51.194496,6.504185,51.194496",
     "geom:latitude":51.194496,
     "geom:longitude":6.504185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 58",
     "sg:city":"Korschenbroich",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795867,
+        85682513,
         85633111,
         101810017,
         102063757,
-        85682513
+        85795867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136173967,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466219887,
     "wof:name":"Adax Autodienstleistungen Gmbh",
     "wof:parent_id":85795867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.504185,51.194496,6.504185,51.194496],
+  "bbox": [
+    6.504185,
+    51.194496,
+    6.504185,
+    51.194496
+],
   "geometry": {"coordinates":[6.504185,51.194496],"type":"Point"}
 }

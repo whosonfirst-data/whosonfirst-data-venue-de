@@ -2,13 +2,14 @@
   "id": 269551297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.704015,48.115166,11.704015,48.115166",
     "geom:latitude":48.115166,
     "geom:longitude":11.704015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wachtelweg 27",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269551297,
-    "wof:lastmodified":1449036628,
+    "wof:lastmodified":1466222446,
     "wof:name":"Paul Hofmann",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.704015,48.115166,11.704015,48.115166],
+  "bbox": [
+    11.704015,
+    48.115166,
+    11.704015,
+    48.115166
+],
   "geometry": {"coordinates":[11.704015,48.115166],"type":"Point"}
 }

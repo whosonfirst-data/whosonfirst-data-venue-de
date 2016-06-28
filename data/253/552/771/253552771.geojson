@@ -2,13 +2,14 @@
   "id": 253552771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.701621,48.102909,11.701621,48.102909",
     "geom:latitude":48.102909,
     "geom:longitude":11.701621,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Iltisstr. 13",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253552771,
-    "wof:lastmodified":1449064061,
+    "wof:lastmodified":1466230333,
     "wof:name":"Voitl Gmbh",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.701621,48.102909,11.701621,48.102909],
+  "bbox": [
+    11.701621,
+    48.102909,
+    11.701621,
+    48.102909
+],
   "geometry": {"coordinates":[11.701621,48.102909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136186969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.560343,49.940224,11.560343,49.940224",
     "geom:latitude":49.940224,
     "geom:longitude":11.560343,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlanger Str. 73",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136186969,
-    "wof:lastmodified":1449075939,
+    "wof:lastmodified":1466220495,
     "wof:name":"Blumen Leppert",
     "wof:parent_id":101748565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.560343,49.940224,11.560343,49.940224],
+  "bbox": [
+    11.560343,
+    49.940224,
+    11.560343,
+    49.940224
+],
   "geometry": {"coordinates":[11.560343,49.940224],"type":"Point"}
 }

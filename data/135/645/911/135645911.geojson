@@ -2,13 +2,14 @@
   "id": 135645911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.19389,51.463982,7.19389,51.463982",
     "geom:latitude":51.463982,
     "geom:longitude":7.19389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rombacher H\u00fctte 5",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796583,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135645911,
-    "wof:lastmodified":1449021304,
+    "wof:lastmodified":1466240728,
     "wof:name":"M\u00fchl Product And Service Bochum Gmbh",
     "wof:parent_id":85796583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.19389,51.463982,7.19389,51.463982],
+  "bbox": [
+    7.19389,
+    51.463982,
+    7.19389,
+    51.463982
+],
   "geometry": {"coordinates":[7.19389,51.463982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336910735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.052189,52.268463,8.052189,52.268463",
     "geom:latitude":52.268463,
     "geom:longitude":8.052189,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannisstr. 110",
     "sg:city":"Osnabr\u00fcck",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336910735,
-    "wof:lastmodified":1448997394,
+    "wof:lastmodified":1466239015,
     "wof:name":"Lindner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.052189,52.268463,8.052189,52.268463],
+  "bbox": [
+    8.052189,
+    52.268463,
+    8.052189,
+    52.268463
+],
   "geometry": {"coordinates":[8.052189,52.268463],"type":"Point"}
 }

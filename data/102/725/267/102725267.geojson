@@ -2,13 +2,14 @@
   "id": 102725267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.716096,50.107414,8.716096,50.107414",
     "geom:latitude":50.107414,
     "geom:longitude":8.716096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franziusstr 8-14",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102725267,
-    "wof:lastmodified":1449068376,
+    "wof:lastmodified":1466216845,
     "wof:name":"Pc-service Walter Haschke & Partner Gbr",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.716096,50.107414,8.716096,50.107414],
+  "bbox": [
+    8.716096,
+    50.107414,
+    8.716096,
+    50.107414
+],
   "geometry": {"coordinates":[8.716096,50.107414],"type":"Point"}
 }

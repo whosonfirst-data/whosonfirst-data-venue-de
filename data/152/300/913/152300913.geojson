@@ -2,13 +2,14 @@
   "id": 152300913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.707015,50.328545,11.707015,50.328545",
     "geom:latitude":50.328545,
     "geom:longitude":11.707015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurze Str. 2",
     "sg:city":"Naila",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152300913,
-    "wof:lastmodified":1449046906,
+    "wof:lastmodified":1466216179,
     "wof:name":"Wilhelm Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.707015,50.328545,11.707015,50.328545],
+  "bbox": [
+    11.707015,
+    50.328545,
+    11.707015,
+    50.328545
+],
   "geometry": {"coordinates":[11.707015,50.328545],"type":"Point"}
 }

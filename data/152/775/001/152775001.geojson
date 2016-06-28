@@ -2,13 +2,14 @@
   "id": 152775001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.620587,52.490002,13.620587,52.490002",
     "geom:latitude":52.490002,
     "geom:longitude":13.620587,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitzwegstra\u00dfe 15",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063963,
-        85633111,
         85682553,
-        85899351
+        85633111,
+        85899351,
+        102063963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152775001,
-    "wof:lastmodified":1449047718,
+    "wof:lastmodified":1466226461,
     "wof:name":"D2 Direkt - Immer Faire Preise",
     "wof:parent_id":85899351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.620587,52.490002,13.620587,52.490002],
+  "bbox": [
+    13.620587,
+    52.490002,
+    13.620587,
+    52.490002
+],
   "geometry": {"coordinates":[13.620587,52.490002],"type":"Point"}
 }

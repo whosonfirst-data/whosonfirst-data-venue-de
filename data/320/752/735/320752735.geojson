@@ -2,13 +2,14 @@
   "id": 320752735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.852395,53.591911,9.852395,53.591911",
     "geom:latitude":53.591911,
     "geom:longitude":9.852395,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bornheide 83",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320752735,
-    "wof:lastmodified":1449011888,
+    "wof:lastmodified":1466242941,
     "wof:name":"B. Fischer",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.852395,53.591911,9.852395,53.591911],
+  "bbox": [
+    9.852395,
+    53.591911,
+    9.852395,
+    53.591911
+],
   "geometry": {"coordinates":[9.852395,53.591911],"type":"Point"}
 }

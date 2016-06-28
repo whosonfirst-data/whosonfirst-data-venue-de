@@ -2,13 +2,14 @@
   "id": 119255399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.613201,52.516003,13.613201,52.516003",
     "geom:latitude":52.516003,
     "geom:longitude":13.613201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6nower Str. 131",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119255399,
-    "wof:lastmodified":1449042029,
+    "wof:lastmodified":1466234132,
     "wof:name":"Dr. Erika Scherret",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.613201,52.516003,13.613201,52.516003],
+  "bbox": [
+    13.613201,
+    52.516003,
+    13.613201,
+    52.516003
+],
   "geometry": {"coordinates":[13.613201,52.516003],"type":"Point"}
 }

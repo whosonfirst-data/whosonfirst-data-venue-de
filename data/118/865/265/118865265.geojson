@@ -2,13 +2,14 @@
   "id": 118865265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.234899,52.607555,13.234899,52.607555",
     "geom:latitude":52.607555,
     "geom:longitude":13.234899,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bekassinenweg 18",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899999,
+        85682499,
         85633111,
         101841459,
         102063945,
-        85682499
+        85899999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118865265,
-    "wof:lastmodified":1449054207,
+    "wof:lastmodified":1466233759,
     "wof:name":"Apotheke Am Markt E. K.",
     "wof:parent_id":85899999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.234899,52.607555,13.234899,52.607555],
+  "bbox": [
+    13.234899,
+    52.607555,
+    13.234899,
+    52.607555
+],
   "geometry": {"coordinates":[13.234899,52.607555],"type":"Point"}
 }

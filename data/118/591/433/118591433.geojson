@@ -2,13 +2,14 @@
   "id": 118591433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.798618,51.000526,6.798618,51.000526",
     "geom:latitude":51.000526,
     "geom:longitude":6.798618,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hackenbroicher Weg 8",
     "sg:city":"Pulheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863005,
+        85682513,
         85633111,
         101748631,
         102063709,
-        85682513
+        85863005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118591433,
-    "wof:lastmodified":1449053901,
+    "wof:lastmodified":1466217732,
     "wof:name":"K. Rameken",
     "wof:parent_id":85863005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.798618,51.000526,6.798618,51.000526],
+  "bbox": [
+    6.798618,
+    51.000526,
+    6.798618,
+    51.000526
+],
   "geometry": {"coordinates":[6.798618,51.000526],"type":"Point"}
 }

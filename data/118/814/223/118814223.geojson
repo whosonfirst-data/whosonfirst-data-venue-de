@@ -2,13 +2,14 @@
   "id": 118814223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.919652,53.56385,9.919652,53.56385",
     "geom:latitude":53.56385,
     "geom:longitude":9.919652,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stresemannstr. 390",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899761,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118814223,
-    "wof:lastmodified":1449053396,
+    "wof:lastmodified":1466230606,
     "wof:name":"Europa Apotheke Alexander Merkel",
     "wof:parent_id":85899761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.919652,53.56385,9.919652,53.56385],
+  "bbox": [
+    9.919652,
+    53.56385,
+    9.919652,
+    53.56385
+],
   "geometry": {"coordinates":[9.919652,53.56385],"type":"Point"}
 }

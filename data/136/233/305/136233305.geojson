@@ -2,13 +2,14 @@
   "id": 136233305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.780328,51.985001,7.780328,51.985001",
     "geom:latitude":51.985001,
     "geom:longitude":7.780328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnstertor 10",
     "sg:city":"Telgte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136233305,
-    "wof:lastmodified":1449076289,
+    "wof:lastmodified":1466223191,
     "wof:name":"Lennartz",
     "wof:parent_id":101809085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.780328,51.985001,7.780328,51.985001],
+  "bbox": [
+    7.780328,
+    51.985001,
+    7.780328,
+    51.985001
+],
   "geometry": {"coordinates":[7.780328,51.985001],"type":"Point"}
 }

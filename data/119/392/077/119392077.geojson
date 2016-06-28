@@ -2,13 +2,14 @@
   "id": 119392077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.566581,48.163559,11.566581,48.163559",
     "geom:latitude":48.163559,
     "geom:longitude":11.566581,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hiltenspergerstr. 62",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119392077,
-    "wof:lastmodified":1449042973,
+    "wof:lastmodified":1466241291,
     "wof:name":"Zn & Partner Bausanierung Gmbh",
     "wof:parent_id":85899615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.566581,48.163559,11.566581,48.163559],
+  "bbox": [
+    11.566581,
+    48.163559,
+    11.566581,
+    48.163559
+],
   "geometry": {"coordinates":[11.566581,48.163559],"type":"Point"}
 }

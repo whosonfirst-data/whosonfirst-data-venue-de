@@ -2,13 +2,14 @@
   "id": 270002181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.866899,50.574219,12.866899,50.574219",
     "geom:latitude":50.574219,
     "geom:longitude":12.866899,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzenberger Str. 24",
     "sg:city":"Elterlein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270002181,
-    "wof:lastmodified":1449010623,
+    "wof:lastmodified":1466221408,
     "wof:name":"K. Baumann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.866899,50.574219,12.866899,50.574219],
+  "bbox": [
+    12.866899,
+    50.574219,
+    12.866899,
+    50.574219
+],
   "geometry": {"coordinates":[12.866899,50.574219],"type":"Point"}
 }

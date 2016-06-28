@@ -2,13 +2,14 @@
   "id": 186325203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.141093,50.230667,7.141093,50.230667",
     "geom:latitude":50.230667,
     "geom:longitude":7.141093,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Koblenzer Str. 45",
     "sg:city":"Kaisersesch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186325203,
-    "wof:lastmodified":1449051414,
+    "wof:lastmodified":1466216594,
     "wof:name":"Jakob Irmiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.141093,50.230667,7.141093,50.230667],
+  "bbox": [
+    7.141093,
+    50.230667,
+    7.141093,
+    50.230667
+],
   "geometry": {"coordinates":[7.141093,50.230667],"type":"Point"}
 }

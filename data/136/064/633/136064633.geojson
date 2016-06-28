@@ -2,13 +2,14 @@
   "id": 136064633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.88571,51.061352,13.88571,51.061352",
     "geom:latitude":51.061352,
     "geom:longitude":13.88571,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dresdner Str. 9",
     "sg:city":"Wei\u00dfig",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"01474",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900225,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136064633,
-    "wof:lastmodified":1449075383,
+    "wof:lastmodified":1466215102,
     "wof:name":"Fitness Und Fun Im Aura Frauenfitness",
     "wof:parent_id":85900225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.88571,51.061352,13.88571,51.061352],
+  "bbox": [
+    13.88571,
+    51.061352,
+    13.88571,
+    51.061352
+],
   "geometry": {"coordinates":[13.88571,51.061352],"type":"Point"}
 }

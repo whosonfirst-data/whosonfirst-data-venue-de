@@ -2,13 +2,14 @@
   "id": 185982703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.003086,49.41367,11.003086,49.41367",
     "geom:latitude":49.41367,
     "geom:longitude":11.003086,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lilienstr. 2",
     "sg:city":"Stein",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185982703,
-    "wof:lastmodified":1449006886,
+    "wof:lastmodified":1466217028,
     "wof:name":"Walter Und Erika Stettner",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.003086,49.41367,11.003086,49.41367],
+  "bbox": [
+    11.003086,
+    49.41367,
+    11.003086,
+    49.41367
+],
   "geometry": {"coordinates":[11.003086,49.41367],"type":"Point"}
 }

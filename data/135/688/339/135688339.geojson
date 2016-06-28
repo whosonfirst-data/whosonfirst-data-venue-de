@@ -2,13 +2,14 @@
   "id": 135688339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.669217,51.978775,8.669217,51.978775",
     "geom:latitude":51.978775,
     "geom:longitude":8.669217,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Asemisser Allee 4",
     "sg:city":"Leopoldsh\u00f6he",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063883,
-        85633111,
         85682513,
-        85794861
+        85633111,
+        85794861,
+        102063883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135688339,
-    "wof:lastmodified":1449022127,
+    "wof:lastmodified":1466242097,
     "wof:name":"E. T. Equipment Team Gmbh",
     "wof:parent_id":85794861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.669217,51.978775,8.669217,51.978775],
+  "bbox": [
+    8.669217,
+    51.978775,
+    8.669217,
+    51.978775
+],
   "geometry": {"coordinates":[8.669217,51.978775],"type":"Point"}
 }

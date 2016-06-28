@@ -2,13 +2,14 @@
   "id": 119410939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.481001,48.177193,11.481001,48.177193",
     "geom:latitude":48.177193,
     "geom:longitude":11.481001,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Medererstr. 4",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900179,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119410939,
-    "wof:lastmodified":1449040915,
+    "wof:lastmodified":1466241738,
     "wof:name":"Kothig Schreinerei Und Messebau Gmbh",
     "wof:parent_id":85900179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.481001,48.177193,11.481001,48.177193],
+  "bbox": [
+    11.481001,
+    48.177193,
+    11.481001,
+    48.177193
+],
   "geometry": {"coordinates":[11.481001,48.177193],"type":"Point"}
 }

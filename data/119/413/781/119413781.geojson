@@ -2,13 +2,14 @@
   "id": 119413781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.221586,51.519722,7.221586,51.519722",
     "geom:latitude":51.519722,
     "geom:longitude":7.221586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"V\u00f6destr. 150",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863239,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119413781,
-    "wof:lastmodified":1449041234,
+    "wof:lastmodified":1466241896,
     "wof:name":"Manfred Hegerfeld",
     "wof:parent_id":85863239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.221586,51.519722,7.221586,51.519722],
+  "bbox": [
+    7.221586,
+    51.519722,
+    7.221586,
+    51.519722
+],
   "geometry": {"coordinates":[7.221586,51.519722],"type":"Point"}
 }

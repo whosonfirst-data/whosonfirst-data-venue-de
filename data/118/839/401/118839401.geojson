@@ -2,13 +2,14 @@
   "id": 118839401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.764212,50.104218,8.764212,50.104218",
     "geom:latitude":50.104218,
     "geom:longitude":8.764212,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfe Marktstr. 4",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118839401,
-    "wof:lastmodified":1449054009,
+    "wof:lastmodified":1466232125,
     "wof:name":"Punkt-apotheke Inh. Edith Kruse",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.764212,50.104218,8.764212,50.104218],
+  "bbox": [
+    8.764212,
+    50.104218,
+    8.764212,
+    50.104218
+],
   "geometry": {"coordinates":[8.764212,50.104218],"type":"Point"}
 }

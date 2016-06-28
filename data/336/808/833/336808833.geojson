@@ -2,13 +2,14 @@
   "id": 336808833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.60723,48.098652,11.60723,48.098652",
     "geom:latitude":48.098652,
     "geom:longitude":11.60723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Balanstr. 221",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336808833,
-    "wof:lastmodified":1448996961,
+    "wof:lastmodified":1466237445,
     "wof:name":"Erich Forster",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.60723,48.098652,11.60723,48.098652],
+  "bbox": [
+    11.60723,
+    48.098652,
+    11.60723,
+    48.098652
+],
   "geometry": {"coordinates":[11.60723,48.098652],"type":"Point"}
 }

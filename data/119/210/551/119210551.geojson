@@ -2,13 +2,14 @@
   "id": 119210551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.670506,49.853317,8.670506,49.853317",
     "geom:latitude":49.853317,
     "geom:longitude":8.670506,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nieder-Ramst\u00e4dter Str. 190",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119210551,
-    "wof:lastmodified":1449041683,
+    "wof:lastmodified":1466229749,
     "wof:name":"Internat. Musikinstitut Bibliothek",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.670506,49.853317,8.670506,49.853317],
+  "bbox": [
+    8.670506,
+    49.853317,
+    8.670506,
+    49.853317
+],
   "geometry": {"coordinates":[8.670506,49.853317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135879317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.38732,51.380539,12.38732,51.380539",
     "geom:latitude":51.380539,
     "geom:longitude":12.38732,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00fcbener Landstr.",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899641,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135879317,
-    "wof:lastmodified":1449021014,
+    "wof:lastmodified":1466244424,
     "wof:name":"Beteiligungsges. Quick-mix Spezial Trockenm\u00f6rtel",
     "wof:parent_id":85899641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.38732,51.380539,12.38732,51.380539],
+  "bbox": [
+    12.38732,
+    51.380539,
+    12.38732,
+    51.380539
+],
   "geometry": {"coordinates":[12.38732,51.380539],"type":"Point"}
 }

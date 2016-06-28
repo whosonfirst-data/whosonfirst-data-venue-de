@@ -2,13 +2,14 @@
   "id": 102755263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.05199,53.60601,10.05199,53.60601",
     "geom:latitude":53.60601,
     "geom:longitude":10.05199,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-Buck Weg 9",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102755263,
-    "wof:lastmodified":1449068466,
+    "wof:lastmodified":1466218546,
     "wof:name":"Seiko Precision (europe) Gmbh",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.05199,53.60601,10.05199,53.60601],
+  "bbox": [
+    10.05199,
+    53.60601,
+    10.05199,
+    53.60601
+],
   "geometry": {"coordinates":[10.05199,53.60601],"type":"Point"}
 }

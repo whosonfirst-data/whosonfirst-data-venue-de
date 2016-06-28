@@ -2,13 +2,14 @@
   "id": 135267665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.445114,50.705822,8.445114,50.705822",
     "geom:latitude":50.705822,
     "geom:longitude":8.445114,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 12",
     "sg:city":"Bischoffen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135267665,
-    "wof:lastmodified":1449023728,
+    "wof:lastmodified":1466213320,
     "wof:name":"Hans-gerd Schmid",
     "wof:parent_id":101810915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.445114,50.705822,8.445114,50.705822],
+  "bbox": [
+    8.445114,
+    50.705822,
+    8.445114,
+    50.705822
+],
   "geometry": {"coordinates":[8.445114,50.705822],"type":"Point"}
 }

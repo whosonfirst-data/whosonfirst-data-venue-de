@@ -2,13 +2,14 @@
   "id": 202418897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.440151,50.12281,11.440151,50.12281",
     "geom:latitude":50.12281,
     "geom:longitude":11.440151,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Br\u00fcnnlein 1",
     "sg:city":"Kulmbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202418897,
-    "wof:lastmodified":1449062108,
+    "wof:lastmodified":1466214099,
     "wof:name":"B. Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.440151,50.12281,11.440151,50.12281],
+  "bbox": [
+    11.440151,
+    50.12281,
+    11.440151,
+    50.12281
+],
   "geometry": {"coordinates":[11.440151,50.12281],"type":"Point"}
 }

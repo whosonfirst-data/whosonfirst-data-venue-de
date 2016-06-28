@@ -2,13 +2,14 @@
   "id": 119468577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.501416,49.450199,8.501416,49.450199",
     "geom:latitude":49.450199,
     "geom:longitude":8.501416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Casterfeldstr. 39",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862825,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85862825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119468577,
-    "wof:lastmodified":1449042781,
+    "wof:lastmodified":1466243079,
     "wof:name":"Cc Raule Gmbh & Co. Kg",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.501416,49.450199,8.501416,49.450199],
+  "bbox": [
+    8.501416,
+    49.450199,
+    8.501416,
+    49.450199
+],
   "geometry": {"coordinates":[8.501416,49.450199],"type":"Point"}
 }

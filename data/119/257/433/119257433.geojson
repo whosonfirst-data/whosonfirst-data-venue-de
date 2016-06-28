@@ -2,13 +2,14 @@
   "id": 119257433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.557427,52.550449,13.557427,52.550449",
     "geom:latitude":52.550449,
     "geom:longitude":13.557427,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Renn-Str. 31",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899733,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119257433,
-    "wof:lastmodified":1449041557,
+    "wof:lastmodified":1466234356,
     "wof:name":"Dr. Med. B\u00e4rbel Baumann",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.557427,52.550449,13.557427,52.550449],
+  "bbox": [
+    13.557427,
+    52.550449,
+    13.557427,
+    52.550449
+],
   "geometry": {"coordinates":[13.557427,52.550449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152745655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.25936,51.344093,12.25936,51.344093",
     "geom:latitude":51.344093,
     "geom:longitude":12.25936,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Dorfstr. 37",
     "sg:city":"R\u00fcckmarsdorf",
     "sg:classifiers":[],
@@ -16,10 +17,10 @@
     "sg:postcode":"04430",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064227,
-        85633111,
         85682523,
-        85899977
+        85633111,
+        85899977,
+        102064227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":152745655,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1466225734,
     "wof:name":"Akademisches Orchester Leipzig E.v.",
     "wof:parent_id":85899977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.25936,51.344093,12.25936,51.344093],
+  "bbox": [
+    12.25936,
+    51.344093,
+    12.25936,
+    51.344093
+],
   "geometry": {"coordinates":[12.25936,51.344093],"type":"Point"}
 }

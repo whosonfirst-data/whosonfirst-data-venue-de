@@ -2,13 +2,14 @@
   "id": 102704221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.477868,52.237694,10.477868,52.237694",
     "geom:latitude":52.237694,
     "geom:longitude":10.477868,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbrink 3",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063903,
-        85633111,
         85682555,
-        85900103
+        85633111,
+        85900103,
+        102063903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102704221,
-    "wof:lastmodified":1449068416,
+    "wof:lastmodified":1466216260,
     "wof:name":"Druckerei Gebert",
     "wof:parent_id":85900103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.477868,52.237694,10.477868,52.237694],
+  "bbox": [
+    10.477868,
+    52.237694,
+    10.477868,
+    52.237694
+],
   "geometry": {"coordinates":[10.477868,52.237694],"type":"Point"}
 }

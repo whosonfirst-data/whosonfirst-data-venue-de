@@ -2,13 +2,14 @@
   "id": 119429711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.849319,48.351032,10.849319,48.351032",
     "geom:latitude":48.351032,
     "geom:longitude":10.849319,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augsburger Str. 18",
     "sg:city":"Stadtbergen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119429711,
-    "wof:lastmodified":1449043415,
+    "wof:lastmodified":1466242383,
     "wof:name":"T. Fischer",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.849319,48.351032,10.849319,48.351032],
+  "bbox": [
+    10.849319,
+    48.351032,
+    10.849319,
+    48.351032
+],
   "geometry": {"coordinates":[10.849319,48.351032],"type":"Point"}
 }

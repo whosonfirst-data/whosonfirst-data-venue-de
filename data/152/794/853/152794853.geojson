@@ -2,13 +2,14 @@
   "id": 152794853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.970455,53.576817,9.970455,53.576817",
     "geom:latitude":53.576817,
     "geom:longitude":9.970455,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarkstr. 103",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899703,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152794853,
-    "wof:lastmodified":1449046523,
+    "wof:lastmodified":1466226932,
     "wof:name":"Dr. Ulrike Hentrich - Praxis F\u00fcr Hom\u00f6opathe In Hh",
     "wof:parent_id":85899703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.970455,53.576817,9.970455,53.576817],
+  "bbox": [
+    9.970455,
+    53.576817,
+    9.970455,
+    53.576817
+],
   "geometry": {"coordinates":[9.970455,53.576817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118763675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633274,49.855862,8.633274,49.855862",
     "geom:latitude":49.855862,
     "geom:longitude":8.633274,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Sandacker 23",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118763675,
-    "wof:lastmodified":1449054531,
+    "wof:lastmodified":1466227552,
     "wof:name":"Behrmann",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.633274,49.855862,8.633274,49.855862],
+  "bbox": [
+    8.633274,
+    49.855862,
+    8.633274,
+    49.855862
+],
   "geometry": {"coordinates":[8.633274,49.855862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202777913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.18371,49.333309,7.18371,49.333309",
     "geom:latitude":49.333309,
     "geom:longitude":7.18371,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermannstr. 51a",
     "sg:city":"Neunkirchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202777913,
-    "wof:lastmodified":1449061442,
+    "wof:lastmodified":1466220844,
     "wof:name":"Oliver Rinder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.18371,49.333309,7.18371,49.333309],
+  "bbox": [
+    7.18371,
+    49.333309,
+    7.18371,
+    49.333309
+],
   "geometry": {"coordinates":[7.18371,49.333309],"type":"Point"}
 }

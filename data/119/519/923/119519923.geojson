@@ -2,13 +2,14 @@
   "id": 119519923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.663931,53.875576,10.663931,53.875576",
     "geom:latitude":53.875576,
     "geom:longitude":10.663931,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fackenburger Allee 57a",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900237,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119519923,
-    "wof:lastmodified":1449043377,
+    "wof:lastmodified":1466243862,
     "wof:name":"F. Zuther",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.663931,53.875576,10.663931,53.875576],
+  "bbox": [
+    10.663931,
+    53.875576,
+    10.663931,
+    53.875576
+],
   "geometry": {"coordinates":[10.663931,53.875576],"type":"Point"}
 }

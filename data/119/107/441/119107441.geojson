@@ -2,13 +2,14 @@
   "id": 119107441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.09321,50.741375,7.09321,50.741375",
     "geom:latitude":50.741375,
     "geom:longitude":7.09321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georgstr. 15",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119107441,
-    "wof:lastmodified":1449040890,
+    "wof:lastmodified":1466220727,
     "wof:name":"Peter G\u00f6rtner Architekt",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.09321,50.741375,7.09321,50.741375],
+  "bbox": [
+    7.09321,
+    50.741375,
+    7.09321,
+    50.741375
+],
   "geometry": {"coordinates":[7.09321,50.741375],"type":"Point"}
 }

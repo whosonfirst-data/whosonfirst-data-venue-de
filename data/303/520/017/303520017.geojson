@@ -2,13 +2,14 @@
   "id": 303520017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.36384,53.418018,10.36384,53.418018",
     "geom:latitude":53.418018,
     "geom:longitude":10.36384,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elbuferstr. 108",
     "sg:city":"Marschacht",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303520017,
-    "wof:lastmodified":1448998922,
+    "wof:lastmodified":1466236844,
     "wof:name":"Hutmann Verlag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.36384,53.418018,10.36384,53.418018],
+  "bbox": [
+    10.36384,
+    53.418018,
+    10.36384,
+    53.418018
+],
   "geometry": {"coordinates":[10.36384,53.418018],"type":"Point"}
 }

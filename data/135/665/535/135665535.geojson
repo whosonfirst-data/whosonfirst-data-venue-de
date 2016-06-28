@@ -2,13 +2,14 @@
   "id": 135665535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.664473,49.87011,8.664473,49.87011",
     "geom:latitude":49.87011,
     "geom:longitude":8.664473,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wienerstr. 61",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063543,
-        85633111,
         85682531,
-        85859529
+        85633111,
+        85859529,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135665535,
-    "wof:lastmodified":1449021931,
+    "wof:lastmodified":1466241364,
     "wof:name":"K. Jung Bauschlosserei",
     "wof:parent_id":85859529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.664473,49.87011,8.664473,49.87011],
+  "bbox": [
+    8.664473,
+    49.87011,
+    8.664473,
+    49.87011
+],
   "geometry": {"coordinates":[8.664473,49.87011],"type":"Point"}
 }

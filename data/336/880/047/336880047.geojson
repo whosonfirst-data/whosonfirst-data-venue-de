@@ -2,13 +2,14 @@
   "id": 336880047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.653017,50.144333,8.653017,50.144333",
     "geom:latitude":50.144333,
     "geom:longitude":8.653017,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ginnheimer Hohl 40",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336880047,
-    "wof:lastmodified":1448998021,
+    "wof:lastmodified":1466238385,
     "wof:name":"Hartmut Geist",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.653017,50.144333,8.653017,50.144333],
+  "bbox": [
+    8.653017,
+    50.144333,
+    8.653017,
+    50.144333
+],
   "geometry": {"coordinates":[8.653017,50.144333],"type":"Point"}
 }

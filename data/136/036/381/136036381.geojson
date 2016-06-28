@@ -2,13 +2,14 @@
   "id": 136036381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.729329,51.455585,6.729329,51.455585",
     "geom:latitude":51.455585,
     "geom:longitude":6.729329,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Hindorf-Platz 1",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796547,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85796547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136036381,
-    "wof:lastmodified":1449075196,
+    "wof:lastmodified":1466213770,
     "wof:name":"Cd-produktionen, Radiowerbung, Tonstudio",
     "wof:parent_id":85796547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.729329,51.455585,6.729329,51.455585],
+  "bbox": [
+    6.729329,
+    51.455585,
+    6.729329,
+    51.455585
+],
   "geometry": {"coordinates":[6.729329,51.455585],"type":"Point"}
 }

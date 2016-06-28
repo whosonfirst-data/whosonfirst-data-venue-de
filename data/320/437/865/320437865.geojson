@@ -2,13 +2,14 @@
   "id": 320437865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.707136,51.032173,13.707136,51.032173",
     "geom:latitude":51.032173,
     "geom:longitude":13.707136,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zwickauer Str. 97",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320437865,
-    "wof:lastmodified":1449013962,
+    "wof:lastmodified":1466240371,
     "wof:name":"Eu-medical Gmbh",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.707136,51.032173,13.707136,51.032173],
+  "bbox": [
+    13.707136,
+    51.032173,
+    13.707136,
+    51.032173
+],
   "geometry": {"coordinates":[13.707136,51.032173],"type":"Point"}
 }

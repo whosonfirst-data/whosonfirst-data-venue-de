@@ -2,13 +2,14 @@
   "id": 118781023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.576031,48.137444,11.576031,48.137444",
     "geom:latitude":48.137444,
     "geom:longitude":11.576031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienplatz 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905605,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118781023,
-    "wof:lastmodified":1449053410,
+    "wof:lastmodified":1466228620,
     "wof:name":"Antiquit\u00e4ten Im Rathaus Peter Vogt",
     "wof:parent_id":85905605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.576031,48.137444,11.576031,48.137444],
+  "bbox": [
+    11.576031,
+    48.137444,
+    11.576031,
+    48.137444
+],
   "geometry": {"coordinates":[11.576031,48.137444],"type":"Point"}
 }

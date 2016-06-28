@@ -2,13 +2,14 @@
   "id": 119092647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.096979,51.126694,7.096979,51.126694",
     "geom:latitude":51.126694,
     "geom:longitude":7.096979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolfstall 52",
     "sg:city":"Leichlingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85794819
+        85633111,
+        85794819,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119092647,
-    "wof:lastmodified":1449043007,
+    "wof:lastmodified":1466219348,
     "wof:name":"Manfred H. Stupp Architekt",
     "wof:parent_id":85794819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.096979,51.126694,7.096979,51.126694],
+  "bbox": [
+    7.096979,
+    51.126694,
+    7.096979,
+    51.126694
+],
   "geometry": {"coordinates":[7.096979,51.126694],"type":"Point"}
 }

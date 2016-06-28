@@ -2,13 +2,14 @@
   "id": 152294569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.759889,53.115753,8.759889,53.115753",
     "geom:latitude":53.115753,
     "geom:longitude":8.759889,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00f6pelinger Heerstr. 183",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85796255
+        85633111,
+        85796255,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152294569,
-    "wof:lastmodified":1449047593,
+    "wof:lastmodified":1466216044,
     "wof:name":"Sauberland Textilpflege Gmbh",
     "wof:parent_id":85796255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.759889,53.115753,8.759889,53.115753],
+  "bbox": [
+    8.759889,
+    53.115753,
+    8.759889,
+    53.115753
+],
   "geometry": {"coordinates":[8.759889,53.115753],"type":"Point"}
 }

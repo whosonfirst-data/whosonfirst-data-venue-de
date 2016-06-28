@@ -2,13 +2,14 @@
   "id": 253569091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.328982,52.575474,13.328982,52.575474",
     "geom:latitude":52.575474,
     "geom:longitude":13.328982,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstr. 98",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253569091,
-    "wof:lastmodified":1449065682,
+    "wof:lastmodified":1466230718,
     "wof:name":"Hans Braun Gmbh",
     "wof:parent_id":85905649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.328982,52.575474,13.328982,52.575474],
+  "bbox": [
+    13.328982,
+    52.575474,
+    13.328982,
+    52.575474
+],
   "geometry": {"coordinates":[13.328982,52.575474],"type":"Point"}
 }

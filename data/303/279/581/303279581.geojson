@@ -2,13 +2,14 @@
   "id": 303279581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.0425,53.249821,12.0425,53.249821",
     "geom:latitude":53.249821,
     "geom:longitude":12.0425,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Str. 3",
     "sg:city":"Putlitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303279581,
-    "wof:lastmodified":1448999242,
+    "wof:lastmodified":1466231389,
     "wof:name":"Werner Korth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.0425,53.249821,12.0425,53.249821],
+  "bbox": [
+    12.0425,
+    53.249821,
+    12.0425,
+    53.249821
+],
   "geometry": {"coordinates":[12.0425,53.249821],"type":"Point"}
 }

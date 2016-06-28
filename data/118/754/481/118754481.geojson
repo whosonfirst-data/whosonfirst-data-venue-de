@@ -2,13 +2,14 @@
   "id": 118754481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.104431,52.035446,12.104431,52.035446",
     "geom:latitude":52.035446,
     "geom:longitude":12.104431,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zerbster Str. 3",
     "sg:city":"Lindau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118754481,
-    "wof:lastmodified":1449054062,
+    "wof:lastmodified":1466227035,
     "wof:name":"Alfred Bernau",
     "wof:parent_id":101821119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.104431,52.035446,12.104431,52.035446],
+  "bbox": [
+    12.104431,
+    52.035446,
+    12.104431,
+    52.035446
+],
   "geometry": {"coordinates":[12.104431,52.035446],"type":"Point"}
 }

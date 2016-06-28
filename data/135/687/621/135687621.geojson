@@ -2,13 +2,14 @@
   "id": 135687621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.759539,51.119682,13.759539,51.119682",
     "geom:latitude":51.119682,
     "geom:longitude":13.759539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marsdorfer Str. 9",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905673,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135687621,
-    "wof:lastmodified":1449021861,
+    "wof:lastmodified":1466242183,
     "wof:name":"G\u00f6tz Nestler",
     "wof:parent_id":85905673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.759539,51.119682,13.759539,51.119682],
+  "bbox": [
+    13.759539,
+    51.119682,
+    13.759539,
+    51.119682
+],
   "geometry": {"coordinates":[13.759539,51.119682],"type":"Point"}
 }

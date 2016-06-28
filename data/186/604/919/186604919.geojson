@@ -2,13 +2,14 @@
   "id": 186604919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526547,52.092091,8.526547,52.092091",
     "geom:latitude":52.092091,
     "geom:longitude":8.526547,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vilsendorfer Str. 45",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186604919,
-    "wof:lastmodified":1449052710,
+    "wof:lastmodified":1466220002,
     "wof:name":"Rita Winkelmann",
     "wof:parent_id":85796105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526547,52.092091,8.526547,52.092091],
+  "bbox": [
+    8.526547,
+    52.092091,
+    8.526547,
+    52.092091
+],
   "geometry": {"coordinates":[8.526547,52.092091],"type":"Point"}
 }

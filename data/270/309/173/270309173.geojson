@@ -2,13 +2,14 @@
   "id": 270309173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.845923,48.349945,12.845923,48.349945",
     "geom:latitude":48.349945,
     "geom:longitude":12.845923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 7",
     "sg:city":"Wurmannsquick",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270309173,
-    "wof:lastmodified":1449009160,
+    "wof:lastmodified":1466228641,
     "wof:name":"Wohlmannstetter Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.845923,48.349945,12.845923,48.349945],
+  "bbox": [
+    12.845923,
+    48.349945,
+    12.845923,
+    48.349945
+],
   "geometry": {"coordinates":[12.845923,48.349945],"type":"Point"}
 }

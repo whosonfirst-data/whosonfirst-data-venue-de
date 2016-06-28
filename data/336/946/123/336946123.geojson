@@ -2,13 +2,14 @@
   "id": 336946123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.492255,52.434196,13.492255,52.434196",
     "geom:latitude":52.434196,
     "geom:longitude":13.492255,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenschuhweg 5 a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336946123,
-    "wof:lastmodified":1448997888,
+    "wof:lastmodified":1466239396,
     "wof:name":"Klaus Finger",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.492255,52.434196,13.492255,52.434196],
+  "bbox": [
+    13.492255,
+    52.434196,
+    13.492255,
+    52.434196
+],
   "geometry": {"coordinates":[13.492255,52.434196],"type":"Point"}
 }

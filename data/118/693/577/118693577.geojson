@@ -2,13 +2,14 @@
   "id": 118693577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.00944,49.407394,11.00944,49.407394",
     "geom:latitude":49.407394,
     "geom:longitude":11.00944,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterstr. 2",
     "sg:city":"Stein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118693577,
-    "wof:lastmodified":1449053227,
+    "wof:lastmodified":1466223551,
     "wof:name":"Caritas Sozialstation",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.00944,49.407394,11.00944,49.407394],
+  "bbox": [
+    11.00944,
+    49.407394,
+    11.00944,
+    49.407394
+],
   "geometry": {"coordinates":[11.00944,49.407394],"type":"Point"}
 }

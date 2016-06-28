@@ -2,13 +2,14 @@
   "id": 119189977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.733843,51.378773,6.733843,51.378773",
     "geom:latitude":51.378773,
     "geom:longitude":6.733843,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Seiffert-Str. 20",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796677,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513,
+        85796677,
         85794737
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119189977,
-    "wof:lastmodified":1449042753,
+    "wof:lastmodified":1466227860,
     "wof:name":"Archiv Der Mhd Berzelius Duisburg Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.733843,51.378773,6.733843,51.378773],
+  "bbox": [
+    6.733843,
+    51.378773,
+    6.733843,
+    51.378773
+],
   "geometry": {"coordinates":[6.733843,51.378773],"type":"Point"}
 }

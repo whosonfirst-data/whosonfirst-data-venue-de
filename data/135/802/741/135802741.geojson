@@ -2,13 +2,14 @@
   "id": 135802741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.932846,50.933956,6.932846,50.933956",
     "geom:latitude":50.933956,
     "geom:longitude":6.932846,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00fclicher Str. 23",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135802741,
-    "wof:lastmodified":1449023454,
+    "wof:lastmodified":1466244120,
     "wof:name":"Karl Peter Boch Raumausstattungs Gmbh",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.932846,50.933956,6.932846,50.933956],
+  "bbox": [
+    6.932846,
+    50.933956,
+    6.932846,
+    50.933956
+],
   "geometry": {"coordinates":[6.932846,50.933956],"type":"Point"}
 }

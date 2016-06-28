@@ -2,13 +2,14 @@
   "id": 119020303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.444786,51.344017,7.444786,51.344017",
     "geom:latitude":51.344017,
     "geom:longitude":7.444786,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im H\u00f6rdenbruch 25",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863251,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85863251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119020303,
-    "wof:lastmodified":1449042074,
+    "wof:lastmodified":1466233629,
     "wof:name":"Gerhard Romberg Bautr\u00e4ger Gmbh",
     "wof:parent_id":85863251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.444786,51.344017,7.444786,51.344017],
+  "bbox": [
+    7.444786,
+    51.344017,
+    7.444786,
+    51.344017
+],
   "geometry": {"coordinates":[7.444786,51.344017],"type":"Point"}
 }

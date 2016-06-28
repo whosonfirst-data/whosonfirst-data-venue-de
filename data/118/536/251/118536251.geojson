@@ -2,13 +2,14 @@
   "id": 118536251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.49601,51.318932,9.49601,51.318932",
     "geom:latitude":51.318932,
     "geom:longitude":9.49601,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 310463",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118536251,
-    "wof:lastmodified":1449053993,
+    "wof:lastmodified":1466214640,
     "wof:name":"Kimm Kg M\u00fcll-u. Schuttabfuhr-untern.",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.49601,51.318932,9.49601,51.318932],
+  "bbox": [
+    9.49601,
+    51.318932,
+    9.49601,
+    51.318932
+],
   "geometry": {"coordinates":[9.49601,51.318932],"type":"Point"}
 }

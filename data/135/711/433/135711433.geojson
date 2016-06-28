@@ -2,13 +2,14 @@
   "id": 135711433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.018907,51.081902,7.018907,51.081902",
     "geom:latitude":51.081902,
     "geom:longitude":7.018907,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Imbach 29",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063721,
-        85633111,
         85682513,
-        85795603
+        85633111,
+        85795603,
+        102063721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135711433,
-    "wof:lastmodified":1449023466,
+    "wof:lastmodified":1466242745,
     "wof:name":"Ambiente Bautr\u00e4ger Gmbh",
     "wof:parent_id":85795603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.018907,51.081902,7.018907,51.081902],
+  "bbox": [
+    7.018907,
+    51.081902,
+    7.018907,
+    51.081902
+],
   "geometry": {"coordinates":[7.018907,51.081902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202825211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.111436,54.297977,10.111436,54.297977",
     "geom:latitude":54.297977,
     "geom:longitude":10.111436,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagebuttenstr. 15",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202825211,
-    "wof:lastmodified":1449060194,
+    "wof:lastmodified":1466221694,
     "wof:name":"Willi Hahn Kunstmaler",
     "wof:parent_id":85900187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.111436,54.297977,10.111436,54.297977],
+  "bbox": [
+    10.111436,
+    54.297977,
+    10.111436,
+    54.297977
+],
   "geometry": {"coordinates":[10.111436,54.297977],"type":"Point"}
 }

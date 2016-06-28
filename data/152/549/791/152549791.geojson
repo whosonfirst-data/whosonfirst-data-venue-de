@@ -2,13 +2,14 @@
   "id": 152549791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.328972,52.509136,13.328972,52.509136",
     "geom:latitude":52.509136,
     "geom:longitude":13.328972,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fasanenstr.",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152549791,
-    "wof:lastmodified":1449045572,
+    "wof:lastmodified":1466221338,
     "wof:name":"Kap Hag Forum Neuk\u00f6lln Gmbh",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.328972,52.509136,13.328972,52.509136],
+  "bbox": [
+    13.328972,
+    52.509136,
+    13.328972,
+    52.509136
+],
   "geometry": {"coordinates":[13.328972,52.509136],"type":"Point"}
 }

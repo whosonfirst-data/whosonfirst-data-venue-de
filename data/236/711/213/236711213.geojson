@@ -2,13 +2,14 @@
   "id": 236711213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.40249,47.668991,9.40249,47.668991",
     "geom:latitude":47.668991,
     "geom:longitude":9.40249,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeltplatz Fischbach",
     "sg:city":"Friedrichshafen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236711213,
-    "wof:lastmodified":1449004518,
+    "wof:lastmodified":1466231936,
     "wof:name":"Campingplatz Fischbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.40249,47.668991,9.40249,47.668991],
+  "bbox": [
+    9.40249,
+    47.668991,
+    9.40249,
+    47.668991
+],
   "geometry": {"coordinates":[9.40249,47.668991],"type":"Point"}
 }

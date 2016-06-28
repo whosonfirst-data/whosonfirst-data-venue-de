@@ -2,13 +2,14 @@
   "id": 135609415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.070071,54.117279,12.070071,54.117279",
     "geom:latitude":54.117279,
     "geom:longitude":12.070071,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmarler Damm 1",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899577,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135609415,
-    "wof:lastmodified":1449022125,
+    "wof:lastmodified":1466239600,
     "wof:name":"Borchers & Speer Baumaschinen Vertriebs Gmbh",
     "wof:parent_id":85899577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.070071,54.117279,12.070071,54.117279],
+  "bbox": [
+    12.070071,
+    54.117279,
+    12.070071,
+    54.117279
+],
   "geometry": {"coordinates":[12.070071,54.117279],"type":"Point"}
 }

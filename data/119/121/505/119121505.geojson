@@ -2,13 +2,14 @@
   "id": 119121505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.071655,51.140369,7.071655,51.140369",
     "geom:latitude":51.140369,
     "geom:longitude":7.071655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6fchen 5",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795259,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85795259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119121505,
-    "wof:lastmodified":1449042909,
+    "wof:lastmodified":1466222019,
     "wof:name":"Roland Lattka Architekt",
     "wof:parent_id":85795259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.071655,51.140369,7.071655,51.140369],
+  "bbox": [
+    7.071655,
+    51.140369,
+    7.071655,
+    51.140369
+],
   "geometry": {"coordinates":[7.071655,51.140369],"type":"Point"}
 }

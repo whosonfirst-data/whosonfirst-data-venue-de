@@ -2,13 +2,14 @@
   "id": 303216853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.220622,48.702209,9.220622,48.702209",
     "geom:latitude":48.702209,
     "geom:longitude":9.220622,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreifelderstr. 42",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303216853,
-    "wof:lastmodified":1449000289,
+    "wof:lastmodified":1466229858,
     "wof:name":"Ernst Polack Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.220622,48.702209,9.220622,48.702209],
+  "bbox": [
+    9.220622,
+    48.702209,
+    9.220622,
+    48.702209
+],
   "geometry": {"coordinates":[9.220622,48.702209],"type":"Point"}
 }

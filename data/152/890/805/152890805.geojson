@@ -2,13 +2,14 @@
   "id": 152890805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.09884,54.09013,12.09884,54.09013",
     "geom:latitude":54.09013,
     "geom:longitude":12.09884,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 103025",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899039,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152890805,
-    "wof:lastmodified":1449045313,
+    "wof:lastmodified":1466229153,
     "wof:name":"Optimalsystem.de: Systeml\u00f6sungen F\u00fcr Datennetze",
     "wof:parent_id":85899039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.09884,54.09013,12.09884,54.09013],
+  "bbox": [
+    12.09884,
+    54.09013,
+    12.09884,
+    54.09013
+],
   "geometry": {"coordinates":[12.09884,54.09013],"type":"Point"}
 }

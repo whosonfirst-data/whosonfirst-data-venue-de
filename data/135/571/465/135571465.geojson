@@ -2,13 +2,14 @@
   "id": 135571465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.266532,52.627769,13.266532,52.627769",
     "geom:latitude":52.627769,
     "geom:longitude":13.266532,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Eichenhain 15",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063995,
-        85633111,
         85682553,
-        85907699
+        85633111,
+        85907699,
+        102063995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135571465,
-    "wof:lastmodified":1449023061,
+    "wof:lastmodified":1466237334,
     "wof:name":"Fast Bau Gmbh",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.266532,52.627769,13.266532,52.627769],
+  "bbox": [
+    13.266532,
+    52.627769,
+    13.266532,
+    52.627769
+],
   "geometry": {"coordinates":[13.266532,52.627769],"type":"Point"}
 }

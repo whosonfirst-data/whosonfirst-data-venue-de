@@ -2,13 +2,14 @@
   "id": 119171789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.614019,53.165169,8.614019,53.165169",
     "geom:latitude":53.165169,
     "geom:longitude":8.614019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ritzenb\u00fctteler Str. 11",
     "sg:city":"Lemwerder",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795367,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119171789,
-    "wof:lastmodified":1449043553,
+    "wof:lastmodified":1466226146,
     "wof:name":"Adolf Engel Ingenieur Und Architekt",
     "wof:parent_id":85795367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.614019,53.165169,8.614019,53.165169],
+  "bbox": [
+    8.614019,
+    53.165169,
+    8.614019,
+    53.165169
+],
   "geometry": {"coordinates":[8.614019,53.165169],"type":"Point"}
 }

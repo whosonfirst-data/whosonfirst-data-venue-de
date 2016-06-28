@@ -2,13 +2,14 @@
   "id": 102603125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.370375,52.607506,8.370375,52.607506",
     "geom:latitude":52.607506,
     "geom:longitude":8.370375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"lange strasse 12",
     "sg:city":"Diepholz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102603125,
-    "wof:lastmodified":1449069789,
+    "wof:lastmodified":1466213321,
     "wof:name":"Koerstube Diepholz",
     "wof:parent_id":101807907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.370375,52.607506,8.370375,52.607506],
+  "bbox": [
+    8.370375,
+    52.607506,
+    8.370375,
+    52.607506
+],
   "geometry": {"coordinates":[8.370375,52.607506],"type":"Point"}
 }

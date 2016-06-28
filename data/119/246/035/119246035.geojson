@@ -2,13 +2,14 @@
   "id": 119246035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.0789,50.879391,12.0789,50.879391",
     "geom:latitude":50.879391,
     "geom:longitude":12.0789,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Puschkinplatz 7",
     "sg:city":"Gera",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119246035,
-    "wof:lastmodified":1449041036,
+    "wof:lastmodified":1466233207,
     "wof:name":"Wissenschaftliche Allgemeinbibliothek",
     "wof:parent_id":101748611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.0789,50.879391,12.0789,50.879391],
+  "bbox": [
+    12.0789,
+    50.879391,
+    12.0789,
+    50.879391
+],
   "geometry": {"coordinates":[12.0789,50.879391],"type":"Point"}
 }

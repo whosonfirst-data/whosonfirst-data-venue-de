@@ -2,13 +2,14 @@
   "id": 135433421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.466505,49.488071,8.466505,49.488071",
     "geom:latitude":49.488071,
     "geom:longitude":8.466505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"P1",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135433421,
-    "wof:lastmodified":1449021341,
+    "wof:lastmodified":1466225706,
     "wof:name":"Service Bank Gmbh Von 1954",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.466505,49.488071,8.466505,49.488071],
+  "bbox": [
+    8.466505,
+    49.488071,
+    8.466505,
+    49.488071
+],
   "geometry": {"coordinates":[8.466505,49.488071],"type":"Point"}
 }

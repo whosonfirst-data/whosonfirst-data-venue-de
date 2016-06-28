@@ -2,13 +2,14 @@
   "id": 118977841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.339087,51.335003,12.339087,51.335003",
     "geom:latitude":51.335003,
     "geom:longitude":12.339087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschochersche Str. 4",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118977841,
-    "wof:lastmodified":1449054584,
+    "wof:lastmodified":1466239005,
     "wof:name":"Arnold Und Fischbach Architekten Partnerschaft",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.339087,51.335003,12.339087,51.335003],
+  "bbox": [
+    12.339087,
+    51.335003,
+    12.339087,
+    51.335003
+],
   "geometry": {"coordinates":[12.339087,51.335003],"type":"Point"}
 }

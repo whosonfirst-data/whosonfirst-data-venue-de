@@ -2,13 +2,14 @@
   "id": 152600687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.467761,51.313095,9.467761,51.313095",
     "geom:latitude":51.313095,
     "geom:longitude":9.467761,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Germaniastr. 10 b",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906345,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152600687,
-    "wof:lastmodified":1449044727,
+    "wof:lastmodified":1466222504,
     "wof:name":"Muster Verwaltungs Gmbh",
     "wof:parent_id":85906345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.467761,51.313095,9.467761,51.313095],
+  "bbox": [
+    9.467761,
+    51.313095,
+    9.467761,
+    51.313095
+],
   "geometry": {"coordinates":[9.467761,51.313095],"type":"Point"}
 }

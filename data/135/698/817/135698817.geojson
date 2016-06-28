@@ -2,13 +2,14 @@
   "id": 135698817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.424199,52.467587,13.424199,52.467587",
     "geom:latitude":52.467587,
     "geom:longitude":13.424199,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emser Str. 84",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135698817,
-    "wof:lastmodified":1449023821,
+    "wof:lastmodified":1466242292,
     "wof:name":"Resima Grundst\u00fccks- Er- Schlie\u00dfungs- Und Sanie-",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.424199,52.467587,13.424199,52.467587],
+  "bbox": [
+    13.424199,
+    52.467587,
+    13.424199,
+    52.467587
+],
   "geometry": {"coordinates":[13.424199,52.467587],"type":"Point"}
 }

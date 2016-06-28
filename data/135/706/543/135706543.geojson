@@ -2,13 +2,14 @@
   "id": 135706543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.693008,48.073353,11.693008,48.073353",
     "geom:latitude":48.073353,
     "geom:longitude":11.693008,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ottobrunner Str. 37",
     "sg:city":"Putzbrunn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135706543,
-    "wof:lastmodified":1449021207,
+    "wof:lastmodified":1466242471,
     "wof:name":"Ph\u00f6nix Bau- Und Beteiligungsgesellschaft Mbh",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.693008,48.073353,11.693008,48.073353],
+  "bbox": [
+    11.693008,
+    48.073353,
+    11.693008,
+    48.073353
+],
   "geometry": {"coordinates":[11.693008,48.073353],"type":"Point"}
 }

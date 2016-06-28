@@ -2,13 +2,14 @@
   "id": 303438057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.842546,47.747509,11.842546,47.747509",
     "geom:latitude":47.747509,
     "geom:longitude":11.842546,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tegernseer Str. 13 e",
     "sg:city":"Hausham",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303438057,
-    "wof:lastmodified":1448998945,
+    "wof:lastmodified":1466235313,
     "wof:name":"Daberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.842546,47.747509,11.842546,47.747509],
+  "bbox": [
+    11.842546,
+    47.747509,
+    11.842546,
+    47.747509
+],
   "geometry": {"coordinates":[11.842546,47.747509],"type":"Point"}
 }

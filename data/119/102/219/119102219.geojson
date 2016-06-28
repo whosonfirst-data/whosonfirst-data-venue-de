@@ -2,13 +2,14 @@
   "id": 119102219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.280215,52.416954,13.280215,52.416954",
     "geom:latitude":52.416954,
     "geom:longitude":13.280215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tollensestr. 2",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905641,
+        85682553,
         85633111,
         101756031,
         102063937,
-        85682553
+        85905641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119102219,
-    "wof:lastmodified":1449043339,
+    "wof:lastmodified":1466220249,
     "wof:name":"Oei Architekt",
     "wof:parent_id":85905641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.280215,52.416954,13.280215,52.416954],
+  "bbox": [
+    13.280215,
+    52.416954,
+    13.280215,
+    52.416954
+],
   "geometry": {"coordinates":[13.280215,52.416954],"type":"Point"}
 }

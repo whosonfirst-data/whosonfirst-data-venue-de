@@ -2,13 +2,14 @@
   "id": 286628383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.386015,50.06562,8.386015,50.06562",
     "geom:latitude":50.06562,
     "geom:longitude":8.386015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannes-Gutenberg-Str 3-5",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286628383,
-    "wof:lastmodified":1449017560,
+    "wof:lastmodified":1466233384,
     "wof:name":"D.logistics Ag",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.386015,50.06562,8.386015,50.06562],
+  "bbox": [
+    8.386015,
+    50.06562,
+    8.386015,
+    50.06562
+],
   "geometry": {"coordinates":[8.386015,50.06562],"type":"Point"}
 }

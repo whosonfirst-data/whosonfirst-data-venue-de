@@ -2,13 +2,14 @@
   "id": 119064061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.054003,50.816368,6.054003,50.816368",
     "geom:latitude":50.816368,
     "geom:longitude":6.054003,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"P\u00fctzdriesch 11",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85862955
+        85633111,
+        85862955,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119064061,
-    "wof:lastmodified":1449041724,
+    "wof:lastmodified":1466216760,
     "wof:name":"Joachim Karmanski Architekt",
     "wof:parent_id":85862955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.054003,50.816368,6.054003,50.816368],
+  "bbox": [
+    6.054003,
+    50.816368,
+    6.054003,
+    50.816368
+],
   "geometry": {"coordinates":[6.054003,50.816368],"type":"Point"}
 }

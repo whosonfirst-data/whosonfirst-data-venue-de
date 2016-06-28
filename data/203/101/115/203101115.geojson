@@ -2,13 +2,14 @@
   "id": 203101115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.82949,52.399239,9.82949,52.399239",
     "geom:latitude":52.399239,
     "geom:longitude":9.82949,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Heine-Ring 2 a",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203101115,
-    "wof:lastmodified":1449025937,
+    "wof:lastmodified":1466215521,
     "wof:name":"Arnfried Peil",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.82949,52.399239,9.82949,52.399239],
+  "bbox": [
+    9.82949,
+    52.399239,
+    9.82949,
+    52.399239
+],
   "geometry": {"coordinates":[9.82949,52.399239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119084453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.077966,52.390224,13.077966,52.390224",
     "geom:latitude":52.390224,
     "geom:longitude":13.077966,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Engels-Str. 23",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900127,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85900127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119084453,
-    "wof:lastmodified":1449041137,
+    "wof:lastmodified":1466218615,
     "wof:name":"Koplan Planungsges. Mbh",
     "wof:parent_id":85900127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.077966,52.390224,13.077966,52.390224],
+  "bbox": [
+    13.077966,
+    52.390224,
+    13.077966,
+    52.390224
+],
   "geometry": {"coordinates":[13.077966,52.390224],"type":"Point"}
 }

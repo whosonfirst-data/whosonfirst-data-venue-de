@@ -2,13 +2,14 @@
   "id": 135884065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.737316,50.17976,8.737316,50.17976",
     "geom:latitude":50.17976,
     "geom:longitude":8.737316,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 102",
     "sg:city":"Bad Vilbel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063633,
-        85633111,
         85682531,
-        85794877
+        85633111,
+        85794877,
+        102063633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135884065,
-    "wof:lastmodified":1449023444,
+    "wof:lastmodified":1466244291,
     "wof:name":"E. M. A. Beteiligungsgesell- Schaft Frankfurter Stra\u00dfe Mbh",
     "wof:parent_id":85794877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.737316,50.17976,8.737316,50.17976],
+  "bbox": [
+    8.737316,
+    50.17976,
+    8.737316,
+    50.17976
+],
   "geometry": {"coordinates":[8.737316,50.17976],"type":"Point"}
 }

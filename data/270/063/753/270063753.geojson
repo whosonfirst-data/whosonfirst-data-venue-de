@@ -2,13 +2,14 @@
   "id": 270063753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.378472,51.324425,12.378472,51.324425",
     "geom:latitude":51.324425,
     "geom:longitude":12.378472,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arthur-Hoffmann-Str. 74 d",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270063753,
-    "wof:lastmodified":1449008863,
+    "wof:lastmodified":1466222867,
     "wof:name":"Rudolf Uhlisch",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.378472,51.324425,12.378472,51.324425],
+  "bbox": [
+    12.378472,
+    51.324425,
+    12.378472,
+    51.324425
+],
   "geometry": {"coordinates":[12.378472,51.324425],"type":"Point"}
 }

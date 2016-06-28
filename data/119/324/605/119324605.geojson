@@ -2,13 +2,14 @@
   "id": 119324605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.125429,49.131016,11.125429,49.131016",
     "geom:latitude":49.131016,
     "geom:longitude":11.125429,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdlicher Stadtgraben 8",
     "sg:city":"Heideck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119324605,
-    "wof:lastmodified":1449042412,
+    "wof:lastmodified":1466238574,
     "wof:name":"Hans Eckerle",
     "wof:parent_id":101782033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.125429,49.131016,11.125429,49.131016],
+  "bbox": [
+    11.125429,
+    49.131016,
+    11.125429,
+    49.131016
+],
   "geometry": {"coordinates":[11.125429,49.131016],"type":"Point"}
 }

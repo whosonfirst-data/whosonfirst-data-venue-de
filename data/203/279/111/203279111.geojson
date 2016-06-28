@@ -2,13 +2,14 @@
   "id": 203279111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.238947,51.647701,10.238947,51.647701",
     "geom:latitude":51.647701,
     "geom:longitude":10.238947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzberger Landstr. 8",
     "sg:city":"Hattorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203279111,
-    "wof:lastmodified":1449025784,
+    "wof:lastmodified":1466218512,
     "wof:name":"Ewald Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.238947,51.647701,10.238947,51.647701],
+  "bbox": [
+    10.238947,
+    51.647701,
+    10.238947,
+    51.647701
+],
   "geometry": {"coordinates":[10.238947,51.647701],"type":"Point"}
 }

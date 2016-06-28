@@ -2,13 +2,14 @@
   "id": 203130283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.951014,53.466595,9.951014,53.466595",
     "geom:latitude":53.466595,
     "geom:longitude":9.951014,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Corduaweg 13",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203130283,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466216035,
     "wof:name":"Bernd Oelkers",
     "wof:parent_id":85899035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.951014,53.466595,9.951014,53.466595],
+  "bbox": [
+    9.951014,
+    53.466595,
+    9.951014,
+    53.466595
+],
   "geometry": {"coordinates":[9.951014,53.466595],"type":"Point"}
 }

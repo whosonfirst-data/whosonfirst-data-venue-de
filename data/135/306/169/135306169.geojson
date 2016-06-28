@@ -2,13 +2,14 @@
   "id": 135306169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.406552,49.300907,10.406552,49.300907",
     "geom:latitude":49.300907,
     "geom:longitude":10.406552,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Vorstadt 10",
     "sg:city":"Leutershausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135306169,
-    "wof:lastmodified":1449023865,
+    "wof:lastmodified":1466214300,
     "wof:name":"Paul Kalt",
     "wof:parent_id":101782103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.406552,49.300907,10.406552,49.300907],
+  "bbox": [
+    10.406552,
+    49.300907,
+    10.406552,
+    49.300907
+],
   "geometry": {"coordinates":[10.406552,49.300907],"type":"Point"}
 }

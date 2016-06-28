@@ -2,13 +2,14 @@
   "id": 118911833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.166809,33.991795,-118.166809,33.991795",
     "geom:latitude":33.991795,
     "geom:longitude":-118.166809,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sebastian-Kneipp-Platz 5",
     "sg:city":"Kurort Berggie\u00dfh\u00fcbel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804377,
+        85688637,
         85633793,
         85923667,
         102086957,
-        85688637
+        85804377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118911833,
-    "wof:lastmodified":1449054327,
+    "wof:lastmodified":1466236316,
     "wof:name":"Marien-apotheke Inh. Karin Petrich",
     "wof:parent_id":85804377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.166809,33.991795,-118.166809,33.991795],
+  "bbox": [
+    -118.166809,
+    33.991795,
+    -118.166809,
+    33.991795
+],
   "geometry": {"coordinates":[-118.166809,33.991795],"type":"Point"}
 }

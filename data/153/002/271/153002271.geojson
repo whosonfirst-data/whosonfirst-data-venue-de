@@ -2,13 +2,14 @@
   "id": 153002271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155565,51.284271,7.155565,51.284271",
     "geom:latitude":51.284271,
     "geom:longitude":7.155565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Th.-Heuss-Str. 110",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862921,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85862921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153002271,
-    "wof:lastmodified":1449040741,
+    "wof:lastmodified":1466213506,
     "wof:name":"Wtc Homepage",
     "wof:parent_id":85862921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155565,51.284271,7.155565,51.284271],
+  "bbox": [
+    7.155565,
+    51.284271,
+    7.155565,
+    51.284271
+],
   "geometry": {"coordinates":[7.155565,51.284271],"type":"Point"}
 }

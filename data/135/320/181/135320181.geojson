@@ -2,13 +2,14 @@
   "id": 135320181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.37515,48.598606,10.37515,48.598606",
     "geom:latitude":48.598606,
     "geom:longitude":10.37515,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 16",
     "sg:city":"Haunsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135320181,
-    "wof:lastmodified":1449021755,
+    "wof:lastmodified":1466215524,
     "wof:name":"Vogt",
     "wof:parent_id":101784277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.37515,48.598606,10.37515,48.598606],
+  "bbox": [
+    10.37515,
+    48.598606,
+    10.37515,
+    48.598606
+],
   "geometry": {"coordinates":[10.37515,48.598606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118648369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18028,48.768875,9.18028,48.768875",
     "geom:latitude":48.768875,
     "geom:longitude":9.18028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Olgastr. 93a",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118648369,
-    "wof:lastmodified":1449053538,
+    "wof:lastmodified":1466221006,
     "wof:name":"Alten- Und Pflegeheim Haus Martinus",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18028,48.768875,9.18028,48.768875],
+  "bbox": [
+    9.18028,
+    48.768875,
+    9.18028,
+    48.768875
+],
   "geometry": {"coordinates":[9.18028,48.768875],"type":"Point"}
 }

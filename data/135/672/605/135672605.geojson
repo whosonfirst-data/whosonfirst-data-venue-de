@@ -2,13 +2,14 @@
   "id": 135672605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.639543,52.369408,13.639543,52.369408",
     "geom:latitude":52.369408,
     "geom:longitude":13.639543,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Havelstr. 9",
     "sg:city":"Eichwalde",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063913,
-        85633111,
         85682553,
-        85907689
+        85633111,
+        85907689,
+        102063913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135672605,
-    "wof:lastmodified":1449021190,
+    "wof:lastmodified":1466241651,
     "wof:name":"Schuster Industrie Und Baumontagen E. K.",
     "wof:parent_id":85907689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.639543,52.369408,13.639543,52.369408],
+  "bbox": [
+    13.639543,
+    52.369408,
+    13.639543,
+    52.369408
+],
   "geometry": {"coordinates":[13.639543,52.369408],"type":"Point"}
 }

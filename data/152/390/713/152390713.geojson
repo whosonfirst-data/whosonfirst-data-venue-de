@@ -2,13 +2,14 @@
   "id": 152390713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.770381,49.856533,7.770381,49.856533",
     "geom:latitude":49.856533,
     "geom:longitude":7.770381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 11",
     "sg:city":"Mandel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152390713,
-    "wof:lastmodified":1449048943,
+    "wof:lastmodified":1466217983,
     "wof:name":"Walter Krug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.770381,49.856533,7.770381,49.856533],
+  "bbox": [
+    7.770381,
+    49.856533,
+    7.770381,
+    49.856533
+],
   "geometry": {"coordinates":[7.770381,49.856533],"type":"Point"}
 }

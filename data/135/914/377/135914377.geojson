@@ -2,13 +2,14 @@
   "id": 135914377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.752998,51.228859,6.752998,51.228859",
     "geom:latitude":51.228859,
     "geom:longitude":6.752998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wildenbruchstr. 61",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796275,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85796275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135914377,
-    "wof:lastmodified":1449022155,
+    "wof:lastmodified":1466244582,
     "wof:name":"Wfr Holding Gmbh & Co. Kg",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.752998,51.228859,6.752998,51.228859],
+  "bbox": [
+    6.752998,
+    51.228859,
+    6.752998,
+    51.228859
+],
   "geometry": {"coordinates":[6.752998,51.228859],"type":"Point"}
 }

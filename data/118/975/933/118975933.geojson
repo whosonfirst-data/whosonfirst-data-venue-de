@@ -2,13 +2,14 @@
   "id": 118975933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.179574,48.748577,9.179574,48.748577",
     "geom:latitude":48.748577,
     "geom:longitude":9.179574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstr. 100",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118975933,
-    "wof:lastmodified":1449054353,
+    "wof:lastmodified":1466238953,
     "wof:name":"Architektengemeinschaft Hoppe Sommer & Partner",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.179574,48.748577,9.179574,48.748577],
+  "bbox": [
+    9.179574,
+    48.748577,
+    9.179574,
+    48.748577
+],
   "geometry": {"coordinates":[9.179574,48.748577],"type":"Point"}
 }

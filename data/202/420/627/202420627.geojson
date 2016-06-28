@@ -2,13 +2,14 @@
   "id": 202420627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701652,49.037952,8.701652,49.037952",
     "geom:latitude":49.037952,
     "geom:longitude":8.701652,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Melanchthonstr. 72",
     "sg:city":"Bretten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202420627,
-    "wof:lastmodified":1449061344,
+    "wof:lastmodified":1466214127,
     "wof:name":"Willi Zimmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701652,49.037952,8.701652,49.037952],
+  "bbox": [
+    8.701652,
+    49.037952,
+    8.701652,
+    49.037952
+],
   "geometry": {"coordinates":[8.701652,49.037952],"type":"Point"}
 }

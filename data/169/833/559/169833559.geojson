@@ -2,13 +2,14 @@
   "id": 169833559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304215,49.440762,8.304215,49.440762",
     "geom:latitude":49.440762,
     "geom:longitude":8.304215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 7 a",
     "sg:city":"Dannstadt-Schauernheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169833559,
-    "wof:lastmodified":1449033108,
+    "wof:lastmodified":1466214028,
     "wof:name":"Krug",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304215,49.440762,8.304215,49.440762],
+  "bbox": [
+    8.304215,
+    49.440762,
+    8.304215,
+    49.440762
+],
   "geometry": {"coordinates":[8.304215,49.440762],"type":"Point"}
 }

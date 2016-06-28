@@ -2,13 +2,14 @@
   "id": 102697979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.424333,48.143051,11.424333,48.143051",
     "geom:latitude":48.143051,
     "geom:longitude":11.424333,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bodenseestr. 188",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899725,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102697979,
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466216058,
     "wof:name":"Wohnmobilvermietung Ernst Geisser In M\u00fcnchen",
     "wof:parent_id":85899725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.424333,48.143051,11.424333,48.143051],
+  "bbox": [
+    11.424333,
+    48.143051,
+    11.424333,
+    48.143051
+],
   "geometry": {"coordinates":[11.424333,48.143051],"type":"Point"}
 }

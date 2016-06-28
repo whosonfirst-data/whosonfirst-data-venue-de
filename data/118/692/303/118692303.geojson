@@ -2,13 +2,14 @@
   "id": 118692303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.502361,50.574894,8.502361,50.574894",
     "geom:latitude":50.574894,
     "geom:longitude":8.502361,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingartenstr. 7",
     "sg:city":"Wetzlar",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796453,
+        85682531,
         85633111,
         101748599,
         102063675,
-        85682531
+        85796453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118692303,
-    "wof:lastmodified":1449053522,
+    "wof:lastmodified":1466223474,
     "wof:name":"Brigitte Pfaff",
     "wof:parent_id":85796453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.502361,50.574894,8.502361,50.574894],
+  "bbox": [
+    8.502361,
+    50.574894,
+    8.502361,
+    50.574894
+],
   "geometry": {"coordinates":[8.502361,50.574894],"type":"Point"}
 }

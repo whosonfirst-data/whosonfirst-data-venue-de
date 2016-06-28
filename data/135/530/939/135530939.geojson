@@ -2,13 +2,14 @@
   "id": 135530939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.03698,50.396889,8.03698,50.396889",
     "geom:latitude":50.396889,
     "geom:longitude":8.03698,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Koblenzer Str. 82 a",
     "sg:city":"Limburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862831,
+        85682531,
         85633111,
         101840081,
         102063643,
-        85682531
+        85862831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135530939,
-    "wof:lastmodified":1449022619,
+    "wof:lastmodified":1466234459,
     "wof:name":"Mw Bauservice Gmbh",
     "wof:parent_id":85862831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.03698,50.396889,8.03698,50.396889],
+  "bbox": [
+    8.03698,
+    50.396889,
+    8.03698,
+    50.396889
+],
   "geometry": {"coordinates":[8.03698,50.396889],"type":"Point"}
 }

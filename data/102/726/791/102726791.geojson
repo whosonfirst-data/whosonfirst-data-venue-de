@@ -2,13 +2,14 @@
   "id": 102726791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.737116,51.062202,13.737116,51.062202",
     "geom:latitude":51.062202,
     "geom:longitude":13.737116,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Blum-Str. 3",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899777,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102726791,
-    "wof:lastmodified":1449069451,
+    "wof:lastmodified":1466216901,
     "wof:name":"Sebald Design",
     "wof:parent_id":85899777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.737116,51.062202,13.737116,51.062202],
+  "bbox": [
+    13.737116,
+    51.062202,
+    13.737116,
+    51.062202
+],
   "geometry": {"coordinates":[13.737116,51.062202],"type":"Point"}
 }

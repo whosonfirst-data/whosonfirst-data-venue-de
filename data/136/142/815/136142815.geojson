@@ -2,13 +2,14 @@
   "id": 136142815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.483051,51.334583,12.483051,51.334583",
     "geom:latitude":51.334583,
     "geom:longitude":12.483051,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Engelsdorfer Str. 273",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064235,
-        85633111,
         85682523,
-        85898977
+        85633111,
+        85898977,
+        102064235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136142815,
-    "wof:lastmodified":1449075960,
+    "wof:lastmodified":1466218527,
     "wof:name":"Volpp & Beck Gmbh Leipzig - Werbetechnik",
     "wof:parent_id":85898977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.483051,51.334583,12.483051,51.334583],
+  "bbox": [
+    12.483051,
+    51.334583,
+    12.483051,
+    51.334583
+],
   "geometry": {"coordinates":[12.483051,51.334583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202630111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.939629,51.336632,11.939629,51.336632",
     "geom:latitude":51.336632,
     "geom:longitude":11.939629,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcne Gasse 8",
     "sg:city":"Geusa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202630111,
-    "wof:lastmodified":1449061014,
+    "wof:lastmodified":1466218174,
     "wof:name":"F. Runkel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.939629,51.336632,11.939629,51.336632],
+  "bbox": [
+    11.939629,
+    51.336632,
+    11.939629,
+    51.336632
+],
   "geometry": {"coordinates":[11.939629,51.336632],"type":"Point"}
 }

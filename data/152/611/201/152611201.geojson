@@ -2,13 +2,14 @@
   "id": 152611201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.765545,48.177387,11.765545,48.177387",
     "geom:latitude":48.177387,
     "geom:longitude":11.765545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Daimlerstr. 3",
     "sg:city":"Kirchheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899729
+        85633111,
+        85899729,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152611201,
-    "wof:lastmodified":1449047942,
+    "wof:lastmodified":1466222733,
     "wof:name":"Vanderquaden Verwaltungs Gmbh",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.765545,48.177387,11.765545,48.177387],
+  "bbox": [
+    11.765545,
+    48.177387,
+    11.765545,
+    48.177387
+],
   "geometry": {"coordinates":[11.765545,48.177387],"type":"Point"}
 }

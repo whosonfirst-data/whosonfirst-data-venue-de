@@ -2,13 +2,14 @@
   "id": 202720417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.305007,52.503735,13.305007,52.503735",
     "geom:latitude":52.503735,
     "geom:longitude":13.305007,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mommsenstr. 36",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202720417,
-    "wof:lastmodified":1449060715,
+    "wof:lastmodified":1466219800,
     "wof:name":"Hermann Siems",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.305007,52.503735,13.305007,52.503735],
+  "bbox": [
+    13.305007,
+    52.503735,
+    13.305007,
+    52.503735
+],
   "geometry": {"coordinates":[13.305007,52.503735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203221657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.104238,48.731987,9.104238,48.731987",
     "geom:latitude":48.731987,
     "geom:longitude":9.104238,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcltsteiner Str. 12",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203221657,
-    "wof:lastmodified":1449025745,
+    "wof:lastmodified":1466217561,
     "wof:name":"Eberhard Burkhardt",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.104238,48.731987,9.104238,48.731987],
+  "bbox": [
+    9.104238,
+    48.731987,
+    9.104238,
+    48.731987
+],
   "geometry": {"coordinates":[9.104238,48.731987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303379705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.723751,52.83952,13.723751,52.83952",
     "geom:latitude":52.83952,
     "geom:longitude":13.723751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eberswalder Str. 161",
     "sg:city":"Eberswalde",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303379705,
-    "wof:lastmodified":1448999545,
+    "wof:lastmodified":1466233872,
     "wof:name":"W. Schumann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.723751,52.83952,13.723751,52.83952],
+  "bbox": [
+    13.723751,
+    52.83952,
+    13.723751,
+    52.83952
+],
   "geometry": {"coordinates":[13.723751,52.83952],"type":"Point"}
 }

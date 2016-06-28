@@ -2,13 +2,14 @@
   "id": 320119433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811508,33.520279,-86.811508,33.520279",
     "geom:latitude":33.520279,
     "geom:longitude":-86.811508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auestr. 51",
     "sg:city":"Heilzdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320119433,
-    "wof:lastmodified":1449013931,
+    "wof:lastmodified":1466235975,
     "wof:name":"Joachim Krieger",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811508,33.520279,-86.811508,33.520279],
+  "bbox": [
+    -86.811508,
+    33.520279,
+    -86.811508,
+    33.520279
+],
   "geometry": {"coordinates":[-86.811508,33.520279],"type":"Point"}
 }

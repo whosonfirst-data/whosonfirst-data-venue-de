@@ -2,13 +2,14 @@
   "id": 119270495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.089707,50.88789,12.089707,50.88789",
     "geom:latitude":50.88789,
     "geom:longitude":12.089707,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornaer Str. 17",
     "sg:city":"Gera",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119270495,
-    "wof:lastmodified":1449041301,
+    "wof:lastmodified":1466235947,
     "wof:name":"Dr. Werner Oettler",
     "wof:parent_id":101748611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.089707,50.88789,12.089707,50.88789],
+  "bbox": [
+    12.089707,
+    50.88789,
+    12.089707,
+    50.88789
+],
   "geometry": {"coordinates":[12.089707,50.88789],"type":"Point"}
 }

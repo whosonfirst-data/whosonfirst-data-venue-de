@@ -2,13 +2,14 @@
   "id": 135952023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.577474,48.14212,11.577474,48.14212",
     "geom:latitude":48.14212,
     "geom:longitude":11.577474,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Residenzstr. 27",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905601,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135952023,
-    "wof:lastmodified":1449023177,
+    "wof:lastmodified":1466244733,
     "wof:name":"Ponater-modelle Gmbh",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.577474,48.14212,11.577474,48.14212],
+  "bbox": [
+    11.577474,
+    48.14212,
+    11.577474,
+    48.14212
+],
   "geometry": {"coordinates":[11.577474,48.14212],"type":"Point"}
 }

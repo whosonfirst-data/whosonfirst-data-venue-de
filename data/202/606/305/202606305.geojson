@@ -2,13 +2,14 @@
   "id": 202606305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.220123,51.483685,7.220123,51.483685",
     "geom:latitude":51.483685,
     "geom:longitude":7.220123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerberstr. 19-21",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202606305,
-    "wof:lastmodified":1449060494,
+    "wof:lastmodified":1466217728,
     "wof:name":"Hausbrauerei Tauffenbach",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.220123,51.483685,7.220123,51.483685],
+  "bbox": [
+    7.220123,
+    51.483685,
+    7.220123,
+    51.483685
+],
   "geometry": {"coordinates":[7.220123,51.483685],"type":"Point"}
 }

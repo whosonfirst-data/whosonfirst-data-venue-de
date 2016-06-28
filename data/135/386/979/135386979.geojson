@@ -2,13 +2,14 @@
   "id": 135386979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.849655,47.998539,7.849655,47.998539",
     "geom:latitude":47.998539,
     "geom:longitude":7.849655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1703:: 09587 Freiberg:: Germany.^^K\u00f6rnerstr 17::",
     "sg:city":"Freiberg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135386979,
-    "wof:lastmodified":1449022598,
+    "wof:lastmodified":1466221727,
     "wof:name":"Freiburger Immobilien Gmbh",
     "wof:parent_id":101748475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.849655,47.998539,7.849655,47.998539],
+  "bbox": [
+    7.849655,
+    47.998539,
+    7.849655,
+    47.998539
+],
   "geometry": {"coordinates":[7.849655,47.998539],"type":"Point"}
 }

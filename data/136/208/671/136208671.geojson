@@ -2,13 +2,14 @@
   "id": 136208671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.405525,53.908283,11.405525,53.908283",
     "geom:latitude":53.908283,
     "geom:longitude":11.405525,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zierower Landstr.",
     "sg:city":"Wismar",
     "sg:classifiers":[],
@@ -26,14 +27,20 @@
     "wof:geomhash":"c96049b53c3863e01be900e62419ba11",
     "wof:hierarchy":[],
     "wof:id":136208671,
-    "wof:lastmodified":1449075068,
+    "wof:lastmodified":1466221694,
     "wof:name":"Gartenbau Steuter",
     "wof:parent_id":101818793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.405525,53.908283,11.405525,53.908283],
+  "bbox": [
+    11.405525,
+    53.908283,
+    11.405525,
+    53.908283
+],
   "geometry": {"coordinates":[11.405525,53.908283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135860687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.045786,54.138378,12.045786,54.138378",
     "geom:latitude":54.138378,
     "geom:longitude":12.045786,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Warnowallee 21",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064115,
-        85633111,
         85682487,
-        85900019
+        85633111,
+        85900019,
+        102064115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135860687,
-    "wof:lastmodified":1449022356,
+    "wof:lastmodified":1466244349,
     "wof:name":"J. Bobsin Gmbh",
     "wof:parent_id":85900019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.045786,54.138378,12.045786,54.138378],
+  "bbox": [
+    12.045786,
+    54.138378,
+    12.045786,
+    54.138378
+],
   "geometry": {"coordinates":[12.045786,54.138378],"type":"Point"}
 }

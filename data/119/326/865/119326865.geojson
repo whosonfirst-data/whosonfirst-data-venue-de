@@ -2,13 +2,14 @@
   "id": 119326865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.189645,50.699203,7.189645,50.699203",
     "geom:latitude":50.699203,
     "geom:longitude":7.189645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 15",
     "sg:city":"K\u00f6nigswinter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795333,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119326865,
-    "wof:lastmodified":1449041968,
+    "wof:lastmodified":1466238739,
     "wof:name":"Hans-j\u00fcrgen M\u00fcller",
     "wof:parent_id":85795333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.189645,50.699203,7.189645,50.699203],
+  "bbox": [
+    7.189645,
+    50.699203,
+    7.189645,
+    50.699203
+],
   "geometry": {"coordinates":[7.189645,50.699203],"type":"Point"}
 }

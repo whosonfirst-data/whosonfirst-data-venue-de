@@ -2,13 +2,14 @@
   "id": 336924203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.652825,50.599781,12.652825,50.599781",
     "geom:latitude":50.599781,
     "geom:longitude":12.652825,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachweg 2",
     "sg:city":"Schlema",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336924203,
-    "wof:lastmodified":1448997244,
+    "wof:lastmodified":1466239082,
     "wof:name":"Johannes Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.652825,50.599781,12.652825,50.599781],
+  "bbox": [
+    12.652825,
+    50.599781,
+    12.652825,
+    50.599781
+],
   "geometry": {"coordinates":[12.652825,50.599781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135876451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.717665,51.068527,13.717665,51.068527",
     "geom:latitude":51.068527,
     "geom:longitude":13.717665,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Messering 4",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905665,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135876451,
-    "wof:lastmodified":1449021588,
+    "wof:lastmodified":1466244427,
     "wof:name":"Alter Schlachthof Liegenschaftsbeteiligungs-",
     "wof:parent_id":85905665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.717665,51.068527,13.717665,51.068527],
+  "bbox": [
+    13.717665,
+    51.068527,
+    13.717665,
+    51.068527
+],
   "geometry": {"coordinates":[13.717665,51.068527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119260641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.495177,52.437981,13.495177,52.437981",
     "geom:latitude":52.437981,
     "geom:longitude":13.495177,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Springbornstr. 174",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899061,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119260641,
-    "wof:lastmodified":1449041272,
+    "wof:lastmodified":1466234697,
     "wof:name":"Dr. Med. G\u00fcnter Boner",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.495177,52.437981,13.495177,52.437981],
+  "bbox": [
+    13.495177,
+    52.437981,
+    13.495177,
+    52.437981
+],
   "geometry": {"coordinates":[13.495177,52.437981],"type":"Point"}
 }

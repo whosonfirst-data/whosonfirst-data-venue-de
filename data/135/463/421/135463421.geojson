@@ -2,13 +2,14 @@
   "id": 135463421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.835197,36.981461,-94.835197,36.981461",
     "geom:latitude":36.981461,
     "geom:longitude":-94.835197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leninstr. 63",
     "sg:city":"Ilfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135463421,
-    "wof:lastmodified":1449023095,
+    "wof:lastmodified":1466228269,
     "wof:name":"Volksbank Nordhausen E. G., Zweigstelle Niedersachsenwerfen",
     "wof:parent_id":101714117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.835197,36.981461,-94.835197,36.981461],
-  "geometry": {"coordinates":[-94.835197,36.981461],"type":"Point"}
+  "bbox": [
+    -94.835197,
+    36.981461,
+    -94.835197,
+    36.981461
+],
+  "geometry": {"coordinates":[-94.83519699999999,36.981461],"type":"Point"}
 }

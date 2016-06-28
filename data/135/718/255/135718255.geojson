@@ -2,13 +2,14 @@
   "id": 135718255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.847705,53.086658,8.847705,53.086658",
     "geom:latitude":53.086658,
     "geom:longitude":8.847705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwachhauser Ring 16",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796219,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135718255,
-    "wof:lastmodified":1449021636,
+    "wof:lastmodified":1466242918,
     "wof:name":"Niem\u00f6ller Bautr\u00e4ger Gmbh",
     "wof:parent_id":85796219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.847705,53.086658,8.847705,53.086658],
+  "bbox": [
+    8.847705,
+    53.086658,
+    8.847705,
+    53.086658
+],
   "geometry": {"coordinates":[8.847705,53.086658],"type":"Point"}
 }

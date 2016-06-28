@@ -2,13 +2,14 @@
   "id": 286760699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.511547,51.311581,9.511547,51.311581",
     "geom:latitude":51.311581,
     "geom:longitude":9.511547,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Str. 35-37",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286760699,
-    "wof:lastmodified":1449017981,
+    "wof:lastmodified":1466236415,
     "wof:name":"Techconsult Gmbh",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.511547,51.311581,9.511547,51.311581],
+  "bbox": [
+    9.511547,
+    51.311581,
+    9.511547,
+    51.311581
+],
   "geometry": {"coordinates":[9.511547,51.311581],"type":"Point"}
 }

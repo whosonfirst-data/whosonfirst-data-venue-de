@@ -2,13 +2,14 @@
   "id": 118565263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.584707,52.067253,8.584707,52.067253",
     "geom:latitude":52.067253,
     "geom:longitude":8.584707,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafenheider Str 100A",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795989,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118565263,
-    "wof:lastmodified":1449054425,
+    "wof:lastmodified":1466216182,
     "wof:name":"Creativ Design Hartmut Keitz Gmbh",
     "wof:parent_id":85795989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.584707,52.067253,8.584707,52.067253],
+  "bbox": [
+    8.584707,
+    52.067253,
+    8.584707,
+    52.067253
+],
   "geometry": {"coordinates":[8.584707,52.067253],"type":"Point"}
 }

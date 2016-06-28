@@ -2,13 +2,14 @@
   "id": 119518719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80308,50.194832,8.80308,50.194832",
     "geom:latitude":50.194832,
     "geom:longitude":8.80308,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 12",
     "sg:city":"Niederdorfelden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063633,
-        85633111,
         85682531,
-        85794877
+        85633111,
+        85794877,
+        102063633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119518719,
-    "wof:lastmodified":1449042366,
+    "wof:lastmodified":1466243912,
     "wof:name":"F. Gruner",
     "wof:parent_id":85794877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80308,50.194832,8.80308,50.194832],
+  "bbox": [
+    8.80308,
+    50.194832,
+    8.80308,
+    50.194832
+],
   "geometry": {"coordinates":[8.80308,50.194832],"type":"Point"}
 }

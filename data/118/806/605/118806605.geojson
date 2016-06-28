@@ -2,13 +2,14 @@
   "id": 118806605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.409882,52.566513,13.409882,52.566513",
     "geom:latitude":52.566513,
     "geom:longitude":13.409882,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Florastr. 47-48",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905647,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118806605,
-    "wof:lastmodified":1449053143,
+    "wof:lastmodified":1466230126,
     "wof:name":"Bahnhofs-apotheke",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.409882,52.566513,13.409882,52.566513],
+  "bbox": [
+    13.409882,
+    52.566513,
+    13.409882,
+    52.566513
+],
   "geometry": {"coordinates":[13.409882,52.566513],"type":"Point"}
 }

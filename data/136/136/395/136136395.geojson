@@ -2,13 +2,14 @@
   "id": 136136395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.9761,47.843971,12.9761,47.843971",
     "geom:latitude":47.843971,
     "geom:longitude":12.9761,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 33",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136136395,
-    "wof:lastmodified":1449076262,
+    "wof:lastmodified":1466218237,
     "wof:name":"The Weeds",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.9761,47.843971,12.9761,47.843971],
+  "bbox": [
+    12.9761,
+    47.843971,
+    12.9761,
+    47.843971
+],
   "geometry": {"coordinates":[12.9761,47.843971],"type":"Point"}
 }

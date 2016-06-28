@@ -2,13 +2,14 @@
   "id": 135737025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.199757,52.546497,13.199757,52.546497",
     "geom:latitude":52.546497,
     "geom:longitude":13.199757,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Falkenhagener Str. 19",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899797
+        85633111,
+        85899797,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135737025,
-    "wof:lastmodified":1449021665,
+    "wof:lastmodified":1466243324,
     "wof:name":"Dc Berufs-bekleidung Karin Albrecht E. Kfr.",
     "wof:parent_id":85899797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.199757,52.546497,13.199757,52.546497],
+  "bbox": [
+    13.199757,
+    52.546497,
+    13.199757,
+    52.546497
+],
   "geometry": {"coordinates":[13.199757,52.546497],"type":"Point"}
 }

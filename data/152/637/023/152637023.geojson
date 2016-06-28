@@ -2,13 +2,14 @@
   "id": 152637023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.936416,50.939629,6.936416,50.939629",
     "geom:latitude":50.939629,
     "geom:longitude":6.936416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Genter Str. 14",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152637023,
-    "wof:lastmodified":1449044291,
+    "wof:lastmodified":1466223270,
     "wof:name":"C. G. H. Unternehmens- Verwaltungs Gmbh",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.936416,50.939629,6.936416,50.939629],
+  "bbox": [
+    6.936416,
+    50.939629,
+    6.936416,
+    50.939629
+],
   "geometry": {"coordinates":[6.936416,50.939629],"type":"Point"}
 }

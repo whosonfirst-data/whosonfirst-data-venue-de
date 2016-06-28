@@ -2,13 +2,14 @@
   "id": 153026945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.492783,52.424892,13.492783,52.424892",
     "geom:latitude":52.424892,
     "geom:longitude":13.492783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Margueritenring 9",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899061,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153026945,
-    "wof:lastmodified":1449040638,
+    "wof:lastmodified":1466213102,
     "wof:name":"Literatur Aus Lettland",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.492783,52.424892,13.492783,52.424892],
+  "bbox": [
+    13.492783,
+    52.424892,
+    13.492783,
+    52.424892
+],
   "geometry": {"coordinates":[13.492783,52.424892],"type":"Point"}
 }

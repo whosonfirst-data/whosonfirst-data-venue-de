@@ -2,13 +2,14 @@
   "id": 135834249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.761535,47.745159,11.761535,47.745159",
     "geom:latitude":47.745159,
     "geom:longitude":11.761535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neureuthstr. 2",
     "sg:city":"Gmund",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135834249,
-    "wof:lastmodified":1449021281,
+    "wof:lastmodified":1466244231,
     "wof:name":"Josef Schiller",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.761535,47.745159,11.761535,47.745159],
+  "bbox": [
+    11.761535,
+    47.745159,
+    11.761535,
+    47.745159
+],
   "geometry": {"coordinates":[11.761535,47.745159],"type":"Point"}
 }

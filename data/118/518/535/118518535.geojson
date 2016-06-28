@@ -2,13 +2,14 @@
   "id": 118518535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.632849,51.985046,7.632849,51.985046",
     "geom:latitude":51.985046,
     "geom:longitude":7.632849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nevinghoff 25::",
     "sg:city":"Muenster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795671,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118518535,
-    "wof:lastmodified":1449053936,
+    "wof:lastmodified":1466213469,
     "wof:name":"Buchungszentrale Der Westfaelisch-lippischen Sparkassen, Gesellschaft Mit Beschraenkter Ha",
     "wof:parent_id":85795671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.632849,51.985046,7.632849,51.985046],
+  "bbox": [
+    7.632849,
+    51.985046,
+    7.632849,
+    51.985046
+],
   "geometry": {"coordinates":[7.632849,51.985046],"type":"Point"}
 }

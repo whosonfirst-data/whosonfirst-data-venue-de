@@ -2,13 +2,14 @@
   "id": 219942789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.381195,51.509857,7.381195,51.509857",
     "geom:latitude":51.509857,
     "geom:longitude":7.381195,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Martener Str. 334",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219942789,
-    "wof:lastmodified":1449072005,
+    "wof:lastmodified":1466229249,
     "wof:name":"W. Kosfeld",
     "wof:parent_id":85795941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.381195,51.509857,7.381195,51.509857],
+  "bbox": [
+    7.381195,
+    51.509857,
+    7.381195,
+    51.509857
+],
   "geometry": {"coordinates":[7.381195,51.509857],"type":"Point"}
 }

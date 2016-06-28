@@ -2,13 +2,14 @@
   "id": 118797289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.095009,50.867214,6.095009,50.867214",
     "geom:latitude":50.867214,
     "geom:longitude":6.095009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Apolloniastr. 3",
     "sg:city":"Herzogenrath",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797721,
+        85682513,
         85633111,
         101839485,
         102063693,
-        85682513
+        85797721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118797289,
-    "wof:lastmodified":1449054415,
+    "wof:lastmodified":1466229592,
     "wof:name":"Apollonia Apotheke Christoph Henkel E. K.",
     "wof:parent_id":85797721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.095009,50.867214,6.095009,50.867214],
+  "bbox": [
+    6.095009,
+    50.867214,
+    6.095009,
+    50.867214
+],
   "geometry": {"coordinates":[6.095009,50.867214],"type":"Point"}
 }

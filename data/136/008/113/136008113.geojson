@@ -2,13 +2,14 @@
   "id": 136008113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.148985,50.682156,7.148985,50.682156",
     "geom:latitude":50.682156,
     "geom:longitude":7.148985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstr. 81",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795333,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136008113,
-    "wof:lastmodified":1449075318,
+    "wof:lastmodified":1466224890,
     "wof:name":"Schierack Beteiligungs Kg",
     "wof:parent_id":85795333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.148985,50.682156,7.148985,50.682156],
+  "bbox": [
+    7.148985,
+    50.682156,
+    7.148985,
+    50.682156
+],
   "geometry": {"coordinates":[7.148985,50.682156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118718177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.76221,51.36417,6.76221,51.36417",
     "geom:latitude":51.36417,
     "geom:longitude":6.76221,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trarbacher Str. 8",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794729,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118718177,
-    "wof:lastmodified":1449053454,
+    "wof:lastmodified":1466224912,
     "wof:name":"H\u00e4usliche Krankenpflege Akwara",
     "wof:parent_id":85794729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.76221,51.36417,6.76221,51.36417],
+  "bbox": [
+    6.76221,
+    51.36417,
+    6.76221,
+    51.36417
+],
   "geometry": {"coordinates":[6.76221,51.36417],"type":"Point"}
 }

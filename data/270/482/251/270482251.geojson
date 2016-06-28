@@ -2,13 +2,14 @@
   "id": 270482251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.85336,48.842083,10.85336,48.842083",
     "geom:latitude":48.842083,
     "geom:longitude":10.85336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 9",
     "sg:city":"Monheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270482251,
-    "wof:lastmodified":1449009516,
+    "wof:lastmodified":1466233167,
     "wof:name":"Alfred Weidel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.85336,48.842083,10.85336,48.842083],
+  "bbox": [
+    10.85336,
+    48.842083,
+    10.85336,
+    48.842083
+],
   "geometry": {"coordinates":[10.85336,48.842083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136024661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.373672,52.456512,13.373672,52.456512",
     "geom:latitude":52.456512,
     "geom:longitude":13.373672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Totilastr. 14",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136024661,
-    "wof:lastmodified":1449075536,
+    "wof:lastmodified":1466213248,
     "wof:name":"1.honda-gemeinde Mit 3500 Links,chat,tourenplaner.",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.373672,52.456512,13.373672,52.456512],
+  "bbox": [
+    13.373672,
+    52.456512,
+    13.373672,
+    52.456512
+],
   "geometry": {"coordinates":[13.373672,52.456512],"type":"Point"}
 }

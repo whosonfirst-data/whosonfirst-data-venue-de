@@ -2,13 +2,14 @@
   "id": 119011159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.979297,47.841335,12.979297,47.841335",
     "geom:latitude":47.841335,
     "geom:longitude":12.979297,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Martin-Oberndorfer-Str. 3",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119011159,
-    "wof:lastmodified":1449043022,
+    "wof:lastmodified":1466219376,
     "wof:name":"Fred Meier Architekt",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.979297,47.841335,12.979297,47.841335],
+  "bbox": [
+    12.979297,
+    47.841335,
+    12.979297,
+    47.841335
+],
   "geometry": {"coordinates":[12.979297,47.841335],"type":"Point"}
 }

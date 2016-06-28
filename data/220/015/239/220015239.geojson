@@ -2,13 +2,14 @@
   "id": 220015239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.089712,50.165379,9.089712,50.165379",
     "geom:latitude":50.165379,
     "geom:longitude":9.089712,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasselbachstr. 29",
     "sg:city":"Hasselroth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220015239,
-    "wof:lastmodified":1449074227,
+    "wof:lastmodified":1466214889,
     "wof:name":"Wilhelm Schultheis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.089712,50.165379,9.089712,50.165379],
+  "bbox": [
+    9.089712,
+    50.165379,
+    9.089712,
+    50.165379
+],
   "geometry": {"coordinates":[9.089712,50.165379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235987789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.458366,52.890785,12.458366,52.890785",
     "geom:latitude":52.890785,
     "geom:longitude":12.458366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiffahrt 15",
     "sg:city":"Wusterhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":235987789,
-    "wof:lastmodified":1449008432,
+    "wof:lastmodified":1466218570,
     "wof:name":"Schiffahrtcafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.458366,52.890785,12.458366,52.890785],
+  "bbox": [
+    12.458366,
+    52.890785,
+    12.458366,
+    52.890785
+],
   "geometry": {"coordinates":[12.458366,52.890785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119197369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.824159,51.230686,6.824159,51.230686",
     "geom:latitude":51.230686,
     "geom:longitude":6.824159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Daimlerstr. 8",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119197369,
-    "wof:lastmodified":1449043197,
+    "wof:lastmodified":1466228543,
     "wof:name":"Ev. \u00f6ffentliche Bibliothek Der Matth\u00e4i-kirchengemeinde",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.824159,51.230686,6.824159,51.230686],
+  "bbox": [
+    6.824159,
+    51.230686,
+    6.824159,
+    51.230686
+],
   "geometry": {"coordinates":[6.824159,51.230686],"type":"Point"}
 }

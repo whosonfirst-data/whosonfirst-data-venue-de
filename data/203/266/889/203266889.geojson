@@ -2,13 +2,14 @@
   "id": 203266889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.445509,48.084621,8.445509,48.084621",
     "geom:latitude":48.084621,
     "geom:longitude":8.445509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Philipp-Reis-Str. 18",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203266889,
-    "wof:lastmodified":1449025012,
+    "wof:lastmodified":1466218316,
     "wof:name":"Peter Scheu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.445509,48.084621,8.445509,48.084621],
+  "bbox": [
+    8.445509,
+    48.084621,
+    8.445509,
+    48.084621
+],
   "geometry": {"coordinates":[8.445509,48.084621],"type":"Point"}
 }

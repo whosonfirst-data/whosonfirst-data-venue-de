@@ -2,13 +2,14 @@
   "id": 152882195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.236324,48.808964,2.236324,48.808964",
     "geom:latitude":48.808964,
     "geom:longitude":2.236324,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"25 rue de la R\u00e9publique",
     "sg:city":"Meudon",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"92190",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152882195,
-    "wof:lastmodified":1449045136,
+    "wof:lastmodified":1466228948,
     "wof:name":"Managinter",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.236324,48.808964,2.236324,48.808964],
+  "bbox": [
+    2.236324,
+    48.808964,
+    2.236324,
+    48.808964
+],
   "geometry": {"coordinates":[2.236324,48.808964],"type":"Point"}
 }

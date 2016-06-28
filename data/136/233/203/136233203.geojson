@@ -2,13 +2,14 @@
   "id": 136233203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.84463,50.817966,9.84463,50.817966",
     "geom:latitude":50.817966,
     "geom:longitude":9.84463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Linde 5",
     "sg:city":"Schenklengsfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136233203,
-    "wof:lastmodified":1449076291,
+    "wof:lastmodified":1466223185,
     "wof:name":"Lauer",
     "wof:parent_id":101811047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.84463,50.817966,9.84463,50.817966],
+  "bbox": [
+    9.84463,
+    50.817966,
+    9.84463,
+    50.817966
+],
   "geometry": {"coordinates":[9.84463,50.817966],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135972429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.363794,51.442455,7.363794,51.442455",
     "geom:latitude":51.442455,
     "geom:longitude":7.363794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-D\u00fcchting-Str. 22",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794743,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135972429,
-    "wof:lastmodified":1449022533,
+    "wof:lastmodified":1466244833,
     "wof:name":"D\u00fcchting Pumpen Maschinenfabrik",
     "wof:parent_id":85794743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.363794,51.442455,7.363794,51.442455],
+  "bbox": [
+    7.363794,
+    51.442455,
+    7.363794,
+    51.442455
+],
   "geometry": {"coordinates":[7.363794,51.442455],"type":"Point"}
 }

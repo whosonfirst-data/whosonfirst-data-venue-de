@@ -2,13 +2,14 @@
   "id": 135309421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.227766,51.572197,7.227766,51.572197",
     "geom:latitude":51.572197,
     "geom:longitude":7.227766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 116",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863207,
+        85682513,
         85633111,
         101748751,
         102063831,
-        85682513
+        85863207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135309421,
-    "wof:lastmodified":1449021660,
+    "wof:lastmodified":1466214567,
     "wof:name":"R. Und U. Schulze",
     "wof:parent_id":85863207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.227766,51.572197,7.227766,51.572197],
+  "bbox": [
+    7.227766,
+    51.572197,
+    7.227766,
+    51.572197
+],
   "geometry": {"coordinates":[7.227766,51.572197],"type":"Point"}
 }

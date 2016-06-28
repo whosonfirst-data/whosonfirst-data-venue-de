@@ -2,13 +2,14 @@
   "id": 119525159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.710398,51.084911,13.710398,51.084911",
     "geom:latitude":51.084911,
     "geom:longitude":13.710398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alttrachau 8",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899901,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119525159,
-    "wof:lastmodified":1449042936,
+    "wof:lastmodified":1466243781,
     "wof:name":"G. P\u00f6tschke",
     "wof:parent_id":85899901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.710398,51.084911,13.710398,51.084911],
+  "bbox": [
+    13.710398,
+    51.084911,
+    13.710398,
+    51.084911
+],
   "geometry": {"coordinates":[13.710398,51.084911],"type":"Point"}
 }

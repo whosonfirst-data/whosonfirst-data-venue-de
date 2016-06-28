@@ -2,13 +2,14 @@
   "id": 202722563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.742282,50.189754,8.742282,50.189754",
     "geom:latitude":50.189754,
     "geom:longitude":8.742282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedberger Str. 89-97",
     "sg:city":"Bad Vilbel",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202722563,
-    "wof:lastmodified":1449060991,
+    "wof:lastmodified":1466219840,
     "wof:name":"Hermann Fischer Gmbh",
     "wof:parent_id":85794877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.742282,50.189754,8.742282,50.189754],
+  "bbox": [
+    8.742282,
+    50.189754,
+    8.742282,
+    50.189754
+],
   "geometry": {"coordinates":[8.742282,50.189754],"type":"Point"}
 }

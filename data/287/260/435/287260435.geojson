@@ -2,13 +2,14 @@
   "id": 287260435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.020306,50.959465,7.020306,50.959465",
     "geom:latitude":50.959465,
     "geom:longitude":7.020306,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johanniterstr. 107",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287260435,
-    "wof:lastmodified":1449000810,
+    "wof:lastmodified":1466231959,
     "wof:name":"Boris Gross Dolmetscher",
     "wof:parent_id":85795075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.020306,50.959465,7.020306,50.959465],
+  "bbox": [
+    7.020306,
+    50.959465,
+    7.020306,
+    50.959465
+],
   "geometry": {"coordinates":[7.020306,50.959465],"type":"Point"}
 }

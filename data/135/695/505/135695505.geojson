@@ -2,13 +2,14 @@
   "id": 135695505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.112414,53.576488,10.112414,53.576488",
     "geom:latitude":53.576488,
     "geom:longitude":10.112414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jenfelder Str. 55 a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899253,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135695505,
-    "wof:lastmodified":1449022144,
+    "wof:lastmodified":1466242229,
     "wof:name":"Kg Eb & S Ges. F\u00fcr Generalbau Und Vertrieb Von",
     "wof:parent_id":85899253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.112414,53.576488,10.112414,53.576488],
+  "bbox": [
+    10.112414,
+    53.576488,
+    10.112414,
+    53.576488
+],
   "geometry": {"coordinates":[10.112414,53.576488],"type":"Point"}
 }

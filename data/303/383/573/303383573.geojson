@@ -2,13 +2,14 @@
   "id": 303383573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.132637,49.028564,12.132637,49.028564",
     "geom:latitude":49.028564,
     "geom:longitude":12.132637,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Schergenbreite 21",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303383573,
-    "wof:lastmodified":1448999154,
+    "wof:lastmodified":1466233981,
     "wof:name":"Willi Ohde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.132637,49.028564,12.132637,49.028564],
+  "bbox": [
+    12.132637,
+    49.028564,
+    12.132637,
+    49.028564
+],
   "geometry": {"coordinates":[12.132637,49.028564],"type":"Point"}
 }

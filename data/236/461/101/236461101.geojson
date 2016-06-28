@@ -2,13 +2,14 @@
   "id": 236461101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.070544,49.464378,11.070544,49.464378",
     "geom:latitude":49.464378,
     "geom:longitude":11.070544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bucher Str. 68",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236461101,
-    "wof:lastmodified":1449002786,
+    "wof:lastmodified":1466227273,
     "wof:name":"Peter Ki\u00dfkalt",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.070544,49.464378,11.070544,49.464378],
+  "bbox": [
+    11.070544,
+    49.464378,
+    11.070544,
+    49.464378
+],
   "geometry": {"coordinates":[11.070544,49.464378],"type":"Point"}
 }

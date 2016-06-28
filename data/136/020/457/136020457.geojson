@@ -2,13 +2,14 @@
   "id": 136020457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.079635,51.468094,7.079635,51.468094",
     "geom:latitude":51.468094,
     "geom:longitude":7.079635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Soester Str. 11",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865109,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85865109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136020457,
-    "wof:lastmodified":1449075518,
+    "wof:lastmodified":1466213074,
     "wof:name":"A. Mathmann & S\u00f6hne",
     "wof:parent_id":85865109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.079635,51.468094,7.079635,51.468094],
+  "bbox": [
+    7.079635,
+    51.468094,
+    7.079635,
+    51.468094
+],
   "geometry": {"coordinates":[7.079635,51.468094],"type":"Point"}
 }

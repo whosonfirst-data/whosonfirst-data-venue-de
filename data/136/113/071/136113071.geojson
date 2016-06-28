@@ -2,13 +2,14 @@
   "id": 136113071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.320755,52.507439,13.320755,52.507439",
     "geom:latitude":52.507439,
     "geom:longitude":13.320755,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistr",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499,
+        85928741,
         85899239
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136113071,
-    "wof:lastmodified":1449076152,
+    "wof:lastmodified":1466217301,
     "wof:name":"Rechtsanw\u00e4lte Ingo Jembarski Und Dr. J\u00f6rg Zeising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.320755,52.507439,13.320755,52.507439],
+  "bbox": [
+    13.320755,
+    52.507439,
+    13.320755,
+    52.507439
+],
   "geometry": {"coordinates":[13.320755,52.507439],"type":"Point"}
 }

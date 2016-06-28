@@ -2,13 +2,14 @@
   "id": 119512259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.233525,52.616882,13.233525,52.616882",
     "geom:latitude":52.616882,
     "geom:longitude":13.233525,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Dachsbau 91",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899275,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119512259,
-    "wof:lastmodified":1449042811,
+    "wof:lastmodified":1466243759,
     "wof:name":"Dih Dorfb\u00e4ckerei In Heiligensee Gmbh",
     "wof:parent_id":85899275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.233525,52.616882,13.233525,52.616882],
+  "bbox": [
+    13.233525,
+    52.616882,
+    13.233525,
+    52.616882
+],
   "geometry": {"coordinates":[13.233525,52.616882],"type":"Point"}
 }

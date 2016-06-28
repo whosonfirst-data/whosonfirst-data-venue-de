@@ -2,13 +2,14 @@
   "id": 119481909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.699611,51.199833,6.699611,51.199833",
     "geom:latitude":51.199833,
     "geom:longitude":6.699611,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammer Landstr. 1 A",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119481909,
-    "wof:lastmodified":1449043192,
+    "wof:lastmodified":1466243259,
     "wof:name":"Car Partners Group Gmbh",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.699611,51.199833,6.699611,51.199833],
+  "bbox": [
+    6.699611,
+    51.199833,
+    6.699611,
+    51.199833
+],
   "geometry": {"coordinates":[6.699611,51.199833],"type":"Point"}
 }

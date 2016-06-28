@@ -2,13 +2,14 @@
   "id": 118935947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.682067,51.06171,13.682067,51.06171",
     "geom:latitude":51.06171,
     "geom:longitude":13.682067,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamburger Str. 83",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900163,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118935947,
-    "wof:lastmodified":1449054310,
+    "wof:lastmodified":1466237222,
     "wof:name":"Sonnen-apotheke Inh. Gisela Trebs",
     "wof:parent_id":85900163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.682067,51.06171,13.682067,51.06171],
+  "bbox": [
+    13.682067,
+    51.06171,
+    13.682067,
+    51.06171
+],
   "geometry": {"coordinates":[13.682067,51.06171],"type":"Point"}
 }

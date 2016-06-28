@@ -2,13 +2,14 @@
   "id": 135447329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.184115,49.379593,10.184115,49.379593",
     "geom:latitude":49.379593,
     "geom:longitude":10.184115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 684::",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135447329,
-    "wof:lastmodified":1449023126,
+    "wof:lastmodified":1466226930,
     "wof:name":"Stadt-und Kreissparkasse Rothenburg",
     "wof:parent_id":101826725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.184115,49.379593,10.184115,49.379593],
+  "bbox": [
+    10.184115,
+    49.379593,
+    10.184115,
+    49.379593
+],
   "geometry": {"coordinates":[10.184115,49.379593],"type":"Point"}
 }

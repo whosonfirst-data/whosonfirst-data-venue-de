@@ -2,13 +2,14 @@
   "id": 152239863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.186789,51.181145,7.186789,51.181145",
     "geom:latitude":51.181145,
     "geom:longitude":7.186789,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alleestr. 74",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862897,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152239863,
-    "wof:lastmodified":1449044751,
+    "wof:lastmodified":1466214886,
     "wof:name":"Albert Haase Inh. Elrike Wahlscheidt E. K.",
     "wof:parent_id":85862897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.186789,51.181145,7.186789,51.181145],
+  "bbox": [
+    7.186789,
+    51.181145,
+    7.186789,
+    51.181145
+],
   "geometry": {"coordinates":[7.186789,51.181145],"type":"Point"}
 }

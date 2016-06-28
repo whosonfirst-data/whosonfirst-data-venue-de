@@ -2,13 +2,14 @@
   "id": 135527341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.850937,47.737797,11.850937,47.737797",
     "geom:latitude":47.737797,
     "geom:longitude":11.850937,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Antritt 8",
     "sg:city":"Schliersee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135527341,
-    "wof:lastmodified":1449023409,
+    "wof:lastmodified":1466234113,
     "wof:name":"Johann Geltinger",
     "wof:parent_id":101787537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.850937,47.737797,11.850937,47.737797],
+  "bbox": [
+    11.850937,
+    47.737797,
+    11.850937,
+    47.737797
+],
   "geometry": {"coordinates":[11.850937,47.737797],"type":"Point"}
 }

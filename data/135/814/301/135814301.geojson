@@ -2,13 +2,14 @@
   "id": 135814301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.291947,51.24839,7.291947,51.24839",
     "geom:latitude":51.24839,
     "geom:longitude":7.291947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kriegermal 22",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794889
+        85633111,
+        85794889,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135814301,
-    "wof:lastmodified":1449021527,
+    "wof:lastmodified":1466244197,
     "wof:name":"Sozialberatungsstelle Der Stadt",
     "wof:parent_id":85794889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.291947,51.24839,7.291947,51.24839],
+  "bbox": [
+    7.291947,
+    51.24839,
+    7.291947,
+    51.24839
+],
   "geometry": {"coordinates":[7.291947,51.24839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135667923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.195729,52.391491,13.195729,52.391491",
     "geom:latitude":52.391491,
     "geom:longitude":13.195729,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Anni-Krauss-Str. 51",
     "sg:city":"Stahnsdorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063937,
-        85633111,
         85682553,
-        85899389
+        85633111,
+        85899389,
+        102063937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135667923,
-    "wof:lastmodified":1449022982,
+    "wof:lastmodified":1466241489,
     "wof:name":"M. Eckardt Baumontage & Co. Kg",
     "wof:parent_id":85899389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.195729,52.391491,13.195729,52.391491],
+  "bbox": [
+    13.195729,
+    52.391491,
+    13.195729,
+    52.391491
+],
   "geometry": {"coordinates":[13.195729,52.391491],"type":"Point"}
 }

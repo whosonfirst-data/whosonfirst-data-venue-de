@@ -2,13 +2,14 @@
   "id": 119066011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.010013,51.437382,7.010013,51.437382",
     "geom:latitude":51.437382,
     "geom:longitude":7.010013,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Isabellastr. 23",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119066011,
-    "wof:lastmodified":1449041548,
+    "wof:lastmodified":1466216933,
     "wof:name":"Johannes Biecker Architekt",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.010013,51.437382,7.010013,51.437382],
+  "bbox": [
+    7.010013,
+    51.437382,
+    7.010013,
+    51.437382
+],
   "geometry": {"coordinates":[7.010013,51.437382],"type":"Point"}
 }

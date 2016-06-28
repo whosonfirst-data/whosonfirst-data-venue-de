@@ -2,13 +2,14 @@
   "id": 118916849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701173,49.827194,8.701173,49.827194",
     "geom:latitude":49.827194,
     "geom:longitude":8.701173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 23",
     "sg:city":"M\u00fchltal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118916849,
-    "wof:lastmodified":1449053919,
+    "wof:lastmodified":1466236557,
     "wof:name":"Modau-apotheke Inh. B. Rupprecht E. K.",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701173,49.827194,8.701173,49.827194],
+  "bbox": [
+    8.701173,
+    49.827194,
+    8.701173,
+    49.827194
+],
   "geometry": {"coordinates":[8.701173,49.827194],"type":"Point"}
 }

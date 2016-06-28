@@ -2,13 +2,14 @@
   "id": 336812021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.06751,49.478668,11.06751,49.478668",
     "geom:latitude":49.478668,
     "geom:longitude":11.06751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oldenburger Str. 38",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336812021,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466237679,
     "wof:name":"Ernst Russ",
     "wof:parent_id":85900139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.06751,49.478668,11.06751,49.478668],
+  "bbox": [
+    11.06751,
+    49.478668,
+    11.06751,
+    49.478668
+],
   "geometry": {"coordinates":[11.06751,49.478668],"type":"Point"}
 }

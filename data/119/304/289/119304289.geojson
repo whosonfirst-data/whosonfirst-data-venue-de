@@ -2,13 +2,14 @@
   "id": 119304289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223163,48.473316,9.223163,48.473316",
     "geom:latitude":48.473316,
     "geom:longitude":9.223163,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Silber-Str. 6",
     "sg:city":"Pfullingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119304289,
-    "wof:lastmodified":1449042850,
+    "wof:lastmodified":1466237549,
     "wof:name":"Ernst Betz",
     "wof:parent_id":101756233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.223163,48.473316,9.223163,48.473316],
+  "bbox": [
+    9.223163,
+    48.473316,
+    9.223163,
+    48.473316
+],
   "geometry": {"coordinates":[9.223163,48.473316],"type":"Point"}
 }

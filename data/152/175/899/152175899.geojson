@@ -2,13 +2,14 @@
   "id": 152175899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.633755,52.537167,13.633755,52.537167",
     "geom:latitude":52.537167,
     "geom:longitude":13.633755,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahlsdorfer Str. 61",
     "sg:city":"H\u00f6now",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152175899,
-    "wof:lastmodified":1449047503,
+    "wof:lastmodified":1466213552,
     "wof:name":"Champus Textil-hdls Gmbh",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.633755,52.537167,13.633755,52.537167],
+  "bbox": [
+    13.633755,
+    52.537167,
+    13.633755,
+    52.537167
+],
   "geometry": {"coordinates":[13.633755,52.537167],"type":"Point"}
 }

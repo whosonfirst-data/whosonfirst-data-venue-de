@@ -2,13 +2,14 @@
   "id": 152951943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.6812,50.119293,8.6812,50.119293",
     "geom:latitude":50.119293,
     "geom:longitude":8.6812,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenheimer Anlage 31a",
     "sg:city":"Frankfurt am Main",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152951943,
-    "wof:lastmodified":1449044501,
+    "wof:lastmodified":1466230635,
     "wof:name":"Steuerrecht, Rechtsanwalt & Fachanwalt Frankfurt",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.6812,50.119293,8.6812,50.119293],
+  "bbox": [
+    8.6812,
+    50.119293,
+    8.6812,
+    50.119293
+],
   "geometry": {"coordinates":[8.6812,50.119293],"type":"Point"}
 }

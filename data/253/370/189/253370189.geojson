@@ -2,13 +2,14 @@
   "id": 253370189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.455599,48.711319,11.455599,48.711319",
     "geom:latitude":48.711319,
     "geom:longitude":11.455599,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebenhausener Str. 2",
     "sg:city":"Manching",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253370189,
-    "wof:lastmodified":1449064444,
+    "wof:lastmodified":1466226286,
     "wof:name":"Johann Rammelmeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.455599,48.711319,11.455599,48.711319],
+  "bbox": [
+    11.455599,
+    48.711319,
+    11.455599,
+    48.711319
+],
   "geometry": {"coordinates":[11.455599,48.711319],"type":"Point"}
 }

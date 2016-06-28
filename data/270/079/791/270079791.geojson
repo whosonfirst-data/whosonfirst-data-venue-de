@@ -2,13 +2,14 @@
   "id": 270079791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.415062,52.571911,13.415062,52.571911",
     "geom:latitude":52.571911,
     "geom:longitude":13.415062,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hadlichstr. 24",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270079791,
-    "wof:lastmodified":1449010658,
+    "wof:lastmodified":1466223248,
     "wof:name":"Thomas Hoffmann",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.415062,52.571911,13.415062,52.571911],
+  "bbox": [
+    13.415062,
+    52.571911,
+    13.415062,
+    52.571911
+],
   "geometry": {"coordinates":[13.415062,52.571911],"type":"Point"}
 }

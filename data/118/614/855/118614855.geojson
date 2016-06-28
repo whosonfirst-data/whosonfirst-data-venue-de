@@ -2,13 +2,14 @@
   "id": 118614855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.956482,51.648575,6.956482,51.648575",
     "geom:latitude":51.648575,
     "geom:longitude":6.956482,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchhellener Allee 111",
     "sg:city":"Dorsten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118614855,
-    "wof:lastmodified":1449054594,
+    "wof:lastmodified":1466219111,
     "wof:name":"Alten- Und Pflegeheim St. Anna",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.956482,51.648575,6.956482,51.648575],
+  "bbox": [
+    6.956482,
+    51.648575,
+    6.956482,
+    51.648575
+],
   "geometry": {"coordinates":[6.956482,51.648575],"type":"Point"}
 }

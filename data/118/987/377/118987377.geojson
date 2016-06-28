@@ -2,13 +2,14 @@
   "id": 118987377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.54771,48.117279,11.54771,48.117279",
     "geom:latitude":48.117279,
     "geom:longitude":11.54771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Valleystr. 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118987377,
-    "wof:lastmodified":1449053927,
+    "wof:lastmodified":1466239461,
     "wof:name":"Christian Herde Architekt",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.54771,48.117279,11.54771,48.117279],
+  "bbox": [
+    11.54771,
+    48.117279,
+    11.54771,
+    48.117279
+],
   "geometry": {"coordinates":[11.54771,48.117279],"type":"Point"}
 }

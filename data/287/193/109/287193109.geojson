@@ -2,13 +2,14 @@
   "id": 287193109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.910163,49.975605,6.910163,49.975605",
     "geom:latitude":49.975605,
     "geom:longitude":6.910163,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6ntgenstr. 13",
     "sg:city":"Wittlich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287193109,
-    "wof:lastmodified":1449000804,
+    "wof:lastmodified":1466230241,
     "wof:name":"Colosseum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.910163,49.975605,6.910163,49.975605],
+  "bbox": [
+    6.910163,
+    49.975605,
+    6.910163,
+    49.975605
+],
   "geometry": {"coordinates":[6.910163,49.975605],"type":"Point"}
 }

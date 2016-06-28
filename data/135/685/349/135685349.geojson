@@ -2,13 +2,14 @@
   "id": 135685349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.150576,47.824425,12.150576,47.824425",
     "geom:latitude":47.824425,
     "geom:longitude":12.150576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulmenstr. 11",
     "sg:city":"Rohrdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135685349,
-    "wof:lastmodified":1449023908,
+    "wof:lastmodified":1466241980,
     "wof:name":"Walter Schwangler",
     "wof:parent_id":101905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.150576,47.824425,12.150576,47.824425],
+  "bbox": [
+    12.150576,
+    47.824425,
+    12.150576,
+    47.824425
+],
   "geometry": {"coordinates":[12.150576,47.824425],"type":"Point"}
 }

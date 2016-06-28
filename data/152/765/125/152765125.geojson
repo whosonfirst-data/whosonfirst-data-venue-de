@@ -2,13 +2,14 @@
   "id": 152765125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.177099,50.705513,7.177099,50.705513",
     "geom:latitude":50.705513,
     "geom:longitude":7.177099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Gr\u00fcnen Berg 12",
     "sg:city":"K\u00f6nigswinter",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063661,
-        85633111,
         85682513,
-        85862977
+        85633111,
+        85862977,
+        102063661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152765125,
-    "wof:lastmodified":1449046977,
+    "wof:lastmodified":1466226223,
     "wof:name":"Cadzand-bad",
     "wof:parent_id":85862977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.177099,50.705513,7.177099,50.705513],
+  "bbox": [
+    7.177099,
+    50.705513,
+    7.177099,
+    50.705513
+],
   "geometry": {"coordinates":[7.177099,50.705513],"type":"Point"}
 }

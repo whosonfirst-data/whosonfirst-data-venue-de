@@ -2,13 +2,14 @@
   "id": 136074211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.549542,48.185162,11.549542,48.185162",
     "geom:latitude":48.185162,
     "geom:longitude":11.549542,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strassbergerstr. 34",
     "sg:city":"Muenchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136074211,
-    "wof:lastmodified":1449075634,
+    "wof:lastmodified":1466215535,
     "wof:name":"Homepage Kumbh-mela-2001",
     "wof:parent_id":85899615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.549542,48.185162,11.549542,48.185162],
+  "bbox": [
+    11.549542,
+    48.185162,
+    11.549542,
+    48.185162
+],
   "geometry": {"coordinates":[11.549542,48.185162],"type":"Point"}
 }

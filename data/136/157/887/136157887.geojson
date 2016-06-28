@@ -2,13 +2,14 @@
   "id": 136157887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.930901,41.63765,-70.930901,41.63765",
     "geom:latitude":41.63765,
     "geom:longitude":-70.930901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rumburger Str.16",
     "sg:city":"Neusalza-Spermberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806427,
+        85688645,
         85633793,
         85950367,
         102084407,
-        85688645
+        85806427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136157887,
-    "wof:lastmodified":1449076077,
+    "wof:lastmodified":1466219157,
     "wof:name":"Ziel-bildungszentrum",
     "wof:parent_id":85806427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.930901,41.63765,-70.930901,41.63765],
-  "geometry": {"coordinates":[-70.930901,41.63765],"type":"Point"}
+  "bbox": [
+    -70.930901,
+    41.63765,
+    -70.930901,
+    41.63765
+],
+  "geometry": {"coordinates":[-70.93090100000001,41.63765],"type":"Point"}
 }

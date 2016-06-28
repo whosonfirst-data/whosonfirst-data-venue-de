@@ -2,13 +2,14 @@
   "id": 286277197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.349155,51.366104,12.349155,51.366104",
     "geom:latitude":51.366104,
     "geom:longitude":12.349155,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Schumann-Str. 195",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286277197,
-    "wof:lastmodified":1449015508,
+    "wof:lastmodified":1466224973,
     "wof:name":"K. Opelt",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.349155,51.366104,12.349155,51.366104],
+  "bbox": [
+    12.349155,
+    51.366104,
+    12.349155,
+    51.366104
+],
   "geometry": {"coordinates":[12.349155,51.366104],"type":"Point"}
 }

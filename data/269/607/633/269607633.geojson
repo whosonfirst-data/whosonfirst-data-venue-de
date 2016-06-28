@@ -2,13 +2,14 @@
   "id": 269607633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.313514,52.502293,13.313514,52.502293",
     "geom:latitude":52.502293,
     "geom:longitude":13.313514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leibnizstr. 49",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269607633,
-    "wof:lastmodified":1449036460,
+    "wof:lastmodified":1466223753,
     "wof:name":"Van Ravenstein Berlin Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.313514,52.502293,13.313514,52.502293],
+  "bbox": [
+    13.313514,
+    52.502293,
+    13.313514,
+    52.502293
+],
   "geometry": {"coordinates":[13.313514,52.502293],"type":"Point"}
 }

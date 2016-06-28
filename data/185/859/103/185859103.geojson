@@ -2,13 +2,14 @@
   "id": 185859103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.938131,48.377514,10.938131,48.377514",
     "geom:latitude":48.377514,
     "geom:longitude":10.938131,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neufnachweg 8",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185859103,
-    "wof:lastmodified":1449007746,
+    "wof:lastmodified":1466215675,
     "wof:name":"S. Eberle",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.938131,48.377514,10.938131,48.377514],
+  "bbox": [
+    10.938131,
+    48.377514,
+    10.938131,
+    48.377514
+],
   "geometry": {"coordinates":[10.938131,48.377514],"type":"Point"}
 }

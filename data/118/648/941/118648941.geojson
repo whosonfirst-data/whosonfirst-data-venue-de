@@ -2,13 +2,14 @@
   "id": 118648941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.801113,52.415768,10.801113,52.415768",
     "geom:latitude":52.415768,
     "geom:longitude":10.801113,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walter-Flex-Weg 10",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063921,
-        85633111,
         85682555,
-        85905775
+        85633111,
+        85905775,
+        102063921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118648941,
-    "wof:lastmodified":1449053537,
+    "wof:lastmodified":1466221043,
     "wof:name":"Wolfsburger Drk Pflege- Und Dienstleistungs Gmbh",
     "wof:parent_id":85905775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.801113,52.415768,10.801113,52.415768],
+  "bbox": [
+    10.801113,
+    52.415768,
+    10.801113,
+    52.415768
+],
   "geometry": {"coordinates":[10.801113,52.415768],"type":"Point"}
 }

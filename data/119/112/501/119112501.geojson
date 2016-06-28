@@ -2,13 +2,14 @@
   "id": 119112501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.141113,49.472092,11.141113,49.472092",
     "geom:latitude":49.472092,
     "geom:longitude":11.141113,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstegenstr. 120",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900011,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119112501,
-    "wof:lastmodified":1449042054,
+    "wof:lastmodified":1466221234,
     "wof:name":"Prof. Hermann Scherzer Architekt",
     "wof:parent_id":85900011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.141113,49.472092,11.141113,49.472092],
+  "bbox": [
+    11.141113,
+    49.472092,
+    11.141113,
+    49.472092
+],
   "geometry": {"coordinates":[11.141113,49.472092],"type":"Point"}
 }

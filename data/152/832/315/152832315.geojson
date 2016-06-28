@@ -2,13 +2,14 @@
   "id": 152832315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.095221,51.565174,7.095221,51.565174",
     "geom:latitude":51.565174,
     "geom:longitude":7.095221,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Gr\u00e4fte 27",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063813,
-        85633111,
         85682513,
-        85863127
+        85633111,
+        85863127,
+        102063813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152832315,
-    "wof:lastmodified":1449044315,
+    "wof:lastmodified":1466227804,
     "wof:name":"Handyzubeh\u00f6r Und Verbrauchsartikel Alles Was Man",
     "wof:parent_id":85863127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.095221,51.565174,7.095221,51.565174],
+  "bbox": [
+    7.095221,
+    51.565174,
+    7.095221,
+    51.565174
+],
   "geometry": {"coordinates":[7.095221,51.565174],"type":"Point"}
 }

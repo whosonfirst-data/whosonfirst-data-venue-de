@@ -2,13 +2,14 @@
   "id": 152223539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.338146,52.497581,13.338146,52.497581",
     "geom:latitude":52.497581,
     "geom:longitude":13.338146,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geisbergstr. 28",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152223539,
-    "wof:lastmodified":1449044625,
+    "wof:lastmodified":1466214547,
     "wof:name":"Der Graue Gesellschaft F\u00fcr Damen- Und",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.338146,52.497581,13.338146,52.497581],
+  "bbox": [
+    13.338146,
+    52.497581,
+    13.338146,
+    52.497581
+],
   "geometry": {"coordinates":[13.338146,52.497581],"type":"Point"}
 }

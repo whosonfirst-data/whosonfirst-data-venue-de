@@ -2,13 +2,14 @@
   "id": 286450013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.050349,53.478558,10.050349,53.478558",
     "geom:latitude":53.478558,
     "geom:longitude":10.050349,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorwerder Norderdeich 28",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286450013,
-    "wof:lastmodified":1449017659,
+    "wof:lastmodified":1466228949,
     "wof:name":"Jens Mackens",
     "wof:parent_id":85899661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.050349,53.478558,10.050349,53.478558],
+  "bbox": [
+    10.050349,
+    53.478558,
+    10.050349,
+    53.478558
+],
   "geometry": {"coordinates":[10.050349,53.478558],"type":"Point"}
 }

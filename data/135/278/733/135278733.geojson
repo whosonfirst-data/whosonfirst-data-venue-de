@@ -2,13 +2,14 @@
   "id": 135278733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.668985,51.188332,6.668985,51.188332",
     "geom:latitude":51.188332,
     "geom:longitude":6.668985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kneippstr. 5",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135278733,
-    "wof:lastmodified":1449022670,
+    "wof:lastmodified":1466224683,
     "wof:name":"J. Arras",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.668985,51.188332,6.668985,51.188332],
+  "bbox": [
+    6.668985,
+    51.188332,
+    6.668985,
+    51.188332
+],
   "geometry": {"coordinates":[6.668985,51.188332],"type":"Point"}
 }

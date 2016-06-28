@@ -2,13 +2,14 @@
   "id": 102705081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.24192,50.029495,10.24192,50.029495",
     "geom:latitude":50.029495,
     "geom:longitude":10.24192,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Silbersteinstr 2",
     "sg:city":"Schweinfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102705081,
-    "wof:lastmodified":1449070226,
+    "wof:lastmodified":1466216292,
     "wof:name":"Papst Gmbh",
     "wof:parent_id":101756417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.24192,50.029495,10.24192,50.029495],
+  "bbox": [
+    10.24192,
+    50.029495,
+    10.24192,
+    50.029495
+],
   "geometry": {"coordinates":[10.24192,50.029495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135480269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.92591,50.140293,8.92591,50.140293",
     "geom:latitude":50.140293,
     "geom:longitude":8.92591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedberger Str. 13",
     "sg:city":"Hanau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135480269,
-    "wof:lastmodified":1449021983,
+    "wof:lastmodified":1466229843,
     "wof:name":"Puppenstube",
     "wof:parent_id":101748583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.92591,50.140293,8.92591,50.140293],
+  "bbox": [
+    8.92591,
+    50.140293,
+    8.92591,
+    50.140293
+],
   "geometry": {"coordinates":[8.92591,50.140293],"type":"Point"}
 }

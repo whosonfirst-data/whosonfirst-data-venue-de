@@ -2,13 +2,14 @@
   "id": 203107045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.043556,48.448605,13.043556,48.448605",
     "geom:latitude":48.448605,
     "geom:longitude":13.043556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gruberstr. 5",
     "sg:city":"Bad Birnbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203107045,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466215630,
     "wof:name":"Hermann Apfel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.043556,48.448605,13.043556,48.448605],
+  "bbox": [
+    13.043556,
+    48.448605,
+    13.043556,
+    48.448605
+],
   "geometry": {"coordinates":[13.043556,48.448605],"type":"Point"}
 }

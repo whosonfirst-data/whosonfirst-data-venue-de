@@ -2,13 +2,14 @@
   "id": 136091681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.47197,51.314846,9.47197,51.314846",
     "geom:latitude":51.314846,
     "geom:longitude":9.47197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goethestrasse 34",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906345,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136091681,
-    "wof:lastmodified":1449075027,
+    "wof:lastmodified":1466216358,
     "wof:name":"Komm E.v. Beratung In Lebenskrisen",
     "wof:parent_id":85906345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.47197,51.314846,9.47197,51.314846],
+  "bbox": [
+    9.47197,
+    51.314846,
+    9.47197,
+    51.314846
+],
   "geometry": {"coordinates":[9.47197,51.314846],"type":"Point"}
 }

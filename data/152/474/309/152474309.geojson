@@ -2,13 +2,14 @@
   "id": 152474309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.77505,51.21442,6.77505,51.21442",
     "geom:latitude":51.21442,
     "geom:longitude":6.77505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elisabethstr. 51",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152474309,
-    "wof:lastmodified":1449044488,
+    "wof:lastmodified":1466219674,
     "wof:name":"D\u00fcbag D\u00fcsseldorfer Beteiligungen Ag",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.77505,51.21442,6.77505,51.21442],
+  "bbox": [
+    6.77505,
+    51.21442,
+    6.77505,
+    51.21442
+],
   "geometry": {"coordinates":[6.77505,51.21442],"type":"Point"}
 }

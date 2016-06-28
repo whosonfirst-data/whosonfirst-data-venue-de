@@ -2,13 +2,14 @@
   "id": 119532359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.515317,51.290169,9.515317,51.290169",
     "geom:latitude":51.290169,
     "geom:longitude":9.515317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 161",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899739,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85899739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119532359,
-    "wof:lastmodified":1449041669,
+    "wof:lastmodified":1466244013,
     "wof:name":"H. Ehmer",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.515317,51.290169,9.515317,51.290169],
+  "bbox": [
+    9.515317,
+    51.290169,
+    9.515317,
+    51.290169
+],
   "geometry": {"coordinates":[9.515317,51.290169],"type":"Point"}
 }

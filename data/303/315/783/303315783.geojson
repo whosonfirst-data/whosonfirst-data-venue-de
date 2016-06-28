@@ -2,13 +2,14 @@
   "id": 303315783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.798886,51.670799,7.798886,51.670799",
     "geom:latitude":51.670799,
     "geom:longitude":7.798886,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 99",
     "sg:city":"Hamm",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303315783,
-    "wof:lastmodified":1449000436,
+    "wof:lastmodified":1466232306,
     "wof:name":"Druck Punkt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.798886,51.670799,7.798886,51.670799],
+  "bbox": [
+    7.798886,
+    51.670799,
+    7.798886,
+    51.670799
+],
   "geometry": {"coordinates":[7.798886,51.670799],"type":"Point"}
 }

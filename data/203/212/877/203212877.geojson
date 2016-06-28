@@ -2,13 +2,14 @@
   "id": 203212877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.153795,48.770847,9.153795,48.770847",
     "geom:latitude":48.770847,
     "geom:longitude":9.153795,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seyfferstr. 43",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203212877,
-    "wof:lastmodified":1449026207,
+    "wof:lastmodified":1466217425,
     "wof:name":"E. Metcher",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.153795,48.770847,9.153795,48.770847],
+  "bbox": [
+    9.153795,
+    48.770847,
+    9.153795,
+    48.770847
+],
   "geometry": {"coordinates":[9.153795,48.770847],"type":"Point"}
 }

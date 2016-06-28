@@ -2,13 +2,14 @@
   "id": 320512713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.133832,51.245586,7.133832,51.245586",
     "geom:latitude":51.245586,
     "geom:longitude":7.133832,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viehhofstr. 114",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320512713,
-    "wof:lastmodified":1449013973,
+    "wof:lastmodified":1466240969,
     "wof:name":"M & M Messedesign",
     "wof:parent_id":85796783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.133832,51.245586,7.133832,51.245586],
+  "bbox": [
+    7.133832,
+    51.245586,
+    7.133832,
+    51.245586
+],
   "geometry": {"coordinates":[7.133832,51.245586],"type":"Point"}
 }

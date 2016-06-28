@@ -2,13 +2,14 @@
   "id": 118517259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.437294,51.315205,9.437294,51.315205",
     "geom:latitude":51.315205,
     "geom:longitude":9.437294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Str. 85::",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063755,
-        85633111,
         85682531,
-        85905691
+        85633111,
+        85905691,
+        102063755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118517259,
-    "wof:lastmodified":1449053946,
+    "wof:lastmodified":1466213362,
     "wof:name":"Adolf Schulz & Partner Finanzberatungs-gmbh.",
     "wof:parent_id":85905691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.437294,51.315205,9.437294,51.315205],
+  "bbox": [
+    9.437294,
+    51.315205,
+    9.437294,
+    51.315205
+],
   "geometry": {"coordinates":[9.437294,51.315205],"type":"Point"}
 }

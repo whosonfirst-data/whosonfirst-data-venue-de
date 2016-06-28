@@ -2,13 +2,14 @@
   "id": 136114925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.855251,51.177719,6.855251,51.177719",
     "geom:latitude":51.177719,
     "geom:longitude":6.855251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Henkelstr. 261",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85796647
+        85633111,
+        85796647,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136114925,
-    "wof:lastmodified":1449075473,
+    "wof:lastmodified":1466217368,
     "wof:name":"Renes-sammlerstube",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.855251,51.177719,6.855251,51.177719],
+  "bbox": [
+    6.855251,
+    51.177719,
+    6.855251,
+    51.177719
+],
   "geometry": {"coordinates":[6.855251,51.177719],"type":"Point"}
 }

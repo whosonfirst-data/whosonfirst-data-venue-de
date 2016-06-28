@@ -2,13 +2,14 @@
   "id": 135390437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.775735,51.227871,6.775735,51.227871",
     "geom:latitude":51.227871,
     "geom:longitude":6.775735,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 10 11 18:: 40002 D\u00fcsseldorf:: Germany.^^Karl-Theodor-Strasse 6::",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135390437,
-    "wof:lastmodified":1449024020,
+    "wof:lastmodified":1466222044,
     "wof:name":"Ikb Consult Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.775735,51.227871,6.775735,51.227871],
+  "bbox": [
+    6.775735,
+    51.227871,
+    6.775735,
+    51.227871
+],
   "geometry": {"coordinates":[6.775735,51.227871],"type":"Point"}
 }

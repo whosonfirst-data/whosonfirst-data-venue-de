@@ -2,13 +2,14 @@
   "id": 135725177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.039857,49.207844,12.039857,49.207844",
     "geom:latitude":49.207844,
     "geom:longitude":12.039857,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 2",
     "sg:city":"Burglengenfeld",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135725177,
-    "wof:lastmodified":1449021724,
+    "wof:lastmodified":1466243060,
     "wof:name":"Stadtbau Gmbh",
     "wof:parent_id":101782199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.039857,49.207844,12.039857,49.207844],
+  "bbox": [
+    12.039857,
+    49.207844,
+    12.039857,
+    49.207844
+],
   "geometry": {"coordinates":[12.039857,49.207844],"type":"Point"}
 }

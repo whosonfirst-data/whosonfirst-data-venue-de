@@ -2,13 +2,14 @@
   "id": 118855905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.714156,52.463295,10.714156,52.463295",
     "geom:latitude":52.463295,
     "geom:longitude":10.714156,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bokensdorfer Str. 10",
     "sg:city":"Weyhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118855905,
-    "wof:lastmodified":1449054177,
+    "wof:lastmodified":1466233155,
     "wof:name":"Weyhausener Apotheke",
     "wof:parent_id":101819831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.714156,52.463295,10.714156,52.463295],
+  "bbox": [
+    10.714156,
+    52.463295,
+    10.714156,
+    52.463295
+],
   "geometry": {"coordinates":[10.714156,52.463295],"type":"Point"}
 }

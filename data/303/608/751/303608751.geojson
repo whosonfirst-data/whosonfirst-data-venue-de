@@ -2,13 +2,14 @@
   "id": 303608751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.975614,50.043453,8.975614,50.043453",
     "geom:latitude":50.043453,
     "geom:longitude":8.975614,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aschaffenburger Str. 8",
     "sg:city":"Seligenstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303608751,
-    "wof:lastmodified":1448999163,
+    "wof:lastmodified":1466238094,
     "wof:name":"Offenbach Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.975614,50.043453,8.975614,50.043453],
+  "bbox": [
+    8.975614,
+    50.043453,
+    8.975614,
+    50.043453
+],
   "geometry": {"coordinates":[8.975614,50.043453],"type":"Point"}
 }

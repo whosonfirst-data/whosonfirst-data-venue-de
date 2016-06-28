@@ -2,13 +2,14 @@
   "id": 119087705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.396743,51.356216,12.396743,51.356216",
     "geom:latitude":51.356216,
     "geom:longitude":12.396743,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rackwitzer Str. 40-42",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119087705,
-    "wof:lastmodified":1449042067,
+    "wof:lastmodified":1466218922,
     "wof:name":"Leonhardt, Andr\u00e4 Und Partner Beratende Ingenieure Vbi Gmbh",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.396743,51.356216,12.396743,51.356216],
+  "bbox": [
+    12.396743,
+    51.356216,
+    12.396743,
+    51.356216
+],
   "geometry": {"coordinates":[12.396743,51.356216],"type":"Point"}
 }

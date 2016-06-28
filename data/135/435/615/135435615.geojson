@@ -2,13 +2,14 @@
   "id": 135435615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.873952,47.72002,12.873952,47.72002",
     "geom:latitude":47.72002,
     "geom:longitude":12.873952,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1162:: 64601 Bensheim:: Germany.^^Bahnhofstr 30-32::",
     "sg:city":"Bensheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135435615,
-    "wof:lastmodified":1449023726,
+    "wof:lastmodified":1466225906,
     "wof:name":"Sparkasse Berchtesgadener Land",
     "wof:parent_id":101833959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.873952,47.72002,12.873952,47.72002],
+  "bbox": [
+    12.873952,
+    47.72002,
+    12.873952,
+    47.72002
+],
   "geometry": {"coordinates":[12.873952,47.72002],"type":"Point"}
 }

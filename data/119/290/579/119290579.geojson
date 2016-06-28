@@ -2,13 +2,14 @@
   "id": 119290579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.028947,49.550041,11.028947,49.550041",
     "geom:latitude":49.550041,
     "geom:longitude":11.028947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Branderweg 18",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905631,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85905631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119290579,
-    "wof:lastmodified":1449041970,
+    "wof:lastmodified":1466237042,
     "wof:name":"Alfred Kre\u00df",
     "wof:parent_id":85905631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.028947,49.550041,11.028947,49.550041],
+  "bbox": [
+    11.028947,
+    49.550041,
+    11.028947,
+    49.550041
+],
   "geometry": {"coordinates":[11.028947,49.550041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119192901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.869572,53.087845,8.869572,53.087845",
     "geom:latitude":53.087845,
     "geom:longitude":8.869572,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Mi\u00dfler-Str. 46-50",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796219,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119192901,
-    "wof:lastmodified":1449042754,
+    "wof:lastmodified":1466228162,
     "wof:name":"Bodentechnologisches Institut Bremen",
     "wof:parent_id":85796219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.869572,53.087845,8.869572,53.087845],
+  "bbox": [
+    8.869572,
+    53.087845,
+    8.869572,
+    53.087845
+],
   "geometry": {"coordinates":[8.869572,53.087845],"type":"Point"}
 }

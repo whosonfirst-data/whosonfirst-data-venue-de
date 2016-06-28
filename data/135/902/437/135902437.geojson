@@ -2,13 +2,14 @@
   "id": 135902437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.249311,51.146336,7.249311,51.146336",
     "geom:latitude":51.146336,
     "geom:longitude":7.249311,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert-Einstein-Str. 7-9",
     "sg:city":"Wermelskirchen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85794915
+        85633111,
+        85794915,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135902437,
-    "wof:lastmodified":1449023240,
+    "wof:lastmodified":1466244538,
     "wof:name":"Obi Bau- Und Heimwerker- Markt Holding Gmbh",
     "wof:parent_id":85794915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.249311,51.146336,7.249311,51.146336],
+  "bbox": [
+    7.249311,
+    51.146336,
+    7.249311,
+    51.146336
+],
   "geometry": {"coordinates":[7.249311,51.146336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202583923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.337155,51.499783,7.337155,51.499783",
     "geom:latitude":51.499783,
     "geom:longitude":7.337155,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Limbecker Str. 5",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202583923,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1466217326,
     "wof:name":"W. Hensel",
     "wof:parent_id":85796763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.337155,51.499783,7.337155,51.499783],
+  "bbox": [
+    7.337155,
+    51.499783,
+    7.337155,
+    51.499783
+],
   "geometry": {"coordinates":[7.337155,51.499783],"type":"Point"}
 }

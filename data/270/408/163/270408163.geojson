@@ -2,13 +2,14 @@
   "id": 270408163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.252531,49.806889,11.252531,49.806889",
     "geom:latitude":49.806889,
     "geom:longitude":11.252531,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"zum schachergraben 4",
     "sg:city":"Wiesenttal",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270408163,
-    "wof:lastmodified":1449008953,
+    "wof:lastmodified":1466231275,
     "wof:name":"Beschriftungsdesign Barthelmess",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.252531,49.806889,11.252531,49.806889],
+  "bbox": [
+    11.252531,
+    49.806889,
+    11.252531,
+    49.806889
+],
   "geometry": {"coordinates":[11.252531,49.806889],"type":"Point"}
 }

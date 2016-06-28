@@ -2,13 +2,14 @@
   "id": 202822607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.042415,50.617657,11.042415,50.617657",
     "geom:latitude":50.617657,
     "geom:longitude":11.042415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortsstr. 15",
     "sg:city":"Willmersdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202822607,
-    "wof:lastmodified":1449062559,
+    "wof:lastmodified":1466221642,
     "wof:name":"Robert Risch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.042415,50.617657,11.042415,50.617657],
+  "bbox": [
+    11.042415,
+    50.617657,
+    11.042415,
+    50.617657
+],
   "geometry": {"coordinates":[11.042415,50.617657],"type":"Point"}
 }

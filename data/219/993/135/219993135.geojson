@@ -2,13 +2,14 @@
   "id": 219993135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.055562,48.210773,12.055562,48.210773",
     "geom:latitude":48.210773,
     "geom:longitude":12.055562,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchner Str. 32",
     "sg:city":"Isen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219993135,
-    "wof:lastmodified":1449071959,
+    "wof:lastmodified":1466230234,
     "wof:name":"Werner Roth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.055562,48.210773,12.055562,48.210773],
+  "bbox": [
+    12.055562,
+    48.210773,
+    12.055562,
+    48.210773
+],
   "geometry": {"coordinates":[12.055562,48.210773],"type":"Point"}
 }

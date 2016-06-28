@@ -2,13 +2,14 @@
   "id": 186560933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.064419,53.596363,10.064419,53.596363",
     "geom:latitude":53.596363,
     "geom:longitude":10.064419,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Soltaus Allee 6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186560933,
-    "wof:lastmodified":1449052374,
+    "wof:lastmodified":1466219263,
     "wof:name":"Rolf Diederichs",
     "wof:parent_id":85900079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.064419,53.596363,10.064419,53.596363],
+  "bbox": [
+    10.064419,
+    53.596363,
+    10.064419,
+    53.596363
+],
   "geometry": {"coordinates":[10.064419,53.596363],"type":"Point"}
 }

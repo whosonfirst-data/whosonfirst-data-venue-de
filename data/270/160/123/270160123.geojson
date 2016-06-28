@@ -2,13 +2,14 @@
   "id": 270160123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.456945,48.337109,10.456945,48.337109",
     "geom:latitude":48.337109,
     "geom:longitude":10.456945,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Waldstr.",
     "sg:city":"Burtenbach",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270160123,
-    "wof:lastmodified":1449010680,
+    "wof:lastmodified":1466225111,
     "wof:name":"Anton Egger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.456945,48.337109,10.456945,48.337109],
+  "bbox": [
+    10.456945,
+    48.337109,
+    10.456945,
+    48.337109
+],
   "geometry": {"coordinates":[10.456945,48.337109],"type":"Point"}
 }

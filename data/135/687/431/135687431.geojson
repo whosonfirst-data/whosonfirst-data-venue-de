@@ -2,13 +2,14 @@
   "id": 135687431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63148,51.214329,6.63148,51.214329",
     "geom:latitude":51.214329,
     "geom:longitude":6.63148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruchweg 128",
     "sg:city":"Kaarst",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796077,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135687431,
-    "wof:lastmodified":1449021854,
+    "wof:lastmodified":1466242177,
     "wof:name":"Abc Apotheken Bedarfs-contor Gmbh",
     "wof:parent_id":85796077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63148,51.214329,6.63148,51.214329],
+  "bbox": [
+    6.63148,
+    51.214329,
+    6.63148,
+    51.214329
+],
   "geometry": {"coordinates":[6.63148,51.214329],"type":"Point"}
 }

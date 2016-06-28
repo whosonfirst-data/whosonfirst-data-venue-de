@@ -2,13 +2,14 @@
   "id": 135762177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.599497,48.128166,11.599497,48.128166",
     "geom:latitude":48.128166,
     "geom:longitude":11.599497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pariser Str. 29",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905613,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135762177,
-    "wof:lastmodified":1449023138,
+    "wof:lastmodified":1466243675,
     "wof:name":"Antonios-boutique Antonio Lanziner",
     "wof:parent_id":85905613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.599497,48.128166,11.599497,48.128166],
+  "bbox": [
+    11.599497,
+    48.128166,
+    11.599497,
+    48.128166
+],
   "geometry": {"coordinates":[11.599497,48.128166],"type":"Point"}
 }

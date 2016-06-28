@@ -2,13 +2,14 @@
   "id": 102698501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.46312,51.362331,7.46312,51.362331",
     "geom:latitude":51.362331,
     "geom:longitude":7.46312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Hagen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794715,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85794715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102698501,
-    "wof:lastmodified":1449070044,
+    "wof:lastmodified":1466216070,
     "wof:name":"Gr\u00fcnderfernstudium An Der Fernuniversit\u00e4t Hagen",
     "wof:parent_id":85794715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.46312,51.362331,7.46312,51.362331],
+  "bbox": [
+    7.46312,
+    51.362331,
+    7.46312,
+    51.362331
+],
   "geometry": {"coordinates":[7.46312,51.362331],"type":"Point"}
 }

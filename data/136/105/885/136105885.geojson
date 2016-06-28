@@ -2,13 +2,14 @@
   "id": 136105885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.715948,51.453876,6.715948,51.453876",
     "geom:latitude":51.453876,
     "geom:longitude":6.715948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinstra\u00dfe 24",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795559,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136105885,
-    "wof:lastmodified":1449075419,
+    "wof:lastmodified":1466216991,
     "wof:name":"Pib-studium",
     "wof:parent_id":85795559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.715948,51.453876,6.715948,51.453876],
+  "bbox": [
+    6.715948,
+    51.453876,
+    6.715948,
+    51.453876
+],
   "geometry": {"coordinates":[6.715948,51.453876],"type":"Point"}
 }

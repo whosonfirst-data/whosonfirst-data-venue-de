@@ -2,13 +2,14 @@
   "id": 152495745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.075943,51.490017,7.075943,51.490017",
     "geom:latitude":51.490017,
     "geom:longitude":7.075943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilgenboomstr. 32-34",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152495745,
-    "wof:lastmodified":1449046349,
+    "wof:lastmodified":1466220146,
     "wof:name":"Karl Bayer Gmbh",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.075943,51.490017,7.075943,51.490017],
+  "bbox": [
+    7.075943,
+    51.490017,
+    7.075943,
+    51.490017
+],
   "geometry": {"coordinates":[7.075943,51.490017],"type":"Point"}
 }

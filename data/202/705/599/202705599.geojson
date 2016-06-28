@@ -2,13 +2,14 @@
   "id": 202705599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.883419,49.449047,11.883419,49.449047",
     "geom:latitude":49.449047,
     "geom:longitude":11.883419,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am S\u00fcdhang 1",
     "sg:city":"Amberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202705599,
-    "wof:lastmodified":1449062662,
+    "wof:lastmodified":1466219520,
     "wof:name":"Hans Haimerl Bildhauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.883419,49.449047,11.883419,49.449047],
+  "bbox": [
+    11.883419,
+    49.449047,
+    11.883419,
+    49.449047
+],
   "geometry": {"coordinates":[11.883419,49.449047],"type":"Point"}
 }

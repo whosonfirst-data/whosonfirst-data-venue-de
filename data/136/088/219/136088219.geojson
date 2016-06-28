@@ -2,13 +2,14 @@
   "id": 136088219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.528894,48.195316,11.528894,48.195316",
     "geom:latitude":48.195316,
     "geom:longitude":11.528894,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reinachstr.31",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899265,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136088219,
-    "wof:lastmodified":1449075936,
+    "wof:lastmodified":1466216188,
     "wof:name":"Kart Team Brion",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.528894,48.195316,11.528894,48.195316],
+  "bbox": [
+    11.528894,
+    48.195316,
+    11.528894,
+    48.195316
+],
   "geometry": {"coordinates":[11.528894,48.195316],"type":"Point"}
 }

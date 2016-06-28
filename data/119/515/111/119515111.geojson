@@ -2,13 +2,14 @@
   "id": 119515111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.305949,49.120312,10.305949,49.120312",
     "geom:latitude":49.120312,
     "geom:longitude":10.305949,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr. 1",
     "sg:city":"Schopfloch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119515111,
-    "wof:lastmodified":1449041434,
+    "wof:lastmodified":1466243747,
     "wof:name":"Egon Blank",
     "wof:parent_id":101782083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.305949,49.120312,10.305949,49.120312],
+  "bbox": [
+    10.305949,
+    49.120312,
+    10.305949,
+    49.120312
+],
   "geometry": {"coordinates":[10.305949,49.120312],"type":"Point"}
 }

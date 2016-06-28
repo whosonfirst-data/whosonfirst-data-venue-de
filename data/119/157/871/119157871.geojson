@@ -2,13 +2,14 @@
   "id": 119157871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.5017,48.153011,11.5017,48.153011",
     "geom:latitude":48.153011,
     "geom:longitude":11.5017,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richildenstr. 62",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899839,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119157871,
-    "wof:lastmodified":1449043151,
+    "wof:lastmodified":1466224843,
     "wof:name":"Winnie Linhardt Architekt",
     "wof:parent_id":85899839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.5017,48.153011,11.5017,48.153011],
+  "bbox": [
+    11.5017,
+    48.153011,
+    11.5017,
+    48.153011
+],
   "geometry": {"coordinates":[11.5017,48.153011],"type":"Point"}
 }

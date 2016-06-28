@@ -2,13 +2,14 @@
   "id": 119290769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.579524,48.879105,12.579524,48.879105",
     "geom:latitude":48.879105,
     "geom:longitude":12.579524,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Innere Passauer Str. 48 a",
     "sg:city":"Straubing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119290769,
-    "wof:lastmodified":1449041971,
+    "wof:lastmodified":1466237052,
     "wof:name":"Alfred Schneider",
     "wof:parent_id":101783029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.579524,48.879105,12.579524,48.879105],
+  "bbox": [
+    12.579524,
+    48.879105,
+    12.579524,
+    48.879105
+],
   "geometry": {"coordinates":[12.579524,48.879105],"type":"Point"}
 }

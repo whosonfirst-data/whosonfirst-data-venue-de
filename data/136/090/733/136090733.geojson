@@ -2,13 +2,14 @@
   "id": 136090733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.512912,51.326382,9.512912,51.326382",
     "geom:latitude":51.326382,
     "geom:longitude":9.512912,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ihringsh\u00e4userstr. 11",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136090733,
-    "wof:lastmodified":1449075947,
+    "wof:lastmodified":1466216311,
     "wof:name":"Kleintransporte, Eil- Und Kuriedienste Albert Gbr",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.512912,51.326382,9.512912,51.326382],
+  "bbox": [
+    9.512912,
+    51.326382,
+    9.512912,
+    51.326382
+],
   "geometry": {"coordinates":[9.512912,51.326382],"type":"Point"}
 }

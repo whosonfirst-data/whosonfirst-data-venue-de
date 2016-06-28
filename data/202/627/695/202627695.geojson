@@ -2,13 +2,14 @@
   "id": 202627695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.624508,49.845524,8.624508,49.845524",
     "geom:latitude":49.845524,
     "geom:longitude":8.624508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00d6denburger Str. 28",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202627695,
-    "wof:lastmodified":1449062719,
+    "wof:lastmodified":1466218129,
     "wof:name":"A. Klein Kunstmaler",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.624508,49.845524,8.624508,49.845524],
+  "bbox": [
+    8.624508,
+    49.845524,
+    8.624508,
+    49.845524
+],
   "geometry": {"coordinates":[8.624508,49.845524],"type":"Point"}
 }

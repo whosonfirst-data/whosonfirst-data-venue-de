@@ -2,13 +2,14 @@
   "id": 203118317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.159847,49.962376,9.159847,49.962376",
     "geom:latitude":49.962376,
     "geom:longitude":9.159847,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schweinheimer Str. 80",
     "sg:city":"Aschaffenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203118317,
-    "wof:lastmodified":1449026478,
+    "wof:lastmodified":1466215826,
     "wof:name":"B. Staudt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.159847,49.962376,9.159847,49.962376],
+  "bbox": [
+    9.159847,
+    49.962376,
+    9.159847,
+    49.962376
+],
   "geometry": {"coordinates":[9.159847,49.962376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136047917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.324471,51.33717,12.324471,51.33717",
     "geom:latitude":51.33717,
     "geom:longitude":12.324471,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Ferlemann - Stra\u00dfe 22",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136047917,
-    "wof:lastmodified":1449075791,
+    "wof:lastmodified":1466214323,
     "wof:name":"Die Wildeste Region Im Wilden S\u00fcden",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.324471,51.33717,12.324471,51.33717],
+  "bbox": [
+    12.324471,
+    51.33717,
+    12.324471,
+    51.33717
+],
   "geometry": {"coordinates":[12.324471,51.33717],"type":"Point"}
 }

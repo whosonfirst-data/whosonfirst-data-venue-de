@@ -2,13 +2,14 @@
   "id": 152141333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.214266,51.133266,7.214266,51.133266",
     "geom:latitude":51.133266,
     "geom:longitude":7.214266,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilfringhauser Str. 4",
     "sg:city":"Wermelskirchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85795381
+        85633111,
+        85795381,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152141333,
-    "wof:lastmodified":1449045930,
+    "wof:lastmodified":1466230615,
     "wof:name":"Gemeinn\u00fctziger Bauverein Wermelskirchen Eg",
     "wof:parent_id":85795381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.214266,51.133266,7.214266,51.133266],
+  "bbox": [
+    7.214266,
+    51.133266,
+    7.214266,
+    51.133266
+],
   "geometry": {"coordinates":[7.214266,51.133266],"type":"Point"}
 }

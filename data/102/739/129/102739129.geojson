@@ -2,13 +2,14 @@
   "id": 102739129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.66102,51.04213,13.66102,51.04213",
     "geom:latitude":51.04213,
     "geom:longitude":13.66102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilsdruffer Ring 44",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905681,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102739129,
-    "wof:lastmodified":1449068778,
+    "wof:lastmodified":1466217571,
     "wof:name":"Gert Passin So-rex Brandschutzservice",
     "wof:parent_id":85905681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.66102,51.04213,13.66102,51.04213],
+  "bbox": [
+    13.66102,
+    51.04213,
+    13.66102,
+    51.04213
+],
   "geometry": {"coordinates":[13.66102,51.04213],"type":"Point"}
 }

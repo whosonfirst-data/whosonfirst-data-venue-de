@@ -2,13 +2,14 @@
   "id": 202711433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.078227,50.741589,7.078227,50.741589",
     "geom:latitude":50.741589,
     "geom:longitude":7.078227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-B\u00f6ll-Ring 21-23",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202711433,
-    "wof:lastmodified":1449062200,
+    "wof:lastmodified":1466219635,
     "wof:name":"Brenner & Klaudt",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.078227,50.741589,7.078227,50.741589],
+  "bbox": [
+    7.078227,
+    50.741589,
+    7.078227,
+    50.741589
+],
   "geometry": {"coordinates":[7.078227,50.741589],"type":"Point"}
 }

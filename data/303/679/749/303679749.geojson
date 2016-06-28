@@ -2,13 +2,14 @@
   "id": 303679749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.45279,48.197689,11.45279,48.197689",
     "geom:latitude":48.197689,
     "geom:longitude":11.45279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stummerstr. 21",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303679749,
-    "wof:lastmodified":1448999689,
+    "wof:lastmodified":1466239205,
     "wof:name":"Helmuth Gregg",
     "wof:parent_id":85898939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.45279,48.197689,11.45279,48.197689],
+  "bbox": [
+    11.45279,
+    48.197689,
+    11.45279,
+    48.197689
+],
   "geometry": {"coordinates":[11.45279,48.197689],"type":"Point"}
 }

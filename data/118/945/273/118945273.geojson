@@ -2,13 +2,14 @@
   "id": 118945273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.090573,51.16552,7.090573,51.16552",
     "geom:latitude":51.16552,
     "geom:longitude":7.090573,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstr. 19",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795761,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85795761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118945273,
-    "wof:lastmodified":1449053266,
+    "wof:lastmodified":1466237608,
     "wof:name":"S\u00fcd-apotheke",
     "wof:parent_id":85795761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.090573,51.16552,7.090573,51.16552],
+  "bbox": [
+    7.090573,
+    51.16552,
+    7.090573,
+    51.16552
+],
   "geometry": {"coordinates":[7.090573,51.16552],"type":"Point"}
 }

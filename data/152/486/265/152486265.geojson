@@ -2,13 +2,14 @@
   "id": 152486265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.068497,53.563419,10.068497,53.563419",
     "geom:latitude":53.563419,
     "geom:longitude":10.068497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00fcthornstr. 10",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899247,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152486265,
-    "wof:lastmodified":1449046878,
+    "wof:lastmodified":1466219926,
     "wof:name":"Hagel Holding Gmbh & Co. Kg",
     "wof:parent_id":85899247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.068497,53.563419,10.068497,53.563419],
+  "bbox": [
+    10.068497,
+    53.563419,
+    10.068497,
+    53.563419
+],
   "geometry": {"coordinates":[10.068497,53.563419],"type":"Point"}
 }

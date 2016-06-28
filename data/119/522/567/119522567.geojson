@@ -2,13 +2,14 @@
   "id": 119522567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.413101,51.166058,6.413101,51.166058",
     "geom:latitude":51.166058,
     "geom:longitude":6.413101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pongser Str. 203",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795183,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85795183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119522567,
-    "wof:lastmodified":1449042102,
+    "wof:lastmodified":1466243858,
     "wof:name":"Friedhelm Junkers",
     "wof:parent_id":85795183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.413101,51.166058,6.413101,51.166058],
+  "bbox": [
+    6.413101,
+    51.166058,
+    6.413101,
+    51.166058
+],
   "geometry": {"coordinates":[6.413101,51.166058],"type":"Point"}
 }

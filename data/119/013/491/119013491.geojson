@@ -2,13 +2,14 @@
   "id": 119013491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.636865,48.156586,11.636865,48.156586",
     "geom:latitude":48.156586,
     "geom:longitude":11.636865,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Die\u00df-Weg 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899143,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119013491,
-    "wof:lastmodified":1449042693,
+    "wof:lastmodified":1466224532,
     "wof:name":"Fritz D\u00f6bler Architekt",
     "wof:parent_id":85899143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.636865,48.156586,11.636865,48.156586],
+  "bbox": [
+    11.636865,
+    48.156586,
+    11.636865,
+    48.156586
+],
   "geometry": {"coordinates":[11.636865,48.156586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119300045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.485279,52.184536,10.485279,52.184536",
     "geom:latitude":52.184536,
     "geom:longitude":10.485279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 73a",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119300045,
-    "wof:lastmodified":1449042367,
+    "wof:lastmodified":1466237483,
     "wof:name":"Dirk Sievers",
     "wof:parent_id":101748779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.485279,52.184536,10.485279,52.184536],
+  "bbox": [
+    10.485279,
+    52.184536,
+    10.485279,
+    52.184536
+],
   "geometry": {"coordinates":[10.485279,52.184536],"type":"Point"}
 }

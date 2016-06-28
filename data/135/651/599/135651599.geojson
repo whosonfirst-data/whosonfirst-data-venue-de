@@ -2,13 +2,14 @@
   "id": 135651599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58362,51.345879,7.58362,51.345879",
     "geom:latitude":51.345879,
     "geom:longitude":7.58362,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Drostenhof 28",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796017,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85796017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135651599,
-    "wof:lastmodified":1449021575,
+    "wof:lastmodified":1466241171,
     "wof:name":"Stankiewicz Gmbh",
     "wof:parent_id":85796017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58362,51.345879,7.58362,51.345879],
+  "bbox": [
+    7.58362,
+    51.345879,
+    7.58362,
+    51.345879
+],
   "geometry": {"coordinates":[7.58362,51.345879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118737995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.442312,52.5438,13.442312,52.5438",
     "geom:latitude":52.5438,
     "geom:longitude":13.442312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Greifswalder Str. 91",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928743,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118737995,
-    "wof:lastmodified":1449053460,
+    "wof:lastmodified":1466226044,
     "wof:name":"Pflegestation Hauskrankenpflege",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.442312,52.5438,13.442312,52.5438],
+  "bbox": [
+    13.442312,
+    52.5438,
+    13.442312,
+    52.5438
+],
   "geometry": {"coordinates":[13.442312,52.5438],"type":"Point"}
 }

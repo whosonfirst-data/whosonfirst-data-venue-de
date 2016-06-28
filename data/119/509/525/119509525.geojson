@@ -2,13 +2,14 @@
   "id": 119509525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.579415,51.060398,14.579415,51.060398",
     "geom:latitude":51.060398,
     "geom:longitude":14.579415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niederdorfstr. 38",
     "sg:city":"Sch\u00f6nbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119509525,
-    "wof:lastmodified":1449040995,
+    "wof:lastmodified":1466243875,
     "wof:name":"Christian Lehmann",
     "wof:parent_id":101822341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.579415,51.060398,14.579415,51.060398],
+  "bbox": [
+    14.579415,
+    51.060398,
+    14.579415,
+    51.060398
+],
   "geometry": {"coordinates":[14.579415,51.060398],"type":"Point"}
 }

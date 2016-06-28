@@ -2,13 +2,14 @@
   "id": 119013053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402607,49.451069,8.402607,49.451069",
     "geom:latitude":49.451069,
     "geom:longitude":8.402607,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dhauner Str. 64",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862839,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85862839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119013053,
-    "wof:lastmodified":1449042694,
+    "wof:lastmodified":1466224489,
     "wof:name":"Friedrich Thaler",
     "wof:parent_id":85862839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402607,49.451069,8.402607,49.451069],
+  "bbox": [
+    8.402607,
+    49.451069,
+    8.402607,
+    49.451069
+],
   "geometry": {"coordinates":[8.402607,49.451069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119215961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.248872,51.365517,7.248872,51.365517",
     "geom:latitude":51.365517,
     "geom:longitude":7.248872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Von-Galen-Str. 7",
     "sg:city":"Sprockh\u00f6vel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795117
+        85633111,
+        85795117,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119215961,
-    "wof:lastmodified":1449043047,
+    "wof:lastmodified":1466230251,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek St. Januarius",
     "wof:parent_id":85795117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.248872,51.365517,7.248872,51.365517],
+  "bbox": [
+    7.248872,
+    51.365517,
+    7.248872,
+    51.365517
+],
   "geometry": {"coordinates":[7.248872,51.365517],"type":"Point"}
 }

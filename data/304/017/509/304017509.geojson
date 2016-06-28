@@ -2,13 +2,14 @@
   "id": 304017509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625767,48.168777,8.625767,48.168777",
     "geom:latitude":48.168777,
     "geom:longitude":8.625767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruderschaftsgasse 11",
     "sg:city":"Rottweil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304017509,
-    "wof:lastmodified":1449043896,
+    "wof:lastmodified":1466231259,
     "wof:name":"W. Schulig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625767,48.168777,8.625767,48.168777],
+  "bbox": [
+    8.625767,
+    48.168777,
+    8.625767,
+    48.168777
+],
   "geometry": {"coordinates":[8.625767,48.168777],"type":"Point"}
 }

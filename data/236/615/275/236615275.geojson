@@ -2,13 +2,14 @@
   "id": 236615275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.506598,52.274853,10.506598,52.274853",
     "geom:latitude":52.274853,
     "geom:longitude":10.506598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichtalstr. 34",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236615275,
-    "wof:lastmodified":1449002533,
+    "wof:lastmodified":1466230127,
     "wof:name":"Wilhelm Binnewies",
     "wof:parent_id":85905749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.506598,52.274853,10.506598,52.274853],
+  "bbox": [
+    10.506598,
+    52.274853,
+    10.506598,
+    52.274853
+],
   "geometry": {"coordinates":[10.506598,52.274853],"type":"Point"}
 }

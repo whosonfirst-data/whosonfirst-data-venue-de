@@ -2,13 +2,14 @@
   "id": 152958745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.158483,48.721653,9.158483,48.721653",
     "geom:latitude":48.721653,
     "geom:longitude":9.158483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tangegartstra\u00dfe 9",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85862803
+        85633111,
+        85862803,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152958745,
-    "wof:lastmodified":1449047904,
+    "wof:lastmodified":1466230804,
     "wof:name":"Tauchschule Tagomago Diving Ibiza",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.158483,48.721653,9.158483,48.721653],
+  "bbox": [
+    9.158483,
+    48.721653,
+    9.158483,
+    48.721653
+],
   "geometry": {"coordinates":[9.158483,48.721653],"type":"Point"}
 }

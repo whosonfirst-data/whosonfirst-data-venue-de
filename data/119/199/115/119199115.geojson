@@ -2,13 +2,14 @@
   "id": 119199115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.135226,51.500797,7.135226,51.500797",
     "geom:latitude":51.500797,
     "geom:longitude":7.135226,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haidekamp 73",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795595,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85795595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119199115,
-    "wof:lastmodified":1449041113,
+    "wof:lastmodified":1466228689,
     "wof:name":"Fachhochschule F\u00fcr \u00d6ffentliche Verwaltung",
     "wof:parent_id":85795595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.135226,51.500797,7.135226,51.500797],
+  "bbox": [
+    7.135226,
+    51.500797,
+    7.135226,
+    51.500797
+],
   "geometry": {"coordinates":[7.135226,51.500797],"type":"Point"}
 }

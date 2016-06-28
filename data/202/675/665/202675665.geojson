@@ -2,13 +2,14 @@
   "id": 202675665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.23638,49.86549,10.23638,49.86549",
     "geom:latitude":49.86549,
     "geom:longitude":10.23638,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obervolkacher Str. 28",
     "sg:city":"Volkach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202675665,
-    "wof:lastmodified":1449061411,
+    "wof:lastmodified":1466218974,
     "wof:name":"Fred Grimm Steinbildhauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.23638,49.86549,10.23638,49.86549],
+  "bbox": [
+    10.23638,
+    49.86549,
+    10.23638,
+    49.86549
+],
   "geometry": {"coordinates":[10.23638,49.86549],"type":"Point"}
 }

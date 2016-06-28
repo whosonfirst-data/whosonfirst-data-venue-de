@@ -2,13 +2,14 @@
   "id": 203352215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.39548,51.413033,10.39548,51.413033",
     "geom:latitude":51.413033,
     "geom:longitude":10.39548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forststr. 1",
     "sg:city":"Kirchworbis",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203352215,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466219689,
     "wof:name":"G. Fiedler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.39548,51.413033,10.39548,51.413033],
+  "bbox": [
+    10.39548,
+    51.413033,
+    10.39548,
+    51.413033
+],
   "geometry": {"coordinates":[10.39548,51.413033],"type":"Point"}
 }

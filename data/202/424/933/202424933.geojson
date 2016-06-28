@@ -2,13 +2,14 @@
   "id": 202424933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.041117,53.588997,10.041117,53.588997",
     "geom:latitude":53.588997,
     "geom:longitude":10.041117,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcbenkamp 5",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202424933,
-    "wof:lastmodified":1449062487,
+    "wof:lastmodified":1466214204,
     "wof:name":"Wolfgang Bulda",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.041117,53.588997,10.041117,53.588997],
+  "bbox": [
+    10.041117,
+    53.588997,
+    10.041117,
+    53.588997
+],
   "geometry": {"coordinates":[10.041117,53.588997],"type":"Point"}
 }

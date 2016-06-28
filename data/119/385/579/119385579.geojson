@@ -2,13 +2,14 @@
   "id": 119385579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.550505,52.423096,12.550505,52.423096",
     "geom:latitude":52.423096,
     "geom:longitude":12.550505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emsterstr. 1",
     "sg:city":"Brandenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119385579,
-    "wof:lastmodified":1449042441,
+    "wof:lastmodified":1466241034,
     "wof:name":"Walter Schulze",
     "wof:parent_id":101748813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.550505,52.423096,12.550505,52.423096],
+  "bbox": [
+    12.550505,
+    52.423096,
+    12.550505,
+    52.423096
+],
   "geometry": {"coordinates":[12.550505,52.423096],"type":"Point"}
 }

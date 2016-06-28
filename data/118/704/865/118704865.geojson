@@ -2,13 +2,14 @@
   "id": 118704865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.20615,51.222309,7.20615,51.222309",
     "geom:latitude":51.222309,
     "geom:longitude":7.20615,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schenkstr. 129",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796007,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118704865,
-    "wof:lastmodified":1449053514,
+    "wof:lastmodified":1466224196,
     "wof:name":"Evangelische Ambulante Pflegeeinrichtung",
     "wof:parent_id":85796007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.20615,51.222309,7.20615,51.222309],
+  "bbox": [
+    7.20615,
+    51.222309,
+    7.20615,
+    51.222309
+],
   "geometry": {"coordinates":[7.20615,51.222309],"type":"Point"}
 }

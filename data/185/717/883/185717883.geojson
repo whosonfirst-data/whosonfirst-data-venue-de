@@ -2,13 +2,14 @@
   "id": 185717883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.80483,51.023685,13.80483,51.023685",
     "geom:latitude":51.023685,
     "geom:longitude":13.80483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dobritzer Str. 9",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185717883,
-    "wof:lastmodified":1449006624,
+    "wof:lastmodified":1466214325,
     "wof:name":"C. Petzold",
     "wof:parent_id":85899101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.80483,51.023685,13.80483,51.023685],
+  "bbox": [
+    13.80483,
+    51.023685,
+    13.80483,
+    51.023685
+],
   "geometry": {"coordinates":[13.80483,51.023685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203333543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.25584,50.355293,10.25584,50.355293",
     "geom:latitude":50.355293,
     "geom:longitude":10.25584,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vorstr. 23",
     "sg:city":"Heustreu",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203333543,
-    "wof:lastmodified":1449026744,
+    "wof:lastmodified":1466219396,
     "wof:name":"W. George",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.25584,50.355293,10.25584,50.355293],
+  "bbox": [
+    10.25584,
+    50.355293,
+    10.25584,
+    50.355293
+],
   "geometry": {"coordinates":[10.25584,50.355293],"type":"Point"}
 }

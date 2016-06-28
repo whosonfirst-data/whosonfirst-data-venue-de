@@ -2,13 +2,14 @@
   "id": 119004481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.14101,48.731403,9.14101,48.731403",
     "geom:latitude":48.731403,
     "geom:longitude":9.14101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weilstetter Weg 8",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119004481,
-    "wof:lastmodified":1449041752,
+    "wof:lastmodified":1466213924,
     "wof:name":"Ernst Dreher Architekt",
     "wof:parent_id":101748509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.14101,48.731403,9.14101,48.731403],
+  "bbox": [
+    9.14101,
+    48.731403,
+    9.14101,
+    48.731403
+],
   "geometry": {"coordinates":[9.14101,48.731403],"type":"Point"}
 }

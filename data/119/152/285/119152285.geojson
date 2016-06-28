@@ -2,13 +2,14 @@
   "id": 119152285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60951,51.943851,7.60951,51.943851",
     "geom:latitude":51.943851,
     "geom:longitude":7.60951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bischopinkstr. 7 E",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795293,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119152285,
-    "wof:lastmodified":1449042877,
+    "wof:lastmodified":1466224324,
     "wof:name":"Werner L\u00fcmkemann Architekt",
     "wof:parent_id":85795293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60951,51.943851,7.60951,51.943851],
+  "bbox": [
+    7.60951,
+    51.943851,
+    7.60951,
+    51.943851
+],
   "geometry": {"coordinates":[7.60951,51.943851],"type":"Point"}
 }

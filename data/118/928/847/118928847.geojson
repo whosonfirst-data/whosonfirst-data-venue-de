@@ -2,13 +2,14 @@
   "id": 118928847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.622598,52.275936,10.622598,52.275936",
     "geom:latitude":52.275936,
     "geom:longitude":10.622598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosengarten 5-9",
     "sg:city":"Wedel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063903,
-        85633111,
         85682555,
-        85900013
+        85633111,
+        85900013,
+        102063903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118928847,
-    "wof:lastmodified":1449054350,
+    "wof:lastmodified":1466237211,
     "wof:name":"Rosen Apotheke Inh. Helga Abels-kammeyer",
     "wof:parent_id":85900013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.622598,52.275936,10.622598,52.275936],
+  "bbox": [
+    10.622598,
+    52.275936,
+    10.622598,
+    52.275936
+],
   "geometry": {"coordinates":[10.622598,52.275936],"type":"Point"}
 }

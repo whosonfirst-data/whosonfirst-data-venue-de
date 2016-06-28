@@ -2,13 +2,14 @@
   "id": 135937159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.708216,51.98737,7.708216,51.98737",
     "geom:latitude":51.98737,
     "geom:longitude":7.708216,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirschgarten 64",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795427,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135937159,
-    "wof:lastmodified":1449021548,
+    "wof:lastmodified":1466244680,
     "wof:name":"Tenwa Technics Gmbh",
     "wof:parent_id":85795427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.708216,51.98737,7.708216,51.98737],
+  "bbox": [
+    7.708216,
+    51.98737,
+    7.708216,
+    51.98737
+],
   "geometry": {"coordinates":[7.708216,51.98737],"type":"Point"}
 }

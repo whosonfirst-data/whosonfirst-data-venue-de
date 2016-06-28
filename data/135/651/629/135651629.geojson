@@ -2,13 +2,14 @@
   "id": 135651629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.021342,49.501053,11.021342,49.501053",
     "geom:latitude":49.501053,
     "geom:longitude":11.021342,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boxdorfer Str. 7a",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899037,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135651629,
-    "wof:lastmodified":1449021575,
+    "wof:lastmodified":1466241171,
     "wof:name":"Schmidt Ges. F\u00fcr Werkzeug- Und Formentechnik Mbh",
     "wof:parent_id":85899037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.021342,49.501053,11.021342,49.501053],
+  "bbox": [
+    11.021342,
+    49.501053,
+    11.021342,
+    49.501053
+],
   "geometry": {"coordinates":[11.021342,49.501053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135639781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.973133,47.836819,12.973133,47.836819",
     "geom:latitude":47.836819,
     "geom:longitude":12.973133,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Wrede-Str. 11 a",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135639781,
-    "wof:lastmodified":1449023972,
+    "wof:lastmodified":1466240759,
     "wof:name":"Franz Oechsner Gmbh & Co. Kg",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.973133,47.836819,12.973133,47.836819],
+  "bbox": [
+    12.973133,
+    47.836819,
+    12.973133,
+    47.836819
+],
   "geometry": {"coordinates":[12.973133,47.836819],"type":"Point"}
 }

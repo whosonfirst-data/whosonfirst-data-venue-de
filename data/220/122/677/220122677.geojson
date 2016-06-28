@@ -2,13 +2,14 @@
   "id": 220122677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.937239,51.074196,9.937239,51.074196",
     "geom:latitude":51.074196,
     "geom:longitude":9.937239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6ttinger Str. 30",
     "sg:city":"Sontra",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220122677,
-    "wof:lastmodified":1449074507,
+    "wof:lastmodified":1466216933,
     "wof:name":"Klaus Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.937239,51.074196,9.937239,51.074196],
+  "bbox": [
+    9.937239,
+    51.074196,
+    9.937239,
+    51.074196
+],
   "geometry": {"coordinates":[9.937239,51.074196],"type":"Point"}
 }

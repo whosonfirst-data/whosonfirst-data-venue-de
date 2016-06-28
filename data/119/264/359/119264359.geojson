@@ -2,13 +2,14 @@
   "id": 119264359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.360219,50.565071,12.360219,50.565071",
     "geom:latitude":50.565071,
     "geom:longitude":12.360219,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fichtengasse 1",
     "sg:city":"Lengenfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119264359,
-    "wof:lastmodified":1449042611,
+    "wof:lastmodified":1466235059,
     "wof:name":"Dr. Med. Karl Baumann",
     "wof:parent_id":101824507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.360219,50.565071,12.360219,50.565071],
+  "bbox": [
+    12.360219,
+    50.565071,
+    12.360219,
+    50.565071
+],
   "geometry": {"coordinates":[12.360219,50.565071],"type":"Point"}
 }

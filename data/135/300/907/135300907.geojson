@@ -2,13 +2,14 @@
   "id": 135300907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.402377,48.13747,10.402377,48.13747",
     "geom:latitude":48.13747,
     "geom:longitude":10.402377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 1",
     "sg:city":"Breitenbrunn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135300907,
-    "wof:lastmodified":1449022707,
+    "wof:lastmodified":1466213895,
     "wof:name":"Max Fiener",
     "wof:parent_id":101786519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.402377,48.13747,10.402377,48.13747],
+  "bbox": [
+    10.402377,
+    48.13747,
+    10.402377,
+    48.13747
+],
   "geometry": {"coordinates":[10.402377,48.13747],"type":"Point"}
 }

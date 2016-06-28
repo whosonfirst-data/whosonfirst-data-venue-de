@@ -2,13 +2,14 @@
   "id": 119271089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61361,47.596207,7.61361,47.596207",
     "geom:latitude":47.596207,
     "geom:longitude":7.61361,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlstr. 35",
     "sg:city":"Weil am Rhein",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119271089,
-    "wof:lastmodified":1449042238,
+    "wof:lastmodified":1466235672,
     "wof:name":"Gemeinschaftspraxis Dr.brenneisen Und Dr.herold",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.61361,47.596207,7.61361,47.596207],
+  "bbox": [
+    7.61361,
+    47.596207,
+    7.61361,
+    47.596207
+],
   "geometry": {"coordinates":[7.61361,47.596207],"type":"Point"}
 }

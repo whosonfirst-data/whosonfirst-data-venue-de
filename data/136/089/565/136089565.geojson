@@ -2,13 +2,14 @@
   "id": 136089565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.621523,48.197144,11.621523,48.197144",
     "geom:latitude":48.197144,
     "geom:longitude":11.621523,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kulturheimstra\u00dfe 13",
     "sg:city":"muenchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899167,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136089565,
-    "wof:lastmodified":1449075176,
+    "wof:lastmodified":1466216254,
     "wof:name":"Kifo Gmbh - Zuchtperlen - Blackperl -",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.621523,48.197144,11.621523,48.197144],
+  "bbox": [
+    11.621523,
+    48.197144,
+    11.621523,
+    48.197144
+],
   "geometry": {"coordinates":[11.621523,48.197144],"type":"Point"}
 }

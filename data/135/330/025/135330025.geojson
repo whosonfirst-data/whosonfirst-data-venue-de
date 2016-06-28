@@ -2,13 +2,14 @@
   "id": 135330025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.976204,50.647449,11.976204,50.647449",
     "geom:latitude":50.647449,
     "geom:longitude":11.976204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schleizer Str. 43",
     "sg:city":"Zeulenroda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135330025,
-    "wof:lastmodified":1449022520,
+    "wof:lastmodified":1466216345,
     "wof:name":"Wolfgang M\u00fcller",
     "wof:parent_id":101824719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.976204,50.647449,11.976204,50.647449],
+  "bbox": [
+    11.976204,
+    50.647449,
+    11.976204,
+    50.647449
+],
   "geometry": {"coordinates":[11.976204,50.647449],"type":"Point"}
 }

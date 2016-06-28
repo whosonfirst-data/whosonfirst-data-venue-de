@@ -2,13 +2,14 @@
   "id": 118644365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.096783,54.306633,10.096783,54.306633",
     "geom:latitude":54.306633,
     "geom:longitude":10.096783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uhlenkrog 8",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899259,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118644365,
-    "wof:lastmodified":1449053951,
+    "wof:lastmodified":1466220777,
     "wof:name":"St\u00e4dt. Pflegeheim S\u00fcd",
     "wof:parent_id":85899259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.096783,54.306633,10.096783,54.306633],
+  "bbox": [
+    10.096783,
+    54.306633,
+    10.096783,
+    54.306633
+],
   "geometry": {"coordinates":[10.096783,54.306633],"type":"Point"}
 }

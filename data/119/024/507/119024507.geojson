@@ -2,13 +2,14 @@
   "id": 119024507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.373585,51.354225,12.373585,51.354225",
     "geom:latitude":51.354225,
     "geom:longitude":12.373585,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Rothe-Str. 13",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119024507,
-    "wof:lastmodified":1449042114,
+    "wof:lastmodified":1466234936,
     "wof:name":"G\u00fcndler Und Leschnik Gbr",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.373585,51.354225,12.373585,51.354225],
+  "bbox": [
+    12.373585,
+    51.354225,
+    12.373585,
+    51.354225
+],
   "geometry": {"coordinates":[12.373585,51.354225],"type":"Point"}
 }

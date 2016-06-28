@@ -2,13 +2,14 @@
   "id": 136026169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.423874,49.472637,8.423874,49.472637",
     "geom:latitude":49.472637,
     "geom:longitude":8.423874,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Donnersbergweg 1",
     "sg:city":"Ludwigshafen / Rhein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136026169,
-    "wof:lastmodified":1449075698,
+    "wof:lastmodified":1466213317,
     "wof:name":"Anapur Ag Produktionsinformatik",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.423874,49.472637,8.423874,49.472637],
+  "bbox": [
+    8.423874,
+    49.472637,
+    8.423874,
+    49.472637
+],
   "geometry": {"coordinates":[8.423874,49.472637],"type":"Point"}
 }

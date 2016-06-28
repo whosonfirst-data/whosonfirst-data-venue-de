@@ -2,13 +2,14 @@
   "id": 119189703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.49107,51.317146,9.49107,51.317146",
     "geom:latitude":51.317146,
     "geom:longitude":9.49107,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurf\u00fcrstenstr. 9",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119189703,
-    "wof:lastmodified":1449042747,
+    "wof:lastmodified":1466227831,
     "wof:name":"Archiv Der Hessischen Wirtschaft E. V.",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.49107,51.317146,9.49107,51.317146],
+  "bbox": [
+    9.49107,
+    51.317146,
+    9.49107,
+    51.317146
+],
   "geometry": {"coordinates":[9.49107,51.317146],"type":"Point"}
 }

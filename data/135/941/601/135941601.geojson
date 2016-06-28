@@ -2,13 +2,14 @@
   "id": 135941601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.245227,49.130783,9.245227,49.130783",
     "geom:latitude":49.130783,
     "geom:longitude":9.245227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 67",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135941601,
-    "wof:lastmodified":1449022828,
+    "wof:lastmodified":1466244689,
     "wof:name":"Dr. Gessmann Verwaltungs Gmbh",
     "wof:parent_id":101748529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.245227,49.130783,9.245227,49.130783],
+  "bbox": [
+    9.245227,
+    49.130783,
+    9.245227,
+    49.130783
+],
   "geometry": {"coordinates":[9.245227,49.130783],"type":"Point"}
 }

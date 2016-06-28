@@ -2,13 +2,14 @@
   "id": 119345801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.154625,49.908417,9.154625,49.908417",
     "geom:latitude":49.908417,
     "geom:longitude":9.154625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jahnstr. 23",
     "sg:city":"Sulzbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119345801,
-    "wof:lastmodified":1449043324,
+    "wof:lastmodified":1466239722,
     "wof:name":"Josef Trautmann",
     "wof:parent_id":101839935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.154625,49.908417,9.154625,49.908417],
+  "bbox": [
+    9.154625,
+    49.908417,
+    9.154625,
+    49.908417
+],
   "geometry": {"coordinates":[9.154625,49.908417],"type":"Point"}
 }

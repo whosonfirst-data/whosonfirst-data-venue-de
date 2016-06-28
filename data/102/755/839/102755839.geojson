@@ -2,13 +2,14 @@
   "id": 102755839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.560075,51.317039,6.560075,51.317039",
     "geom:latitude":51.317039,
     "geom:longitude":6.560075,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gladbacher Str 232",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795079,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102755839,
-    "wof:lastmodified":1449068464,
+    "wof:lastmodified":1466218584,
     "wof:name":"Elk Gesellschaft F\u00fcr Erstellung, Layout Und Konzeption Elektronischer Systeme Mbh",
     "wof:parent_id":85795079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.560075,51.317039,6.560075,51.317039],
+  "bbox": [
+    6.560075,
+    51.317039,
+    6.560075,
+    51.317039
+],
   "geometry": {"coordinates":[6.560075,51.317039],"type":"Point"}
 }

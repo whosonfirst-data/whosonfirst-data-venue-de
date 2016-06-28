@@ -2,13 +2,14 @@
   "id": 135792255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.689399,48.670906,12.689399,48.670906",
     "geom:latitude":48.670906,
     "geom:longitude":12.689399,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6ckinger Str. 55",
     "sg:city":"Landau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135792255,
-    "wof:lastmodified":1449021632,
+    "wof:lastmodified":1466244049,
     "wof:name":"R. Renkl",
     "wof:parent_id":101844019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.689399,48.670906,12.689399,48.670906],
+  "bbox": [
+    12.689399,
+    48.670906,
+    12.689399,
+    48.670906
+],
   "geometry": {"coordinates":[12.689399,48.670906],"type":"Point"}
 }

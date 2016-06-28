@@ -2,13 +2,14 @@
   "id": 336790655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.430359,48.152508,11.430359,48.152508",
     "geom:latitude":48.152508,
     "geom:longitude":11.430359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aschaffenburger Str. 17",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336790655,
-    "wof:lastmodified":1448997784,
+    "wof:lastmodified":1466237249,
     "wof:name":"Dieter Jakoby",
     "wof:parent_id":85899725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.430359,48.152508,11.430359,48.152508],
+  "bbox": [
+    11.430359,
+    48.152508,
+    11.430359,
+    48.152508
+],
   "geometry": {"coordinates":[11.430359,48.152508],"type":"Point"}
 }

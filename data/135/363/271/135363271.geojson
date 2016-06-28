@@ -2,13 +2,14 @@
   "id": 135363271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.222736,51.287277,7.222736,51.287277",
     "geom:latitude":51.287277,
     "geom:longitude":7.222736,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiescher Str. 15",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135363271,
-    "wof:lastmodified":1449023642,
+    "wof:lastmodified":1466219261,
     "wof:name":"Lothar Wiesemann",
     "wof:parent_id":101748657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.222736,51.287277,7.222736,51.287277],
+  "bbox": [
+    7.222736,
+    51.287277,
+    7.222736,
+    51.287277
+],
   "geometry": {"coordinates":[7.222736,51.287277],"type":"Point"}
 }

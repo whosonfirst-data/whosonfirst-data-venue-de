@@ -2,13 +2,14 @@
   "id": 202906135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.545679,54.518379,9.545679,54.518379",
     "geom:latitude":54.518379,
     "geom:longitude":9.545679,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tiergartenweg 9",
     "sg:city":"Schleswig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202906135,
-    "wof:lastmodified":1449061077,
+    "wof:lastmodified":1466223265,
     "wof:name":"August Callsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.545679,54.518379,9.545679,54.518379],
+  "bbox": [
+    9.545679,
+    54.518379,
+    9.545679,
+    54.518379
+],
   "geometry": {"coordinates":[9.545679,54.518379],"type":"Point"}
 }

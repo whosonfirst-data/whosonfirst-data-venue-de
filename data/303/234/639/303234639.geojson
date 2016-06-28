@@ -2,13 +2,14 @@
   "id": 303234639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.230328,53.526615,10.230328,53.526615",
     "geom:latitude":53.526615,
     "geom:longitude":10.230328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siemensstr. 17",
     "sg:city":"Glinde",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303234639,
-    "wof:lastmodified":1449000433,
+    "wof:lastmodified":1466230293,
     "wof:name":"Berthold Wachtel Gmbh",
     "wof:parent_id":85899553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.230328,53.526615,10.230328,53.526615],
+  "bbox": [
+    10.230328,
+    53.526615,
+    10.230328,
+    53.526615
+],
   "geometry": {"coordinates":[10.230328,53.526615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118775189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.10453,54.142914,12.10453,54.142914",
     "geom:latitude":54.142914,
     "geom:longitude":12.10453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Godeke-Michels-Str. 2-3",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899461,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118775189,
-    "wof:lastmodified":1449054183,
+    "wof:lastmodified":1466228244,
     "wof:name":"Nordlack Gmbh",
     "wof:parent_id":85899461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.10453,54.142914,12.10453,54.142914],
+  "bbox": [
+    12.10453,
+    54.142914,
+    12.10453,
+    54.142914
+],
   "geometry": {"coordinates":[12.10453,54.142914],"type":"Point"}
 }

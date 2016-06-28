@@ -2,13 +2,14 @@
   "id": 253605495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.667441,50.893505,13.667441,50.893505",
     "geom:latitude":50.893505,
     "geom:longitude":13.667441,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenberger Str. 31",
     "sg:city":"Dippoldiswalde",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253605495,
-    "wof:lastmodified":1449064254,
+    "wof:lastmodified":1466231541,
     "wof:name":"B. Geisler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.667441,50.893505,13.667441,50.893505],
+  "bbox": [
+    13.667441,
+    50.893505,
+    13.667441,
+    50.893505
+],
   "geometry": {"coordinates":[13.667441,50.893505],"type":"Point"}
 }

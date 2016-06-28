@@ -2,13 +2,14 @@
   "id": 152905277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.224489,51.478996,7.224489,51.478996",
     "geom:latitude":51.478996,
     "geom:longitude":7.224489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-Schumacher-Platz 13-15",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152905277,
-    "wof:lastmodified":1449046111,
+    "wof:lastmodified":1466229550,
     "wof:name":"Presse Und Buch Im Bahnhof - Bochum",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.224489,51.478996,7.224489,51.478996],
+  "bbox": [
+    7.224489,
+    51.478996,
+    7.224489,
+    51.478996
+],
   "geometry": {"coordinates":[7.224489,51.478996],"type":"Point"}
 }

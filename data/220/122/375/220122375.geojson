@@ -2,13 +2,14 @@
   "id": 220122375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.079669,50.001568,12.079669,50.001568",
     "geom:latitude":50.001568,
     "geom:longitude":12.079669,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klingerstr. 31",
     "sg:city":"Marktredwitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220122375,
-    "wof:lastmodified":1449074506,
+    "wof:lastmodified":1466216926,
     "wof:name":"K. Hager Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.079669,50.001568,12.079669,50.001568],
+  "bbox": [
+    12.079669,
+    50.001568,
+    12.079669,
+    50.001568
+],
   "geometry": {"coordinates":[12.079669,50.001568],"type":"Point"}
 }

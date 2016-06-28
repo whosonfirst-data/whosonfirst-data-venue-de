@@ -2,13 +2,14 @@
   "id": 119024441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165261,48.791943,9.165261,48.791943",
     "geom:latitude":48.791943,
     "geom:longitude":9.165261,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schottstr. 43",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119024441,
-    "wof:lastmodified":1449042112,
+    "wof:lastmodified":1466234932,
     "wof:name":"G\u00f6tz Schulz Und Haas Architekten",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165261,48.791943,9.165261,48.791943],
+  "bbox": [
+    9.165261,
+    48.791943,
+    9.165261,
+    48.791943
+],
   "geometry": {"coordinates":[9.165261,48.791943],"type":"Point"}
 }

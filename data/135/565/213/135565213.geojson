@@ -2,13 +2,14 @@
   "id": 135565213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68992,50.114712,8.68992,50.114712",
     "geom:latitude":50.114712,
     "geom:longitude":8.68992,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeil 29-31",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135565213,
-    "wof:lastmodified":1449023736,
+    "wof:lastmodified":1466237029,
     "wof:name":"Bauinform Gesellschaft F\u00fcr Bauinformation Mbh",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68992,50.114712,8.68992,50.114712],
+  "bbox": [
+    8.68992,
+    50.114712,
+    8.68992,
+    50.114712
+],
   "geometry": {"coordinates":[8.68992,50.114712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102628939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.454229,51.213955,6.454229,51.213955",
     "geom:latitude":51.213955,
     "geom:longitude":6.454229,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcchtelner Str. 87",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795179,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85795179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102628939,
-    "wof:lastmodified":1449069717,
+    "wof:lastmodified":1466214040,
     "wof:name":"Verschleisschutz Und Gummitechnik Gmbh",
     "wof:parent_id":85795179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.454229,51.213955,6.454229,51.213955],
+  "bbox": [
+    6.454229,
+    51.213955,
+    6.454229,
+    51.213955
+],
   "geometry": {"coordinates":[6.454229,51.213955],"type":"Point"}
 }

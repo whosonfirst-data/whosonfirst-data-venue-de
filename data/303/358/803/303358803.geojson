@@ -2,13 +2,14 @@
   "id": 303358803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.909031,48.354668,10.909031,48.354668",
     "geom:latitude":48.354668,
     "geom:longitude":10.909031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rehmstr. 4",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303358803,
-    "wof:lastmodified":1448999150,
+    "wof:lastmodified":1466233328,
     "wof:name":"L. Hirschbeck",
     "wof:parent_id":85900105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.909031,48.354668,10.909031,48.354668],
+  "bbox": [
+    10.909031,
+    48.354668,
+    10.909031,
+    48.354668
+],
   "geometry": {"coordinates":[10.909031,48.354668],"type":"Point"}
 }

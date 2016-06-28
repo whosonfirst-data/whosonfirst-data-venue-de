@@ -2,13 +2,14 @@
   "id": 135287841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.252292,49.435684,11.252292,49.435684",
     "geom:latitude":49.435684,
     "geom:longitude":11.252292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunner Hauptstr. 20",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063495,
-        85633111,
         85682571,
-        85899685
+        85633111,
+        85899685,
+        102063495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135287841,
-    "wof:lastmodified":1449021175,
+    "wof:lastmodified":1466234620,
     "wof:name":"Karl Beck",
     "wof:parent_id":85899685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.252292,49.435684,11.252292,49.435684],
+  "bbox": [
+    11.252292,
+    49.435684,
+    11.252292,
+    49.435684
+],
   "geometry": {"coordinates":[11.252292,49.435684],"type":"Point"}
 }

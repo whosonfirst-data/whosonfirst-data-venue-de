@@ -2,13 +2,14 @@
   "id": 135807739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.13144,48.346149,12.13144,48.346149",
     "geom:latitude":48.346149,
     "geom:longitude":12.13144,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hierlhof 3",
     "sg:city":"Taufkirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135807739,
-    "wof:lastmodified":1449021768,
+    "wof:lastmodified":1466244116,
     "wof:name":"Bob Gmbh",
     "wof:parent_id":101785421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.13144,48.346149,12.13144,48.346149],
+  "bbox": [
+    12.13144,
+    48.346149,
+    12.13144,
+    48.346149
+],
   "geometry": {"coordinates":[12.13144,48.346149],"type":"Point"}
 }

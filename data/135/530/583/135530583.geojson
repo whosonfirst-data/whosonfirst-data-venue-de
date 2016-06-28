@@ -2,13 +2,14 @@
   "id": 135530583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.050389,49.340939,11.050389,49.340939",
     "geom:latitude":49.340939,
     "geom:longitude":11.050389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rednitzhang 9",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899347,
+        85682571,
         85633111,
         101833013,
         102063417,
-        85682571
+        85899347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135530583,
-    "wof:lastmodified":1449022620,
+    "wof:lastmodified":1466234427,
     "wof:name":"Mertens Bau Gmbh",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.050389,49.340939,11.050389,49.340939],
+  "bbox": [
+    11.050389,
+    49.340939,
+    11.050389,
+    49.340939
+],
   "geometry": {"coordinates":[11.050389,49.340939],"type":"Point"}
 }

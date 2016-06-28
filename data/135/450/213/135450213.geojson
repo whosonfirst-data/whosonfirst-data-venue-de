@@ -2,13 +2,14 @@
   "id": 135450213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.879565,49.485775,10.879565,49.485775",
     "geom:latitude":49.485775,
     "geom:longitude":10.879565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrther Str 6",
     "sg:city":"Seukendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135450213,
-    "wof:lastmodified":1449023547,
+    "wof:lastmodified":1466227207,
     "wof:name":"Vereinigte Sparkasse Im Landkreis F",
     "wof:parent_id":101826753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.879565,49.485775,10.879565,49.485775],
+  "bbox": [
+    10.879565,
+    49.485775,
+    10.879565,
+    49.485775
+],
   "geometry": {"coordinates":[10.879565,49.485775],"type":"Point"}
 }

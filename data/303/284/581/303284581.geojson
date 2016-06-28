@@ -2,13 +2,14 @@
   "id": 303284581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.383356,48.184101,11.383356,48.184101",
     "geom:latitude":48.184101,
     "geom:longitude":11.383356,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedenstr. 7",
     "sg:city":"Gr\u00f6benzell",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303284581,
-    "wof:lastmodified":1448999636,
+    "wof:lastmodified":1466231506,
     "wof:name":"Johann Baumeister",
     "wof:parent_id":85899549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.383356,48.184101,11.383356,48.184101],
+  "bbox": [
+    11.383356,
+    48.184101,
+    11.383356,
+    48.184101
+],
   "geometry": {"coordinates":[11.383356,48.184101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203228509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.606441,52.030201,10.606441,52.030201",
     "geom:latitude":52.030201,
     "geom:longitude":10.606441,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrhofstr. 6",
     "sg:city":"Hornburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203228509,
-    "wof:lastmodified":1449025503,
+    "wof:lastmodified":1466217681,
     "wof:name":"Edgar Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.606441,52.030201,10.606441,52.030201],
+  "bbox": [
+    10.606441,
+    52.030201,
+    10.606441,
+    52.030201
+],
   "geometry": {"coordinates":[10.606441,52.030201],"type":"Point"}
 }

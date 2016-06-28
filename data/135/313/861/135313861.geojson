@@ -2,13 +2,14 @@
   "id": 135313861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.406041,48.998829,8.406041,48.998829",
     "geom:latitude":48.998829,
     "geom:longitude":8.406041,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 75",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135313861,
-    "wof:lastmodified":1449021065,
+    "wof:lastmodified":1466214950,
     "wof:name":"Rudolf Salzmann",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.406041,48.998829,8.406041,48.998829],
+  "bbox": [
+    8.406041,
+    48.998829,
+    8.406041,
+    48.998829
+],
   "geometry": {"coordinates":[8.406041,48.998829],"type":"Point"}
 }

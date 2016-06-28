@@ -2,13 +2,14 @@
   "id": 236003457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54709,49.319405,8.54709,49.319405",
     "geom:latitude":49.319405,
     "geom:longitude":8.54709,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hauptstr. 4",
     "sg:city":"Hockenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236003457,
-    "wof:lastmodified":1449004940,
+    "wof:lastmodified":1466235217,
     "wof:name":"Stadtmitte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54709,49.319405,8.54709,49.319405],
+  "bbox": [
+    8.54709,
+    49.319405,
+    8.54709,
+    49.319405
+],
   "geometry": {"coordinates":[8.54709,49.319405],"type":"Point"}
 }

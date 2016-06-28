@@ -2,13 +2,14 @@
   "id": 135709813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.101557,52.249393,8.101557,52.249393",
     "geom:latitude":52.249393,
     "geom:longitude":8.101557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinesch 1",
     "sg:city":"Osnabr\u00fcck",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135709813,
-    "wof:lastmodified":1449021577,
+    "wof:lastmodified":1466242705,
     "wof:name":"Schatthaus Gmbh",
     "wof:parent_id":101748795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.101557,52.249393,8.101557,52.249393],
+  "bbox": [
+    8.101557,
+    52.249393,
+    8.101557,
+    52.249393
+],
   "geometry": {"coordinates":[8.101557,52.249393],"type":"Point"}
 }

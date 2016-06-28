@@ -2,13 +2,14 @@
   "id": 152620165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.894467,51.431107,6.894467,51.431107",
     "geom:latitude":51.431107,
     "geom:longitude":6.894467,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hingbergstr. 101",
     "sg:city":"M\u00fclheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863049,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85863049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152620165,
-    "wof:lastmodified":1449048524,
+    "wof:lastmodified":1466222926,
     "wof:name":"Kurt Schm\u00fcck Management Verwaltungs Gmbh",
     "wof:parent_id":85863049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.894467,51.431107,6.894467,51.431107],
+  "bbox": [
+    6.894467,
+    51.431107,
+    6.894467,
+    51.431107
+],
   "geometry": {"coordinates":[6.894467,51.431107],"type":"Point"}
 }

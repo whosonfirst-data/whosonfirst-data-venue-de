@@ -2,13 +2,14 @@
   "id": 185709581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154359,50.685085,7.154359,50.685085",
     "geom:latitude":50.685085,
     "geom:longitude":7.154359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Koblenzer Str. 33",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185709581,
-    "wof:lastmodified":1449006933,
+    "wof:lastmodified":1466214244,
     "wof:name":"Messegue Bonsage",
     "wof:parent_id":85795333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154359,50.685085,7.154359,50.685085],
+  "bbox": [
+    7.154359,
+    50.685085,
+    7.154359,
+    50.685085
+],
   "geometry": {"coordinates":[7.154359,50.685085],"type":"Point"}
 }

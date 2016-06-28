@@ -2,13 +2,14 @@
   "id": 303392845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.289501,48.814522,9.289501,48.814522",
     "geom:latitude":48.814522,
     "geom:longitude":9.289501,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Maybach-Str. 3",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303392845,
-    "wof:lastmodified":1449000078,
+    "wof:lastmodified":1466234223,
     "wof:name":"Burkert & Miller Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.289501,48.814522,9.289501,48.814522],
+  "bbox": [
+    9.289501,
+    48.814522,
+    9.289501,
+    48.814522
+],
   "geometry": {"coordinates":[9.289501,48.814522],"type":"Point"}
 }

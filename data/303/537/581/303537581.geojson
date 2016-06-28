@@ -2,13 +2,14 @@
   "id": 303537581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.176157,48.740192,9.176157,48.740192",
     "geom:latitude":48.740192,
     "geom:longitude":9.176157,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfullinger Str. 95",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303537581,
-    "wof:lastmodified":1448998711,
+    "wof:lastmodified":1466237274,
     "wof:name":"Verlag Stuttgarter Musik-kalender",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.176157,48.740192,9.176157,48.740192],
+  "bbox": [
+    9.176157,
+    48.740192,
+    9.176157,
+    48.740192
+],
   "geometry": {"coordinates":[9.176157,48.740192],"type":"Point"}
 }

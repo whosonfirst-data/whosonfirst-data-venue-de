@@ -2,13 +2,14 @@
   "id": 135323715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.040602,50.979305,7.040602,50.979305",
     "geom:latitude":50.979305,
     "geom:longitude":7.040602,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sigwinstr. 119",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795075,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135323715,
-    "wof:lastmodified":1449021265,
+    "wof:lastmodified":1466215828,
     "wof:name":"Walter Kleinen",
     "wof:parent_id":85795075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.040602,50.979305,7.040602,50.979305],
+  "bbox": [
+    7.040602,
+    50.979305,
+    7.040602,
+    50.979305
+],
   "geometry": {"coordinates":[7.040602,50.979305],"type":"Point"}
 }

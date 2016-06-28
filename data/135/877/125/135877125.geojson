@@ -2,13 +2,14 @@
   "id": 135877125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.526025,51.598328,7.526025,51.598328",
     "geom:latitude":51.598328,
     "geom:longitude":7.526025,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Meier-Str. 42",
     "sg:city":"L\u00fcnen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795795,
+        85682513,
         85633111,
         101748737,
         102063823,
-        85682513
+        85795795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135877125,
-    "wof:lastmodified":1449023124,
+    "wof:lastmodified":1466244419,
     "wof:name":"Artos Beteiligungs- Und Management Gmbh",
     "wof:parent_id":85795795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.526025,51.598328,7.526025,51.598328],
+  "bbox": [
+    7.526025,
+    51.598328,
+    7.526025,
+    51.598328
+],
   "geometry": {"coordinates":[7.526025,51.598328],"type":"Point"}
 }

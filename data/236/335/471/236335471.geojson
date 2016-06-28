@@ -2,13 +2,14 @@
   "id": 236335471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.809633,50.630505,12.809633,50.630505",
     "geom:latitude":50.630505,
     "geom:longitude":12.809633,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Gasse 24",
     "sg:city":"Zw\u00f6nitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236335471,
-    "wof:lastmodified":1449003902,
+    "wof:lastmodified":1466225011,
     "wof:name":"Hermann Maier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.809633,50.630505,12.809633,50.630505],
+  "bbox": [
+    12.809633,
+    50.630505,
+    12.809633,
+    50.630505
+],
   "geometry": {"coordinates":[12.809633,50.630505],"type":"Point"}
 }

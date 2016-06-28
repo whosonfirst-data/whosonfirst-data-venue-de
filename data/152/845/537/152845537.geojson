@@ -2,13 +2,14 @@
   "id": 152845537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.279816,48.732471,2.279816,48.732471",
     "geom:latitude":48.732471,
     "geom:longitude":2.279816,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"1 rue Gabriel P\u00e9ri",
     "sg:city":"Massy",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"91300",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152845537,
-    "wof:lastmodified":1449045056,
+    "wof:lastmodified":1466228099,
     "wof:name":"H\u00f4tel ** Restaurant Relais De Massy",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.279816,48.732471,2.279816,48.732471],
+  "bbox": [
+    2.279816,
+    48.732471,
+    2.279816,
+    48.732471
+],
   "geometry": {"coordinates":[2.279816,48.732471],"type":"Point"}
 }

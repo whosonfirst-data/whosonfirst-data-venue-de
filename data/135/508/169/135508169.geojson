@@ -2,13 +2,14 @@
   "id": 135508169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.466951,49.019272,8.466951,49.019272",
     "geom:latitude":49.019272,
     "geom:longitude":8.466951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Storrenacker 5",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135508169,
-    "wof:lastmodified":1449022696,
+    "wof:lastmodified":1466232361,
     "wof:name":"Emil Steidinger Inh. Heinz Steidinger",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.466951,49.019272,8.466951,49.019272],
+  "bbox": [
+    8.466951,
+    49.019272,
+    8.466951,
+    49.019272
+],
   "geometry": {"coordinates":[8.466951,49.019272],"type":"Point"}
 }

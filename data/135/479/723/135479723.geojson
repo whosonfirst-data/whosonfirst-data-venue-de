@@ -2,13 +2,14 @@
   "id": 135479723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.836558,47.684319,9.836558,47.684319",
     "geom:latitude":47.684319,
     "geom:longitude":9.836558,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebnetstr. 1",
     "sg:city":"Wangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135479723,
-    "wof:lastmodified":1449023067,
+    "wof:lastmodified":1466229787,
     "wof:name":"Papillon",
     "wof:parent_id":101765299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.836558,47.684319,9.836558,47.684319],
+  "bbox": [
+    9.836558,
+    47.684319,
+    9.836558,
+    47.684319
+],
   "geometry": {"coordinates":[9.836558,47.684319],"type":"Point"}
 }

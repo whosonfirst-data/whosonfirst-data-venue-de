@@ -2,13 +2,14 @@
   "id": 135508029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.169676,51.184765,7.169676,51.184765",
     "geom:latitude":51.184765,
     "geom:longitude":7.169676,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hindenburgstr. 127",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796263,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85796263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135508029,
-    "wof:lastmodified":1449022695,
+    "wof:lastmodified":1466232348,
     "wof:name":"Wilhelm Rehbold",
     "wof:parent_id":85796263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.169676,51.184765,7.169676,51.184765],
+  "bbox": [
+    7.169676,
+    51.184765,
+    7.169676,
+    51.184765
+],
   "geometry": {"coordinates":[7.169676,51.184765],"type":"Point"}
 }

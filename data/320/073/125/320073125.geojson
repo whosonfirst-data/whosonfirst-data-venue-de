@@ -2,13 +2,14 @@
   "id": 320073125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.212522,53.541565,10.212522,53.541565",
     "geom:latitude":53.541565,
     "geom:longitude":10.212522,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markt 10",
     "sg:city":"Glinde",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320073125,
-    "wof:lastmodified":1449011769,
+    "wof:lastmodified":1466235107,
     "wof:name":"Eis Am Markt",
     "wof:parent_id":85899553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.212522,53.541565,10.212522,53.541565],
+  "bbox": [
+    10.212522,
+    53.541565,
+    10.212522,
+    53.541565
+],
   "geometry": {"coordinates":[10.212522,53.541565],"type":"Point"}
 }

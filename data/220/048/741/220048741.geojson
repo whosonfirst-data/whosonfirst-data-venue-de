@@ -2,13 +2,14 @@
   "id": 220048741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.279264,47.407009,10.279264,47.407009",
     "geom:latitude":47.407009,
     "geom:longitude":10.279264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oststr. 1",
     "sg:city":"Oberstdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220048741,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466215529,
     "wof:name":"Cafe Franziskus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.279264,47.407009,10.279264,47.407009],
+  "bbox": [
+    10.279264,
+    47.407009,
+    10.279264,
+    47.407009
+],
   "geometry": {"coordinates":[10.279264,47.407009],"type":"Point"}
 }

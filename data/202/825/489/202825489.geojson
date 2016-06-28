@@ -2,13 +2,14 @@
   "id": 202825489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.998921,49.463539,10.998921,49.463539",
     "geom:latitude":49.463539,
     "geom:longitude":10.998921,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fl\u00f6\u00dfaustr. 145",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202825489,
-    "wof:lastmodified":1449060194,
+    "wof:lastmodified":1466221700,
     "wof:name":"T. Krauss",
     "wof:parent_id":85899305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.998921,49.463539,10.998921,49.463539],
+  "bbox": [
+    10.998921,
+    49.463539,
+    10.998921,
+    49.463539
+],
   "geometry": {"coordinates":[10.998921,49.463539],"type":"Point"}
 }

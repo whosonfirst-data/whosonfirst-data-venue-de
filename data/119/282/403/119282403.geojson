@@ -2,13 +2,14 @@
   "id": 119282403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.525303,52.261143,10.525303,52.261143",
     "geom:latitude":52.261143,
     "geom:longitude":10.525303,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stobenstr. 14",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898957,
+        85682555,
         85633111,
         101748797,
         102063903,
-        85682555
+        85898957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119282403,
-    "wof:lastmodified":1449042535,
+    "wof:lastmodified":1466236527,
     "wof:name":"Augenoptik Albrecht Hoffmann Inh. Ute Kaleta",
     "wof:parent_id":85898957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.525303,52.261143,10.525303,52.261143],
+  "bbox": [
+    10.525303,
+    52.261143,
+    10.525303,
+    52.261143
+],
   "geometry": {"coordinates":[10.525303,52.261143],"type":"Point"}
 }

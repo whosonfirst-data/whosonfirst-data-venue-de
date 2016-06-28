@@ -2,13 +2,14 @@
   "id": 119061915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.544998,48.156197,11.544998,48.156197",
     "geom:latitude":48.156197,
     "geom:longitude":11.544998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilblestr. 38",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119061915,
-    "wof:lastmodified":1449042796,
+    "wof:lastmodified":1466216526,
     "wof:name":"Iradj Pedram Architekt",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.544998,48.156197,11.544998,48.156197],
+  "bbox": [
+    11.544998,
+    48.156197,
+    11.544998,
+    48.156197
+],
   "geometry": {"coordinates":[11.544998,48.156197],"type":"Point"}
 }

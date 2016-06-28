@@ -2,13 +2,14 @@
   "id": 136100669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.378507,51.34317,12.378507,51.34317",
     "geom:latitude":51.34317,
     "geom:longitude":12.378507,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nikolaistr.",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136100669,
-    "wof:lastmodified":1449075902,
+    "wof:lastmodified":1466216786,
     "wof:name":"Opus 61",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.378507,51.34317,12.378507,51.34317],
+  "bbox": [
+    12.378507,
+    51.34317,
+    12.378507,
+    51.34317
+],
   "geometry": {"coordinates":[12.378507,51.34317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118977715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.439282,51.382328,7.439282,51.382328",
     "geom:latitude":51.382328,
     "geom:longitude":7.439282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulmenstr. 38",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063767,
-        85633111,
         85682513,
-        85796663
+        85633111,
+        85796663,
+        102063767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118977715,
-    "wof:lastmodified":1449054587,
+    "wof:lastmodified":1466238994,
     "wof:name":"Arnold Harder Architekt",
     "wof:parent_id":85796663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.439282,51.382328,7.439282,51.382328],
+  "bbox": [
+    7.439282,
+    51.382328,
+    7.439282,
+    51.382328
+],
   "geometry": {"coordinates":[7.439282,51.382328],"type":"Point"}
 }

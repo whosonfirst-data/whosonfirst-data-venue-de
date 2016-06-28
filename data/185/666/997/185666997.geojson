@@ -2,13 +2,14 @@
   "id": 185666997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.100385,49.436413,11.100385,49.436413",
     "geom:latitude":49.436413,
     "geom:longitude":11.100385,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rankestr. 43",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185666997,
-    "wof:lastmodified":1449007190,
+    "wof:lastmodified":1466213805,
     "wof:name":"Maria Keller",
     "wof:parent_id":85899611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.100385,49.436413,11.100385,49.436413],
+  "bbox": [
+    11.100385,
+    49.436413,
+    11.100385,
+    49.436413
+],
   "geometry": {"coordinates":[11.100385,49.436413],"type":"Point"}
 }

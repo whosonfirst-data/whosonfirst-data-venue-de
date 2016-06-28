@@ -2,13 +2,14 @@
   "id": 135433045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.171698,49.730717,12.171698,49.730717",
     "geom:latitude":49.730717,
     "geom:longitude":12.171698,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtplatz 16",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135433045,
-    "wof:lastmodified":1449021342,
+    "wof:lastmodified":1466225661,
     "wof:name":"Schmidt Bank",
     "wof:parent_id":101842229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.171698,49.730717,12.171698,49.730717],
+  "bbox": [
+    12.171698,
+    49.730717,
+    12.171698,
+    49.730717
+],
   "geometry": {"coordinates":[12.171698,49.730717],"type":"Point"}
 }

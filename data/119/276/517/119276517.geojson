@@ -2,13 +2,14 @@
   "id": 119276517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.570207,48.135403,11.570207,48.135403",
     "geom:latitude":48.135403,
     "geom:longitude":11.570207,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sendlinger Str. 24",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119276517,
-    "wof:lastmodified":1449040981,
+    "wof:lastmodified":1466236134,
     "wof:name":"Prof. Dr. Dr. Roman Schubert Zahnarzt",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.570207,48.135403,11.570207,48.135403],
+  "bbox": [
+    11.570207,
+    48.135403,
+    11.570207,
+    48.135403
+],
   "geometry": {"coordinates":[11.570207,48.135403],"type":"Point"}
 }

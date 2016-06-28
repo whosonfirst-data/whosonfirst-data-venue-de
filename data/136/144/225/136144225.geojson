@@ -2,13 +2,14 @@
   "id": 136144225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.06112,51.546246,7.06112,51.546246",
     "geom:latitude":51.546246,
     "geom:longitude":7.06112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"agnesstr",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794823,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136144225,
-    "wof:lastmodified":1449075893,
+    "wof:lastmodified":1466218581,
     "wof:name":"Wasseragamen",
     "wof:parent_id":85794823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.06112,51.546246,7.06112,51.546246],
+  "bbox": [
+    7.06112,
+    51.546246,
+    7.06112,
+    51.546246
+],
   "geometry": {"coordinates":[7.06112,51.546246],"type":"Point"}
 }

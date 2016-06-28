@@ -2,13 +2,14 @@
   "id": 135753343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.705129,51.030308,13.705129,51.030308",
     "geom:latitude":51.030308,
     "geom:longitude":13.705129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zwickauer Str. 127",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523,
+        85899545,
         85899075
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135753343,
-    "wof:lastmodified":1449021344,
+    "wof:lastmodified":1466243600,
     "wof:name":"Simones Young Fashion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.705129,51.030308,13.705129,51.030308],
+  "bbox": [
+    13.705129,
+    51.030308,
+    13.705129,
+    51.030308
+],
   "geometry": {"coordinates":[13.705129,51.030308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152767283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.86821,53.609322,9.86821,53.609322",
     "geom:latitude":53.609322,
     "geom:longitude":9.86821,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franzosenkoppel 134",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899067,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152767283,
-    "wof:lastmodified":1449045620,
+    "wof:lastmodified":1466226278,
     "wof:name":"Cd-herstellung",
     "wof:parent_id":85899067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.86821,53.609322,9.86821,53.609322],
+  "bbox": [
+    9.86821,
+    53.609322,
+    9.86821,
+    53.609322
+],
   "geometry": {"coordinates":[9.86821,53.609322],"type":"Point"}
 }

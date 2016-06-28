@@ -2,13 +2,14 @@
   "id": 119106415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.698003,50.119587,8.698003,50.119587",
     "geom:latitude":50.119587,
     "geom:longitude":8.698003,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantstr. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119106415,
-    "wof:lastmodified":1449040849,
+    "wof:lastmodified":1466220633,
     "wof:name":"Peter Atzm\u00fcller Architekt",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.698003,50.119587,8.698003,50.119587],
+  "bbox": [
+    8.698003,
+    50.119587,
+    8.698003,
+    50.119587
+],
   "geometry": {"coordinates":[8.698003,50.119587],"type":"Point"}
 }

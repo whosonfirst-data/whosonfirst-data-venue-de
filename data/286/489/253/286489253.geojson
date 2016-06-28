@@ -2,13 +2,14 @@
   "id": 286489253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.178227,52.535816,13.178227,52.535816",
     "geom:latitude":52.535816,
     "geom:longitude":13.178227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Staakener Str. 24-27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286489253,
-    "wof:lastmodified":1449016792,
+    "wof:lastmodified":1466229878,
     "wof:name":"Andreas Barthel Gmbh",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.178227,52.535816,13.178227,52.535816],
+  "bbox": [
+    13.178227,
+    52.535816,
+    13.178227,
+    52.535816
+],
   "geometry": {"coordinates":[13.178227,52.535816],"type":"Point"}
 }

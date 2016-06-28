@@ -2,13 +2,14 @@
   "id": 135367889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.862553,51.226048,6.862553,51.226048",
     "geom:latitude":51.226048,
     "geom:longitude":6.862553,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heyestr. 99",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795051,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135367889,
-    "wof:lastmodified":1449022802,
+    "wof:lastmodified":1466219729,
     "wof:name":"Rhein. Gemeindeunfallvers. Verband",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.862553,51.226048,6.862553,51.226048],
+  "bbox": [
+    6.862553,
+    51.226048,
+    6.862553,
+    51.226048
+],
   "geometry": {"coordinates":[6.862553,51.226048],"type":"Point"}
 }

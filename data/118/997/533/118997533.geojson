@@ -2,13 +2,14 @@
   "id": 118997533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.710112,51.096375,13.710112,51.096375",
     "geom:latitude":51.096375,
     "geom:longitude":13.710112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenhofstr. 48",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900153,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118997533,
-    "wof:lastmodified":1449054309,
+    "wof:lastmodified":1466239966,
     "wof:name":"Dr. Karin Ferstl Architektin",
     "wof:parent_id":85900153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.710112,51.096375,13.710112,51.096375],
+  "bbox": [
+    13.710112,
+    51.096375,
+    13.710112,
+    51.096375
+],
   "geometry": {"coordinates":[13.710112,51.096375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118789249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.820182,50.900162,6.820182,50.900162",
     "geom:latitude":50.900162,
     "geom:longitude":6.820182,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mauritiusstr. 48",
     "sg:city":"Frechen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063709,
-        85633111,
         85682513,
-        85795937
+        85633111,
+        85795937,
+        102063709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118789249,
-    "wof:lastmodified":1449053771,
+    "wof:lastmodified":1466229119,
     "wof:name":"Reinhold Rick Antiquit\u00e4ten",
     "wof:parent_id":85795937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.820182,50.900162,6.820182,50.900162],
+  "bbox": [
+    6.820182,
+    50.900162,
+    6.820182,
+    50.900162
+],
   "geometry": {"coordinates":[6.820182,50.900162],"type":"Point"}
 }

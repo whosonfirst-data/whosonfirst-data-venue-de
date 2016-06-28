@@ -2,13 +2,14 @@
   "id": 118565951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.204359,48.794369,9.204359,48.794369",
     "geom:latitude":48.794369,
     "geom:longitude":9.204359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neckarstr 240",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118565951,
-    "wof:lastmodified":1449054422,
+    "wof:lastmodified":1466216220,
     "wof:name":"Genter & Partner Werbeagentur Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.204359,48.794369,9.204359,48.794369],
+  "bbox": [
+    9.204359,
+    48.794369,
+    9.204359,
+    48.794369
+],
   "geometry": {"coordinates":[9.204359,48.794369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118992763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.719974,51.030441,13.719974,51.030441",
     "geom:latitude":51.030441,
     "geom:longitude":13.719974,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bamberger Str. 52",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899929,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118992763,
-    "wof:lastmodified":1449053804,
+    "wof:lastmodified":1466240006,
     "wof:name":"Dieter Schr\u00f6delsecker Architekt",
     "wof:parent_id":85899929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.719974,51.030441,13.719974,51.030441],
+  "bbox": [
+    13.719974,
+    51.030441,
+    13.719974,
+    51.030441
+],
   "geometry": {"coordinates":[13.719974,51.030441],"type":"Point"}
 }

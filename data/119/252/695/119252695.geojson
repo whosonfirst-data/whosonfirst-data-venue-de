@@ -2,13 +2,14 @@
   "id": 119252695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.03422,54.101238,13.03422,54.101238",
     "geom:latitude":54.101238,
     "geom:longitude":13.03422,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-van-Beethoven-Str. 8",
     "sg:city":"Grimmen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119252695,
-    "wof:lastmodified":1449041184,
+    "wof:lastmodified":1466233868,
     "wof:name":"Siegfried Mehler",
     "wof:parent_id":101817457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.03422,54.101238,13.03422,54.101238],
+  "bbox": [
+    13.03422,
+    54.101238,
+    13.03422,
+    54.101238
+],
   "geometry": {"coordinates":[13.03422,54.101238],"type":"Point"}
 }

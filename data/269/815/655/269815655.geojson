@@ -2,13 +2,14 @@
   "id": 269815655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.136519,53.408298,10.136519,53.408298",
     "geom:latitude":53.408298,
     "geom:longitude":10.136519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steller Chaussee 11",
     "sg:city":"Stelle",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269815655,
-    "wof:lastmodified":1449037310,
+    "wof:lastmodified":1466228783,
     "wof:name":"Werner Timmann",
     "wof:parent_id":85899319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.136519,53.408298,10.136519,53.408298],
+  "bbox": [
+    10.136519,
+    53.408298,
+    10.136519,
+    53.408298
+],
   "geometry": {"coordinates":[10.136519,53.408298],"type":"Point"}
 }

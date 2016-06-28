@@ -2,13 +2,14 @@
   "id": 286633005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.449785,49.481544,8.449785,49.481544",
     "geom:latitude":49.481544,
     "geom:longitude":8.449785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwigstr. 55",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286633005,
-    "wof:lastmodified":1449018060,
+    "wof:lastmodified":1466233500,
     "wof:name":"Batteiger Lotterie",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.449785,49.481544,8.449785,49.481544],
+  "bbox": [
+    8.449785,
+    49.481544,
+    8.449785,
+    49.481544
+],
   "geometry": {"coordinates":[8.449785,49.481544],"type":"Point"}
 }

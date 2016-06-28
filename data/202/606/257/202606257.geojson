@@ -2,13 +2,14 @@
   "id": 202606257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.425811,51.906502,10.425811,51.906502",
     "geom:latitude":51.906502,
     "geom:longitude":10.425811,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marstallstr. 1",
     "sg:city":"Goslar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202606257,
-    "wof:lastmodified":1449060494,
+    "wof:lastmodified":1466217727,
     "wof:name":"Brauhaus Wolpertinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.425811,51.906502,10.425811,51.906502],
+  "bbox": [
+    10.425811,
+    51.906502,
+    10.425811,
+    51.906502
+],
   "geometry": {"coordinates":[10.425811,51.906502],"type":"Point"}
 }

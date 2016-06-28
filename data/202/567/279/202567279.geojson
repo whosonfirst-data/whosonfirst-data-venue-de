@@ -2,13 +2,14 @@
   "id": 202567279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.56197,51.349751,7.56197,51.349751",
     "geom:latitude":51.349751,
     "geom:longitude":7.56197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Raffenbergstr. 10 b",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202567279,
-    "wof:lastmodified":1449062666,
+    "wof:lastmodified":1466216982,
     "wof:name":"Henny Schmidt",
     "wof:parent_id":85796017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.56197,51.349751,7.56197,51.349751],
+  "bbox": [
+    7.56197,
+    51.349751,
+    7.56197,
+    51.349751
+],
   "geometry": {"coordinates":[7.56197,51.349751],"type":"Point"}
 }

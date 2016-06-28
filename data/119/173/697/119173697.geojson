@@ -2,13 +2,14 @@
   "id": 119173697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.945289,50.930466,6.945289,50.930466",
     "geom:latitude":50.930466,
     "geom:longitude":6.945289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weyerstr. 48-52",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795597,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119173697,
-    "wof:lastmodified":1449041331,
+    "wof:lastmodified":1466226317,
     "wof:name":"Planungs- Ag F\u00fcr Bauwesen Neufert Mittmann Graf Partner",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.945289,50.930466,6.945289,50.930466],
+  "bbox": [
+    6.945289,
+    50.930466,
+    6.945289,
+    50.930466
+],
   "geometry": {"coordinates":[6.945289,50.930466],"type":"Point"}
 }

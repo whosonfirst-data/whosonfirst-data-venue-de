@@ -2,13 +2,14 @@
   "id": 135681691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.86316,48.361004,10.86316,48.361004",
     "geom:latitude":48.361004,
     "geom:longitude":10.86316,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrgermeister-Bohl-Str. 17",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135681691,
-    "wof:lastmodified":1449022873,
+    "wof:lastmodified":1466241872,
     "wof:name":"H2b-holz Handel Burgard Gmbh",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.86316,48.361004,10.86316,48.361004],
+  "bbox": [
+    10.86316,
+    48.361004,
+    10.86316,
+    48.361004
+],
   "geometry": {"coordinates":[10.86316,48.361004],"type":"Point"}
 }

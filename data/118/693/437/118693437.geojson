@@ -2,13 +2,14 @@
   "id": 118693437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.07725,49.330791,12.07725,49.330791",
     "geom:latitude":49.330791,
     "geom:longitude":12.07725,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ettmannsdorfer Str. 19-21",
     "sg:city":"Schwandorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118693437,
-    "wof:lastmodified":1449053226,
+    "wof:lastmodified":1466223543,
     "wof:name":"Caritas Sozialstation",
     "wof:parent_id":101780749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.07725,49.330791,12.07725,49.330791],
+  "bbox": [
+    12.07725,
+    49.330791,
+    12.07725,
+    49.330791
+],
   "geometry": {"coordinates":[12.07725,49.330791],"type":"Point"}
 }

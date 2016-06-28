@@ -2,13 +2,14 @@
   "id": 136102033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46804,32.832561,-97.46804,32.832561",
     "geom:latitude":32.832561,
     "geom:longitude":-97.46804,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinh\u00e4user Str.2",
     "sg:city":"Karlruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871641,
+        85688753,
         85633793,
         101724443,
         102083201,
-        85688753
+        85871641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136102033,
-    "wof:lastmodified":1449076174,
+    "wof:lastmodified":1466216840,
     "wof:name":"Paradies-oral",
     "wof:parent_id":85871641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.46804,32.832561,-97.46804,32.832561],
+  "bbox": [
+    -97.46804,
+    32.832561,
+    -97.46804,
+    32.832561
+],
   "geometry": {"coordinates":[-97.46804,32.832561],"type":"Point"}
 }

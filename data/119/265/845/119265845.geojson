@@ -2,13 +2,14 @@
   "id": 119265845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.592512,50.945911,11.592512,50.945911",
     "geom:latitude":50.945911,
     "geom:longitude":11.592512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kiesh\u00fcgel 18",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119265845,
-    "wof:lastmodified":1449041689,
+    "wof:lastmodified":1466235183,
     "wof:name":"Dr. Med. Manfred Mohorn",
     "wof:parent_id":101748613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.592512,50.945911,11.592512,50.945911],
+  "bbox": [
+    11.592512,
+    50.945911,
+    11.592512,
+    50.945911
+],
   "geometry": {"coordinates":[11.592512,50.945911],"type":"Point"}
 }

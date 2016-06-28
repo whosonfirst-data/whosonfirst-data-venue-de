@@ -2,13 +2,14 @@
   "id": 136050951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.798804,51.044991,13.798804,51.044991",
     "geom:latitude":51.044991,
     "geom:longitude":13.798804,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augsburger Stra\u00dfe 78 - 80",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899013,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136050951,
-    "wof:lastmodified":1449075654,
+    "wof:lastmodified":1466214463,
     "wof:name":"Dresdner Autohaus Mazda Neuwagen Gebrauchtwagen",
     "wof:parent_id":85899013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.798804,51.044991,13.798804,51.044991],
+  "bbox": [
+    13.798804,
+    51.044991,
+    13.798804,
+    51.044991
+],
   "geometry": {"coordinates":[13.798804,51.044991],"type":"Point"}
 }

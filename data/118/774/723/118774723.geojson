@@ -2,13 +2,14 @@
   "id": 118774723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.33204,49.19735,11.33204,49.19735",
     "geom:latitude":49.19735,
     "geom:longitude":11.33204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berchinger Str. 1",
     "sg:city":"Freystadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118774723,
-    "wof:lastmodified":1449053695,
+    "wof:lastmodified":1466228211,
     "wof:name":"Georg Vogl",
     "wof:parent_id":101782067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.33204,49.19735,11.33204,49.19735],
+  "bbox": [
+    11.33204,
+    49.19735,
+    11.33204,
+    49.19735
+],
   "geometry": {"coordinates":[11.33204,49.19735],"type":"Point"}
 }

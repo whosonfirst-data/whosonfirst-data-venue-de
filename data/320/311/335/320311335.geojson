@@ -2,13 +2,14 @@
   "id": 320311335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.162695,48.761456,9.162695,48.761456",
     "geom:latitude":48.761456,
     "geom:longitude":9.162695,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6heimstra\u00dfe 37",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320311335,
-    "wof:lastmodified":1449012140,
+    "wof:lastmodified":1466239091,
     "wof:name":"Marienhospital Stuttgart",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.162695,48.761456,9.162695,48.761456],
+  "bbox": [
+    9.162695,
+    48.761456,
+    9.162695,
+    48.761456
+],
   "geometry": {"coordinates":[9.162695,48.761456],"type":"Point"}
 }

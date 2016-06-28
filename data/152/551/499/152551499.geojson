@@ -2,13 +2,14 @@
   "id": 152551499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.103183,49.442001,11.103183,49.442001",
     "geom:latitude":49.442001,
     "geom:longitude":11.103183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharrerstr. 5",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152551499,
-    "wof:lastmodified":1449045229,
+    "wof:lastmodified":1466221376,
     "wof:name":"Lachner Automobile Gmbh",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.103183,49.442001,11.103183,49.442001],
+  "bbox": [
+    11.103183,
+    49.442001,
+    11.103183,
+    49.442001
+],
   "geometry": {"coordinates":[11.103183,49.442001],"type":"Point"}
 }

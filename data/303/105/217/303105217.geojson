@@ -2,13 +2,14 @@
   "id": 303105217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.953835,50.785664,12.953835,50.785664",
     "geom:latitude":50.785664,
     "geom:longitude":12.953835,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der \u00d6lm\u00fchle 4",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303105217,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466227101,
     "wof:name":"Peter Delling",
     "wof:parent_id":85899099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.953835,50.785664,12.953835,50.785664],
+  "bbox": [
+    12.953835,
+    50.785664,
+    12.953835,
+    50.785664
+],
   "geometry": {"coordinates":[12.953835,50.785664],"type":"Point"}
 }

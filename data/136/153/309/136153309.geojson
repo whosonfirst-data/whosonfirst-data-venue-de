@@ -2,13 +2,14 @@
   "id": 136153309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.715093,53.86372,10.715093,53.86372",
     "geom:latitude":53.86372,
     "geom:longitude":10.715093,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Passarge-Stra\u00dfe 2",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905713,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85905713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136153309,
-    "wof:lastmodified":1449075844,
+    "wof:lastmodified":1466218964,
     "wof:name":"Wohnen Ist Leben L\u00fcbecker Bauverein",
     "wof:parent_id":85905713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.715093,53.86372,10.715093,53.86372],
+  "bbox": [
+    10.715093,
+    53.86372,
+    10.715093,
+    53.86372
+],
   "geometry": {"coordinates":[10.715093,53.86372],"type":"Point"}
 }

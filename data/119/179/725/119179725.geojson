@@ -2,13 +2,14 @@
   "id": 119179725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.729667,52.376629,9.729667,52.376629",
     "geom:latitude":52.376629,
     "geom:longitude":9.729667,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stiftstr. 15",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899535,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119179725,
-    "wof:lastmodified":1449043256,
+    "wof:lastmodified":1466226922,
     "wof:name":"Bernhard Borchers Ingenieurb\u00fcro",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.729667,52.376629,9.729667,52.376629],
+  "bbox": [
+    9.729667,
+    52.376629,
+    9.729667,
+    52.376629
+],
   "geometry": {"coordinates":[9.729667,52.376629],"type":"Point"}
 }

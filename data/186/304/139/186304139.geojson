@@ -2,13 +2,14 @@
   "id": 186304139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.602627,50.849579,11.602627,50.849579",
     "geom:latitude":50.849579,
     "geom:longitude":11.602627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-Striegler-Str. 1",
     "sg:city":"Rothenstein",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186304139,
-    "wof:lastmodified":1449052344,
+    "wof:lastmodified":1466216389,
     "wof:name":"Roland Hochstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.602627,50.849579,11.602627,50.849579],
+  "bbox": [
+    11.602627,
+    50.849579,
+    11.602627,
+    50.849579
+],
   "geometry": {"coordinates":[11.602627,50.849579],"type":"Point"}
 }

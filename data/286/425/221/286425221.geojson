@@ -2,13 +2,14 @@
   "id": 286425221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.420196,49.466324,8.420196,49.466324",
     "geom:latitude":49.466324,
     "geom:longitude":8.420196,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pinienstr. 82",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286425221,
-    "wof:lastmodified":1449016218,
+    "wof:lastmodified":1466228371,
     "wof:name":"Hermann Schroth",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.420196,49.466324,8.420196,49.466324],
+  "bbox": [
+    8.420196,
+    49.466324,
+    8.420196,
+    49.466324
+],
   "geometry": {"coordinates":[8.420196,49.466324],"type":"Point"}
 }

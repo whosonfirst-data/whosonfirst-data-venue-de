@@ -2,13 +2,14 @@
   "id": 286404107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.159243,53.407845,10.159243,53.407845",
     "geom:latitude":53.407845,
     "geom:longitude":10.159243,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In de Wisch 6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286404107,
-    "wof:lastmodified":1449017141,
+    "wof:lastmodified":1466227876,
     "wof:name":"Heinz Siemers",
     "wof:parent_id":85899319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.159243,53.407845,10.159243,53.407845],
+  "bbox": [
+    10.159243,
+    53.407845,
+    10.159243,
+    53.407845
+],
   "geometry": {"coordinates":[10.159243,53.407845],"type":"Point"}
 }

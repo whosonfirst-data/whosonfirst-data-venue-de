@@ -2,13 +2,14 @@
   "id": 119001913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.093432,48.723663,9.093432,48.723663",
     "geom:latitude":48.723663,
     "geom:longitude":9.093432,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zu den Tannen 4",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85795041
+        85633111,
+        85795041,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119001913,
-    "wof:lastmodified":1449041411,
+    "wof:lastmodified":1466213202,
     "wof:name":"Ekkehard Wei\u00dfe Architekt",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.093432,48.723663,9.093432,48.723663],
+  "bbox": [
+    9.093432,
+    48.723663,
+    9.093432,
+    48.723663
+],
   "geometry": {"coordinates":[9.093432,48.723663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303385985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.740455,52.731583,10.740455,52.731583",
     "geom:latitude":52.731583,
     "geom:longitude":10.740455,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berkenbuschstr. 4",
     "sg:city":"Wittingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303385985,
-    "wof:lastmodified":1448999571,
+    "wof:lastmodified":1466234044,
     "wof:name":"W. Fehse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.740455,52.731583,10.740455,52.731583],
+  "bbox": [
+    10.740455,
+    52.731583,
+    10.740455,
+    52.731583
+],
   "geometry": {"coordinates":[10.740455,52.731583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135474161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.699196,50.586575,12.699196,50.586575",
     "geom:latitude":50.586575,
     "geom:longitude":12.699196,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auerhammerstr. 4",
     "sg:city":"Aue",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135474161,
-    "wof:lastmodified":1449021106,
+    "wof:lastmodified":1466229209,
     "wof:name":"Auer Tagesbar",
     "wof:parent_id":101841197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.699196,50.586575,12.699196,50.586575],
+  "bbox": [
+    12.699196,
+    50.586575,
+    12.699196,
+    50.586575
+],
   "geometry": {"coordinates":[12.699196,50.586575],"type":"Point"}
 }

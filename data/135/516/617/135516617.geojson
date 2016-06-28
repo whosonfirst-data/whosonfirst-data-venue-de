@@ -2,13 +2,14 @@
   "id": 135516617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.02562,50.722351,7.02562,50.722351",
     "geom:latitude":50.722351,
     "geom:longitude":7.02562,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Rathaus 7",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795871,
+        85682513,
         85633111,
         101755969,
         102063683,
-        85682513
+        85795871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135516617,
-    "wof:lastmodified":1449021555,
+    "wof:lastmodified":1466233154,
     "wof:name":"Alterer Wohnungsbauges. Mbh",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.02562,50.722351,7.02562,50.722351],
+  "bbox": [
+    7.02562,
+    50.722351,
+    7.02562,
+    50.722351
+],
   "geometry": {"coordinates":[7.02562,50.722351],"type":"Point"}
 }

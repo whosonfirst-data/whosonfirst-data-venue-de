@@ -2,13 +2,14 @@
   "id": 202706555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.577096,48.124416,11.577096,48.124416",
     "geom:latitude":48.124416,
     "geom:longitude":11.577096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albanistr. 5",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202706555,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1466219539,
     "wof:name":"Hans Pr\u00e4hofer Kunstmaler",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.577096,48.124416,11.577096,48.124416],
+  "bbox": [
+    11.577096,
+    48.124416,
+    11.577096,
+    48.124416
+],
   "geometry": {"coordinates":[11.577096,48.124416],"type":"Point"}
 }

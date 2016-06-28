@@ -2,13 +2,14 @@
   "id": 136240035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.788381,51.487911,6.788381,51.487911",
     "geom:latitude":51.487911,
     "geom:longitude":6.788381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Duisburger Str. 66",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795415,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136240035,
-    "wof:lastmodified":1449075039,
+    "wof:lastmodified":1466223599,
     "wof:name":"Mei\u00dfner",
     "wof:parent_id":85795415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.788381,51.487911,6.788381,51.487911],
+  "bbox": [
+    6.788381,
+    51.487911,
+    6.788381,
+    51.487911
+],
   "geometry": {"coordinates":[6.788381,51.487911],"type":"Point"}
 }

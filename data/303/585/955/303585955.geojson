@@ -2,13 +2,14 @@
   "id": 303585955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.034937,49.469189,10.034937,49.469189",
     "geom:latitude":49.469189,
     "geom:longitude":10.034937,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rothenburger Str. 24",
     "sg:city":"Creglingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303585955,
-    "wof:lastmodified":1448999744,
+    "wof:lastmodified":1466237712,
     "wof:name":"Dieter Baier Masseur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.034937,49.469189,10.034937,49.469189],
+  "bbox": [
+    10.034937,
+    49.469189,
+    10.034937,
+    49.469189
+],
   "geometry": {"coordinates":[10.034937,49.469189],"type":"Point"}
 }

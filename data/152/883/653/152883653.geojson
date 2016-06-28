@@ -2,13 +2,14 @@
   "id": 152883653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.58027,48.139099,11.58027,48.139099",
     "geom:latitude":48.139099,
     "geom:longitude":11.58027,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 45 01 05",
     "sg:city":"Muenchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"80901",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905601,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152883653,
-    "wof:lastmodified":1449047824,
+    "wof:lastmodified":1466228986,
     "wof:name":"Naildesign Nailartdesign",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.58027,48.139099,11.58027,48.139099],
+  "bbox": [
+    11.58027,
+    48.139099,
+    11.58027,
+    48.139099
+],
   "geometry": {"coordinates":[11.58027,48.139099],"type":"Point"}
 }

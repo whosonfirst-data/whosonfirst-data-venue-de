@@ -2,13 +2,14 @@
   "id": 152677697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.330843,52.501808,13.330843,52.501808",
     "geom:latitude":52.501808,
     "geom:longitude":13.330843,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Joachimstaler Str. 15",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152677697,
-    "wof:lastmodified":1449045973,
+    "wof:lastmodified":1466224165,
     "wof:name":"Project Nature Ag",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.330843,52.501808,13.330843,52.501808],
+  "bbox": [
+    13.330843,
+    52.501808,
+    13.330843,
+    52.501808
+],
   "geometry": {"coordinates":[13.330843,52.501808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152614955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.609075,49.895252,8.609075,49.895252",
     "geom:latitude":49.895252,
     "geom:longitude":8.609075,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Schaefer-Str. 1",
     "sg:city":"Weiterstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152614955,
-    "wof:lastmodified":1449049025,
+    "wof:lastmodified":1466222811,
     "wof:name":"Zahn Verwaltungs- Gmbh",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.609075,49.895252,8.609075,49.895252],
+  "bbox": [
+    8.609075,
+    49.895252,
+    8.609075,
+    49.895252
+],
   "geometry": {"coordinates":[8.609075,49.895252],"type":"Point"}
 }

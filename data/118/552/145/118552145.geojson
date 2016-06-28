@@ -2,13 +2,14 @@
   "id": 118552145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.081252,49.853127,9.081252,49.853127",
     "geom:latitude":49.853127,
     "geom:longitude":9.081252,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kettelerstr. 10",
     "sg:city":"M\u00f6mlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118552145,
-    "wof:lastmodified":1449053717,
+    "wof:lastmodified":1466215473,
     "wof:name":"Biohof Vogel",
     "wof:parent_id":101813241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.081252,49.853127,9.081252,49.853127],
+  "bbox": [
+    9.081252,
+    49.853127,
+    9.081252,
+    49.853127
+],
   "geometry": {"coordinates":[9.081252,49.853127],"type":"Point"}
 }

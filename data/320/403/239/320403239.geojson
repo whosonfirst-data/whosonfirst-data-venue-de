@@ -2,13 +2,14 @@
   "id": 320403239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.67986,52.12307,11.67986,52.12307",
     "geom:latitude":52.12307,
     "geom:longitude":11.67986,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ranieser Weg 8",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320403239,
-    "wof:lastmodified":1449014450,
+    "wof:lastmodified":1466240162,
     "wof:name":"Weinhold",
     "wof:parent_id":85899397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.67986,52.12307,11.67986,52.12307],
+  "bbox": [
+    11.67986,
+    52.12307,
+    11.67986,
+    52.12307
+],
   "geometry": {"coordinates":[11.67986,52.12307],"type":"Point"}
 }

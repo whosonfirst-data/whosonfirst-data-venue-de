@@ -2,13 +2,14 @@
   "id": 202710073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.611871,52.099525,11.611871,52.099525",
     "geom:latitude":52.099525,
     "geom:longitude":11.611871,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lilienweg 25",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202710073,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466219609,
     "wof:name":"Harri Schneider",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.611871,52.099525,11.611871,52.099525],
+  "bbox": [
+    11.611871,
+    52.099525,
+    11.611871,
+    52.099525
+],
   "geometry": {"coordinates":[11.611871,52.099525],"type":"Point"}
 }

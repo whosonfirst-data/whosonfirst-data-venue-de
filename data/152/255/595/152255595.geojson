@@ -2,13 +2,14 @@
   "id": 152255595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.419675,49.47699,8.419675,49.47699",
     "geom:latitude":49.47699,
     "geom:longitude":8.419675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayreuther Str. 13",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152255595,
-    "wof:lastmodified":1449046419,
+    "wof:lastmodified":1466215200,
     "wof:name":"Hhs Handels-gmbh",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.419675,49.47699,8.419675,49.47699],
+  "bbox": [
+    8.419675,
+    49.47699,
+    8.419675,
+    49.47699
+],
   "geometry": {"coordinates":[8.419675,49.47699],"type":"Point"}
 }

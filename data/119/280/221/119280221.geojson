@@ -2,13 +2,14 @@
   "id": 119280221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.614955,52.529976,13.614955,52.529976",
     "geom:latitude":52.529976,
     "geom:longitude":13.614955,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00f6belner Str 2a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119280221,
-    "wof:lastmodified":1449042142,
+    "wof:lastmodified":1466236660,
     "wof:name":"Bta Video Marketing Gmbh",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.614955,52.529976,13.614955,52.529976],
+  "bbox": [
+    13.614955,
+    52.529976,
+    13.614955,
+    52.529976
+],
   "geometry": {"coordinates":[13.614955,52.529976],"type":"Point"}
 }

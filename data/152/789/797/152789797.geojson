@@ -2,13 +2,14 @@
   "id": 152789797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.579911,52.420795,13.579911,52.420795",
     "geom:latitude":52.420795,
     "geom:longitude":13.579911,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsseestr. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900229,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152789797,
-    "wof:lastmodified":1449046397,
+    "wof:lastmodified":1466226809,
     "wof:name":"Dienstleistungen Am Bau , B2b Und B2c",
     "wof:parent_id":85900229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.579911,52.420795,13.579911,52.420795],
+  "bbox": [
+    13.579911,
+    52.420795,
+    13.579911,
+    52.420795
+],
   "geometry": {"coordinates":[13.579911,52.420795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135623027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.983591,49.599697,10.983591,49.599697",
     "geom:latitude":49.599697,
     "geom:longitude":10.983591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schinnererstr. 2a",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135623027,
-    "wof:lastmodified":1449023116,
+    "wof:lastmodified":1466240154,
     "wof:name":"Robert Zitzmann",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.983591,49.599697,10.983591,49.599697],
+  "bbox": [
+    10.983591,
+    49.599697,
+    10.983591,
+    49.599697
+],
   "geometry": {"coordinates":[10.983591,49.599697],"type":"Point"}
 }

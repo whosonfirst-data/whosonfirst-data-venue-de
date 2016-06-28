@@ -2,13 +2,14 @@
   "id": 119505927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.169976,54.323586,10.169976,54.323586",
     "geom:latitude":54.323586,
     "geom:longitude":10.169976,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nberger Str. 138a",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899097,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119505927,
-    "wof:lastmodified":1449043084,
+    "wof:lastmodified":1466243691,
     "wof:name":"B\u00e4ckerei Erichsen",
     "wof:parent_id":85899097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.169976,54.323586,10.169976,54.323586],
+  "bbox": [
+    10.169976,
+    54.323586,
+    10.169976,
+    54.323586
+],
   "geometry": {"coordinates":[10.169976,54.323586],"type":"Point"}
 }

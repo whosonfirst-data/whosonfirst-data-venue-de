@@ -2,13 +2,14 @@
   "id": 135932867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.666948,53.870407,10.666948,53.870407",
     "geom:latitude":53.870407,
     "geom:longitude":10.666948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelstr. 2",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900237,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135932867,
-    "wof:lastmodified":1449022118,
+    "wof:lastmodified":1466244683,
     "wof:name":"Erste Verwaltungs- Und Beteiligungs-gmbh",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.666948,53.870407,10.666948,53.870407],
+  "bbox": [
+    10.666948,
+    53.870407,
+    10.666948,
+    53.870407
+],
   "geometry": {"coordinates":[10.666948,53.870407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253154213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.456103,48.711155,11.456103,48.711155",
     "geom:latitude":48.711155,
     "geom:longitude":11.456103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebenhausener Str. 1",
     "sg:city":"Manching",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253154213,
-    "wof:lastmodified":1449065840,
+    "wof:lastmodified":1466222262,
     "wof:name":"Herbert Schweiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.456103,48.711155,11.456103,48.711155],
+  "bbox": [
+    11.456103,
+    48.711155,
+    11.456103,
+    48.711155
+],
   "geometry": {"coordinates":[11.456103,48.711155],"type":"Point"}
 }

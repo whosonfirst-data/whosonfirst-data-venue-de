@@ -2,13 +2,14 @@
   "id": 303864499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.556247,52.52285,13.556247,52.52285",
     "geom:latitude":52.52285,
     "geom:longitude":13.556247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buschiner Str. 1",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303864499,
-    "wof:lastmodified":1449000596,
+    "wof:lastmodified":1466240856,
     "wof:name":"Katrin Bahnemann",
     "wof:parent_id":85905651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.556247,52.52285,13.556247,52.52285],
+  "bbox": [
+    13.556247,
+    52.52285,
+    13.556247,
+    52.52285
+],
   "geometry": {"coordinates":[13.556247,52.52285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152463389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.543295,48.060783,11.543295,48.060783",
     "geom:latitude":48.060783,
     "geom:longitude":11.543295,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forsthausstr. 1",
     "sg:city":"Gr\u00fcnwald",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900073,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152463389,
-    "wof:lastmodified":1449047514,
+    "wof:lastmodified":1466219432,
     "wof:name":"Bcl Beteiligungs- Gmbh",
     "wof:parent_id":85900073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.543295,48.060783,11.543295,48.060783],
+  "bbox": [
+    11.543295,
+    48.060783,
+    11.543295,
+    48.060783
+],
   "geometry": {"coordinates":[11.543295,48.060783],"type":"Point"}
 }

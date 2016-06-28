@@ -2,13 +2,14 @@
   "id": 118621707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.168084,49.810612,9.168084,49.810612",
     "geom:latitude":49.810612,
     "geom:longitude":9.168084,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krankenhausstr. 39",
     "sg:city":"Erlenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118621707,
-    "wof:lastmodified":1449054382,
+    "wof:lastmodified":1466219508,
     "wof:name":"Bayerisches Rotes Kreuz Pflegeheim",
     "wof:parent_id":101839919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.168084,49.810612,9.168084,49.810612],
+  "bbox": [
+    9.168084,
+    49.810612,
+    9.168084,
+    49.810612
+],
   "geometry": {"coordinates":[9.168084,49.810612],"type":"Point"}
 }

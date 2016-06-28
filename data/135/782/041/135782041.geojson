@@ -2,13 +2,14 @@
   "id": 135782041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.555557,48.129234,11.555557,48.129234",
     "geom:latitude":48.129234,
     "geom:longitude":11.555557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzog-Heinrich-Str. 32",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900137,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135782041,
-    "wof:lastmodified":1449020972,
+    "wof:lastmodified":1466243930,
     "wof:name":"G. Weinzierl",
     "wof:parent_id":85900137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.555557,48.129234,11.555557,48.129234],
+  "bbox": [
+    11.555557,
+    48.129234,
+    11.555557,
+    48.129234
+],
   "geometry": {"coordinates":[11.555557,48.129234],"type":"Point"}
 }

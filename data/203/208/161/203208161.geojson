@@ -2,13 +2,14 @@
   "id": 203208161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.660275,48.140987,11.660275,48.140987",
     "geom:latitude":48.140987,
     "geom:longitude":11.660275,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Turfstr. 18",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203208161,
-    "wof:lastmodified":1449025162,
+    "wof:lastmodified":1466217347,
     "wof:name":"Lang",
     "wof:parent_id":85899077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.660275,48.140987,11.660275,48.140987],
+  "bbox": [
+    11.660275,
+    48.140987,
+    11.660275,
+    48.140987
+],
   "geometry": {"coordinates":[11.660275,48.140987],"type":"Point"}
 }

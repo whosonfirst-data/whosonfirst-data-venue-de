@@ -2,13 +2,14 @@
   "id": 135794075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.134649,51.48111,7.134649,51.48111",
     "geom:latitude":51.48111,
     "geom:longitude":7.134649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiheitstr. 1",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795855,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135794075,
-    "wof:lastmodified":1449022471,
+    "wof:lastmodified":1466244061,
     "wof:name":"Schweinberger Gmbh & Co. Kg",
     "wof:parent_id":85795855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.134649,51.48111,7.134649,51.48111],
+  "bbox": [
+    7.134649,
+    51.48111,
+    7.134649,
+    51.48111
+],
   "geometry": {"coordinates":[7.134649,51.48111],"type":"Point"}
 }

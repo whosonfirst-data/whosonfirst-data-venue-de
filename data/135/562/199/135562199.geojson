@@ -2,13 +2,14 @@
   "id": 135562199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.358842,52.525757,13.358842,52.525757",
     "geom:latitude":52.525757,
     "geom:longitude":13.358842,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Claire-Waldoff-Promenade 17",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135562199,
-    "wof:lastmodified":1449022611,
+    "wof:lastmodified":1466236676,
     "wof:name":"Geap Gesellschaft Zur Ent- Wicklung Und Aufbereitung Von",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.358842,52.525757,13.358842,52.525757],
+  "bbox": [
+    13.358842,
+    52.525757,
+    13.358842,
+    52.525757
+],
   "geometry": {"coordinates":[13.358842,52.525757],"type":"Point"}
 }

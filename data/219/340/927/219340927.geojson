@@ -2,13 +2,14 @@
   "id": 219340927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.389801,39.918011,-75.389801,39.918011",
     "geom:latitude":39.918011,
     "geom:longitude":-75.389801,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siedlung 21",
     "sg:city":"G\u00f6rslow",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219340927,
-    "wof:lastmodified":1449073129,
+    "wof:lastmodified":1466217688,
     "wof:name":"Bauunternehmen Pegel & Niemann Gmbh",
     "wof:parent_id":85806865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.389801,39.918011,-75.389801,39.918011],
-  "geometry": {"coordinates":[-75.389801,39.918011],"type":"Point"}
+  "bbox": [
+    -75.389801,
+    39.918011,
+    -75.389801,
+    39.918011
+],
+  "geometry": {"coordinates":[-75.38980100000001,39.918011],"type":"Point"}
 }

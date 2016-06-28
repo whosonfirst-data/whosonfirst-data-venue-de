@@ -2,13 +2,14 @@
   "id": 135306749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.1405,49.976768,9.1405,49.976768",
     "geom:latitude":49.976768,
     "geom:longitude":9.1405,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfgasse 24",
     "sg:city":"Aschaffenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135306749,
-    "wof:lastmodified":1449023862,
+    "wof:lastmodified":1466214352,
     "wof:name":"Peter Denk",
     "wof:parent_id":101748567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.1405,49.976768,9.1405,49.976768],
+  "bbox": [
+    9.1405,
+    49.976768,
+    9.1405,
+    49.976768
+],
   "geometry": {"coordinates":[9.1405,49.976768],"type":"Point"}
 }

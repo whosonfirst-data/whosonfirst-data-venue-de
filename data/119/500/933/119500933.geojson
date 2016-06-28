@@ -2,13 +2,14 @@
   "id": 119500933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.032925,49.808231,11.032925,49.808231",
     "geom:latitude":49.808231,
     "geom:longitude":11.032925,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fasanenweg 6",
     "sg:city":"Buttenheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119500933,
-    "wof:lastmodified":1449041460,
+    "wof:lastmodified":1466243655,
     "wof:name":"Arthur Schilling",
     "wof:parent_id":101827147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.032925,49.808231,11.032925,49.808231],
+  "bbox": [
+    11.032925,
+    49.808231,
+    11.032925,
+    49.808231
+],
   "geometry": {"coordinates":[11.032925,49.808231],"type":"Point"}
 }

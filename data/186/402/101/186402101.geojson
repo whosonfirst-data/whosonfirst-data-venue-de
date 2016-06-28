@@ -2,13 +2,14 @@
   "id": 186402101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.1706,48.699013,10.1706,48.699013",
     "geom:latitude":48.699013,
     "geom:longitude":10.1706,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenbergstr. 15",
     "sg:city":"Heidenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186402101,
-    "wof:lastmodified":1449051244,
+    "wof:lastmodified":1466217415,
     "wof:name":"Venus Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.1706,48.699013,10.1706,48.699013],
+  "bbox": [
+    10.1706,
+    48.699013,
+    10.1706,
+    48.699013
+],
   "geometry": {"coordinates":[10.1706,48.699013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118731849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.283653,52.636814,13.283653,52.636814",
     "geom:latitude":52.636814,
     "geom:longitude":13.283653,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wahnfriedstr. 28 A",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063995,
-        85633111,
         85682553,
-        85907699
+        85633111,
+        85907699,
+        102063995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118731849,
-    "wof:lastmodified":1449054387,
+    "wof:lastmodified":1466225683,
     "wof:name":"Mobile Hauskrankenpflege Marion Waszak Gmbh",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.283653,52.636814,13.283653,52.636814],
+  "bbox": [
+    13.283653,
+    52.636814,
+    13.283653,
+    52.636814
+],
   "geometry": {"coordinates":[13.283653,52.636814],"type":"Point"}
 }

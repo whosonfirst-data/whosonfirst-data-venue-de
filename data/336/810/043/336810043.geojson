@@ -2,13 +2,14 @@
   "id": 336810043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.91549,53.554302,9.91549,53.554302",
     "geom:latitude":53.554302,
     "geom:longitude":9.91549,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windhukstr. 4",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336810043,
-    "wof:lastmodified":1448997266,
+    "wof:lastmodified":1466237469,
     "wof:name":"Erich Schmackelsen",
     "wof:parent_id":85899761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.91549,53.554302,9.91549,53.554302],
+  "bbox": [
+    9.91549,
+    53.554302,
+    9.91549,
+    53.554302
+],
   "geometry": {"coordinates":[9.91549,53.554302],"type":"Point"}
 }

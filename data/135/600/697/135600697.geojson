@@ -2,13 +2,14 @@
   "id": 135600697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.805961,49.325665,8.805961,49.325665",
     "geom:latitude":49.325665,
     "geom:longitude":8.805961,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dieselstr. 8-10",
     "sg:city":"Meckesheim",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135600697,
-    "wof:lastmodified":1449021282,
+    "wof:lastmodified":1466239333,
     "wof:name":"Bmg",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.805961,49.325665,8.805961,49.325665],
+  "bbox": [
+    8.805961,
+    49.325665,
+    8.805961,
+    49.325665
+],
   "geometry": {"coordinates":[8.805961,49.325665],"type":"Point"}
 }

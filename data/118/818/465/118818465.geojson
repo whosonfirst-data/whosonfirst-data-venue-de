@@ -2,13 +2,14 @@
   "id": 118818465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.397761,48.994499,8.397761,48.994499",
     "geom:latitude":48.994499,
     "geom:longitude":8.397761,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebertstr. 2",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118818465,
-    "wof:lastmodified":1449053831,
+    "wof:lastmodified":1466230856,
     "wof:name":"Hauptbahnhof-apotheke",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.397761,48.994499,8.397761,48.994499],
+  "bbox": [
+    8.397761,
+    48.994499,
+    8.397761,
+    48.994499
+],
   "geometry": {"coordinates":[8.397761,48.994499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119462961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.479745,52.460522,13.479745,52.460522",
     "geom:latitude":52.460522,
     "geom:longitude":13.479745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forsthausallee 4a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899583,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119462961,
-    "wof:lastmodified":1449043462,
+    "wof:lastmodified":1466242877,
     "wof:name":"Auto-scheune Vertriebsges. Mbh",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.479745,52.460522,13.479745,52.460522],
+  "bbox": [
+    13.479745,
+    52.460522,
+    13.479745,
+    52.460522
+],
   "geometry": {"coordinates":[13.479745,52.460522],"type":"Point"}
 }

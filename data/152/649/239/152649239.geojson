@@ -2,13 +2,14 @@
   "id": 152649239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.170474,54.395077,10.170474,54.395077",
     "geom:latitude":54.395077,
     "geom:longitude":10.170474,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldemar-Bonsels-Str. 2 a",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899119,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152649239,
-    "wof:lastmodified":1449047448,
+    "wof:lastmodified":1466223538,
     "wof:name":"Geku-gert Kussin Verwaltungs Gmbh",
     "wof:parent_id":85899119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.170474,54.395077,10.170474,54.395077],
+  "bbox": [
+    10.170474,
+    54.395077,
+    10.170474,
+    54.395077
+],
   "geometry": {"coordinates":[10.170474,54.395077],"type":"Point"}
 }

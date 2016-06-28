@@ -2,13 +2,14 @@
   "id": 270271405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.955768,48.360481,10.955768,48.360481",
     "geom:latitude":48.360481,
     "geom:longitude":10.955768,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arthur-Piechler-Str. 35",
     "sg:city":"Friedberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270271405,
-    "wof:lastmodified":1449009928,
+    "wof:lastmodified":1466227731,
     "wof:name":"Repro Partner Gmbh",
     "wof:parent_id":85899301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.955768,48.360481,10.955768,48.360481],
+  "bbox": [
+    10.955768,
+    48.360481,
+    10.955768,
+    48.360481
+],
   "geometry": {"coordinates":[10.955768,48.360481],"type":"Point"}
 }

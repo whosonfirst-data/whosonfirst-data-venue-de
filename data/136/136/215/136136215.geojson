@@ -2,13 +2,14 @@
   "id": 136136215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.443123,34.045773,-118.443123,34.045773",
     "geom:latitude":34.045773,
     "geom:longitude":-118.443123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"nethaven 123",
     "sg:city":"la",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"90210",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869431,
+        85688637,
         85633793,
         85923517,
         102086957,
-        85688637
+        85869431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136136215,
-    "wof:lastmodified":1449076262,
+    "wof:lastmodified":1466218230,
     "wof:name":"The Never Ending Story About Freepics Searchin Is",
     "wof:parent_id":85869431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.443123,34.045773,-118.443123,34.045773],
+  "bbox": [
+    -118.443123,
+    34.045773,
+    -118.443123,
+    34.045773
+],
   "geometry": {"coordinates":[-118.443123,34.045773],"type":"Point"}
 }

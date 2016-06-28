@@ -2,13 +2,14 @@
   "id": 286976723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.108612,48.744015,9.108612,48.744015",
     "geom:latitude":48.744015,
     "geom:longitude":9.108612,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viereichenweg 33",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286976723,
-    "wof:lastmodified":1449016393,
+    "wof:lastmodified":1466239900,
     "wof:name":"Thiele",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.108612,48.744015,9.108612,48.744015],
+  "bbox": [
+    9.108612,
+    48.744015,
+    9.108612,
+    48.744015
+],
   "geometry": {"coordinates":[9.108612,48.744015],"type":"Point"}
 }

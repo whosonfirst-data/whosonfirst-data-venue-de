@@ -2,13 +2,14 @@
   "id": 135436897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.919548,49.978111,11.919548,49.978111",
     "geom:latitude":49.978111,
     "geom:longitude":11.919548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Silberhausstr. 2",
     "sg:city":"Nagel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135436897,
-    "wof:lastmodified":1449023714,
+    "wof:lastmodified":1466226025,
     "wof:name":"Sparkasse Fichtelgebirge",
     "wof:parent_id":101826001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.919548,49.978111,11.919548,49.978111],
+  "bbox": [
+    11.919548,
+    49.978111,
+    11.919548,
+    49.978111
+],
   "geometry": {"coordinates":[11.919548,49.978111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118929207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.421258,49.497185,8.421258,49.497185",
     "geom:latitude":49.497185,
     "geom:longitude":8.421258,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Bosch-Str. 197",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795247,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118929207,
-    "wof:lastmodified":1449053683,
+    "wof:lastmodified":1466237231,
     "wof:name":"Rosen-apotheke Karl-georg Egenberger E. K.",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.421258,49.497185,8.421258,49.497185],
+  "bbox": [
+    8.421258,
+    49.497185,
+    8.421258,
+    49.497185
+],
   "geometry": {"coordinates":[8.421258,49.497185],"type":"Point"}
 }

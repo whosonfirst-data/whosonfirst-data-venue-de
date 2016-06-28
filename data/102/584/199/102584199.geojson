@@ -2,13 +2,14 @@
   "id": 102584199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.401669,48.135937,10.401669,48.135937",
     "geom:latitude":48.135937,
     "geom:longitude":10.401669,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Breitenbrunn",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102584199,
-    "wof:lastmodified":1449068059,
+    "wof:lastmodified":1466233535,
     "wof:name":"Sparkasse Mindelheim",
     "wof:parent_id":101786519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.401669,48.135937,10.401669,48.135937],
+  "bbox": [
+    10.401669,
+    48.135937,
+    10.401669,
+    48.135937
+],
   "geometry": {"coordinates":[10.401669,48.135937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202776043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.256225,50.317154,12.256225,50.317154",
     "geom:latitude":50.317154,
     "geom:longitude":12.256225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elsterstr. 41",
     "sg:city":"Adorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202776043,
-    "wof:lastmodified":1449060680,
+    "wof:lastmodified":1466220811,
     "wof:name":"Herbert Puchta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.256225,50.317154,12.256225,50.317154],
+  "bbox": [
+    12.256225,
+    50.317154,
+    12.256225,
+    50.317154
+],
   "geometry": {"coordinates":[12.256225,50.317154],"type":"Point"}
 }

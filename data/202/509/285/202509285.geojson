@@ -2,13 +2,14 @@
   "id": 202509285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.151467,48.533638,12.151467,48.533638",
     "geom:latitude":48.533638,
     "geom:longitude":12.151467,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spiegelgasse 201 a",
     "sg:city":"Landshut",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202509285,
-    "wof:lastmodified":1449060197,
+    "wof:lastmodified":1466215809,
     "wof:name":"R. Gassenhuber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.151467,48.533638,12.151467,48.533638],
+  "bbox": [
+    12.151467,
+    48.533638,
+    12.151467,
+    48.533638
+],
   "geometry": {"coordinates":[12.151467,48.533638],"type":"Point"}
 }

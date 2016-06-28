@@ -2,13 +2,14 @@
   "id": 136123845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.535849,48.23534,12.535849,48.23534",
     "geom:latitude":48.23534,
     "geom:longitude":12.535849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lohm\u00fchlstr.39",
     "sg:city":"M\u00fchldorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136123845,
-    "wof:lastmodified":1449075283,
+    "wof:lastmodified":1466217732,
     "wof:name":"Shopping-center",
     "wof:parent_id":101785349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.535849,48.23534,12.535849,48.23534],
+  "bbox": [
+    12.535849,
+    48.23534,
+    12.535849,
+    48.23534
+],
   "geometry": {"coordinates":[12.535849,48.23534],"type":"Point"}
 }

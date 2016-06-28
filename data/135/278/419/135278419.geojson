@@ -2,13 +2,14 @@
   "id": 135278419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.298471,51.24979,7.298471,51.24979",
     "geom:latitude":51.24979,
     "geom:longitude":7.298471,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beyenburger Freiheit 15",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794889
+        85633111,
+        85794889,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135278419,
-    "wof:lastmodified":1449022673,
+    "wof:lastmodified":1466224653,
     "wof:name":"I. Rondorf",
     "wof:parent_id":85794889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.298471,51.24979,7.298471,51.24979],
+  "bbox": [
+    7.298471,
+    51.24979,
+    7.298471,
+    51.24979
+],
   "geometry": {"coordinates":[7.298471,51.24979],"type":"Point"}
 }

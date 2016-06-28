@@ -2,13 +2,14 @@
   "id": 119008693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.342817,50.968113,11.342817,50.968113",
     "geom:latitude":50.968113,
     "geom:longitude":11.342817,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Bunke-Weg 2",
     "sg:city":"Weimar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119008693,
-    "wof:lastmodified":1449041613,
+    "wof:lastmodified":1466218533,
     "wof:name":"Frank Michalski Architekt",
     "wof:parent_id":101748623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.342817,50.968113,11.342817,50.968113],
+  "bbox": [
+    11.342817,
+    50.968113,
+    11.342817,
+    50.968113
+],
   "geometry": {"coordinates":[11.342817,50.968113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152277757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.955561,51.062542,6.955561,51.062542",
     "geom:latitude":51.062542,
     "geom:longitude":6.955561,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsberger Platz 21",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796277,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85796277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152277757,
-    "wof:lastmodified":1449044831,
+    "wof:lastmodified":1466215675,
     "wof:name":"Helga Zervas",
     "wof:parent_id":85796277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.955561,51.062542,6.955561,51.062542],
+  "bbox": [
+    6.955561,
+    51.062542,
+    6.955561,
+    51.062542
+],
   "geometry": {"coordinates":[6.955561,51.062542],"type":"Point"}
 }

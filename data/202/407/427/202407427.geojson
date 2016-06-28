@@ -2,13 +2,14 @@
   "id": 202407427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.445979,51.478306,7.445979,51.478306",
     "geom:latitude":51.478306,
     "geom:longitude":7.445979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichenberger Str. 61",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202407427,
-    "wof:lastmodified":1449061512,
+    "wof:lastmodified":1466213906,
     "wof:name":"Werner Diercks",
     "wof:parent_id":85796269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.445979,51.478306,7.445979,51.478306],
+  "bbox": [
+    7.445979,
+    51.478306,
+    7.445979,
+    51.478306
+],
   "geometry": {"coordinates":[7.445979,51.478306],"type":"Point"}
 }

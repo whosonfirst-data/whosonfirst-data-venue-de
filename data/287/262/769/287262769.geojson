@@ -2,13 +2,14 @@
   "id": 287262769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.482336,52.512749,13.482336,52.512749",
     "geom:latitude":52.512749,
     "geom:longitude":13.482336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Allee 154",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287262769,
-    "wof:lastmodified":1449001211,
+    "wof:lastmodified":1466232018,
     "wof:name":"Ch. Wenzel",
     "wof:parent_id":85899981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.482336,52.512749,13.482336,52.512749],
+  "bbox": [
+    13.482336,
+    52.512749,
+    13.482336,
+    52.512749
+],
   "geometry": {"coordinates":[13.482336,52.512749],"type":"Point"}
 }

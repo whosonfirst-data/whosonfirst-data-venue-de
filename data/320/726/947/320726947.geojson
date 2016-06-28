@@ -2,13 +2,14 @@
   "id": 320726947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.346541,50.910786,13.346541,50.910786",
     "geom:latitude":50.910786,
     "geom:longitude":13.346541,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstiftsgasse 11",
     "sg:city":"Freiberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320726947,
-    "wof:lastmodified":1449013833,
+    "wof:lastmodified":1466242672,
     "wof:name":"Adolf Hofmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.346541,50.910786,13.346541,50.910786],
+  "bbox": [
+    13.346541,
+    50.910786,
+    13.346541,
+    50.910786
+],
   "geometry": {"coordinates":[13.346541,50.910786],"type":"Point"}
 }

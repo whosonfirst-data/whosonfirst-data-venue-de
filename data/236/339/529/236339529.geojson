@@ -2,13 +2,14 @@
   "id": 236339529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.407247,51.946945,9.407247,51.946945",
     "geom:latitude":51.946945,
     "geom:longitude":9.407247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantor-Rose-Str. 1",
     "sg:city":"Ottenstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236339529,
-    "wof:lastmodified":1449003062,
+    "wof:lastmodified":1466225081,
     "wof:name":"August Siegmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.407247,51.946945,9.407247,51.946945],
+  "bbox": [
+    9.407247,
+    51.946945,
+    9.407247,
+    51.946945
+],
   "geometry": {"coordinates":[9.407247,51.946945],"type":"Point"}
 }

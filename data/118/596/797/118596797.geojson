@@ -2,13 +2,14 @@
   "id": 118596797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.594799,48.202789,11.594799,48.202789",
     "geom:latitude":48.202789,
     "geom:longitude":11.594799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzanger 21",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899167,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118596797,
-    "wof:lastmodified":1449053870,
+    "wof:lastmodified":1466218011,
     "wof:name":"Asia Kunstblumen Gmbh",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.594799,48.202789,11.594799,48.202789],
+  "bbox": [
+    11.594799,
+    48.202789,
+    11.594799,
+    48.202789
+],
   "geometry": {"coordinates":[11.594799,48.202789],"type":"Point"}
 }

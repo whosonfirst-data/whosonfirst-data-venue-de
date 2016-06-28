@@ -2,13 +2,14 @@
   "id": 135525389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.047635,51.760323,8.047635,51.760323",
     "geom:latitude":51.760323,
     "geom:longitude":8.047635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 71",
     "sg:city":"Beckum",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135525389,
-    "wof:lastmodified":1449023399,
+    "wof:lastmodified":1466233928,
     "wof:name":"Heinrich Knipping",
     "wof:parent_id":101809065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.047635,51.760323,8.047635,51.760323],
+  "bbox": [
+    8.047635,
+    51.760323,
+    8.047635,
+    51.760323
+],
   "geometry": {"coordinates":[8.047635,51.760323],"type":"Point"}
 }

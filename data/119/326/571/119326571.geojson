@@ -2,13 +2,14 @@
   "id": 119326571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.811397,53.040752,8.811397,53.040752",
     "geom:latitude":53.040752,
     "geom:longitude":8.811397,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6hnenweg 22",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063967,
-        85633111,
         85682555,
-        85862859
+        85633111,
+        85862859,
+        102063967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119326571,
-    "wof:lastmodified":1449041970,
+    "wof:lastmodified":1466238711,
     "wof:name":"Hans-hermann H\u00fcneberg",
     "wof:parent_id":85862859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.811397,53.040752,8.811397,53.040752],
+  "bbox": [
+    8.811397,
+    53.040752,
+    8.811397,
+    53.040752
+],
   "geometry": {"coordinates":[8.811397,53.040752],"type":"Point"}
 }

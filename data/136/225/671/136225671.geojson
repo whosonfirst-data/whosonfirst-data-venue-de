@@ -2,13 +2,14 @@
   "id": 136225671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.56019,47.76162,11.56019,47.76162",
     "geom:latitude":47.76162,
     "geom:longitude":11.56019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausgasse 6",
     "sg:city":"Bad T\u00f6lz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136225671,
-    "wof:lastmodified":1449075307,
+    "wof:lastmodified":1466222749,
     "wof:name":"Johann Wittmann",
     "wof:parent_id":101835179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.56019,47.76162,11.56019,47.76162],
+  "bbox": [
+    11.56019,
+    47.76162,
+    11.56019,
+    47.76162
+],
   "geometry": {"coordinates":[11.56019,47.76162],"type":"Point"}
 }

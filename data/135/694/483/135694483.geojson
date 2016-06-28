@@ -2,13 +2,14 @@
   "id": 135694483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.387323,48.186607,11.387323,48.186607",
     "geom:latitude":48.186607,
     "geom:longitude":11.387323,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestr. 35",
     "sg:city":"Gr\u00f6benzell",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899549
+        85633111,
+        85899549,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135694483,
-    "wof:lastmodified":1449021863,
+    "wof:lastmodified":1466242225,
     "wof:name":"Ihr Wohnraum Baubetreuung Und",
     "wof:parent_id":85899549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.387323,48.186607,11.387323,48.186607],
+  "bbox": [
+    11.387323,
+    48.186607,
+    11.387323,
+    48.186607
+],
   "geometry": {"coordinates":[11.387323,48.186607],"type":"Point"}
 }

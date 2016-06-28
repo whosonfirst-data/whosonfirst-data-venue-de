@@ -2,13 +2,14 @@
   "id": 135320425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.139009,51.266109,7.139009,51.266109",
     "geom:latitude":51.266109,
     "geom:longitude":7.139009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Dorrenberg 15",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135320425,
-    "wof:lastmodified":1449021753,
+    "wof:lastmodified":1466215546,
     "wof:name":"Von Den Steinen Und Polick Gmbh & Co. Kg",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.139009,51.266109,7.139009,51.266109],
+  "bbox": [
+    7.139009,
+    51.266109,
+    7.139009,
+    51.266109
+],
   "geometry": {"coordinates":[7.139009,51.266109],"type":"Point"}
 }

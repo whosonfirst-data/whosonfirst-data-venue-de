@@ -2,13 +2,14 @@
   "id": 303666863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.503825,49.455513,8.503825,49.455513",
     "geom:latitude":49.455513,
     "geom:longitude":8.503825,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Morchfeldstr. 68",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303666863,
-    "wof:lastmodified":1448999016,
+    "wof:lastmodified":1466238848,
     "wof:name":"G. Schiemann-schulz",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.503825,49.455513,8.503825,49.455513],
+  "bbox": [
+    8.503825,
+    49.455513,
+    8.503825,
+    49.455513
+],
   "geometry": {"coordinates":[8.503825,49.455513],"type":"Point"}
 }

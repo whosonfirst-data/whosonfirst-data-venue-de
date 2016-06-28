@@ -2,13 +2,14 @@
   "id": 118950411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.034625,52.392345,13.034625,52.392345",
     "geom:latitude":52.392345,
     "geom:longitude":13.034625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeppelinstr. 41",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899043,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553,
+        85899043,
         85899281
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118950411,
-    "wof:lastmodified":1449053695,
+    "wof:lastmodified":1466237856,
     "wof:name":"Zeppelin-apotheke Inh. Christian Buttenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.034625,52.392345,13.034625,52.392345],
+  "bbox": [
+    13.034625,
+    52.392345,
+    13.034625,
+    52.392345
+],
   "geometry": {"coordinates":[13.034625,52.392345],"type":"Point"}
 }

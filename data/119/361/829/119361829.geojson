@@ -2,13 +2,14 @@
   "id": 119361829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.910346,49.870117,9.910346,49.870117",
     "geom:latitude":49.870117,
     "geom:longitude":9.910346,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heulenberg 3",
     "sg:city":"G\u00fcntersleben",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119361829,
-    "wof:lastmodified":1449042817,
+    "wof:lastmodified":1466240546,
     "wof:name":"Michael Schmitt",
     "wof:parent_id":101813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.910346,49.870117,9.910346,49.870117],
+  "bbox": [
+    9.910346,
+    49.870117,
+    9.910346,
+    49.870117
+],
   "geometry": {"coordinates":[9.910346,49.870117],"type":"Point"}
 }

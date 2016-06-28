@@ -2,13 +2,14 @@
   "id": 119397457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.134658,51.261257,7.134658,51.261257",
     "geom:latitude":51.261257,
     "geom:longitude":7.134658,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wirkerstr. 4",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119397457,
-    "wof:lastmodified":1449041816,
+    "wof:lastmodified":1466241501,
     "wof:name":"Aft-montage Gmbh",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.134658,51.261257,7.134658,51.261257],
+  "bbox": [
+    7.134658,
+    51.261257,
+    7.134658,
+    51.261257
+],
   "geometry": {"coordinates":[7.134658,51.261257],"type":"Point"}
 }

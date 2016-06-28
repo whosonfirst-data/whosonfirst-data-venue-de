@@ -2,13 +2,14 @@
   "id": 303953005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.175166,48.497536,9.175166,48.497536",
     "geom:latitude":48.497536,
     "geom:longitude":9.175166,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenbahnstr. 15",
     "sg:city":"Reutlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303953005,
-    "wof:lastmodified":1448999805,
+    "wof:lastmodified":1466241484,
     "wof:name":"Max Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.175166,48.497536,9.175166,48.497536],
+  "bbox": [
+    9.175166,
+    48.497536,
+    9.175166,
+    48.497536
+],
   "geometry": {"coordinates":[9.175166,48.497536],"type":"Point"}
 }

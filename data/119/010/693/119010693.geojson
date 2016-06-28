@@ -2,13 +2,14 @@
   "id": 119010693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.180425,48.888134,9.180425,48.888134",
     "geom:latitude":48.888134,
     "geom:longitude":9.180425,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kammererstr. 18",
     "sg:city":"Ludwigsburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119010693,
-    "wof:lastmodified":1449042519,
+    "wof:lastmodified":1466219055,
     "wof:name":"Franz Wohnhaas Architekt",
     "wof:parent_id":101748521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.180425,48.888134,9.180425,48.888134],
+  "bbox": [
+    9.180425,
+    48.888134,
+    9.180425,
+    48.888134
+],
   "geometry": {"coordinates":[9.180425,48.888134],"type":"Point"}
 }

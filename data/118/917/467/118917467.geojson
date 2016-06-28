@@ -2,13 +2,14 @@
   "id": 118917467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.522187,52.451416,13.522187,52.451416",
     "geom:latitude":52.451416,
     "geom:longitude":13.522187,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grimaustr. 79",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900085,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118917467,
-    "wof:lastmodified":1449054363,
+    "wof:lastmodified":1466236591,
     "wof:name":"Moritz-apotheke",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.522187,52.451416,13.522187,52.451416],
+  "bbox": [
+    13.522187,
+    52.451416,
+    13.522187,
+    52.451416
+],
   "geometry": {"coordinates":[13.522187,52.451416],"type":"Point"}
 }

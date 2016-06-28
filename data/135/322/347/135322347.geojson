@@ -2,13 +2,14 @@
   "id": 135322347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534493,50.150562,8.534493,50.150562",
     "geom:latitude":50.150562,
     "geom:longitude":8.534493,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Taunusstr. 15",
     "sg:city":"Schwalbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135322347,
-    "wof:lastmodified":1449020951,
+    "wof:lastmodified":1466215713,
     "wof:name":"W. Reichert",
     "wof:parent_id":101756413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534493,50.150562,8.534493,50.150562],
+  "bbox": [
+    8.534493,
+    50.150562,
+    8.534493,
+    50.150562
+],
   "geometry": {"coordinates":[8.534493,50.150562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304040197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.28956,52.51886,13.28956,52.51886",
     "geom:latitude":52.51886,
     "geom:longitude":13.28956,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spandauer Damm 51",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":304040197,
-    "wof:lastmodified":1449044141,
+    "wof:lastmodified":1466231831,
     "wof:name":"Indeco Gmbh",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.28956,52.51886,13.28956,52.51886],
+  "bbox": [
+    13.28956,
+    52.51886,
+    13.28956,
+    52.51886
+],
   "geometry": {"coordinates":[13.28956,52.51886],"type":"Point"}
 }

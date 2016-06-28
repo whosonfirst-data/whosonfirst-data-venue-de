@@ -2,13 +2,14 @@
   "id": 220100945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.001473,51.387093,7.001473,51.387093",
     "geom:latitude":51.387093,
     "geom:longitude":7.001473,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bungertstr. 10",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220100945,
-    "wof:lastmodified":1449074639,
+    "wof:lastmodified":1466216521,
     "wof:name":"Cafe Werden",
     "wof:parent_id":85795233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.001473,51.387093,7.001473,51.387093],
+  "bbox": [
+    7.001473,
+    51.387093,
+    7.001473,
+    51.387093
+],
   "geometry": {"coordinates":[7.001473,51.387093],"type":"Point"}
 }

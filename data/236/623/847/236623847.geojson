@@ -2,13 +2,14 @@
   "id": 236623847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.0195,48.702251,13.0195,48.702251",
     "geom:latitude":48.702251,
     "geom:longitude":13.0195,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtplatz 4",
     "sg:city":"Osterhofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236623847,
-    "wof:lastmodified":1449004065,
+    "wof:lastmodified":1466230291,
     "wof:name":"Wolfgang Thaler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.0195,48.702251,13.0195,48.702251],
+  "bbox": [
+    13.0195,
+    48.702251,
+    13.0195,
+    48.702251
+],
   "geometry": {"coordinates":[13.0195,48.702251],"type":"Point"}
 }

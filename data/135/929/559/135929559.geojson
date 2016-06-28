@@ -2,13 +2,14 @@
   "id": 135929559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.036247,53.544727,10.036247,53.544727",
     "geom:latitude":53.544727,
     "geom:longitude":10.036247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bullerdeich 19",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899257,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135929559,
-    "wof:lastmodified":1449022158,
+    "wof:lastmodified":1466244656,
     "wof:name":"Srh Beteiligungsges. Mbh",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.036247,53.544727,10.036247,53.544727],
+  "bbox": [
+    10.036247,
+    53.544727,
+    10.036247,
+    53.544727
+],
   "geometry": {"coordinates":[10.036247,53.544727],"type":"Point"}
 }

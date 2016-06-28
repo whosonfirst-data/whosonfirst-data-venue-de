@@ -2,13 +2,14 @@
   "id": 252755327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.149945,48.633083,10.149945,48.633083",
     "geom:latitude":48.633083,
     "geom:longitude":10.149945,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofstr. 1",
     "sg:city":"Herbrechtingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252755327,
-    "wof:lastmodified":1449005719,
+    "wof:lastmodified":1466219981,
     "wof:name":"Hans Konold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.149945,48.633083,10.149945,48.633083],
+  "bbox": [
+    10.149945,
+    48.633083,
+    10.149945,
+    48.633083
+],
   "geometry": {"coordinates":[10.149945,48.633083],"type":"Point"}
 }

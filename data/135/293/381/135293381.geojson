@@ -2,13 +2,14 @@
   "id": 135293381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.760872,49.301846,6.760872,49.301846",
     "geom:latitude":49.301846,
     "geom:longitude":6.760872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfstr. 48",
     "sg:city":"Saarlouis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135293381,
-    "wof:lastmodified":1449021568,
+    "wof:lastmodified":1466213263,
     "wof:name":"Kurt Daub",
     "wof:parent_id":101842193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.760872,49.301846,6.760872,49.301846],
+  "bbox": [
+    6.760872,
+    49.301846,
+    6.760872,
+    49.301846
+],
   "geometry": {"coordinates":[6.760872,49.301846],"type":"Point"}
 }

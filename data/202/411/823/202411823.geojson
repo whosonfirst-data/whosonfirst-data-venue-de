@@ -2,13 +2,14 @@
   "id": 202411823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.822424,53.712532,11.822424,53.712532",
     "geom:latitude":53.712532,
     "geom:longitude":11.822424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mecklenburgring 24",
     "sg:city":"Sternberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202411823,
-    "wof:lastmodified":1449060217,
+    "wof:lastmodified":1466213983,
     "wof:name":"Wesselmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.822424,53.712532,11.822424,53.712532],
+  "bbox": [
+    11.822424,
+    53.712532,
+    11.822424,
+    53.712532
+],
   "geometry": {"coordinates":[11.822424,53.712532],"type":"Point"}
 }

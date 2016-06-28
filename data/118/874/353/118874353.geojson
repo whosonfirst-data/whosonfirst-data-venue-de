@@ -2,13 +2,14 @@
   "id": 118874353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.209053,53.489819,10.209053,53.489819",
     "geom:latitude":53.489819,
     "geom:longitude":10.209053,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidenbaumsweg 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899679,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118874353,
-    "wof:lastmodified":1449054451,
+    "wof:lastmodified":1466234323,
     "wof:name":"Bahnhof-apotheke-pletz Lothar Schumann",
     "wof:parent_id":85899679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.209053,53.489819,10.209053,53.489819],
+  "bbox": [
+    10.209053,
+    53.489819,
+    10.209053,
+    53.489819
+],
   "geometry": {"coordinates":[10.209053,53.489819],"type":"Point"}
 }

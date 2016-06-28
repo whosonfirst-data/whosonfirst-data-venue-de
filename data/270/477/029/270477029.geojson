@@ -2,13 +2,14 @@
   "id": 270477029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.835415,50.531731,12.835415,50.531731",
     "geom:latitude":50.531731,
     "geom:longitude":12.835415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Annaberger Str. 50",
     "sg:city":"Raschau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270477029,
-    "wof:lastmodified":1449009056,
+    "wof:lastmodified":1466233047,
     "wof:name":"Max Schmiedel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.835415,50.531731,12.835415,50.531731],
+  "bbox": [
+    12.835415,
+    50.531731,
+    12.835415,
+    50.531731
+],
   "geometry": {"coordinates":[12.835415,50.531731],"type":"Point"}
 }

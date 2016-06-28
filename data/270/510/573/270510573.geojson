@@ -2,13 +2,14 @@
   "id": 270510573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.096498,49.35218,9.096498,49.35218",
     "geom:latitude":49.35218,
     "geom:longitude":9.096498,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofstr. 2a",
     "sg:city":"Obrigheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270510573,
-    "wof:lastmodified":1449010106,
+    "wof:lastmodified":1466233836,
     "wof:name":"Bruno Ripp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.096498,49.35218,9.096498,49.35218],
+  "bbox": [
+    9.096498,
+    49.35218,
+    9.096498,
+    49.35218
+],
   "geometry": {"coordinates":[9.096498,49.35218],"type":"Point"}
 }

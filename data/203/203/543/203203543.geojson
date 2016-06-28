@@ -2,13 +2,14 @@
   "id": 203203543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.104047,48.222801,10.104047,48.222801",
     "geom:latitude":48.222801,
     "geom:longitude":10.104047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sparergat",
     "sg:city":"Illertissen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203203543,
-    "wof:lastmodified":1449025752,
+    "wof:lastmodified":1466217277,
     "wof:name":"Kurt Motz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.104047,48.222801,10.104047,48.222801],
+  "bbox": [
+    10.104047,
+    48.222801,
+    10.104047,
+    48.222801
+],
   "geometry": {"coordinates":[10.104047,48.222801],"type":"Point"}
 }

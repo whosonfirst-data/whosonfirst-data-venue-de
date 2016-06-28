@@ -2,13 +2,14 @@
   "id": 119212663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.523609,52.023525,8.523609,52.023525",
     "geom:latitude":52.023525,
     "geom:longitude":8.523609,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiskerstr. 26",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119212663,
-    "wof:lastmodified":1449042609,
+    "wof:lastmodified":1466229951,
     "wof:name":"Kath. \u00f6ffentl. Bibliothek St. Franziskus-hospital",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.523609,52.023525,8.523609,52.023525],
+  "bbox": [
+    8.523609,
+    52.023525,
+    8.523609,
+    52.023525
+],
   "geometry": {"coordinates":[8.523609,52.023525],"type":"Point"}
 }

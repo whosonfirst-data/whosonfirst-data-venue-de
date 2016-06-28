@@ -2,13 +2,14 @@
   "id": 118538255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.106676,49.446602,11.106676,49.446602",
     "geom:latitude":49.446602,
     "geom:longitude":11.106676,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Theklastr. 5",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118538255,
-    "wof:lastmodified":1449053315,
+    "wof:lastmodified":1466214749,
     "wof:name":"Seitz-transporte",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.106676,49.446602,11.106676,49.446602],
+  "bbox": [
+    11.106676,
+    49.446602,
+    11.106676,
+    49.446602
+],
   "geometry": {"coordinates":[11.106676,49.446602],"type":"Point"}
 }

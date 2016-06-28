@@ -2,13 +2,14 @@
   "id": 118997907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.806129,51.051968,13.806129,51.051968",
     "geom:latitude":51.051968,
     "geom:longitude":13.806129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcblerstr. 2",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900197,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118997907,
-    "wof:lastmodified":1449054313,
+    "wof:lastmodified":1466239826,
     "wof:name":"Dr. Sabine Nickl Architektin",
     "wof:parent_id":85900197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.806129,51.051968,13.806129,51.051968],
+  "bbox": [
+    13.806129,
+    51.051968,
+    13.806129,
+    51.051968
+],
   "geometry": {"coordinates":[13.806129,51.051968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135817683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.382231,52.466961,13.382231,52.466961",
     "geom:latitude":52.466961,
     "geom:longitude":13.382231,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borussiastr. 13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135817683,
-    "wof:lastmodified":1449023431,
+    "wof:lastmodified":1466244168,
     "wof:name":"Geo Recycling Und Umwelt- Technologie Gmbh & Co. Handel",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.382231,52.466961,13.382231,52.466961],
+  "bbox": [
+    13.382231,
+    52.466961,
+    13.382231,
+    52.466961
+],
   "geometry": {"coordinates":[13.382231,52.466961],"type":"Point"}
 }

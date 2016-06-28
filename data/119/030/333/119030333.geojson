@@ -2,13 +2,14 @@
   "id": 119030333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65697,49.881458,8.65697,49.881458",
     "geom:latitude":49.881458,
     "geom:longitude":8.65697,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arheilger Str. 68",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,13 +19,13 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531,
-        102063543,
-        85859529
+        85794755,
+        85859529,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119030333,
-    "wof:lastmodified":1449041754,
+    "wof:lastmodified":1466213563,
     "wof:name":"Hannelore Nebe Architektin Und Ingenieurin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.65697,49.881458,8.65697,49.881458],
+  "bbox": [
+    8.65697,
+    49.881458,
+    8.65697,
+    49.881458
+],
   "geometry": {"coordinates":[8.65697,49.881458],"type":"Point"}
 }

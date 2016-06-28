@@ -2,13 +2,14 @@
   "id": 102616509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.437978,51.420094,7.437978,51.420094",
     "geom:latitude":51.420094,
     "geom:longitude":7.437978,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Almerfeldstr 8",
     "sg:city":"Herdecke",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795459,
+        85682513,
         85633111,
         101914223,
         102063779,
-        85682513
+        85795459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102616509,
-    "wof:lastmodified":1449069567,
+    "wof:lastmodified":1466213721,
     "wof:name":"Atlas-befestigungstechnik Gmbh",
     "wof:parent_id":85795459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.437978,51.420094,7.437978,51.420094],
+  "bbox": [
+    7.437978,
+    51.420094,
+    7.437978,
+    51.420094
+],
   "geometry": {"coordinates":[7.437978,51.420094],"type":"Point"}
 }

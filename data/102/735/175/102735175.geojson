@@ -2,13 +2,14 @@
   "id": 102735175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.4009,52.527897,13.4009,52.527897",
     "geom:latitude":52.527897,
     "geom:longitude":13.4009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auguststrasse 49a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102735175,
-    "wof:lastmodified":1449070157,
+    "wof:lastmodified":1466217302,
     "wof:name":"Avb-eventdesign",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.4009,52.527897,13.4009,52.527897],
+  "bbox": [
+    13.4009,
+    52.527897,
+    13.4009,
+    52.527897
+],
   "geometry": {"coordinates":[13.4009,52.527897],"type":"Point"}
 }

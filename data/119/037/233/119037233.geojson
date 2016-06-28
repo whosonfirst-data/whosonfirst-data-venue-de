@@ -2,13 +2,14 @@
   "id": 119037233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.981844,51.438168,6.981844,51.438168",
     "geom:latitude":51.438168,
     "geom:longitude":6.981844,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaulbachstr. 64",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119037233,
-    "wof:lastmodified":1449043578,
+    "wof:lastmodified":1466214224,
     "wof:name":"Hans-j\u00fcrgen Berghane Architekt",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.981844,51.438168,6.981844,51.438168],
+  "bbox": [
+    6.981844,
+    51.438168,
+    6.981844,
+    51.438168
+],
   "geometry": {"coordinates":[6.981844,51.438168],"type":"Point"}
 }

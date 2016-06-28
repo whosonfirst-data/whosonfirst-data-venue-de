@@ -2,13 +2,14 @@
   "id": 135777129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.509056,51.516117,7.509056,51.516117",
     "geom:latitude":51.516117,
     "geom:longitude":7.509056,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6rner Hellweg 89",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796673,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85796673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135777129,
-    "wof:lastmodified":1449022603,
+    "wof:lastmodified":1466243936,
     "wof:name":"B. Teepe",
     "wof:parent_id":85796673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.509056,51.516117,7.509056,51.516117],
+  "bbox": [
+    7.509056,
+    51.516117,
+    7.509056,
+    51.516117
+],
   "geometry": {"coordinates":[7.509056,51.516117],"type":"Point"}
 }

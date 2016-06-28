@@ -2,13 +2,14 @@
   "id": 135731037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.178685,54.300896,10.178685,54.300896",
     "geom:latitude":54.300896,
     "geom:longitude":10.178685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Liesenh\u00f6rnweg 2-5",
     "sg:city":"Klausdorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900081,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85900081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135731037,
-    "wof:lastmodified":1449023671,
+    "wof:lastmodified":1466243027,
     "wof:name":"K & M-bau Gmbh",
     "wof:parent_id":85900081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.178685,54.300896,10.178685,54.300896],
+  "bbox": [
+    10.178685,
+    54.300896,
+    10.178685,
+    54.300896
+],
   "geometry": {"coordinates":[10.178685,54.300896],"type":"Point"}
 }

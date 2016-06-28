@@ -2,13 +2,14 @@
   "id": 319875017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.541186,52.337055,14.541186,52.337055",
     "geom:latitude":52.337055,
     "geom:longitude":14.541186,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dresdener Platz 20",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319875017,
-    "wof:lastmodified":1449024672,
+    "wof:lastmodified":1466233735,
     "wof:name":"Kaufcenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.541186,52.337055,14.541186,52.337055],
+  "bbox": [
+    14.541186,
+    52.337055,
+    14.541186,
+    52.337055
+],
   "geometry": {"coordinates":[14.541186,52.337055],"type":"Point"}
 }

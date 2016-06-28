@@ -2,13 +2,14 @@
   "id": 135714453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.759823,51.030815,13.759823,51.030815",
     "geom:latitude":51.030815,
     "geom:longitude":13.759823,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Julius-Otto-Str. 13",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905663,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135714453,
-    "wof:lastmodified":1449022506,
+    "wof:lastmodified":1466242753,
     "wof:name":"Pair Gmbh",
     "wof:parent_id":85905663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.759823,51.030815,13.759823,51.030815],
+  "bbox": [
+    13.759823,
+    51.030815,
+    13.759823,
+    51.030815
+],
   "geometry": {"coordinates":[13.759823,51.030815],"type":"Point"}
 }

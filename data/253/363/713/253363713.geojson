@@ -2,13 +2,14 @@
   "id": 253363713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.497144,49.642441,12.497144,49.642441",
     "geom:latitude":49.642441,
     "geom:longitude":12.497144,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schreinerbergl 4",
     "sg:city":"Waidhaus",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253363713,
-    "wof:lastmodified":1449065419,
+    "wof:lastmodified":1466226147,
     "wof:name":"Johann Meier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.497144,49.642441,12.497144,49.642441],
+  "bbox": [
+    12.497144,
+    49.642441,
+    12.497144,
+    49.642441
+],
   "geometry": {"coordinates":[12.497144,49.642441],"type":"Point"}
 }

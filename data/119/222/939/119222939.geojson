@@ -2,13 +2,14 @@
   "id": 119222939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.548548,50.826496,12.548548,50.826496",
     "geom:latitude":50.826496,
     "geom:longitude":12.548548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Heine-Str. 7",
     "sg:city":"Glauchau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119222939,
-    "wof:lastmodified":1449042667,
+    "wof:lastmodified":1466230928,
     "wof:name":"Kreisarchiv Landkreis Glauchau",
     "wof:parent_id":101841231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.548548,50.826496,12.548548,50.826496],
+  "bbox": [
+    12.548548,
+    50.826496,
+    12.548548,
+    50.826496
+],
   "geometry": {"coordinates":[12.548548,50.826496],"type":"Point"}
 }

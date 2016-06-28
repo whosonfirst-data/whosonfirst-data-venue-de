@@ -2,13 +2,14 @@
   "id": 135939019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.538181,48.164055,11.538181,48.164055",
     "geom:latitude":48.164055,
     "geom:longitude":11.538181,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landshuter Allee 162 a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899191,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135939019,
-    "wof:lastmodified":1449021901,
+    "wof:lastmodified":1466244676,
     "wof:name":"Bbg Verwaltungs Gmbh",
     "wof:parent_id":85899191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.538181,48.164055,11.538181,48.164055],
+  "bbox": [
+    11.538181,
+    48.164055,
+    11.538181,
+    48.164055
+],
   "geometry": {"coordinates":[11.538181,48.164055],"type":"Point"}
 }

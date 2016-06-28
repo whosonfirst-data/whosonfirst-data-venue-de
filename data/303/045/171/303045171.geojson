@@ -2,13 +2,14 @@
   "id": 303045171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.421598,52.535412,13.421598,52.535412",
     "geom:latitude":52.535412,
     "geom:longitude":13.421598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Prenzlauer Allee 215",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303045171,
-    "wof:lastmodified":1449000283,
+    "wof:lastmodified":1466225623,
     "wof:name":"Thu Ha Voigt",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.421598,52.535412,13.421598,52.535412],
+  "bbox": [
+    13.421598,
+    52.535412,
+    13.421598,
+    52.535412
+],
   "geometry": {"coordinates":[13.421598,52.535412],"type":"Point"}
 }

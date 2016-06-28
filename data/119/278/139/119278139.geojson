@@ -2,13 +2,14 @@
   "id": 119278139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.597565,52.129017,11.597565,52.129017",
     "geom:latitude":52.129017,
     "geom:longitude":11.597565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreibr\u00fcckenstr 6+9+12",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119278139,
-    "wof:lastmodified":1449042318,
+    "wof:lastmodified":1466236263,
     "wof:name":"E-e-s Dirk Witte",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.597565,52.129017,11.597565,52.129017],
+  "bbox": [
+    11.597565,
+    52.129017,
+    11.597565,
+    52.129017
+],
   "geometry": {"coordinates":[11.597565,52.129017],"type":"Point"}
 }

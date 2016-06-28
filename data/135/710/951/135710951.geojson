@@ -2,13 +2,14 @@
   "id": 135710951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.968148,51.481197,11.968148,51.481197",
     "geom:latitude":51.481197,
     "geom:longitude":11.968148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oleariusstr. 6 a",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135710951,
-    "wof:lastmodified":1449021179,
+    "wof:lastmodified":1466242851,
     "wof:name":"P & H Projektentwicklungs- Und Hausverwaltungsges. Mbh",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.968148,51.481197,11.968148,51.481197],
+  "bbox": [
+    11.968148,
+    51.481197,
+    11.968148,
+    51.481197
+],
   "geometry": {"coordinates":[11.968148,51.481197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152557855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.939271,49.245567,6.939271,49.245567",
     "geom:latitude":49.245567,
     "geom:longitude":6.939271,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenkesseler Str. 17",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795927,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85795927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152557855,
-    "wof:lastmodified":1449047597,
+    "wof:lastmodified":1466221511,
     "wof:name":"Saarwind Beteiligungs Kg",
     "wof:parent_id":85795927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.939271,49.245567,6.939271,49.245567],
+  "bbox": [
+    6.939271,
+    49.245567,
+    6.939271,
+    49.245567
+],
   "geometry": {"coordinates":[6.939271,49.245567],"type":"Point"}
 }

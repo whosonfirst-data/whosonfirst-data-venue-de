@@ -2,13 +2,14 @@
   "id": 118718033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.694785,51.043964,13.694785,51.043964",
     "geom:latitude":51.043964,
     "geom:longitude":13.694785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emil-Ueberall-Str. 19",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118718033,
-    "wof:lastmodified":1449053451,
+    "wof:lastmodified":1466224903,
     "wof:name":"H\u00e4usliche Kranken- Und Altenpflege",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.694785,51.043964,13.694785,51.043964],
+  "bbox": [
+    13.694785,
+    51.043964,
+    13.694785,
+    51.043964
+],
   "geometry": {"coordinates":[13.694785,51.043964],"type":"Point"}
 }

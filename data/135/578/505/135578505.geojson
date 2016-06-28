@@ -2,13 +2,14 @@
   "id": 135578505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.729105,48.14764,11.729105,48.14764",
     "geom:latitude":48.14764,
     "geom:longitude":11.729105,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcbezahlstr. 15/I",
     "sg:city":"Feldkirchen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899729
+        85633111,
+        85899729,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135578505,
-    "wof:lastmodified":1449021751,
+    "wof:lastmodified":1466237802,
     "wof:name":"Gemeinn\u00fctz. Baugenossenschaft Feldkirchen Bei M\u00fcnchen",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.729105,48.14764,11.729105,48.14764],
+  "bbox": [
+    11.729105,
+    48.14764,
+    11.729105,
+    48.14764
+],
   "geometry": {"coordinates":[11.729105,48.14764],"type":"Point"}
 }

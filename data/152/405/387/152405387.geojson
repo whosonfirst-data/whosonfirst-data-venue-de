@@ -2,13 +2,14 @@
   "id": 152405387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.331649,51.321644,12.331649,51.321644",
     "geom:latitude":51.321644,
     "geom:longitude":12.331649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschochersche Str. 89",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152405387,
-    "wof:lastmodified":1449048539,
+    "wof:lastmodified":1466218248,
     "wof:name":"Westend-bestattungen Gmbh",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.331649,51.321644,12.331649,51.321644],
+  "bbox": [
+    12.331649,
+    51.321644,
+    12.331649,
+    51.321644
+],
   "geometry": {"coordinates":[12.331649,51.321644],"type":"Point"}
 }

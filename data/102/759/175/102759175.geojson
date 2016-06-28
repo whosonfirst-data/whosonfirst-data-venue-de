@@ -2,13 +2,14 @@
   "id": 102759175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.534945,51.493481,7.534945,51.493481",
     "geom:latitude":51.493481,
     "geom:longitude":7.534945,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Dortmund",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794969,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85794969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102759175,
-    "wof:lastmodified":1449070249,
+    "wof:lastmodified":1466218768,
     "wof:name":"Umweltaktie - B\u00f6rsenkurse Und Portr\u00e4ts Von Umweltfirmen",
     "wof:parent_id":85794969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.534945,51.493481,7.534945,51.493481],
+  "bbox": [
+    7.534945,
+    51.493481,
+    7.534945,
+    51.493481
+],
   "geometry": {"coordinates":[7.534945,51.493481],"type":"Point"}
 }

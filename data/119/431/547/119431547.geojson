@@ -2,13 +2,14 @@
   "id": 119431547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.259877,51.192226,7.259877,51.192226",
     "geom:latitude":51.192226,
     "geom:longitude":7.259877,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wallstr. 49",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119431547,
-    "wof:lastmodified":1449041192,
+    "wof:lastmodified":1466242529,
     "wof:name":"Daniel Sch\u00fcrmann Kg",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.259877,51.192226,7.259877,51.192226],
+  "bbox": [
+    7.259877,
+    51.192226,
+    7.259877,
+    51.192226
+],
   "geometry": {"coordinates":[7.259877,51.192226],"type":"Point"}
 }

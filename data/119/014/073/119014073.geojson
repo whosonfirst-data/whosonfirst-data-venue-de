@@ -2,13 +2,14 @@
   "id": 119014073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.490428,52.540924,13.490428,52.540924",
     "geom:latitude":52.540924,
     "geom:longitude":13.490428,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strausberger Str. 19",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928753,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119014073,
-    "wof:lastmodified":1449042138,
+    "wof:lastmodified":1466224763,
     "wof:name":"Fritz Rolle Architekt",
     "wof:parent_id":85928753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.490428,52.540924,13.490428,52.540924],
+  "bbox": [
+    13.490428,
+    52.540924,
+    13.490428,
+    52.540924
+],
   "geometry": {"coordinates":[13.490428,52.540924],"type":"Point"}
 }

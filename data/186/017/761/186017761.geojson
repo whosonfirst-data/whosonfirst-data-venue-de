@@ -2,13 +2,14 @@
   "id": 186017761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.010279,49.597878,11.010279,49.597878",
     "geom:latitude":49.597878,
     "geom:longitude":11.010279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krankenhausstr. 9",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186017761,
-    "wof:lastmodified":1449051800,
+    "wof:lastmodified":1466213392,
     "wof:name":"Anatomische Sammlung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.010279,49.597878,11.010279,49.597878],
+  "bbox": [
+    11.010279,
+    49.597878,
+    11.010279,
+    49.597878
+],
   "geometry": {"coordinates":[11.010279,49.597878],"type":"Point"}
 }

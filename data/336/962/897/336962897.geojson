@@ -2,13 +2,14 @@
   "id": 336962897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.909565,49.901146,10.909565,49.901146",
     "geom:latitude":49.901146,
     "geom:longitude":10.909565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4rtleinstr. 33",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336962897,
-    "wof:lastmodified":1448997575,
+    "wof:lastmodified":1466239585,
     "wof:name":"Ludwig Schwarzmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.909565,49.901146,10.909565,49.901146],
+  "bbox": [
+    10.909565,
+    49.901146,
+    10.909565,
+    49.901146
+],
   "geometry": {"coordinates":[10.909565,49.901146],"type":"Point"}
 }

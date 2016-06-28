@@ -2,13 +2,14 @@
   "id": 118734351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.003981,48.798492,9.003981,48.798492",
     "geom:latitude":48.798492,
     "geom:longitude":9.003981,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbeisstr. 6",
     "sg:city":"Leonberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118734351,
-    "wof:lastmodified":1449054373,
+    "wof:lastmodified":1466225841,
     "wof:name":"Patienten-heimversorgung",
     "wof:parent_id":101755901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.003981,48.798492,9.003981,48.798492],
+  "bbox": [
+    9.003981,
+    48.798492,
+    9.003981,
+    48.798492
+],
   "geometry": {"coordinates":[9.003981,48.798492],"type":"Point"}
 }

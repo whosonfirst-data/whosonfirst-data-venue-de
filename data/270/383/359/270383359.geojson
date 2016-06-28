@@ -2,13 +2,14 @@
   "id": 270383359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.007543,51.444092,7.007543,51.444092",
     "geom:latitude":51.444092,
     "geom:longitude":7.007543,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Huyssenallee 100",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270383359,
-    "wof:lastmodified":1449009678,
+    "wof:lastmodified":1466230605,
     "wof:name":"Von Essen Kg",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.007543,51.444092,7.007543,51.444092],
+  "bbox": [
+    7.007543,
+    51.444092,
+    7.007543,
+    51.444092
+],
   "geometry": {"coordinates":[7.007543,51.444092],"type":"Point"}
 }

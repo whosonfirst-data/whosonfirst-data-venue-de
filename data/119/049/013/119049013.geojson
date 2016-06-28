@@ -2,13 +2,14 @@
   "id": 119049013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.832605,48.375786,10.832605,48.375786",
     "geom:latitude":48.375786,
     "geom:longitude":10.832605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am \u00c4hrenfeld 1",
     "sg:city":"Neus\u00e4\u00df",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900099,
+        85682571,
         85633111,
         101755891,
         102063311,
-        85682571
+        85900099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119049013,
-    "wof:lastmodified":1449042154,
+    "wof:lastmodified":1466215288,
     "wof:name":"Helmut Heidenreich Architekt",
     "wof:parent_id":85900099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.832605,48.375786,10.832605,48.375786],
+  "bbox": [
+    10.832605,
+    48.375786,
+    10.832605,
+    48.375786
+],
   "geometry": {"coordinates":[10.832605,48.375786],"type":"Point"}
 }

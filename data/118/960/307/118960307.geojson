@@ -2,13 +2,14 @@
   "id": 118960307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.137983,54.073174,12.137983,54.073174",
     "geom:latitude":54.073174,
     "geom:longitude":12.137983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwaaner Landstr. 202",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905721,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118960307,
-    "wof:lastmodified":1449054149,
+    "wof:lastmodified":1466238118,
     "wof:name":"Rd Arbeitsf\u00f6rderungsges. Mbh",
     "wof:parent_id":85905721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.137983,54.073174,12.137983,54.073174],
+  "bbox": [
+    12.137983,
+    54.073174,
+    12.137983,
+    54.073174
+],
   "geometry": {"coordinates":[12.137983,54.073174],"type":"Point"}
 }

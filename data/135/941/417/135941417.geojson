@@ -2,13 +2,14 @@
   "id": 135941417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.791591,51.422035,6.791591,51.422035",
     "geom:latitude":51.422035,
     "geom:longitude":6.791591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wildstr.",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863029,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85863029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135941417,
-    "wof:lastmodified":1449022828,
+    "wof:lastmodified":1466244687,
     "wof:name":"Dkf Beteiligungs- Und Verwaltungs Gmbh",
     "wof:parent_id":85863029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.791591,51.422035,6.791591,51.422035],
+  "bbox": [
+    6.791591,
+    51.422035,
+    6.791591,
+    51.422035
+],
   "geometry": {"coordinates":[6.791591,51.422035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303389083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.540497,50.398346,10.540497,50.398346",
     "geom:latitude":50.398346,
     "geom:longitude":10.540497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Griebelstr. 25",
     "sg:city":"R\u00f6mhild",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303389083,
-    "wof:lastmodified":1449000067,
+    "wof:lastmodified":1466234123,
     "wof:name":"Werner Witzmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.540497,50.398346,10.540497,50.398346],
+  "bbox": [
+    10.540497,
+    50.398346,
+    10.540497,
+    50.398346
+],
   "geometry": {"coordinates":[10.540497,50.398346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136039099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.417229,36.585972,-79.417229,36.585972",
     "geom:latitude":36.585972,
     "geom:longitude":-79.417229,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"dorfstr.34",
     "sg:city":"bredtstedt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"24543",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868173,
+        85688747,
         85633793,
         101728985,
         102087259,
-        85688747
+        85868173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136039099,
-    "wof:lastmodified":1449076101,
+    "wof:lastmodified":1466213905,
     "wof:name":"Computerwaren.de Kostenlose Online-auktion Ab 1 Dm",
     "wof:parent_id":85868173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.417229,36.585972,-79.417229,36.585972],
-  "geometry": {"coordinates":[-79.417229,36.585972],"type":"Point"}
+  "bbox": [
+    -79.417229,
+    36.585972,
+    -79.417229,
+    36.585972
+],
+  "geometry": {"coordinates":[-79.41722900000001,36.585972],"type":"Point"}
 }

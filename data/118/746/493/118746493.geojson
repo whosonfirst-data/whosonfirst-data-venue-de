@@ -2,13 +2,14 @@
   "id": 118746493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.942205,48.808578,8.942205,48.808578",
     "geom:latitude":48.808578,
     "geom:longitude":8.942205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pforzheimer Str. 31",
     "sg:city":"Rutesheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118746493,
-    "wof:lastmodified":1449053133,
+    "wof:lastmodified":1466226551,
     "wof:name":"Sozialstation",
     "wof:parent_id":101761865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.942205,48.808578,8.942205,48.808578],
+  "bbox": [
+    8.942205,
+    48.808578,
+    8.942205,
+    48.808578
+],
   "geometry": {"coordinates":[8.942205,48.808578],"type":"Point"}
 }

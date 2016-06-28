@@ -2,13 +2,14 @@
   "id": 135790279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.161754,49.402149,7.161754,49.402149",
     "geom:latitude":49.402149,
     "geom:longitude":7.161754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Heinrich-Str. 18",
     "sg:city":"Ottweiler",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135790279,
-    "wof:lastmodified":1449023321,
+    "wof:lastmodified":1466244020,
     "wof:name":"Moderna",
     "wof:parent_id":101815645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.161754,49.402149,7.161754,49.402149],
+  "bbox": [
+    7.161754,
+    49.402149,
+    7.161754,
+    49.402149
+],
   "geometry": {"coordinates":[7.161754,49.402149],"type":"Point"}
 }

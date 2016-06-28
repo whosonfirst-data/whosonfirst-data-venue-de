@@ -2,13 +2,14 @@
   "id": 220103423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.105448,49.691799,11.105448,49.691799",
     "geom:latitude":49.691799,
     "geom:longitude":11.105448,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Keilbrunnen 11",
     "sg:city":"Pinzberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220103423,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466216568,
     "wof:name":"Cafe Zametzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.105448,49.691799,11.105448,49.691799],
+  "bbox": [
+    11.105448,
+    49.691799,
+    11.105448,
+    49.691799
+],
   "geometry": {"coordinates":[11.105448,49.691799],"type":"Point"}
 }

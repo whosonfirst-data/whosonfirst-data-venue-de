@@ -2,13 +2,14 @@
   "id": 118996635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.13305,54.33485,10.13305,54.33485",
     "geom:latitude":54.33485,
     "geom:longitude":10.13305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holtenauer Str. 81",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899179,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118996635,
-    "wof:lastmodified":1449053529,
+    "wof:lastmodified":1466240053,
     "wof:name":"Doris Anna Kaffke Architektin",
     "wof:parent_id":85899179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.13305,54.33485,10.13305,54.33485],
+  "bbox": [
+    10.13305,
+    54.33485,
+    10.13305,
+    54.33485
+],
   "geometry": {"coordinates":[10.13305,54.33485],"type":"Point"}
 }

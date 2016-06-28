@@ -2,13 +2,14 @@
   "id": 152967603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.150983,50.408779,8.150983,50.408779",
     "geom:latitude":50.408779,
     "geom:longitude":8.150983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Dallenberg 30",
     "sg:city":"Runkel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063643,
-        85633111,
         85682531,
-        85796011
+        85633111,
+        85796011,
+        102063643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152967603,
-    "wof:lastmodified":1449048579,
+    "wof:lastmodified":1466231040,
     "wof:name":"Titten - Titten -titten",
     "wof:parent_id":85796011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.150983,50.408779,8.150983,50.408779],
+  "bbox": [
+    8.150983,
+    50.408779,
+    8.150983,
+    50.408779
+],
   "geometry": {"coordinates":[8.150983,50.408779],"type":"Point"}
 }

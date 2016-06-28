@@ -2,13 +2,14 @@
   "id": 119320417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.898373,53.046112,8.898373,53.046112",
     "geom:latitude":53.046112,
     "geom:longitude":8.898373,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ellernstr. 11",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794751,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119320417,
-    "wof:lastmodified":1449041469,
+    "wof:lastmodified":1466238482,
     "wof:name":"H. Gerken",
     "wof:parent_id":85794751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.898373,53.046112,8.898373,53.046112],
+  "bbox": [
+    8.898373,
+    53.046112,
+    8.898373,
+    53.046112
+],
   "geometry": {"coordinates":[8.898373,53.046112],"type":"Point"}
 }

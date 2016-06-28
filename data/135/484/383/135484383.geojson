@@ -2,13 +2,14 @@
   "id": 135484383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.148517,49.466072,11.148517,49.466072",
     "geom:latitude":49.466072,
     "geom:longitude":11.148517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufamholzstr 2",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900173,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135484383,
-    "wof:lastmodified":1449023828,
+    "wof:lastmodified":1466230231,
     "wof:name":"Accuzentrale",
     "wof:parent_id":85900173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.148517,49.466072,11.148517,49.466072],
+  "bbox": [
+    11.148517,
+    49.466072,
+    11.148517,
+    49.466072
+],
   "geometry": {"coordinates":[11.148517,49.466072],"type":"Point"}
 }

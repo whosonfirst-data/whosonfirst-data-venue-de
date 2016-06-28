@@ -2,13 +2,14 @@
   "id": 135597047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.233626,52.607647,13.233626,52.607647",
     "geom:latitude":52.607647,
     "geom:longitude":13.233626,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Erpelgrund 25",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899999,
+        85682499,
         85633111,
         101841459,
         102063945,
-        85682499
+        85899999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135597047,
-    "wof:lastmodified":1449023946,
+    "wof:lastmodified":1466238915,
     "wof:name":"Rudolf W. Sichting Heizungsbau San. Inst. Bauklempnerei",
     "wof:parent_id":85899999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.233626,52.607647,13.233626,52.607647],
+  "bbox": [
+    13.233626,
+    52.607647,
+    13.233626,
+    52.607647
+],
   "geometry": {"coordinates":[13.233626,52.607647],"type":"Point"}
 }

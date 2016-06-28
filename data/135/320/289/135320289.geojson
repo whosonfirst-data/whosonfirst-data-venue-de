@@ -2,13 +2,14 @@
   "id": 135320289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.685239,51.449783,6.685239,51.449783",
     "geom:latitude":51.449783,
     "geom:longitude":6.685239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moerser Str. 236",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795203,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135320289,
-    "wof:lastmodified":1449021757,
+    "wof:lastmodified":1466215533,
     "wof:name":"Volker Reitz",
     "wof:parent_id":85795203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.685239,51.449783,6.685239,51.449783],
+  "bbox": [
+    6.685239,
+    51.449783,
+    6.685239,
+    51.449783
+],
   "geometry": {"coordinates":[6.685239,51.449783],"type":"Point"}
 }

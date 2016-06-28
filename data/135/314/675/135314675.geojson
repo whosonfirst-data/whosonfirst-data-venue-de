@@ -2,13 +2,14 @@
   "id": 135314675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.059269,49.632244,12.059269,49.632244",
     "geom:latitude":49.632244,
     "geom:longitude":12.059269,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 12",
     "sg:city":"Weiherhammer",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135314675,
-    "wof:lastmodified":1449023877,
+    "wof:lastmodified":1466215024,
     "wof:name":"Schaller",
     "wof:parent_id":101827001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.059269,49.632244,12.059269,49.632244],
+  "bbox": [
+    12.059269,
+    49.632244,
+    12.059269,
+    49.632244
+],
   "geometry": {"coordinates":[12.059269,49.632244],"type":"Point"}
 }

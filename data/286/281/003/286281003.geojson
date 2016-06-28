@@ -2,13 +2,14 @@
   "id": 286281003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.808499,50.059387,8.808499,50.059387",
     "geom:latitude":50.059387,
     "geom:longitude":8.808499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 16",
     "sg:city":"Heusenstamm",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286281003,
-    "wof:lastmodified":1449017662,
+    "wof:lastmodified":1466225063,
     "wof:name":"Labyrinth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.808499,50.059387,8.808499,50.059387],
+  "bbox": [
+    8.808499,
+    50.059387,
+    8.808499,
+    50.059387
+],
   "geometry": {"coordinates":[8.808499,50.059387],"type":"Point"}
 }

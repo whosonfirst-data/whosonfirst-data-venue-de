@@ -2,13 +2,14 @@
   "id": 236195607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.12472,50.990952,7.12472,50.990952",
     "geom:latitude":50.990952,
     "geom:longitude":7.12472,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stationsstr. 1",
     "sg:city":"Bergisch Gladbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236195607,
-    "wof:lastmodified":1449003893,
+    "wof:lastmodified":1466222508,
     "wof:name":"City Wheels",
     "wof:parent_id":85794941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.12472,50.990952,7.12472,50.990952],
+  "bbox": [
+    7.12472,
+    50.990952,
+    7.12472,
+    50.990952
+],
   "geometry": {"coordinates":[7.12472,50.990952],"type":"Point"}
 }

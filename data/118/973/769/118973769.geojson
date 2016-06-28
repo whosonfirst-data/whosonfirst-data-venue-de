@@ -2,13 +2,14 @@
   "id": 118973769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.388513,48.992081,8.388513,48.992081",
     "geom:latitude":48.992081,
     "geom:longitude":8.388513,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"C\u00e4ciliastr. 25",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118973769,
-    "wof:lastmodified":1449054002,
+    "wof:lastmodified":1466238634,
     "wof:name":"Amelia Georgescu Architektin",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.388513,48.992081,8.388513,48.992081],
+  "bbox": [
+    8.388513,
+    48.992081,
+    8.388513,
+    48.992081
+],
   "geometry": {"coordinates":[8.388513,48.992081],"type":"Point"}
 }

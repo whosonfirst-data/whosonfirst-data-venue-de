@@ -2,13 +2,14 @@
   "id": 118641795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.904685,48.357239,10.904685,48.357239",
     "geom:latitude":48.357239,
     "geom:longitude":10.904685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Baumgartnerstr. 10",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900105,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85900105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118641795,
-    "wof:lastmodified":1449054221,
+    "wof:lastmodified":1466220641,
     "wof:name":"Sparkassen-altenwohnheim",
     "wof:parent_id":85900105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.904685,48.357239,10.904685,48.357239],
+  "bbox": [
+    10.904685,
+    48.357239,
+    10.904685,
+    48.357239
+],
   "geometry": {"coordinates":[10.904685,48.357239],"type":"Point"}
 }

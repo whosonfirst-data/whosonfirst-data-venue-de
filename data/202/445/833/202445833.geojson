@@ -2,13 +2,14 @@
   "id": 202445833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.135907,49.352531,8.135907,49.352531",
     "geom:latitude":49.352531,
     "geom:longitude":8.135907,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kunigundenstr. 13",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202445833,
-    "wof:lastmodified":1449060444,
+    "wof:lastmodified":1466214604,
     "wof:name":"G. Collet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.135907,49.352531,8.135907,49.352531],
+  "bbox": [
+    8.135907,
+    49.352531,
+    8.135907,
+    49.352531
+],
   "geometry": {"coordinates":[8.135907,49.352531],"type":"Point"}
 }

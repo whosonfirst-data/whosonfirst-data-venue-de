@@ -2,13 +2,14 @@
   "id": 118563539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.995691,51.015606,10.995691,51.015606",
     "geom:latitude":51.015606,
     "geom:longitude":10.995691,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zittauer Str. 30",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899201,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118563539,
-    "wof:lastmodified":1449053170,
+    "wof:lastmodified":1466216072,
     "wof:name":"Telefonbuch-verlag Th\u00fcringen Gmbh",
     "wof:parent_id":85899201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.995691,51.015606,10.995691,51.015606],
+  "bbox": [
+    10.995691,
+    51.015606,
+    10.995691,
+    51.015606
+],
   "geometry": {"coordinates":[10.995691,51.015606],"type":"Point"}
 }

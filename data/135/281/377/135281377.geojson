@@ -2,13 +2,14 @@
   "id": 135281377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.444442,48.405964,10.444442,48.405964",
     "geom:latitude":48.405964,
     "geom:longitude":10.444442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 235",
     "sg:city":"Jettingen-Scheppach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135281377,
-    "wof:lastmodified":1449023551,
+    "wof:lastmodified":1466230711,
     "wof:name":"Johann Kollmann",
     "wof:parent_id":101785475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.444442,48.405964,10.444442,48.405964],
+  "bbox": [
+    10.444442,
+    48.405964,
+    10.444442,
+    48.405964
+],
   "geometry": {"coordinates":[10.444442,48.405964],"type":"Point"}
 }

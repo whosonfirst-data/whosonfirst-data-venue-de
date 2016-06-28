@@ -2,13 +2,14 @@
   "id": 152848625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984764,40.748421,-73.984764,40.748421",
     "geom:latitude":40.748421,
     "geom:longitude":-73.984764,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Fifth Avenue Suite 3304",
     "sg:city":"New York",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"10118",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869391,
+        85688543,
         85633793,
         85977539,
         102081863,
-        85688543
+        85869391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152848625,
-    "wof:lastmodified":1449044957,
+    "wof:lastmodified":1466228174,
     "wof:name":"Ikarus Consulting Corp.",
     "wof:parent_id":85869391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.984764,40.748421,-73.984764,40.748421],
+  "bbox": [
+    -73.984764,
+    40.748421,
+    -73.984764,
+    40.748421
+],
   "geometry": {"coordinates":[-73.984764,40.748421],"type":"Point"}
 }

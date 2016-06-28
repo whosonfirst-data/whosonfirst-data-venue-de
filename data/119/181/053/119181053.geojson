@@ -2,13 +2,14 @@
   "id": 119181053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.25294,52.73983,13.25294,52.73983",
     "geom:latitude":52.73983,
     "geom:longitude":13.25294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Koch-Str. 56",
     "sg:city":"Oranienburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119181053,
-    "wof:lastmodified":1449042481,
+    "wof:lastmodified":1466227046,
     "wof:name":"H. Ewen Ingenieur",
     "wof:parent_id":101820027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.25294,52.73983,13.25294,52.73983],
+  "bbox": [
+    13.25294,
+    52.73983,
+    13.25294,
+    52.73983
+],
   "geometry": {"coordinates":[13.25294,52.73983],"type":"Point"}
 }

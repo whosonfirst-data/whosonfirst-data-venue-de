@@ -2,13 +2,14 @@
   "id": 135599965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.564833,52.582317,13.564833,52.582317",
     "geom:latitude":52.582317,
     "geom:longitude":13.564833,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiligrathstr. 11",
     "sg:city":"Ahrensfelde",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85905653
+        85633111,
+        85905653,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135599965,
-    "wof:lastmodified":1449022418,
+    "wof:lastmodified":1466239278,
     "wof:name":"Aufzug-hebezug- Autoelektrik-dienst",
     "wof:parent_id":85905653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.564833,52.582317,13.564833,52.582317],
+  "bbox": [
+    13.564833,
+    52.582317,
+    13.564833,
+    52.582317
+],
   "geometry": {"coordinates":[13.564833,52.582317],"type":"Point"}
 }

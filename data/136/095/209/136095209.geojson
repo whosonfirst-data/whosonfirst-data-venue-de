@@ -2,13 +2,14 @@
   "id": 136095209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.885737,48.35899,10.885737,48.35899",
     "geom:latitude":48.35899,
     "geom:longitude":10.885737,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Imhofstr. 12",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900099,
+        85682571,
         85633111,
         101755891,
         102063311,
-        85682571
+        85900099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136095209,
-    "wof:lastmodified":1449075588,
+    "wof:lastmodified":1466216541,
     "wof:name":"K\u00dcnstler Showb\u00dchne",
     "wof:parent_id":85900099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.885737,48.35899,10.885737,48.35899],
+  "bbox": [
+    10.885737,
+    48.35899,
+    10.885737,
+    48.35899
+],
   "geometry": {"coordinates":[10.885737,48.35899],"type":"Point"}
 }

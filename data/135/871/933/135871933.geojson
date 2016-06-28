@@ -2,13 +2,14 @@
   "id": 135871933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.09395,53.552475,10.09395,53.552475",
     "geom:latitude":53.552475,
     "geom:longitude":10.09395,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kroogbl\u00f6cke 40",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899247,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135871933,
-    "wof:lastmodified":1449021993,
+    "wof:lastmodified":1466244460,
     "wof:name":"Fr\u00fchling - Bestattungen Hannelore Fr\u00fchling-",
     "wof:parent_id":85899247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.09395,53.552475,10.09395,53.552475],
+  "bbox": [
+    10.09395,
+    53.552475,
+    10.09395,
+    53.552475
+],
   "geometry": {"coordinates":[10.09395,53.552475],"type":"Point"}
 }

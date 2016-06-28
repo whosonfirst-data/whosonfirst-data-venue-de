@@ -2,13 +2,14 @@
   "id": 135735973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.191022,48.89629,9.191022,48.89629",
     "geom:latitude":48.89629,
     "geom:longitude":9.191022,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 12",
     "sg:city":"Ludwigsburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135735973,
-    "wof:lastmodified":1449023915,
+    "wof:lastmodified":1466243314,
     "wof:name":"Brothers",
     "wof:parent_id":101748521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.191022,48.89629,9.191022,48.89629],
+  "bbox": [
+    9.191022,
+    48.89629,
+    9.191022,
+    48.89629
+],
   "geometry": {"coordinates":[9.191022,48.89629],"type":"Point"}
 }

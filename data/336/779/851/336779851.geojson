@@ -2,13 +2,14 @@
   "id": 336779851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.577485,52.496311,13.577485,52.496311",
     "geom:latitude":52.496311,
     "geom:longitude":13.577485,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemnitzer Str. 107",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336779851,
-    "wof:lastmodified":1448997107,
+    "wof:lastmodified":1466237323,
     "wof:name":"Burghard Pommerening",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.577485,52.496311,13.577485,52.496311],
+  "bbox": [
+    13.577485,
+    52.496311,
+    13.577485,
+    52.496311
+],
   "geometry": {"coordinates":[13.577485,52.496311],"type":"Point"}
 }

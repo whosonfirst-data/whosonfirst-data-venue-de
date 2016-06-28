@@ -2,13 +2,14 @@
   "id": 118617609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.083719,50.79171,6.083719,50.79171",
     "geom:latitude":50.79171,
     "geom:longitude":6.083719,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Str\u00fcverweg 3",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862969,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85862969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118617609,
-    "wof:lastmodified":1449053189,
+    "wof:lastmodified":1466219262,
     "wof:name":"Altenheim St. Raphael",
     "wof:parent_id":85862969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.083719,50.79171,6.083719,50.79171],
+  "bbox": [
+    6.083719,
+    50.79171,
+    6.083719,
+    50.79171
+],
   "geometry": {"coordinates":[6.083719,50.79171],"type":"Point"}
 }

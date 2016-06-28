@@ -2,13 +2,14 @@
   "id": 118535551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.235147,48.743019,9.235147,48.743019",
     "geom:latitude":48.743019,
     "geom:longitude":9.235147,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nellinger Str. 42",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118535551,
-    "wof:lastmodified":1449053390,
+    "wof:lastmodified":1466214598,
     "wof:name":"Herbert Reimann",
     "wof:parent_id":101748509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.235147,48.743019,9.235147,48.743019],
+  "bbox": [
+    9.235147,
+    48.743019,
+    9.235147,
+    48.743019
+],
   "geometry": {"coordinates":[9.235147,48.743019],"type":"Point"}
 }

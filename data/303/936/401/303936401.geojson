@@ -2,13 +2,14 @@
   "id": 303936401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64206,49.769283,8.64206,49.769283",
     "geom:latitude":49.769283,
     "geom:longitude":8.64206,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Grundweg 22",
     "sg:city":"Seeheim-Jugenheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303936401,
-    "wof:lastmodified":1448998932,
+    "wof:lastmodified":1466241364,
     "wof:name":"Kogel",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.64206,49.769283,8.64206,49.769283],
+  "bbox": [
+    8.64206,
+    49.769283,
+    8.64206,
+    49.769283
+],
   "geometry": {"coordinates":[8.64206,49.769283],"type":"Point"}
 }

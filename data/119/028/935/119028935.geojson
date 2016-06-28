@@ -2,13 +2,14 @@
   "id": 119028935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.942441,50.982075,6.942441,50.982075",
     "geom:latitude":50.982075,
     "geom:longitude":6.942441,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pallenbergstr. 14",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862995,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85862995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119028935,
-    "wof:lastmodified":1449042291,
+    "wof:lastmodified":1466213416,
     "wof:name":"H. Knauf Architekt",
     "wof:parent_id":85862995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.942441,50.982075,6.942441,50.982075],
+  "bbox": [
+    6.942441,
+    50.982075,
+    6.942441,
+    50.982075
+],
   "geometry": {"coordinates":[6.942441,50.982075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119262329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.323748,51.296902,12.323748,51.296902",
     "geom:latitude":51.296902,
     "geom:longitude":12.323748,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Immenstr. 48",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85899485
+        85633111,
+        85899485,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119262329,
-    "wof:lastmodified":1449042510,
+    "wof:lastmodified":1466234847,
     "wof:name":"Dr. Med. Helga Richter",
     "wof:parent_id":85899485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.323748,51.296902,12.323748,51.296902],
+  "bbox": [
+    12.323748,
+    51.296902,
+    12.323748,
+    51.296902
+],
   "geometry": {"coordinates":[12.323748,51.296902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135610159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.280987,50.792858,10.280987,50.792858",
     "geom:latitude":50.792858,
     "geom:longitude":10.280987,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Bahnhof 12",
     "sg:city":"Immelborn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135610159,
-    "wof:lastmodified":1449023934,
+    "wof:lastmodified":1466239767,
     "wof:name":"B & S Gmbh",
     "wof:parent_id":101827181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.280987,50.792858,10.280987,50.792858],
+  "bbox": [
+    10.280987,
+    50.792858,
+    10.280987,
+    50.792858
+],
   "geometry": {"coordinates":[10.280987,50.792858],"type":"Point"}
 }

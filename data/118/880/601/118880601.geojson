@@ -2,13 +2,14 @@
   "id": 118880601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.202539,52.536491,13.202539,52.536491",
     "geom:latitude":52.536491,
     "geom:longitude":13.202539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Schurz-Str. 22",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899379,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118880601,
-    "wof:lastmodified":1449054560,
+    "wof:lastmodified":1466234718,
     "wof:name":"Charlotten-apotheke Dr. H. Diedrich U. C. Diedrich",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.202539,52.536491,13.202539,52.536491],
+  "bbox": [
+    13.202539,
+    52.536491,
+    13.202539,
+    52.536491
+],
   "geometry": {"coordinates":[13.202539,52.536491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203365165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.828463,47.642227,10.828463,47.642227",
     "geom:latitude":47.642227,
     "geom:longitude":10.828463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedgasse 5",
     "sg:city":"Halblech",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203365165,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466219896,
     "wof:name":"Wilhelm Lang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.828463,47.642227,10.828463,47.642227],
+  "bbox": [
+    10.828463,
+    47.642227,
+    10.828463,
+    47.642227
+],
   "geometry": {"coordinates":[10.828463,47.642227],"type":"Point"}
 }

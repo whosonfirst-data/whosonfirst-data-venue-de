@@ -2,13 +2,14 @@
   "id": 119213297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.376642,51.449341,7.376642,51.449341",
     "geom:latitude":51.449341,
     "geom:longitude":7.376642,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockumer Str. 17",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794743,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119213297,
-    "wof:lastmodified":1449040910,
+    "wof:lastmodified":1466230003,
     "wof:name":"Kath. \u00d6ffentl. Bibliothek",
     "wof:parent_id":85794743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.376642,51.449341,7.376642,51.449341],
+  "bbox": [
+    7.376642,
+    51.449341,
+    7.376642,
+    51.449341
+],
   "geometry": {"coordinates":[7.376642,51.449341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135503225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.028097,51.016479,11.028097,51.016479",
     "geom:latitude":51.016479,
     "geom:longitude":11.028097,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwerborner Str. 29",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900121,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85900121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135503225,
-    "wof:lastmodified":1449023993,
+    "wof:lastmodified":1466231876,
     "wof:name":"M\u00fchl Product Und Service Und Th\u00fcringer Baustoffhandel",
     "wof:parent_id":85900121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.028097,51.016479,11.028097,51.016479],
+  "bbox": [
+    11.028097,
+    51.016479,
+    11.028097,
+    51.016479
+],
   "geometry": {"coordinates":[11.028097,51.016479],"type":"Point"}
 }

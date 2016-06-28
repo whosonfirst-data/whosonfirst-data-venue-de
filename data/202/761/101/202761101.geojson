@@ -2,13 +2,14 @@
   "id": 202761101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.586379,51.57193,10.586379,51.57193",
     "geom:latitude":51.57193,
     "geom:longitude":10.586379,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Harzstr. 1",
     "sg:city":"Bad Sachsa",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202761101,
-    "wof:lastmodified":1449062054,
+    "wof:lastmodified":1466220547,
     "wof:name":"Gustav Vollmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.586379,51.57193,10.586379,51.57193],
+  "bbox": [
+    10.586379,
+    51.57193,
+    10.586379,
+    51.57193
+],
   "geometry": {"coordinates":[10.586379,51.57193],"type":"Point"}
 }

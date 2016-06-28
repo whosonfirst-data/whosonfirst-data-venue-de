@@ -2,13 +2,14 @@
   "id": 119265623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.441836,51.322411,9.441836,51.322411",
     "geom:latitude":51.322411,
     "geom:longitude":9.441836,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zum Berggarten 16",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900201,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85900201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119265623,
-    "wof:lastmodified":1449041690,
+    "wof:lastmodified":1466235165,
     "wof:name":"Dr. Med. Lutz Fl\u00f6th",
     "wof:parent_id":85900201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.441836,51.322411,9.441836,51.322411],
+  "bbox": [
+    9.441836,
+    51.322411,
+    9.441836,
+    51.322411
+],
   "geometry": {"coordinates":[9.441836,51.322411],"type":"Point"}
 }

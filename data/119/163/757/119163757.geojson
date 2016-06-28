@@ -2,13 +2,14 @@
   "id": 119163757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.420044,48.120316,11.420044,48.120316",
     "geom:latitude":48.120316,
     "geom:longitude":11.420044,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maria-Eich-Str. 90b",
     "sg:city":"Gr\u00e4felfing",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119163757,
-    "wof:lastmodified":1449043508,
+    "wof:lastmodified":1466225372,
     "wof:name":"Wolfhard Merten Architekt",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.420044,48.120316,11.420044,48.120316],
+  "bbox": [
+    11.420044,
+    48.120316,
+    11.420044,
+    48.120316
+],
   "geometry": {"coordinates":[11.420044,48.120316],"type":"Point"}
 }

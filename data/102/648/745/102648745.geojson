@@ -2,13 +2,14 @@
   "id": 102648745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124489,49.456249,11.124489,49.456249",
     "geom:latitude":49.456249,
     "geom:longitude":11.124489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitengraserstr. 8",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102648745,
-    "wof:lastmodified":1449068441,
+    "wof:lastmodified":1466214652,
     "wof:name":"Hans J. Sidon Architekt Gr. Bvh",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124489,49.456249,11.124489,49.456249],
+  "bbox": [
+    11.124489,
+    49.456249,
+    11.124489,
+    49.456249
+],
   "geometry": {"coordinates":[11.124489,49.456249],"type":"Point"}
 }

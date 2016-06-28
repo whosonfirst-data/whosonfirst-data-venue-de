@@ -2,13 +2,14 @@
   "id": 135682449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.0387,51.458229,12.0387,51.458229",
     "geom:latitude":51.458229,
     "geom:longitude":12.0387,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Queiser Str. 7",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063785,
-        85633111,
         85682519,
-        85899053
+        85633111,
+        85899053,
+        102063785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135682449,
-    "wof:lastmodified":1449021496,
+    "wof:lastmodified":1466241909,
     "wof:name":"Schneckenburger Bauelemente Ohg",
     "wof:parent_id":85899053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.0387,51.458229,12.0387,51.458229],
+  "bbox": [
+    12.0387,
+    51.458229,
+    12.0387,
+    51.458229
+],
   "geometry": {"coordinates":[12.0387,51.458229],"type":"Point"}
 }

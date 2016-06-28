@@ -2,13 +2,14 @@
   "id": 135323921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48063,51.200909,9.48063,51.200909",
     "geom:latitude":51.200909,
     "geom:longitude":9.48063,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untergasse 17",
     "sg:city":"Guxhagen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135323921,
-    "wof:lastmodified":1449021265,
+    "wof:lastmodified":1466215844,
     "wof:name":"Walter Most",
     "wof:parent_id":101809963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.48063,51.200909,9.48063,51.200909],
+  "bbox": [
+    9.48063,
+    51.200909,
+    9.48063,
+    51.200909
+],
   "geometry": {"coordinates":[9.48063,51.200909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202401209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.782247,51.241028,6.782247,51.241028",
     "geom:latitude":51.241028,
     "geom:longitude":6.782247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterstr. 4",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202401209,
-    "wof:lastmodified":1449062286,
+    "wof:lastmodified":1466213790,
     "wof:name":"Walter Kr\u00e4ntzer",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.782247,51.241028,6.782247,51.241028],
+  "bbox": [
+    6.782247,
+    51.241028,
+    6.782247,
+    51.241028
+],
   "geometry": {"coordinates":[6.782247,51.241028],"type":"Point"}
 }

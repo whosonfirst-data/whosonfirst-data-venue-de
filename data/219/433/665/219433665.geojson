@@ -2,13 +2,14 @@
   "id": 219433665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.039197,51.473289,7.039197,51.473289",
     "geom:latitude":51.473289,
     "geom:longitude":7.039197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Theodor-Pyls-Str. 32",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219433665,
-    "wof:lastmodified":1449070795,
+    "wof:lastmodified":1466219359,
     "wof:name":"Johann Wenzel",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.039197,51.473289,7.039197,51.473289],
+  "bbox": [
+    7.039197,
+    51.473289,
+    7.039197,
+    51.473289
+],
   "geometry": {"coordinates":[7.039197,51.473289],"type":"Point"}
 }

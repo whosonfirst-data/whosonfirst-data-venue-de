@@ -2,13 +2,14 @@
   "id": 119274267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.50094,52.496479,13.50094,52.496479",
     "geom:latitude":52.496479,
     "geom:longitude":13.50094,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Michiganseestr. 124",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899981,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119274267,
-    "wof:lastmodified":1449041172,
+    "wof:lastmodified":1466235952,
     "wof:name":"S. Hilbert",
     "wof:parent_id":85899981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.50094,52.496479,13.50094,52.496479],
+  "bbox": [
+    13.50094,
+    52.496479,
+    13.50094,
+    52.496479
+],
   "geometry": {"coordinates":[13.50094,52.496479],"type":"Point"}
 }

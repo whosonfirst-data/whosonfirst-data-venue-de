@@ -2,13 +2,14 @@
   "id": 136000675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.076906,49.131542,10.076906,49.131542",
     "geom:latitude":49.131542,
     "geom:longitude":10.076906,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ellwanger Str. 39",
     "sg:city":"Crailsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136000675,
-    "wof:lastmodified":1449075122,
+    "wof:lastmodified":1466213091,
     "wof:name":"Zimmermann Gmbh",
     "wof:parent_id":101760911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.076906,49.131542,10.076906,49.131542],
+  "bbox": [
+    10.076906,
+    49.131542,
+    10.076906,
+    49.131542
+],
   "geometry": {"coordinates":[10.076906,49.131542],"type":"Point"}
 }

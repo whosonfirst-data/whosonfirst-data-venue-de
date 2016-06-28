@@ -2,13 +2,14 @@
   "id": 119359681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.166379,50.838707,10.166379,50.838707",
     "geom:latitude":50.838707,
     "geom:longitude":10.166379,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrgasse 8",
     "sg:city":"Tiefenort",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119359681,
-    "wof:lastmodified":1449040844,
+    "wof:lastmodified":1466240302,
     "wof:name":"Marco Reiser",
     "wof:parent_id":101811077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.166379,50.838707,10.166379,50.838707],
+  "bbox": [
+    10.166379,
+    50.838707,
+    10.166379,
+    50.838707
+],
   "geometry": {"coordinates":[10.166379,50.838707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253510233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.44094,48.795471,11.44094,48.795471",
     "geom:latitude":48.795471,
     "geom:longitude":11.44094,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hegnenbergstr. 26",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253510233,
-    "wof:lastmodified":1449064585,
+    "wof:lastmodified":1466229372,
     "wof:name":"Josef Zeller",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.44094,48.795471,11.44094,48.795471],
+  "bbox": [
+    11.44094,
+    48.795471,
+    11.44094,
+    48.795471
+],
   "geometry": {"coordinates":[11.44094,48.795471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202409941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.086079,53.351242,13.086079,53.351242",
     "geom:latitude":53.351242,
     "geom:longitude":13.086079,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Fasanerie 43",
     "sg:city":"Neustrelitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202409941,
-    "wof:lastmodified":1449061153,
+    "wof:lastmodified":1466213948,
     "wof:name":"Werner Meinke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.086079,53.351242,13.086079,53.351242],
+  "bbox": [
+    13.086079,
+    53.351242,
+    13.086079,
+    53.351242
+],
   "geometry": {"coordinates":[13.086079,53.351242],"type":"Point"}
 }

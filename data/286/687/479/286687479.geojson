@@ -2,13 +2,14 @@
   "id": 286687479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.802381,53.576225,9.802381,53.576225",
     "geom:latitude":53.576225,
     "geom:longitude":9.802381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fclldorfer Kirchenweg 147",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286687479,
-    "wof:lastmodified":1449016016,
+    "wof:lastmodified":1466234977,
     "wof:name":"Ernst Ruge",
     "wof:parent_id":85899581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.802381,53.576225,9.802381,53.576225],
+  "bbox": [
+    9.802381,
+    53.576225,
+    9.802381,
+    53.576225
+],
   "geometry": {"coordinates":[9.802381,53.576225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202410065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.310596,50.356094,9.310596,50.356094",
     "geom:latitude":50.356094,
     "geom:longitude":9.310596,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sudetenstr. 12",
     "sg:city":"Birstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202410065,
-    "wof:lastmodified":1449060144,
+    "wof:lastmodified":1466213950,
     "wof:name":"Werner Neff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.310596,50.356094,9.310596,50.356094],
+  "bbox": [
+    9.310596,
+    50.356094,
+    9.310596,
+    50.356094
+],
   "geometry": {"coordinates":[9.310596,50.356094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135636661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.501708,49.529057,8.501708,49.529057",
     "geom:latitude":49.529057,
     "geom:longitude":8.501708,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Narzissenweg 39",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795279,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85795279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135636661,
-    "wof:lastmodified":1449022198,
+    "wof:lastmodified":1466240559,
     "wof:name":"Indischer Granit Handelsgesellschaft Mbh",
     "wof:parent_id":85795279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.501708,49.529057,8.501708,49.529057],
+  "bbox": [
+    8.501708,
+    49.529057,
+    8.501708,
+    49.529057
+],
   "geometry": {"coordinates":[8.501708,49.529057],"type":"Point"}
 }

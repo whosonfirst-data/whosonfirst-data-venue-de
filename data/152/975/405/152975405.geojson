@@ -2,13 +2,14 @@
   "id": 152975405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.381325,52.616798,13.381325,52.616798",
     "geom:latitude":52.616798,
     "geom:longitude":13.381325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899837,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152975405,
-    "wof:lastmodified":1449048278,
+    "wof:lastmodified":1466231215,
     "wof:name":"Viagra Express Schweiz",
     "wof:parent_id":85899837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.381325,52.616798,13.381325,52.616798],
+  "bbox": [
+    13.381325,
+    52.616798,
+    13.381325,
+    52.616798
+],
   "geometry": {"coordinates":[13.381325,52.616798],"type":"Point"}
 }

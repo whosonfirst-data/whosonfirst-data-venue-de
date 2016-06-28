@@ -2,13 +2,14 @@
   "id": 119476633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.602639,52.029091,10.602639,52.029091",
     "geom:latitude":52.029091,
     "geom:longitude":10.602639,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breslauer Str. 1",
     "sg:city":"Hornburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119476633,
-    "wof:lastmodified":1449041851,
+    "wof:lastmodified":1466243223,
     "wof:name":"Paul Linke",
     "wof:parent_id":101821177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.602639,52.029091,10.602639,52.029091],
+  "bbox": [
+    10.602639,
+    52.029091,
+    10.602639,
+    52.029091
+],
   "geometry": {"coordinates":[10.602639,52.029091],"type":"Point"}
 }

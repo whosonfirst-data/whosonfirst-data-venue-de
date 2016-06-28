@@ -2,13 +2,14 @@
   "id": 185893923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.93528,29.755585,-82.93528,29.755585",
     "geom:latitude":29.755585,
     "geom:longitude":-82.93528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ladenberg 13",
     "sg:city":"Kurort Berggie\u00dfh\u00fcbel",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185893923,
-    "wof:lastmodified":1449007924,
+    "wof:lastmodified":1466216141,
     "wof:name":"Sieglinde Peuker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.93528,29.755585,-82.93528,29.755585],
-  "geometry": {"coordinates":[-82.93528,29.755585],"type":"Point"}
+  "bbox": [
+    -82.93528,
+    29.755585,
+    -82.93528,
+    29.755585
+],
+  "geometry": {"coordinates":[-82.93528000000001,29.755585],"type":"Point"}
 }

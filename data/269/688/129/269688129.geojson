@@ -2,13 +2,14 @@
   "id": 269688129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.627047,49.687977,10.627047,49.687977",
     "geom:latitude":49.687977,
     "geom:longitude":10.627047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kienfeld 10",
     "sg:city":"Vestenbergsgreuth",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269688129,
-    "wof:lastmodified":1449037045,
+    "wof:lastmodified":1466225658,
     "wof:name":"Simon Hack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.627047,49.687977,10.627047,49.687977],
+  "bbox": [
+    10.627047,
+    49.687977,
+    10.627047,
+    49.687977
+],
   "geometry": {"coordinates":[10.627047,49.687977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152261503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.008129,53.580063,10.008129,53.580063",
     "geom:latitude":53.580063,
     "geom:longitude":10.008129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sierichstr. 30",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152261503,
-    "wof:lastmodified":1449044372,
+    "wof:lastmodified":1466215327,
     "wof:name":"Alster-textilpflege Inh. P. Wiedenh\u00f6ft",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.008129,53.580063,10.008129,53.580063],
+  "bbox": [
+    10.008129,
+    53.580063,
+    10.008129,
+    53.580063
+],
   "geometry": {"coordinates":[10.008129,53.580063],"type":"Point"}
 }

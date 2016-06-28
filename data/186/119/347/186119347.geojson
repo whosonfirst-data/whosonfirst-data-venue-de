@@ -2,13 +2,14 @@
   "id": 186119347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.108357,48.904598,11.108357,48.904598",
     "geom:latitude":48.904598,
     "geom:longitude":11.108357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Harthofer Str. 2",
     "sg:city":"Schernfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186119347,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466214421,
     "wof:name":"Museum Berger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.108357,48.904598,11.108357,48.904598],
+  "bbox": [
+    11.108357,
+    48.904598,
+    11.108357,
+    48.904598
+],
   "geometry": {"coordinates":[11.108357,48.904598],"type":"Point"}
 }

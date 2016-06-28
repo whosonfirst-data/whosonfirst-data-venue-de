@@ -2,13 +2,14 @@
   "id": 135974249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.215632,51.177105,7.215632,51.177105",
     "geom:latitude":51.177105,
     "geom:longitude":7.215632,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuenkamper Str. 38-40",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862893,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135974249,
-    "wof:lastmodified":1449023615,
+    "wof:lastmodified":1466244842,
     "wof:name":"Felchner Verwaltungs-gmbh",
     "wof:parent_id":85862893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.215632,51.177105,7.215632,51.177105],
+  "bbox": [
+    7.215632,
+    51.177105,
+    7.215632,
+    51.177105
+],
   "geometry": {"coordinates":[7.215632,51.177105],"type":"Point"}
 }

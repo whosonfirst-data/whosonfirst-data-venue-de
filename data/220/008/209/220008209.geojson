@@ -2,13 +2,14 @@
   "id": 220008209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.008601,49.919914,9.008601,49.919914",
     "geom:latitude":49.919914,
     "geom:longitude":9.008601,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lutherstr. 4",
     "sg:city":"Schaafheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220008209,
-    "wof:lastmodified":1449074275,
+    "wof:lastmodified":1466214757,
     "wof:name":"Wilhelm Diehl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.008601,49.919914,9.008601,49.919914],
+  "bbox": [
+    9.008601,
+    49.919914,
+    9.008601,
+    49.919914
+],
   "geometry": {"coordinates":[9.008601,49.919914],"type":"Point"}
 }

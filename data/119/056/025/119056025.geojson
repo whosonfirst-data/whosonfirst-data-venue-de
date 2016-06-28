@@ -2,13 +2,14 @@
   "id": 119056025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.126723,49.470932,11.126723,49.470932",
     "geom:latitude":49.470932,
     "geom:longitude":11.126723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schubertstr. 12",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900011,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119056025,
-    "wof:lastmodified":1449041536,
+    "wof:lastmodified":1466215956,
     "wof:name":"Hoffmann Und Partner",
     "wof:parent_id":85900011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.126723,49.470932,11.126723,49.470932],
+  "bbox": [
+    11.126723,
+    49.470932,
+    11.126723,
+    49.470932
+],
   "geometry": {"coordinates":[11.126723,49.470932],"type":"Point"}
 }

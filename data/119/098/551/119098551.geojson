@@ -2,13 +2,14 @@
   "id": 119098551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.623065,52.373962,13.623065,52.373962",
     "geom:latitude":52.373962,
     "geom:longitude":13.623065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goethestr. 25",
     "sg:city":"Eichwalde",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063913,
-        85633111,
         85682553,
-        85907689
+        85633111,
+        85907689,
+        102063913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119098551,
-    "wof:lastmodified":1449043251,
+    "wof:lastmodified":1466219925,
     "wof:name":"Michael Riedel",
     "wof:parent_id":85907689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.623065,52.373962,13.623065,52.373962],
+  "bbox": [
+    13.623065,
+    52.373962,
+    13.623065,
+    52.373962
+],
   "geometry": {"coordinates":[13.623065,52.373962],"type":"Point"}
 }

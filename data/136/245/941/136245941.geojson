@@ -2,13 +2,14 @@
   "id": 136245941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.22101,48.806885,9.22101,48.806885",
     "geom:latitude":48.806885,
     "geom:longitude":9.22101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nig-Karl-Str.",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136245941,
-    "wof:lastmodified":1449076228,
+    "wof:lastmodified":1466223965,
     "wof:name":"R. Geywitz",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.22101,48.806885,9.22101,48.806885],
+  "bbox": [
+    9.22101,
+    48.806885,
+    9.22101,
+    48.806885
+],
   "geometry": {"coordinates":[9.22101,48.806885],"type":"Point"}
 }

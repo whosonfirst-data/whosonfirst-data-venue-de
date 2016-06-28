@@ -2,13 +2,14 @@
   "id": 119348563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.206681,51.508564,7.206681,51.508564",
     "geom:latitude":51.508564,
     "geom:longitude":7.206681,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf dem Dahlacker 42",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863239,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119348563,
-    "wof:lastmodified":1449041003,
+    "wof:lastmodified":1466239820,
     "wof:name":"K.-d. Hellfaier Und D. Schl\u00fcnder",
     "wof:parent_id":85863239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.206681,51.508564,7.206681,51.508564],
+  "bbox": [
+    7.206681,
+    51.508564,
+    7.206681,
+    51.508564
+],
   "geometry": {"coordinates":[7.206681,51.508564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102726289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.876976,48.383793,10.876976,48.383793",
     "geom:latitude":48.383793,
     "geom:longitude":10.876976,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollernstr 20",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899849,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102726289,
-    "wof:lastmodified":1449069451,
+    "wof:lastmodified":1466216884,
     "wof:name":"Rager Labor Gmbh",
     "wof:parent_id":85899849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.876976,48.383793,10.876976,48.383793],
+  "bbox": [
+    10.876976,
+    48.383793,
+    10.876976,
+    48.383793
+],
   "geometry": {"coordinates":[10.876976,48.383793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119255901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.653898,51.108006,10.653898,51.108006",
     "geom:latitude":51.108006,
     "geom:longitude":10.653898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Riedsgraben 2",
     "sg:city":"Bad Langensalza",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119255901,
-    "wof:lastmodified":1449042030,
+    "wof:lastmodified":1466234179,
     "wof:name":"Dr. Helmut Burgfeld",
     "wof:parent_id":101821939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.653898,51.108006,10.653898,51.108006],
+  "bbox": [
+    10.653898,
+    51.108006,
+    10.653898,
+    51.108006
+],
   "geometry": {"coordinates":[10.653898,51.108006],"type":"Point"}
 }

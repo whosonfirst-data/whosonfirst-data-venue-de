@@ -2,13 +2,14 @@
   "id": 119300221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.080034,52.001865,13.080034,52.001865",
     "geom:latitude":52.001865,
     "geom:longitude":13.080034,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuheimer Weg 1",
     "sg:city":"J\u00fcterbog",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119300221,
-    "wof:lastmodified":1449042364,
+    "wof:lastmodified":1466237496,
     "wof:name":"E. Behrendt",
     "wof:parent_id":101821181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.080034,52.001865,13.080034,52.001865],
+  "bbox": [
+    13.080034,
+    52.001865,
+    13.080034,
+    52.001865
+],
   "geometry": {"coordinates":[13.080034,52.001865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102568327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.111947,47.529999,11.111947,47.529999",
     "geom:latitude":47.529999,
     "geom:longitude":11.111947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Farchant",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102568327,
-    "wof:lastmodified":1449067716,
+    "wof:lastmodified":1466214388,
     "wof:name":"Heinz Dorn Architekt",
     "wof:parent_id":101788881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.111947,47.529999,11.111947,47.529999],
+  "bbox": [
+    11.111947,
+    47.529999,
+    11.111947,
+    47.529999
+],
   "geometry": {"coordinates":[11.111947,47.529999],"type":"Point"}
 }

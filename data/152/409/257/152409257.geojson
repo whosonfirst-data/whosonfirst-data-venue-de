@@ -2,13 +2,14 @@
   "id": 152409257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.348508,54.095131,13.348508,54.095131",
     "geom:latitude":54.095131,
     "geom:longitude":13.348508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Neuen Friedhof 12",
     "sg:city":"Greifswald",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152409257,
-    "wof:lastmodified":1449046205,
+    "wof:lastmodified":1466218335,
     "wof:name":"Bestattung G. Hennig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.348508,54.095131,13.348508,54.095131],
+  "bbox": [
+    13.348508,
+    54.095131,
+    13.348508,
+    54.095131
+],
   "geometry": {"coordinates":[13.348508,54.095131],"type":"Point"}
 }

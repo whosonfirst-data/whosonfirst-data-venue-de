@@ -2,13 +2,14 @@
   "id": 202411403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.899847,47.608017,12.899847,47.608017",
     "geom:latitude":47.608017,
     "geom:longitude":12.899847,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Tal 56",
     "sg:city":"Ramsau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202411403,
-    "wof:lastmodified":1449060217,
+    "wof:lastmodified":1466213975,
     "wof:name":"A. Lichtmannegger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.899847,47.608017,12.899847,47.608017],
+  "bbox": [
+    12.899847,
+    47.608017,
+    12.899847,
+    47.608017
+],
   "geometry": {"coordinates":[12.899847,47.608017],"type":"Point"}
 }

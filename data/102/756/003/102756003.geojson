@@ -2,13 +2,14 @@
   "id": 102756003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.292586,49.686256,10.292586,49.686256",
     "geom:latitude":49.686256,
     "geom:longitude":10.292586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbeker Marktstr 2",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102756003,
-    "wof:lastmodified":1449069184,
+    "wof:lastmodified":1466218597,
     "wof:name":"K. Siffert",
     "wof:parent_id":101827115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.292586,49.686256,10.292586,49.686256],
+  "bbox": [
+    10.292586,
+    49.686256,
+    10.292586,
+    49.686256
+],
   "geometry": {"coordinates":[10.292586,49.686256],"type":"Point"}
 }

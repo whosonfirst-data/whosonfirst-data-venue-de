@@ -2,13 +2,14 @@
   "id": 119063337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.692924,51.049122,13.692924,51.049122",
     "geom:latitude":51.049122,
     "geom:longitude":13.692924,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pennricher Str. 22",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119063337,
-    "wof:lastmodified":1449041083,
+    "wof:lastmodified":1466216683,
     "wof:name":"Jens Fischer",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.692924,51.049122,13.692924,51.049122],
+  "bbox": [
+    13.692924,
+    51.049122,
+    13.692924,
+    51.049122
+],
   "geometry": {"coordinates":[13.692924,51.049122],"type":"Point"}
 }

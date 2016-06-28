@@ -2,13 +2,14 @@
   "id": 269623241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.39133,52.325787,10.39133,52.325787",
     "geom:latitude":52.325787,
     "geom:longitude":10.39133,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Specken 9",
     "sg:city":"Wendeburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269623241,
-    "wof:lastmodified":1449037830,
+    "wof:lastmodified":1466224114,
     "wof:name":"Richard Hauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.39133,52.325787,10.39133,52.325787],
+  "bbox": [
+    10.39133,
+    52.325787,
+    10.39133,
+    52.325787
+],
   "geometry": {"coordinates":[10.39133,52.325787],"type":"Point"}
 }

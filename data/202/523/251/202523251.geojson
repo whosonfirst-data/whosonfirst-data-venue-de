@@ -2,13 +2,14 @@
   "id": 202523251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.840938,49.905819,10.840938,49.905819",
     "geom:latitude":49.905819,
     "geom:longitude":10.840938,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Himmelreichstr. 16",
     "sg:city":"Bischberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202523251,
-    "wof:lastmodified":1449061562,
+    "wof:lastmodified":1466216084,
     "wof:name":"T. Wagner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.840938,49.905819,10.840938,49.905819],
+  "bbox": [
+    10.840938,
+    49.905819,
+    10.840938,
+    49.905819
+],
   "geometry": {"coordinates":[10.840938,49.905819],"type":"Point"}
 }

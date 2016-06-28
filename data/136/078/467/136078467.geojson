@@ -2,13 +2,14 @@
   "id": 136078467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.801916,51.243565,6.801916,51.243565",
     "geom:latitude":51.243565,
     "geom:longitude":6.801916,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brehmstra\u00dfe 33 a",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795051,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136078467,
-    "wof:lastmodified":1449076053,
+    "wof:lastmodified":1466215720,
     "wof:name":"Ihr Restaurant In D\u00fcsseldorf, Partyservice",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.801916,51.243565,6.801916,51.243565],
+  "bbox": [
+    6.801916,
+    51.243565,
+    6.801916,
+    51.243565
+],
   "geometry": {"coordinates":[6.801916,51.243565],"type":"Point"}
 }

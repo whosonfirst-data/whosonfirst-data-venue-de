@@ -2,13 +2,14 @@
   "id": 118879045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.423245,49.419319,8.423245,49.419319",
     "geom:latitude":49.419319,
     "geom:longitude":8.423245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Dill-Str. 15",
     "sg:city":"Neuhofen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796279,
+        85682491,
         85633111,
         101815675,
         102063479,
-        85682491
+        85796279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118879045,
-    "wof:lastmodified":1449053168,
+    "wof:lastmodified":1466234624,
     "wof:name":"B\u00e4ren Apotheke Ursula Velec-hau\u00df",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.423245,49.419319,8.423245,49.419319],
+  "bbox": [
+    8.423245,
+    49.419319,
+    8.423245,
+    49.419319
+],
   "geometry": {"coordinates":[8.423245,49.419319],"type":"Point"}
 }

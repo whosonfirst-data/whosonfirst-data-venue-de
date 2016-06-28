@@ -2,13 +2,14 @@
   "id": 119024093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.940112,49.245979,6.940112,49.245979",
     "geom:latitude":49.245979,
     "geom:longitude":6.940112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neudorfer Str. 34",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795927,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85795927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119024093,
-    "wof:lastmodified":1449042112,
+    "wof:lastmodified":1466234902,
     "wof:name":"Gustav Hemmerling",
     "wof:parent_id":85795927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.940112,49.245979,6.940112,49.245979],
+  "bbox": [
+    6.940112,
+    49.245979,
+    6.940112,
+    49.245979
+],
   "geometry": {"coordinates":[6.940112,49.245979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202514197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.056511,51.187943,10.056511,51.187943",
     "geom:latitude":51.187943,
     "geom:longitude":10.056511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuer Steinweg 5",
     "sg:city":"Eschwege",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202514197,
-    "wof:lastmodified":1449061398,
+    "wof:lastmodified":1466215910,
     "wof:name":"Buchdruckerei Paul Hellwig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.056511,51.187943,10.056511,51.187943],
+  "bbox": [
+    10.056511,
+    51.187943,
+    10.056511,
+    51.187943
+],
   "geometry": {"coordinates":[10.056511,51.187943],"type":"Point"}
 }

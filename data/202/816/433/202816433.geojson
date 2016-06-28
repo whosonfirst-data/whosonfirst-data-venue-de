@@ -2,13 +2,14 @@
   "id": 202816433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.05323,54.01656,14.05323,54.01656",
     "geom:latitude":54.01656,
     "geom:longitude":14.05323,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Sportplatz 3",
     "sg:city":"\u00dcckeritz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202816433,
-    "wof:lastmodified":1449061594,
+    "wof:lastmodified":1466221523,
     "wof:name":"Paul Fromholz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.05323,54.01656,14.05323,54.01656],
+  "bbox": [
+    14.05323,
+    54.01656,
+    14.05323,
+    54.01656
+],
   "geometry": {"coordinates":[14.05323,54.01656],"type":"Point"}
 }

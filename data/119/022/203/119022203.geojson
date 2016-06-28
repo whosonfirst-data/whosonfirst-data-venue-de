@@ -2,13 +2,14 @@
   "id": 119022203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650333,50.141899,8.650333,50.141899",
     "geom:latitude":50.141899,
     "geom:longitude":8.650333,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcllerstr. 58",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119022203,
-    "wof:lastmodified":1449041668,
+    "wof:lastmodified":1466234573,
     "wof:name":"Geskes Und Obermann Architekten",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650333,50.141899,8.650333,50.141899],
+  "bbox": [
+    8.650333,
+    50.141899,
+    8.650333,
+    50.141899
+],
   "geometry": {"coordinates":[8.650333,50.141899],"type":"Point"}
 }

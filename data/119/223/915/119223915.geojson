@@ -2,13 +2,14 @@
   "id": 119223915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170395,48.76915,9.170395,48.76915",
     "geom:latitude":48.76915,
     "geom:longitude":9.170395,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Silberburgstr. 193",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119223915,
-    "wof:lastmodified":1449041043,
+    "wof:lastmodified":1466231017,
     "wof:name":"Landesdenkmalamt Baden-w\u00fcrttemberg",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.170395,48.76915,9.170395,48.76915],
+  "bbox": [
+    9.170395,
+    48.76915,
+    9.170395,
+    48.76915
+],
   "geometry": {"coordinates":[9.170395,48.76915],"type":"Point"}
 }

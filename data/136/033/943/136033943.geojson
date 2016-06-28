@@ -2,13 +2,14 @@
   "id": 136033943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.647845,50.082344,8.647845,50.082344",
     "geom:latitude":50.082344,
     "geom:longitude":8.647845,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigslacher Stra\u00dfe",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136033943,
-    "wof:lastmodified":1449075179,
+    "wof:lastmodified":1466213658,
     "wof:name":"Bullenbrief - Der Besondere B\u00f6rsenbrief",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.647845,50.082344,8.647845,50.082344],
+  "bbox": [
+    8.647845,
+    50.082344,
+    8.647845,
+    50.082344
+],
   "geometry": {"coordinates":[8.647845,50.082344],"type":"Point"}
 }

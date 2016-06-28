@@ -2,13 +2,14 @@
   "id": 135618789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.085954,53.492352,10.085954,53.492352",
     "geom:latitude":53.492352,
     "geom:longitude":10.085954,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tatenberger Deich 145",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064053,
-        85633111,
         85682505,
-        85899129
+        85633111,
+        85899129,
+        102064053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135618789,
-    "wof:lastmodified":1449022902,
+    "wof:lastmodified":1466240216,
     "wof:name":"Heinz Blancke",
     "wof:parent_id":85899129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.085954,53.492352,10.085954,53.492352],
+  "bbox": [
+    10.085954,
+    53.492352,
+    10.085954,
+    53.492352
+],
   "geometry": {"coordinates":[10.085954,53.492352],"type":"Point"}
 }

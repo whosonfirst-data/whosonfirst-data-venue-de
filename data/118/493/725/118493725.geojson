@@ -2,13 +2,14 @@
   "id": 118493725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.129035,47.855301,10.129035,47.855301",
     "geom:latitude":47.855301,
     "geom:longitude":10.129035,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Legau",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118493725,
-    "wof:lastmodified":1449053590,
+    "wof:lastmodified":1466213727,
     "wof:name":"O. Heinle",
     "wof:parent_id":101765369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.129035,47.855301,10.129035,47.855301],
+  "bbox": [
+    10.129035,
+    47.855301,
+    10.129035,
+    47.855301
+],
   "geometry": {"coordinates":[10.129035,47.855301],"type":"Point"}
 }

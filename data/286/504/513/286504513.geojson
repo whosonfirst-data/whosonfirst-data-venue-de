@@ -2,13 +2,14 @@
   "id": 286504513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.159735,51.162289,10.159735,51.162289",
     "geom:latitude":51.162289,
     "geom:longitude":10.159735,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Hose-Str. 4",
     "sg:city":"Wanfried",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":286504513,
-    "wof:lastmodified":1449015676,
+    "wof:lastmodified":1466230241,
     "wof:name":"Kurt Olbrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.159735,51.162289,10.159735,51.162289],
+  "bbox": [
+    10.159735,
+    51.162289,
+    10.159735,
+    51.162289
+],
   "geometry": {"coordinates":[10.159735,51.162289],"type":"Point"}
 }

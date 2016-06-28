@@ -2,13 +2,14 @@
   "id": 152975481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.481029,51.359196,9.481029,51.359196",
     "geom:latitude":51.359196,
     "geom:longitude":9.481029,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolfsbreite 6",
     "sg:city":"Vellmar",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906343,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152975481,
-    "wof:lastmodified":1449048279,
+    "wof:lastmodified":1466231216,
     "wof:name":"Victoria Versicherung - Thorsten Deuner",
     "wof:parent_id":85906343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.481029,51.359196,9.481029,51.359196],
+  "bbox": [
+    9.481029,
+    51.359196,
+    9.481029,
+    51.359196
+],
   "geometry": {"coordinates":[9.481029,51.359196],"type":"Point"}
 }

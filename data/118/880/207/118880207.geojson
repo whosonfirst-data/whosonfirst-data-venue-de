@@ -2,13 +2,14 @@
   "id": 118880207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.058144,52.404099,13.058144,52.404099",
     "geom:latitude":52.404099,
     "geom:longitude":13.058144,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Ebert-Str. 35",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928783,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85928783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118880207,
-    "wof:lastmodified":1449054560,
+    "wof:lastmodified":1466234693,
     "wof:name":"Celicien-apotheke Inh. Christina Becker",
     "wof:parent_id":85928783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.058144,52.404099,13.058144,52.404099],
+  "bbox": [
+    13.058144,
+    52.404099,
+    13.058144,
+    52.404099
+],
   "geometry": {"coordinates":[13.058144,52.404099],"type":"Point"}
 }

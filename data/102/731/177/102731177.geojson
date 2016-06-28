@@ -2,13 +2,14 @@
   "id": 102731177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.225735,48.834629,9.225735,48.834629",
     "geom:latitude":48.834629,
     "geom:longitude":9.225735,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85796651
+        85633111,
+        85796651,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102731177,
-    "wof:lastmodified":1449069922,
+    "wof:lastmodified":1466217074,
     "wof:name":"Photomeeting",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.225735,48.834629,9.225735,48.834629],
+  "bbox": [
+    9.225735,
+    48.834629,
+    9.225735,
+    48.834629
+],
   "geometry": {"coordinates":[9.225735,48.834629],"type":"Point"}
 }

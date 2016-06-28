@@ -2,13 +2,14 @@
   "id": 152268981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.755649,51.077114,13.755649,51.077114",
     "geom:latitude":51.077114,
     "geom:longitude":13.755649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsbr\u00fccker Str. 109",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906331,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152268981,
-    "wof:lastmodified":1449046935,
+    "wof:lastmodified":1466215472,
     "wof:name":"Erhard Adam",
     "wof:parent_id":85906331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.755649,51.077114,13.755649,51.077114],
+  "bbox": [
+    13.755649,
+    51.077114,
+    13.755649,
+    51.077114
+],
   "geometry": {"coordinates":[13.755649,51.077114],"type":"Point"}
 }

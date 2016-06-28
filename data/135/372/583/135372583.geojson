@@ -2,13 +2,14 @@
   "id": 135372583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.776055,51.21563,6.776055,51.21563",
     "geom:latitude":51.21563,
     "geom:longitude":6.776055,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leibnizstr 11-13::",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135372583,
-    "wof:lastmodified":1449022860,
+    "wof:lastmodified":1466220236,
     "wof:name":"Bdv Broadcaststudio D\u00fcsseldorf Vermietungsgesellschaft Mbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.776055,51.21563,6.776055,51.21563],
+  "bbox": [
+    6.776055,
+    51.21563,
+    6.776055,
+    51.21563
+],
   "geometry": {"coordinates":[6.776055,51.21563],"type":"Point"}
 }

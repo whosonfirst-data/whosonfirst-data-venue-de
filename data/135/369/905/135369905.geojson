@@ -2,13 +2,14 @@
   "id": 135369905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.000901,53.550964,10.000901,53.550964",
     "geom:latitude":53.550964,
     "geom:longitude":10.000901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6nckebergstr. 11",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135369905,
-    "wof:lastmodified":1449023842,
+    "wof:lastmodified":1466219956,
     "wof:name":"Bank Kreiss Ag",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.000901,53.550964,10.000901,53.550964],
+  "bbox": [
+    10.000901,
+    53.550964,
+    10.000901,
+    53.550964
+],
   "geometry": {"coordinates":[10.000901,53.550964],"type":"Point"}
 }

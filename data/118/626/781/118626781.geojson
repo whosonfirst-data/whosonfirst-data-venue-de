@@ -2,13 +2,14 @@
   "id": 118626781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.632652,52.142941,11.632652,52.142941",
     "geom:latitude":52.142941,
     "geom:longitude":11.632652,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lorenzweg 36",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118626781,
-    "wof:lastmodified":1449054538,
+    "wof:lastmodified":1466219807,
     "wof:name":"Gbw Gesch\u00e4ftszentrum Und Betreutes Wohnen Am Kr\u00f6kentor",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.632652,52.142941,11.632652,52.142941],
+  "bbox": [
+    11.632652,
+    52.142941,
+    11.632652,
+    52.142941
+],
   "geometry": {"coordinates":[11.632652,52.142941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203017663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.305345,52.840424,8.305345,52.840424",
     "geom:latitude":52.840424,
     "geom:longitude":8.305345,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ahlhorner Str. 55a",
     "sg:city":"Visbek",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203017663,
-    "wof:lastmodified":1449025953,
+    "wof:lastmodified":1466214054,
     "wof:name":"Georg Sliwinski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.305345,52.840424,8.305345,52.840424],
+  "bbox": [
+    8.305345,
+    52.840424,
+    8.305345,
+    52.840424
+],
   "geometry": {"coordinates":[8.305345,52.840424],"type":"Point"}
 }

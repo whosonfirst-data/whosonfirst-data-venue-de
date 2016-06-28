@@ -2,13 +2,14 @@
   "id": 119003849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.60424,48.110558,11.60424,48.110558",
     "geom:latitude":48.110558,
     "geom:longitude":11.60424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jakob-B\u00f6hme-Str. 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899199,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119003849,
-    "wof:lastmodified":1449043326,
+    "wof:lastmodified":1466213483,
     "wof:name":"Erich Richter Architekt",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.60424,48.110558,11.60424,48.110558],
+  "bbox": [
+    11.60424,
+    48.110558,
+    11.60424,
+    48.110558
+],
   "geometry": {"coordinates":[11.60424,48.110558],"type":"Point"}
 }

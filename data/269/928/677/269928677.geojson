@@ -2,13 +2,14 @@
   "id": 269928677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.627516,53.616619,8.627516,53.616619",
     "geom:latitude":53.616619,
     "geom:longitude":8.627516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langener Str. 67",
     "sg:city":"Langen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269928677,
-    "wof:lastmodified":1449038508,
+    "wof:lastmodified":1466231399,
     "wof:name":"Data Schnitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.627516,53.616619,8.627516,53.616619],
+  "bbox": [
+    8.627516,
+    53.616619,
+    8.627516,
+    53.616619
+],
   "geometry": {"coordinates":[8.627516,53.616619],"type":"Point"}
 }

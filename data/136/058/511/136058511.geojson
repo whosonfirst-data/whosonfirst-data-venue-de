@@ -2,13 +2,14 @@
   "id": 136058511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.963935,49.439163,10.963935,49.439163",
     "geom:latitude":49.439163,
     "geom:longitude":10.963935,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bibertstra\u00dfe 1",
     "sg:city":"Zirndorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900217,
+        85682571,
         85633111,
         101755915,
         102063467,
-        85682571
+        85900217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136058511,
-    "wof:lastmodified":1449075102,
+    "wof:lastmodified":1466214837,
     "wof:name":"Exotic Fruit - Die Clevere Geschenkidee",
     "wof:parent_id":85900217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.963935,49.439163,10.963935,49.439163],
+  "bbox": [
+    10.963935,
+    49.439163,
+    10.963935,
+    49.439163
+],
   "geometry": {"coordinates":[10.963935,49.439163],"type":"Point"}
 }

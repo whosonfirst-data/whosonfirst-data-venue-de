@@ -2,13 +2,14 @@
   "id": 152786765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.762865,53.117542,8.762865,53.117542",
     "geom:latitude":53.117542,
     "geom:longitude":8.762865,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seewenjestr. 198",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85796255
+        85633111,
+        85796255,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152786765,
-    "wof:lastmodified":1449044910,
+    "wof:lastmodified":1466226733,
     "wof:name":"Die Homepage F\u00fcr Menschen In Den Besten Jahren",
     "wof:parent_id":85796255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.762865,53.117542,8.762865,53.117542],
+  "bbox": [
+    8.762865,
+    53.117542,
+    8.762865,
+    53.117542
+],
   "geometry": {"coordinates":[8.762865,53.117542],"type":"Point"}
 }

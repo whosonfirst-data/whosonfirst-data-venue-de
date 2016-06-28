@@ -2,13 +2,14 @@
   "id": 119186737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.725381,51.053272,13.725381,51.053272",
     "geom:latitude":51.053272,
     "geom:longitude":13.725381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schweriner Str. 46",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905665,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119186737,
-    "wof:lastmodified":1449042912,
+    "wof:lastmodified":1466227541,
     "wof:name":"Ingenieurb\u00fcro Welk Gmbh",
     "wof:parent_id":85905665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.725381,51.053272,13.725381,51.053272],
+  "bbox": [
+    13.725381,
+    51.053272,
+    13.725381,
+    51.053272
+],
   "geometry": {"coordinates":[13.725381,51.053272],"type":"Point"}
 }

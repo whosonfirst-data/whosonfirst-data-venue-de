@@ -2,13 +2,14 @@
   "id": 203062153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.17344,47.798439,12.17344,47.798439",
     "geom:latitude":47.798439,
     "geom:longitude":12.17344,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Florianstr. 2",
     "sg:city":"Rohrdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203062153,
-    "wof:lastmodified":1449026735,
+    "wof:lastmodified":1466214843,
     "wof:name":"Hans Leitner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.17344,47.798439,12.17344,47.798439],
+  "bbox": [
+    12.17344,
+    47.798439,
+    12.17344,
+    47.798439
+],
   "geometry": {"coordinates":[12.17344,47.798439],"type":"Point"}
 }

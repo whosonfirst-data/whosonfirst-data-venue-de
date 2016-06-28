@@ -2,13 +2,14 @@
   "id": 135946711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.946012,53.561977,9.946012,53.561977",
     "geom:latitude":53.561977,
     "geom:longitude":9.946012,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holstenstr. 224",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135946711,
-    "wof:lastmodified":1449023647,
+    "wof:lastmodified":1466244728,
     "wof:name":"Hta Beteiligungs-gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.946012,53.561977,9.946012,53.561977],
+  "bbox": [
+    9.946012,
+    53.561977,
+    9.946012,
+    53.561977
+],
   "geometry": {"coordinates":[9.946012,53.561977],"type":"Point"}
 }

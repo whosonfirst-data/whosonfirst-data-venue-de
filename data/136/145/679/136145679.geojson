@@ -2,13 +2,14 @@
   "id": 136145679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.454238,48.173256,11.454238,48.173256",
     "geom:latitude":48.173256,
     "geom:longitude":11.454238,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"0",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899907,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136145679,
-    "wof:lastmodified":1449075293,
+    "wof:lastmodified":1466218641,
     "wof:name":"Webdesign Von 2get Online",
     "wof:parent_id":85899907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.454238,48.173256,11.454238,48.173256],
+  "bbox": [
+    11.454238,
+    48.173256,
+    11.454238,
+    48.173256
+],
   "geometry": {"coordinates":[11.454238,48.173256],"type":"Point"}
 }

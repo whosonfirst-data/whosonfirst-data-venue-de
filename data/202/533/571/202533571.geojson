@@ -2,13 +2,14 @@
   "id": 202533571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.424339,54.772976,9.424339,54.772976",
     "geom:latitude":54.772976,
     "geom:longitude":9.424339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Husumer Str. 54",
     "sg:city":"Flensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202533571,
-    "wof:lastmodified":1449060083,
+    "wof:lastmodified":1466216291,
     "wof:name":"Karl Scheder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.424339,54.772976,9.424339,54.772976],
+  "bbox": [
+    9.424339,
+    54.772976,
+    9.424339,
+    54.772976
+],
   "geometry": {"coordinates":[9.424339,54.772976],"type":"Point"}
 }

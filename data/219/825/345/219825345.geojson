@@ -2,13 +2,14 @@
   "id": 219825345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.185228,48.736385,11.185228,48.736385",
     "geom:latitude":48.736385,
     "geom:longitude":11.185228,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlerstr. 242",
     "sg:city":"Neuburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219825345,
-    "wof:lastmodified":1449070509,
+    "wof:lastmodified":1466226821,
     "wof:name":"D. Schaller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.185228,48.736385,11.185228,48.736385],
+  "bbox": [
+    11.185228,
+    48.736385,
+    11.185228,
+    48.736385
+],
   "geometry": {"coordinates":[11.185228,48.736385],"type":"Point"}
 }

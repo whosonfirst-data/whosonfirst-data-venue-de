@@ -2,13 +2,14 @@
   "id": 152198027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.54529,51.523392,7.54529,51.523392",
     "geom:latitude":51.523392,
     "geom:longitude":7.54529,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brackeler Hellweg 123",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796673,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85796673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152198027,
-    "wof:lastmodified":1449045985,
+    "wof:lastmodified":1466214015,
     "wof:name":"K\u00f6nig",
     "wof:parent_id":85796673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.54529,51.523392,7.54529,51.523392],
+  "bbox": [
+    7.54529,
+    51.523392,
+    7.54529,
+    51.523392
+],
   "geometry": {"coordinates":[7.54529,51.523392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135366105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.249645,49.645012,11.249645,49.645012",
     "geom:latitude":49.645012,
     "geom:longitude":11.249645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 8",
     "sg:city":"Gr\u00e4fenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135366105,
-    "wof:lastmodified":1449023206,
+    "wof:lastmodified":1466219540,
     "wof:name":"Vereinigte Raiffeisenbanken Gr\u00c4fenberg Forchheim Eschenau Heroldsberg Eg",
     "wof:parent_id":101827057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.249645,49.645012,11.249645,49.645012],
+  "bbox": [
+    11.249645,
+    49.645012,
+    11.249645,
+    49.645012
+],
   "geometry": {"coordinates":[11.249645,49.645012],"type":"Point"}
 }

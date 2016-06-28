@@ -2,13 +2,14 @@
   "id": 202857233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.574915,48.119816,11.574915,48.119816",
     "geom:latitude":48.119816,
     "geom:longitude":11.574915,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Humboldtstr. 27",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202857233,
-    "wof:lastmodified":1449061735,
+    "wof:lastmodified":1466222332,
     "wof:name":"Peter Wohlfahrt",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.574915,48.119816,11.574915,48.119816],
+  "bbox": [
+    11.574915,
+    48.119816,
+    11.574915,
+    48.119816
+],
   "geometry": {"coordinates":[11.574915,48.119816],"type":"Point"}
 }

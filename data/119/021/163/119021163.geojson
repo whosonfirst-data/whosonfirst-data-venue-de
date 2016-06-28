@@ -2,13 +2,14 @@
   "id": 119021163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.067554,50.814598,6.067554,50.814598",
     "geom:latitude":50.814598,
     "geom:longitude":6.067554,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nauer Friede 62",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796765,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85796765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119021163,
-    "wof:lastmodified":1449042553,
+    "wof:lastmodified":1466233950,
     "wof:name":"Gerhard Wei\u00df Architekt",
     "wof:parent_id":85796765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.067554,50.814598,6.067554,50.814598],
+  "bbox": [
+    6.067554,
+    50.814598,
+    6.067554,
+    50.814598
+],
   "geometry": {"coordinates":[6.067554,50.814598],"type":"Point"}
 }

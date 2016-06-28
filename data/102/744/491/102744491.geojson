@@ -2,13 +2,14 @@
   "id": 102744491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.92503,48.39296,10.92503,48.39296",
     "geom:latitude":48.39296,
     "geom:longitude":10.92503,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Augsburg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,10 +17,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063301,
-        85633111,
         85682571,
-        85900061
+        85633111,
+        85900061,
+        102063301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":102744491,
-    "wof:lastmodified":1449068652,
+    "wof:lastmodified":1466217922,
     "wof:name":"Bayerisches Institut F\u00fcr Abfallforschung Gmbh",
     "wof:parent_id":85900061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.92503,48.39296,10.92503,48.39296],
+  "bbox": [
+    10.92503,
+    48.39296,
+    10.92503,
+    48.39296
+],
   "geometry": {"coordinates":[10.92503,48.39296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118827883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.797533,49.973652,8.797533,49.973652",
     "geom:latitude":49.973652,
     "geom:longitude":8.797533,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 46",
     "sg:city":"R\u00f6dermark",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063543,
-        85633111,
         85682531,
-        85859529
+        85633111,
+        85859529,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118827883,
-    "wof:lastmodified":1449053644,
+    "wof:lastmodified":1466231418,
     "wof:name":"Liebig-apotheke Inh. Martin Beyhl E. K.",
     "wof:parent_id":85859529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.797533,49.973652,8.797533,49.973652],
+  "bbox": [
+    8.797533,
+    49.973652,
+    8.797533,
+    49.973652
+],
   "geometry": {"coordinates":[8.797533,49.973652],"type":"Point"}
 }

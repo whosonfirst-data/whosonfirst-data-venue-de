@@ -2,13 +2,14 @@
   "id": 202481089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.288201,48.452801,10.288201,48.452801",
     "geom:latitude":48.452801,
     "geom:longitude":10.288201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augsburger Str. 60",
     "sg:city":"G\u00fcnzburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202481089,
-    "wof:lastmodified":1449062334,
+    "wof:lastmodified":1466215244,
     "wof:name":"M. Handerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.288201,48.452801,10.288201,48.452801],
+  "bbox": [
+    10.288201,
+    48.452801,
+    10.288201,
+    48.452801
+],
   "geometry": {"coordinates":[10.288201,48.452801],"type":"Point"}
 }

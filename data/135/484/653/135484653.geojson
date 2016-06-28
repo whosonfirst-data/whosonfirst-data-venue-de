@@ -2,13 +2,14 @@
   "id": 135484653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.483304,51.338699,9.483304,51.338699",
     "geom:latitude":51.338699,
     "geom:longitude":9.483304,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holl\u00e4ndische Str 195",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906343,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135484653,
-    "wof:lastmodified":1449023824,
+    "wof:lastmodified":1466230256,
     "wof:name":"Gaskatel Gmbh",
     "wof:parent_id":85906343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.483304,51.338699,9.483304,51.338699],
+  "bbox": [
+    9.483304,
+    51.338699,
+    9.483304,
+    51.338699
+],
   "geometry": {"coordinates":[9.483304,51.338699],"type":"Point"}
 }

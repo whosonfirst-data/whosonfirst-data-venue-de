@@ -2,13 +2,14 @@
   "id": 119036207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.957545,51.44936,6.957545,51.44936",
     "geom:latitude":51.44936,
     "geom:longitude":6.957545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niesertweg 14",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863063,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85863063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119036207,
-    "wof:lastmodified":1449041396,
+    "wof:lastmodified":1466214121,
     "wof:name":"Hans-heinz Steinbach Architekt",
     "wof:parent_id":85863063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.957545,51.44936,6.957545,51.44936],
+  "bbox": [
+    6.957545,
+    51.44936,
+    6.957545,
+    51.44936
+],
   "geometry": {"coordinates":[6.957545,51.44936],"type":"Point"}
 }

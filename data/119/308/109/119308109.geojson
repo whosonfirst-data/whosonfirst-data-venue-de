@@ -2,13 +2,14 @@
   "id": 119308109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.46435,51.28249,12.46435,51.28249",
     "geom:latitude":51.28249,
     "geom:longitude":12.46435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenbahnstr. 7",
     "sg:city":"Liebertwolkwitz",
     "sg:classifiers":[],
@@ -16,10 +17,10 @@
     "sg:postcode":"04445",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85900287
+        85633111,
+        85900287,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":119308109,
-    "wof:lastmodified":1449043585,
+    "wof:lastmodified":1466237891,
     "wof:name":"Frank J\u00e4ckel",
     "wof:parent_id":85900287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.46435,51.28249,12.46435,51.28249],
+  "bbox": [
+    12.46435,
+    51.28249,
+    12.46435,
+    51.28249
+],
   "geometry": {"coordinates":[12.46435,51.28249],"type":"Point"}
 }

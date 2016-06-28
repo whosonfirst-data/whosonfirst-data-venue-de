@@ -2,13 +2,14 @@
   "id": 118686697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.505024,51.352577,7.505024,51.352577",
     "geom:latitude":51.352577,
     "geom:longitude":7.505024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkelst\u00fcck 37",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795169,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118686697,
-    "wof:lastmodified":1449054216,
+    "wof:lastmodified":1466223126,
     "wof:name":"Anja Osenberg",
     "wof:parent_id":85795169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.505024,51.352577,7.505024,51.352577],
+  "bbox": [
+    7.505024,
+    51.352577,
+    7.505024,
+    51.352577
+],
   "geometry": {"coordinates":[7.505024,51.352577],"type":"Point"}
 }

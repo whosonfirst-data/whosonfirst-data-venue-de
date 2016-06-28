@@ -2,13 +2,14 @@
   "id": 135840505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.31289,50.224319,12.31289,50.224319",
     "geom:latitude":50.224319,
     "geom:longitude":12.31289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markt 3",
     "sg:city":"Bad Brambach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135840505,
-    "wof:lastmodified":1449023347,
+    "wof:lastmodified":1466244272,
     "wof:name":"Siegfried Seling",
     "wof:parent_id":101826101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.31289,50.224319,12.31289,50.224319],
+  "bbox": [
+    12.31289,
+    50.224319,
+    12.31289,
+    50.224319
+],
   "geometry": {"coordinates":[12.31289,50.224319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119202683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.115104,50.653378,7.115104,50.653378",
     "geom:latitude":50.653378,
     "geom:longitude":7.115104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Langenacker 12",
     "sg:city":"Wachtberg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063661,
-        85633111,
         85682513,
-        85794909
+        85633111,
+        85794909,
+        102063661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119202683,
-    "wof:lastmodified":1449043184,
+    "wof:lastmodified":1466229018,
     "wof:name":"Gemeindeb\u00fccherei Pech",
     "wof:parent_id":85794909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.115104,50.653378,7.115104,50.653378],
+  "bbox": [
+    7.115104,
+    50.653378,
+    7.115104,
+    50.653378
+],
   "geometry": {"coordinates":[7.115104,50.653378],"type":"Point"}
 }

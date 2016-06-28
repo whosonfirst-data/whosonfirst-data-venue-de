@@ -2,13 +2,14 @@
   "id": 119188641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.295991,52.464645,13.295991,52.464645",
     "geom:latitude":52.464645,
     "geom:longitude":13.295991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Dol 2-6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900017,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119188641,
-    "wof:lastmodified":1449042160,
+    "wof:lastmodified":1466227722,
     "wof:name":"Akademie Der Wissenschaften Zentralinstitut F\u00fcr Alte",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.295991,52.464645,13.295991,52.464645],
+  "bbox": [
+    13.295991,
+    52.464645,
+    13.295991,
+    52.464645
+],
   "geometry": {"coordinates":[13.295991,52.464645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135514661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.85886,51.164673,6.85886,51.164673",
     "geom:latitude":51.164673,
     "geom:longitude":6.85886,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marbacher Str. 114",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85796647
+        85633111,
+        85796647,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135514661,
-    "wof:lastmodified":1449022534,
+    "wof:lastmodified":1466232952,
     "wof:name":"Comet Gesellschaft F\u00fcr Elektronische R\u00f6hren Mbh",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.85886,51.164673,6.85886,51.164673],
+  "bbox": [
+    6.85886,
+    51.164673,
+    6.85886,
+    51.164673
+],
   "geometry": {"coordinates":[6.85886,51.164673],"type":"Point"}
 }

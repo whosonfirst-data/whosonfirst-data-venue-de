@@ -2,13 +2,14 @@
   "id": 135892955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.331168,52.495796,13.331168,52.495796",
     "geom:latitude":52.495796,
     "geom:longitude":13.331168,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesallee 210",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135892955,
-    "wof:lastmodified":1449021425,
+    "wof:lastmodified":1466244518,
     "wof:name":"Ibb Beteiligungs Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.331168,52.495796,13.331168,52.495796],
+  "bbox": [
+    13.331168,
+    52.495796,
+    13.331168,
+    52.495796
+],
   "geometry": {"coordinates":[13.331168,52.495796],"type":"Point"}
 }

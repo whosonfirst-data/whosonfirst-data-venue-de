@@ -2,13 +2,14 @@
   "id": 252882111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.241671,50.06255,8.241671,50.06255",
     "geom:latitude":50.06255,
     "geom:longitude":8.241671,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Biebricher Str. 69",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252882111,
-    "wof:lastmodified":1449005604,
+    "wof:lastmodified":1466222390,
     "wof:name":"Dyckerhoff Ag",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.241671,50.06255,8.241671,50.06255],
+  "bbox": [
+    8.241671,
+    50.06255,
+    8.241671,
+    50.06255
+],
   "geometry": {"coordinates":[8.241671,50.06255],"type":"Point"}
 }

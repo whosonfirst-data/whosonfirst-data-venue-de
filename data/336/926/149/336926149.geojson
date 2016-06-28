@@ -2,13 +2,14 @@
   "id": 336926149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.100765,49.018353,12.100765,49.018353",
     "geom:latitude":49.018353,
     "geom:longitude":12.100765,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Speichergasse 1",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336926149,
-    "wof:lastmodified":1448997302,
+    "wof:lastmodified":1466239275,
     "wof:name":"Bavaria-filmtheater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.100765,49.018353,12.100765,49.018353],
+  "bbox": [
+    12.100765,
+    49.018353,
+    12.100765,
+    49.018353
+],
   "geometry": {"coordinates":[12.100765,49.018353],"type":"Point"}
 }

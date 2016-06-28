@@ -2,13 +2,14 @@
   "id": 152747565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.912949,48.895855,-100.912949,48.895855",
     "geom:latitude":48.895855,
     "geom:longitude":-100.912949,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klaus-von-Klitzing-Stra\u00dfe 3",
     "sg:city":"Landa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152747565,
-    "wof:lastmodified":1449045151,
+    "wof:lastmodified":1466225783,
     "wof:name":"Andreas Wohnungsbau - Der Bautr\u00e4ger In Landau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.912949,48.895855,-100.912949,48.895855],
+  "bbox": [
+    -100.912949,
+    48.895855,
+    -100.912949,
+    48.895855
+],
   "geometry": {"coordinates":[-100.912949,48.895855],"type":"Point"}
 }

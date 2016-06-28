@@ -2,13 +2,14 @@
   "id": 136214147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.62643,48.602299,11.62643,48.602299",
     "geom:latitude":48.602299,
     "geom:longitude":11.62643,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Starzenbach 6",
     "sg:city":"Wolnzach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136214147,
-    "wof:lastmodified":1449076236,
+    "wof:lastmodified":1466222038,
     "wof:name":"H. Singer",
     "wof:parent_id":101784389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.62643,48.602299,11.62643,48.602299],
+  "bbox": [
+    11.62643,
+    48.602299,
+    11.62643,
+    48.602299
+],
   "geometry": {"coordinates":[11.62643,48.602299],"type":"Point"}
 }

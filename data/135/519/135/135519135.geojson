@@ -2,13 +2,14 @@
   "id": 135519135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.854418,48.028572,7.854418,48.028572",
     "geom:latitude":48.028572,
     "geom:longitude":7.854418,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Bunte-Str. 12",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135519135,
-    "wof:lastmodified":1449023801,
+    "wof:lastmodified":1466233380,
     "wof:name":"Bilfinger Berger Ag",
     "wof:parent_id":101748475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.854418,48.028572,7.854418,48.028572],
+  "bbox": [
+    7.854418,
+    48.028572,
+    7.854418,
+    48.028572
+],
   "geometry": {"coordinates":[7.854418,48.028572],"type":"Point"}
 }

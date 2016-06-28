@@ -2,13 +2,14 @@
   "id": 135815131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.757076,50.102898,8.757076,50.102898",
     "geom:latitude":50.102898,
     "geom:longitude":8.757076,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luisenstr. 48",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135815131,
-    "wof:lastmodified":1449022486,
+    "wof:lastmodified":1466244148,
     "wof:name":"Kappus-stiftung Gmbh",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.757076,50.102898,8.757076,50.102898],
+  "bbox": [
+    8.757076,
+    50.102898,
+    8.757076,
+    50.102898
+],
   "geometry": {"coordinates":[8.757076,50.102898],"type":"Point"}
 }

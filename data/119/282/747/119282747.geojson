@@ -2,13 +2,14 @@
   "id": 119282747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.25755,51.191303,7.25755,51.191303",
     "geom:latitude":51.191303,
     "geom:longitude":7.25755,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lner Str. 30",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119282747,
-    "wof:lastmodified":1449042531,
+    "wof:lastmodified":1466236744,
     "wof:name":"Brillen Kaiser Inh. Udo Rinschen",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.25755,51.191303,7.25755,51.191303],
+  "bbox": [
+    7.25755,
+    51.191303,
+    7.25755,
+    51.191303
+],
   "geometry": {"coordinates":[7.25755,51.191303],"type":"Point"}
 }

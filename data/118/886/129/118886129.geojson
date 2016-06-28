@@ -2,13 +2,14 @@
   "id": 118886129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.462228,51.339073,12.462228,51.339073",
     "geom:latitude":51.339073,
     "geom:longitude":12.462228,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werkst\u00e4ttenstr. 6",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118886129,
-    "wof:lastmodified":1449053924,
+    "wof:lastmodified":1466235087,
     "wof:name":"Engelsdorfer Apotheke Claudia K\u00f6nig",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.462228,51.339073,12.462228,51.339073],
+  "bbox": [
+    12.462228,
+    51.339073,
+    12.462228,
+    51.339073
+],
   "geometry": {"coordinates":[12.462228,51.339073],"type":"Point"}
 }

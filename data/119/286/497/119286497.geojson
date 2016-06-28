@@ -2,13 +2,14 @@
   "id": 119286497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.573721,49.404865,8.573721,49.404865",
     "geom:latitude":49.404865,
     "geom:longitude":8.573721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Ochsenhorn 8",
     "sg:city":"Plankstadt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119286497,
-    "wof:lastmodified":1449041496,
+    "wof:lastmodified":1466236910,
     "wof:name":"A. Herzog",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.573721,49.404865,8.573721,49.404865],
+  "bbox": [
+    8.573721,
+    49.404865,
+    8.573721,
+    49.404865
+],
   "geometry": {"coordinates":[8.573721,49.404865],"type":"Point"}
 }

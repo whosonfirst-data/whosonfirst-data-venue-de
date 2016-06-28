@@ -2,13 +2,14 @@
   "id": 202630093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.4943,48.09304,11.4943,48.09304",
     "geom:latitude":48.09304,
     "geom:longitude":11.4943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rueppstr. 43",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202630093,
-    "wof:lastmodified":1449061011,
+    "wof:lastmodified":1466218173,
     "wof:name":"A. Thiermann Kunstmaler",
     "wof:parent_id":85899175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.4943,48.09304,11.4943,48.09304],
+  "bbox": [
+    11.4943,
+    48.09304,
+    11.4943,
+    48.09304
+],
   "geometry": {"coordinates":[11.4943,48.09304],"type":"Point"}
 }

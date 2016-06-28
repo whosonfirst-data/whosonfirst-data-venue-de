@@ -2,13 +2,14 @@
   "id": 152254905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.789458,52.371006,9.789458,52.371006",
     "geom:latitude":52.371006,
     "geom:longitude":9.789458,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schleiermacherstr. 8",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899361,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152254905,
-    "wof:lastmodified":1449047473,
+    "wof:lastmodified":1466215188,
     "wof:name":"Lo & Go Textilvertriebs- Gesellschaft Mbh",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.789458,52.371006,9.789458,52.371006],
+  "bbox": [
+    9.789458,
+    52.371006,
+    9.789458,
+    52.371006
+],
   "geometry": {"coordinates":[9.789458,52.371006],"type":"Point"}
 }

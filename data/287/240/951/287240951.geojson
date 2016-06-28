@@ -2,13 +2,14 @@
   "id": 287240951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.584669,48.141888,11.584669,48.141888",
     "geom:latitude":48.141888,
     "geom:longitude":11.584669,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seitzstr 17",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287240951,
-    "wof:lastmodified":1449000744,
+    "wof:lastmodified":1466231442,
     "wof:name":"Heinz Ruppenstein",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.584669,48.141888,11.584669,48.141888],
+  "bbox": [
+    11.584669,
+    48.141888,
+    11.584669,
+    48.141888
+],
   "geometry": {"coordinates":[11.584669,48.141888],"type":"Point"}
 }

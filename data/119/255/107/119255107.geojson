@@ -2,13 +2,14 @@
   "id": 119255107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.397953,52.580212,13.397953,52.580212",
     "geom:latitude":52.580212,
     "geom:longitude":13.397953,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pastor-Niem\u00f6ller-Platz 4",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905647,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119255107,
-    "wof:lastmodified":1449042029,
+    "wof:lastmodified":1466234101,
     "wof:name":"Dr. Chr. Thierfelder",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.397953,52.580212,13.397953,52.580212],
+  "bbox": [
+    13.397953,
+    52.580212,
+    13.397953,
+    52.580212
+],
   "geometry": {"coordinates":[13.397953,52.580212],"type":"Point"}
 }

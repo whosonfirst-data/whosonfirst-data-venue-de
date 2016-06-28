@@ -2,13 +2,14 @@
   "id": 119268275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.612759,52.086403,11.612759,52.086403",
     "geom:latitude":52.086403,
     "geom:longitude":11.612759,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jupiterweg 9",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899185,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119268275,
-    "wof:lastmodified":1449042378,
+    "wof:lastmodified":1466235759,
     "wof:name":"Dr. Med. Steffi Fuchs",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.612759,52.086403,11.612759,52.086403],
+  "bbox": [
+    11.612759,
+    52.086403,
+    11.612759,
+    52.086403
+],
   "geometry": {"coordinates":[11.612759,52.086403],"type":"Point"}
 }

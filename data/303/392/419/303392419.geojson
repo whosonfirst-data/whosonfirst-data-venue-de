@@ -2,13 +2,14 @@
   "id": 303392419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.103938,48.82019,9.103938,48.82019",
     "geom:latitude":48.82019,
     "geom:longitude":9.103938,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flachter Str. 10",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303392419,
-    "wof:lastmodified":1449000081,
+    "wof:lastmodified":1466234210,
     "wof:name":"Donat Gmbh",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.103938,48.82019,9.103938,48.82019],
+  "bbox": [
+    9.103938,
+    48.82019,
+    9.103938,
+    48.82019
+],
   "geometry": {"coordinates":[9.103938,48.82019],"type":"Point"}
 }

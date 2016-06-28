@@ -2,13 +2,14 @@
   "id": 252728601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.222497,48.465546,10.222497,48.465546",
     "geom:latitude":48.465546,
     "geom:longitude":10.222497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lu\u00dfweg 2",
     "sg:city":"Leipheim",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252728601,
-    "wof:lastmodified":1449005674,
+    "wof:lastmodified":1466219486,
     "wof:name":"Hans Biedenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.222497,48.465546,10.222497,48.465546],
+  "bbox": [
+    10.222497,
+    48.465546,
+    10.222497,
+    48.465546
+],
   "geometry": {"coordinates":[10.222497,48.465546],"type":"Point"}
 }

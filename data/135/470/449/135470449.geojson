@@ -2,13 +2,14 @@
   "id": 135470449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.158954,49.539089,12.158954,49.539089",
     "geom:latitude":49.539089,
     "geom:longitude":12.158954,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 10",
     "sg:city":"Wernberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135470449,
-    "wof:lastmodified":1449021718,
+    "wof:lastmodified":1466228867,
     "wof:name":"Volksbank",
     "wof:parent_id":101826785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.158954,49.539089,12.158954,49.539089],
+  "bbox": [
+    12.158954,
+    49.539089,
+    12.158954,
+    49.539089
+],
   "geometry": {"coordinates":[12.158954,49.539089],"type":"Point"}
 }

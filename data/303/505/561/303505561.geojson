@@ -2,13 +2,14 @@
   "id": 303505561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.08713,48.449875,10.08713,48.449875",
     "geom:latitude":48.449875,
     "geom:longitude":10.08713,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siedlungsstr. 15",
     "sg:city":"Elchingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303505561,
-    "wof:lastmodified":1449000158,
+    "wof:lastmodified":1466236789,
     "wof:name":"Datadruck Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.08713,48.449875,10.08713,48.449875],
+  "bbox": [
+    10.08713,
+    48.449875,
+    10.08713,
+    48.449875
+],
   "geometry": {"coordinates":[10.08713,48.449875],"type":"Point"}
 }

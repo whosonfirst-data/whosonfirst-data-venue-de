@@ -2,13 +2,14 @@
   "id": 135833277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.733252,48.157124,12.733252,48.157124",
     "geom:latitude":48.157124,
     "geom:longitude":12.733252,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedl 48",
     "sg:city":"Burgkirchen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135833277,
-    "wof:lastmodified":1449021371,
+    "wof:lastmodified":1466244212,
     "wof:name":"Johann Fischer",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.733252,48.157124,12.733252,48.157124],
+  "bbox": [
+    12.733252,
+    48.157124,
+    12.733252,
+    48.157124
+],
   "geometry": {"coordinates":[12.733252,48.157124],"type":"Point"}
 }

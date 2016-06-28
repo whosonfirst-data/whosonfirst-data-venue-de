@@ -2,13 +2,14 @@
   "id": 118777515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.985802,49.472408,10.985802,49.472408",
     "geom:latitude":49.472408,
     "geom:longitude":10.985802,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maxstr. 12",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063467,
-        85633111,
         85682571,
-        85899081
+        85633111,
+        85899081,
+        102063467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118777515,
-    "wof:lastmodified":1449053885,
+    "wof:lastmodified":1466228393,
     "wof:name":"Georg Meier",
     "wof:parent_id":85899081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.985802,49.472408,10.985802,49.472408],
+  "bbox": [
+    10.985802,
+    49.472408,
+    10.985802,
+    49.472408
+],
   "geometry": {"coordinates":[10.985802,49.472408],"type":"Point"}
 }

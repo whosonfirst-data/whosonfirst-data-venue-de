@@ -2,13 +2,14 @@
   "id": 136141789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035126,33.296677,-81.035126,33.296677",
     "geom:latitude":33.296677,
     "geom:longitude":-81.035126,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollnerstr.40",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136141789,
-    "wof:lastmodified":1449075375,
+    "wof:lastmodified":1466218470,
     "wof:name":"Videogameshop",
     "wof:parent_id":101720893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.035126,33.296677,-81.035126,33.296677],
-  "geometry": {"coordinates":[-81.035126,33.296677],"type":"Point"}
+  "bbox": [
+    -81.035126,
+    33.296677,
+    -81.035126,
+    33.296677
+],
+  "geometry": {"coordinates":[-81.03512600000001,33.296677],"type":"Point"}
 }

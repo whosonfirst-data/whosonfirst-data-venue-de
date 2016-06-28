@@ -2,13 +2,14 @@
   "id": 118519869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.643702,48.168358,11.643702,48.168358",
     "geom:latitude":48.168358,
     "geom:longitude":11.643702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freisch\u00fctzstr. 94::",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899327
+        85633111,
+        85899327,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118519869,
-    "wof:lastmodified":1449054448,
+    "wof:lastmodified":1466213575,
     "wof:name":"Eurofactor Gmbh",
     "wof:parent_id":85899327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.643702,48.168358,11.643702,48.168358],
+  "bbox": [
+    11.643702,
+    48.168358,
+    11.643702,
+    48.168358
+],
   "geometry": {"coordinates":[11.643702,48.168358],"type":"Point"}
 }

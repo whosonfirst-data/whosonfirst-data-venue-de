@@ -2,13 +2,14 @@
   "id": 136199339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.310204,48.975159,8.310204,48.975159",
     "geom:latitude":48.975159,
     "geom:longitude":8.310204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzstr. 32",
     "sg:city":"Rheinstetten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136199339,
-    "wof:lastmodified":1449075035,
+    "wof:lastmodified":1466221150,
     "wof:name":"E. Essig",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.310204,48.975159,8.310204,48.975159],
+  "bbox": [
+    8.310204,
+    48.975159,
+    8.310204,
+    48.975159
+],
   "geometry": {"coordinates":[8.310204,48.975159],"type":"Point"}
 }

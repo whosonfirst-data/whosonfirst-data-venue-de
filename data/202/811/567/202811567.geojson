@@ -2,13 +2,14 @@
   "id": 202811567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.385658,50.483543,12.385658,50.483543",
     "geom:latitude":50.483543,
     "geom:longitude":12.385658,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 18",
     "sg:city":"Ellefeld",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202811567,
-    "wof:lastmodified":1449061355,
+    "wof:lastmodified":1466221433,
     "wof:name":"Max Strobel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.385658,50.483543,12.385658,50.483543],
+  "bbox": [
+    12.385658,
+    50.483543,
+    12.385658,
+    50.483543
+],
   "geometry": {"coordinates":[12.385658,50.483543],"type":"Point"}
 }

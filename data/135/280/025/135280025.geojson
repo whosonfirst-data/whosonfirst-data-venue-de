@@ -2,13 +2,14 @@
   "id": 135280025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.192233,50.508202,8.192233,50.508202",
     "geom:latitude":50.508202,
     "geom:longitude":8.192233,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weilburger Str. 3",
     "sg:city":"Merenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135280025,
-    "wof:lastmodified":1449022502,
+    "wof:lastmodified":1466225358,
     "wof:name":"J. Simon",
     "wof:parent_id":101810649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.192233,50.508202,8.192233,50.508202],
+  "bbox": [
+    8.192233,
+    50.508202,
+    8.192233,
+    50.508202
+],
   "geometry": {"coordinates":[8.192233,50.508202],"type":"Point"}
 }

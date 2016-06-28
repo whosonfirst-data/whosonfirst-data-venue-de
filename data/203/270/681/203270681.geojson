@@ -2,13 +2,14 @@
   "id": 203270681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.316554,50.989746,11.316554,50.989746",
     "geom:latitude":50.989746,
     "geom:longitude":11.316554,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Joliot-Curie-Str. 50",
     "sg:city":"Weimar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203270681,
-    "wof:lastmodified":1449025283,
+    "wof:lastmodified":1466218379,
     "wof:name":"Planitzer-hocke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.316554,50.989746,11.316554,50.989746],
+  "bbox": [
+    11.316554,
+    50.989746,
+    11.316554,
+    50.989746
+],
   "geometry": {"coordinates":[11.316554,50.989746],"type":"Point"}
 }

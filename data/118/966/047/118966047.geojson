@@ -2,13 +2,14 @@
   "id": 118966047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.838698,51.02483,13.838698,51.02483",
     "geom:latitude":51.02483,
     "geom:longitude":13.838698,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4hrstr. 6",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900197,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118966047,
-    "wof:lastmodified":1449053160,
+    "wof:lastmodified":1466238333,
     "wof:name":"Landschaftsarchitekturb\u00fcro Roggan",
     "wof:parent_id":85900197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.838698,51.02483,13.838698,51.02483],
+  "bbox": [
+    13.838698,
+    51.02483,
+    13.838698,
+    51.02483
+],
   "geometry": {"coordinates":[13.838698,51.02483],"type":"Point"}
 }

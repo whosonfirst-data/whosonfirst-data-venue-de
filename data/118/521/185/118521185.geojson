@@ -2,13 +2,14 @@
   "id": 118521185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.507379,48.093479,11.507379,48.093479",
     "geom:latitude":48.093479,
     "geom:longitude":11.507379,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meglingerstr. 7::",
     "sg:city":"Muenchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899853,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118521185,
-    "wof:lastmodified":1449054462,
+    "wof:lastmodified":1466213682,
     "wof:name":"Innungskrankenkasse Bayern",
     "wof:parent_id":85899853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.507379,48.093479,11.507379,48.093479],
+  "bbox": [
+    11.507379,
+    48.093479,
+    11.507379,
+    48.093479
+],
   "geometry": {"coordinates":[11.507379,48.093479],"type":"Point"}
 }

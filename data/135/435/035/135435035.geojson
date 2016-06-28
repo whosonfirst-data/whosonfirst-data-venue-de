@@ -2,13 +2,14 @@
   "id": 135435035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016701,32.929031,-80.016701,32.929031",
     "geom:latitude":32.929031,
     "geom:longitude":-80.016701,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altfraunhofen",
     "sg:city":"Altfraunhofen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823911,
+        85688683,
         85633793,
         101721135,
         102085397,
-        85688683
+        85823911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135435035,
-    "wof:lastmodified":1449023726,
+    "wof:lastmodified":1466225858,
     "wof:name":"Sparkasse Altmark West",
     "wof:parent_id":85823911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.016701,32.929031,-80.016701,32.929031],
+  "bbox": [
+    -80.016701,
+    32.929031,
+    -80.016701,
+    32.929031
+],
   "geometry": {"coordinates":[-80.016701,32.929031],"type":"Point"}
 }

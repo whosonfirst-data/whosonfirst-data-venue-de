@@ -2,13 +2,14 @@
   "id": 136128485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.254344,48.776539,9.254344,48.776539",
     "geom:latitude":48.776539,
     "geom:longitude":9.254344,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruckwiesenweg 18 A",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796165,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136128485,
-    "wof:lastmodified":1449075430,
+    "wof:lastmodified":1466217909,
     "wof:name":"Sportgemeinschaft Untert\u00fcrkheim (sgu)",
     "wof:parent_id":85796165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.254344,48.776539,9.254344,48.776539],
+  "bbox": [
+    9.254344,
+    48.776539,
+    9.254344,
+    48.776539
+],
   "geometry": {"coordinates":[9.254344,48.776539],"type":"Point"}
 }

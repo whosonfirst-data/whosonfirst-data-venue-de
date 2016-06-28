@@ -2,13 +2,14 @@
   "id": 119323441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.240369,51.273056,7.240369,51.273056",
     "geom:latitude":51.273056,
     "geom:longitude":7.240369,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leibuschstr. 24",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796189,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119323441,
-    "wof:lastmodified":1449041078,
+    "wof:lastmodified":1466238498,
     "wof:name":"H. Wahn",
     "wof:parent_id":85796189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.240369,51.273056,7.240369,51.273056],
+  "bbox": [
+    7.240369,
+    51.273056,
+    7.240369,
+    51.273056
+],
   "geometry": {"coordinates":[7.240369,51.273056],"type":"Point"}
 }

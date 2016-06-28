@@ -2,13 +2,14 @@
   "id": 303425585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74374,50.124203,8.74374,50.124203",
     "geom:latitude":50.124203,
     "geom:longitude":8.74374,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hanauer Landstr. 443",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303425585,
-    "wof:lastmodified":1448998981,
+    "wof:lastmodified":1466235135,
     "wof:name":"Pippert & Koch Gmbh & Co. Kg",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74374,50.124203,8.74374,50.124203],
+  "bbox": [
+    8.74374,
+    50.124203,
+    8.74374,
+    50.124203
+],
   "geometry": {"coordinates":[8.74374,50.124203],"type":"Point"}
 }

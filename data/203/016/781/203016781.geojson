@@ -2,13 +2,14 @@
   "id": 203016781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.591216,49.243103,10.591216,49.243103",
     "geom:latitude":49.243103,
     "geom:longitude":10.591216,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Akazienstr. 1",
     "sg:city":"Burgoberbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203016781,
-    "wof:lastmodified":1449025273,
+    "wof:lastmodified":1466214036,
     "wof:name":"Georg Pfeiffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.591216,49.243103,10.591216,49.243103],
+  "bbox": [
+    10.591216,
+    49.243103,
+    10.591216,
+    49.243103
+],
   "geometry": {"coordinates":[10.591216,49.243103],"type":"Point"}
 }

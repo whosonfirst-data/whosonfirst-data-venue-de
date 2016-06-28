@@ -2,13 +2,14 @@
   "id": 118756045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.564255,48.149616,11.564255,48.149616",
     "geom:latitude":48.149616,
     "geom:longitude":11.564255,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinheilstr. 13",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118756045,
-    "wof:lastmodified":1449054000,
+    "wof:lastmodified":1466227126,
     "wof:name":"Franz F\u00e4ustle",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.564255,48.149616,11.564255,48.149616],
+  "bbox": [
+    11.564255,
+    48.149616,
+    11.564255,
+    48.149616
+],
   "geometry": {"coordinates":[11.564255,48.149616],"type":"Point"}
 }

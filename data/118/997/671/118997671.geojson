@@ -2,13 +2,14 @@
   "id": 118997671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.719631,53.818588,10.719631,53.818588",
     "geom:latitude":53.818588,
     "geom:longitude":10.719631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschgrund 59b",
     "sg:city":"Gro\u00df Gr\u00f6nau",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064089,
-        85633111,
         85682517,
-        85899011
+        85633111,
+        85899011,
+        102064089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118997671,
-    "wof:lastmodified":1449054311,
+    "wof:lastmodified":1466239807,
     "wof:name":"Dr. Marlies Giese-sigge Architektin",
     "wof:parent_id":85899011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.719631,53.818588,10.719631,53.818588],
+  "bbox": [
+    10.719631,
+    53.818588,
+    10.719631,
+    53.818588
+],
   "geometry": {"coordinates":[10.719631,53.818588],"type":"Point"}
 }

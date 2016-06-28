@@ -2,13 +2,14 @@
   "id": 136169719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.634952,51.488297,6.634952,51.488297",
     "geom:latitude":51.488297,
     "geom:longitude":6.634952,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Schommer 6",
     "sg:city":"Moers",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796617,
+        85682513,
         85633111,
         101748759,
         102063833,
-        85682513
+        85796617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136169719,
-    "wof:lastmodified":1449075718,
+    "wof:lastmodified":1466219710,
     "wof:name":"Navimar Schiffahrt Und Befrachtung Gmbh",
     "wof:parent_id":85796617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.634952,51.488297,6.634952,51.488297],
+  "bbox": [
+    6.634952,
+    51.488297,
+    6.634952,
+    51.488297
+],
   "geometry": {"coordinates":[6.634952,51.488297],"type":"Point"}
 }

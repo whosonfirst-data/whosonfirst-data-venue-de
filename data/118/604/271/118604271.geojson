@@ -2,13 +2,14 @@
   "id": 118604271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.911422,50.83448,6.911422,50.83448",
     "geom:latitude":50.83448,
     "geom:longitude":6.911422,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schildgesstr 47",
     "sg:city":"Br\u00fchl",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796051,
+        85682513,
         85633111,
         101811067,
         102063709,
-        85682513
+        85796051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118604271,
-    "wof:lastmodified":1449054384,
+    "wof:lastmodified":1466218447,
     "wof:name":"Aircon-technik Gesellschaft F\u00fcr Luft-, Klima- Und K\u00e4lteanlagen Mbh & Co Kg",
     "wof:parent_id":85796051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.911422,50.83448,6.911422,50.83448],
+  "bbox": [
+    6.911422,
+    50.83448,
+    6.911422,
+    50.83448
+],
   "geometry": {"coordinates":[6.911422,50.83448],"type":"Point"}
 }

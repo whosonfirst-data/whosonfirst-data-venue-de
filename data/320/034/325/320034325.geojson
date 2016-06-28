@@ -2,13 +2,14 @@
   "id": 320034325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.727138,48.887638,8.727138,48.887638",
     "geom:latitude":48.887638,
     "geom:longitude":8.727138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 6",
     "sg:city":"Pforzheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320034325,
-    "wof:lastmodified":1449011659,
+    "wof:lastmodified":1466234149,
     "wof:name":"Hermann Kraus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.727138,48.887638,8.727138,48.887638],
+  "bbox": [
+    8.727138,
+    48.887638,
+    8.727138,
+    48.887638
+],
   "geometry": {"coordinates":[8.727138,48.887638],"type":"Point"}
 }

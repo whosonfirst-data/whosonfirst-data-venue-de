@@ -2,13 +2,14 @@
   "id": 119293935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.34539,50.028782,12.34539,50.028782",
     "geom:latitude":50.028782,
     "geom:longitude":12.34539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Egerteich 4",
     "sg:city":"Waldsassen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119293935,
-    "wof:lastmodified":1449041343,
+    "wof:lastmodified":1466237195,
     "wof:name":"B. D\u00f6llinger",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.34539,50.028782,12.34539,50.028782],
+  "bbox": [
+    12.34539,
+    50.028782,
+    12.34539,
+    50.028782
+],
   "geometry": {"coordinates":[12.34539,50.028782],"type":"Point"}
 }

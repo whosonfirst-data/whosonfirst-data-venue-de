@@ -2,13 +2,14 @@
   "id": 119440633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.954359,50.609581,12.954359,50.609581",
     "geom:latitude":50.609581,
     "geom:longitude":12.954359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 31 B",
     "sg:city":"Tannenberg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119440633,
-    "wof:lastmodified":1449041733,
+    "wof:lastmodified":1466242623,
     "wof:name":"H. Kellert",
     "wof:parent_id":101824607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.954359,50.609581,12.954359,50.609581],
+  "bbox": [
+    12.954359,
+    50.609581,
+    12.954359,
+    50.609581
+],
   "geometry": {"coordinates":[12.954359,50.609581],"type":"Point"}
 }

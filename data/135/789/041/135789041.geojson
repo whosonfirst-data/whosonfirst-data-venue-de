@@ -2,13 +2,14 @@
   "id": 135789041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.804689,53.91325,10.804689,53.91325",
     "geom:latitude":53.91325,
     "geom:longitude":10.804689,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchplatz 8",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135789041,
-    "wof:lastmodified":1449022378,
+    "wof:lastmodified":1466244009,
     "wof:name":"M. Kaya",
     "wof:parent_id":101748855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.804689,53.91325,10.804689,53.91325],
+  "bbox": [
+    10.804689,
+    53.91325,
+    10.804689,
+    53.91325
+],
   "geometry": {"coordinates":[10.804689,53.91325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136232985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.537972,50.826565,12.537972,50.826565",
     "geom:latitude":50.826565,
     "geom:longitude":12.537972,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldenburger Str. 25",
     "sg:city":"Glauchau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136232985,
-    "wof:lastmodified":1449075328,
+    "wof:lastmodified":1466223171,
     "wof:name":"L. Sternkopf",
     "wof:parent_id":101841231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.537972,50.826565,12.537972,50.826565],
+  "bbox": [
+    12.537972,
+    50.826565,
+    12.537972,
+    50.826565
+],
   "geometry": {"coordinates":[12.537972,50.826565],"type":"Point"}
 }

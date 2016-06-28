@@ -2,13 +2,14 @@
   "id": 119183087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.864282,50.864059,12.864282,50.864059",
     "geom:latitude":50.864059,
     "geom:longitude":12.864282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 45",
     "sg:city":"R\u00f6hrsdorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899025,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119183087,
-    "wof:lastmodified":1449042281,
+    "wof:lastmodified":1466227229,
     "wof:name":"Planungsb\u00fcro Kirmes Und Partner",
     "wof:parent_id":85899025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.864282,50.864059,12.864282,50.864059],
+  "bbox": [
+    12.864282,
+    50.864059,
+    12.864282,
+    50.864059
+],
   "geometry": {"coordinates":[12.864282,50.864059],"type":"Point"}
 }

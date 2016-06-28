@@ -2,13 +2,14 @@
   "id": 135858853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.690136,53.586384,9.690136,53.586384",
     "geom:latitude":53.586384,
     "geom:longitude":9.690136,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ansgariusweg 13 a",
     "sg:city":"Wedel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900247,
+        85682517,
         85633111,
         101806597,
         102064081,
-        85682517
+        85900247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135858853,
-    "wof:lastmodified":1449021297,
+    "wof:lastmodified":1466244346,
     "wof:name":"Hans W. Bade",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.690136,53.586384,9.690136,53.586384],
+  "bbox": [
+    9.690136,
+    53.586384,
+    9.690136,
+    53.586384
+],
   "geometry": {"coordinates":[9.690136,53.586384],"type":"Point"}
 }

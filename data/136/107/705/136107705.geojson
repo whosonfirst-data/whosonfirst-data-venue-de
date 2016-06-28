@@ -2,13 +2,14 @@
   "id": 136107705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48913,51.31131,9.48913,51.31131",
     "geom:latitude":51.31131,
     "geom:longitude":9.48913,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmsh\u00f6her Allee 1",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136107705,
-    "wof:lastmodified":1449074925,
+    "wof:lastmodified":1466217076,
     "wof:name":"Praxis Von Dr. Wagner Und Dr.meinel",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.48913,51.31131,9.48913,51.31131],
+  "bbox": [
+    9.48913,
+    51.31131,
+    9.48913,
+    51.31131
+],
   "geometry": {"coordinates":[9.48913,51.31131],"type":"Point"}
 }

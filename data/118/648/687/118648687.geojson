@@ -2,13 +2,14 @@
   "id": 118648687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.22103,49.645748,9.22103,49.645748",
     "geom:latitude":49.645748,
     "geom:longitude":9.22103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fcttstr. 3",
     "sg:city":"Amorbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118648687,
-    "wof:lastmodified":1449053538,
+    "wof:lastmodified":1466221028,
     "wof:name":"J. Werner",
     "wof:parent_id":101839909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.22103,49.645748,9.22103,49.645748],
+  "bbox": [
+    9.22103,
+    49.645748,
+    9.22103,
+    49.645748
+],
   "geometry": {"coordinates":[9.22103,49.645748],"type":"Point"}
 }

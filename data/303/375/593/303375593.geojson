@@ -2,13 +2,14 @@
   "id": 303375593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.179548,49.987915,8.179548,49.987915",
     "geom:latitude":49.987915,
     "geom:longitude":8.179548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aubachstr. 43a",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303375593,
-    "wof:lastmodified":1448998203,
+    "wof:lastmodified":1466233764,
     "wof:name":"Reich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.179548,49.987915,8.179548,49.987915],
+  "bbox": [
+    8.179548,
+    49.987915,
+    8.179548,
+    49.987915
+],
   "geometry": {"coordinates":[8.179548,49.987915],"type":"Point"}
 }

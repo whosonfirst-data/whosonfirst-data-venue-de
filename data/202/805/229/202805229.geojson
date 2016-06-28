@@ -2,13 +2,14 @@
   "id": 202805229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.154645,51.808861,12.154645,51.808861",
     "geom:latitude":51.808861,
     "geom:longitude":12.154645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Anhalter Str.",
     "sg:city":"Dessau",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202805229,
-    "wof:lastmodified":1449060962,
+    "wof:lastmodified":1466221328,
     "wof:name":"Kurt Schulze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.154645,51.808861,12.154645,51.808861],
+  "bbox": [
+    12.154645,
+    51.808861,
+    12.154645,
+    51.808861
+],
   "geometry": {"coordinates":[12.154645,51.808861],"type":"Point"}
 }

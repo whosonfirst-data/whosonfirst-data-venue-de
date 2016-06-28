@@ -2,13 +2,14 @@
   "id": 118980439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.822401,53.074284,8.822401,53.074284",
     "geom:latitude":53.074284,
     "geom:longitude":8.822401,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreftingstr. 2",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796209,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118980439,
-    "wof:lastmodified":1449053245,
+    "wof:lastmodified":1466238971,
     "wof:name":"Beichler Und Vogt Architekten",
     "wof:parent_id":85796209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.822401,53.074284,8.822401,53.074284],
+  "bbox": [
+    8.822401,
+    53.074284,
+    8.822401,
+    53.074284
+],
   "geometry": {"coordinates":[8.822401,53.074284],"type":"Point"}
 }

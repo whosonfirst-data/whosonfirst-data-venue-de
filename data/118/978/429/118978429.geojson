@@ -2,13 +2,14 @@
   "id": 118978429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.785177,51.027557,13.785177,51.027557",
     "geom:latitude":51.027557,
     "geom:longitude":13.785177,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Liebst\u00e4dter Str. 5",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900051,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118978429,
-    "wof:lastmodified":1449053962,
+    "wof:lastmodified":1466238834,
     "wof:name":"Augsburg Architekt",
     "wof:parent_id":85900051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.785177,51.027557,13.785177,51.027557],
+  "bbox": [
+    13.785177,
+    51.027557,
+    13.785177,
+    51.027557
+],
   "geometry": {"coordinates":[13.785177,51.027557],"type":"Point"}
 }

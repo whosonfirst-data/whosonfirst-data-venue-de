@@ -2,13 +2,14 @@
   "id": 118769657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.933497,53.593395,9.933497,53.593395",
     "geom:latitude":53.593395,
     "geom:longitude":9.933497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Basselweg 81",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899471,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118769657,
-    "wof:lastmodified":1449053608,
+    "wof:lastmodified":1466227915,
     "wof:name":"Auto Haake Gmbh Karosseriebau Kfz-reparatur",
     "wof:parent_id":85899471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.933497,53.593395,9.933497,53.593395],
+  "bbox": [
+    9.933497,
+    53.593395,
+    9.933497,
+    53.593395
+],
   "geometry": {"coordinates":[9.933497,53.593395],"type":"Point"}
 }

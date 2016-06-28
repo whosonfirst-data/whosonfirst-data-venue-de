@@ -2,13 +2,14 @@
   "id": 135344845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.944742,53.620792,9.944742,53.620792",
     "geom:latitude":53.620792,
     "geom:longitude":9.944742,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ordulfstr. 2",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899181,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135344845,
-    "wof:lastmodified":1449021139,
+    "wof:lastmodified":1466217607,
     "wof:name":"Hans-g\u00fcnther H\u00f6nig",
     "wof:parent_id":85899181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.944742,53.620792,9.944742,53.620792],
+  "bbox": [
+    9.944742,
+    53.620792,
+    9.944742,
+    53.620792
+],
   "geometry": {"coordinates":[9.944742,53.620792],"type":"Point"}
 }

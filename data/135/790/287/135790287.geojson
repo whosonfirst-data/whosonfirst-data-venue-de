@@ -2,13 +2,14 @@
   "id": 135790287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.06851,47.853352,12.06851,47.853352",
     "geom:latitude":47.853352,
     "geom:longitude":12.06851,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergsiedlung 4",
     "sg:city":"Kolbermoor",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135790287,
-    "wof:lastmodified":1449023322,
+    "wof:lastmodified":1466244021,
     "wof:name":"Mohr",
     "wof:parent_id":101755873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.06851,47.853352,12.06851,47.853352],
+  "bbox": [
+    12.06851,
+    47.853352,
+    12.06851,
+    47.853352
+],
   "geometry": {"coordinates":[12.06851,47.853352],"type":"Point"}
 }

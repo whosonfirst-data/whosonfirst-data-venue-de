@@ -2,13 +2,14 @@
   "id": 152883475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328583,48.892807,2.328583,48.892807",
     "geom:latitude":48.892807,
     "geom:longitude":2.328583,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"marcadet",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"75000",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874007,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152883475,
-    "wof:lastmodified":1449047827,
+    "wof:lastmodified":1466228982,
     "wof:name":"M\u00e9soth\u00e9rapie Ile De France",
     "wof:parent_id":85874007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328583,48.892807,2.328583,48.892807],
+  "bbox": [
+    2.328583,
+    48.892807,
+    2.328583,
+    48.892807
+],
   "geometry": {"coordinates":[2.328583,48.892807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119108339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.169476,53.526237,10.169476,53.526237",
     "geom:latitude":53.526237,
     "geom:longitude":10.169476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 61",
     "sg:city":"Oststeinbek",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899019,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119108339,
-    "wof:lastmodified":1449040926,
+    "wof:lastmodified":1466220819,
     "wof:name":"Peter K\u00f6ttschau Architekt",
     "wof:parent_id":85899019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.169476,53.526237,10.169476,53.526237],
+  "bbox": [
+    10.169476,
+    53.526237,
+    10.169476,
+    53.526237
+],
   "geometry": {"coordinates":[10.169476,53.526237],"type":"Point"}
 }

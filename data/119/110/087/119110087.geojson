@@ -2,13 +2,14 @@
   "id": 119110087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.305548,49.02655,12.305548,49.02655",
     "geom:latitude":49.02655,
     "geom:longitude":12.305548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldweg 7",
     "sg:city":"Bach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119110087,
-    "wof:lastmodified":1449041659,
+    "wof:lastmodified":1466220993,
     "wof:name":"Peter Wenz Architekt",
     "wof:parent_id":101781993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.305548,49.02655,12.305548,49.02655],
+  "bbox": [
+    12.305548,
+    49.02655,
+    12.305548,
+    49.02655
+],
   "geometry": {"coordinates":[12.305548,49.02655],"type":"Point"}
 }

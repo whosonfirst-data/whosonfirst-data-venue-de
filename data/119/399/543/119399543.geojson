@@ -2,13 +2,14 @@
   "id": 119399543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.9765,51.442596,6.9765,51.442596",
     "geom:latitude":51.442596,
     "geom:longitude":6.9765,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00e4mpenstr. 23",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119399543,
-    "wof:lastmodified":1449041294,
+    "wof:lastmodified":1466241555,
     "wof:name":"Ewald Sirges Gmbh",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.9765,51.442596,6.9765,51.442596],
+  "bbox": [
+    6.9765,
+    51.442596,
+    6.9765,
+    51.442596
+],
   "geometry": {"coordinates":[6.9765,51.442596],"type":"Point"}
 }

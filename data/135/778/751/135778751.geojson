@@ -2,13 +2,14 @@
   "id": 135778751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.909327,53.646484,9.909327,53.646484",
     "geom:latitude":53.646484,
     "geom:longitude":9.909327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jungliebstr. 12",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899067,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135778751,
-    "wof:lastmodified":1449021028,
+    "wof:lastmodified":1466243976,
     "wof:name":"De Luxe Textilpflege Gmbh",
     "wof:parent_id":85899067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.909327,53.646484,9.909327,53.646484],
+  "bbox": [
+    9.909327,
+    53.646484,
+    9.909327,
+    53.646484
+],
   "geometry": {"coordinates":[9.909327,53.646484],"type":"Point"}
 }

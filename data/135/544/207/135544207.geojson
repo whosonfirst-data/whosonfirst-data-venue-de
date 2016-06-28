@@ -2,13 +2,14 @@
   "id": 135544207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.629786,49.880249,8.629786,49.880249",
     "geom:latitude":49.880249,
     "geom:longitude":8.629786,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landwehrstr. 91",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135544207,
-    "wof:lastmodified":1449023990,
+    "wof:lastmodified":1466235597,
     "wof:name":"Prt Rohrtechnik Hessen Gmbh",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.629786,49.880249,8.629786,49.880249],
+  "bbox": [
+    8.629786,
+    49.880249,
+    8.629786,
+    49.880249
+],
   "geometry": {"coordinates":[8.629786,49.880249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135761497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.423119,48.765316,11.423119,48.765316",
     "geom:latitude":48.765316,
     "geom:longitude":11.423119,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kupferstr. 3-5",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900055,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85900055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135761497,
-    "wof:lastmodified":1449023306,
+    "wof:lastmodified":1466243691,
     "wof:name":"Sport B\u00f6ttcher Ohg",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.423119,48.765316,11.423119,48.765316],
+  "bbox": [
+    11.423119,
+    48.765316,
+    11.423119,
+    48.765316
+],
   "geometry": {"coordinates":[11.423119,48.765316],"type":"Point"}
 }

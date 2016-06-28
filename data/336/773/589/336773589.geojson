@@ -2,13 +2,14 @@
   "id": 336773589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.370432,52.454849,13.370432,52.454849",
     "geom:latitude":52.454849,
     "geom:longitude":13.370432,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-Schmidt-Str. 14",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336773589,
-    "wof:lastmodified":1448997062,
+    "wof:lastmodified":1466237204,
     "wof:name":"Bernd Heidl",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.370432,52.454849,13.370432,52.454849],
+  "bbox": [
+    13.370432,
+    52.454849,
+    13.370432,
+    52.454849
+],
   "geometry": {"coordinates":[13.370432,52.454849],"type":"Point"}
 }

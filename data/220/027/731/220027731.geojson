@@ -2,13 +2,14 @@
   "id": 220027731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.325392,50.240982,11.325392,50.240982",
     "geom:latitude":50.240982,
     "geom:longitude":11.325392,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strauer Torweg 3",
     "sg:city":"Kronach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220027731,
-    "wof:lastmodified":1449074190,
+    "wof:lastmodified":1466215120,
     "wof:name":"Cafe Am Strauer Tor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.325392,50.240982,11.325392,50.240982],
+  "bbox": [
+    11.325392,
+    50.240982,
+    11.325392,
+    50.240982
+],
   "geometry": {"coordinates":[11.325392,50.240982],"type":"Point"}
 }

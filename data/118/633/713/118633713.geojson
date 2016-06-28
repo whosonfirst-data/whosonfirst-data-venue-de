@@ -2,13 +2,14 @@
   "id": 118633713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193367,43.606979,-116.193367,43.606979",
     "geom:latitude":43.606979,
     "geom:longitude":-116.193367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neisseweg 2-10",
     "sg:city":"Waldkraiburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876345,
+        85688657,
         85633793,
         85937923,
         102086087,
-        85688657
+        85876345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118633713,
-    "wof:lastmodified":1449054522,
+    "wof:lastmodified":1466220192,
     "wof:name":"Parkresidenz Bachmair Weissach Gmbh",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.193367,43.606979,-116.193367,43.606979],
-  "geometry": {"coordinates":[-116.193367,43.606979],"type":"Point"}
+  "bbox": [
+    -116.193367,
+    43.606979,
+    -116.193367,
+    43.606979
+],
+  "geometry": {"coordinates":[-116.19336699999999,43.606979],"type":"Point"}
 }

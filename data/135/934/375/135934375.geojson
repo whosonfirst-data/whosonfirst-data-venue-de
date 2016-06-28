@@ -2,13 +2,14 @@
   "id": 135934375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.382645,51.33445,7.382645,51.33445",
     "geom:latitude":51.33445,
     "geom:longitude":7.382645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Sinnerhoop 5",
     "sg:city":"Gevelsberg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795679
+        85633111,
+        85795679,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135934375,
-    "wof:lastmodified":1449021136,
+    "wof:lastmodified":1466244660,
     "wof:name":"Verwaltungsgesellschaft Mbh Der Firma Bernhard Fr\u00f6lich",
     "wof:parent_id":85795679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.382645,51.33445,7.382645,51.33445],
+  "bbox": [
+    7.382645,
+    51.33445,
+    7.382645,
+    51.33445
+],
   "geometry": {"coordinates":[7.382645,51.33445],"type":"Point"}
 }

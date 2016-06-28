@@ -2,13 +2,14 @@
   "id": 135661001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.59721,51.2966,11.59721,51.2966",
     "geom:latitude":51.2966,
     "geom:longitude":11.59721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugmantel 3",
     "sg:city":"Reinsdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135661001,
-    "wof:lastmodified":1449023680,
+    "wof:lastmodified":1466241177,
     "wof:name":"Hans Wolf",
     "wof:parent_id":101908967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.59721,51.2966,11.59721,51.2966],
+  "bbox": [
+    11.59721,
+    51.2966,
+    11.59721,
+    51.2966
+],
   "geometry": {"coordinates":[11.59721,51.2966],"type":"Point"}
 }

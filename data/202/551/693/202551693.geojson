@@ -2,13 +2,14 @@
   "id": 202551693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.39456,49.027184,10.39456,49.027184",
     "geom:latitude":49.027184,
     "geom:longitude":10.39456,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenstr. 17a",
     "sg:city":"Wilburgstetten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202551693,
-    "wof:lastmodified":1449060620,
+    "wof:lastmodified":1466216652,
     "wof:name":"Johann Seeberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.39456,49.027184,10.39456,49.027184],
+  "bbox": [
+    10.39456,
+    49.027184,
+    10.39456,
+    49.027184
+],
   "geometry": {"coordinates":[10.39456,49.027184],"type":"Point"}
 }

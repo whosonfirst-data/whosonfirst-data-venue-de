@@ -2,13 +2,14 @@
   "id": 286295153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.509134,48.186878,11.509134,48.186878",
     "geom:latitude":48.186878,
     "geom:longitude":11.509134,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eininger Str. 34",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286295153,
-    "wof:lastmodified":1449016370,
+    "wof:lastmodified":1466225393,
     "wof:name":"Franz Hackl",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.509134,48.186878,11.509134,48.186878],
+  "bbox": [
+    11.509134,
+    48.186878,
+    11.509134,
+    48.186878
+],
   "geometry": {"coordinates":[11.509134,48.186878],"type":"Point"}
 }

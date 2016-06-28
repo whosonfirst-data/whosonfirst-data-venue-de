@@ -2,13 +2,14 @@
   "id": 136208279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.172814,54.100231,12.172814,54.100231",
     "geom:latitude":54.100231,
     "geom:longitude":12.172814,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstr. 11",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899095,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136208279,
-    "wof:lastmodified":1449075067,
+    "wof:lastmodified":1466221664,
     "wof:name":"G. Zimmermann",
     "wof:parent_id":85899095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.172814,54.100231,12.172814,54.100231],
+  "bbox": [
+    12.172814,
+    54.100231,
+    12.172814,
+    54.100231
+],
   "geometry": {"coordinates":[12.172814,54.100231],"type":"Point"}
 }

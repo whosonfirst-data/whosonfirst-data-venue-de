@@ -2,13 +2,14 @@
   "id": 135505571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.515418,49.515652,8.515418,49.515652",
     "geom:latitude":49.515652,
     "geom:longitude":8.515418,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lemaitrestr. 8 A",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795279,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85795279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135505571,
-    "wof:lastmodified":1449023517,
+    "wof:lastmodified":1466232099,
     "wof:name":"Schindler Dachfenster Deutschland Gmbh",
     "wof:parent_id":85795279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.515418,49.515652,8.515418,49.515652],
+  "bbox": [
+    8.515418,
+    49.515652,
+    8.515418,
+    49.515652
+],
   "geometry": {"coordinates":[8.515418,49.515652],"type":"Point"}
 }

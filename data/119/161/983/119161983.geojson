@@ -2,13 +2,14 @@
   "id": 119161983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701579,50.112701,8.701579,50.112701",
     "geom:latitude":50.112701,
     "geom:longitude":8.701579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hanauer Landstr. 52",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
-        85796369
+        85633111,
+        85796369,
+        102063589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119161983,
-    "wof:lastmodified":1449041809,
+    "wof:lastmodified":1466225218,
     "wof:name":"Wolfgang Und Eugen S\u00f6der Architeken",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701579,50.112701,8.701579,50.112701],
+  "bbox": [
+    8.701579,
+    50.112701,
+    8.701579,
+    50.112701
+],
   "geometry": {"coordinates":[8.701579,50.112701],"type":"Point"}
 }

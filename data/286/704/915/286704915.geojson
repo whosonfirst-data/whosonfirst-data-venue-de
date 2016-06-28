@@ -2,13 +2,14 @@
   "id": 286704915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.767835,49.960743,9.767835,49.960743",
     "geom:latitude":49.960743,
     "geom:longitude":9.767835,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 42",
     "sg:city":"Karlstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286704915,
-    "wof:lastmodified":1449015945,
+    "wof:lastmodified":1466235398,
     "wof:name":"Hans Paulsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.767835,49.960743,9.767835,49.960743],
+  "bbox": [
+    9.767835,
+    49.960743,
+    9.767835,
+    49.960743
+],
   "geometry": {"coordinates":[9.767835,49.960743],"type":"Point"}
 }

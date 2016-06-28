@@ -2,13 +2,14 @@
   "id": 102740397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57849,48.158562,11.57849,48.158562",
     "geom:latitude":48.158562,
     "geom:longitude":11.57849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102740397,
-    "wof:lastmodified":1449068855,
+    "wof:lastmodified":1466217658,
     "wof:name":"Mailline",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57849,48.158562,11.57849,48.158562],
+  "bbox": [
+    11.57849,
+    48.158562,
+    11.57849,
+    48.158562
+],
   "geometry": {"coordinates":[11.57849,48.158562],"type":"Point"}
 }

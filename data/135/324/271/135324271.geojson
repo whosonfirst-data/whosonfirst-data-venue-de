@@ -2,13 +2,14 @@
   "id": 135324271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.320969,49.610538,8.320969,49.610538",
     "geom:latitude":49.610538,
     "geom:longitude":8.320969,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hauptstr. 66",
     "sg:city":"Worms",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135324271,
-    "wof:lastmodified":1449022781,
+    "wof:lastmodified":1466215866,
     "wof:name":"Walter Seiler",
     "wof:parent_id":101748553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.320969,49.610538,8.320969,49.610538],
+  "bbox": [
+    8.320969,
+    49.610538,
+    8.320969,
+    49.610538
+],
   "geometry": {"coordinates":[8.320969,49.610538],"type":"Point"}
 }

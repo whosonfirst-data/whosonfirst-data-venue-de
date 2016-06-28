@@ -2,13 +2,14 @@
   "id": 135311407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.091461,51.962337,12.091461,51.962337",
     "geom:latitude":51.962337,
     "geom:longitude":12.091461,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelstr. 24",
     "sg:city":"Zerbst",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135311407,
-    "wof:lastmodified":1449021688,
+    "wof:lastmodified":1466214750,
     "wof:name":"Richard Kegel",
     "wof:parent_id":101821099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.091461,51.962337,12.091461,51.962337],
+  "bbox": [
+    12.091461,
+    51.962337,
+    12.091461,
+    51.962337
+],
   "geometry": {"coordinates":[12.091461,51.962337],"type":"Point"}
 }

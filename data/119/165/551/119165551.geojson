@@ -2,13 +2,14 @@
   "id": 119165551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.658427,52.08947,11.658427,52.08947",
     "geom:latitude":52.08947,
     "geom:longitude":11.658427,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alt Fermersleben 70",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899187,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119165551,
-    "wof:lastmodified":1449043542,
+    "wof:lastmodified":1466225560,
     "wof:name":"Construct Planungsb\u00fcro Gmbh",
     "wof:parent_id":85899187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.658427,52.08947,11.658427,52.08947],
+  "bbox": [
+    11.658427,
+    52.08947,
+    11.658427,
+    52.08947
+],
   "geometry": {"coordinates":[11.658427,52.08947],"type":"Point"}
 }

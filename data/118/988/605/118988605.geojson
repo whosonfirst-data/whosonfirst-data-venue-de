@@ -2,13 +2,14 @@
   "id": 118988605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.132682,49.457024,11.132682,49.457024",
     "geom:latitude":49.457024,
     "geom:longitude":11.132682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Farnstr. 48",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118988605,
-    "wof:lastmodified":1449053629,
+    "wof:lastmodified":1466239685,
     "wof:name":"Claus Bauscher Innenarchitekt",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.132682,49.457024,11.132682,49.457024],
+  "bbox": [
+    11.132682,
+    49.457024,
+    11.132682,
+    49.457024
+],
   "geometry": {"coordinates":[11.132682,49.457024],"type":"Point"}
 }

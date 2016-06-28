@@ -2,13 +2,14 @@
   "id": 118952497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.137259,52.452179,13.137259,52.452179",
     "geom:latitude":52.452179,
     "geom:longitude":13.137259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sakrower Landstr. 40",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899697
+        85633111,
+        85899697,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118952497,
-    "wof:lastmodified":1449054154,
+    "wof:lastmodified":1466237903,
     "wof:name":"Berliner Farben Flotte Farben-lacke-einzelhandel",
     "wof:parent_id":85899697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.137259,52.452179,13.137259,52.452179],
+  "bbox": [
+    13.137259,
+    52.452179,
+    13.137259,
+    52.452179
+],
   "geometry": {"coordinates":[13.137259,52.452179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152850419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.483275,51.361477,7.483275,51.361477",
     "geom:latitude":51.361477,
     "geom:longitude":7.483275,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldener Str. 41",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795409,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152850419,
-    "wof:lastmodified":1449046980,
+    "wof:lastmodified":1466228213,
     "wof:name":"Immobilien-verwaltung Fellmeden In Hagen",
     "wof:parent_id":85795409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.483275,51.361477,7.483275,51.361477],
+  "bbox": [
+    7.483275,
+    51.361477,
+    7.483275,
+    51.361477
+],
   "geometry": {"coordinates":[7.483275,51.361477],"type":"Point"}
 }

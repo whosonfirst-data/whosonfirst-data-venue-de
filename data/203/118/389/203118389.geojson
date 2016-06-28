@@ -2,13 +2,14 @@
   "id": 203118389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.398703,49.47472,8.398703,49.47472",
     "geom:latitude":49.47472,
     "geom:longitude":8.398703,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kallstadter Str. 111",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203118389,
-    "wof:lastmodified":1449026478,
+    "wof:lastmodified":1466215827,
     "wof:name":"B. Vormend",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.398703,49.47472,8.398703,49.47472],
+  "bbox": [
+    8.398703,
+    49.47472,
+    8.398703,
+    49.47472
+],
   "geometry": {"coordinates":[8.398703,49.47472],"type":"Point"}
 }

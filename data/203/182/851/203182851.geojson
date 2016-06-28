@@ -2,13 +2,14 @@
   "id": 203182851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.679682,51.050449,13.679682,51.050449",
     "geom:latitude":51.050449,
     "geom:longitude":13.679682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00f6llmener Str. 37",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203182851,
-    "wof:lastmodified":1449026166,
+    "wof:lastmodified":1466216929,
     "wof:name":"Karl Z\u00f6ltner",
     "wof:parent_id":85899529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.679682,51.050449,13.679682,51.050449],
+  "bbox": [
+    13.679682,
+    51.050449,
+    13.679682,
+    51.050449
+],
   "geometry": {"coordinates":[13.679682,51.050449],"type":"Point"}
 }

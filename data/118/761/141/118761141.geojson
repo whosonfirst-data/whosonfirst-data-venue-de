@@ -2,13 +2,14 @@
   "id": 118761141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.01651,53.634521,10.01651,53.634521",
     "geom:latitude":53.634521,
     "geom:longitude":10.01651,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugh HH-Fuhlsb\u00fcttel 172",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898949,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118761141,
-    "wof:lastmodified":1449054223,
+    "wof:lastmodified":1466227412,
     "wof:name":"Saems Special Airport Equipment And Maintenance",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.01651,53.634521,10.01651,53.634521],
+  "bbox": [
+    10.01651,
+    53.634521,
+    10.01651,
+    53.634521
+],
   "geometry": {"coordinates":[10.01651,53.634521],"type":"Point"}
 }

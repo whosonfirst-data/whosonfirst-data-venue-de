@@ -2,13 +2,14 @@
   "id": 135616647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.981593,51.549564,6.981593,51.549564",
     "geom:latitude":51.549564,
     "geom:longitude":6.981593,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6sheide 51",
     "sg:city":"Gladbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794919,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85794919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135616647,
-    "wof:lastmodified":1449023217,
+    "wof:lastmodified":1466240079,
     "wof:name":"G. Bruzek",
     "wof:parent_id":85794919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.981593,51.549564,6.981593,51.549564],
+  "bbox": [
+    6.981593,
+    51.549564,
+    6.981593,
+    51.549564
+],
   "geometry": {"coordinates":[6.981593,51.549564],"type":"Point"}
 }

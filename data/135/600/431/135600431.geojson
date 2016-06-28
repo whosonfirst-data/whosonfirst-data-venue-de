@@ -2,13 +2,14 @@
   "id": 135600431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.71301,51.224659,12.71301,51.224659",
     "geom:latitude":51.224659,
     "geom:longitude":12.71301,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lausicker Str. 1",
     "sg:city":"Grimma",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135600431,
-    "wof:lastmodified":1449021280,
+    "wof:lastmodified":1466239318,
     "wof:name":"Bautechnik",
     "wof:parent_id":101821999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.71301,51.224659,12.71301,51.224659],
+  "bbox": [
+    12.71301,
+    51.224659,
+    12.71301,
+    51.224659
+],
   "geometry": {"coordinates":[12.71301,51.224659],"type":"Point"}
 }

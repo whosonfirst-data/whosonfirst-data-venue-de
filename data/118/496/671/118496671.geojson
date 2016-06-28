@@ -2,13 +2,14 @@
   "id": 118496671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.85776,51.369591,10.85776,51.369591",
     "geom:latitude":51.369591,
     "geom:longitude":10.85776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Sondershausen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118496671,
-    "wof:lastmodified":1449054343,
+    "wof:lastmodified":1466217231,
     "wof:name":"Deutsche Telekom T-punkt",
     "wof:parent_id":101822923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.85776,51.369591,10.85776,51.369591],
+  "bbox": [
+    10.85776,
+    51.369591,
+    10.85776,
+    51.369591
+],
   "geometry": {"coordinates":[10.85776,51.369591],"type":"Point"}
 }

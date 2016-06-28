@@ -2,13 +2,14 @@
   "id": 136220143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.092261,49.032841,12.092261,49.032841",
     "geom:latitude":49.032841,
     "geom:longitude":12.092261,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Dreifaltigkeitsberg 30",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136220143,
-    "wof:lastmodified":1449076219,
+    "wof:lastmodified":1466222393,
     "wof:name":"Hermann Weis",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.092261,49.032841,12.092261,49.032841],
+  "bbox": [
+    12.092261,
+    49.032841,
+    12.092261,
+    49.032841
+],
   "geometry": {"coordinates":[12.092261,49.032841],"type":"Point"}
 }

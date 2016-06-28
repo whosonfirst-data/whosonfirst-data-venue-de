@@ -2,13 +2,14 @@
   "id": 136129115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.621529,52.505219,13.621529,52.505219",
     "geom:latitude":52.505219,
     "geom:longitude":13.621529,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsberger Stra\u00dfe 247",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136129115,
-    "wof:lastmodified":1449075968,
+    "wof:lastmodified":1466217935,
     "wof:name":"Stadt-akzent Bau-projekt-consult Gmbh",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.621529,52.505219,13.621529,52.505219],
+  "bbox": [
+    13.621529,
+    52.505219,
+    13.621529,
+    52.505219
+],
   "geometry": {"coordinates":[13.621529,52.505219],"type":"Point"}
 }

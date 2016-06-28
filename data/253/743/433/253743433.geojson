@@ -2,13 +2,14 @@
   "id": 253743433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.047615,50.896584,7.047615,50.896584",
     "geom:latitude":50.896584,
     "geom:longitude":7.047615,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidbergweg 26",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253743433,
-    "wof:lastmodified":1449065788,
+    "wof:lastmodified":1466234854,
     "wof:name":"K. K. Wecker",
     "wof:parent_id":85795851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.047615,50.896584,7.047615,50.896584],
+  "bbox": [
+    7.047615,
+    50.896584,
+    7.047615,
+    50.896584
+],
   "geometry": {"coordinates":[7.047615,50.896584],"type":"Point"}
 }

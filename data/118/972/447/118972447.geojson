@@ -2,13 +2,14 @@
   "id": 118972447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.977373,51.433208,6.977373,51.433208",
     "geom:latitude":51.433208,
     "geom:longitude":6.977373,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tiefer Weg 5",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118972447,
-    "wof:lastmodified":1449053854,
+    "wof:lastmodified":1466238795,
     "wof:name":"Alfred Brosch Architekt",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.977373,51.433208,6.977373,51.433208],
+  "bbox": [
+    6.977373,
+    51.433208,
+    6.977373,
+    51.433208
+],
   "geometry": {"coordinates":[6.977373,51.433208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152434131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.081269,54.322933,13.081269,54.322933",
     "geom:latitude":54.322933,
     "geom:longitude":13.081269,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spielhagenstr. 4",
     "sg:city":"Stralsund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152434131,
-    "wof:lastmodified":1449045303,
+    "wof:lastmodified":1466218803,
     "wof:name":"Melahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.081269,54.322933,13.081269,54.322933],
+  "bbox": [
+    13.081269,
+    54.322933,
+    13.081269,
+    54.322933
+],
   "geometry": {"coordinates":[13.081269,54.322933],"type":"Point"}
 }

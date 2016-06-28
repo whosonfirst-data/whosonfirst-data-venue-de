@@ -2,13 +2,14 @@
   "id": 303988435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.299781,50.797825,10.299781,50.797825",
     "geom:latitude":50.797825,
     "geom:longitude":10.299781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 24",
     "sg:city":"Barchfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303988435,
-    "wof:lastmodified":1448998962,
+    "wof:lastmodified":1466241957,
     "wof:name":"Peter Schmidt Masseur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.299781,50.797825,10.299781,50.797825],
+  "bbox": [
+    10.299781,
+    50.797825,
+    10.299781,
+    50.797825
+],
   "geometry": {"coordinates":[10.299781,50.797825],"type":"Point"}
 }

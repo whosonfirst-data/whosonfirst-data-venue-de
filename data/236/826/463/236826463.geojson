@@ -2,13 +2,14 @@
   "id": 236826463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.427052,52.546238,13.427052,52.546238",
     "geom:latitude":52.546238,
     "geom:longitude":13.427052,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wichertstr. 43",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236826463,
-    "wof:lastmodified":1449004162,
+    "wof:lastmodified":1466234076,
     "wof:name":"Call A Pizza",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.427052,52.546238,13.427052,52.546238],
+  "bbox": [
+    13.427052,
+    52.546238,
+    13.427052,
+    52.546238
+],
   "geometry": {"coordinates":[13.427052,52.546238],"type":"Point"}
 }

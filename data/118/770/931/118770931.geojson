@@ -2,13 +2,14 @@
   "id": 118770931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.725624,52.424835,10.725624,52.424835",
     "geom:latitude":52.424835,
     "geom:longitude":10.725624,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafenstr. 2b",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905779,
+        85682555,
         85633111,
         101748803,
         102063921,
-        85682555
+        85905779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118770931,
-    "wof:lastmodified":1449054575,
+    "wof:lastmodified":1466227985,
     "wof:name":"Erich Wollschl\u00c4ger Gmbh & Co. Kg",
     "wof:parent_id":85905779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.725624,52.424835,10.725624,52.424835],
+  "bbox": [
+    10.725624,
+    52.424835,
+    10.725624,
+    52.424835
+],
   "geometry": {"coordinates":[10.725624,52.424835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135344779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.160392,49.736645,10.160392,49.736645",
     "geom:latitude":49.736645,
     "geom:longitude":10.160392,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Falterstr. 6",
     "sg:city":"Kitzingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135344779,
-    "wof:lastmodified":1449021140,
+    "wof:lastmodified":1466217600,
     "wof:name":"Hans Und Georg Will",
     "wof:parent_id":101810607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.160392,49.736645,10.160392,49.736645],
+  "bbox": [
+    10.160392,
+    49.736645,
+    10.160392,
+    49.736645
+],
   "geometry": {"coordinates":[10.160392,49.736645],"type":"Point"}
 }

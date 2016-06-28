@@ -2,13 +2,14 @@
   "id": 135714629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.064712,50.392849,8.064712,50.392849",
     "geom:latitude":50.392849,
     "geom:longitude":8.064712,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westerwaldstr. 26",
     "sg:city":"Limburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862831,
+        85682531,
         85633111,
         101840081,
         102063643,
-        85682531
+        85862831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135714629,
-    "wof:lastmodified":1449022504,
+    "wof:lastmodified":1466242663,
     "wof:name":"Schmitt Projekt Gmbh",
     "wof:parent_id":85862831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.064712,50.392849,8.064712,50.392849],
+  "bbox": [
+    8.064712,
+    50.392849,
+    8.064712,
+    50.392849
+],
   "geometry": {"coordinates":[8.064712,50.392849],"type":"Point"}
 }

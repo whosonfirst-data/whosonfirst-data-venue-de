@@ -2,13 +2,14 @@
   "id": 253285499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.543723,47.945656,10.543723,47.945656",
     "geom:latitude":47.945656,
     "geom:longitude":10.543723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Johannes-Str. 5",
     "sg:city":"Baisweil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253285499,
-    "wof:lastmodified":1449062906,
+    "wof:lastmodified":1466235342,
     "wof:name":"Hubert Riedle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.543723,47.945656,10.543723,47.945656],
+  "bbox": [
+    10.543723,
+    47.945656,
+    10.543723,
+    47.945656
+],
   "geometry": {"coordinates":[10.543723,47.945656],"type":"Point"}
 }

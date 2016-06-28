@@ -2,13 +2,14 @@
   "id": 119466723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.991141,49.491371,10.991141,49.491371",
     "geom:latitude":49.491371,
     "geom:longitude":10.991141,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlanger Str. 160",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119466723,
-    "wof:lastmodified":1449041571,
+    "wof:lastmodified":1466243033,
     "wof:name":"Autoverleih Rahmer",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.991141,49.491371,10.991141,49.491371],
+  "bbox": [
+    10.991141,
+    49.491371,
+    10.991141,
+    49.491371
+],
   "geometry": {"coordinates":[10.991141,49.491371],"type":"Point"}
 }

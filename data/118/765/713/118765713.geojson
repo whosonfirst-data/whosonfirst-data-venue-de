@@ -2,13 +2,14 @@
   "id": 118765713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.726102,51.477318,6.726102,51.477318",
     "geom:latitude":51.477318,
     "geom:longitude":6.726102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Nienhaushof 2",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794699,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118765713,
-    "wof:lastmodified":1449053965,
+    "wof:lastmodified":1466227667,
     "wof:name":"Gerd Breuer Gmbh",
     "wof:parent_id":85794699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.726102,51.477318,6.726102,51.477318],
+  "bbox": [
+    6.726102,
+    51.477318,
+    6.726102,
+    51.477318
+],
   "geometry": {"coordinates":[6.726102,51.477318],"type":"Point"}
 }

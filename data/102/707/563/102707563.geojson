@@ -2,13 +2,14 @@
   "id": 102707563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.964562,49.241737,10.964562,49.241737",
     "geom:latitude":49.241737,
     "geom:longitude":10.964562,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Abenberg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102707563,
-    "wof:lastmodified":1449069778,
+    "wof:lastmodified":1466216365,
     "wof:name":"Tatsch",
     "wof:parent_id":101782051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.964562,49.241737,10.964562,49.241737],
+  "bbox": [
+    10.964562,
+    49.241737,
+    10.964562,
+    49.241737
+],
   "geometry": {"coordinates":[10.964562,49.241737],"type":"Point"}
 }

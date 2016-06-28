@@ -2,13 +2,14 @@
   "id": 135547773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.849098,48.393295,10.849098,48.393295",
     "geom:latitude":48.393295,
     "geom:longitude":10.849098,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzweg 86",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900099,
+        85682571,
         85633111,
         101755891,
         102063311,
-        85682571
+        85900099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135547773,
-    "wof:lastmodified":1449021303,
+    "wof:lastmodified":1466235888,
     "wof:name":"Georg Filser Abbruch- Und Erdbau Gmbh",
     "wof:parent_id":85900099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.849098,48.393295,10.849098,48.393295],
+  "bbox": [
+    10.849098,
+    48.393295,
+    10.849098,
+    48.393295
+],
   "geometry": {"coordinates":[10.849098,48.393295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303193853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.300544,51.322422,12.300544,51.322422",
     "geom:latitude":51.322422,
     "geom:longitude":12.300544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Asternweg 24",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303193853,
-    "wof:lastmodified":1448998513,
+    "wof:lastmodified":1466229330,
     "wof:name":"Hans-joachim Bartak",
     "wof:parent_id":85899229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.300544,51.322422,12.300544,51.322422],
+  "bbox": [
+    12.300544,
+    51.322422,
+    12.300544,
+    51.322422
+],
   "geometry": {"coordinates":[12.300544,51.322422],"type":"Point"}
 }

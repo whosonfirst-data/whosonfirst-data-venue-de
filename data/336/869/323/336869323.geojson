@@ -2,13 +2,14 @@
   "id": 336869323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.39785,52.54023,13.39785,52.54023",
     "geom:latitude":52.54023,
     "geom:longitude":13.39785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stralsunder Str. 69",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336869323,
-    "wof:lastmodified":1448997931,
+    "wof:lastmodified":1466238604,
     "wof:name":"Hans Kirchhoff",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.39785,52.54023,13.39785,52.54023],
+  "bbox": [
+    13.39785,
+    52.54023,
+    13.39785,
+    52.54023
+],
   "geometry": {"coordinates":[13.39785,52.54023],"type":"Point"}
 }

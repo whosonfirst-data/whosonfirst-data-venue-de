@@ -2,13 +2,14 @@
   "id": 152708719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.427884,48.128017,11.427884,48.128017",
     "geom:latitude":48.128017,
     "geom:longitude":11.427884,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rudolfstr. 28",
     "sg:city":"Gr\u00e4felfing",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152708719,
-    "wof:lastmodified":1449045029,
+    "wof:lastmodified":1466224859,
     "wof:name":"Lein-echt Beteiligungsges. Mbh",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.427884,48.128017,11.427884,48.128017],
+  "bbox": [
+    11.427884,
+    48.128017,
+    11.427884,
+    48.128017
+],
   "geometry": {"coordinates":[11.427884,48.128017],"type":"Point"}
 }

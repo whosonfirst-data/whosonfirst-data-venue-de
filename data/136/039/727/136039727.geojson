@@ -2,13 +2,14 @@
   "id": 136039727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.914727,49.251045,6.914727,49.251045",
     "geom:latitude":49.251045,
     "geom:longitude":6.914727,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alleestr. 180",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796285,
+        85682479,
         85633111,
         101753103,
         102063433,
-        85682479
+        85796285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136039727,
-    "wof:lastmodified":1449076098,
+    "wof:lastmodified":1466213928,
     "wof:name":"Creafit - F\u00fcr Eine Kreative Seminargestaltung",
     "wof:parent_id":85796285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.914727,49.251045,6.914727,49.251045],
+  "bbox": [
+    6.914727,
+    49.251045,
+    6.914727,
+    49.251045
+],
   "geometry": {"coordinates":[6.914727,49.251045],"type":"Point"}
 }

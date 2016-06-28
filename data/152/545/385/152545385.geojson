@@ -2,13 +2,14 @@
   "id": 152545385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.413702,49.423191,8.413702,49.423191",
     "geom:latitude":49.423191,
     "geom:longitude":8.413702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wattstr. 4",
     "sg:city":"Neuhofen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796279,
+        85682491,
         85633111,
         101815675,
         102063479,
-        85682491
+        85796279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152545385,
-    "wof:lastmodified":1449045407,
+    "wof:lastmodified":1466221234,
     "wof:name":"Graha Leichtbauhallen - Verwaltungs- Gmbh",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.413702,49.423191,8.413702,49.423191],
+  "bbox": [
+    8.413702,
+    49.423191,
+    8.413702,
+    49.423191
+],
   "geometry": {"coordinates":[8.413702,49.423191],"type":"Point"}
 }

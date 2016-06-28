@@ -2,13 +2,14 @@
   "id": 119142321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.100774,50.764561,6.100774,50.764561",
     "geom:latitude":50.764561,
     "geom:longitude":6.100774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Gillesbachtal 14",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862947,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85862947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119142321,
-    "wof:lastmodified":1449042967,
+    "wof:lastmodified":1466223403,
     "wof:name":"Ulrich Patz Architekt",
     "wof:parent_id":85862947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.100774,50.764561,6.100774,50.764561],
+  "bbox": [
+    6.100774,
+    50.764561,
+    6.100774,
+    50.764561
+],
   "geometry": {"coordinates":[6.100774,50.764561],"type":"Point"}
 }

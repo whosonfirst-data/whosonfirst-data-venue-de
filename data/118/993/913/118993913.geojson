@@ -2,13 +2,14 @@
   "id": 118993913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.12359,53.640621,10.12359,53.640621",
     "geom:latitude":53.640621,
     "geom:longitude":10.12359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alter Berner Weg 51",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898999,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118993913,
-    "wof:lastmodified":1449053761,
+    "wof:lastmodified":1466239881,
     "wof:name":"Dietrich Bortels Architekt",
     "wof:parent_id":85898999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.12359,53.640621,10.12359,53.640621],
+  "bbox": [
+    10.12359,
+    53.640621,
+    10.12359,
+    53.640621
+],
   "geometry": {"coordinates":[10.12359,53.640621],"type":"Point"}
 }

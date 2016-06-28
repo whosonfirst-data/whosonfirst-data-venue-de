@@ -2,13 +2,14 @@
   "id": 303345511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.707389,49.826084,6.707389,49.826084",
     "geom:latitude":49.826084,
     "geom:longitude":6.707389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 161",
     "sg:city":"Trier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303345511,
-    "wof:lastmodified":1449000372,
+    "wof:lastmodified":1466233040,
     "wof:name":"M. Und G. Faber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.707389,49.826084,6.707389,49.826084],
+  "bbox": [
+    6.707389,
+    49.826084,
+    6.707389,
+    49.826084
+],
   "geometry": {"coordinates":[6.707389,49.826084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102661393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.629399,49.693096,11.629399,49.693096",
     "geom:latitude":49.693096,
     "geom:longitude":11.629399,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1160:: 91270 Auerbach:: Germany.^^Oberer Marktplatz 13::",
     "sg:city":"Auerbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102661393,
-    "wof:lastmodified":1449069931,
+    "wof:lastmodified":1466215106,
     "wof:name":"Raiffeisenbank Auerbach-freihung Eg",
     "wof:parent_id":101826913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.629399,49.693096,11.629399,49.693096],
+  "bbox": [
+    11.629399,
+    49.693096,
+    11.629399,
+    49.693096
+],
   "geometry": {"coordinates":[11.629399,49.693096],"type":"Point"}
 }

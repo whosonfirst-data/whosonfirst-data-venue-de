@@ -2,13 +2,14 @@
   "id": 135733037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.43048,52.440197,13.43048,52.440197",
     "geom:latitude":52.440197,
     "geom:longitude":13.43048,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ilgenweg 10a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899215,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135733037,
-    "wof:lastmodified":1449021404,
+    "wof:lastmodified":1466243183,
     "wof:name":"Fritsche Immobilien Gmbh",
     "wof:parent_id":85899215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.43048,52.440197,13.43048,52.440197],
+  "bbox": [
+    13.43048,
+    52.440197,
+    13.43048,
+    52.440197
+],
   "geometry": {"coordinates":[13.43048,52.440197],"type":"Point"}
 }

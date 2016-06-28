@@ -2,13 +2,14 @@
   "id": 152952681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.056286,54.333054,10.056286,54.333054",
     "geom:latitude":54.333054,
     "geom:longitude":10.056286,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nansenpfad 25",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064125,
-        85633111,
         85682517,
-        85900189
+        85633111,
+        85900189,
+        102064125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152952681,
-    "wof:lastmodified":1449047628,
+    "wof:lastmodified":1466230654,
     "wof:name":"Straehler-pohl-webdesign Internetdienstleistungen",
     "wof:parent_id":85900189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.056286,54.333054,10.056286,54.333054],
+  "bbox": [
+    10.056286,
+    54.333054,
+    10.056286,
+    54.333054
+],
   "geometry": {"coordinates":[10.056286,54.333054],"type":"Point"}
 }

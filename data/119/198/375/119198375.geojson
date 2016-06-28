@@ -2,13 +2,14 @@
   "id": 119198375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.371493,49.488258,8.371493,49.488258",
     "geom:latitude":49.488258,
     "geom:longitude":8.371493,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 57",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795913,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119198375,
-    "wof:lastmodified":1449041741,
+    "wof:lastmodified":1466228617,
     "wof:name":"Ev. \u00d6ffentliche Bibliothek",
     "wof:parent_id":85795913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.371493,49.488258,8.371493,49.488258],
+  "bbox": [
+    8.371493,
+    49.488258,
+    8.371493,
+    49.488258
+],
   "geometry": {"coordinates":[8.371493,49.488258],"type":"Point"}
 }

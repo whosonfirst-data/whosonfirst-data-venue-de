@@ -2,13 +2,14 @@
   "id": 135637549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.453134,52.532291,13.453134,52.532291",
     "geom:latitude":52.532291,
     "geom:longitude":13.453134,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Storkower Str. 142",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928747,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135637549,
-    "wof:lastmodified":1449020986,
+    "wof:lastmodified":1466240485,
     "wof:name":"D\u00fcro Bauelemente- Vertriebsgesellschaft Mbh",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.453134,52.532291,13.453134,52.532291],
+  "bbox": [
+    13.453134,
+    52.532291,
+    13.453134,
+    52.532291
+],
   "geometry": {"coordinates":[13.453134,52.532291],"type":"Point"}
 }

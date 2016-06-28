@@ -2,13 +2,14 @@
   "id": 135962027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.882508,53.057686,8.882508,53.057686",
     "geom:latitude":53.057686,
     "geom:longitude":8.882508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Grenzpappel 11",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795437,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135962027,
-    "wof:lastmodified":1449022794,
+    "wof:lastmodified":1466244785,
     "wof:name":"Sznepka Verwaltungs- Und Beteiligungsgesellschaft Mbh",
     "wof:parent_id":85795437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.882508,53.057686,8.882508,53.057686],
+  "bbox": [
+    8.882508,
+    53.057686,
+    8.882508,
+    53.057686
+],
   "geometry": {"coordinates":[8.882508,53.057686],"type":"Point"}
 }

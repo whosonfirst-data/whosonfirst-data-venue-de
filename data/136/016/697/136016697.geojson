@@ -2,13 +2,14 @@
   "id": 136016697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.604905,51.992542,8.604905,51.992542",
     "geom:latitude":51.992542,
     "geom:longitude":8.604905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fadenweg 15",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795475,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136016697,
-    "wof:lastmodified":1449075146,
+    "wof:lastmodified":1466234498,
     "wof:name":"An.trieb Stedingk Gmbh & Co Kg",
     "wof:parent_id":85795475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.604905,51.992542,8.604905,51.992542],
+  "bbox": [
+    8.604905,
+    51.992542,
+    8.604905,
+    51.992542
+],
   "geometry": {"coordinates":[8.604905,51.992542],"type":"Point"}
 }

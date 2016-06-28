@@ -2,13 +2,14 @@
   "id": 203193555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.349287,52.436562,13.349287,52.436562",
     "geom:latitude":52.436562,
     "geom:longitude":13.349287,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 11",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203193555,
-    "wof:lastmodified":1449025250,
+    "wof:lastmodified":1466217109,
     "wof:name":"Dieter Trittel",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.349287,52.436562,13.349287,52.436562],
+  "bbox": [
+    13.349287,
+    52.436562,
+    13.349287,
+    52.436562
+],
   "geometry": {"coordinates":[13.349287,52.436562],"type":"Point"}
 }

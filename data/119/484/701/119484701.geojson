@@ -2,13 +2,14 @@
   "id": 119484701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.18517,52.534084,13.18517,52.534084",
     "geom:latitude":52.534084,
     "geom:longitude":13.18517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunsb\u00fctteler Damm 87",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899379,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119484701,
-    "wof:lastmodified":1449043395,
+    "wof:lastmodified":1466243397,
     "wof:name":"Car Royal Pflege Service Gmbh",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.18517,52.534084,13.18517,52.534084],
+  "bbox": [
+    13.18517,
+    52.534084,
+    13.18517,
+    52.534084
+],
   "geometry": {"coordinates":[13.18517,52.534084],"type":"Point"}
 }

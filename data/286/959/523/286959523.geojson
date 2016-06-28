@@ -2,13 +2,14 @@
   "id": 286959523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.46639,48.092567,11.46639,48.092567",
     "geom:latitude":48.092567,
     "geom:longitude":11.46639,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Schuster-Str. 2A",
     "sg:city":"Neuried",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286959523,
-    "wof:lastmodified":1449017798,
+    "wof:lastmodified":1466239336,
     "wof:name":"Global Training Services",
     "wof:parent_id":85899163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.46639,48.092567,11.46639,48.092567],
+  "bbox": [
+    11.46639,
+    48.092567,
+    11.46639,
+    48.092567
+],
   "geometry": {"coordinates":[11.46639,48.092567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152156003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.388435,52.468697,13.388435,52.468697",
     "geom:latitude":52.468697,
     "geom:longitude":13.388435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringbahnstr. 54",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152156003,
-    "wof:lastmodified":1449045219,
+    "wof:lastmodified":1466213121,
     "wof:name":"Scherl Immobilien Gmbh",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.388435,52.468697,13.388435,52.468697],
+  "bbox": [
+    13.388435,
+    52.468697,
+    13.388435,
+    52.468697
+],
   "geometry": {"coordinates":[13.388435,52.468697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135558487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.660409,52.177235,11.660409,52.177235",
     "geom:latitude":52.177235,
     "geom:longitude":11.660409,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fclstringer Str. 4",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063887,
-        85633111,
         85682519,
-        85905701
+        85633111,
+        85905701,
+        102063887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135558487,
-    "wof:lastmodified":1449021827,
+    "wof:lastmodified":1466236633,
     "wof:name":"Rbg Mbh",
     "wof:parent_id":85905701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.660409,52.177235,11.660409,52.177235],
+  "bbox": [
+    11.660409,
+    52.177235,
+    11.660409,
+    52.177235
+],
   "geometry": {"coordinates":[11.660409,52.177235],"type":"Point"}
 }

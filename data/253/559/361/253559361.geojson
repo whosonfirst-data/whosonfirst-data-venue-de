@@ -2,13 +2,14 @@
   "id": 253559361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.225627,48.850563,9.225627,48.850563",
     "geom:latitude":48.850563,
     "geom:longitude":9.225627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstr\u00e4\u00dfle 6",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253559361,
-    "wof:lastmodified":1449065109,
+    "wof:lastmodified":1466230490,
     "wof:name":"Karl Knisel",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.225627,48.850563,9.225627,48.850563],
+  "bbox": [
+    9.225627,
+    48.850563,
+    9.225627,
+    48.850563
+],
   "geometry": {"coordinates":[9.225627,48.850563],"type":"Point"}
 }

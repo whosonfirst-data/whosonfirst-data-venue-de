@@ -2,13 +2,14 @@
   "id": 118969205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.070432,50.837002,6.070432,50.837002",
     "geom:latitude":50.837002,
     "geom:longitude":6.070432,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haus-Heyden-Str. 197",
     "sg:city":"Herzogenrath",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85862955
+        85633111,
+        85862955,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118969205,
-    "wof:lastmodified":1449053480,
+    "wof:lastmodified":1466238409,
     "wof:name":"A Und S-architektur Und Stadtplanung Gmbh",
     "wof:parent_id":85862955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.070432,50.837002,6.070432,50.837002],
+  "bbox": [
+    6.070432,
+    50.837002,
+    6.070432,
+    50.837002
+],
   "geometry": {"coordinates":[6.070432,50.837002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119255381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.576153,52.463066,13.576153,52.463066",
     "geom:latitude":52.463066,
     "geom:longitude":13.576153,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaulsdorfer Str. 266",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900261,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119255381,
-    "wof:lastmodified":1449042029,
+    "wof:lastmodified":1466234131,
     "wof:name":"Dr. Erika Atze",
     "wof:parent_id":85900261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.576153,52.463066,13.576153,52.463066],
+  "bbox": [
+    13.576153,
+    52.463066,
+    13.576153,
+    52.463066
+],
   "geometry": {"coordinates":[13.576153,52.463066],"type":"Point"}
 }

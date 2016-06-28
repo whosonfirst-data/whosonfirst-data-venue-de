@@ -2,13 +2,14 @@
   "id": 118998309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.384204,51.371765,7.384204,51.371765",
     "geom:latitude":51.371765,
     "geom:longitude":7.384204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 20",
     "sg:city":"Wetter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794691,
+        85682513,
         85633111,
         101810087,
         102063779,
-        85682513
+        85794691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118998309,
-    "wof:lastmodified":1449053606,
+    "wof:lastmodified":1466239858,
     "wof:name":"D\u00f6rner Und D\u00f6ls Architekt",
     "wof:parent_id":85794691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.384204,51.371765,7.384204,51.371765],
+  "bbox": [
+    7.384204,
+    51.371765,
+    7.384204,
+    51.371765
+],
   "geometry": {"coordinates":[7.384204,51.371765],"type":"Point"}
 }

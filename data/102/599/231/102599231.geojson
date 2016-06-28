@@ -2,13 +2,14 @@
   "id": 102599231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.472831,52.59269,13.472831,52.59269",
     "geom:latitude":52.59269,
     "geom:longitude":13.472831,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Okertalstr. 8",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928743,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102599231,
-    "wof:lastmodified":1449068888,
+    "wof:lastmodified":1466213213,
     "wof:name":"Brauhaus Georgbr\u00e4u Peter H\u00e4rig",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.472831,52.59269,13.472831,52.59269],
+  "bbox": [
+    13.472831,
+    52.59269,
+    13.472831,
+    52.59269
+],
   "geometry": {"coordinates":[13.472831,52.59269],"type":"Point"}
 }

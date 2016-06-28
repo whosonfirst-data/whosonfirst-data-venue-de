@@ -2,13 +2,14 @@
   "id": 203041189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.359421,48.139385,11.359421,48.139385",
     "geom:latitude":48.139385,
     "geom:longitude":11.359421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4renweg 10",
     "sg:city":"Germering",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203041189,
-    "wof:lastmodified":1449025598,
+    "wof:lastmodified":1466214486,
     "wof:name":"A. Kager",
     "wof:parent_id":85907703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.359421,48.139385,11.359421,48.139385],
+  "bbox": [
+    11.359421,
+    48.139385,
+    11.359421,
+    48.139385
+],
   "geometry": {"coordinates":[11.359421,48.139385],"type":"Point"}
 }

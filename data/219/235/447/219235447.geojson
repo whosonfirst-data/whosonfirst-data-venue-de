@@ -2,13 +2,14 @@
   "id": 219235447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.674278,51.580547,10.674278,51.580547",
     "geom:latitude":51.580547,
     "geom:longitude":10.674278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6ckingstr. 29",
     "sg:city":"Ellrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219235447,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466215759,
     "wof:name":"Hans Model",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.674278,51.580547,10.674278,51.580547],
+  "bbox": [
+    10.674278,
+    51.580547,
+    10.674278,
+    51.580547
+],
   "geometry": {"coordinates":[10.674278,51.580547],"type":"Point"}
 }

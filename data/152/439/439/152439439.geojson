@@ -2,13 +2,14 @@
   "id": 152439439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.23773,49.484791,11.23773,49.484791",
     "geom:latitude":49.484791,
     "geom:longitude":11.23773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Randstr. 11",
     "sg:city":"R\u00f6thenbach",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063495,
-        85633111,
         85682571,
-        85899009
+        85633111,
+        85899009,
+        102063495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152439439,
-    "wof:lastmodified":1449045573,
+    "wof:lastmodified":1466218913,
     "wof:name":"R\u00f6hrl",
     "wof:parent_id":85899009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.23773,49.484791,11.23773,49.484791],
+  "bbox": [
+    11.23773,
+    49.484791,
+    11.23773,
+    49.484791
+],
   "geometry": {"coordinates":[11.23773,49.484791],"type":"Point"}
 }

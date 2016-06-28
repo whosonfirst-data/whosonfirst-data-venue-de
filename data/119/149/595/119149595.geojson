@@ -2,13 +2,14 @@
   "id": 119149595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.065288,49.324989,11.065288,49.324989",
     "geom:latitude":49.324989,
     "geom:longitude":11.065288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostring 4",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899347,
+        85682571,
         85633111,
         101833013,
         102063417,
-        85682571
+        85899347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119149595,
-    "wof:lastmodified":1449040888,
+    "wof:lastmodified":1466224083,
     "wof:name":"Walter Thomann Architekt",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.065288,49.324989,11.065288,49.324989],
+  "bbox": [
+    11.065288,
+    49.324989,
+    11.065288,
+    49.324989
+],
   "geometry": {"coordinates":[11.065288,49.324989],"type":"Point"}
 }

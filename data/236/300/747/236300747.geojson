@@ -2,13 +2,14 @@
   "id": 236300747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.430719,48.746758,11.430719,48.746758",
     "geom:latitude":48.746758,
     "geom:longitude":11.430719,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Lohgraben 27 B",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236300747,
-    "wof:lastmodified":1449003521,
+    "wof:lastmodified":1466224408,
     "wof:name":"H. Mittermeier",
     "wof:parent_id":85899269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.430719,48.746758,11.430719,48.746758],
+  "bbox": [
+    11.430719,
+    48.746758,
+    11.430719,
+    48.746758
+],
   "geometry": {"coordinates":[11.430719,48.746758],"type":"Point"}
 }

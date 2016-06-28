@@ -2,13 +2,14 @@
   "id": 135477373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.103808,49.445438,11.103808,49.445438",
     "geom:latitude":49.445438,
     "geom:longitude":11.103808,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kupferstr. 23",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135477373,
-    "wof:lastmodified":1449021493,
+    "wof:lastmodified":1466229532,
     "wof:name":"Funzl",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.103808,49.445438,11.103808,49.445438],
+  "bbox": [
+    11.103808,
+    49.445438,
+    11.103808,
+    49.445438
+],
   "geometry": {"coordinates":[11.103808,49.445438],"type":"Point"}
 }

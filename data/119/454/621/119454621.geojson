@@ -2,13 +2,14 @@
   "id": 119454621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.510875,52.057072,8.510875,52.057072",
     "geom:latitude":52.057072,
     "geom:longitude":8.510875,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stennerstr. 26",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795297,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119454621,
-    "wof:lastmodified":1449043283,
+    "wof:lastmodified":1466242726,
     "wof:name":"Goedeha-antriebselemente Gmbh",
     "wof:parent_id":85795297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.510875,52.057072,8.510875,52.057072],
+  "bbox": [
+    8.510875,
+    52.057072,
+    8.510875,
+    52.057072
+],
   "geometry": {"coordinates":[8.510875,52.057072],"type":"Point"}
 }

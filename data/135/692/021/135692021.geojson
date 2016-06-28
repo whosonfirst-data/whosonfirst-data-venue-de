@@ -2,13 +2,14 @@
   "id": 135692021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.085745,54.175716,12.085745,54.175716",
     "geom:latitude":54.175716,
     "geom:longitude":12.085745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr. 6",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905725,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135692021,
-    "wof:lastmodified":1449021805,
+    "wof:lastmodified":1466242240,
     "wof:name":"Erste Bautr\u00e4gergesellschaft Haedgestra\u00dfe 22-23 Kg",
     "wof:parent_id":85905725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.085745,54.175716,12.085745,54.175716],
+  "bbox": [
+    12.085745,
+    54.175716,
+    12.085745,
+    54.175716
+],
   "geometry": {"coordinates":[12.085745,54.175716],"type":"Point"}
 }

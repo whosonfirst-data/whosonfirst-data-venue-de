@@ -2,13 +2,14 @@
   "id": 119224371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17539,48.782246,9.17539,48.782246",
     "geom:latitude":48.782246,
     "geom:longitude":9.17539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Keplerstr. 11",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119224371,
-    "wof:lastmodified":1449042829,
+    "wof:lastmodified":1466231067,
     "wof:name":"Lehrstuhl F\u00fcr Stahlbau U. Holzbau",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17539,48.782246,9.17539,48.782246],
+  "bbox": [
+    9.17539,
+    48.782246,
+    9.17539,
+    48.782246
+],
   "geometry": {"coordinates":[9.17539,48.782246],"type":"Point"}
 }

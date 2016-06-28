@@ -2,13 +2,14 @@
   "id": 203101583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.253631,49.051292,9.253631,49.051292",
     "geom:latitude":49.051292,
     "geom:longitude":9.253631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6nsweg 11",
     "sg:city":"Ilsfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203101583,
-    "wof:lastmodified":1449025945,
+    "wof:lastmodified":1466215532,
     "wof:name":"Herbert Britsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.253631,49.051292,9.253631,49.051292],
+  "bbox": [
+    9.253631,
+    49.051292,
+    9.253631,
+    49.051292
+],
   "geometry": {"coordinates":[9.253631,49.051292],"type":"Point"}
 }

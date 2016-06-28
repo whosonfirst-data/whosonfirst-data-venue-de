@@ -2,13 +2,14 @@
   "id": 118670957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.025297,53.524296,10.025297,53.524296",
     "geom:latitude":53.524296,
     "geom:longitude":10.025297,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hovestr. 30 -36",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899893,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118670957,
-    "wof:lastmodified":1449053353,
+    "wof:lastmodified":1466222217,
     "wof:name":"Mg Metall Recycling Gmbh",
     "wof:parent_id":85899893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.025297,53.524296,10.025297,53.524296],
+  "bbox": [
+    10.025297,
+    53.524296,
+    10.025297,
+    53.524296
+],
   "geometry": {"coordinates":[10.025297,53.524296],"type":"Point"}
 }

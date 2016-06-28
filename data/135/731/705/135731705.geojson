@@ -2,13 +2,14 @@
   "id": 135731705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.799102,51.257725,6.799102,51.257725",
     "geom:latitude":51.257725,
     "geom:longitude":6.799102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogelsanger Weg 80",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85794683
+        85633111,
+        85794683,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135731705,
-    "wof:lastmodified":1449023670,
+    "wof:lastmodified":1466243093,
     "wof:name":"Objektgesellschaft Einbrunger Stra\u00dfe",
     "wof:parent_id":85794683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.799102,51.257725,6.799102,51.257725],
+  "bbox": [
+    6.799102,
+    51.257725,
+    6.799102,
+    51.257725
+],
   "geometry": {"coordinates":[6.799102,51.257725],"type":"Point"}
 }

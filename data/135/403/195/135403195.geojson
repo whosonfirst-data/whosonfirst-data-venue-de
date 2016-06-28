@@ -2,13 +2,14 @@
   "id": 135403195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.840556,50.189983,10.840556,50.189983",
     "geom:latitude":50.189983,
     "geom:longitude":10.840556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-Joseph-Otto-Kolb-Str. 1",
     "sg:city":"Se\u00dflach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135403195,
-    "wof:lastmodified":1449023586,
+    "wof:lastmodified":1466223098,
     "wof:name":"Kreissparkasse",
     "wof:parent_id":101826053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.840556,50.189983,10.840556,50.189983],
+  "bbox": [
+    10.840556,
+    50.189983,
+    10.840556,
+    50.189983
+],
   "geometry": {"coordinates":[10.840556,50.189983],"type":"Point"}
 }

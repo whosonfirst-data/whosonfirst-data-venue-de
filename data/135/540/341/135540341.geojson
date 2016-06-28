@@ -2,13 +2,14 @@
   "id": 135540341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246366,51.418777,7.246366,51.418777",
     "geom:latitude":51.418777,
     "geom:longitude":7.246366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oveneystr. 3",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795613
+        85633111,
+        85795613,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135540341,
-    "wof:lastmodified":1449022196,
+    "wof:lastmodified":1466235676,
     "wof:name":"Bascone Wohnbau Kg",
     "wof:parent_id":85795613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246366,51.418777,7.246366,51.418777],
+  "bbox": [
+    7.246366,
+    51.418777,
+    7.246366,
+    51.418777
+],
   "geometry": {"coordinates":[7.246366,51.418777],"type":"Point"}
 }

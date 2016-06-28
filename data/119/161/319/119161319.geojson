@@ -2,13 +2,14 @@
   "id": 119161319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.372621,49.457729,8.372621,49.457729",
     "geom:latitude":49.457729,
     "geom:longitude":8.372621,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Binsenstr. 12",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063479,
-        85633111,
         85682491,
-        85795945
+        85633111,
+        85795945,
+        102063479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119161319,
-    "wof:lastmodified":1449041806,
+    "wof:lastmodified":1466225152,
     "wof:name":"Wolfgang R\u00f6hm Architekt",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.372621,49.457729,8.372621,49.457729],
+  "bbox": [
+    8.372621,
+    49.457729,
+    8.372621,
+    49.457729
+],
   "geometry": {"coordinates":[8.372621,49.457729],"type":"Point"}
 }

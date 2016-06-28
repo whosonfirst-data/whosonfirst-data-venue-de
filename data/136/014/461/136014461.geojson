@@ -2,13 +2,14 @@
   "id": 136014461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.746898,51.387165,6.746898,51.387165",
     "geom:latitude":51.387165,
     "geom:longitude":6.746898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Honnenpfad 64",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794737,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136014461,
-    "wof:lastmodified":1449075552,
+    "wof:lastmodified":1466234063,
     "wof:name":"Betonsteinwerk U. Marmorimport Karl-heinz Berendonck",
     "wof:parent_id":85794737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.746898,51.387165,6.746898,51.387165],
+  "bbox": [
+    6.746898,
+    51.387165,
+    6.746898,
+    51.387165
+],
   "geometry": {"coordinates":[6.746898,51.387165],"type":"Point"}
 }

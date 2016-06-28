@@ -2,13 +2,14 @@
   "id": 135648615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.133774,48.778236,9.133774,48.778236",
     "geom:latitude":48.778236,
     "geom:longitude":9.133774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regerstr. 62",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135648615,
-    "wof:lastmodified":1449021833,
+    "wof:lastmodified":1466240890,
     "wof:name":"Hpf Gmbh",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.133774,48.778236,9.133774,48.778236],
+  "bbox": [
+    9.133774,
+    48.778236,
+    9.133774,
+    48.778236
+],
   "geometry": {"coordinates":[9.133774,48.778236],"type":"Point"}
 }

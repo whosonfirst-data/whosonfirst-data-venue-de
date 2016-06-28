@@ -2,13 +2,14 @@
   "id": 220065425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.606675,47.877869,10.606675,47.877869",
     "geom:latitude":47.877869,
     "geom:longitude":10.606675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westlachenb\u00fchl 31",
     "sg:city":"Kaufbeuren",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220065425,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466215857,
     "wof:name":"Cafe Kraus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.606675,47.877869,10.606675,47.877869],
+  "bbox": [
+    10.606675,
+    47.877869,
+    10.606675,
+    47.877869
+],
   "geometry": {"coordinates":[10.606675,47.877869],"type":"Point"}
 }

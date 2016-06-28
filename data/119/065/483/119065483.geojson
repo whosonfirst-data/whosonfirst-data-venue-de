@@ -2,13 +2,14 @@
   "id": 119065483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.380473,48.129929,11.380473,48.129929",
     "geom:latitude":48.129929,
     "geom:longitude":11.380473,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Edelwei\u00dfstr. 22",
     "sg:city":"Germering",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119065483,
-    "wof:lastmodified":1449043534,
+    "wof:lastmodified":1466216885,
     "wof:name":"Johann Guth Architekt",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.380473,48.129929,11.380473,48.129929],
+  "bbox": [
+    11.380473,
+    48.129929,
+    11.380473,
+    48.129929
+],
   "geometry": {"coordinates":[11.380473,48.129929],"type":"Point"}
 }

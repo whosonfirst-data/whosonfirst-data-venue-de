@@ -2,13 +2,14 @@
   "id": 135492979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.96794,47.837051,12.96794,47.837051",
     "geom:latitude":47.837051,
     "geom:longitude":12.96794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Wrede-Str. 49a",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135492979,
-    "wof:lastmodified":1449020985,
+    "wof:lastmodified":1466230984,
     "wof:name":"Hemmerich-seidel",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.96794,47.837051,12.96794,47.837051],
+  "bbox": [
+    12.96794,
+    47.837051,
+    12.96794,
+    47.837051
+],
   "geometry": {"coordinates":[12.96794,47.837051],"type":"Point"}
 }

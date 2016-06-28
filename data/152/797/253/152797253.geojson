@@ -2,13 +2,14 @@
   "id": 152797253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.443764,40.494759,-74.443764,40.494759",
     "geom:latitude":40.494759,
     "geom:longitude":-74.443764,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstra\u00dfe 87",
     "sg:city":"Glauchau",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819055,
+        85688607,
         85633793,
         85975739,
         102087417,
-        85688607,
+        85819055,
         85850999
     ],
     "wof:breaches":[],
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152797253,
-    "wof:lastmodified":1449048467,
+    "wof:lastmodified":1466226991,
     "wof:name":"Dynamic-fit - Sportpark Zwickau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.443764,40.494759,-74.443764,40.494759],
+  "bbox": [
+    -74.443764,
+    40.494759,
+    -74.443764,
+    40.494759
+],
   "geometry": {"coordinates":[-74.443764,40.494759],"type":"Point"}
 }

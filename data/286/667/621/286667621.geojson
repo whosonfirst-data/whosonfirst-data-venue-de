@@ -2,13 +2,14 @@
   "id": 286667621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.080019,49.493393,11.080019,49.493393",
     "geom:latitude":49.493393,
     "geom:longitude":11.080019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flughafenstr. 100",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286667621,
-    "wof:lastmodified":1449017111,
+    "wof:lastmodified":1466234471,
     "wof:name":"Airpart Gmbh",
     "wof:parent_id":85899287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.080019,49.493393,11.080019,49.493393],
+  "bbox": [
+    11.080019,
+    49.493393,
+    11.080019,
+    49.493393
+],
   "geometry": {"coordinates":[11.080019,49.493393],"type":"Point"}
 }

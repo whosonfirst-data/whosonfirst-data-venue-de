@@ -2,13 +2,14 @@
   "id": 118759551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.585104,51.856129,11.585104,51.856129",
     "geom:latitude":51.856129,
     "geom:longitude":11.585104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 7-9",
     "sg:city":"Sta\u00dffurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118759551,
-    "wof:lastmodified":1449054564,
+    "wof:lastmodified":1466227311,
     "wof:name":"Klaus Winter",
     "wof:parent_id":101821029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.585104,51.856129,11.585104,51.856129],
+  "bbox": [
+    11.585104,
+    51.856129,
+    11.585104,
+    51.856129
+],
   "geometry": {"coordinates":[11.585104,51.856129],"type":"Point"}
 }

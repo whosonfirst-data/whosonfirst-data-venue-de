@@ -2,13 +2,14 @@
   "id": 118981965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.511587,48.110977,11.511587,48.110977",
     "geom:latitude":48.110977,
     "geom:longitude":11.511587,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zirler Str. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899633,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118981965,
-    "wof:lastmodified":1449054571,
+    "wof:lastmodified":1466239072,
     "wof:name":"Bernd Steier Architekt",
     "wof:parent_id":85899633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.511587,48.110977,11.511587,48.110977],
+  "bbox": [
+    11.511587,
+    48.110977,
+    11.511587,
+    48.110977
+],
   "geometry": {"coordinates":[11.511587,48.110977],"type":"Point"}
 }

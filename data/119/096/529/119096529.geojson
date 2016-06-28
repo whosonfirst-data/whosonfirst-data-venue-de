@@ -2,13 +2,14 @@
   "id": 119096529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.977513,49.486881,10.977513,49.486881",
     "geom:latitude":49.486881,
     "geom:longitude":10.977513,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz-Gr\u00e4\u00dfler-Str. 1A",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119096529,
-    "wof:lastmodified":1449041641,
+    "wof:lastmodified":1466219710,
     "wof:name":"Mathias Seraphin Architekt",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.977513,49.486881,10.977513,49.486881],
+  "bbox": [
+    10.977513,
+    49.486881,
+    10.977513,
+    49.486881
+],
   "geometry": {"coordinates":[10.977513,49.486881],"type":"Point"}
 }

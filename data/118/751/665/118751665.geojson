@@ -2,13 +2,14 @@
   "id": 118751665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.346188,52.502743,13.346188,52.502743",
     "geom:latitude":52.502743,
     "geom:longitude":13.346188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Keithstr. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118751665,
-    "wof:lastmodified":1449053221,
+    "wof:lastmodified":1466226866,
     "wof:name":"S & R Pflegedienst Gmbh",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.346188,52.502743,13.346188,52.502743],
+  "bbox": [
+    13.346188,
+    52.502743,
+    13.346188,
+    52.502743
+],
   "geometry": {"coordinates":[13.346188,52.502743],"type":"Point"}
 }

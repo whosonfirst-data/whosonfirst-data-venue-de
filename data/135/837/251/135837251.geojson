@@ -2,13 +2,14 @@
   "id": 135837251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.684014,53.531006,9.684014,53.531006",
     "geom:latitude":53.531006,
     "geom:longitude":9.684014,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osterminnerweg 1",
     "sg:city":"Jork",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900247,
+        85682517,
         85633111,
         101806597,
         102064081,
-        85682517
+        85900247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135837251,
-    "wof:lastmodified":1449021449,
+    "wof:lastmodified":1466244226,
     "wof:name":"Martin Cordes",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.684014,53.531006,9.684014,53.531006],
+  "bbox": [
+    9.684014,
+    53.531006,
+    9.684014,
+    53.531006
+],
   "geometry": {"coordinates":[9.684014,53.531006],"type":"Point"}
 }

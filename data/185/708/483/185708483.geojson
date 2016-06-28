@@ -2,13 +2,14 @@
   "id": 185708483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.052627,50.7603,7.052627,50.7603",
     "geom:latitude":50.7603,
     "geom:longitude":7.052627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aegidienstr. 1",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185708483,
-    "wof:lastmodified":1449006873,
+    "wof:lastmodified":1466214233,
     "wof:name":"Melanie Gulitz",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.052627,50.7603,7.052627,50.7603],
+  "bbox": [
+    7.052627,
+    50.7603,
+    7.052627,
+    50.7603
+],
   "geometry": {"coordinates":[7.052627,50.7603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135682297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.373889,48.791344,11.373889,48.791344",
     "geom:latitude":48.791344,
     "geom:longitude":11.373889,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuhartsh\u00f6fe 5",
     "sg:city":"Gaimersheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900055,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85900055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135682297,
-    "wof:lastmodified":1449021496,
+    "wof:lastmodified":1466241905,
     "wof:name":"Peter Kratzer",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.373889,48.791344,11.373889,48.791344],
+  "bbox": [
+    11.373889,
+    48.791344,
+    11.373889,
+    48.791344
+],
   "geometry": {"coordinates":[11.373889,48.791344],"type":"Point"}
 }

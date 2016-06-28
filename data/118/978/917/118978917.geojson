@@ -2,13 +2,14 @@
   "id": 118978917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.704702,51.29174,6.704702,51.29174",
     "geom:latitude":51.29174,
     "geom:longitude":6.704702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sperberweg 47",
     "sg:city":"Meerbusch",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795627,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118978917,
-    "wof:lastmodified":1449053962,
+    "wof:lastmodified":1466239021,
     "wof:name":"Axel Richter Architekt",
     "wof:parent_id":85795627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.704702,51.29174,6.704702,51.29174],
+  "bbox": [
+    6.704702,
+    51.29174,
+    6.704702,
+    51.29174
+],
   "geometry": {"coordinates":[6.704702,51.29174],"type":"Point"}
 }

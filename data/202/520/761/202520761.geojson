@@ -2,13 +2,14 @@
   "id": 202520761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.732174,52.38068,9.732174,52.38068",
     "geom:latitude":52.38068,
     "geom:longitude":9.732174,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Striehlstr 21",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202520761,
-    "wof:lastmodified":1449060942,
+    "wof:lastmodified":1466216043,
     "wof:name":"Seeliger",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.732174,52.38068,9.732174,52.38068],
+  "bbox": [
+    9.732174,
+    52.38068,
+    9.732174,
+    52.38068
+],
   "geometry": {"coordinates":[9.732174,52.38068],"type":"Point"}
 }

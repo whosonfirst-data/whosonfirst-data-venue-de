@@ -2,13 +2,14 @@
   "id": 236425513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.551203,51.536247,7.551203,51.536247",
     "geom:latitude":51.536247,
     "geom:longitude":7.551203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oesterstr. 158",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236425513,
-    "wof:lastmodified":1449002682,
+    "wof:lastmodified":1466226634,
     "wof:name":"Mark Hood",
     "wof:parent_id":85794771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.551203,51.536247,7.551203,51.536247],
+  "bbox": [
+    7.551203,
+    51.536247,
+    7.551203,
+    51.536247
+],
   "geometry": {"coordinates":[7.551203,51.536247],"type":"Point"}
 }

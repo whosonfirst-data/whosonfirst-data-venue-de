@@ -2,13 +2,14 @@
   "id": 152555425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.674356,51.092709,13.674356,51.092709",
     "geom:latitude":51.092709,
     "geom:longitude":13.674356,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitzhausstr. 74",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900101,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152555425,
-    "wof:lastmodified":1449048256,
+    "wof:lastmodified":1466221457,
     "wof:name":"Pape Beteiligungs- Gesellschaft Mbh",
     "wof:parent_id":85900101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.674356,51.092709,13.674356,51.092709],
+  "bbox": [
+    13.674356,
+    51.092709,
+    13.674356,
+    51.092709
+],
   "geometry": {"coordinates":[13.674356,51.092709],"type":"Point"}
 }

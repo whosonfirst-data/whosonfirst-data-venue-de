@@ -2,13 +2,14 @@
   "id": 135571297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.671764,51.103668,13.671764,51.103668",
     "geom:latitude":51.103668,
     "geom:longitude":13.671764,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mei\u00dfner Str. 101",
     "sg:city":"Radebeul",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905679,
+        85682523,
         85633111,
         101756003,
         102064229,
-        85682523
+        85905679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135571297,
-    "wof:lastmodified":1449023062,
+    "wof:lastmodified":1466237323,
     "wof:name":"Entwickeln Und Bauen Ges. F\u00fcr Schl\u00fcsselfertiges",
     "wof:parent_id":85905679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.671764,51.103668,13.671764,51.103668],
+  "bbox": [
+    13.671764,
+    51.103668,
+    13.671764,
+    51.103668
+],
   "geometry": {"coordinates":[13.671764,51.103668],"type":"Point"}
 }

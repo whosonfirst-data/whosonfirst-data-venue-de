@@ -2,13 +2,14 @@
   "id": 119039741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.785442,53.068306,8.785442,53.068306",
     "geom:latitude":53.068306,
     "geom:longitude":8.785442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstr. 51",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796579,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119039741,
-    "wof:lastmodified":1449043199,
+    "wof:lastmodified":1466214455,
     "wof:name":"Harald Langheinecke Architekt",
     "wof:parent_id":85796579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.785442,53.068306,8.785442,53.068306],
+  "bbox": [
+    8.785442,
+    53.068306,
+    8.785442,
+    53.068306
+],
   "geometry": {"coordinates":[8.785442,53.068306],"type":"Point"}
 }

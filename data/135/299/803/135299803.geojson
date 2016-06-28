@@ -2,13 +2,14 @@
   "id": 135299803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.404175,50.261002,10.404175,50.261002",
     "geom:latitude":50.261002,
     "geom:longitude":10.404175,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 8",
     "sg:city":"Sulzfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135299803,
-    "wof:lastmodified":1449021760,
+    "wof:lastmodified":1466213798,
     "wof:name":"Maria Meder",
     "wof:parent_id":101826095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.404175,50.261002,10.404175,50.261002],
+  "bbox": [
+    10.404175,
+    50.261002,
+    10.404175,
+    50.261002
+],
   "geometry": {"coordinates":[10.404175,50.261002],"type":"Point"}
 }

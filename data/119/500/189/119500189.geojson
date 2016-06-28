@@ -2,13 +2,14 @@
   "id": 119500189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.213947,48.611156,12.213947,48.611156",
     "geom:latitude":48.611156,
     "geom:longitude":12.213947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landshuter Str. 30",
     "sg:city":"Essenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119500189,
-    "wof:lastmodified":1449041462,
+    "wof:lastmodified":1466243526,
     "wof:name":"Anton Maier",
     "wof:parent_id":101784313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.213947,48.611156,12.213947,48.611156],
+  "bbox": [
+    12.213947,
+    48.611156,
+    12.213947,
+    48.611156
+],
   "geometry": {"coordinates":[12.213947,48.611156],"type":"Point"}
 }

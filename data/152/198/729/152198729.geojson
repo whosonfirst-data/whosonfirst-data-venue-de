@@ -2,13 +2,14 @@
   "id": 152198729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.059881,50.771164,6.059881,50.771164",
     "geom:latitude":50.771164,
     "geom:longitude":6.059881,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weststr. 38",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862965,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85862965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152198729,
-    "wof:lastmodified":1449045984,
+    "wof:lastmodified":1466214030,
     "wof:name":"Lana Natur Und Mode Anne Cla\u00dfen-kohnen",
     "wof:parent_id":85862965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.059881,50.771164,6.059881,50.771164],
+  "bbox": [
+    6.059881,
+    50.771164,
+    6.059881,
+    50.771164
+],
   "geometry": {"coordinates":[6.059881,50.771164],"type":"Point"}
 }

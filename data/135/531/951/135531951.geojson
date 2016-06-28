@@ -2,13 +2,14 @@
   "id": 135531951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.054785,51.128151,7.054785,51.128151",
     "geom:latitude":51.128151,
     "geom:longitude":7.054785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstal 28",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85796745
+        85633111,
+        85796745,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135531951,
-    "wof:lastmodified":1449021694,
+    "wof:lastmodified":1466234556,
     "wof:name":"Peter Oberhoff",
     "wof:parent_id":85796745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.054785,51.128151,7.054785,51.128151],
+  "bbox": [
+    7.054785,
+    51.128151,
+    7.054785,
+    51.128151
+],
   "geometry": {"coordinates":[7.054785,51.128151],"type":"Point"}
 }

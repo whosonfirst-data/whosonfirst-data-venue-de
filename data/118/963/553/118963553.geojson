@@ -2,13 +2,14 @@
   "id": 118963553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.607069,48.147755,11.607069,48.147755",
     "geom:latitude":48.147755,
     "geom:longitude":11.607069,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merzstr. 14",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118963553,
-    "wof:lastmodified":1449053282,
+    "wof:lastmodified":1466238449,
     "wof:name":"Elisabeth Gaier Garten- Und",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.607069,48.147755,11.607069,48.147755],
+  "bbox": [
+    11.607069,
+    48.147755,
+    11.607069,
+    48.147755
+],
   "geometry": {"coordinates":[11.607069,48.147755],"type":"Point"}
 }

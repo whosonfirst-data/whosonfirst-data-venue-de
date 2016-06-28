@@ -2,13 +2,14 @@
   "id": 185639783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.042417,52.258842,8.042417,52.258842",
     "geom:latitude":52.258842,
     "geom:longitude":8.042417,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schilgenstr. 16",
     "sg:city":"Osnabr\u00fcck",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185639783,
-    "wof:lastmodified":1449008195,
+    "wof:lastmodified":1466213517,
     "wof:name":"M. Weyert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.042417,52.258842,8.042417,52.258842],
+  "bbox": [
+    8.042417,
+    52.258842,
+    8.042417,
+    52.258842
+],
   "geometry": {"coordinates":[8.042417,52.258842],"type":"Point"}
 }

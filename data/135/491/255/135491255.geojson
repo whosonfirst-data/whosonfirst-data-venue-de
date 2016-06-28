@@ -2,13 +2,14 @@
   "id": 135491255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.985081,52.363842,12.985081,52.363842",
     "geom:latitude":52.363842,
     "geom:longitude":12.985081,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Chausseestr. 12",
     "sg:city":"Geltow",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063931,
-        85633111,
         85682553,
-        85928771
+        85633111,
+        85928771,
+        102063931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135491255,
-    "wof:lastmodified":1449020931,
+    "wof:lastmodified":1466230838,
     "wof:name":"Geltower Holz & Fachwerkbau Gmbh",
     "wof:parent_id":85928771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.985081,52.363842,12.985081,52.363842],
+  "bbox": [
+    12.985081,
+    52.363842,
+    12.985081,
+    52.363842
+],
   "geometry": {"coordinates":[12.985081,52.363842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202825401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.350553,52.310326,9.350553,52.310326",
     "geom:latitude":52.310326,
     "geom:longitude":9.350553,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tor 11",
     "sg:city":"Rodenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202825401,
-    "wof:lastmodified":1449060196,
+    "wof:lastmodified":1466221698,
     "wof:name":"Wilhelm Tegtmeier Steinbildhauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.350553,52.310326,9.350553,52.310326],
+  "bbox": [
+    9.350553,
+    52.310326,
+    9.350553,
+    52.310326
+],
   "geometry": {"coordinates":[9.350553,52.310326],"type":"Point"}
 }

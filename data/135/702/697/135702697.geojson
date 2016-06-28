@@ -2,13 +2,14 @@
   "id": 135702697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.089334,49.464958,11.089334,49.464958",
     "geom:latitude":49.464958,
     "geom:longitude":11.089334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstr. 28",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135702697,
-    "wof:lastmodified":1449022522,
+    "wof:lastmodified":1466242278,
     "wof:name":"Hzp Projektplan Gmbh",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.089334,49.464958,11.089334,49.464958],
+  "bbox": [
+    11.089334,
+    49.464958,
+    11.089334,
+    49.464958
+],
   "geometry": {"coordinates":[11.089334,49.464958],"type":"Point"}
 }

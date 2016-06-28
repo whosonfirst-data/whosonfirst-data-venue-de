@@ -2,13 +2,14 @@
   "id": 203095633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.203616,49.355824,10.203616,49.355824",
     "geom:latitude":49.355824,
     "geom:longitude":10.203616,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nelkenweg 8",
     "sg:city":"Gebsattel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203095633,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466215431,
     "wof:name":"Anton Gebhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.203616,49.355824,10.203616,49.355824],
+  "bbox": [
+    10.203616,
+    49.355824,
+    10.203616,
+    49.355824
+],
   "geometry": {"coordinates":[10.203616,49.355824],"type":"Point"}
 }

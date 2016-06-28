@@ -2,13 +2,14 @@
   "id": 119025213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.708825,51.092117,13.708825,51.092117",
     "geom:latitude":51.092117,
     "geom:longitude":13.708825,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kopernikusstr. 46",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900153,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119025213,
-    "wof:lastmodified":1449043075,
+    "wof:lastmodified":1466213079,
     "wof:name":"G\u00fcnter Heber Architekt",
     "wof:parent_id":85900153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.708825,51.092117,13.708825,51.092117],
+  "bbox": [
+    13.708825,
+    51.092117,
+    13.708825,
+    51.092117
+],
   "geometry": {"coordinates":[13.708825,51.092117],"type":"Point"}
 }

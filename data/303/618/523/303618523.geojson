@@ -2,13 +2,14 @@
   "id": 303618523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.060237,50.752205,7.060237,50.752205",
     "geom:latitude":50.752205,
     "geom:longitude":7.060237,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Christian-Lassen-Str. 11",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303618523,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466238424,
     "wof:name":"Roggendorf Gmbh",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.060237,50.752205,7.060237,50.752205],
+  "bbox": [
+    7.060237,
+    50.752205,
+    7.060237,
+    50.752205
+],
   "geometry": {"coordinates":[7.060237,50.752205],"type":"Point"}
 }

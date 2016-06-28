@@ -2,13 +2,14 @@
   "id": 219507117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.568577,49.949505,11.568577,49.949505",
     "geom:latitude":49.949505,
     "geom:longitude":11.568577,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eduard-Bayerlein-Str. 12",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219507117,
-    "wof:lastmodified":1449072197,
+    "wof:lastmodified":1466220635,
     "wof:name":"Karl Kudlick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.568577,49.949505,11.568577,49.949505],
+  "bbox": [
+    11.568577,
+    49.949505,
+    11.568577,
+    49.949505
+],
   "geometry": {"coordinates":[11.568577,49.949505],"type":"Point"}
 }

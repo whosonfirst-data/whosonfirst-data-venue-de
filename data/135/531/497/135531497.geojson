@@ -2,13 +2,14 @@
   "id": 135531497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07276,50.774658,7.07276,50.774658",
     "geom:latitude":50.774658,
     "geom:longitude":7.07276,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lahnstr. 2",
     "sg:city":"Niederkassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795017,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135531497,
-    "wof:lastmodified":1449021696,
+    "wof:lastmodified":1466234517,
     "wof:name":"P. Kuth",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07276,50.774658,7.07276,50.774658],
+  "bbox": [
+    7.07276,
+    50.774658,
+    7.07276,
+    50.774658
+],
   "geometry": {"coordinates":[7.07276,50.774658],"type":"Point"}
 }

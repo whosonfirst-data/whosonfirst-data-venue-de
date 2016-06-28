@@ -2,13 +2,14 @@
   "id": 286958705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.054351,53.55135,10.054351,53.55135",
     "geom:latitude":53.55135,
     "geom:longitude":10.054351,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eiffestra\u00dfe 598",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286958705,
-    "wof:lastmodified":1449017483,
+    "wof:lastmodified":1466239623,
     "wof:name":"Ghost Services",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.054351,53.55135,10.054351,53.55135],
+  "bbox": [
+    10.054351,
+    53.55135,
+    10.054351,
+    53.55135
+],
   "geometry": {"coordinates":[10.054351,53.55135],"type":"Point"}
 }

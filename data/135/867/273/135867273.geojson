@@ -2,13 +2,14 @@
   "id": 135867273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.412521,51.334438,12.412521,51.334438",
     "geom:latitude":51.334438,
     "geom:longitude":12.412521,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zweinaundorfer Str. 28",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135867273,
-    "wof:lastmodified":1449022315,
+    "wof:lastmodified":1466244370,
     "wof:name":"T. H\u00e4nsel",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.412521,51.334438,12.412521,51.334438],
+  "bbox": [
+    12.412521,
+    51.334438,
+    12.412521,
+    51.334438
+],
   "geometry": {"coordinates":[12.412521,51.334438],"type":"Point"}
 }

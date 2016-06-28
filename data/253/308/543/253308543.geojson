@@ -2,13 +2,14 @@
   "id": 253308543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.469772,52.43494,13.469772,52.43494",
     "geom:latitude":52.43494,
     "geom:longitude":13.469772,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannisthaler Chaussee 208",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253308543,
-    "wof:lastmodified":1449065871,
+    "wof:lastmodified":1466225037,
     "wof:name":"Gerhard Biedermann",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.469772,52.43494,13.469772,52.43494],
+  "bbox": [
+    13.469772,
+    52.43494,
+    13.469772,
+    52.43494
+],
   "geometry": {"coordinates":[13.469772,52.43494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253609211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.01565,53.64938,10.01565,53.64938",
     "geom:latitude":53.64938,
     "geom:longitude":10.01565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenhorner Markt",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253609211,
-    "wof:lastmodified":1449063935,
+    "wof:lastmodified":1466231629,
     "wof:name":"Barbara Garber",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.01565,53.64938,10.01565,53.64938],
+  "bbox": [
+    10.01565,
+    53.64938,
+    10.01565,
+    53.64938
+],
   "geometry": {"coordinates":[10.01565,53.64938],"type":"Point"}
 }

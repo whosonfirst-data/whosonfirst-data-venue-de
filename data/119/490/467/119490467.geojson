@@ -2,13 +2,14 @@
   "id": 119490467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.402068,51.274475,12.402068,51.274475",
     "geom:latitude":51.274475,
     "geom:longitude":12.402068,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gorkistr. 5",
     "sg:city":"Markkleeberg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064227,
-        85633111,
         85682523,
-        85899857
+        85633111,
+        85899857,
+        102064227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119490467,
-    "wof:lastmodified":1449043261,
+    "wof:lastmodified":1466243631,
     "wof:name":"Wilhelm Strohmaier",
     "wof:parent_id":85899857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.402068,51.274475,12.402068,51.274475],
+  "bbox": [
+    12.402068,
+    51.274475,
+    12.402068,
+    51.274475
+],
   "geometry": {"coordinates":[12.402068,51.274475],"type":"Point"}
 }

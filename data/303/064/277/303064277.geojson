@@ -2,13 +2,14 @@
   "id": 303064277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.29663,51.353008,12.29663,51.353008",
     "geom:latitude":51.353008,
     "geom:longitude":12.29663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Heine-Str 12",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303064277,
-    "wof:lastmodified":1448998979,
+    "wof:lastmodified":1466226121,
     "wof:name":"Bautischlerei Rainer Tessmann",
     "wof:parent_id":85899021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.29663,51.353008,12.29663,51.353008],
+  "bbox": [
+    12.29663,
+    51.353008,
+    12.29663,
+    51.353008
+],
   "geometry": {"coordinates":[12.29663,51.353008],"type":"Point"}
 }

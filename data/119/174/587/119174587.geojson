@@ -2,13 +2,14 @@
   "id": 119174587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.942897,49.471893,10.942897,49.471893",
     "geom:latitude":49.471893,
     "geom:longitude":10.942897,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rennweg 50",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900175,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85900175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119174587,
-    "wof:lastmodified":1449041200,
+    "wof:lastmodified":1466226405,
     "wof:name":"Alexander Kindler Architekt",
     "wof:parent_id":85900175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.942897,49.471893,10.942897,49.471893],
+  "bbox": [
+    10.942897,
+    49.471893,
+    10.942897,
+    49.471893
+],
   "geometry": {"coordinates":[10.942897,49.471893],"type":"Point"}
 }

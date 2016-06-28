@@ -2,13 +2,14 @@
   "id": 118819367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.071639,49.461773,11.071639,49.461773",
     "geom:latitude":49.461773,
     "geom:longitude":11.071639,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bucher Str. 37 a",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118819367,
-    "wof:lastmodified":1449053475,
+    "wof:lastmodified":1466230911,
     "wof:name":"Hirsch Apotheke Inh. Dagmar Gnei\u00dfl E. K.",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.071639,49.461773,11.071639,49.461773],
+  "bbox": [
+    11.071639,
+    49.461773,
+    11.071639,
+    49.461773
+],
   "geometry": {"coordinates":[11.071639,49.461773],"type":"Point"}
 }

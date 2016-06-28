@@ -2,13 +2,14 @@
   "id": 135648713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.605414,48.075233,11.605414,48.075233",
     "geom:latitude":48.075233,
     "geom:longitude":11.605414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sommerstr. 12 b",
     "sg:city":"Unterhaching",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899707,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135648713,
-    "wof:lastmodified":1449021835,
+    "wof:lastmodified":1466240980,
     "wof:name":"Inter-holz Gmbh",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.605414,48.075233,11.605414,48.075233],
+  "bbox": [
+    11.605414,
+    48.075233,
+    11.605414,
+    48.075233
+],
   "geometry": {"coordinates":[11.605414,48.075233],"type":"Point"}
 }

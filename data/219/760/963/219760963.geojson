@@ -2,13 +2,14 @@
   "id": 219760963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.067507,53.607265,10.067507,53.607265",
     "geom:latitude":53.607265,
     "geom:longitude":10.067507,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"O'Swaldstr. 37a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219760963,
-    "wof:lastmodified":1449073781,
+    "wof:lastmodified":1466225530,
     "wof:name":"Peter Kielniak",
     "wof:parent_id":85900079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.067507,53.607265,10.067507,53.607265],
+  "bbox": [
+    10.067507,
+    53.607265,
+    10.067507,
+    53.607265
+],
   "geometry": {"coordinates":[10.067507,53.607265],"type":"Point"}
 }

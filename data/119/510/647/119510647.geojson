@@ -2,13 +2,14 @@
   "id": 119510647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025088,49.516426,11.025088,49.516426",
     "geom:latitude":49.516426,
     "geom:longitude":11.025088,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boxdorfer Hauptstr. 1",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899037,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119510647,
-    "wof:lastmodified":1449042451,
+    "wof:lastmodified":1466243731,
     "wof:name":"Der Beck Inh. Siegfried Beck",
     "wof:parent_id":85899037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025088,49.516426,11.025088,49.516426],
+  "bbox": [
+    11.025088,
+    49.516426,
+    11.025088,
+    49.516426
+],
   "geometry": {"coordinates":[11.025088,49.516426],"type":"Point"}
 }

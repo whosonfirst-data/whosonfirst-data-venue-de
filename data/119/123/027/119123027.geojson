@@ -2,13 +2,14 @@
   "id": 119123027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.066367,50.77758,6.066367,50.77758",
     "geom:latitude":50.77758,
     "geom:longitude":6.066367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hainbuchenstr. 11",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862965,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85862965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119123027,
-    "wof:lastmodified":1449041573,
+    "wof:lastmodified":1466222115,
     "wof:name":"Rolf H\u00f6ber Architekt",
     "wof:parent_id":85862965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.066367,50.77758,6.066367,50.77758],
+  "bbox": [
+    6.066367,
+    50.77758,
+    6.066367,
+    50.77758
+],
   "geometry": {"coordinates":[6.066367,50.77758],"type":"Point"}
 }

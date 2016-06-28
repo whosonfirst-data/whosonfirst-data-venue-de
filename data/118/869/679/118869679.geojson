@@ -2,13 +2,14 @@
   "id": 118869679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.984433,53.68486,9.984433,53.68486",
     "geom:latitude":53.68486,
     "geom:longitude":9.984433,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Allee 38",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118869679,
-    "wof:lastmodified":1449054437,
+    "wof:lastmodified":1466234029,
     "wof:name":"Apotheke Im Herold-center J\u00fcrgen Walter",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.984433,53.68486,9.984433,53.68486],
+  "bbox": [
+    9.984433,
+    53.68486,
+    9.984433,
+    53.68486
+],
   "geometry": {"coordinates":[9.984433,53.68486],"type":"Point"}
 }

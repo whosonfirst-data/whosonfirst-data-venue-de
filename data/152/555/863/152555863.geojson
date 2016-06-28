@@ -2,13 +2,14 @@
   "id": 152555863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.577572,51.343948,7.577572,51.343948",
     "geom:latitude":51.343948,
     "geom:longitude":7.577572,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unternahmerstr. 10",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796017,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85796017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152555863,
-    "wof:lastmodified":1449048260,
+    "wof:lastmodified":1466221469,
     "wof:name":"Philipp B\u00f6cker Beteiligungs Gmbh",
     "wof:parent_id":85796017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.577572,51.343948,7.577572,51.343948],
+  "bbox": [
+    7.577572,
+    51.343948,
+    7.577572,
+    51.343948
+],
   "geometry": {"coordinates":[7.577572,51.343948],"type":"Point"}
 }

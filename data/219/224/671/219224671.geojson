@@ -2,13 +2,14 @@
   "id": 219224671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151936,47.772953,9.151936,47.772953",
     "geom:latitude":47.772953,
     "geom:longitude":9.151936,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schreibersbildstr. 1a",
     "sg:city":"\u00dcberlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219224671,
-    "wof:lastmodified":1449072979,
+    "wof:lastmodified":1466215567,
     "wof:name":"Hans Fundinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.151936,47.772953,9.151936,47.772953],
+  "bbox": [
+    9.151936,
+    47.772953,
+    9.151936,
+    47.772953
+],
   "geometry": {"coordinates":[9.151936,47.772953],"type":"Point"}
 }

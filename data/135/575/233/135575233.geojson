@@ -2,13 +2,14 @@
   "id": 135575233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025656,49.332829,11.025656,49.332829",
     "geom:latitude":49.332829,
     "geom:longitude":11.025656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nadlerstr. 7",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899347,
+        85682571,
         85633111,
         101833013,
         102063417,
-        85682571
+        85899347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135575233,
-    "wof:lastmodified":1449021888,
+    "wof:lastmodified":1466237578,
     "wof:name":"Richter Bau Gmbh",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025656,49.332829,11.025656,49.332829],
+  "bbox": [
+    11.025656,
+    49.332829,
+    11.025656,
+    49.332829
+],
   "geometry": {"coordinates":[11.025656,49.332829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118543583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.523992,52.432167,13.523992,52.432167",
     "geom:latitude":52.432167,
     "geom:longitude":13.523992,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Barbara-McClintock-Str 11",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900085,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118543583,
-    "wof:lastmodified":1449053420,
+    "wof:lastmodified":1466215037,
     "wof:name":"Dr.-ing. Rainer Heyer Werkzeugtechnik Gmbh",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.523992,52.432167,13.523992,52.432167],
+  "bbox": [
+    13.523992,
+    52.432167,
+    13.523992,
+    52.432167
+],
   "geometry": {"coordinates":[13.523992,52.432167],"type":"Point"}
 }

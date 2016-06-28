@@ -2,13 +2,14 @@
   "id": 152462299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.828793,51.472546,6.828793,51.472546",
     "geom:latitude":51.472546,
     "geom:longitude":6.828793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Duisburger Str. 375",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863081,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152462299,
-    "wof:lastmodified":1449048738,
+    "wof:lastmodified":1466219405,
     "wof:name":"Babcock Energie Beteiligungs Gmbh",
     "wof:parent_id":85863081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.828793,51.472546,6.828793,51.472546],
+  "bbox": [
+    6.828793,
+    51.472546,
+    6.828793,
+    51.472546
+],
   "geometry": {"coordinates":[6.828793,51.472546],"type":"Point"}
 }

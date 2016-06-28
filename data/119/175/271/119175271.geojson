@@ -2,13 +2,14 @@
   "id": 119175271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.443981,49.042683,8.443981,49.042683",
     "geom:latitude":49.042683,
     "geom:longitude":8.443981,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortelsburger Str. 1",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063385,
-        85633111,
         85682567,
-        85795647
+        85633111,
+        85795647,
+        102063385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119175271,
-    "wof:lastmodified":1449042731,
+    "wof:lastmodified":1466226481,
     "wof:name":"Friedrich Zwingmann Architekt",
     "wof:parent_id":85795647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.443981,49.042683,8.443981,49.042683],
+  "bbox": [
+    8.443981,
+    49.042683,
+    8.443981,
+    49.042683
+],
   "geometry": {"coordinates":[8.443981,49.042683],"type":"Point"}
 }

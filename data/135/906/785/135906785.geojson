@@ -2,13 +2,14 @@
   "id": 135906785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.766159,51.01149,13.766159,51.01149",
     "geom:latitude":51.01149,
     "geom:longitude":13.766159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altleubnitz 36 b",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899525,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135906785,
-    "wof:lastmodified":1449022150,
+    "wof:lastmodified":1466244566,
     "wof:name":"S & F Beteiligungs Gmbh",
     "wof:parent_id":85899525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.766159,51.01149,13.766159,51.01149],
+  "bbox": [
+    13.766159,
+    51.01149,
+    13.766159,
+    51.01149
+],
   "geometry": {"coordinates":[13.766159,51.01149],"type":"Point"}
 }

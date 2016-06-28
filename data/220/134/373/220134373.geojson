@@ -2,13 +2,14 @@
   "id": 220134373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.512077,52.360909,14.512077,52.360909",
     "geom:latitude":52.360909,
     "geom:longitude":14.512077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichenweg 46",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220134373,
-    "wof:lastmodified":1449074843,
+    "wof:lastmodified":1466217146,
     "wof:name":"Harald Haase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.512077,52.360909,14.512077,52.360909],
+  "bbox": [
+    14.512077,
+    52.360909,
+    14.512077,
+    52.360909
+],
   "geometry": {"coordinates":[14.512077,52.360909],"type":"Point"}
 }

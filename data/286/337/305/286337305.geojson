@@ -2,13 +2,14 @@
   "id": 286337305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.352877,48.976463,10.352877,48.976463",
     "geom:latitude":48.976463,
     "geom:longitude":10.352877,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ellwanger Str. 44",
     "sg:city":"Tannhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286337305,
-    "wof:lastmodified":1449016566,
+    "wof:lastmodified":1466226366,
     "wof:name":"Goldammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.352877,48.976463,10.352877,48.976463],
+  "bbox": [
+    10.352877,
+    48.976463,
+    10.352877,
+    48.976463
+],
   "geometry": {"coordinates":[10.352877,48.976463],"type":"Point"}
 }

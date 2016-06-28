@@ -2,13 +2,14 @@
   "id": 119259029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.020005,50.875565,12.020005,50.875565",
     "geom:latitude":50.875565,
     "geom:longitude":12.020005,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenthaler Str. 6 a",
     "sg:city":"Gera",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119259029,
-    "wof:lastmodified":1449041417,
+    "wof:lastmodified":1466234530,
     "wof:name":"Dr. Med. Erich Pollok",
     "wof:parent_id":101748611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.020005,50.875565,12.020005,50.875565],
+  "bbox": [
+    12.020005,
+    50.875565,
+    12.020005,
+    50.875565
+],
   "geometry": {"coordinates":[12.020005,50.875565],"type":"Point"}
 }

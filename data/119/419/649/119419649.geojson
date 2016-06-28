@@ -2,13 +2,14 @@
   "id": 119419649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.513217,51.350838,7.513217,51.350838",
     "geom:latitude":51.350838,
     "geom:longitude":7.513217,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenhain 16",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063767,
-        85633111,
         85682513,
-        85795435
+        85633111,
+        85795435,
+        102063767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119419649,
-    "wof:lastmodified":1449043518,
+    "wof:lastmodified":1466242226,
     "wof:name":"Funke Gmbh",
     "wof:parent_id":85795435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.513217,51.350838,7.513217,51.350838],
+  "bbox": [
+    7.513217,
+    51.350838,
+    7.513217,
+    51.350838
+],
   "geometry": {"coordinates":[7.513217,51.350838],"type":"Point"}
 }

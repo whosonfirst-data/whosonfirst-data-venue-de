@@ -2,13 +2,14 @@
   "id": 153037175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.836288,51.00465,13.836288,51.00465",
     "geom:latitude":51.00465,
     "geom:longitude":13.836288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00f6rsterlingstr 11",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900283,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153037175,
-    "wof:lastmodified":1449040825,
+    "wof:lastmodified":1466213324,
     "wof:name":"Fwu Ingenieurb\u00fcro Gmbh",
     "wof:parent_id":85900283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.836288,51.00465,13.836288,51.00465],
+  "bbox": [
+    13.836288,
+    51.00465,
+    13.836288,
+    51.00465
+],
   "geometry": {"coordinates":[13.836288,51.00465],"type":"Point"}
 }

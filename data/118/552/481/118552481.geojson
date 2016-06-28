@@ -2,13 +2,14 @@
   "id": 118552481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.03751,49.974949,8.03751,49.974949",
     "geom:latitude":49.974949,
     "geom:longitude":8.03751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinstr. 20",
     "sg:city":"Ingelheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118552481,
-    "wof:lastmodified":1449053721,
+    "wof:lastmodified":1466215489,
     "wof:name":"Biohof Wolfgang Orth",
     "wof:parent_id":101839981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.03751,49.974949,8.03751,49.974949],
+  "bbox": [
+    8.03751,
+    49.974949,
+    8.03751,
+    49.974949
+],
   "geometry": {"coordinates":[8.03751,49.974949],"type":"Point"}
 }

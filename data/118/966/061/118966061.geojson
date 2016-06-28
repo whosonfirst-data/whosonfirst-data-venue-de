@@ -2,13 +2,14 @@
   "id": 118966061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.114381,49.447029,11.114381,49.447029",
     "geom:latitude":49.447029,
     "geom:longitude":11.114381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Juttastr. 12",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118966061,
-    "wof:lastmodified":1449053160,
+    "wof:lastmodified":1466238335,
     "wof:name":"Lehner Und Wiegel Garten- Und",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.114381,49.447029,11.114381,49.447029],
+  "bbox": [
+    11.114381,
+    49.447029,
+    11.114381,
+    49.447029
+],
   "geometry": {"coordinates":[11.114381,49.447029],"type":"Point"}
 }

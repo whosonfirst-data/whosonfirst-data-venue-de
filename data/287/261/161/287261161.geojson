@@ -2,13 +2,14 @@
   "id": 287261161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.523985,49.97308,6.523985,49.97308",
     "geom:latitude":49.97308,
     "geom:longitude":6.523985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 26",
     "sg:city":"Bitburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287261161,
-    "wof:lastmodified":1449000680,
+    "wof:lastmodified":1466231974,
     "wof:name":"Die Ecke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.523985,49.97308,6.523985,49.97308],
+  "bbox": [
+    6.523985,
+    49.97308,
+    6.523985,
+    49.97308
+],
   "geometry": {"coordinates":[6.523985,49.97308],"type":"Point"}
 }

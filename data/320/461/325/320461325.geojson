@@ -2,13 +2,14 @@
   "id": 320461325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.530514,50.68602,10.530514,50.68602",
     "geom:latitude":50.68602,
     "geom:longitude":10.530514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6telsberg 5",
     "sg:city":"Springstille",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320461325,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466240625,
     "wof:name":"Frank Zierbock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.530514,50.68602,10.530514,50.68602],
+  "bbox": [
+    10.530514,
+    50.68602,
+    10.530514,
+    50.68602
+],
   "geometry": {"coordinates":[10.530514,50.68602],"type":"Point"}
 }

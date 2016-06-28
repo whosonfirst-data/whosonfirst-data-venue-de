@@ -2,13 +2,14 @@
   "id": 152718587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.346907,50.970779,10.346907,50.970779",
     "geom:latitude":50.970779,
     "geom:longitude":10.346907,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gothaer Str. 14 a",
     "sg:city":"Eisenach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152718587,
-    "wof:lastmodified":1449045300,
+    "wof:lastmodified":1466225112,
     "wof:name":"Kurt Albertoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.346907,50.970779,10.346907,50.970779],
+  "bbox": [
+    10.346907,
+    50.970779,
+    10.346907,
+    50.970779
+],
   "geometry": {"coordinates":[10.346907,50.970779],"type":"Point"}
 }

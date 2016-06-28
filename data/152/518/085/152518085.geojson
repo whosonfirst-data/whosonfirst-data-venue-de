@@ -2,13 +2,14 @@
   "id": 152518085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.553161,48.248787,11.553161,48.248787",
     "geom:latitude":48.248787,
     "geom:longitude":11.553161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nleuthnerstr. 8",
     "sg:city":"Oberschlei\u00dfheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905625,
+        85682571,
         85633111,
         101785323,
         102063273,
-        85682571
+        85905625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152518085,
-    "wof:lastmodified":1449046913,
+    "wof:lastmodified":1466220629,
     "wof:name":"Schleicher Electronic Gmbh",
     "wof:parent_id":85905625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.553161,48.248787,11.553161,48.248787],
+  "bbox": [
+    11.553161,
+    48.248787,
+    11.553161,
+    48.248787
+],
   "geometry": {"coordinates":[11.553161,48.248787],"type":"Point"}
 }

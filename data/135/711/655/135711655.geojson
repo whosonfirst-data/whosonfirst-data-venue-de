@@ -2,13 +2,14 @@
   "id": 135711655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.029704,53.56395,10.029704,53.56395",
     "geom:latitude":53.56395,
     "geom:longitude":10.029704,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcntherstr. 66-68",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135711655,
-    "wof:lastmodified":1449023468,
+    "wof:lastmodified":1466242763,
     "wof:name":"Allgemeine Projekt- Und Entwicklungsgesellschaft Mbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.029704,53.56395,10.029704,53.56395],
+  "bbox": [
+    10.029704,
+    53.56395,
+    10.029704,
+    53.56395
+],
   "geometry": {"coordinates":[10.029704,53.56395],"type":"Point"}
 }

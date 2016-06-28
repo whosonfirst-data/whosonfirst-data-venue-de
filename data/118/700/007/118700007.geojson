@@ -2,13 +2,14 @@
   "id": 118700007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.949887,51.464474,6.949887,51.464474",
     "geom:latitude":51.464474,
     "geom:longitude":6.949887,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bocholder Str. 11-13",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863063,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85863063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118700007,
-    "wof:lastmodified":1449054427,
+    "wof:lastmodified":1466223915,
     "wof:name":"Diakoniestation",
     "wof:parent_id":85863063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.949887,51.464474,6.949887,51.464474],
+  "bbox": [
+    6.949887,
+    51.464474,
+    6.949887,
+    51.464474
+],
   "geometry": {"coordinates":[6.949887,51.464474],"type":"Point"}
 }

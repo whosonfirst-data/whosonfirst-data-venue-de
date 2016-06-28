@@ -2,13 +2,14 @@
   "id": 135648221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.441359,51.420784,12.441359,51.420784",
     "geom:latitude":51.420784,
     "geom:longitude":12.441359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchengasse 9",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899309,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135648221,
-    "wof:lastmodified":1449021833,
+    "wof:lastmodified":1466240868,
     "wof:name":"Primex Leipzig Gmbh",
     "wof:parent_id":85899309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.441359,51.420784,12.441359,51.420784],
+  "bbox": [
+    12.441359,
+    51.420784,
+    12.441359,
+    51.420784
+],
   "geometry": {"coordinates":[12.441359,51.420784],"type":"Point"}
 }

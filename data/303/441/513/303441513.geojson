@@ -2,13 +2,14 @@
   "id": 303441513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.772766,48.337849,10.772766,48.337849",
     "geom:latitude":48.337849,
     "geom:longitude":10.772766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgwalder Str. 1",
     "sg:city":"Diedorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303441513,
-    "wof:lastmodified":1448998307,
+    "wof:lastmodified":1466235400,
     "wof:name":"J. Und E. Schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.772766,48.337849,10.772766,48.337849],
+  "bbox": [
+    10.772766,
+    48.337849,
+    10.772766,
+    48.337849
+],
   "geometry": {"coordinates":[10.772766,48.337849],"type":"Point"}
 }

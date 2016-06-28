@@ -2,13 +2,14 @@
   "id": 119357363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.742102,47.579369,10.742102,47.579369",
     "geom:latitude":47.579369,
     "geom:longitude":10.742102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchener Str. 13",
     "sg:city":"Schwangau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119357363,
-    "wof:lastmodified":1449043209,
+    "wof:lastmodified":1466240289,
     "wof:name":"M. Gebler",
     "wof:parent_id":101788945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.742102,47.579369,10.742102,47.579369],
+  "bbox": [
+    10.742102,
+    47.579369,
+    10.742102,
+    47.579369
+],
   "geometry": {"coordinates":[10.742102,47.579369],"type":"Point"}
 }

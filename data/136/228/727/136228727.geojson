@@ -2,13 +2,14 @@
   "id": 136228727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.699077,51.041985,13.699077,51.041985",
     "geom:latitude":51.041985,
     "geom:longitude":13.699077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcnaustr. 11",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136228727,
-    "wof:lastmodified":1449075311,
+    "wof:lastmodified":1466222920,
     "wof:name":"K.-r. August",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.699077,51.041985,13.699077,51.041985],
+  "bbox": [
+    13.699077,
+    51.041985,
+    13.699077,
+    51.041985
+],
   "geometry": {"coordinates":[13.699077,51.041985],"type":"Point"}
 }

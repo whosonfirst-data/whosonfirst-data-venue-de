@@ -2,13 +2,14 @@
   "id": 135941055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.163158,51.427456,7.163158,51.427456",
     "geom:latitude":51.427456,
     "geom:longitude":7.163158,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hattinger Str. 809",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795579,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135941055,
-    "wof:lastmodified":1449022828,
+    "wof:lastmodified":1466244681,
     "wof:name":"De. Software Verwaltungs Gmbh",
     "wof:parent_id":85795579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.163158,51.427456,7.163158,51.427456],
+  "bbox": [
+    7.163158,
+    51.427456,
+    7.163158,
+    51.427456
+],
   "geometry": {"coordinates":[7.163158,51.427456],"type":"Point"}
 }

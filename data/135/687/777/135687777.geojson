@@ -2,13 +2,14 @@
   "id": 135687777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.114883,50.771839,6.114883,50.771839",
     "geom:latitude":50.771839,
     "geom:longitude":6.114883,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alsenstr. 4",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795229,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85795229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135687777,
-    "wof:lastmodified":1449021857,
+    "wof:lastmodified":1466242114,
     "wof:name":"Heinz Kleinertz",
     "wof:parent_id":85795229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.114883,50.771839,6.114883,50.771839],
+  "bbox": [
+    6.114883,
+    50.771839,
+    6.114883,
+    50.771839
+],
   "geometry": {"coordinates":[6.114883,50.771839],"type":"Point"}
 }

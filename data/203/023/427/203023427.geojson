@@ -2,13 +2,14 @@
   "id": 203023427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.055244,48.82325,12.055244,48.82325",
     "geom:latitude":48.82325,
     "geom:longitude":12.055244,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heuweg 5",
     "sg:city":"Langquaid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203023427,
-    "wof:lastmodified":1449026682,
+    "wof:lastmodified":1466214161,
     "wof:name":"Georg Jordan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.055244,48.82325,12.055244,48.82325],
+  "bbox": [
+    12.055244,
+    48.82325,
+    12.055244,
+    48.82325
+],
   "geometry": {"coordinates":[12.055244,48.82325],"type":"Point"}
 }

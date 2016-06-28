@@ -2,13 +2,14 @@
   "id": 135444089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.023651,19.191,-99.023651,19.191",
     "geom:latitude":19.191,
     "geom:longitude":-99.023651,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Straubinger Weg 8",
     "sg:city":"Parkstetten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135444089,
-    "wof:lastmodified":1449023597,
+    "wof:lastmodified":1466226654,
     "wof:name":"Sparkasse Straubing-bogen",
     "wof:parent_id":101991185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.023651,19.191,-99.023651,19.191],
+  "bbox": [
+    -99.023651,
+    19.191,
+    -99.023651,
+    19.191
+],
   "geometry": {"coordinates":[-99.023651,19.191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119423703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.249225,49.248787,11.249225,49.248787",
     "geom:latitude":49.248787,
     "geom:longitude":11.249225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 3",
     "sg:city":"Allersberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119423703,
-    "wof:lastmodified":1449041262,
+    "wof:lastmodified":1466242337,
     "wof:name":"Albert Lukas Gmbh",
     "wof:parent_id":101780709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.249225,49.248787,11.249225,49.248787],
+  "bbox": [
+    11.249225,
+    49.248787,
+    11.249225,
+    49.248787
+],
   "geometry": {"coordinates":[11.249225,49.248787],"type":"Point"}
 }

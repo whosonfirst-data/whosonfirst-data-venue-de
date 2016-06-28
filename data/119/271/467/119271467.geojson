@@ -2,13 +2,14 @@
   "id": 119271467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.287035,52.678902,13.287035,52.678902",
     "geom:latitude":52.678902,
     "geom:longitude":13.287035,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiefernallee 4",
     "sg:city":"Hohen Neuendorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063995,
-        85633111,
         85682553,
-        85907699
+        85633111,
+        85907699,
+        102063995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119271467,
-    "wof:lastmodified":1449042244,
+    "wof:lastmodified":1466235695,
     "wof:name":"H. Joachim Jackor",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.287035,52.678902,13.287035,52.678902],
+  "bbox": [
+    13.287035,
+    52.678902,
+    13.287035,
+    52.678902
+],
   "geometry": {"coordinates":[13.287035,52.678902],"type":"Point"}
 }

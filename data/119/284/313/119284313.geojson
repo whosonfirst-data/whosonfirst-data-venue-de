@@ -2,13 +2,14 @@
   "id": 119284313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.440226,51.197662,6.440226,51.197662",
     "geom:latitude":51.197662,
     "geom:longitude":6.440226,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 80",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862885,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85862885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119284313,
-    "wof:lastmodified":1449042513,
+    "wof:lastmodified":1466236594,
     "wof:name":"Optik Vossk\u00e4mper Gmbh",
     "wof:parent_id":85862885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.440226,51.197662,6.440226,51.197662],
+  "bbox": [
+    6.440226,
+    51.197662,
+    6.440226,
+    51.197662
+],
   "geometry": {"coordinates":[6.440226,51.197662],"type":"Point"}
 }

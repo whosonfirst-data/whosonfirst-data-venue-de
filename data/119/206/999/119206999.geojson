@@ -2,13 +2,14 @@
   "id": 119206999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40935,50.09404,8.40935,50.09404",
     "geom:latitude":50.09404,
     "geom:longitude":8.40935,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausstr. 3",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119206999,
-    "wof:lastmodified":1449042711,
+    "wof:lastmodified":1466229372,
     "wof:name":"Gemeindeb\u00fccherei",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40935,50.09404,8.40935,50.09404],
+  "bbox": [
+    8.40935,
+    50.09404,
+    8.40935,
+    50.09404
+],
   "geometry": {"coordinates":[8.40935,50.09404],"type":"Point"}
 }

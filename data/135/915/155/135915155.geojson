@@ -2,13 +2,14 @@
   "id": 135915155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.780678,51.222889,6.780678,51.222889",
     "geom:latitude":51.222889,
     "geom:longitude":6.780678,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinstr. 11",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135915155,
-    "wof:lastmodified":1449023955,
+    "wof:lastmodified":1466244589,
     "wof:name":"Wohn- Und B\u00fcropark Gr\u00fcnauer- Stra\u00dfe 35-39 Berlin-k\u00f6penick",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.780678,51.222889,6.780678,51.222889],
+  "bbox": [
+    6.780678,
+    51.222889,
+    6.780678,
+    51.222889
+],
   "geometry": {"coordinates":[6.780678,51.222889],"type":"Point"}
 }

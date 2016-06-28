@@ -2,13 +2,14 @@
   "id": 118528113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.227601,51.540642,7.227601,51.540642",
     "geom:latitude":51.540642,
     "geom:longitude":7.227601,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-Loens-Str. 46::",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863257,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118528113,
-    "wof:lastmodified":1449053532,
+    "wof:lastmodified":1466214153,
     "wof:name":"Wirtschaftsberatungs- U. Treuhand Gmbh",
     "wof:parent_id":85863257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.227601,51.540642,7.227601,51.540642],
+  "bbox": [
+    7.227601,
+    51.540642,
+    7.227601,
+    51.540642
+],
   "geometry": {"coordinates":[7.227601,51.540642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119209805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.944227,53.558201,9.944227,53.558201",
     "geom:latitude":53.558201,
     "geom:longitude":9.944227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeiseweg 9",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119209805,
-    "wof:lastmodified":1449043246,
+    "wof:lastmodified":1466229655,
     "wof:name":"Institut F\u00fcr Hydrobiologie Und Fischereiwissenschaft",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.944227,53.558201,9.944227,53.558201],
+  "bbox": [
+    9.944227,
+    53.558201,
+    9.944227,
+    53.558201
+],
   "geometry": {"coordinates":[9.944227,53.558201],"type":"Point"}
 }

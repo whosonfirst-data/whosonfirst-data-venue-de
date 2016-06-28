@@ -2,13 +2,14 @@
   "id": 152525113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.280737,50.028946,8.280737,50.028946",
     "geom:latitude":50.028946,
     "geom:longitude":8.280737,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Peter-Sander-Str. 38",
     "sg:city":"Mainz-Kastel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795955
+        85633111,
+        85795955,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152525113,
-    "wof:lastmodified":1449047954,
+    "wof:lastmodified":1466220781,
     "wof:name":"Toni Schmid Beteiligungs- Gmbh",
     "wof:parent_id":85795955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.280737,50.028946,8.280737,50.028946],
+  "bbox": [
+    8.280737,
+    50.028946,
+    8.280737,
+    50.028946
+],
   "geometry": {"coordinates":[8.280737,50.028946],"type":"Point"}
 }

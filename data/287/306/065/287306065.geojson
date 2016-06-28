@@ -2,13 +2,14 @@
   "id": 287306065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.384562,51.306393,12.384562,51.306393",
     "geom:latitude":51.306393,
     "geom:longitude":12.384562,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ecksteinstr. 52",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287306065,
-    "wof:lastmodified":1449001547,
+    "wof:lastmodified":1466233236,
     "wof:name":"O. Malina",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.384562,51.306393,12.384562,51.306393],
+  "bbox": [
+    12.384562,
+    51.306393,
+    12.384562,
+    51.306393
+],
   "geometry": {"coordinates":[12.384562,51.306393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135546877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.317818,52.528797,13.317818,52.528797",
     "geom:latitude":52.528797,
     "geom:longitude":13.317818,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Huttenstr. 25",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135546877,
-    "wof:lastmodified":1449020981,
+    "wof:lastmodified":1466235814,
     "wof:name":"K. A. L. M. Management Und Bau Gmbh",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.317818,52.528797,13.317818,52.528797],
+  "bbox": [
+    13.317818,
+    52.528797,
+    13.317818,
+    52.528797
+],
   "geometry": {"coordinates":[13.317818,52.528797],"type":"Point"}
 }

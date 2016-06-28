@@ -2,13 +2,14 @@
   "id": 118797787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.286447,52.585999,13.286447,52.585999",
     "geom:latitude":52.585999,
     "geom:longitude":13.286447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Veitstr. 40 A",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900069,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118797787,
-    "wof:lastmodified":1449054414,
+    "wof:lastmodified":1466229625,
     "wof:name":"Apotheke Am Borsigturm E. K.",
     "wof:parent_id":85900069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.286447,52.585999,13.286447,52.585999],
+  "bbox": [
+    13.286447,
+    52.585999,
+    13.286447,
+    52.585999
+],
   "geometry": {"coordinates":[13.286447,52.585999],"type":"Point"}
 }

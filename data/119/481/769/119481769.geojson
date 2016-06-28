@@ -2,13 +2,14 @@
   "id": 119481769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.099028,51.49791,7.099028,51.49791",
     "geom:latitude":51.49791,
     "geom:longitude":7.099028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Junkerweg 53",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795305,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85795305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119481769,
-    "wof:lastmodified":1449043188,
+    "wof:lastmodified":1466243252,
     "wof:name":"Autovermietung Porwol Gmbh",
     "wof:parent_id":85795305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.099028,51.49791,7.099028,51.49791],
+  "bbox": [
+    7.099028,
+    51.49791,
+    7.099028,
+    51.49791
+],
   "geometry": {"coordinates":[7.099028,51.49791],"type":"Point"}
 }

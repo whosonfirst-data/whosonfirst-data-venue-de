@@ -2,13 +2,14 @@
   "id": 119173449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.659652,50.113785,8.659652,50.113785",
     "geom:latitude":50.113785,
     "geom:longitude":8.659652,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Savignystr. 55",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795339,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119173449,
-    "wof:lastmodified":1449041333,
+    "wof:lastmodified":1466226290,
     "wof:name":"Th\u00fcrauf Und Partner",
     "wof:parent_id":85795339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.659652,50.113785,8.659652,50.113785],
+  "bbox": [
+    8.659652,
+    50.113785,
+    8.659652,
+    50.113785
+],
   "geometry": {"coordinates":[8.659652,50.113785],"type":"Point"}
 }

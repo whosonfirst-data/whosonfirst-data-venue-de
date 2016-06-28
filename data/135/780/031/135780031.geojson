@@ -2,13 +2,14 @@
   "id": 135780031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.585185,50.807507,11.585185,50.807507",
     "geom:latitude":50.807507,
     "geom:longitude":11.585185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rollestr. 26",
     "sg:city":"Kahla",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135780031,
-    "wof:lastmodified":1449023262,
+    "wof:lastmodified":1466243929,
     "wof:name":"Edgar Franke",
     "wof:parent_id":101823195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.585185,50.807507,11.585185,50.807507],
+  "bbox": [
+    11.585185,
+    50.807507,
+    11.585185,
+    50.807507
+],
   "geometry": {"coordinates":[11.585185,50.807507],"type":"Point"}
 }

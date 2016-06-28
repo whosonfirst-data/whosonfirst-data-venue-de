@@ -2,13 +2,14 @@
   "id": 303898483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.340748,49.882534,12.340748,49.882534",
     "geom:latitude":49.882534,
     "geom:longitude":12.340748,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klenauer Weg 12",
     "sg:city":"Tirschenreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303898483,
-    "wof:lastmodified":1448998066,
+    "wof:lastmodified":1466241349,
     "wof:name":"M. Ackermann Hebamme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.340748,49.882534,12.340748,49.882534],
+  "bbox": [
+    12.340748,
+    49.882534,
+    12.340748,
+    49.882534
+],
   "geometry": {"coordinates":[12.340748,49.882534],"type":"Point"}
 }

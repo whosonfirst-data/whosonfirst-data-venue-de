@@ -2,13 +2,14 @@
   "id": 202800941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.614483,48.145378,11.614483,48.145378",
     "geom:latitude":48.145378,
     "geom:longitude":11.614483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osserstr. 28",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202800941,
-    "wof:lastmodified":1449060314,
+    "wof:lastmodified":1466221253,
     "wof:name":"Ruth Speidel Bildhauer",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.614483,48.145378,11.614483,48.145378],
+  "bbox": [
+    11.614483,
+    48.145378,
+    11.614483,
+    48.145378
+],
   "geometry": {"coordinates":[11.614483,48.145378],"type":"Point"}
 }

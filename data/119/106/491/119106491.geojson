@@ -2,13 +2,14 @@
   "id": 119106491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.345341,49.6203,12.345341,49.6203",
     "geom:latitude":49.6203,
     "geom:longitude":12.345341,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00fchlingstr. 1",
     "sg:city":"Vohenstrau\u00df",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119106491,
-    "wof:lastmodified":1449040848,
+    "wof:lastmodified":1466220637,
     "wof:name":"Peter Bantelmann Architekt",
     "wof:parent_id":101827023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.345341,49.6203,12.345341,49.6203],
+  "bbox": [
+    12.345341,
+    49.6203,
+    12.345341,
+    49.6203
+],
   "geometry": {"coordinates":[12.345341,49.6203],"type":"Point"}
 }

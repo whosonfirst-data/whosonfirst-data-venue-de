@@ -2,13 +2,14 @@
   "id": 136029869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.974281,49.512573,10.974281,49.512573",
     "geom:latitude":49.512573,
     "geom:longitude":10.974281,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischerberg 6",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900089,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85900089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136029869,
-    "wof:lastmodified":1449075481,
+    "wof:lastmodified":1466213476,
     "wof:name":"Bayerische Imkervereinigung",
     "wof:parent_id":85900089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.974281,49.512573,10.974281,49.512573],
+  "bbox": [
+    10.974281,
+    49.512573,
+    10.974281,
+    49.512573
+],
   "geometry": {"coordinates":[10.974281,49.512573],"type":"Point"}
 }

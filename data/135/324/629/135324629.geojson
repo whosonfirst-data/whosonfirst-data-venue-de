@@ -2,13 +2,14 @@
   "id": 135324629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.419351,49.46022,12.419351,49.46022",
     "geom:latitude":49.46022,
     "geom:longitude":12.419351,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 2",
     "sg:city":"Oberviechtach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135324629,
-    "wof:lastmodified":1449022781,
+    "wof:lastmodified":1466215896,
     "wof:name":"Weigl",
     "wof:parent_id":101826779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.419351,49.46022,12.419351,49.46022],
+  "bbox": [
+    12.419351,
+    49.46022,
+    12.419351,
+    49.46022
+],
   "geometry": {"coordinates":[12.419351,49.46022],"type":"Point"}
 }

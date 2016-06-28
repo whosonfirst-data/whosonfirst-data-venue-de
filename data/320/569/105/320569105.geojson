@@ -2,13 +2,14 @@
   "id": 320569105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.382159,52.504959,13.382159,52.504959",
     "geom:latitude":52.504959,
     "geom:longitude":13.382159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stresemannstr. 90",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320569105,
-    "wof:lastmodified":1449014811,
+    "wof:lastmodified":1466241613,
     "wof:name":"Cafe Stresemann",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.382159,52.504959,13.382159,52.504959],
+  "bbox": [
+    13.382159,
+    52.504959,
+    13.382159,
+    52.504959
+],
   "geometry": {"coordinates":[13.382159,52.504959],"type":"Point"}
 }

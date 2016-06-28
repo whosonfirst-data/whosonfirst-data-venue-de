@@ -2,13 +2,14 @@
   "id": 119394565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.773751,51.48605,6.773751,51.48605",
     "geom:latitude":51.48605,
     "geom:longitude":6.773751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kolpingstr. 50",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795415,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119394565,
-    "wof:lastmodified":1449041338,
+    "wof:lastmodified":1466241270,
     "wof:name":"Brebeck",
     "wof:parent_id":85795415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.773751,51.48605,6.773751,51.48605],
+  "bbox": [
+    6.773751,
+    51.48605,
+    6.773751,
+    51.48605
+],
   "geometry": {"coordinates":[6.773751,51.48605],"type":"Point"}
 }

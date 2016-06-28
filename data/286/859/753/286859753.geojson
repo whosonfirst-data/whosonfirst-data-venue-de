@@ -2,13 +2,14 @@
   "id": 286859753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.081398,53.698215,10.081398,53.698215",
     "geom:latitude":53.698215,
     "geom:longitude":10.081398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr\u00f6gensee 29",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286859753,
-    "wof:lastmodified":1449017287,
+    "wof:lastmodified":1466237788,
     "wof:name":"Nowak",
     "wof:parent_id":85899881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.081398,53.698215,10.081398,53.698215],
+  "bbox": [
+    10.081398,
+    53.698215,
+    10.081398,
+    53.698215
+],
   "geometry": {"coordinates":[10.081398,53.698215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320788207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.10499,53.653255,10.10499,53.653255",
     "geom:latitude":53.653255,
     "geom:longitude":10.10499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtbahnstr. 31",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320788207,
-    "wof:lastmodified":1449013186,
+    "wof:lastmodified":1466243077,
     "wof:name":"Lambrecht & Matthias Gmbh & Co.",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.10499,53.653255,10.10499,53.653255],
+  "bbox": [
+    10.10499,
+    53.653255,
+    10.10499,
+    53.653255
+],
   "geometry": {"coordinates":[10.10499,53.653255],"type":"Point"}
 }

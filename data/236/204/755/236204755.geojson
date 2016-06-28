@@ -2,13 +2,14 @@
   "id": 236204755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.05036,50.123055,10.05036,50.123055",
     "geom:latitude":50.123055,
     "geom:longitude":10.05036,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6chstattweg 1",
     "sg:city":"Sulzthal",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236204755,
-    "wof:lastmodified":1449005366,
+    "wof:lastmodified":1466222685,
     "wof:name":"Albert Marx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.05036,50.123055,10.05036,50.123055],
+  "bbox": [
+    10.05036,
+    50.123055,
+    10.05036,
+    50.123055
+],
   "geometry": {"coordinates":[10.05036,50.123055],"type":"Point"}
 }

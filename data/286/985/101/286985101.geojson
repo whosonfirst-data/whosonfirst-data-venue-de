@@ -2,13 +2,14 @@
   "id": 286985101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.15686,37.068958,-122.15686,37.068958",
     "geom:latitude":37.068958,
     "geom:longitude":-122.15686,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Irgendwo 12",
     "sg:city":"Irgendwo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286985101,
-    "wof:lastmodified":1449016648,
+    "wof:lastmodified":1466239823,
     "wof:name":"Masterbootrecord.de - Bootdisks And Much More",
     "wof:parent_id":85809029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.15686,37.068958,-122.15686,37.068958],
-  "geometry": {"coordinates":[-122.15686,37.068958],"type":"Point"}
+  "bbox": [
+    -122.15686,
+    37.068958,
+    -122.15686,
+    37.068958
+],
+  "geometry": {"coordinates":[-122.15685999999999,37.068958],"type":"Point"}
 }

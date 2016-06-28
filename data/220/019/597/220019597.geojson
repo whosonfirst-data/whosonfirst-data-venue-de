@@ -2,13 +2,14 @@
   "id": 220019597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.85312,48.860397,8.85312,48.860397",
     "geom:latitude":48.860397,
     "geom:longitude":8.85312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badstr. 26",
     "sg:city":"M\u00f6nsheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220019597,
-    "wof:lastmodified":1449074515,
+    "wof:lastmodified":1466214971,
     "wof:name":"Willi Frohnmayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.85312,48.860397,8.85312,48.860397],
+  "bbox": [
+    8.85312,
+    48.860397,
+    8.85312,
+    48.860397
+],
   "geometry": {"coordinates":[8.85312,48.860397],"type":"Point"}
 }

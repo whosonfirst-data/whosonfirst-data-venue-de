@@ -2,13 +2,14 @@
   "id": 135506711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.512445,49.612633,10.512445,49.612633",
     "geom:latitude":49.612633,
     "geom:longitude":10.512445,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenstr. 10",
     "sg:city":"Langenfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135506711,
-    "wof:lastmodified":1449021045,
+    "wof:lastmodified":1466232199,
     "wof:name":"S & B Gmbh",
     "wof:parent_id":101826861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.512445,49.612633,10.512445,49.612633],
+  "bbox": [
+    10.512445,
+    49.612633,
+    10.512445,
+    49.612633
+],
   "geometry": {"coordinates":[10.512445,49.612633],"type":"Point"}
 }

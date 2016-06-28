@@ -2,13 +2,14 @@
   "id": 118882019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.798408,51.006123,13.798408,51.006123",
     "geom:latitude":51.006123,
     "geom:longitude":13.798408,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzberger Str. 18",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899925,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118882019,
-    "wof:lastmodified":1449053385,
+    "wof:lastmodified":1466234819,
     "wof:name":"Die Herz-apotheke Prohlis Hans-j\u00fcrgen Reinhardt E. K.",
     "wof:parent_id":85899925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.798408,51.006123,13.798408,51.006123],
+  "bbox": [
+    13.798408,
+    51.006123,
+    13.798408,
+    51.006123
+],
   "geometry": {"coordinates":[13.798408,51.006123],"type":"Point"}
 }

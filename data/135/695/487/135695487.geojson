@@ -2,13 +2,14 @@
   "id": 135695487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.818394,51.433159,6.818394,51.433159",
     "geom:latitude":51.433159,
     "geom:longitude":6.818394,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Monningstr. 57a",
     "sg:city":"M\u00fclheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796459,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85796459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135695487,
-    "wof:lastmodified":1449022143,
+    "wof:lastmodified":1466242159,
     "wof:name":"Keul & Partner Gmbh",
     "wof:parent_id":85796459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.818394,51.433159,6.818394,51.433159],
+  "bbox": [
+    6.818394,
+    51.433159,
+    6.818394,
+    51.433159
+],
   "geometry": {"coordinates":[6.818394,51.433159],"type":"Point"}
 }

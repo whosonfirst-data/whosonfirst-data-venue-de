@@ -2,13 +2,14 @@
   "id": 135537437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.827374,50.913303,6.827374,50.913303",
     "geom:latitude":50.913303,
     "geom:longitude":6.827374,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lner Str. 180",
     "sg:city":"Frechen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063709,
-        85633111,
         85682513,
-        85796629
+        85633111,
+        85796629,
+        102063709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135537437,
-    "wof:lastmodified":1449021733,
+    "wof:lastmodified":1466235056,
     "wof:name":"Zweipack Industrielle Abdichtungen Gmbh",
     "wof:parent_id":85796629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.827374,50.913303,6.827374,50.913303],
+  "bbox": [
+    6.827374,
+    50.913303,
+    6.827374,
+    50.913303
+],
   "geometry": {"coordinates":[6.827374,50.913303],"type":"Point"}
 }

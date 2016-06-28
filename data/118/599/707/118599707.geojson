@@ -2,13 +2,14 @@
   "id": 118599707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.161326,49.345295,8.161326,49.345295",
     "geom:latitude":49.345295,
     "geom:longitude":8.161326,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Speyerdorfer Str. 196",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118599707,
-    "wof:lastmodified":1449053792,
+    "wof:lastmodified":1466218178,
     "wof:name":"Peter Vester",
     "wof:parent_id":101748533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.161326,49.345295,8.161326,49.345295],
+  "bbox": [
+    8.161326,
+    49.345295,
+    8.161326,
+    49.345295
+],
   "geometry": {"coordinates":[8.161326,49.345295],"type":"Point"}
 }

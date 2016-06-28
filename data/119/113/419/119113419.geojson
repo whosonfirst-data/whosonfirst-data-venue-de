@@ -2,13 +2,14 @@
   "id": 119113419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.031184,49.379997,11.031184,49.379997",
     "geom:latitude":49.379997,
     "geom:longitude":11.031184,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstromerstr. 11",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119113419,
-    "wof:lastmodified":1449043311,
+    "wof:lastmodified":1466221335,
     "wof:name":"Puchner Architekt",
     "wof:parent_id":101748543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.031184,49.379997,11.031184,49.379997],
+  "bbox": [
+    11.031184,
+    49.379997,
+    11.031184,
+    49.379997
+],
   "geometry": {"coordinates":[11.031184,49.379997],"type":"Point"}
 }

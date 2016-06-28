@@ -2,13 +2,14 @@
   "id": 119196535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.293861,52.448357,13.293861,52.448357",
     "geom:latitude":52.448357,
     "geom:longitude":13.293861,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altensteinstr. 51",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900017,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119196535,
-    "wof:lastmodified":1449041406,
+    "wof:lastmodified":1466228463,
     "wof:name":"Diakonisches Werk Der Evangelischen Kirche",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.293861,52.448357,13.293861,52.448357],
+  "bbox": [
+    13.293861,
+    52.448357,
+    13.293861,
+    52.448357
+],
   "geometry": {"coordinates":[13.293861,52.448357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119146085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.467175,48.173809,11.467175,48.173809",
     "geom:latitude":48.173809,
     "geom:longitude":11.467175,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Wismat 48",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899851,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119146085,
-    "wof:lastmodified":1449041922,
+    "wof:lastmodified":1466223758,
     "wof:name":"W. Greser Architekt",
     "wof:parent_id":85899851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.467175,48.173809,11.467175,48.173809],
+  "bbox": [
+    11.467175,
+    48.173809,
+    11.467175,
+    48.173809
+],
   "geometry": {"coordinates":[11.467175,48.173809],"type":"Point"}
 }

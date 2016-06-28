@@ -2,13 +2,14 @@
   "id": 119014687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.693605,51.455498,6.693605,51.455498",
     "geom:latitude":51.455498,
     "geom:longitude":6.693605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubertusplatz 1",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795559,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119014687,
-    "wof:lastmodified":1449042138,
+    "wof:lastmodified":1466224825,
     "wof:name":"G. Hufen Architekt",
     "wof:parent_id":85795559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.693605,51.455498,6.693605,51.455498],
+  "bbox": [
+    6.693605,
+    51.455498,
+    6.693605,
+    51.455498
+],
   "geometry": {"coordinates":[6.693605,51.455498],"type":"Point"}
 }

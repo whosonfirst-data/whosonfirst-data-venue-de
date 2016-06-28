@@ -2,13 +2,14 @@
   "id": 202678753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.857093,50.492855,11.857093,50.492855",
     "geom:latitude":50.492855,
     "geom:longitude":11.857093,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oelgasse 8",
     "sg:city":"Tanna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202678753,
-    "wof:lastmodified":1449061354,
+    "wof:lastmodified":1466219028,
     "wof:name":"Roland Dreier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.857093,50.492855,11.857093,50.492855],
+  "bbox": [
+    11.857093,
+    50.492855,
+    11.857093,
+    50.492855
+],
   "geometry": {"coordinates":[11.857093,50.492855],"type":"Point"}
 }

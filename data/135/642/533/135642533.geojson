@@ -2,13 +2,14 @@
   "id": 135642533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.645167,51.541615,7.645167,51.541615",
     "geom:latitude":51.541615,
     "geom:longitude":7.645167,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Massener Bahnhofstr. 37",
     "sg:city":"Unna",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796731,
+        85682513,
         85633111,
         101748733,
         102063823,
-        85682513
+        85796731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135642533,
-    "wof:lastmodified":1449021164,
+    "wof:lastmodified":1466240705,
     "wof:name":"Wilhelm Nockemann Gmbh",
     "wof:parent_id":85796731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.645167,51.541615,7.645167,51.541615],
+  "bbox": [
+    7.645167,
+    51.541615,
+    7.645167,
+    51.541615
+],
   "geometry": {"coordinates":[7.645167,51.541615],"type":"Point"}
 }

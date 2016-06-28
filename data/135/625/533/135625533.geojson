@@ -2,13 +2,14 @@
   "id": 135625533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.605367,51.365089,6.605367,51.365089",
     "geom:latitude":51.365089,
     "geom:longitude":6.605367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gatzenstr. 10",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796261,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85796261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135625533,
-    "wof:lastmodified":1449024036,
+    "wof:lastmodified":1466240208,
     "wof:name":"Hans Vranken",
     "wof:parent_id":85796261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.605367,51.365089,6.605367,51.365089],
+  "bbox": [
+    6.605367,
+    51.365089,
+    6.605367,
+    51.365089
+],
   "geometry": {"coordinates":[6.605367,51.365089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118640053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.709274,50.117928,8.709274,50.117928",
     "geom:latitude":50.117928,
     "geom:longitude":8.709274,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rh\u00f6nstr. 89",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118640053,
-    "wof:lastmodified":1449053746,
+    "wof:lastmodified":1466220528,
     "wof:name":"Seniorenwohnanlage",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.709274,50.117928,8.709274,50.117928],
+  "bbox": [
+    8.709274,
+    50.117928,
+    8.709274,
+    50.117928
+],
   "geometry": {"coordinates":[8.709274,50.117928],"type":"Point"}
 }

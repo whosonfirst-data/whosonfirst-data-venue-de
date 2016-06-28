@@ -2,13 +2,14 @@
   "id": 135544611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.627335,52.536957,13.627335,52.536957",
     "geom:latitude":52.536957,
     "geom:longitude":13.627335,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Margaretenstr.",
     "sg:city":"H\u00f6now",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135544611,
-    "wof:lastmodified":1449023990,
+    "wof:lastmodified":1466235941,
     "wof:name":"Projekt Gmbh",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.627335,52.536957,13.627335,52.536957],
+  "bbox": [
+    13.627335,
+    52.536957,
+    13.627335,
+    52.536957
+],
   "geometry": {"coordinates":[13.627335,52.536957],"type":"Point"}
 }

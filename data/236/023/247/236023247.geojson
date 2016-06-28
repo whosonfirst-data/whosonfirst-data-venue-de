@@ -2,13 +2,14 @@
   "id": 236023247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.323203,50.240154,11.323203,50.240154",
     "geom:latitude":50.240154,
     "geom:longitude":11.323203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwedenstr. 6",
     "sg:city":"Kronach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236023247,
-    "wof:lastmodified":1449004861,
+    "wof:lastmodified":1466219083,
     "wof:name":"Wehner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.323203,50.240154,11.323203,50.240154],
+  "bbox": [
+    11.323203,
+    50.240154,
+    11.323203,
+    50.240154
+],
   "geometry": {"coordinates":[11.323203,50.240154],"type":"Point"}
 }

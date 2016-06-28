@@ -2,13 +2,14 @@
   "id": 135343749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.369263,52.045971,10.369263,52.045971",
     "geom:latitude":52.045971,
     "geom:longitude":10.369263,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gittertor 3",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899203,
+        85682555,
         85633111,
         101748779,
         102063885,
-        85682555
+        85899203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135343749,
-    "wof:lastmodified":1449023145,
+    "wof:lastmodified":1466217491,
     "wof:name":"Gerhard Waldau",
     "wof:parent_id":85899203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.369263,52.045971,10.369263,52.045971],
+  "bbox": [
+    10.369263,
+    52.045971,
+    10.369263,
+    52.045971
+],
   "geometry": {"coordinates":[10.369263,52.045971],"type":"Point"}
 }

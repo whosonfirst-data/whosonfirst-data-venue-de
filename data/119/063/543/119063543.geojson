@@ -2,13 +2,14 @@
   "id": 119063543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.570322,48.104698,11.570322,48.104698",
     "geom:latitude":48.104698,
     "geom:longitude":11.570322,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcnwalder Str. 61",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899261,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119063543,
-    "wof:lastmodified":1449041083,
+    "wof:lastmodified":1466216707,
     "wof:name":"Jiri Ruzicka Architekt",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.570322,48.104698,11.570322,48.104698],
+  "bbox": [
+    11.570322,
+    48.104698,
+    11.570322,
+    48.104698
+],
   "geometry": {"coordinates":[11.570322,48.104698],"type":"Point"}
 }

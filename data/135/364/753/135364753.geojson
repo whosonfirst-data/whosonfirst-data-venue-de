@@ -2,13 +2,14 @@
   "id": 135364753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.032782,48.690311,9.032782,48.690311",
     "geom:latitude":48.690311,
     "geom:longitude":9.032782,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bunsenstr. 120",
     "sg:city":"Boeblingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135364753,
-    "wof:lastmodified":1449022697,
+    "wof:lastmodified":1466219416,
     "wof:name":"Kreiskrankenhaus Boeblingen",
     "wof:parent_id":101755903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.032782,48.690311,9.032782,48.690311],
+  "bbox": [
+    9.032782,
+    48.690311,
+    9.032782,
+    48.690311
+],
   "geometry": {"coordinates":[9.032782,48.690311],"type":"Point"}
 }

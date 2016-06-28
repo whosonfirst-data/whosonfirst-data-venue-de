@@ -2,13 +2,14 @@
   "id": 119254125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.425174,52.55024,13.425174,52.55024",
     "geom:latitude":52.55024,
     "geom:longitude":13.425174,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gudvanger Str. 28",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928743,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119254125,
-    "wof:lastmodified":1449042720,
+    "wof:lastmodified":1466234003,
     "wof:name":"Armin Kr\u00fcgel",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.425174,52.55024,13.425174,52.55024],
+  "bbox": [
+    13.425174,
+    52.55024,
+    13.425174,
+    52.55024
+],
   "geometry": {"coordinates":[13.425174,52.55024],"type":"Point"}
 }

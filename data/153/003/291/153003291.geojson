@@ -2,13 +2,14 @@
   "id": 153003291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.402028,48.828999,2.402028,48.828999",
     "geom:latitude":48.828999,
     "geom:longitude":2.402028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"de paris",
     "sg:city":"charenton",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"94220",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153003291,
-    "wof:lastmodified":1449040791,
+    "wof:lastmodified":1466213987,
     "wof:name":"Www.dzelectronic.com",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.402028,48.828999,2.402028,48.828999],
+  "bbox": [
+    2.402028,
+    48.828999,
+    2.402028,
+    48.828999
+],
   "geometry": {"coordinates":[2.402028,48.828999],"type":"Point"}
 }

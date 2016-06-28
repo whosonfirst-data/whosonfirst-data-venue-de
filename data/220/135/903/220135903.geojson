@@ -2,13 +2,14 @@
   "id": 220135903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.401241,49.5382,7.401241,49.5382",
     "geom:latitude":49.5382,
     "geom:longitude":7.401241,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trierer Str. 20",
     "sg:city":"Kusel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220135903,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466217175,
     "wof:name":"Christian Wetzel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.401241,49.5382,7.401241,49.5382],
+  "bbox": [
+    7.401241,
+    49.5382,
+    7.401241,
+    49.5382
+],
   "geometry": {"coordinates":[7.401241,49.5382],"type":"Point"}
 }

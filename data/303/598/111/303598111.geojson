@@ -2,13 +2,14 @@
   "id": 303598111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.853077,48.37891,10.853077,48.37891",
     "geom:latitude":48.37891,
     "geom:longitude":10.853077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6\u00dflestr. 12",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303598111,
-    "wof:lastmodified":1448998250,
+    "wof:lastmodified":1466237924,
     "wof:name":"Buch Automation Gmbh",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.853077,48.37891,10.853077,48.37891],
+  "bbox": [
+    10.853077,
+    48.37891,
+    10.853077,
+    48.37891
+],
   "geometry": {"coordinates":[10.853077,48.37891],"type":"Point"}
 }

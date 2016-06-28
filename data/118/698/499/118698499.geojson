@@ -2,13 +2,14 @@
   "id": 118698499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.327563,52.160355,10.327563,52.160355",
     "geom:latitude":52.160355,
     "geom:longitude":10.327563,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stormstr. 19",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899431,
+        85682555,
         85633111,
         101748779,
         102063885,
-        85682555
+        85899431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118698499,
-    "wof:lastmodified":1449054453,
+    "wof:lastmodified":1466223828,
     "wof:name":"Diakonie Sozialstation",
     "wof:parent_id":85899431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.327563,52.160355,10.327563,52.160355],
+  "bbox": [
+    10.327563,
+    52.160355,
+    10.327563,
+    52.160355
+],
   "geometry": {"coordinates":[10.327563,52.160355],"type":"Point"}
 }

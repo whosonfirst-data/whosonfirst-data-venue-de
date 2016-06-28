@@ -2,13 +2,14 @@
   "id": 153015231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.40579,51.493229,7.40579,51.493229",
     "geom:latitude":51.493229,
     "geom:longitude":7.40579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Joseph-von-Fraunhofer-Str. 2-4",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795109,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153015231,
-    "wof:lastmodified":1449040452,
+    "wof:lastmodified":1466233190,
     "wof:name":"Sonderforschungsbereich 559",
     "wof:parent_id":85795109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.40579,51.493229,7.40579,51.493229],
+  "bbox": [
+    7.40579,
+    51.493229,
+    7.40579,
+    51.493229
+],
   "geometry": {"coordinates":[7.40579,51.493229],"type":"Point"}
 }

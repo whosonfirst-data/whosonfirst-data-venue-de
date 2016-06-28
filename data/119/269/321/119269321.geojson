@@ -2,13 +2,14 @@
   "id": 119269321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.562656,50.889484,10.562656,50.889484",
     "geom:latitude":50.889484,
     "geom:longitude":10.562656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ausfeldstr. 67",
     "sg:city":"Waltershausen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119269321,
-    "wof:lastmodified":1449042540,
+    "wof:lastmodified":1466235523,
     "wof:name":"Dr. Med. Werner Hersmann",
     "wof:parent_id":85682541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.562656,50.889484,10.562656,50.889484],
+  "bbox": [
+    10.562656,
+    50.889484,
+    10.562656,
+    50.889484
+],
   "geometry": {"coordinates":[10.562656,50.889484],"type":"Point"}
 }

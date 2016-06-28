@@ -2,13 +2,14 @@
   "id": 118990609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.574089,51.336544,6.574089,51.336544",
     "geom:latitude":51.336544,
     "geom:longitude":6.574089,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bogenstr. 5",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795791,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118990609,
-    "wof:lastmodified":1449054081,
+    "wof:lastmodified":1466239610,
     "wof:name":"Dgm Architektenpartner- Schaft Demirok Melchert Rother",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.574089,51.336544,6.574089,51.336544],
+  "bbox": [
+    6.574089,
+    51.336544,
+    6.574089,
+    51.336544
+],
   "geometry": {"coordinates":[6.574089,51.336544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135577907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.674079,53.903282,10.674079,53.903282",
     "geom:latitude":53.903282,
     "geom:longitude":10.674079,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 77",
     "sg:city":"Bad Schwartau",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900191,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135577907,
-    "wof:lastmodified":1449024089,
+    "wof:lastmodified":1466237751,
     "wof:name":"Kk-immobilienverwaltungs- Gesellschaft Mbh",
     "wof:parent_id":85900191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.674079,53.903282,10.674079,53.903282],
+  "bbox": [
+    10.674079,
+    53.903282,
+    10.674079,
+    53.903282
+],
   "geometry": {"coordinates":[10.674079,53.903282],"type":"Point"}
 }

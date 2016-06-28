@@ -2,13 +2,14 @@
   "id": 119121031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.567226,48.131603,11.567226,48.131603",
     "geom:latitude":48.131603,
     "geom:longitude":11.567226,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistr. 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119121031,
-    "wof:lastmodified":1449042909,
+    "wof:lastmodified":1466221992,
     "wof:name":"Roland Brummer Architekt",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.567226,48.131603,11.567226,48.131603],
+  "bbox": [
+    11.567226,
+    48.131603,
+    11.567226,
+    48.131603
+],
   "geometry": {"coordinates":[11.567226,48.131603],"type":"Point"}
 }

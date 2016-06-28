@@ -2,13 +2,14 @@
   "id": 135676453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124576,51.966457,11.124576,51.966457",
     "geom:latitude":51.966457,
     "geom:longitude":11.124576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 3",
     "sg:city":"Schwanebeck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135676453,
-    "wof:lastmodified":1449022947,
+    "wof:lastmodified":1466241845,
     "wof:name":"Wolfgang Thoelert",
     "wof:parent_id":101820975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124576,51.966457,11.124576,51.966457],
+  "bbox": [
+    11.124576,
+    51.966457,
+    11.124576,
+    51.966457
+],
   "geometry": {"coordinates":[11.124576,51.966457],"type":"Point"}
 }

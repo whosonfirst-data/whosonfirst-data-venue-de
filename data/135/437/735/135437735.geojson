@@ -2,13 +2,14 @@
   "id": 135437735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.11104,48.25293,8.11104,48.25293",
     "geom:latitude":48.25293,
     "geom:longitude":8.11104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 24",
     "sg:city":"M\u00fchlenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135437735,
-    "wof:lastmodified":1449023185,
+    "wof:lastmodified":1466226098,
     "wof:name":"Sparkasse Haslach",
     "wof:parent_id":101763091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.11104,48.25293,8.11104,48.25293],
+  "bbox": [
+    8.11104,
+    48.25293,
+    8.11104,
+    48.25293
+],
   "geometry": {"coordinates":[8.11104,48.25293],"type":"Point"}
 }

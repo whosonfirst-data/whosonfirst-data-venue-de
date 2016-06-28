@@ -2,13 +2,14 @@
   "id": 135579279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.793421,52.421997,9.793421,52.421997",
     "geom:latitude":52.421997,
     "geom:longitude":9.793421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenchen-Kunow-Weg 16",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135579279,
-    "wof:lastmodified":1449021966,
+    "wof:lastmodified":1466237851,
     "wof:name":"M\u00e4hler & Klaus Gmbh",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.793421,52.421997,9.793421,52.421997],
+  "bbox": [
+    9.793421,
+    52.421997,
+    9.793421,
+    52.421997
+],
   "geometry": {"coordinates":[9.793421,52.421997],"type":"Point"}
 }

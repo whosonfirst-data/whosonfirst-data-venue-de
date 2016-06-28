@@ -2,13 +2,14 @@
   "id": 286798341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.348672,49.534527,8.348672,49.534527",
     "geom:latitude":49.534527,
     "geom:longitude":8.348672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Klein-Str. 1",
     "sg:city":"Frankenthal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286798341,
-    "wof:lastmodified":1449015715,
+    "wof:lastmodified":1466237160,
     "wof:name":"Koenig & Bauer Ag",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.348672,49.534527,8.348672,49.534527],
+  "bbox": [
+    8.348672,
+    49.534527,
+    8.348672,
+    49.534527
+],
   "geometry": {"coordinates":[8.348672,49.534527],"type":"Point"}
 }

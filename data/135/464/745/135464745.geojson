@@ -2,13 +2,14 @@
   "id": 135464745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.871065,50.977551,13.871065,50.977551",
     "geom:latitude":50.977551,
     "geom:longitude":13.871065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4ckelstr. 1",
     "sg:city":"Heidenau",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900285,
+        85682523,
         85633111,
         101755853,
         102064217,
-        85682523
+        85900285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135464745,
-    "wof:lastmodified":1449021823,
+    "wof:lastmodified":1466228375,
     "wof:name":"Volksbank Pirna E.g.",
     "wof:parent_id":85900285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.871065,50.977551,13.871065,50.977551],
+  "bbox": [
+    13.871065,
+    50.977551,
+    13.871065,
+    50.977551
+],
   "geometry": {"coordinates":[13.871065,50.977551],"type":"Point"}
 }

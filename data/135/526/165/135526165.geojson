@@ -2,13 +2,14 @@
   "id": 135526165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.370809,51.326893,12.370809,51.326893",
     "geom:latitude":51.326893,
     "geom:longitude":12.370809,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Braustr. 11",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135526165,
-    "wof:lastmodified":1449021939,
+    "wof:lastmodified":1466233992,
     "wof:name":"Hewa-bau Gmbh",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.370809,51.326893,12.370809,51.326893],
+  "bbox": [
+    12.370809,
+    51.326893,
+    12.370809,
+    51.326893
+],
   "geometry": {"coordinates":[12.370809,51.326893],"type":"Point"}
 }

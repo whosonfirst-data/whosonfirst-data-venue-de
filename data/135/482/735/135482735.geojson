@@ -2,13 +2,14 @@
   "id": 135482735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.621733,47.797501,10.621733,47.797501",
     "geom:latitude":47.797501,
     "geom:longitude":10.621733,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwabenstr. 122",
     "sg:city":"Marktoberdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135482735,
-    "wof:lastmodified":1449022074,
+    "wof:lastmodified":1466230070,
     "wof:name":"Papillon",
     "wof:parent_id":101787653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.621733,47.797501,10.621733,47.797501],
+  "bbox": [
+    10.621733,
+    47.797501,
+    10.621733,
+    47.797501
+],
   "geometry": {"coordinates":[10.621733,47.797501],"type":"Point"}
 }

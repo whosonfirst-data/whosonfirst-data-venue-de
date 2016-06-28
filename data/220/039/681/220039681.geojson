@@ -2,13 +2,14 @@
   "id": 220039681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.722198,50.100399,8.722198,50.100399",
     "geom:latitude":50.100399,
     "geom:longitude":8.722198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Offenbacher Landstr. 322a",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220039681,
-    "wof:lastmodified":1449074776,
+    "wof:lastmodified":1466215350,
     "wof:name":"Wolfgang Heidecker",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.722198,50.100399,8.722198,50.100399],
+  "bbox": [
+    8.722198,
+    50.100399,
+    8.722198,
+    50.100399
+],
   "geometry": {"coordinates":[8.722198,50.100399],"type":"Point"}
 }

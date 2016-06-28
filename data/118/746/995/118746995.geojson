@@ -2,13 +2,14 @@
   "id": 118746995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.113693,53.653431,10.113693,53.653431",
     "geom:latitude":53.653431,
     "geom:longitude":10.113693,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldweg 1a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900001,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118746995,
-    "wof:lastmodified":1449053137,
+    "wof:lastmodified":1466226581,
     "wof:name":"Stc Ambulantes Reha- Bilitationszentrum Gmbh",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.113693,53.653431,10.113693,53.653431],
+  "bbox": [
+    10.113693,
+    53.653431,
+    10.113693,
+    53.653431
+],
   "geometry": {"coordinates":[10.113693,53.653431],"type":"Point"}
 }

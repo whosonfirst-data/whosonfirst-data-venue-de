@@ -2,13 +2,14 @@
   "id": 135481675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.675627,53.879944,10.675627,53.879944",
     "geom:latitude":53.879944,
     "geom:longitude":10.675627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bei der Lohm\u00fchle 96",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900237,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135481675,
-    "wof:lastmodified":1449023625,
+    "wof:lastmodified":1466229965,
     "wof:name":"Tanzpalast Romantica",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.675627,53.879944,10.675627,53.879944],
+  "bbox": [
+    10.675627,
+    53.879944,
+    10.675627,
+    53.879944
+],
   "geometry": {"coordinates":[10.675627,53.879944],"type":"Point"}
 }

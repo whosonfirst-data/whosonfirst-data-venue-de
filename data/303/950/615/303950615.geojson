@@ -2,13 +2,14 @@
   "id": 303950615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.445895,49.472031,8.445895,49.472031",
     "geom:latitude":49.472031,
     "geom:longitude":8.445895,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lisztstr. 152",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303950615,
-    "wof:lastmodified":1448999071,
+    "wof:lastmodified":1466241591,
     "wof:name":"Mathias Schiller Masseur",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.445895,49.472031,8.445895,49.472031],
+  "bbox": [
+    8.445895,
+    49.472031,
+    8.445895,
+    49.472031
+],
   "geometry": {"coordinates":[8.445895,49.472031],"type":"Point"}
 }

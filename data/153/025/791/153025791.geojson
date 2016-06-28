@@ -2,13 +2,14 @@
   "id": 153025791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.699939,52.39172,9.699939,52.39172",
     "geom:latitude":52.39172,
     "geom:longitude":9.699939,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenh\u00e4userstr. 4 a",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899413,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153025791,
-    "wof:lastmodified":1449040752,
+    "wof:lastmodified":1466213076,
     "wof:name":"Das Regenwaldhaus",
     "wof:parent_id":85899413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.699939,52.39172,9.699939,52.39172],
+  "bbox": [
+    9.699939,
+    52.39172,
+    9.699939,
+    52.39172
+],
   "geometry": {"coordinates":[9.699939,52.39172],"type":"Point"}
 }

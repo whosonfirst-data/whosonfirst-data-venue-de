@@ -2,13 +2,14 @@
   "id": 135523823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.672771,51.327675,6.672771,51.327675",
     "geom:latitude":51.327675,
     "geom:longitude":6.672771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merstr. 12",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063799,
-        85633111,
         85682513,
-        85796447
+        85633111,
+        85796447,
+        102063799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135523823,
-    "wof:lastmodified":1449022753,
+    "wof:lastmodified":1466233805,
     "wof:name":"H & H Gebr\u00fcder Holloh Gmbh",
     "wof:parent_id":85796447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.672771,51.327675,6.672771,51.327675],
+  "bbox": [
+    6.672771,
+    51.327675,
+    6.672771,
+    51.327675
+],
   "geometry": {"coordinates":[6.672771,51.327675],"type":"Point"}
 }

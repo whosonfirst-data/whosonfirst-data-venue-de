@@ -2,13 +2,14 @@
   "id": 202859233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.053793,48.779881,13.053793,48.779881",
     "geom:latitude":48.779881,
     "geom:longitude":13.053793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erkerdinger Str. 5",
     "sg:city":"Hengersberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202859233,
-    "wof:lastmodified":1449061912,
+    "wof:lastmodified":1466222367,
     "wof:name":"Rudolf Maiwald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.053793,48.779881,13.053793,48.779881],
+  "bbox": [
+    13.053793,
+    48.779881,
+    13.053793,
+    48.779881
+],
   "geometry": {"coordinates":[13.053793,48.779881],"type":"Point"}
 }

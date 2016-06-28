@@ -2,13 +2,14 @@
   "id": 118935551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.975548,51.42532,6.975548,51.42532",
     "geom:latitude":51.42532,
     "geom:longitude":6.975548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sommerburgstr. 165",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118935551,
-    "wof:lastmodified":1449054308,
+    "wof:lastmodified":1466237204,
     "wof:name":"Sommerburg-apotheke",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.975548,51.42532,6.975548,51.42532],
+  "bbox": [
+    6.975548,
+    51.42532,
+    6.975548,
+    51.42532
+],
   "geometry": {"coordinates":[6.975548,51.42532],"type":"Point"}
 }

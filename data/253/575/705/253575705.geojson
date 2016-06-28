@@ -2,13 +2,14 @@
   "id": 253575705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.51168,49.619576,10.51168,49.619576",
     "geom:latitude":49.619576,
     "geom:longitude":10.51168,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 16",
     "sg:city":"Langenfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253575705,
-    "wof:lastmodified":1449063670,
+    "wof:lastmodified":1466230861,
     "wof:name":"Bmi Landshut Eg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.51168,49.619576,10.51168,49.619576],
+  "bbox": [
+    10.51168,
+    49.619576,
+    10.51168,
+    49.619576
+],
   "geometry": {"coordinates":[10.51168,49.619576],"type":"Point"}
 }

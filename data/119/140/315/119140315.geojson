@@ -2,13 +2,14 @@
   "id": 119140315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.995531,53.57909,9.995531,53.57909",
     "geom:latitude":53.57909,
     "geom:longitude":9.995531,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Harvestehuder Weg 79",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119140315,
-    "wof:lastmodified":1449041212,
+    "wof:lastmodified":1466223216,
     "wof:name":"Tuyen Tran-viet Architekt",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.995531,53.57909,9.995531,53.57909],
+  "bbox": [
+    9.995531,
+    53.57909,
+    9.995531,
+    53.57909
+],
   "geometry": {"coordinates":[9.995531,53.57909],"type":"Point"}
 }

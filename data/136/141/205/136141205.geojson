@@ -2,13 +2,14 @@
   "id": 136141205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.412447,52.552116,13.412447,52.552116",
     "geom:latitude":52.552116,
     "geom:longitude":13.412447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-Robeson-Str. 45",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899193,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136141205,
-    "wof:lastmodified":1449075376,
+    "wof:lastmodified":1466218444,
     "wof:name":"Versicherungen Vergleichen Berechnen Beantragen",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.412447,52.552116,13.412447,52.552116],
+  "bbox": [
+    13.412447,
+    52.552116,
+    13.412447,
+    52.552116
+],
   "geometry": {"coordinates":[13.412447,52.552116],"type":"Point"}
 }

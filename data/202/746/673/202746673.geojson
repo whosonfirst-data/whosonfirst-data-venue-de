@@ -2,13 +2,14 @@
   "id": 202746673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.82245,53.582691,9.82245,53.582691",
     "geom:latitude":53.582691,
     "geom:longitude":9.82245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schenefelder Landstr. 275",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202746673,
-    "wof:lastmodified":1449060089,
+    "wof:lastmodified":1466220284,
     "wof:name":"Ernst Schwarz",
     "wof:parent_id":85899581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.82245,53.582691,9.82245,53.582691],
+  "bbox": [
+    9.82245,
+    53.582691,
+    9.82245,
+    53.582691
+],
   "geometry": {"coordinates":[9.82245,53.582691],"type":"Point"}
 }

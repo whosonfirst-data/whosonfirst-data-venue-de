@@ -2,13 +2,14 @@
   "id": 119484959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.671879,51.039967,13.671879,51.039967",
     "geom:latitude":51.039967,
     "geom:longitude":13.671879,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilbertstr. 2",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900255,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119484959,
-    "wof:lastmodified":1449043394,
+    "wof:lastmodified":1466243460,
     "wof:name":"D. Krei\u00dfig",
     "wof:parent_id":85900255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.671879,51.039967,13.671879,51.039967],
+  "bbox": [
+    13.671879,
+    51.039967,
+    13.671879,
+    51.039967
+],
   "geometry": {"coordinates":[13.671879,51.039967],"type":"Point"}
 }

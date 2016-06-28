@@ -2,13 +2,14 @@
   "id": 135701825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.51386,51.020657,11.51386,51.020657",
     "geom:latitude":51.020657,
     "geom:longitude":11.51386,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerichtsweg 2",
     "sg:city":"Apolda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135701825,
-    "wof:lastmodified":1449023391,
+    "wof:lastmodified":1466242540,
     "wof:name":"Wohnungs Gmbh",
     "wof:parent_id":101823283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.51386,51.020657,11.51386,51.020657],
+  "bbox": [
+    11.51386,
+    51.020657,
+    11.51386,
+    51.020657
+],
   "geometry": {"coordinates":[11.51386,51.020657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119192545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.237016,50.458813,10.237016,50.458813",
     "geom:latitude":50.458813,
     "geom:longitude":10.237016,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulinenstr. 6",
     "sg:city":"Ostheim",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119192545,
-    "wof:lastmodified":1449042753,
+    "wof:lastmodified":1466228121,
     "wof:name":"Bibliothek Und Phonothek",
     "wof:parent_id":101812297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.237016,50.458813,10.237016,50.458813],
+  "bbox": [
+    10.237016,
+    50.458813,
+    10.237016,
+    50.458813
+],
   "geometry": {"coordinates":[10.237016,50.458813],"type":"Point"}
 }

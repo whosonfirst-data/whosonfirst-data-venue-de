@@ -2,13 +2,14 @@
   "id": 202506583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.76552,50.674095,9.76552,50.674095",
     "geom:latitude":50.674095,
     "geom:longitude":9.76552,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 20",
     "sg:city":"H\u00fcnfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202506583,
-    "wof:lastmodified":1449060163,
+    "wof:lastmodified":1466215751,
     "wof:name":"Pauly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.76552,50.674095,9.76552,50.674095],
+  "bbox": [
+    9.76552,
+    50.674095,
+    9.76552,
+    50.674095
+],
   "geometry": {"coordinates":[9.76552,50.674095],"type":"Point"}
 }

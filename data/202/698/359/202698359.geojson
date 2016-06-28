@@ -2,13 +2,14 @@
   "id": 202698359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.147031,48.678566,10.147031,48.678566",
     "geom:latitude":48.678566,
     "geom:longitude":10.147031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leonhardstr. 13",
     "sg:city":"Heidenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202698359,
-    "wof:lastmodified":1449062490,
+    "wof:lastmodified":1466219392,
     "wof:name":"H. Nagel Kunstmaler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.147031,48.678566,10.147031,48.678566],
+  "bbox": [
+    10.147031,
+    48.678566,
+    10.147031,
+    48.678566
+],
   "geometry": {"coordinates":[10.147031,48.678566],"type":"Point"}
 }

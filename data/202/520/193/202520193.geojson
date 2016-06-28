@@ -2,13 +2,14 @@
   "id": 202520193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.280648,51.664436,10.280648,51.664436",
     "geom:latitude":51.664436,
     "geom:longitude":10.280648,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 39",
     "sg:city":"Herzberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202520193,
-    "wof:lastmodified":1449060942,
+    "wof:lastmodified":1466216029,
     "wof:name":"Sigrid Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.280648,51.664436,10.280648,51.664436],
+  "bbox": [
+    10.280648,
+    51.664436,
+    10.280648,
+    51.664436
+],
   "geometry": {"coordinates":[10.280648,51.664436],"type":"Point"}
 }

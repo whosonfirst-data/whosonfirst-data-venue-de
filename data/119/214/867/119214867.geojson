@@ -2,13 +2,14 @@
   "id": 119214867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.189109,51.477638,7.189109,51.477638",
     "geom:latitude":51.477638,
     "geom:longitude":7.189109,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Cramerstr. 10",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796583,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119214867,
-    "wof:lastmodified":1449043480,
+    "wof:lastmodified":1466230145,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek St. Anna",
     "wof:parent_id":85796583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.189109,51.477638,7.189109,51.477638],
+  "bbox": [
+    7.189109,
+    51.477638,
+    7.189109,
+    51.477638
+],
   "geometry": {"coordinates":[7.189109,51.477638],"type":"Point"}
 }

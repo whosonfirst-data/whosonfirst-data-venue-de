@@ -2,13 +2,14 @@
   "id": 119405865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.014724,50.737129,7.014724,50.737129",
     "geom:latitude":50.737129,
     "geom:longitude":7.014724,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf dem H\u00fcgel 10",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795871,
+        85682513,
         85633111,
         101755969,
         102063683,
-        85682513
+        85795871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119405865,
-    "wof:lastmodified":1449043304,
+    "wof:lastmodified":1466241802,
     "wof:name":"Peter Winterscheid",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.014724,50.737129,7.014724,50.737129],
+  "bbox": [
+    7.014724,
+    50.737129,
+    7.014724,
+    50.737129
+],
   "geometry": {"coordinates":[7.014724,50.737129],"type":"Point"}
 }

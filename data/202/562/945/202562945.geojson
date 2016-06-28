@@ -2,13 +2,14 @@
   "id": 202562945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.600455,47.770802,9.600455,47.770802",
     "geom:latitude":47.770802,
     "geom:longitude":9.600455,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 1",
     "sg:city":"Ravensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202562945,
-    "wof:lastmodified":1449061450,
+    "wof:lastmodified":1466216895,
     "wof:name":"Ravensburger Spieleland Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.600455,47.770802,9.600455,47.770802],
+  "bbox": [
+    9.600455,
+    47.770802,
+    9.600455,
+    47.770802
+],
   "geometry": {"coordinates":[9.600455,47.770802],"type":"Point"}
 }

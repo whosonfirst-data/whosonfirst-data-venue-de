@@ -2,13 +2,14 @@
   "id": 136246159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.181106,49.375645,10.181106,49.375645",
     "geom:latitude":49.375645,
     "geom:longitude":10.181106,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wenggasse 11",
     "sg:city":"Rothenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136246159,
-    "wof:lastmodified":1449074993,
+    "wof:lastmodified":1466223979,
     "wof:name":"R. Kamleiter",
     "wof:parent_id":101826725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.181106,49.375645,10.181106,49.375645],
+  "bbox": [
+    10.181106,
+    49.375645,
+    10.181106,
+    49.375645
+],
   "geometry": {"coordinates":[10.181106,49.375645],"type":"Point"}
 }

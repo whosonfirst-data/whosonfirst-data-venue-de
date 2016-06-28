@@ -2,13 +2,14 @@
   "id": 135800201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.037885,48.704849,9.037885,48.704849",
     "geom:latitude":48.704849,
     "geom:longitude":9.037885,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwertstr. 58",
     "sg:city":"Sindelfingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85795041
+        85633111,
+        85795041,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135800201,
-    "wof:lastmodified":1449021239,
+    "wof:lastmodified":1466244087,
     "wof:name":"Peter Fessler Mode Gmbh",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.037885,48.704849,9.037885,48.704849],
+  "bbox": [
+    9.037885,
+    48.704849,
+    9.037885,
+    48.704849
+],
   "geometry": {"coordinates":[9.037885,48.704849],"type":"Point"}
 }

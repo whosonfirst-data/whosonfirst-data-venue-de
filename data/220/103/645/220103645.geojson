@@ -2,13 +2,14 @@
   "id": 220103645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.695128,50.727806,12.695128,50.727806",
     "geom:latitude":50.727806,
     "geom:longitude":12.695128,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Deutschlandschacht 3",
     "sg:city":"Oelsnitz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220103645,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466216572,
     "wof:name":"Penzhorn Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.695128,50.727806,12.695128,50.727806],
+  "bbox": [
+    12.695128,
+    50.727806,
+    12.695128,
+    50.727806
+],
   "geometry": {"coordinates":[12.695128,50.727806],"type":"Point"}
 }

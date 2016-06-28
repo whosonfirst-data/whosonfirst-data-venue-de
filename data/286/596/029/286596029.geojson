@@ -2,13 +2,14 @@
   "id": 286596029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.210762,50.030365,10.210762,50.030365",
     "geom:latitude":50.030365,
     "geom:longitude":10.210762,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ernst-Sachs-Str. 61",
     "sg:city":"Schweinfurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286596029,
-    "wof:lastmodified":1449016702,
+    "wof:lastmodified":1466232579,
     "wof:name":"S. Winter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.210762,50.030365,10.210762,50.030365],
+  "bbox": [
+    10.210762,
+    50.030365,
+    10.210762,
+    50.030365
+],
   "geometry": {"coordinates":[10.210762,50.030365],"type":"Point"}
 }

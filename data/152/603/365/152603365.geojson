@@ -2,13 +2,14 @@
   "id": 152603365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.607067,51.342716,6.607067,51.342716",
     "geom:latitude":51.342716,
     "geom:longitude":6.607067,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uerdinger Str. 463-463 A",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795791,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152603365,
-    "wof:lastmodified":1449048199,
+    "wof:lastmodified":1466222565,
     "wof:name":"Planungsgruppe Coopmans Gmbh",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.607067,51.342716,6.607067,51.342716],
+  "bbox": [
+    6.607067,
+    51.342716,
+    6.607067,
+    51.342716
+],
   "geometry": {"coordinates":[6.607067,51.342716],"type":"Point"}
 }

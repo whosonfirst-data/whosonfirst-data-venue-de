@@ -2,13 +2,14 @@
   "id": 336949967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.02605,50.995979,11.02605,50.995979",
     "geom:latitude":50.995979,
     "geom:longitude":11.02605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Gelben Gut 64",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336949967,
-    "wof:lastmodified":1448997604,
+    "wof:lastmodified":1466239577,
     "wof:name":"Klaus Wunder",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.02605,50.995979,11.02605,50.995979],
+  "bbox": [
+    11.02605,
+    50.995979,
+    11.02605,
+    50.995979
+],
   "geometry": {"coordinates":[11.02605,50.995979],"type":"Point"}
 }

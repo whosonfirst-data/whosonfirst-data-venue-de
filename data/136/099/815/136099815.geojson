@@ -2,13 +2,14 @@
   "id": 136099815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.490856,51.347412,7.490856,51.347412",
     "geom:latitude":51.347412,
     "geom:longitude":7.490856,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eilper Strasse 71-75",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795169,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136099815,
-    "wof:lastmodified":1449075799,
+    "wof:lastmodified":1466216751,
     "wof:name":"Online-forum Unternehmen Barbarossa 1941",
     "wof:parent_id":85795169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.490856,51.347412,7.490856,51.347412],
+  "bbox": [
+    7.490856,
+    51.347412,
+    7.490856,
+    51.347412
+],
   "geometry": {"coordinates":[7.490856,51.347412],"type":"Point"}
 }

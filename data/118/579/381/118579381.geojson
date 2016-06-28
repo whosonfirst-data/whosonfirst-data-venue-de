@@ -2,13 +2,14 @@
   "id": 118579381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.09233,53.525166,10.09233,53.525166",
     "geom:latitude":53.525166,
     "geom:longitude":10.09233,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorfleeter Str 45",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899653,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118579381,
-    "wof:lastmodified":1449053594,
+    "wof:lastmodified":1466217116,
     "wof:name":"Gramyco Arbeitsb\u00fchnen Handels- U. Vermietungs-gmbh",
     "wof:parent_id":85899653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.09233,53.525166,10.09233,53.525166],
+  "bbox": [
+    10.09233,
+    53.525166,
+    10.09233,
+    53.525166
+],
   "geometry": {"coordinates":[10.09233,53.525166],"type":"Point"}
 }

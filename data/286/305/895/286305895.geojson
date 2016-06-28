@@ -2,13 +2,14 @@
   "id": 286305895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.021179,49.329308,11.021179,49.329308",
     "geom:latitude":49.329308,
     "geom:longitude":11.021179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsplatz 4",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286305895,
-    "wof:lastmodified":1449015611,
+    "wof:lastmodified":1466225646,
     "wof:name":"Weidmann",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.021179,49.329308,11.021179,49.329308],
+  "bbox": [
+    11.021179,
+    49.329308,
+    11.021179,
+    49.329308
+],
   "geometry": {"coordinates":[11.021179,49.329308],"type":"Point"}
 }

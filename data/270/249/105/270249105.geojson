@@ -2,13 +2,14 @@
   "id": 270249105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.503958,49.53548,9.503958,49.53548",
     "geom:latitude":49.53548,
     "geom:longitude":9.503958,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerichtstetter Str. 26",
     "sg:city":"Hardheim",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270249105,
-    "wof:lastmodified":1449008799,
+    "wof:lastmodified":1466227189,
     "wof:name":"Karl Scherer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.503958,49.53548,9.503958,49.53548],
+  "bbox": [
+    9.503958,
+    49.53548,
+    9.503958,
+    49.53548
+],
   "geometry": {"coordinates":[9.503958,49.53548],"type":"Point"}
 }

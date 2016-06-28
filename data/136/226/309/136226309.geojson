@@ -2,13 +2,14 @@
   "id": 136226309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.774014,51.201817,6.774014,51.201817",
     "geom:latitude":51.201817,
     "geom:longitude":6.774014,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kopernikusstr. 26",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795217,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136226309,
-    "wof:lastmodified":1449075883,
+    "wof:lastmodified":1466222785,
     "wof:name":"Jumbo Zoo-markt",
     "wof:parent_id":85795217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.774014,51.201817,6.774014,51.201817],
+  "bbox": [
+    6.774014,
+    51.201817,
+    6.774014,
+    51.201817
+],
   "geometry": {"coordinates":[6.774014,51.201817],"type":"Point"}
 }

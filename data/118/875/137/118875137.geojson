@@ -2,13 +2,14 @@
   "id": 118875137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.134201,49.397636,11.134201,49.397636",
     "geom:latitude":49.397636,
     "geom:longitude":11.134201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6rlitzer Str. 28",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899475,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118875137,
-    "wof:lastmodified":1449054187,
+    "wof:lastmodified":1466234381,
     "wof:name":"Behring-apotheke Inh. Karl Ludwig Fritz",
     "wof:parent_id":85899475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.134201,49.397636,11.134201,49.397636],
+  "bbox": [
+    11.134201,
+    49.397636,
+    11.134201,
+    49.397636
+],
   "geometry": {"coordinates":[11.134201,49.397636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135391837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.86544,51.816685,9.86544,51.816685",
     "geom:latitude":51.816685,
     "geom:longitude":9.86544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1735:: 37558 Einbeck:: Germany.^^Marktplatz 16-18::",
     "sg:city":"Einbeck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135391837,
-    "wof:lastmodified":1449022940,
+    "wof:lastmodified":1466222180,
     "wof:name":"Kreis-und Stadtsparkasse Einbeck",
     "wof:parent_id":101808967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.86544,51.816685,9.86544,51.816685],
+  "bbox": [
+    9.86544,
+    51.816685,
+    9.86544,
+    51.816685
+],
   "geometry": {"coordinates":[9.86544,51.816685],"type":"Point"}
 }

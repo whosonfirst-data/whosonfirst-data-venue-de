@@ -2,13 +2,14 @@
   "id": 303666585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.417268,51.312958,12.417268,51.312958",
     "geom:latitude":51.312958,
     "geom:longitude":12.417268,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gletschersteinstr. 32",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303666585,
-    "wof:lastmodified":1448999015,
+    "wof:lastmodified":1466238843,
     "wof:name":"G. Riedel",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.417268,51.312958,12.417268,51.312958],
+  "bbox": [
+    12.417268,
+    51.312958,
+    12.417268,
+    51.312958
+],
   "geometry": {"coordinates":[12.417268,51.312958],"type":"Point"}
 }

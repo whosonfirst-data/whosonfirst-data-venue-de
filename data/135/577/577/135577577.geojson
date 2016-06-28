@@ -2,13 +2,14 @@
   "id": 135577577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.862246,51.06596,6.862246,51.06596",
     "geom:latitude":51.06596,
     "geom:longitude":6.862246,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leinenweberstr. 3",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063761,
-        85633111,
         85682513,
-        85796175
+        85633111,
+        85796175,
+        102063761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135577577,
-    "wof:lastmodified":1449024089,
+    "wof:lastmodified":1466237723,
     "wof:name":"Hydrotrest Spolka Akcyjna Bauunternehmung",
     "wof:parent_id":85796175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.862246,51.06596,6.862246,51.06596],
+  "bbox": [
+    6.862246,
+    51.06596,
+    6.862246,
+    51.06596
+],
   "geometry": {"coordinates":[6.862246,51.06596],"type":"Point"}
 }

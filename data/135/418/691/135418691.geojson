@@ -2,13 +2,14 @@
   "id": 135418691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.880872,49.569061,10.880872,49.569061",
     "geom:latitude":49.569061,
     "geom:longitude":10.880872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1144:: 91062 Herzogenaurach:: Germany.^^Hintere Gasse 22::",
     "sg:city":"Herzogenaurach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135418691,
-    "wof:lastmodified":1449023368,
+    "wof:lastmodified":1466224465,
     "wof:name":"Raiffeisenbank Herzogenaurach Eg",
     "wof:parent_id":101826949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.880872,49.569061,10.880872,49.569061],
+  "bbox": [
+    10.880872,
+    49.569061,
+    10.880872,
+    49.569061
+],
   "geometry": {"coordinates":[10.880872,49.569061],"type":"Point"}
 }

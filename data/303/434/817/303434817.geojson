@@ -2,13 +2,14 @@
   "id": 303434817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.119047,49.474342,11.119047,49.474342",
     "geom:latitude":49.474342,
     "geom:longitude":11.119047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kieslingstr. 82",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303434817,
-    "wof:lastmodified":1448998644,
+    "wof:lastmodified":1466235251,
     "wof:name":"G. Fellner",
     "wof:parent_id":85900279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.119047,49.474342,11.119047,49.474342],
+  "bbox": [
+    11.119047,
+    49.474342,
+    11.119047,
+    49.474342
+],
   "geometry": {"coordinates":[11.119047,49.474342],"type":"Point"}
 }

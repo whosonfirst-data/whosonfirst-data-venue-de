@@ -2,13 +2,14 @@
   "id": 119468797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.632251,48.128059,11.632251,48.128059",
     "geom:latitude":48.128059,
     "geom:longitude":11.632251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreillerstr. 13 a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900273,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119468797,
-    "wof:lastmodified":1449042781,
+    "wof:lastmodified":1466243169,
     "wof:name":"Cornelia Maslin",
     "wof:parent_id":85900273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.632251,48.128059,11.632251,48.128059],
+  "bbox": [
+    11.632251,
+    48.128059,
+    11.632251,
+    48.128059
+],
   "geometry": {"coordinates":[11.632251,48.128059],"type":"Point"}
 }

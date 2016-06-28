@@ -2,13 +2,14 @@
   "id": 303667755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.809098,49.712036,10.809098,49.712036",
     "geom:latitude":49.712036,
     "geom:longitude":10.809098,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Georg-Str. 51",
     "sg:city":"H\u00f6chstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303667755,
-    "wof:lastmodified":1448999717,
+    "wof:lastmodified":1466238865,
     "wof:name":"G. Strahlberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.809098,49.712036,10.809098,49.712036],
+  "bbox": [
+    10.809098,
+    49.712036,
+    10.809098,
+    49.712036
+],
   "geometry": {"coordinates":[10.809098,49.712036],"type":"Point"}
 }

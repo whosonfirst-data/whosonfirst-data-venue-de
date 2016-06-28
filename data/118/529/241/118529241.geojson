@@ -2,13 +2,14 @@
   "id": 118529241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.369312,48.187244,11.369312,48.187244",
     "geom:latitude":48.187244,
     "geom:longitude":11.369312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wettersteinstr. 15",
     "sg:city":"Gr\u00f6benzell",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899549
+        85633111,
+        85899549,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118529241,
-    "wof:lastmodified":1449053752,
+    "wof:lastmodified":1466214222,
     "wof:name":"Augias Gesellschaft F\u00fcr Umweltberatung Fl\u00e4chenrecycl.",
     "wof:parent_id":85899549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.369312,48.187244,11.369312,48.187244],
+  "bbox": [
+    11.369312,
+    48.187244,
+    11.369312,
+    48.187244
+],
   "geometry": {"coordinates":[11.369312,48.187244],"type":"Point"}
 }

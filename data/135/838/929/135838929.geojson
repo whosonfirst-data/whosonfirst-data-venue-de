@@ -2,13 +2,14 @@
   "id": 135838929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.769425,50.532021,12.769425,50.532021",
     "geom:latitude":50.532021,
     "geom:longitude":12.769425,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erzstr. 43",
     "sg:city":"Schwarzenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135838929,
-    "wof:lastmodified":1449021348,
+    "wof:lastmodified":1466244254,
     "wof:name":"R. Beck",
     "wof:parent_id":101841193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.769425,50.532021,12.769425,50.532021],
+  "bbox": [
+    12.769425,
+    50.532021,
+    12.769425,
+    50.532021
+],
   "geometry": {"coordinates":[12.769425,50.532021],"type":"Point"}
 }

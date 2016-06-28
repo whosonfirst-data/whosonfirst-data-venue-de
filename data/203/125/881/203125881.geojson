@@ -2,13 +2,14 @@
   "id": 203125881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.058148,49.322296,11.058148,49.322296",
     "geom:latitude":49.322296,
     "geom:longitude":11.058148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hansastr. 11",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203125881,
-    "wof:lastmodified":1449026806,
+    "wof:lastmodified":1466215958,
     "wof:name":"Bergner",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.058148,49.322296,11.058148,49.322296],
+  "bbox": [
+    11.058148,
+    49.322296,
+    11.058148,
+    49.322296
+],
   "geometry": {"coordinates":[11.058148,49.322296],"type":"Point"}
 }

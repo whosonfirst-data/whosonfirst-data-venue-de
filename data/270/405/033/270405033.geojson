@@ -2,13 +2,14 @@
   "id": 270405033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.82105,53.07555,8.82105,53.07555",
     "geom:latitude":53.07555,
     "geom:longitude":8.82105,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf den H\u00e4fen 18-20",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270405033,
-    "wof:lastmodified":1449010887,
+    "wof:lastmodified":1466231196,
     "wof:name":"Animation Labs",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.82105,53.07555,8.82105,53.07555],
+  "bbox": [
+    8.82105,
+    53.07555,
+    8.82105,
+    53.07555
+],
   "geometry": {"coordinates":[8.82105,53.07555],"type":"Point"}
 }

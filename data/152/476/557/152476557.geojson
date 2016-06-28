@@ -2,13 +2,14 @@
   "id": 152476557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.034863,51.186359,7.034863,51.186359",
     "geom:latitude":51.186359,
     "geom:longitude":7.034863,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wittkuller Str. 51",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796725,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85796725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152476557,
-    "wof:lastmodified":1449046181,
+    "wof:lastmodified":1466219721,
     "wof:name":"Ern Zweite Beteiligungsges. Mbh",
     "wof:parent_id":85796725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.034863,51.186359,7.034863,51.186359],
+  "bbox": [
+    7.034863,
+    51.186359,
+    7.034863,
+    51.186359
+],
   "geometry": {"coordinates":[7.034863,51.186359],"type":"Point"}
 }

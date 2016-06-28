@@ -2,13 +2,14 @@
   "id": 119464553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.74385,53.864342,10.74385,53.864342",
     "geom:latitude":53.864342,
     "geom:longitude":10.74385,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Gleisdreieck 42",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899041,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85899041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119464553,
-    "wof:lastmodified":1449041506,
+    "wof:lastmodified":1466243105,
     "wof:name":"Kraftfahrzeuge Technik Und Service Holger Nehring E. K.",
     "wof:parent_id":85899041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.74385,53.864342,10.74385,53.864342],
+  "bbox": [
+    10.74385,
+    53.864342,
+    10.74385,
+    53.864342
+],
   "geometry": {"coordinates":[10.74385,53.864342],"type":"Point"}
 }

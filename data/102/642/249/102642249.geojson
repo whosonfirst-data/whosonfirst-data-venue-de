@@ -2,13 +2,14 @@
   "id": 102642249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.71989,50.113632,8.71989,50.113632",
     "geom:latitude":50.113632,
     "geom:longitude":8.71989,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwedlerstr 6",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102642249,
-    "wof:lastmodified":1449067925,
+    "wof:lastmodified":1466214383,
     "wof:name":"J. Walter Thompson Gmbh & Co Kg",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.71989,50.113632,8.71989,50.113632],
+  "bbox": [
+    8.71989,
+    50.113632,
+    8.71989,
+    50.113632
+],
   "geometry": {"coordinates":[8.71989,50.113632],"type":"Point"}
 }

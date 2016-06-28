@@ -2,13 +2,14 @@
   "id": 102633599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.961008,48.750881,12.961008,48.750881",
     "geom:latitude":48.750881,
     "geom:longitude":12.961008,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Moos",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102633599,
-    "wof:lastmodified":1449070193,
+    "wof:lastmodified":1466214182,
     "wof:name":"P. Konrad",
     "wof:parent_id":101783041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.961008,48.750881,12.961008,48.750881],
+  "bbox": [
+    12.961008,
+    48.750881,
+    12.961008,
+    48.750881
+],
   "geometry": {"coordinates":[12.961008,48.750881],"type":"Point"}
 }

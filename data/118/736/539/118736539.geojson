@@ -2,13 +2,14 @@
   "id": 118736539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.223493,51.305569,12.223493,51.305569",
     "geom:latitude":51.305569,
     "geom:longitude":12.223493,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 22",
     "sg:city":"Markranst\u00e4dt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85899619
+        85633111,
+        85899619,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118736539,
-    "wof:lastmodified":1449054513,
+    "wof:lastmodified":1466225963,
     "wof:name":"Pflegedienst Engel Und Betreutes Wohnen",
     "wof:parent_id":85899619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.223493,51.305569,12.223493,51.305569],
+  "bbox": [
+    12.223493,
+    51.305569,
+    12.223493,
+    51.305569
+],
   "geometry": {"coordinates":[12.223493,51.305569],"type":"Point"}
 }

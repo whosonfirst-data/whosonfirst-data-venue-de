@@ -2,13 +2,14 @@
   "id": 336883169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.628691,50.934093,11.628691,50.934093",
     "geom:latitude":50.934093,
     "geom:longitude":11.628691,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenberger Str. 45",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336883169,
-    "wof:lastmodified":1448997776,
+    "wof:lastmodified":1466238809,
     "wof:name":"Heinrich Neukirchner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.628691,50.934093,11.628691,50.934093],
+  "bbox": [
+    11.628691,
+    50.934093,
+    11.628691,
+    50.934093
+],
   "geometry": {"coordinates":[11.628691,50.934093],"type":"Point"}
 }

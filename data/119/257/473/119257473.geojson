@@ -2,13 +2,14 @@
   "id": 119257473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.715959,51.022995,13.715959,51.022995",
     "geom:latitude":51.022995,
     "geom:longitude":13.715959,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Plauenscher Ring 42",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899075,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119257473,
-    "wof:lastmodified":1449041558,
+    "wof:lastmodified":1466234359,
     "wof:name":"Dr. Med. B\u00e4rbel Todt",
     "wof:parent_id":85899075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.715959,51.022995,13.715959,51.022995],
+  "bbox": [
+    13.715959,
+    51.022995,
+    13.715959,
+    51.022995
+],
   "geometry": {"coordinates":[13.715959,51.022995],"type":"Point"}
 }

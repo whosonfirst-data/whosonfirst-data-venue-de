@@ -2,13 +2,14 @@
   "id": 320018365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.545947,48.116283,12.545947,48.116283",
     "geom:latitude":48.116283,
     "geom:longitude":12.545947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenstr. 10",
     "sg:city":"Engelsberg",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320018365,
-    "wof:lastmodified":1449013121,
+    "wof:lastmodified":1466233753,
     "wof:name":"W. Bayer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.545947,48.116283,12.545947,48.116283],
+  "bbox": [
+    12.545947,
+    48.116283,
+    12.545947,
+    48.116283
+],
   "geometry": {"coordinates":[12.545947,48.116283],"type":"Point"}
 }

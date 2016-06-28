@@ -2,13 +2,14 @@
   "id": 320812663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.592398,48.132404,11.592398,48.132404",
     "geom:latitude":48.132404,
     "geom:longitude":11.592398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Preysingstr. 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320812663,
-    "wof:lastmodified":1449011363,
+    "wof:lastmodified":1466243215,
     "wof:name":"Eca",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.592398,48.132404,11.592398,48.132404],
+  "bbox": [
+    11.592398,
+    48.132404,
+    11.592398,
+    48.132404
+],
   "geometry": {"coordinates":[11.592398,48.132404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202814509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.41015,52.360531,13.41015,52.360531",
     "geom:latitude":52.360531,
     "geom:longitude":13.41015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Str. 74",
     "sg:city":"Gro\u00dfziethen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202814509,
-    "wof:lastmodified":1449060569,
+    "wof:lastmodified":1466221488,
     "wof:name":"Otto Breetz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.41015,52.360531,13.41015,52.360531],
+  "bbox": [
+    13.41015,
+    52.360531,
+    13.41015,
+    52.360531
+],
   "geometry": {"coordinates":[13.41015,52.360531],"type":"Point"}
 }

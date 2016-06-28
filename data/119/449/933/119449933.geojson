@@ -2,13 +2,14 @@
   "id": 119449933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.250125,52.431873,13.250125,52.431873",
     "geom:latitude":52.431873,
     "geom:longitude":13.250125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohenzollernstr. 27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119449933,
-    "wof:lastmodified":1449043342,
+    "wof:lastmodified":1466242649,
     "wof:name":"Kabkon Kabel- Konfektionierung Gmbh",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.250125,52.431873,13.250125,52.431873],
+  "bbox": [
+    13.250125,
+    52.431873,
+    13.250125,
+    52.431873
+],
   "geometry": {"coordinates":[13.250125,52.431873],"type":"Point"}
 }

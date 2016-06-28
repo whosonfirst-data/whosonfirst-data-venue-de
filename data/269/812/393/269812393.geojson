@@ -2,13 +2,14 @@
   "id": 269812393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.708966,52.366356,9.708966,52.366356",
     "geom:latitude":52.366356,
     "geom:longitude":9.708966,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brauhofstr. 9",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269812393,
-    "wof:lastmodified":1449036205,
+    "wof:lastmodified":1466228709,
     "wof:name":"Point-it Gmbh",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.708966,52.366356,9.708966,52.366356],
+  "bbox": [
+    9.708966,
+    52.366356,
+    9.708966,
+    52.366356
+],
   "geometry": {"coordinates":[9.708966,52.366356],"type":"Point"}
 }

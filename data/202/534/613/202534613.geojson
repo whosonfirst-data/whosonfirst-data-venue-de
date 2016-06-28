@@ -2,13 +2,14 @@
   "id": 202534613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.043451,52.436596,13.043451,52.436596",
     "geom:latitude":52.436596,
     "geom:longitude":13.043451,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lerchensteig 14",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202534613,
-    "wof:lastmodified":1449060772,
+    "wof:lastmodified":1466216314,
     "wof:name":"Bruno Broszeit",
     "wof:parent_id":85899675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.043451,52.436596,13.043451,52.436596],
+  "bbox": [
+    13.043451,
+    52.436596,
+    13.043451,
+    52.436596
+],
   "geometry": {"coordinates":[13.043451,52.436596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202845495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.538765,48.084995,11.538765,48.084995",
     "geom:latitude":48.084995,
     "geom:longitude":11.538765,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heilmannstr. 7a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202845495,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466222091,
     "wof:name":"Ingeborg Bergmann",
     "wof:parent_id":85899921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.538765,48.084995,11.538765,48.084995],
+  "bbox": [
+    11.538765,
+    48.084995,
+    11.538765,
+    48.084995
+],
   "geometry": {"coordinates":[11.538765,48.084995],"type":"Point"}
 }

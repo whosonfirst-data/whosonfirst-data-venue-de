@@ -2,13 +2,14 @@
   "id": 219998031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.969064,49.064091,8.969064,49.064091",
     "geom:latitude":49.064091,
     "geom:longitude":8.969064,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heuchelbergstr. 3",
     "sg:city":"Pfaffenhofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219998031,
-    "wof:lastmodified":1449071563,
+    "wof:lastmodified":1466230328,
     "wof:name":"Werner Winger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.969064,49.064091,8.969064,49.064091],
+  "bbox": [
+    8.969064,
+    49.064091,
+    8.969064,
+    49.064091
+],
   "geometry": {"coordinates":[8.969064,49.064091],"type":"Point"}
 }

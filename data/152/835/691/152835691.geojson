@@ -2,13 +2,14 @@
   "id": 152835691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.96019,35.175301,-89.96019,35.175301",
     "geom:latitude":35.175301,
     "geom:longitude":-89.96019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Troppaustrasse 2",
     "sg:city":"Brauschweig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826023,
+        85688701,
         85633793,
         101722645,
         102087213,
-        85688701
+        85826023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152835691,
-    "wof:lastmodified":1449044959,
+    "wof:lastmodified":1466227876,
     "wof:name":"Hk - Internet-auftritte Zu Pauschalpreisen",
     "wof:parent_id":85826023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.96019,35.175301,-89.96019,35.175301],
+  "bbox": [
+    -89.96019,
+    35.175301,
+    -89.96019,
+    35.175301
+],
   "geometry": {"coordinates":[-89.96019,35.175301],"type":"Point"}
 }

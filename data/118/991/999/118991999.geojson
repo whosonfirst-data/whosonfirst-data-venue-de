@@ -2,13 +2,14 @@
   "id": 118991999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.984904,53.455536,9.984904,53.455536",
     "geom:latitude":53.455536,
     "geom:longitude":9.984904,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalischerstr. 7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899035,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118991999,
-    "wof:lastmodified":1449053587,
+    "wof:lastmodified":1466239694,
     "wof:name":"Dieter Kr\u00fcck Architekt",
     "wof:parent_id":85899035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.984904,53.455536,9.984904,53.455536],
+  "bbox": [
+    9.984904,
+    53.455536,
+    9.984904,
+    53.455536
+],
   "geometry": {"coordinates":[9.984904,53.455536],"type":"Point"}
 }

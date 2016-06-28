@@ -2,13 +2,14 @@
   "id": 202903765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.136794,53.635468,10.136794,53.635468",
     "geom:latitude":53.635468,
     "geom:longitude":10.136794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saselheider Str. 75",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202903765,
-    "wof:lastmodified":1449060261,
+    "wof:lastmodified":1466223217,
     "wof:name":"Mar Consult Gmbh",
     "wof:parent_id":85898999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.136794,53.635468,10.136794,53.635468],
+  "bbox": [
+    10.136794,
+    53.635468,
+    10.136794,
+    53.635468
+],
   "geometry": {"coordinates":[10.136794,53.635468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203117055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.110859,53.657074,10.110859,53.657074",
     "geom:latitude":53.657074,
     "geom:longitude":10.110859,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saseler Chaussee 224b",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203117055,
-    "wof:lastmodified":1449026270,
+    "wof:lastmodified":1466215806,
     "wof:name":"B. Schulz",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.110859,53.657074,10.110859,53.657074],
+  "bbox": [
+    10.110859,
+    53.657074,
+    10.110859,
+    53.657074
+],
   "geometry": {"coordinates":[10.110859,53.657074],"type":"Point"}
 }

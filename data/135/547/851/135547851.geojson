@@ -2,13 +2,14 @@
   "id": 135547851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.738464,43.38332,-83.738464,43.38332",
     "geom:latitude":43.38332,
     "geom:longitude":-83.738464,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbr\u00fccken 54",
     "sg:city":"Gera",
     "sg:classifiers":[],
@@ -34,14 +35,20 @@
         }
     ],
     "wof:id":135547851,
-    "wof:lastmodified":1449021306,
+    "wof:lastmodified":1466235895,
     "wof:name":"Malik-bau Gmbh",
     "wof:parent_id":85688599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.738464,43.38332,-83.738464,43.38332],
-  "geometry": {"coordinates":[-83.738464,43.38332],"type":"Point"}
+  "bbox": [
+    -83.738464,
+    43.38332,
+    -83.738464,
+    43.38332
+],
+  "geometry": {"coordinates":[-83.73846399999999,43.38332],"type":"Point"}
 }

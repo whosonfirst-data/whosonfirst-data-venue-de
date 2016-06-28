@@ -2,13 +2,14 @@
   "id": 236618953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.005478,49.592571,11.005478,49.592571",
     "geom:latitude":49.592571,
     "geom:longitude":11.005478,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 23",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236618953,
-    "wof:lastmodified":1449003751,
+    "wof:lastmodified":1466230196,
     "wof:name":"Willy Und Ingrid Dorsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.005478,49.592571,11.005478,49.592571],
+  "bbox": [
+    11.005478,
+    49.592571,
+    11.005478,
+    49.592571
+],
   "geometry": {"coordinates":[11.005478,49.592571],"type":"Point"}
 }

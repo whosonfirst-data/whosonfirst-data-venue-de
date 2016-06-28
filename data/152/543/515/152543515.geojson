@@ -2,13 +2,14 @@
   "id": 152543515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.179585,48.763824,9.179585,48.763824",
     "geom:latitude":48.763824,
     "geom:longitude":9.179585,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neue Weinsteige 34",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152543515,
-    "wof:lastmodified":1449045206,
+    "wof:lastmodified":1466221198,
     "wof:name":"Fluvius Schiffsbetriebs Beteiligungs Gmbh",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.179585,48.763824,9.179585,48.763824],
+  "bbox": [
+    9.179585,
+    48.763824,
+    9.179585,
+    48.763824
+],
   "geometry": {"coordinates":[9.179585,48.763824],"type":"Point"}
 }

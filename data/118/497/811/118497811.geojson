@@ -2,13 +2,14 @@
   "id": 118497811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528606,52.029888,8.528606,52.029888",
     "geom:latitude":52.029888,
     "geom:longitude":8.528606,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00f6llenbecker Str. 33",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118497811,
-    "wof:lastmodified":1449054505,
+    "wof:lastmodified":1466218451,
     "wof:name":"Orga Flex Data System Gmbh",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528606,52.029888,8.528606,52.029888],
+  "bbox": [
+    8.528606,
+    52.029888,
+    8.528606,
+    52.029888
+],
   "geometry": {"coordinates":[8.528606,52.029888],"type":"Point"}
 }

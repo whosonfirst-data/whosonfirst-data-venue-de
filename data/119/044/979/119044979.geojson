@@ -2,13 +2,14 @@
   "id": 119044979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.916603,49.234451,6.916603,49.234451",
     "geom:latitude":49.234451,
     "geom:longitude":6.916603,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In der Sitters 23",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796213,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85796213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119044979,
-    "wof:lastmodified":1449042230,
+    "wof:lastmodified":1466214915,
     "wof:name":"Heinz Jacobs Architekt",
     "wof:parent_id":85796213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.916603,49.234451,6.916603,49.234451],
+  "bbox": [
+    6.916603,
+    49.234451,
+    6.916603,
+    49.234451
+],
   "geometry": {"coordinates":[6.916603,49.234451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152329575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.000034,49.233494,7.000034,49.233494",
     "geom:latitude":49.233494,
     "geom:longitude":7.000034,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfherzog-Friedrich-Str. 35",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152329575,
-    "wof:lastmodified":1449045584,
+    "wof:lastmodified":1466216769,
     "wof:name":"Pmc Air-tec Gmbh",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.000034,49.233494,7.000034,49.233494],
+  "bbox": [
+    7.000034,
+    49.233494,
+    7.000034,
+    49.233494
+],
   "geometry": {"coordinates":[7.000034,49.233494],"type":"Point"}
 }

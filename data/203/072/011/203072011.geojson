@@ -2,13 +2,14 @@
   "id": 203072011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.883098,48.344906,7.883098,48.344906",
     "geom:latitude":48.344906,
     "geom:longitude":7.883098,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistr. 5",
     "sg:city":"Lahr",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203072011,
-    "wof:lastmodified":1449025947,
+    "wof:lastmodified":1466215020,
     "wof:name":"Harry Weis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.883098,48.344906,7.883098,48.344906],
+  "bbox": [
+    7.883098,
+    48.344906,
+    7.883098,
+    48.344906
+],
   "geometry": {"coordinates":[7.883098,48.344906],"type":"Point"}
 }

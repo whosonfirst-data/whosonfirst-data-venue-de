@@ -2,13 +2,14 @@
   "id": 303512079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.175173,49.731129,12.175173,49.731129",
     "geom:latitude":49.731129,
     "geom:longitude":12.175173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Dietl-Str. 6",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303512079,
-    "wof:lastmodified":1448999899,
+    "wof:lastmodified":1466236858,
     "wof:name":"Franz Kollerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.175173,49.731129,12.175173,49.731129],
+  "bbox": [
+    12.175173,
+    49.731129,
+    12.175173,
+    49.731129
+],
   "geometry": {"coordinates":[12.175173,49.731129],"type":"Point"}
 }

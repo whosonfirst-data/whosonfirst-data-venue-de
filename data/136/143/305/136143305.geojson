@@ -2,13 +2,14 @@
   "id": 136143305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.52841,52.652531,13.52841,52.652531",
     "geom:latitude":52.652531,
     "geom:longitude":13.52841,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vierwaldst\u00e4tter Str. 64",
     "sg:city":"Schwanebeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907701,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85907701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136143305,
-    "wof:lastmodified":1449076022,
+    "wof:lastmodified":1466218543,
     "wof:name":"Vws Fassaden",
     "wof:parent_id":85907701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.52841,52.652531,13.52841,52.652531],
+  "bbox": [
+    13.52841,
+    52.652531,
+    13.52841,
+    52.652531
+],
   "geometry": {"coordinates":[13.52841,52.652531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202525449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.148133,49.800861,12.148133,49.800861",
     "geom:latitude":49.800861,
     "geom:longitude":12.148133,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Graf-Str 5",
     "sg:city":"Windischeschenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202525449,
-    "wof:lastmodified":1449062138,
+    "wof:lastmodified":1466216129,
     "wof:name":"K\u00e4ck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.148133,49.800861,12.148133,49.800861],
+  "bbox": [
+    12.148133,
+    49.800861,
+    12.148133,
+    49.800861
+],
   "geometry": {"coordinates":[12.148133,49.800861],"type":"Point"}
 }

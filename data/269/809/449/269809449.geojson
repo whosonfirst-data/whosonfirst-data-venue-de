@@ -2,13 +2,14 @@
   "id": 269809449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.579342,48.809311,9.579342,48.809311",
     "geom:latitude":48.809311,
     "geom:longitude":9.579342,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langen\u00e4cker 1",
     "sg:city":"Urbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269809449,
-    "wof:lastmodified":1449038415,
+    "wof:lastmodified":1466228640,
     "wof:name":"Werner Rube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.579342,48.809311,9.579342,48.809311],
+  "bbox": [
+    9.579342,
+    48.809311,
+    9.579342,
+    48.809311
+],
   "geometry": {"coordinates":[9.579342,48.809311],"type":"Point"}
 }

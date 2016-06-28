@@ -2,13 +2,14 @@
   "id": 220020753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.633851,48.873672,9.633851,48.873672",
     "geom:latitude":48.873672,
     "geom:longitude":9.633851,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schorndorfer Str. 25",
     "sg:city":"Welzheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220020753,
-    "wof:lastmodified":1449074394,
+    "wof:lastmodified":1466214990,
     "wof:name":"Cafe Am Feuersee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.633851,48.873672,9.633851,48.873672],
+  "bbox": [
+    9.633851,
+    48.873672,
+    9.633851,
+    48.873672
+],
   "geometry": {"coordinates":[9.633851,48.873672],"type":"Point"}
 }

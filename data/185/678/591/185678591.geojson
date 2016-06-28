@@ -2,13 +2,14 @@
   "id": 185678591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.316507,52.472569,13.316507,52.472569",
     "geom:latitude":52.472569,
     "geom:longitude":13.316507,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcdesheimer Platz 11",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185678591,
-    "wof:lastmodified":1449007402,
+    "wof:lastmodified":1466213926,
     "wof:name":"Marie-luise Hurtig",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.316507,52.472569,13.316507,52.472569],
+  "bbox": [
+    13.316507,
+    52.472569,
+    13.316507,
+    52.472569
+],
   "geometry": {"coordinates":[13.316507,52.472569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252963769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.260145,51.40411,7.260145,51.40411",
     "geom:latitude":51.40411,
     "geom:longitude":7.260145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcsbergstr. 63",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252963769,
-    "wof:lastmodified":1449005521,
+    "wof:lastmodified":1466223907,
     "wof:name":"Heinrich Rahmann",
     "wof:parent_id":85795117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.260145,51.40411,7.260145,51.40411],
+  "bbox": [
+    7.260145,
+    51.40411,
+    7.260145,
+    51.40411
+],
   "geometry": {"coordinates":[7.260145,51.40411],"type":"Point"}
 }

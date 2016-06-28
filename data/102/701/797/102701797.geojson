@@ -2,13 +2,14 @@
   "id": 102701797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.480348,49.49765,8.480348,49.49765",
     "geom:latitude":49.49765,
     "geom:longitude":8.480348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange R\u00f6tterstr 50",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796039,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85796039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102701797,
-    "wof:lastmodified":1449069683,
+    "wof:lastmodified":1466216191,
     "wof:name":"Laboratorium Mieth & Co Gmbh",
     "wof:parent_id":85796039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.480348,49.49765,8.480348,49.49765],
+  "bbox": [
+    8.480348,
+    49.49765,
+    8.480348,
+    49.49765
+],
   "geometry": {"coordinates":[8.480348,49.49765],"type":"Point"}
 }

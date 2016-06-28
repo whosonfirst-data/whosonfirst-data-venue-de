@@ -2,13 +2,14 @@
   "id": 119212961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.072188,51.045158,7.072188,51.045158",
     "geom:latitude":51.045158,
     "geom:longitude":7.072188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Teltower Str. 18 b",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063721,
-        85633111,
         85682513,
-        85795509
+        85633111,
+        85795509,
+        102063721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119212961,
-    "wof:lastmodified":1449042611,
+    "wof:lastmodified":1466229974,
     "wof:name":"Kath. \u00d6ffentl. Bibliothek St. Matthias",
     "wof:parent_id":85795509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.072188,51.045158,7.072188,51.045158],
+  "bbox": [
+    7.072188,
+    51.045158,
+    7.072188,
+    51.045158
+],
   "geometry": {"coordinates":[7.072188,51.045158],"type":"Point"}
 }

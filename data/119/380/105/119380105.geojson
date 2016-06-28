@@ -2,13 +2,14 @@
   "id": 119380105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.39414,52.526344,11.39414,52.526344",
     "geom:latitude":52.526344,
     "geom:longitude":11.39414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rudolf-Breitscheid-Str. 10",
     "sg:city":"Gardelegen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119380105,
-    "wof:lastmodified":1449042066,
+    "wof:lastmodified":1466241157,
     "wof:name":"Torsten Zobel",
     "wof:parent_id":101819875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.39414,52.526344,11.39414,52.526344],
+  "bbox": [
+    11.39414,
+    52.526344,
+    11.39414,
+    52.526344
+],
   "geometry": {"coordinates":[11.39414,52.526344],"type":"Point"}
 }

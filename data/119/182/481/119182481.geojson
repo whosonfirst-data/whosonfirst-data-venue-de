@@ -2,13 +2,14 @@
   "id": 119182481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.03184,50.988152,11.03184,50.988152",
     "geom:latitude":50.988152,
     "geom:longitude":11.03184,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bebelstr. 19",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119182481,
-    "wof:lastmodified":1449042565,
+    "wof:lastmodified":1466227169,
     "wof:name":"Kubens Ingenieurges. Mbh",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.03184,50.988152,11.03184,50.988152],
+  "bbox": [
+    11.03184,
+    50.988152,
+    11.03184,
+    50.988152
+],
   "geometry": {"coordinates":[11.03184,50.988152],"type":"Point"}
 }

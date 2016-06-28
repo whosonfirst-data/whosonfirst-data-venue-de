@@ -2,13 +2,14 @@
   "id": 336775801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.945757,51.451611,11.945757,51.451611",
     "geom:latitude":51.451611,
     "geom:longitude":11.945757,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcricher Str. 24",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336775801,
-    "wof:lastmodified":1448997730,
+    "wof:lastmodified":1466237057,
     "wof:name":"Heinz Riffert",
     "wof:parent_id":85905697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.945757,51.451611,11.945757,51.451611],
+  "bbox": [
+    11.945757,
+    51.451611,
+    11.945757,
+    51.451611
+],
   "geometry": {"coordinates":[11.945757,51.451611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119051647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.726803,52.385242,9.726803,52.385242",
     "geom:latitude":52.385242,
     "geom:longitude":9.726803,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulstr. 11",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899535,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119051647,
-    "wof:lastmodified":1449042504,
+    "wof:lastmodified":1466215549,
     "wof:name":"Herbert Bodenstab Architekt",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.726803,52.385242,9.726803,52.385242],
+  "bbox": [
+    9.726803,
+    52.385242,
+    9.726803,
+    52.385242
+],
   "geometry": {"coordinates":[9.726803,52.385242],"type":"Point"}
 }

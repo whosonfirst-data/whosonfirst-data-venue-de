@@ -2,13 +2,14 @@
   "id": 303913699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.15599,48.775009,9.15599,48.775009",
     "geom:latitude":48.775009,
     "geom:longitude":9.15599,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwabstr. 66",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303913699,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466241347,
     "wof:name":"Holzconnection",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.15599,48.775009,9.15599,48.775009],
+  "bbox": [
+    9.15599,
+    48.775009,
+    9.15599,
+    48.775009
+],
   "geometry": {"coordinates":[9.15599,48.775009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152573515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.733364,52.416157,9.733364,52.416157",
     "geom:latitude":52.416157,
     "geom:longitude":9.733364,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vahrenwalder Str. 269 A",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152573515,
-    "wof:lastmodified":1449047712,
+    "wof:lastmodified":1466221910,
     "wof:name":"Meunier Geb\u00e4udeserviceges. Mbh",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.733364,52.416157,9.733364,52.416157],
+  "bbox": [
+    9.733364,
+    52.416157,
+    9.733364,
+    52.416157
+],
   "geometry": {"coordinates":[9.733364,52.416157],"type":"Point"}
 }

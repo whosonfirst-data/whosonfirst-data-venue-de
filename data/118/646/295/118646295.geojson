@@ -2,13 +2,14 @@
   "id": 118646295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.229056,52.440418,13.229056,52.440418",
     "geom:latitude":52.440418,
     "geom:longitude":13.229056,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bogotastr. 15",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118646295,
-    "wof:lastmodified":1449053110,
+    "wof:lastmodified":1466220896,
     "wof:name":"Haus Mellinger Altenheim Gmbh",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.229056,52.440418,13.229056,52.440418],
+  "bbox": [
+    13.229056,
+    52.440418,
+    13.229056,
+    52.440418
+],
   "geometry": {"coordinates":[13.229056,52.440418],"type":"Point"}
 }

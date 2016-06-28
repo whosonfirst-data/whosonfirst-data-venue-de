@@ -2,13 +2,14 @@
   "id": 118971831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.699843,50.095921,8.699843,50.095921",
     "geom:latitude":50.095921,
     "geom:longitude":8.699843,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gem\u00fcndener Str. 38",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
-        85796369
+        85633111,
+        85796369,
+        102063589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118971831,
-    "wof:lastmodified":1449053863,
+    "wof:lastmodified":1466238549,
     "wof:name":"Alex Hoffmann Architekt",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.699843,50.095921,8.699843,50.095921],
+  "bbox": [
+    8.699843,
+    50.095921,
+    8.699843,
+    50.095921
+],
   "geometry": {"coordinates":[8.699843,50.095921],"type":"Point"}
 }

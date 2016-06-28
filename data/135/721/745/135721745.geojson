@@ -2,13 +2,14 @@
   "id": 135721745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.381745,50.07069,8.381745,50.07069",
     "geom:latitude":50.07069,
     "geom:longitude":8.381745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hessenstr. 25",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135721745,
-    "wof:lastmodified":1449023985,
+    "wof:lastmodified":1466242817,
     "wof:name":"Wpl Bautr\u00e4ger Gmbh",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.381745,50.07069,8.381745,50.07069],
+  "bbox": [
+    8.381745,
+    50.07069,
+    8.381745,
+    50.07069
+],
   "geometry": {"coordinates":[8.381745,50.07069],"type":"Point"}
 }

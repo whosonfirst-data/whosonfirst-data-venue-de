@@ -2,13 +2,14 @@
   "id": 135318189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.508641,50.370003,11.508641,50.370003",
     "geom:latitude":50.370003,
     "geom:longitude":11.508641,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenstr. 27a",
     "sg:city":"Nordhalben",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135318189,
-    "wof:lastmodified":1449021658,
+    "wof:lastmodified":1466215345,
     "wof:name":"Thomas Daum",
     "wof:parent_id":101824429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.508641,50.370003,11.508641,50.370003],
+  "bbox": [
+    11.508641,
+    50.370003,
+    11.508641,
+    50.370003
+],
   "geometry": {"coordinates":[11.508641,50.370003],"type":"Point"}
 }

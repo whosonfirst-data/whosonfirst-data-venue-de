@@ -2,13 +2,14 @@
   "id": 118811145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.057846,50.884499,7.057846,50.884499",
     "geom:latitude":50.884499,
     "geom:longitude":7.057846,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermannstr. 12",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795851,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118811145,
-    "wof:lastmodified":1449053823,
+    "wof:lastmodified":1466230405,
     "wof:name":"Damian-apotheke",
     "wof:parent_id":85795851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.057846,50.884499,7.057846,50.884499],
+  "bbox": [
+    7.057846,
+    50.884499,
+    7.057846,
+    50.884499
+],
   "geometry": {"coordinates":[7.057846,50.884499],"type":"Point"}
 }

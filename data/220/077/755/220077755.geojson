@@ -2,13 +2,14 @@
   "id": 220077755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.370544,51.338066,12.370544,51.338066",
     "geom:latitude":51.338066,
     "geom:longitude":12.370544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Schill-Str. 1",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220077755,
-    "wof:lastmodified":1449074159,
+    "wof:lastmodified":1466216095,
     "wof:name":"Cafe Paul",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.370544,51.338066,12.370544,51.338066],
+  "bbox": [
+    12.370544,
+    51.338066,
+    12.370544,
+    51.338066
+],
   "geometry": {"coordinates":[12.370544,51.338066],"type":"Point"}
 }

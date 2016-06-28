@@ -2,13 +2,14 @@
   "id": 119065627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.605207,48.112499,11.605207,48.112499",
     "geom:latitude":48.112499,
     "geom:longitude":11.605207,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Budapester Str. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899199,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119065627,
-    "wof:lastmodified":1449043535,
+    "wof:lastmodified":1466216896,
     "wof:name":"Johann Kott Architekt",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.605207,48.112499,11.605207,48.112499],
+  "bbox": [
+    11.605207,
+    48.112499,
+    11.605207,
+    48.112499
+],
   "geometry": {"coordinates":[11.605207,48.112499],"type":"Point"}
 }

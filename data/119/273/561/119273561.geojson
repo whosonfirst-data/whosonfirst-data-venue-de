@@ -2,13 +2,14 @@
   "id": 119273561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.986666,51.512138,11.986666,51.512138",
     "geom:latitude":51.512138,
     "geom:longitude":11.986666,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feiningerstr. 1",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063785,
-        85633111,
         85682519,
-        85900161
+        85633111,
+        85900161,
+        102063785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119273561,
-    "wof:lastmodified":1449042220,
+    "wof:lastmodified":1466235880,
     "wof:name":"Prof. Dr. Med. Fritz Taege",
     "wof:parent_id":85900161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.986666,51.512138,11.986666,51.512138],
+  "bbox": [
+    11.986666,
+    51.512138,
+    11.986666,
+    51.512138
+],
   "geometry": {"coordinates":[11.986666,51.512138],"type":"Point"}
 }

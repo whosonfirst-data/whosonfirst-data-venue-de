@@ -2,13 +2,14 @@
   "id": 152815161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96344,40.765682,-73.96344,40.765682",
     "geom:latitude":40.765682,
     "geom:longitude":-73.96344,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 66th Street",
     "sg:city":"New York",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"10021",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865691,
+        85688543,
         85633793,
         85977539,
         102081863,
-        85688543,
+        85865691,
         85865577
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152815161,
-    "wof:lastmodified":1449046546,
+    "wof:lastmodified":1466227398,
     "wof:name":"Ferienhaus In Der Provence - Vom Besitzer Mieten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.96344,40.765682,-73.96344,40.765682],
-  "geometry": {"coordinates":[-73.96344,40.765682],"type":"Point"}
+  "bbox": [
+    -73.96344,
+    40.765682,
+    -73.96344,
+    40.765682
+],
+  "geometry": {"coordinates":[-73.96344000000001,40.765682],"type":"Point"}
 }

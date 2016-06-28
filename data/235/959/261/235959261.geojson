@@ -2,13 +2,14 @@
   "id": 235959261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.346453,51.4907,7.346453,51.4907",
     "geom:latitude":51.4907,
     "geom:longitude":7.346453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Somborner Str. 118",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":235959261,
-    "wof:lastmodified":1449008576,
+    "wof:lastmodified":1466218018,
     "wof:name":"Peter Walter",
     "wof:parent_id":85795121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.346453,51.4907,7.346453,51.4907],
+  "bbox": [
+    7.346453,
+    51.4907,
+    7.346453,
+    51.4907
+],
   "geometry": {"coordinates":[7.346453,51.4907],"type":"Point"}
 }

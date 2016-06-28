@@ -2,13 +2,14 @@
   "id": 203004793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.148015,54.449818,11.148015,54.449818",
     "geom:latitude":54.449818,
     "geom:longitude":11.148015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Maikoppel 7",
     "sg:city":"Landkirchen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203004793,
-    "wof:lastmodified":1449025608,
+    "wof:lastmodified":1466213807,
     "wof:name":"G. Kirchner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.148015,54.449818,11.148015,54.449818],
+  "bbox": [
+    11.148015,
+    54.449818,
+    11.148015,
+    54.449818
+],
   "geometry": {"coordinates":[11.148015,54.449818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136179161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.272695,48.818741,9.272695,48.818741",
     "geom:latitude":48.818741,
     "geom:longitude":9.272695,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 146",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136179161,
-    "wof:lastmodified":1449076134,
+    "wof:lastmodified":1466220127,
     "wof:name":"Andrea Belser",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.272695,48.818741,9.272695,48.818741],
+  "bbox": [
+    9.272695,
+    48.818741,
+    9.272695,
+    48.818741
+],
   "geometry": {"coordinates":[9.272695,48.818741],"type":"Point"}
 }

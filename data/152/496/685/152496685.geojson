@@ -2,13 +2,14 @@
   "id": 152496685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.010798,53.579041,10.010798,53.579041",
     "geom:latitude":53.579041,
     "geom:longitude":10.010798,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6rnerstr. 18",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152496685,
-    "wof:lastmodified":1449048220,
+    "wof:lastmodified":1466220162,
     "wof:name":"Kep Beteiligungsges. Mbh",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.010798,53.579041,10.010798,53.579041],
+  "bbox": [
+    10.010798,
+    53.579041,
+    10.010798,
+    53.579041
+],
   "geometry": {"coordinates":[10.010798,53.579041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135330033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.30807,50.352089,9.30807,50.352089",
     "geom:latitude":50.352089,
     "geom:longitude":9.30807,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 23",
     "sg:city":"Birstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135330033,
-    "wof:lastmodified":1449022515,
+    "wof:lastmodified":1466216346,
     "wof:name":"Wolfgang Naumann",
     "wof:parent_id":101812163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.30807,50.352089,9.30807,50.352089],
+  "bbox": [
+    9.30807,
+    50.352089,
+    9.30807,
+    50.352089
+],
   "geometry": {"coordinates":[9.30807,50.352089],"type":"Point"}
 }

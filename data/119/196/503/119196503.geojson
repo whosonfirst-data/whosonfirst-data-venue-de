@@ -2,13 +2,14 @@
   "id": 119196503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.399036,52.498543,13.399036,52.498543",
     "geom:latitude":52.498543,
     "geom:longitude":13.399036,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gitschiner Str. 97",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119196503,
-    "wof:lastmodified":1449041407,
+    "wof:lastmodified":1466228461,
     "wof:name":"Deutsches Patentamt",
     "wof:parent_id":101748799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.399036,52.498543,13.399036,52.498543],
+  "bbox": [
+    13.399036,
+    52.498543,
+    13.399036,
+    52.498543
+],
   "geometry": {"coordinates":[13.399036,52.498543],"type":"Point"}
 }

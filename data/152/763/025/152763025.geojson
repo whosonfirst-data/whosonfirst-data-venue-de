@@ -2,13 +2,14 @@
   "id": 152763025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.56317,48.13921,11.56317,48.13921",
     "geom:latitude":48.13921,
     "geom:longitude":11.56317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayerstrasse 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152763025,
-    "wof:lastmodified":1449048889,
+    "wof:lastmodified":1466226172,
     "wof:name":"Burghardt Solution Team Gmbh",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.56317,48.13921,11.56317,48.13921],
+  "bbox": [
+    11.56317,
+    48.13921,
+    11.56317,
+    48.13921
+],
   "geometry": {"coordinates":[11.56317,48.13921],"type":"Point"}
 }

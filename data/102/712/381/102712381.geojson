@@ -2,13 +2,14 @@
   "id": 102712381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.57706,49.538361,8.57706,49.538361",
     "geom:latitude":49.538361,
     "geom:longitude":8.57706,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Viernheim",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,10 +17,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":102712381,
-    "wof:lastmodified":1449068793,
+    "wof:lastmodified":1466216495,
     "wof:name":"Marion Helt",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.57706,49.538361,8.57706,49.538361],
+  "bbox": [
+    8.57706,
+    49.538361,
+    8.57706,
+    49.538361
+],
   "geometry": {"coordinates":[8.57706,49.538361],"type":"Point"}
 }

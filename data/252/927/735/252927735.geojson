@@ -2,13 +2,14 @@
   "id": 252927735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.23239,51.008629,9.23239,51.008629",
     "geom:latitude":51.008629,
     "geom:longitude":9.23239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borkener Str. 6",
     "sg:city":"Neuental",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252927735,
-    "wof:lastmodified":1449006399,
+    "wof:lastmodified":1466223245,
     "wof:name":"Heinrich Krug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.23239,51.008629,9.23239,51.008629],
+  "bbox": [
+    9.23239,
+    51.008629,
+    9.23239,
+    51.008629
+],
   "geometry": {"coordinates":[9.23239,51.008629],"type":"Point"}
 }

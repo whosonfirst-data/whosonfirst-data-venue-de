@@ -2,13 +2,14 @@
   "id": 220001845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.10148,48.783344,10.10148,48.783344",
     "geom:latitude":48.783344,
     "geom:longitude":10.10148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Drei\u00dfentalstr. 23",
     "sg:city":"Oberkochen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220001845,
-    "wof:lastmodified":1449074225,
+    "wof:lastmodified":1466214638,
     "wof:name":"Billard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.10148,48.783344,10.10148,48.783344],
+  "bbox": [
+    10.10148,
+    48.783344,
+    10.10148,
+    48.783344
+],
   "geometry": {"coordinates":[10.10148,48.783344],"type":"Point"}
 }

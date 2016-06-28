@@ -2,13 +2,14 @@
   "id": 135358885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.012785,53.951801,9.012785,53.951801",
     "geom:latitude":53.951801,
     "geom:longitude":9.012785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcderstr. 3",
     "sg:city":"Marne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135358885,
-    "wof:lastmodified":1449022270,
+    "wof:lastmodified":1466218877,
     "wof:name":"Wandmaker",
     "wof:parent_id":101806805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.012785,53.951801,9.012785,53.951801],
+  "bbox": [
+    9.012785,
+    53.951801,
+    9.012785,
+    53.951801
+],
   "geometry": {"coordinates":[9.012785,53.951801],"type":"Point"}
 }

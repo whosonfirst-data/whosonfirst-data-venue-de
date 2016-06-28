@@ -2,13 +2,14 @@
   "id": 119000377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.448921,51.347263,9.448921,51.347263",
     "geom:latitude":51.347263,
     "geom:longitude":9.448921,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiefernweg 22",
     "sg:city":"Vellmar",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900201,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85900201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119000377,
-    "wof:lastmodified":1449041246,
+    "wof:lastmodified":1466213089,
     "wof:name":"Edelhard Theil Architekt",
     "wof:parent_id":85900201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.448921,51.347263,9.448921,51.347263],
+  "bbox": [
+    9.448921,
+    51.347263,
+    9.448921,
+    51.347263
+],
   "geometry": {"coordinates":[9.448921,51.347263],"type":"Point"}
 }

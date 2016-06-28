@@ -2,13 +2,14 @@
   "id": 119401603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.704506,51.087029,13.704506,51.087029",
     "geom:latitude":51.087029,
     "geom:longitude":13.704506,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Veteranenstr. 2",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899901,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119401603,
-    "wof:lastmodified":1449043129,
+    "wof:lastmodified":1466241554,
     "wof:name":"Hans-j\u00fcrgen Schwarz",
     "wof:parent_id":85899901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.704506,51.087029,13.704506,51.087029],
+  "bbox": [
+    13.704506,
+    51.087029,
+    13.704506,
+    51.087029
+],
   "geometry": {"coordinates":[13.704506,51.087029],"type":"Point"}
 }

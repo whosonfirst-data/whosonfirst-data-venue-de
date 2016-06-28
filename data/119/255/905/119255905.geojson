@@ -2,13 +2,14 @@
   "id": 119255905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.545196,52.52388,13.545196,52.52388",
     "geom:latitude":52.52388,
     "geom:longitude":13.545196,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marchwitzastr. 48",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905651,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119255905,
-    "wof:lastmodified":1449042031,
+    "wof:lastmodified":1466234180,
     "wof:name":"Dr. Helmut Koch",
     "wof:parent_id":85905651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.545196,52.52388,13.545196,52.52388],
+  "bbox": [
+    13.545196,
+    52.52388,
+    13.545196,
+    52.52388
+],
   "geometry": {"coordinates":[13.545196,52.52388],"type":"Point"}
 }

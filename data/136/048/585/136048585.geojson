@@ -2,13 +2,14 @@
   "id": 136048585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.819983,50.913597,6.819983,50.913597",
     "geom:latitude":50.913597,
     "geom:longitude":6.819983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elisabethstr.8",
     "sg:city":"Frechen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063709,
-        85633111,
         85682513,
-        85795937
+        85633111,
+        85795937,
+        102063709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136048585,
-    "wof:lastmodified":1449075374,
+    "wof:lastmodified":1466214352,
     "wof:name":"Dimension Textil",
     "wof:parent_id":85795937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.819983,50.913597,6.819983,50.913597],
+  "bbox": [
+    6.819983,
+    50.913597,
+    6.819983,
+    50.913597
+],
   "geometry": {"coordinates":[6.819983,50.913597],"type":"Point"}
 }

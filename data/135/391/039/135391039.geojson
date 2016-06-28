@@ -2,13 +2,14 @@
   "id": 135391039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.552673,34.498363,-91.552673,34.498363",
     "geom:latitude":34.498363,
     "geom:longitude":-91.552673,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr 31::",
     "sg:city":"Kernen-Rommelshausen",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"07053",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838089,
+        85688549,
         85633793,
         85919671,
         102082495,
-        85688549
+        85838089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135391039,
-    "wof:lastmodified":1449022941,
+    "wof:lastmodified":1466222108,
     "wof:name":"Kfs Kabelfernsehen Stuttgart Gmbh",
     "wof:parent_id":85838089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.552673,34.498363,-91.552673,34.498363],
+  "bbox": [
+    -91.552673,
+    34.498363,
+    -91.552673,
+    34.498363
+],
   "geometry": {"coordinates":[-91.552673,34.498363],"type":"Point"}
 }

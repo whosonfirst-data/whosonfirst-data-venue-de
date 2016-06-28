@@ -2,13 +2,14 @@
   "id": 152210233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.568252,51.339417,6.568252,51.339417",
     "geom:latitude":51.339417,
     "geom:longitude":6.568252,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leyentalstr. 84",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864277,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85864277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152210233,
-    "wof:lastmodified":1449045881,
+    "wof:lastmodified":1466214263,
     "wof:name":"R. Clemens",
     "wof:parent_id":85864277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.568252,51.339417,6.568252,51.339417],
+  "bbox": [
+    6.568252,
+    51.339417,
+    6.568252,
+    51.339417
+],
   "geometry": {"coordinates":[6.568252,51.339417],"type":"Point"}
 }

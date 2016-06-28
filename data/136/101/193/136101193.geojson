@@ -2,13 +2,14 @@
   "id": 136101193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.869295,48.342915,10.869295,48.342915",
     "geom:latitude":48.342915,
     "geom:longitude":10.869295,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bgm.-Aurnhammer-Strasse 25",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899931,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136101193,
-    "wof:lastmodified":1449075615,
+    "wof:lastmodified":1466216810,
     "wof:name":"Otto - Bestellshop",
     "wof:parent_id":85899931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.869295,48.342915,10.869295,48.342915],
+  "bbox": [
+    10.869295,
+    48.342915,
+    10.869295,
+    48.342915
+],
   "geometry": {"coordinates":[10.869295,48.342915],"type":"Point"}
 }

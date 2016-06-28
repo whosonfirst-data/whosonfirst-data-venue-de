@@ -2,13 +2,14 @@
   "id": 270107131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.963183,53.588871,9.963183,53.588871",
     "geom:latitude":53.588871,
     "geom:longitude":9.963183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Veilchenweg 25 a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270107131,
-    "wof:lastmodified":1449008672,
+    "wof:lastmodified":1466223901,
     "wof:name":"K. Petersen",
     "wof:parent_id":85899703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.963183,53.588871,9.963183,53.588871],
+  "bbox": [
+    9.963183,
+    53.588871,
+    9.963183,
+    53.588871
+],
   "geometry": {"coordinates":[9.963183,53.588871],"type":"Point"}
 }

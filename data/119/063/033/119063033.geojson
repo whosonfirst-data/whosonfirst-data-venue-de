@@ -2,13 +2,14 @@
   "id": 119063033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.366998,49.029491,8.366998,49.029491",
     "geom:latitude":49.029491,
     "geom:longitude":8.366998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maxburgweg 8",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063385,
-        85633111,
         85682567,
-        85796067
+        85633111,
+        85796067,
+        102063385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119063033,
-    "wof:lastmodified":1449041082,
+    "wof:lastmodified":1466216647,
     "wof:name":"Jakob Schmidt Architekt",
     "wof:parent_id":85796067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.366998,49.029491,8.366998,49.029491],
+  "bbox": [
+    8.366998,
+    49.029491,
+    8.366998,
+    49.029491
+],
   "geometry": {"coordinates":[8.366998,49.029491],"type":"Point"}
 }

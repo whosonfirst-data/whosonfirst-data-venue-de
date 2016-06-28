@@ -2,13 +2,14 @@
   "id": 152572715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.139808,54.279362,10.139808,54.279362",
     "geom:latitude":54.279362,
     "geom:longitude":10.139808,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Saal 2",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064125,
-        85633111,
         85682517,
-        85899913
+        85633111,
+        85899913,
+        102064125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152572715,
-    "wof:lastmodified":1449047134,
+    "wof:lastmodified":1466221885,
     "wof:name":"24 Sieben Produktionen Tv-service- Und",
     "wof:parent_id":85899913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.139808,54.279362,10.139808,54.279362],
+  "bbox": [
+    10.139808,
+    54.279362,
+    10.139808,
+    54.279362
+],
   "geometry": {"coordinates":[10.139808,54.279362],"type":"Point"}
 }

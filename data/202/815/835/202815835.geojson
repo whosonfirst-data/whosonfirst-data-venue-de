@@ -2,13 +2,14 @@
   "id": 202815835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.735647,51.791504,11.735647,51.791504",
     "geom:latitude":51.791504,
     "geom:longitude":11.735647,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waisenhausstr. 7",
     "sg:city":"Bernburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202815835,
-    "wof:lastmodified":1449061358,
+    "wof:lastmodified":1466221512,
     "wof:name":"Otto Wolter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.735647,51.791504,11.735647,51.791504],
+  "bbox": [
+    11.735647,
+    51.791504,
+    11.735647,
+    51.791504
+],
   "geometry": {"coordinates":[11.735647,51.791504],"type":"Point"}
 }

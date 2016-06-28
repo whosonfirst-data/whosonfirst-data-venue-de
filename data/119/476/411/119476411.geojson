@@ -2,13 +2,14 @@
   "id": 119476411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402836,49.457783,8.402836,49.457783",
     "geom:latitude":49.457783,
     "geom:longitude":8.402836,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maudacher Str. 283",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862839,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85862839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119476411,
-    "wof:lastmodified":1449041849,
+    "wof:lastmodified":1466243218,
     "wof:name":"Otto Kazenmaier Gmbh & Co. Kg",
     "wof:parent_id":85862839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402836,49.457783,8.402836,49.457783],
+  "bbox": [
+    8.402836,
+    49.457783,
+    8.402836,
+    49.457783
+],
   "geometry": {"coordinates":[8.402836,49.457783],"type":"Point"}
 }

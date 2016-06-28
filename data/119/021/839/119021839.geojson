@@ -2,13 +2,14 @@
   "id": 119021839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.109483,53.661037,10.109483,53.661037",
     "geom:latitude":53.661037,
     "geom:longitude":10.109483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Melissenweg 25",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899975,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119021839,
-    "wof:lastmodified":1449042554,
+    "wof:lastmodified":1466234011,
     "wof:name":"Gert Franck Architekt",
     "wof:parent_id":85899975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.109483,53.661037,10.109483,53.661037],
+  "bbox": [
+    10.109483,
+    53.661037,
+    10.109483,
+    53.661037
+],
   "geometry": {"coordinates":[10.109483,53.661037],"type":"Point"}
 }

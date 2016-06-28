@@ -2,13 +2,14 @@
   "id": 102629093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.053509,53.629436,10.053509,53.629436",
     "geom:latitude":53.629436,
     "geom:longitude":10.053509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vor dem Berge 16",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898949,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102629093,
-    "wof:lastmodified":1449069623,
+    "wof:lastmodified":1466214044,
     "wof:name":"Gustav-g. Diekmann Gmbh",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.053509,53.629436,10.053509,53.629436],
+  "bbox": [
+    10.053509,
+    53.629436,
+    10.053509,
+    53.629436
+],
   "geometry": {"coordinates":[10.053509,53.629436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202741367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.485143,48.090363,11.485143,48.090363",
     "geom:latitude":48.090363,
     "geom:longitude":11.485143,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurner Str. 66",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202741367,
-    "wof:lastmodified":1449060235,
+    "wof:lastmodified":1466220188,
     "wof:name":"K. Brett Bildhauer",
     "wof:parent_id":85899163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.485143,48.090363,11.485143,48.090363],
+  "bbox": [
+    11.485143,
+    48.090363,
+    11.485143,
+    48.090363
+],
   "geometry": {"coordinates":[11.485143,48.090363],"type":"Point"}
 }

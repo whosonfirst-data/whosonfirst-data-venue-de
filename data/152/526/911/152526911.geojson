@@ -2,13 +2,14 @@
   "id": 152526911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.10439,54.339191,10.10439,54.339191",
     "geom:latitude":54.339191,
     "geom:longitude":10.10439,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichkoppelweg 105",
     "sg:city":"Kronshagen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899827,
+        85682517,
         85633111,
         101756551,
         102064145,
-        85682517
+        85899827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152526911,
-    "wof:lastmodified":1449045723,
+    "wof:lastmodified":1466220821,
     "wof:name":"Varta-dienst Paul Fuhrmann",
     "wof:parent_id":85899827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.10439,54.339191,10.10439,54.339191],
+  "bbox": [
+    10.10439,
+    54.339191,
+    10.10439,
+    54.339191
+],
   "geometry": {"coordinates":[10.10439,54.339191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102753025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.23844,50.56395,10.23844,50.56395",
     "geom:latitude":50.56395,
     "geom:longitude":10.23844,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Helmershausen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102753025,
-    "wof:lastmodified":1449068084,
+    "wof:lastmodified":1466218425,
     "wof:name":"Nass",
     "wof:parent_id":101810895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.23844,50.56395,10.23844,50.56395],
+  "bbox": [
+    10.23844,
+    50.56395,
+    10.23844,
+    50.56395
+],
   "geometry": {"coordinates":[10.23844,50.56395],"type":"Point"}
 }

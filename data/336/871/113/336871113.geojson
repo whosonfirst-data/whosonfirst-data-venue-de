@@ -2,13 +2,14 @@
   "id": 336871113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.435699,51.32185,12.435699,51.32185",
     "geom:latitude":51.32185,
     "geom:longitude":12.435699,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ampereweg 23",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336871113,
-    "wof:lastmodified":1448997289,
+    "wof:lastmodified":1466238261,
     "wof:name":"Hans Siegemund",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.435699,51.32185,12.435699,51.32185],
+  "bbox": [
+    12.435699,
+    51.32185,
+    12.435699,
+    51.32185
+],
   "geometry": {"coordinates":[12.435699,51.32185],"type":"Point"}
 }

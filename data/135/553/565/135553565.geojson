@@ -2,13 +2,14 @@
   "id": 135553565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.634392,40.961929,-106.634392,40.961929",
     "geom:latitude":40.961929,
     "geom:longitude":-106.634392,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 3",
     "sg:city":"Buch a. Wald",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135553565,
-    "wof:lastmodified":1449020999,
+    "wof:lastmodified":1466236431,
     "wof:name":"Hermann Binder Gmbh",
     "wof:parent_id":85688603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.634392,40.961929,-106.634392,40.961929],
-  "geometry": {"coordinates":[-106.634392,40.961929],"type":"Point"}
+  "bbox": [
+    -106.634392,
+    40.961929,
+    -106.634392,
+    40.961929
+],
+  "geometry": {"coordinates":[-106.63439200000001,40.961929],"type":"Point"}
 }

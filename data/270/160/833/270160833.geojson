@@ -2,13 +2,14 @@
   "id": 270160833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.748467,53.930691,9.748467,53.930691",
     "geom:latitude":53.930691,
     "geom:longitude":9.748467,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 10",
     "sg:city":"Wrist",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270160833,
-    "wof:lastmodified":1449010680,
+    "wof:lastmodified":1466235417,
     "wof:name":"Arnold Ehlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.748467,53.930691,9.748467,53.930691],
+  "bbox": [
+    9.748467,
+    53.930691,
+    9.748467,
+    53.930691
+],
   "geometry": {"coordinates":[9.748467,53.930691],"type":"Point"}
 }

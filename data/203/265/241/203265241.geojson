@@ -2,13 +2,14 @@
   "id": 203265241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.210957,48.778919,9.210957,48.778919",
     "geom:latitude":48.778919,
     "geom:longitude":9.210957,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hornbergstr. 198",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203265241,
-    "wof:lastmodified":1449025562,
+    "wof:lastmodified":1466218287,
     "wof:name":"Ernst Swoboda",
     "wof:parent_id":85795273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.210957,48.778919,9.210957,48.778919],
+  "bbox": [
+    9.210957,
+    48.778919,
+    9.210957,
+    48.778919
+],
   "geometry": {"coordinates":[9.210957,48.778919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135553673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.023259,50.747295,7.023259,50.747295",
     "geom:latitude":50.747295,
     "geom:longitude":7.023259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herseler Weg 6",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795017,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135553673,
-    "wof:lastmodified":1449020996,
+    "wof:lastmodified":1466236108,
     "wof:name":"Adolf Salm Gmbh",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.023259,50.747295,7.023259,50.747295],
+  "bbox": [
+    7.023259,
+    50.747295,
+    7.023259,
+    50.747295
+],
   "geometry": {"coordinates":[7.023259,50.747295],"type":"Point"}
 }

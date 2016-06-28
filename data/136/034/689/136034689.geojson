@@ -2,13 +2,14 @@
   "id": 136034689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.088739,52.407589,13.088739,52.407589",
     "geom:latitude":52.407589,
     "geom:longitude":13.088739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Babelsberg",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898995,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85898995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136034689,
-    "wof:lastmodified":1449075057,
+    "wof:lastmodified":1466213689,
     "wof:name":"B\u00fccher In Bewegung - Jura / Wirtschaft / Politik",
     "wof:parent_id":85898995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.088739,52.407589,13.088739,52.407589],
+  "bbox": [
+    13.088739,
+    52.407589,
+    13.088739,
+    52.407589
+],
   "geometry": {"coordinates":[13.088739,52.407589],"type":"Point"}
 }

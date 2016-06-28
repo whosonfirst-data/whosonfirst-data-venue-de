@@ -2,13 +2,14 @@
   "id": 119534725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.317496,50.987789,11.317496,50.987789",
     "geom:latitude":50.987789,
     "geom:longitude":11.317496,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6hrstr. 21b",
     "sg:city":"Weimar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119534725,
-    "wof:lastmodified":1449041487,
+    "wof:lastmodified":1466244045,
     "wof:name":"H. Reschke",
     "wof:parent_id":101748623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.317496,50.987789,11.317496,50.987789],
+  "bbox": [
+    11.317496,
+    50.987789,
+    11.317496,
+    50.987789
+],
   "geometry": {"coordinates":[11.317496,50.987789],"type":"Point"}
 }

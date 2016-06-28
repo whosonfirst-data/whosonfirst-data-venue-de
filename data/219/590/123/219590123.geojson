@@ -2,13 +2,14 @@
   "id": 219590123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.031437,50.979324,11.031437,50.979324",
     "geom:latitude":50.979324,
     "geom:longitude":11.031437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstr. 27",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219590123,
-    "wof:lastmodified":1449072485,
+    "wof:lastmodified":1466222214,
     "wof:name":"Hotel Sorat",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.031437,50.979324,11.031437,50.979324],
+  "bbox": [
+    11.031437,
+    50.979324,
+    11.031437,
+    50.979324
+],
   "geometry": {"coordinates":[11.031437,50.979324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303532865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.761308,53.582016,9.761308,53.582016",
     "geom:latitude":53.582016,
     "geom:longitude":9.761308,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grete-Nevermann-Weg 18",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303532865,
-    "wof:lastmodified":1448998940,
+    "wof:lastmodified":1466237008,
     "wof:name":"Rissener Rundschau",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.761308,53.582016,9.761308,53.582016],
+  "bbox": [
+    9.761308,
+    53.582016,
+    9.761308,
+    53.582016
+],
   "geometry": {"coordinates":[9.761308,53.582016],"type":"Point"}
 }

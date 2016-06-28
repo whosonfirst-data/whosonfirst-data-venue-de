@@ -2,13 +2,14 @@
   "id": 135734955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.145256,49.979527,9.145256,49.979527",
     "geom:latitude":49.979527,
     "geom:longitude":9.145256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frohsinnstr. 28",
     "sg:city":"Aschaffenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135734955,
-    "wof:lastmodified":1449023630,
+    "wof:lastmodified":1466243242,
     "wof:name":"Arba Exclusive Mode",
     "wof:parent_id":101748567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.145256,49.979527,9.145256,49.979527],
+  "bbox": [
+    9.145256,
+    49.979527,
+    9.145256,
+    49.979527
+],
   "geometry": {"coordinates":[9.145256,49.979527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118779641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.442465,48.74979,11.442465,48.74979",
     "geom:latitude":48.74979,
     "geom:longitude":11.442465,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fraunhoferstr. 6",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899953,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118779641,
-    "wof:lastmodified":1449053360,
+    "wof:lastmodified":1466228534,
     "wof:name":"W. Steinbei\u00dfer",
     "wof:parent_id":85899953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.442465,48.74979,11.442465,48.74979],
+  "bbox": [
+    11.442465,
+    48.74979,
+    11.442465,
+    48.74979
+],
   "geometry": {"coordinates":[11.442465,48.74979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118651227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.074336,53.723125,10.074336,53.723125",
     "geom:latitude":53.723125,
     "geom:longitude":10.074336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 120",
     "sg:city":"Tangstedt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899881,
+        85682517,
         85633111,
         101748857,
         102064103,
-        85682517
+        85899881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118651227,
-    "wof:lastmodified":1449053418,
+    "wof:lastmodified":1466221168,
     "wof:name":"Alten- Und Pflegeheim Haus Herbstblume",
     "wof:parent_id":85899881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.074336,53.723125,10.074336,53.723125],
+  "bbox": [
+    10.074336,
+    53.723125,
+    10.074336,
+    53.723125
+],
   "geometry": {"coordinates":[10.074336,53.723125],"type":"Point"}
 }

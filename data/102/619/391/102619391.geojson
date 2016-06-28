@@ -2,13 +2,14 @@
   "id": 102619391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.340295,49.021034,8.340295,49.021034",
     "geom:latitude":49.021034,
     "geom:longitude":8.340295,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wikingerstr 20-28",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795951,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102619391,
-    "wof:lastmodified":1449068250,
+    "wof:lastmodified":1466213793,
     "wof:name":"Kraus & Naimer Schalter Produktion Gmbh",
     "wof:parent_id":85795951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.340295,49.021034,8.340295,49.021034],
+  "bbox": [
+    8.340295,
+    49.021034,
+    8.340295,
+    49.021034
+],
   "geometry": {"coordinates":[8.340295,49.021034],"type":"Point"}
 }

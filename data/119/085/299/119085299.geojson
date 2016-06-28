@@ -2,13 +2,14 @@
   "id": 119085299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.545008,48.119301,11.545008,48.119301",
     "geom:latitude":48.119301,
     "geom:longitude":11.545008,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberl\u00e4nderstr. 13 c",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119085299,
-    "wof:lastmodified":1449041466,
+    "wof:lastmodified":1466218695,
     "wof:name":"Kurt Fauser Architekt",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.545008,48.119301,11.545008,48.119301],
+  "bbox": [
+    11.545008,
+    48.119301,
+    11.545008,
+    48.119301
+],
   "geometry": {"coordinates":[11.545008,48.119301],"type":"Point"}
 }

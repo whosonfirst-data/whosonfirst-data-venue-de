@@ -2,13 +2,14 @@
   "id": 269955221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.523056,48.181824,11.523056,48.181824",
     "geom:latitude":48.181824,
     "geom:longitude":11.523056,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pelkovenstr. 92",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269955221,
-    "wof:lastmodified":1449037779,
+    "wof:lastmodified":1466232052,
     "wof:name":"Georg F. Bablick",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.523056,48.181824,11.523056,48.181824],
+  "bbox": [
+    11.523056,
+    48.181824,
+    11.523056,
+    48.181824
+],
   "geometry": {"coordinates":[11.523056,48.181824],"type":"Point"}
 }

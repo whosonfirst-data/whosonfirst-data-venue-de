@@ -2,13 +2,14 @@
   "id": 136235765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.974262,51.415482,6.974262,51.415482",
     "geom:latitude":51.415482,
     "geom:longitude":6.974262,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hatzper Str. 220",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794815,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85794815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136235765,
-    "wof:lastmodified":1449075143,
+    "wof:lastmodified":1466223344,
     "wof:name":"M. Peter",
     "wof:parent_id":85794815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.974262,51.415482,6.974262,51.415482],
+  "bbox": [
+    6.974262,
+    51.415482,
+    6.974262,
+    51.415482
+],
   "geometry": {"coordinates":[6.974262,51.415482],"type":"Point"}
 }

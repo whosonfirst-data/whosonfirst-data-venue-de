@@ -2,13 +2,14 @@
   "id": 119005279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124721,49.443073,11.124721,49.443073",
     "geom:latitude":49.443073,
     "geom:longitude":11.124721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zerzabelshofer Hauptstr. 22",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119005279,
-    "wof:lastmodified":1449043319,
+    "wof:lastmodified":1466214124,
     "wof:name":"Ernst Schwartz Architekt",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124721,49.443073,11.124721,49.443073],
+  "bbox": [
+    11.124721,
+    49.443073,
+    11.124721,
+    49.443073
+],
   "geometry": {"coordinates":[11.124721,49.443073],"type":"Point"}
 }

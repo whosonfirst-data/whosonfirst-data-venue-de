@@ -2,13 +2,14 @@
   "id": 136106491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.764818,51.067535,13.764818,51.067535",
     "geom:latitude":51.067535,
     "geom:longitude":13.764818,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forstweg 10",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899777,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136106491,
-    "wof:lastmodified":1449074902,
+    "wof:lastmodified":1466217019,
     "wof:name":"Plan Ar Planungsb\u00fcro Architekten",
     "wof:parent_id":85899777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.764818,51.067535,13.764818,51.067535],
+  "bbox": [
+    13.764818,
+    51.067535,
+    13.764818,
+    51.067535
+],
   "geometry": {"coordinates":[13.764818,51.067535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304020281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.547659,49.317944,8.547659,49.317944",
     "geom:latitude":49.317944,
     "geom:longitude":8.547659,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Hauptstr. 10",
     "sg:city":"Hockenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304020281,
-    "wof:lastmodified":1449043811,
+    "wof:lastmodified":1466231328,
     "wof:name":"Wassmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.547659,49.317944,8.547659,49.317944],
+  "bbox": [
+    8.547659,
+    49.317944,
+    8.547659,
+    49.317944
+],
   "geometry": {"coordinates":[8.547659,49.317944],"type":"Point"}
 }

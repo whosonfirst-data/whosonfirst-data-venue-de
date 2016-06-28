@@ -2,13 +2,14 @@
   "id": 303600269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.800063,50.896317,14.800063,50.896317",
     "geom:latitude":50.896317,
     "geom:longitude":14.800063,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-Brinitzer-Str. 10",
     "sg:city":"Zittau",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303600269,
-    "wof:lastmodified":1448998344,
+    "wof:lastmodified":1466238117,
     "wof:name":"Editz Steck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.800063,50.896317,14.800063,50.896317],
+  "bbox": [
+    14.800063,
+    50.896317,
+    14.800063,
+    50.896317
+],
   "geometry": {"coordinates":[14.800063,50.896317],"type":"Point"}
 }

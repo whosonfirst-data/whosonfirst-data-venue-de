@@ -2,13 +2,14 @@
   "id": 269600251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.531524,49.367706,8.531524,49.367706",
     "geom:latitude":49.367706,
     "geom:longitude":8.531524,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstr. 49",
     "sg:city":"Ketsch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269600251,
-    "wof:lastmodified":1449036367,
+    "wof:lastmodified":1466223581,
     "wof:name":"Trend-collection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.531524,49.367706,8.531524,49.367706],
+  "bbox": [
+    8.531524,
+    49.367706,
+    8.531524,
+    49.367706
+],
   "geometry": {"coordinates":[8.531524,49.367706],"type":"Point"}
 }

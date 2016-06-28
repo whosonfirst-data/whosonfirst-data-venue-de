@@ -2,13 +2,14 @@
   "id": 320559465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.881449,50.997089,6.881449,50.997089",
     "geom:latitude":50.997089,
     "geom:longitude":6.881449,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jakobusstr. 14",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320559465,
-    "wof:lastmodified":1449014149,
+    "wof:lastmodified":1466241517,
     "wof:name":"Walter Klaus",
     "wof:parent_id":85795833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.881449,50.997089,6.881449,50.997089],
+  "bbox": [
+    6.881449,
+    50.997089,
+    6.881449,
+    50.997089
+],
   "geometry": {"coordinates":[6.881449,50.997089],"type":"Point"}
 }

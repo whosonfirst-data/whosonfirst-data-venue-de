@@ -2,13 +2,14 @@
   "id": 303081139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.200775,50.797745,7.200775,50.797745",
     "geom:latitude":50.797745,
     "geom:longitude":7.200775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haufeld 11",
     "sg:city":"Siegburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303081139,
-    "wof:lastmodified":1448998873,
+    "wof:lastmodified":1466226523,
     "wof:name":"G. Rossbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.200775,50.797745,7.200775,50.797745],
+  "bbox": [
+    7.200775,
+    50.797745,
+    7.200775,
+    50.797745
+],
   "geometry": {"coordinates":[7.200775,50.797745],"type":"Point"}
 }

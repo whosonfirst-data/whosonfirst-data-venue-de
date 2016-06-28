@@ -2,13 +2,14 @@
   "id": 135558755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.040216,49.869335,10.040216,49.869335",
     "geom:latitude":49.869335,
     "geom:longitude":10.040216,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burggrumbacher Str. 24",
     "sg:city":"Unterpleichfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135558755,
-    "wof:lastmodified":1449021825,
+    "wof:lastmodified":1466236413,
     "wof:name":"Theo Keller Gmbh",
     "wof:parent_id":101813299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.040216,49.869335,10.040216,49.869335],
+  "bbox": [
+    10.040216,
+    49.869335,
+    10.040216,
+    49.869335
+],
   "geometry": {"coordinates":[10.040216,49.869335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118606475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.399614,50.105564,8.399614,50.105564",
     "geom:latitude":50.105564,
     "geom:longitude":8.399614,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Taunusblick 4",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118606475,
-    "wof:lastmodified":1449053359,
+    "wof:lastmodified":1466218577,
     "wof:name":"Vhe K\u00e4lte-klima-l\u00fcftung Gmbh",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.399614,50.105564,8.399614,50.105564],
+  "bbox": [
+    8.399614,
+    50.105564,
+    8.399614,
+    50.105564
+],
   "geometry": {"coordinates":[8.399614,50.105564],"type":"Point"}
 }

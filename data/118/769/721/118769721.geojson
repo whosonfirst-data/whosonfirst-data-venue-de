@@ -2,13 +2,14 @@
   "id": 118769721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.16605,48.811836,9.16605,48.811836",
     "geom:latitude":48.811836,
     "geom:longitude":9.16605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bludenzer Str. 9",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118769721,
-    "wof:lastmodified":1449053611,
+    "wof:lastmodified":1466227918,
     "wof:name":"Herrmann Gmbh",
     "wof:parent_id":101748509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.16605,48.811836,9.16605,48.811836],
+  "bbox": [
+    9.16605,
+    48.811836,
+    9.16605,
+    48.811836
+],
   "geometry": {"coordinates":[9.16605,48.811836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135461849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.700968,52.012726,8.700968,52.012726",
     "geom:latitude":52.012726,
     "geom:longitude":8.700968,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6tmarschestr. 16",
     "sg:city":"Leopoldsh\u00f6he",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865113,
+        85682513,
         85633111,
         101809145,
         102063883,
-        85682513
+        85865113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135461849,
-    "wof:lastmodified":1449022133,
+    "wof:lastmodified":1466228129,
     "wof:name":"Volksbank Leopoldsh\u00f6he Eg",
     "wof:parent_id":85865113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.700968,52.012726,8.700968,52.012726],
+  "bbox": [
+    8.700968,
+    52.012726,
+    8.700968,
+    52.012726
+],
   "geometry": {"coordinates":[8.700968,52.012726],"type":"Point"}
 }

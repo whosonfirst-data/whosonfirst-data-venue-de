@@ -2,13 +2,14 @@
   "id": 135433315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.658872,50.193939,8.658872,50.193939",
     "geom:latitude":50.193939,
     "geom:longitude":8.658872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wettgasse 38",
     "sg:city":"Sch\u00f6naich",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135433315,
-    "wof:lastmodified":1449021342,
+    "wof:lastmodified":1466225692,
     "wof:name":"Seb Card Service Gmbh",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.658872,50.193939,8.658872,50.193939],
+  "bbox": [
+    8.658872,
+    50.193939,
+    8.658872,
+    50.193939
+],
   "geometry": {"coordinates":[8.658872,50.193939],"type":"Point"}
 }

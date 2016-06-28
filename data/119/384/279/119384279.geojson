@@ -2,13 +2,14 @@
   "id": 119384279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.977768,51.005543,6.977768,51.005543",
     "geom:latitude":51.005543,
     "geom:longitude":6.977768,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alradstr. 19",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863021,
+        85682513,
         85633111,
         101748641,
         102063715,
-        85682513
+        85863021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119384279,
-    "wof:lastmodified":1449041181,
+    "wof:lastmodified":1466241117,
     "wof:name":"W. Und G. M. Hoch",
     "wof:parent_id":85863021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.977768,51.005543,6.977768,51.005543],
+  "bbox": [
+    6.977768,
+    51.005543,
+    6.977768,
+    51.005543
+],
   "geometry": {"coordinates":[6.977768,51.005543],"type":"Point"}
 }

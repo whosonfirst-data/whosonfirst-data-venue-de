@@ -2,13 +2,14 @@
   "id": 185735119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.027671,49.546669,11.027671,49.546669",
     "geom:latitude":49.546669,
     "geom:longitude":11.027671,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Falknersweg 24",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185735119,
-    "wof:lastmodified":1449008151,
+    "wof:lastmodified":1466214497,
     "wof:name":"Nail Point",
     "wof:parent_id":85905631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.027671,49.546669,11.027671,49.546669],
+  "bbox": [
+    11.027671,
+    49.546669,
+    11.027671,
+    49.546669
+],
   "geometry": {"coordinates":[11.027671,49.546669],"type":"Point"}
 }

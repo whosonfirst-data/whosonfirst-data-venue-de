@@ -2,13 +2,14 @@
   "id": 320084115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.875776,51.370934,10.875776,51.370934",
     "geom:latitude":51.370934,
     "geom:longitude":10.875776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Karl-Wezel-Str. 56",
     "sg:city":"Sondershausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320084115,
-    "wof:lastmodified":1449011646,
+    "wof:lastmodified":1466235286,
     "wof:name":"Eiscafe Arduino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.875776,51.370934,10.875776,51.370934],
+  "bbox": [
+    10.875776,
+    51.370934,
+    10.875776,
+    51.370934
+],
   "geometry": {"coordinates":[10.875776,51.370934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135676217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.390478,51.387054,12.390478,51.387054",
     "geom:latitude":51.387054,
     "geom:longitude":12.390478,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschortauer Str. 104",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899641,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135676217,
-    "wof:lastmodified":1449022948,
+    "wof:lastmodified":1466241833,
     "wof:name":"Wladislaus Szewczyk",
     "wof:parent_id":85899641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.390478,51.387054,12.390478,51.387054],
+  "bbox": [
+    12.390478,
+    51.387054,
+    12.390478,
+    51.387054
+],
   "geometry": {"coordinates":[12.390478,51.387054],"type":"Point"}
 }

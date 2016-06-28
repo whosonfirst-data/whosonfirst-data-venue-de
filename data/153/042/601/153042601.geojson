@@ -2,13 +2,14 @@
   "id": 153042601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.02042,51.110062,7.02042,51.110062",
     "geom:latitude":51.110062,
     "geom:longitude":7.02042,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstr. 19",
     "sg:city":"Leichlingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85862913
+        85633111,
+        85862913,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":153042601,
-    "wof:lastmodified":1449040699,
+    "wof:lastmodified":1466213439,
     "wof:name":"I. D. Gmbh",
     "wof:parent_id":85862913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.02042,51.110062,7.02042,51.110062],
+  "bbox": [
+    7.02042,
+    51.110062,
+    7.02042,
+    51.110062
+],
   "geometry": {"coordinates":[7.02042,51.110062],"type":"Point"}
 }

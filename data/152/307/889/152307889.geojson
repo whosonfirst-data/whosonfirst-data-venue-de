@@ -2,13 +2,14 @@
   "id": 152307889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.459988,48.148743,11.459988,48.148743",
     "geom:latitude":48.148743,
     "geom:longitude":11.459988,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Irmonherstr. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152307889,
-    "wof:lastmodified":1449045488,
+    "wof:lastmodified":1466216307,
     "wof:name":"Cp-creativ Products Vetriebs Gmbh",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.459988,48.148743,11.459988,48.148743],
+  "bbox": [
+    11.459988,
+    48.148743,
+    11.459988,
+    48.148743
+],
   "geometry": {"coordinates":[11.459988,48.148743],"type":"Point"}
 }

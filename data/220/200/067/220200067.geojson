@@ -2,13 +2,14 @@
   "id": 220200067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.197066,49.471474,11.197066,49.471474",
     "geom:latitude":49.471474,
     "geom:longitude":11.197066,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 23 a",
     "sg:city":"Schwaig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220200067,
-    "wof:lastmodified":1449074357,
+    "wof:lastmodified":1466218326,
     "wof:name":"Kaffeestube",
     "wof:parent_id":85899487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.197066,49.471474,11.197066,49.471474],
+  "bbox": [
+    11.197066,
+    49.471474,
+    11.197066,
+    49.471474
+],
   "geometry": {"coordinates":[11.197066,49.471474],"type":"Point"}
 }

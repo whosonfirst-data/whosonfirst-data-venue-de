@@ -2,13 +2,14 @@
   "id": 119488921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.765421,50.712303,12.765421,50.712303",
     "geom:latitude":50.712303,
     "geom:longitude":12.765421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohensteiner Str. 41a",
     "sg:city":"Stollberg",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119488921,
-    "wof:lastmodified":1449043503,
+    "wof:lastmodified":1466243353,
     "wof:name":"Peter Schmidt",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.765421,50.712303,12.765421,50.712303],
+  "bbox": [
+    12.765421,
+    50.712303,
+    12.765421,
+    50.712303
+],
   "geometry": {"coordinates":[12.765421,50.712303],"type":"Point"}
 }

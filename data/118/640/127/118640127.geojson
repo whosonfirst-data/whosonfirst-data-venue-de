@@ -2,13 +2,14 @@
   "id": 118640127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.189044,52.543655,13.189044,52.543655",
     "geom:latitude":52.543655,
     "geom:longitude":13.189044,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rockenhausener Str. 12-14",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899379,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118640127,
-    "wof:lastmodified":1449053750,
+    "wof:lastmodified":1466220532,
     "wof:name":"Seniorenwohnhaus An Der Spekte",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.189044,52.543655,13.189044,52.543655],
+  "bbox": [
+    13.189044,
+    52.543655,
+    13.189044,
+    52.543655
+],
   "geometry": {"coordinates":[13.189044,52.543655],"type":"Point"}
 }

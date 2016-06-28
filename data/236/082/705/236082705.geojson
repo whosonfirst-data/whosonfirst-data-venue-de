@@ -2,13 +2,14 @@
   "id": 236082705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.560985,52.538273,13.560985,52.538273",
     "geom:latitude":52.538273,
     "geom:longitude":13.560985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Allee der Kosmonauten 166",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236082705,
-    "wof:lastmodified":1449001744,
+    "wof:lastmodified":1466220247,
     "wof:name":"Eiseck",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.560985,52.538273,13.560985,52.538273],
+  "bbox": [
+    13.560985,
+    52.538273,
+    13.560985,
+    52.538273
+],
   "geometry": {"coordinates":[13.560985,52.538273],"type":"Point"}
 }

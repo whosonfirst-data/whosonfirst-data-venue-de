@@ -2,13 +2,14 @@
   "id": 136123297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.984435,53.684269,9.984435,53.684269",
     "geom:latitude":53.684269,
     "geom:longitude":9.984435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marommerstr. 18",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136123297,
-    "wof:lastmodified":1449075284,
+    "wof:lastmodified":1466217702,
     "wof:name":"Sexy Schocker Pics",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.984435,53.684269,9.984435,53.684269],
+  "bbox": [
+    9.984435,
+    53.684269,
+    9.984435,
+    53.684269
+],
   "geometry": {"coordinates":[9.984435,53.684269],"type":"Point"}
 }

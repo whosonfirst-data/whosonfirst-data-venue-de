@@ -2,13 +2,14 @@
   "id": 135653455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.220949,49.133221,9.220949,49.133221",
     "geom:latitude":49.133221,
     "geom:longitude":9.220949,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werderstr. 123",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135653455,
-    "wof:lastmodified":1449021215,
+    "wof:lastmodified":1466240929,
     "wof:name":"B. Sprem",
     "wof:parent_id":101748529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.220949,49.133221,9.220949,49.133221],
+  "bbox": [
+    9.220949,
+    49.133221,
+    9.220949,
+    49.133221
+],
   "geometry": {"coordinates":[9.220949,49.133221],"type":"Point"}
 }

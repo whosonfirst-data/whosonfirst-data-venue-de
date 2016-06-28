@@ -2,13 +2,14 @@
   "id": 320100133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.077532,49.37109,11.077532,49.37109",
     "geom:latitude":49.37109,
     "geom:longitude":11.077532,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Radmeisterstr. 2",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320100133,
-    "wof:lastmodified":1449014025,
+    "wof:lastmodified":1466235626,
     "wof:name":"Eiscafe Gelateria Roberto",
     "wof:parent_id":85899283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.077532,49.37109,11.077532,49.37109],
+  "bbox": [
+    11.077532,
+    49.37109,
+    11.077532,
+    49.37109
+],
   "geometry": {"coordinates":[11.077532,49.37109],"type":"Point"}
 }

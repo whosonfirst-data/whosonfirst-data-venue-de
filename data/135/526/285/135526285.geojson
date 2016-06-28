@@ -2,13 +2,14 @@
   "id": 135526285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.87635,53.066189,8.87635,53.066189",
     "geom:latitude":53.066189,
     "geom:longitude":8.87635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hastedter Heerstr. 290",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795437,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135526285,
-    "wof:lastmodified":1449021932,
+    "wof:lastmodified":1466234005,
     "wof:name":"Hochtief Construction Ag Zwndl. Bremen",
     "wof:parent_id":85795437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.87635,53.066189,8.87635,53.066189],
+  "bbox": [
+    8.87635,
+    53.066189,
+    8.87635,
+    53.066189
+],
   "geometry": {"coordinates":[8.87635,53.066189],"type":"Point"}
 }

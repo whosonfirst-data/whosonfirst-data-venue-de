@@ -2,13 +2,14 @@
   "id": 119113327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.971308,51.502018,11.971308,51.502018",
     "geom:latitude":51.502018,
     "geom:longitude":11.971308,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert-Schweitzer-Str. 51",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899197,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85899197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119113327,
-    "wof:lastmodified":1449043306,
+    "wof:lastmodified":1466221325,
     "wof:name":"Projekt-bau",
     "wof:parent_id":85899197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.971308,51.502018,11.971308,51.502018],
+  "bbox": [
+    11.971308,
+    51.502018,
+    11.971308,
+    51.502018
+],
   "geometry": {"coordinates":[11.971308,51.502018],"type":"Point"}
 }

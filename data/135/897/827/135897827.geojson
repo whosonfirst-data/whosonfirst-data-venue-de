@@ -2,13 +2,14 @@
   "id": 135897827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.239836,50.069153,8.239836,50.069153",
     "geom:latitude":50.069153,
     "geom:longitude":8.239836,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Biebricher Allee 15",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135897827,
-    "wof:lastmodified":1449023525,
+    "wof:lastmodified":1466244523,
     "wof:name":"Lb Beteiligungsges. Mbh",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.239836,50.069153,8.239836,50.069153],
+  "bbox": [
+    8.239836,
+    50.069153,
+    8.239836,
+    50.069153
+],
   "geometry": {"coordinates":[8.239836,50.069153],"type":"Point"}
 }

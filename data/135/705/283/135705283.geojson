@@ -2,13 +2,14 @@
   "id": 135705283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.265289,44.9785,-93.265289,44.9785",
     "geom:latitude":44.9785,
     "geom:longitude":-93.265289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugplatz Hahn 902",
     "sg:city":"Hahn-Flughafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872705,
+        85688727,
         85633793,
         85969169,
         102087709,
-        85688727
+        85872705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135705283,
-    "wof:lastmodified":1449024001,
+    "wof:lastmodified":1466242385,
     "wof:name":"Projektentwicklung Harfenm\u00fchle Bautr\u00e4ger Gmbh",
     "wof:parent_id":85872705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.265289,44.9785,-93.265289,44.9785],
+  "bbox": [
+    -93.265289,
+    44.9785,
+    -93.265289,
+    44.9785
+],
   "geometry": {"coordinates":[-93.265289,44.9785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118796881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.463592,53.889797,11.463592,53.889797",
     "geom:latitude":53.889797,
     "geom:longitude":11.463592,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dankwartstr. 37",
     "sg:city":"Wismar",
     "sg:classifiers":[],
@@ -26,14 +27,20 @@
     "wof:geomhash":"19c11a9132e5e13adc4ffee801853788",
     "wof:hierarchy":[],
     "wof:id":118796881,
-    "wof:lastmodified":1449053804,
+    "wof:lastmodified":1466229574,
     "wof:name":"Anker-apotheke",
     "wof:parent_id":101818793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.463592,53.889797,11.463592,53.889797],
+  "bbox": [
+    11.463592,
+    53.889797,
+    11.463592,
+    53.889797
+],
   "geometry": {"coordinates":[11.463592,53.889797],"type":"Point"}
 }

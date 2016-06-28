@@ -2,13 +2,14 @@
   "id": 152469293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.653148,50.12582,8.653148,50.12582",
     "geom:latitude":50.12582,
     "geom:longitude":8.653148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Miquelallee 5",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152469293,
-    "wof:lastmodified":1449049011,
+    "wof:lastmodified":1466219570,
     "wof:name":"Charles Barker Holding Gmbh",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.653148,50.12582,8.653148,50.12582],
+  "bbox": [
+    8.653148,
+    50.12582,
+    8.653148,
+    50.12582
+],
   "geometry": {"coordinates":[8.653148,50.12582],"type":"Point"}
 }

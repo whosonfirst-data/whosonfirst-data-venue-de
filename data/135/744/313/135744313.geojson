@@ -2,13 +2,14 @@
   "id": 135744313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.017528,48.25478,9.017528,48.25478",
     "geom:latitude":48.25478,
     "geom:longitude":9.017528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hechinger Str. 1",
     "sg:city":"Albstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135744313,
-    "wof:lastmodified":1449022092,
+    "wof:lastmodified":1466243545,
     "wof:name":"Kik",
     "wof:parent_id":101764311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.017528,48.25478,9.017528,48.25478],
+  "bbox": [
+    9.017528,
+    48.25478,
+    9.017528,
+    48.25478
+],
   "geometry": {"coordinates":[9.017528,48.25478],"type":"Point"}
 }

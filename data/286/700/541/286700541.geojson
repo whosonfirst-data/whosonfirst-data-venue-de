@@ -2,13 +2,14 @@
   "id": 286700541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.270801,48.571064,9.270801,48.571064",
     "geom:latitude":48.571064,
     "geom:longitude":9.270801,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleinbettlinger Str. 9",
     "sg:city":"Bempflingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286700541,
-    "wof:lastmodified":1449017838,
+    "wof:lastmodified":1466235290,
     "wof:name":"Gustav Vatter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.270801,48.571064,9.270801,48.571064],
+  "bbox": [
+    9.270801,
+    48.571064,
+    9.270801,
+    48.571064
+],
   "geometry": {"coordinates":[9.270801,48.571064],"type":"Point"}
 }

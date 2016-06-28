@@ -2,13 +2,14 @@
   "id": 320348725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.73452,50.362446,8.73452,50.362446",
     "geom:latitude":50.362446,
     "geom:longitude":8.73452,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunkerstrasse6",
     "sg:city":"Bad Nauheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320348725,
-    "wof:lastmodified":1449011422,
+    "wof:lastmodified":1466239492,
     "wof:name":"Medivista",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.73452,50.362446,8.73452,50.362446],
+  "bbox": [
+    8.73452,
+    50.362446,
+    8.73452,
+    50.362446
+],
   "geometry": {"coordinates":[8.73452,50.362446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119420239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.601476,52.109818,11.601476,52.109818",
     "geom:latitude":52.109818,
     "geom:longitude":11.601476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidestr. 35",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899185,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119420239,
-    "wof:lastmodified":1449042102,
+    "wof:lastmodified":1466242142,
     "wof:name":"J\u00f6dicke & Partner Gmbh",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.601476,52.109818,11.601476,52.109818],
+  "bbox": [
+    11.601476,
+    52.109818,
+    11.601476,
+    52.109818
+],
   "geometry": {"coordinates":[11.601476,52.109818],"type":"Point"}
 }

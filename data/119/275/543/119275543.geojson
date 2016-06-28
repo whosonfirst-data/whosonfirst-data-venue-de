@@ -2,13 +2,14 @@
   "id": 119275543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.620229,48.150116,11.620229,48.150116",
     "geom:latitude":48.150116,
     "geom:longitude":11.620229,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arabellastr. 19 a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119275543,
-    "wof:lastmodified":1449041632,
+    "wof:lastmodified":1466236058,
     "wof:name":"Visumed Ag",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.620229,48.150116,11.620229,48.150116],
+  "bbox": [
+    11.620229,
+    48.150116,
+    11.620229,
+    48.150116
+],
   "geometry": {"coordinates":[11.620229,48.150116],"type":"Point"}
 }

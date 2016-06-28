@@ -2,13 +2,14 @@
   "id": 270240315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.399161,48.250999,12.399161,48.250999",
     "geom:latitude":48.250999,
     "geom:longitude":12.399161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzog-Friedrich-Str. 1",
     "sg:city":"Ampfing",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270240315,
-    "wof:lastmodified":1449008902,
+    "wof:lastmodified":1466226980,
     "wof:name":"Josef Rasch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.399161,48.250999,12.399161,48.250999],
+  "bbox": [
+    12.399161,
+    48.250999,
+    12.399161,
+    48.250999
+],
   "geometry": {"coordinates":[12.399161,48.250999],"type":"Point"}
 }

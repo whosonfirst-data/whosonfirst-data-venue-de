@@ -2,13 +2,14 @@
   "id": 102721363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.562509,48.152115,11.562509,48.152115",
     "geom:latitude":48.152115,
     "geom:longitude":11.562509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwindstr 3",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102721363,
-    "wof:lastmodified":1449070203,
+    "wof:lastmodified":1466216735,
     "wof:name":"Gustav Van Treeck Werkst\u00e4tten F\u00fcr Mosaik Und Glasmalerei Gmbh",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.562509,48.152115,11.562509,48.152115],
+  "bbox": [
+    11.562509,
+    48.152115,
+    11.562509,
+    48.152115
+],
   "geometry": {"coordinates":[11.562509,48.152115],"type":"Point"}
 }

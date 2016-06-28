@@ -2,13 +2,14 @@
   "id": 135372621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.577526,48.136417,11.577526,48.136417",
     "geom:latitude":48.136417,
     "geom:longitude":11.577526,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"c/o RA Heinrich M\u00fcller-Feyen:: Thiereckstr 2::",
     "sg:city":"Munich",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905605,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135372621,
-    "wof:lastmodified":1449022861,
+    "wof:lastmodified":1466220240,
     "wof:name":"Benedikt Baudrexel Bankgesch\u00e4ft I.k.;benedikt Baudrexel Bankgesch\u00e4ft I.k",
     "wof:parent_id":85905605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.577526,48.136417,11.577526,48.136417],
+  "bbox": [
+    11.577526,
+    48.136417,
+    11.577526,
+    48.136417
+],
   "geometry": {"coordinates":[11.577526,48.136417],"type":"Point"}
 }

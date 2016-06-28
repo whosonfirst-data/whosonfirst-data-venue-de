@@ -2,13 +2,14 @@
   "id": 253379983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.221551,49.016235,11.221551,49.016235",
     "geom:latitude":49.016235,
     "geom:longitude":11.221551,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannesstr. 16",
     "sg:city":"Titting",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253379983,
-    "wof:lastmodified":1449064538,
+    "wof:lastmodified":1466226508,
     "wof:name":"Johann Templer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.221551,49.016235,11.221551,49.016235],
+  "bbox": [
+    11.221551,
+    49.016235,
+    11.221551,
+    49.016235
+],
   "geometry": {"coordinates":[11.221551,49.016235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320181821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.08253,48.816517,11.08253,48.816517",
     "geom:latitude":48.816517,
     "geom:longitude":11.08253,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuburger Str. 9",
     "sg:city":"Wellheim",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320181821,
-    "wof:lastmodified":1449013544,
+    "wof:lastmodified":1466236987,
     "wof:name":"Hermann Schmucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.08253,48.816517,11.08253,48.816517],
+  "bbox": [
+    11.08253,
+    48.816517,
+    11.08253,
+    48.816517
+],
   "geometry": {"coordinates":[11.08253,48.816517],"type":"Point"}
 }

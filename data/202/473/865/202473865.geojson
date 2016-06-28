@@ -2,13 +2,14 @@
   "id": 202473865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.709125,49.235943,6.709125,49.235943",
     "geom:latitude":49.235943,
     "geom:longitude":6.709125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Engler-Ring 4",
     "sg:city":"\u00dcberherrn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202473865,
-    "wof:lastmodified":1449060641,
+    "wof:lastmodified":1466215108,
     "wof:name":"Kiefer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.709125,49.235943,6.709125,49.235943],
+  "bbox": [
+    6.709125,
+    49.235943,
+    6.709125,
+    49.235943
+],
   "geometry": {"coordinates":[6.709125,49.235943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118716323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.440503,51.14151,6.440503,51.14151",
     "geom:latitude":51.14151,
     "geom:longitude":6.440503,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Schomm 49",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796347,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85796347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118716323,
-    "wof:lastmodified":1449053340,
+    "wof:lastmodified":1466224806,
     "wof:name":"Helmut Schaper",
     "wof:parent_id":85796347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.440503,51.14151,6.440503,51.14151],
+  "bbox": [
+    6.440503,
+    51.14151,
+    6.440503,
+    51.14151
+],
   "geometry": {"coordinates":[6.440503,51.14151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135305481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.130659,50.34647,11.130659,50.34647",
     "geom:latitude":50.34647,
     "geom:longitude":11.130659,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bettelhecker Str. 5",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135305481,
-    "wof:lastmodified":1449021438,
+    "wof:lastmodified":1466214250,
     "wof:name":"P. Motschmann",
     "wof:parent_id":101824367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.130659,50.34647,11.130659,50.34647],
+  "bbox": [
+    11.130659,
+    50.34647,
+    11.130659,
+    50.34647
+],
   "geometry": {"coordinates":[11.130659,50.34647],"type":"Point"}
 }

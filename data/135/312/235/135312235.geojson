@@ -2,13 +2,14 @@
   "id": 135312235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.040596,52.865253,14.040596,52.865253",
     "geom:latitude":52.865253,
     "geom:longitude":14.040596,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 65",
     "sg:city":"Oderberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135312235,
-    "wof:lastmodified":1449022541,
+    "wof:lastmodified":1466214821,
     "wof:name":"Roland Junge",
     "wof:parent_id":101847961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.040596,52.865253,14.040596,52.865253],
+  "bbox": [
+    14.040596,
+    52.865253,
+    14.040596,
+    52.865253
+],
   "geometry": {"coordinates":[14.040596,52.865253],"type":"Point"}
 }

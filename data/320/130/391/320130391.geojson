@@ -2,13 +2,14 @@
   "id": 320130391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.976412,50.817879,12.976412,50.817879",
     "geom:latitude":50.817879,
     "geom:longitude":12.976412,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Cervantesstr. 10",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320130391,
-    "wof:lastmodified":1449012559,
+    "wof:lastmodified":1466236170,
     "wof:name":"Rainer Ehnert",
     "wof:parent_id":85899045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.976412,50.817879,12.976412,50.817879],
+  "bbox": [
+    12.976412,
+    50.817879,
+    12.976412,
+    50.817879
+],
   "geometry": {"coordinates":[12.976412,50.817879],"type":"Point"}
 }

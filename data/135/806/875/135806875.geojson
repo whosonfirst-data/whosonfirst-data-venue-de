@@ -2,13 +2,14 @@
   "id": 135806875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.087623,51.177647,7.087623,51.177647",
     "geom:latitude":51.177647,
     "geom:longitude":7.087623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klauberger Str 9a",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85795697
+        85633111,
+        85795697,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135806875,
-    "wof:lastmodified":1449020977,
+    "wof:lastmodified":1466244117,
     "wof:name":"Werner Peters Gmbh U. Co",
     "wof:parent_id":85795697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.087623,51.177647,7.087623,51.177647],
+  "bbox": [
+    7.087623,
+    51.177647,
+    7.087623,
+    51.177647
+],
   "geometry": {"coordinates":[7.087623,51.177647],"type":"Point"}
 }

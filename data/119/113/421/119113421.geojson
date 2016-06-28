@@ -2,13 +2,14 @@
   "id": 119113421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.496984,48.089752,11.496984,48.089752",
     "geom:latitude":48.089752,
     "geom:longitude":11.496984,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forstenrieder Allee 139",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899163
+        85633111,
+        85899163,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119113421,
-    "wof:lastmodified":1449043310,
+    "wof:lastmodified":1466221335,
     "wof:name":"Puchner Und Schum Architekten",
     "wof:parent_id":85899163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.496984,48.089752,11.496984,48.089752],
+  "bbox": [
+    11.496984,
+    48.089752,
+    11.496984,
+    48.089752
+],
   "geometry": {"coordinates":[11.496984,48.089752],"type":"Point"}
 }

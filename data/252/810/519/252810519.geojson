@@ -2,13 +2,14 @@
   "id": 252810519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.779357,50.193413,8.779357,50.193413",
     "geom:latitude":50.193413,
     "geom:longitude":8.779357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vilbeler Str. 9",
     "sg:city":"Bad Vilbel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252810519,
-    "wof:lastmodified":1449005738,
+    "wof:lastmodified":1466221089,
     "wof:name":"Hans-joachim Winkler",
     "wof:parent_id":85794877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.779357,50.193413,8.779357,50.193413],
+  "bbox": [
+    8.779357,
+    50.193413,
+    8.779357,
+    50.193413
+],
   "geometry": {"coordinates":[8.779357,50.193413],"type":"Point"}
 }

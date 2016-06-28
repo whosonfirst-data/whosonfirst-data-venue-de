@@ -2,13 +2,14 @@
   "id": 118671857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.254623,51.32399,12.254623,51.32399",
     "geom:latitude":51.32399,
     "geom:longitude":12.254623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geschwister-Scholl-Str. 17",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064227,
-        85633111,
         85682523,
-        85899977
+        85633111,
+        85899977,
+        102064227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118671857,
-    "wof:lastmodified":1449053465,
+    "wof:lastmodified":1466222262,
     "wof:name":"Eberhard Patzsch",
     "wof:parent_id":85899977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.254623,51.32399,12.254623,51.32399],
+  "bbox": [
+    12.254623,
+    51.32399,
+    12.254623,
+    51.32399
+],
   "geometry": {"coordinates":[12.254623,51.32399],"type":"Point"}
 }

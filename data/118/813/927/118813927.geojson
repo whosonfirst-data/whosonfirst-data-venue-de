@@ -2,13 +2,14 @@
   "id": 118813927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.827242,51.501762,6.827242,51.501762",
     "geom:latitude":51.501762,
     "geom:longitude":6.827242,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Th\u00fcringer Str. 46",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796533,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85796533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118813927,
-    "wof:lastmodified":1449053510,
+    "wof:lastmodified":1466230588,
     "wof:name":"Engel-apotheke",
     "wof:parent_id":85796533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.827242,51.501762,6.827242,51.501762],
+  "bbox": [
+    6.827242,
+    51.501762,
+    6.827242,
+    51.501762
+],
   "geometry": {"coordinates":[6.827242,51.501762],"type":"Point"}
 }

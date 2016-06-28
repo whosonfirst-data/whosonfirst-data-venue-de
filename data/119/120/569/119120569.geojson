@@ -2,13 +2,14 @@
   "id": 119120569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.573145,50.08366,8.573145,50.08366",
     "geom:latitude":50.08366,
     "geom:longitude":8.573145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"V\u00f6lklinger Weg 79",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119120569,
-    "wof:lastmodified":1449043151,
+    "wof:lastmodified":1466221962,
     "wof:name":"Robert Servatius Architekt",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.573145,50.08366,8.573145,50.08366],
+  "bbox": [
+    8.573145,
+    50.08366,
+    8.573145,
+    50.08366
+],
   "geometry": {"coordinates":[8.573145,50.08366],"type":"Point"}
 }

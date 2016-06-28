@@ -2,13 +2,14 @@
   "id": 118983353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.37161,51.358543,12.37161,51.358543",
     "geom:latitude":51.358543,
     "geom:longitude":12.37161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz-Seger-Str. 12",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118983353,
-    "wof:lastmodified":1449054432,
+    "wof:lastmodified":1466239156,
     "wof:name":"Bernhard Sickmann Architekt",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.37161,51.358543,12.37161,51.358543],
+  "bbox": [
+    12.37161,
+    51.358543,
+    12.37161,
+    51.358543
+],
   "geometry": {"coordinates":[12.37161,51.358543],"type":"Point"}
 }

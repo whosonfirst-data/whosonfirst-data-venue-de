@@ -2,13 +2,14 @@
   "id": 119481505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.253991,51.183537,7.253991,51.183537",
     "geom:latitude":51.183537,
     "geom:longitude":7.253991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lner Str. 125",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119481505,
-    "wof:lastmodified":1449043192,
+    "wof:lastmodified":1466243300,
     "wof:name":"Auto Friedrich Schneider Inh. Ulrike Fettke",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.253991,51.183537,7.253991,51.183537],
+  "bbox": [
+    7.253991,
+    51.183537,
+    7.253991,
+    51.183537
+],
   "geometry": {"coordinates":[7.253991,51.183537],"type":"Point"}
 }

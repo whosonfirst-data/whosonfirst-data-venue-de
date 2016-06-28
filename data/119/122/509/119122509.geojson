@@ -2,13 +2,14 @@
   "id": 119122509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151798,48.745087,9.151798,48.745087",
     "geom:latitude":48.745087,
     "geom:longitude":9.151798,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feuerreiterweg 24",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119122509,
-    "wof:lastmodified":1449042370,
+    "wof:lastmodified":1466222085,
     "wof:name":"Rolf Doderer Architekt",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.151798,48.745087,9.151798,48.745087],
+  "bbox": [
+    9.151798,
+    48.745087,
+    9.151798,
+    48.745087
+],
   "geometry": {"coordinates":[9.151798,48.745087],"type":"Point"}
 }

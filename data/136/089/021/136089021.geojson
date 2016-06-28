@@ -2,13 +2,14 @@
   "id": 136089021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444827,49.440132,8.444827,49.440132",
     "geom:latitude":49.440132,
     "geom:longitude":8.444827,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfwiesenstr. 1",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796279,
+        85682491,
         85633111,
         101815675,
         102063479,
-        85682491
+        85796279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136089021,
-    "wof:lastmodified":1449075175,
+    "wof:lastmodified":1466216228,
     "wof:name":"Keramikhof-v\u00e1radi",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.444827,49.440132,8.444827,49.440132],
+  "bbox": [
+    8.444827,
+    49.440132,
+    8.444827,
+    49.440132
+],
   "geometry": {"coordinates":[8.444827,49.440132],"type":"Point"}
 }

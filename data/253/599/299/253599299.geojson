@@ -2,13 +2,14 @@
   "id": 253599299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.560365,51.879417,10.560365,51.879417",
     "geom:latitude":51.879417,
     "geom:longitude":10.560365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzog-Wilhelm-Str. 73",
     "sg:city":"Bad Harzburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253599299,
-    "wof:lastmodified":1449064195,
+    "wof:lastmodified":1466231404,
     "wof:name":"Anne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.560365,51.879417,10.560365,51.879417],
+  "bbox": [
+    10.560365,
+    51.879417,
+    10.560365,
+    51.879417
+],
   "geometry": {"coordinates":[10.560365,51.879417],"type":"Point"}
 }

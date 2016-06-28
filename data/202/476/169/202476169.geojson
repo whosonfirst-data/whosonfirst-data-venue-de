@@ -2,13 +2,14 @@
   "id": 202476169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.586518,48.165363,11.586518,48.165363",
     "geom:latitude":48.165363,
     "geom:longitude":11.586518,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leopoldstr. 108",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202476169,
-    "wof:lastmodified":1449061140,
+    "wof:lastmodified":1466215153,
     "wof:name":"L. Misslinger",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.586518,48.165363,11.586518,48.165363],
+  "bbox": [
+    11.586518,
+    48.165363,
+    11.586518,
+    48.165363
+],
   "geometry": {"coordinates":[11.586518,48.165363],"type":"Point"}
 }

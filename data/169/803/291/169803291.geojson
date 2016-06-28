@@ -2,13 +2,14 @@
   "id": 169803291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.072114,51.231785,7.072114,51.231785",
     "geom:latitude":51.231785,
     "geom:longitude":7.072114,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 24",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169803291,
-    "wof:lastmodified":1449036006,
+    "wof:lastmodified":1466213782,
     "wof:name":"Kemper",
     "wof:parent_id":85796337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.072114,51.231785,7.072114,51.231785],
+  "bbox": [
+    7.072114,
+    51.231785,
+    7.072114,
+    51.231785
+],
   "geometry": {"coordinates":[7.072114,51.231785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119265799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.405766,50.585442,10.405766,50.585442",
     "geom:latitude":50.585442,
     "geom:longitude":10.405766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 56",
     "sg:city":"Meiningen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119265799,
-    "wof:lastmodified":1449041691,
+    "wof:lastmodified":1466235179,
     "wof:name":"Dr. Med. Manfred Klettke",
     "wof:parent_id":101824663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.405766,50.585442,10.405766,50.585442],
+  "bbox": [
+    10.405766,
+    50.585442,
+    10.405766,
+    50.585442
+],
   "geometry": {"coordinates":[10.405766,50.585442],"type":"Point"}
 }

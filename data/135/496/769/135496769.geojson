@@ -2,13 +2,14 @@
   "id": 135496769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.012972,53.57568,10.012972,53.57568",
     "geom:latitude":53.57568,
     "geom:longitude":10.012972,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4hrhausstr. 30",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135496769,
-    "wof:lastmodified":1449023558,
+    "wof:lastmodified":1466231323,
     "wof:name":"Maxco-holz Gmbh & Co. Kg",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.012972,53.57568,10.012972,53.57568],
+  "bbox": [
+    10.012972,
+    53.57568,
+    10.012972,
+    53.57568
+],
   "geometry": {"coordinates":[10.012972,53.57568],"type":"Point"}
 }

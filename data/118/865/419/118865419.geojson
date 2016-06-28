@@ -2,13 +2,14 @@
   "id": 118865419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53425,49.424999,8.53425,49.424999",
     "geom:latitude":49.424999,
     "geom:longitude":8.53425,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Relaisstr. 92",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118865419,
-    "wof:lastmodified":1449054212,
+    "wof:lastmodified":1466233769,
     "wof:name":"Apotheke Am Markt Mannheim-rheinau",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53425,49.424999,8.53425,49.424999],
+  "bbox": [
+    8.53425,
+    49.424999,
+    8.53425,
+    49.424999
+],
   "geometry": {"coordinates":[8.53425,49.424999],"type":"Point"}
 }

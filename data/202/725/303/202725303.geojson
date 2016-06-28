@@ -2,13 +2,14 @@
   "id": 202725303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.379038,50.648922,13.379038,50.648922",
     "geom:latitude":50.648922,
     "geom:longitude":13.379038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollstr. 12",
     "sg:city":"Olbernhau",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202725303,
-    "wof:lastmodified":1449060731,
+    "wof:lastmodified":1466219885,
     "wof:name":"I. Drechsel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.379038,50.648922,13.379038,50.648922],
+  "bbox": [
+    13.379038,
+    50.648922,
+    13.379038,
+    50.648922
+],
   "geometry": {"coordinates":[13.379038,50.648922],"type":"Point"}
 }

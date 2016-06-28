@@ -2,13 +2,14 @@
   "id": 119025437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402785,48.983067,8.402785,48.983067",
     "geom:latitude":48.983067,
     "geom:longitude":8.402785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Danziger Str. 8",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119025437,
-    "wof:lastmodified":1449043081,
+    "wof:lastmodified":1466213098,
     "wof:name":"G\u00fcnter J. Koch Architekt",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402785,48.983067,8.402785,48.983067],
+  "bbox": [
+    8.402785,
+    48.983067,
+    8.402785,
+    48.983067
+],
   "geometry": {"coordinates":[8.402785,48.983067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219243365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.45301,48.408241,10.45301,48.408241",
     "geom:latitude":48.408241,
     "geom:longitude":10.45301,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr. 3",
     "sg:city":"Jettingen-Scheppach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219243365,
-    "wof:lastmodified":1449071540,
+    "wof:lastmodified":1466215894,
     "wof:name":"Hans Strobl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.45301,48.408241,10.45301,48.408241],
+  "bbox": [
+    10.45301,
+    48.408241,
+    10.45301,
+    48.408241
+],
   "geometry": {"coordinates":[10.45301,48.408241],"type":"Point"}
 }

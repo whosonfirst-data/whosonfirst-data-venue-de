@@ -2,13 +2,14 @@
   "id": 236339619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.108101,53.708488,10.108101,53.708488",
     "geom:latitude":53.708488,
     "geom:longitude":10.108101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Duvenstedter Damm 62a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236339619,
-    "wof:lastmodified":1449003062,
+    "wof:lastmodified":1466225081,
     "wof:name":"Hopp Und Lob",
     "wof:parent_id":85900123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.108101,53.708488,10.108101,53.708488],
+  "bbox": [
+    10.108101,
+    53.708488,
+    10.108101,
+    53.708488
+],
   "geometry": {"coordinates":[10.108101,53.708488],"type":"Point"}
 }

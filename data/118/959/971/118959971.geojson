@@ -2,13 +2,14 @@
   "id": 118959971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.837965,50.991688,13.837965,50.991688",
     "geom:latitude":50.991688,
     "geom:longitude":13.837965,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidenauer Str. 45",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900283,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118959971,
-    "wof:lastmodified":1449054412,
+    "wof:lastmodified":1466238298,
     "wof:name":"Dsa Dienstleistungen F\u00fcr Struktur- Und",
     "wof:parent_id":85900283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.837965,50.991688,13.837965,50.991688],
+  "bbox": [
+    13.837965,
+    50.991688,
+    13.837965,
+    50.991688
+],
   "geometry": {"coordinates":[13.837965,50.991688],"type":"Point"}
 }

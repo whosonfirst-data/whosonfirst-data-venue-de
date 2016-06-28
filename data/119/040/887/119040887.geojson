@@ -2,13 +2,14 @@
   "id": 119040887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.317884,51.331142,12.317884,51.331142",
     "geom:latitude":51.331142,
     "geom:longitude":12.317884,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctzner Str. 133",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899229,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119040887,
-    "wof:lastmodified":1449043490,
+    "wof:lastmodified":1466214555,
     "wof:name":"Hartmut St\u00fcber Architekt",
     "wof:parent_id":85899229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.317884,51.331142,12.317884,51.331142],
+  "bbox": [
+    12.317884,
+    51.331142,
+    12.317884,
+    51.331142
+],
   "geometry": {"coordinates":[12.317884,51.331142],"type":"Point"}
 }

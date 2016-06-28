@@ -2,13 +2,14 @@
   "id": 135782369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.449623,51.621037,10.449623,51.621037",
     "geom:latitude":51.621037,
     "geom:longitude":10.449623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharzfelder Str. 87",
     "sg:city":"Bad Lauterberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135782369,
-    "wof:lastmodified":1449020975,
+    "wof:lastmodified":1466243946,
     "wof:name":"Gerhard Sievers",
     "wof:parent_id":101820829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.449623,51.621037,10.449623,51.621037],
+  "bbox": [
+    10.449623,
+    51.621037,
+    10.449623,
+    51.621037
+],
   "geometry": {"coordinates":[10.449623,51.621037],"type":"Point"}
 }

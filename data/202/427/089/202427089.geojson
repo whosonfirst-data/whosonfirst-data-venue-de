@@ -2,13 +2,14 @@
   "id": 202427089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.107776,53.545307,10.107776,53.545307",
     "geom:latitude":53.545307,
     "geom:longitude":10.107776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Annaberg 12",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202427089,
-    "wof:lastmodified":1449060875,
+    "wof:lastmodified":1466214243,
     "wof:name":"C. Und H. Berg",
     "wof:parent_id":85900015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.107776,53.545307,10.107776,53.545307],
+  "bbox": [
+    10.107776,
+    53.545307,
+    10.107776,
+    53.545307
+],
   "geometry": {"coordinates":[10.107776,53.545307],"type":"Point"}
 }

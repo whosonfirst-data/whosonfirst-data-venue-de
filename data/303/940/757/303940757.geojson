@@ -2,13 +2,14 @@
   "id": 303940757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.606256,47.611851,10.606256,47.611851",
     "geom:latitude":47.611851,
     "geom:longitude":10.606256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00f6bstener Str. 22",
     "sg:city":"Eisenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303940757,
-    "wof:lastmodified":1448998709,
+    "wof:lastmodified":1466241505,
     "wof:name":"L. Schoder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.606256,47.611851,10.606256,47.611851],
+  "bbox": [
+    10.606256,
+    47.611851,
+    10.606256,
+    47.611851
+],
   "geometry": {"coordinates":[10.606256,47.611851],"type":"Point"}
 }

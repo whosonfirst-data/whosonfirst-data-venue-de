@@ -2,13 +2,14 @@
   "id": 270086305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.678383,53.876747,10.678383,53.876747",
     "geom:latitude":53.876747,
     "geom:longitude":10.678383,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwartauer Allee 66",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270086305,
-    "wof:lastmodified":1449010301,
+    "wof:lastmodified":1466223399,
     "wof:name":"Walter Klehn",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.678383,53.876747,10.678383,53.876747],
+  "bbox": [
+    10.678383,
+    53.876747,
+    10.678383,
+    53.876747
+],
   "geometry": {"coordinates":[10.678383,53.876747],"type":"Point"}
 }

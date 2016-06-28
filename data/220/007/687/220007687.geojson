@@ -2,13 +2,14 @@
   "id": 220007687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.178739,48.779846,9.178739,48.779846",
     "geom:latitude":48.779846,
     "geom:longitude":9.178739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bolzstr. 6",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220007687,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466214747,
     "wof:name":"Bistro La Boule",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.178739,48.779846,9.178739,48.779846],
+  "bbox": [
+    9.178739,
+    48.779846,
+    9.178739,
+    48.779846
+],
   "geometry": {"coordinates":[9.178739,48.779846],"type":"Point"}
 }

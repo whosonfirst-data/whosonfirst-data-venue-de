@@ -2,13 +2,14 @@
   "id": 303448499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.679112,50.152367,8.679112,50.152367",
     "geom:latitude":50.152367,
     "geom:longitude":8.679112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sigmund-Freud-Str. 46",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303448499,
-    "wof:lastmodified":1449000447,
+    "wof:lastmodified":1466235519,
     "wof:name":"Klaus Mewes",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.679112,50.152367,8.679112,50.152367],
+  "bbox": [
+    8.679112,
+    50.152367,
+    8.679112,
+    50.152367
+],
   "geometry": {"coordinates":[8.679112,50.152367],"type":"Point"}
 }

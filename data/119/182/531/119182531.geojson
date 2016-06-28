@@ -2,13 +2,14 @@
   "id": 119182531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.533905,48.117039,11.533905,48.117039",
     "geom:latitude":48.117039,
     "geom:longitude":11.533905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert-Ro\u00dfhaupter-Str. 32",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119182531,
-    "wof:lastmodified":1449042562,
+    "wof:lastmodified":1466227175,
     "wof:name":"Lai Lanz Architekten Und Generalplaner Gmbh",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.533905,48.117039,11.533905,48.117039],
+  "bbox": [
+    11.533905,
+    48.117039,
+    11.533905,
+    48.117039
+],
   "geometry": {"coordinates":[11.533905,48.117039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287226505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.865751,50.48814,9.865751,50.48814",
     "geom:latitude":50.48814,
     "geom:longitude":9.865751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlgasse 1",
     "sg:city":"Poppenhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287226505,
-    "wof:lastmodified":1449001325,
+    "wof:lastmodified":1466231070,
     "wof:name":"Werner Mihm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.865751,50.48814,9.865751,50.48814],
+  "bbox": [
+    9.865751,
+    50.48814,
+    9.865751,
+    50.48814
+],
   "geometry": {"coordinates":[9.865751,50.48814],"type":"Point"}
 }

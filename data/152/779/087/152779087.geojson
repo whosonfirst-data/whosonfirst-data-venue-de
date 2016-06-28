@@ -2,13 +2,14 @@
   "id": 152779087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07073,51.243301,7.07073,51.243301",
     "geom:latitude":51.243301,
     "geom:longitude":7.07073,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnstra\u00dfe 26",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796337,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152779087,
-    "wof:lastmodified":1449045015,
+    "wof:lastmodified":1466226557,
     "wof:name":"De-gastgeber Ist Das Gro\u00dfe Verzeichnis Mit Fewos,",
     "wof:parent_id":85796337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07073,51.243301,7.07073,51.243301],
+  "bbox": [
+    7.07073,
+    51.243301,
+    7.07073,
+    51.243301
+],
   "geometry": {"coordinates":[7.07073,51.243301],"type":"Point"}
 }

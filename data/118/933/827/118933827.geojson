@@ -2,13 +2,14 @@
   "id": 118933827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.179235,51.183834,7.179235,51.183834",
     "geom:latitude":51.183834,
     "geom:longitude":7.179235,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hindenburgstr. 49",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862897,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118933827,
-    "wof:lastmodified":1449053431,
+    "wof:lastmodified":1466237572,
     "wof:name":"Schwanen-apotheke",
     "wof:parent_id":85862897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.179235,51.183834,7.179235,51.183834],
+  "bbox": [
+    7.179235,
+    51.183834,
+    7.179235,
+    51.183834
+],
   "geometry": {"coordinates":[7.179235,51.183834],"type":"Point"}
 }

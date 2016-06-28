@@ -2,13 +2,14 @@
   "id": 135673649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.16029,50.753151,6.16029,50.753151",
     "geom:latitude":50.753151,
     "geom:longitude":6.16029,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Kuck-Str. 21",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85795237
+        85633111,
+        85795237,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135673649,
-    "wof:lastmodified":1449022169,
+    "wof:lastmodified":1466241911,
     "wof:name":"Thomas Kutsch & G\u00fcnter Kremer",
     "wof:parent_id":85795237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.16029,50.753151,6.16029,50.753151],
+  "bbox": [
+    6.16029,
+    50.753151,
+    6.16029,
+    50.753151
+],
   "geometry": {"coordinates":[6.16029,50.753151],"type":"Point"}
 }

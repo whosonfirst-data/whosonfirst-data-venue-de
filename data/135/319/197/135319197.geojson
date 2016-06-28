@@ -2,13 +2,14 @@
   "id": 135319197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.516594,51.289608,9.516594,51.289608",
     "geom:latitude":51.289608,
     "geom:longitude":9.516594,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrnberger Str. 183",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899739,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85899739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135319197,
-    "wof:lastmodified":1449022231,
+    "wof:lastmodified":1466215437,
     "wof:name":"Ugur B\u00e4ckerei Gmbh",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.516594,51.289608,9.516594,51.289608],
+  "bbox": [
+    9.516594,
+    51.289608,
+    9.516594,
+    51.289608
+],
   "geometry": {"coordinates":[9.516594,51.289608],"type":"Point"}
 }

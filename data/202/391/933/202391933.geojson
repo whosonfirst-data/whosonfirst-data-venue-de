@@ -2,13 +2,14 @@
   "id": 202391933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.379317,51.325783,12.379317,51.325783",
     "geom:latitude":51.325783,
     "geom:longitude":12.379317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arthur-Hoffmann-Str. 45",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202391933,
-    "wof:lastmodified":1449061709,
+    "wof:lastmodified":1466213623,
     "wof:name":"W. Katins",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.379317,51.325783,12.379317,51.325783],
+  "bbox": [
+    12.379317,
+    51.325783,
+    12.379317,
+    51.325783
+],
   "geometry": {"coordinates":[12.379317,51.325783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118692335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.054656,53.633644,10.054656,53.633644",
     "geom:latitude":53.633644,
     "geom:longitude":10.054656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Stein 5",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898949,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118692335,
-    "wof:lastmodified":1449053522,
+    "wof:lastmodified":1466223475,
     "wof:name":"Brigitte Stralka",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.054656,53.633644,10.054656,53.633644],
+  "bbox": [
+    10.054656,
+    53.633644,
+    10.054656,
+    53.633644
+],
   "geometry": {"coordinates":[10.054656,53.633644],"type":"Point"}
 }

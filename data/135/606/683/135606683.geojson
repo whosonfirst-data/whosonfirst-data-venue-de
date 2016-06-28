@@ -2,13 +2,14 @@
   "id": 135606683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429301,49.009766,8.429301,49.009766",
     "geom:latitude":49.009766,
     "geom:longitude":8.429301,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Essenweinstr. 42a",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135606683,
-    "wof:lastmodified":1449021446,
+    "wof:lastmodified":1466239420,
     "wof:name":"R\u00fcko Gmbh",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.429301,49.009766,8.429301,49.009766],
+  "bbox": [
+    8.429301,
+    49.009766,
+    8.429301,
+    49.009766
+],
   "geometry": {"coordinates":[8.429301,49.009766],"type":"Point"}
 }

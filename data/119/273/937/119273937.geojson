@@ -2,13 +2,14 @@
   "id": 119273937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.365789,51.316406,12.365789,51.316406",
     "geom:latitude":51.316406,
     "geom:longitude":12.365789,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fockestr. 59",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119273937,
-    "wof:lastmodified":1449042219,
+    "wof:lastmodified":1466235917,
     "wof:name":"Prof. Dr. Werner G\u00f6hler",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.365789,51.316406,12.365789,51.316406],
+  "bbox": [
+    12.365789,
+    51.316406,
+    12.365789,
+    51.316406
+],
   "geometry": {"coordinates":[12.365789,51.316406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118964027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.980046,49.228336,6.980046,49.228336",
     "geom:latitude":49.228336,
     "geom:longitude":6.980046,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forbacher Str. 52",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118964027,
-    "wof:lastmodified":1449054204,
+    "wof:lastmodified":1466238485,
     "wof:name":"Gerhard Hegelmann Und Hanno Dutt",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.980046,49.228336,6.980046,49.228336],
+  "bbox": [
+    6.980046,
+    49.228336,
+    6.980046,
+    49.228336
+],
   "geometry": {"coordinates":[6.980046,49.228336],"type":"Point"}
 }

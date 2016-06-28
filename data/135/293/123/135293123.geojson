@@ -2,13 +2,14 @@
   "id": 135293123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.886213,49.89336,10.886213,49.89336",
     "geom:latitude":49.89336,
     "geom:longitude":10.886213,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapuzinerstr. 6",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135293123,
-    "wof:lastmodified":1449021568,
+    "wof:lastmodified":1466213235,
     "wof:name":"Konrad Weber",
     "wof:parent_id":101748561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.886213,49.89336,10.886213,49.89336],
+  "bbox": [
+    10.886213,
+    49.89336,
+    10.886213,
+    49.89336
+],
   "geometry": {"coordinates":[10.886213,49.89336],"type":"Point"}
 }

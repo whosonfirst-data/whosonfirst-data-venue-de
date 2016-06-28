@@ -2,13 +2,14 @@
   "id": 118968153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.975873,51.482178,11.975873,51.482178",
     "geom:latitude":51.482178,
     "geom:longitude":11.975873,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-K\u00fclz-Str. 18",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118968153,
-    "wof:lastmodified":1449053237,
+    "wof:lastmodified":1466238600,
     "wof:name":"Triops An Der Saale-\u00d6kologie Und Landschaftsplanung Gmbh",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.975873,51.482178,11.975873,51.482178],
+  "bbox": [
+    11.975873,
+    51.482178,
+    11.975873,
+    51.482178
+],
   "geometry": {"coordinates":[11.975873,51.482178],"type":"Point"}
 }

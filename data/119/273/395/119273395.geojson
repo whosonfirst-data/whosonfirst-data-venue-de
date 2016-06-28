@@ -2,13 +2,14 @@
   "id": 119273395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.113126,54.080456,12.113126,54.080456",
     "geom:latitude":54.080456,
     "geom:longitude":12.113126,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bei der Tweel",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905731,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119273395,
-    "wof:lastmodified":1449042220,
+    "wof:lastmodified":1466235861,
     "wof:name":"Prof. Dr. Dietrich Tre\u00dfmann",
     "wof:parent_id":85905731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.113126,54.080456,12.113126,54.080456],
+  "bbox": [
+    12.113126,
+    54.080456,
+    12.113126,
+    54.080456
+],
   "geometry": {"coordinates":[12.113126,54.080456],"type":"Point"}
 }

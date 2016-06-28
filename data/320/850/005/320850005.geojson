@@ -2,13 +2,14 @@
   "id": 320850005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.571368,52.020081,8.571368,52.020081",
     "geom:latitude":52.020081,
     "geom:longitude":8.571368,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wachtelweg 29",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320850005,
-    "wof:lastmodified":1449013423,
+    "wof:lastmodified":1466243597,
     "wof:name":"Elektro Schulz Installation",
     "wof:parent_id":85796357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.571368,52.020081,8.571368,52.020081],
+  "bbox": [
+    8.571368,
+    52.020081,
+    8.571368,
+    52.020081
+],
   "geometry": {"coordinates":[8.571368,52.020081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118720725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.409794,51.296108,9.409794,51.296108",
     "geom:latitude":51.296108,
     "geom:longitude":9.409794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeche-Marie-Weg 7",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063755,
-        85633111,
         85682531,
-        85905691
+        85633111,
+        85905691,
+        102063755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118720725,
-    "wof:lastmodified":1449053476,
+    "wof:lastmodified":1466225055,
     "wof:name":"Invitare",
     "wof:parent_id":85905691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.409794,51.296108,9.409794,51.296108],
+  "bbox": [
+    9.409794,
+    51.296108,
+    9.409794,
+    51.296108
+],
   "geometry": {"coordinates":[9.409794,51.296108],"type":"Point"}
 }

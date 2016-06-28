@@ -2,13 +2,14 @@
   "id": 118824429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.533151,51.520092,7.533151,51.520092",
     "geom:latitude":51.520092,
     "geom:longitude":7.533151,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wieckesweg 27",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796673,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85796673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118824429,
-    "wof:lastmodified":1449053639,
+    "wof:lastmodified":1466231212,
     "wof:name":"Krankenhausvollapotheke Des Knappschaftskrankenhauses",
     "wof:parent_id":85796673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.533151,51.520092,7.533151,51.520092],
+  "bbox": [
+    7.533151,
+    51.520092,
+    7.533151,
+    51.520092
+],
   "geometry": {"coordinates":[7.533151,51.520092],"type":"Point"}
 }

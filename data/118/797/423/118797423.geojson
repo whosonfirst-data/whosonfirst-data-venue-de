@@ -2,13 +2,14 @@
   "id": 118797423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.990334,52.404552,12.990334,52.404552",
     "geom:latitude":52.404552,
     "geom:longitude":12.990334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Friedrich-Str. 98",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899131,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85899131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118797423,
-    "wof:lastmodified":1449054413,
+    "wof:lastmodified":1466229602,
     "wof:name":"Apotheke Am Alten Rad Inh. Gabriele Scheel E. K.",
     "wof:parent_id":85899131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.990334,52.404552,12.990334,52.404552],
+  "bbox": [
+    12.990334,
+    52.404552,
+    12.990334,
+    52.404552
+],
   "geometry": {"coordinates":[12.990334,52.404552],"type":"Point"}
 }

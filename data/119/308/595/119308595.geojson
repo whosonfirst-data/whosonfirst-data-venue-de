@@ -2,13 +2,14 @@
   "id": 119308595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.988109,49.910805,10.988109,49.910805",
     "geom:latitude":49.910805,
     "geom:longitude":10.988109,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bamberger Str. 25",
     "sg:city":"Litzendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119308595,
-    "wof:lastmodified":1449043589,
+    "wof:lastmodified":1466237927,
     "wof:name":"Franz Harmann",
     "wof:parent_id":101825853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.988109,49.910805,10.988109,49.910805],
+  "bbox": [
+    10.988109,
+    49.910805,
+    10.988109,
+    49.910805
+],
   "geometry": {"coordinates":[10.988109,49.910805],"type":"Point"}
 }

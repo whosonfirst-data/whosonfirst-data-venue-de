@@ -2,13 +2,14 @@
   "id": 118760623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.29604,49.459549,11.29604,49.459549",
     "geom:latitude":49.459549,
     "geom:longitude":11.29604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00f6hrletstr. 1b",
     "sg:city":"Leinburg",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":118760623,
-    "wof:lastmodified":1449054475,
+    "wof:lastmodified":1466227380,
     "wof:name":"R. Klein",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.29604,49.459549,11.29604,49.459549],
+  "bbox": [
+    11.29604,
+    49.459549,
+    11.29604,
+    49.459549
+],
   "geometry": {"coordinates":[11.29604,49.459549],"type":"Point"}
 }

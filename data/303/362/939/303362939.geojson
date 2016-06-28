@@ -2,13 +2,14 @@
   "id": 303362939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.652509,48.126667,11.652509,48.126667",
     "geom:latitude":48.126667,
     "geom:longitude":11.652509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seebrucker Str. 43",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303362939,
-    "wof:lastmodified":1448999699,
+    "wof:lastmodified":1466233434,
     "wof:name":"Manfred Keller",
     "wof:parent_id":85899355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.652509,48.126667,11.652509,48.126667],
+  "bbox": [
+    11.652509,
+    48.126667,
+    11.652509,
+    48.126667
+],
   "geometry": {"coordinates":[11.652509,48.126667],"type":"Point"}
 }

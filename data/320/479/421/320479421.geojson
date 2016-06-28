@@ -2,13 +2,14 @@
   "id": 320479421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.024345,51.452591,7.024345,51.452591",
     "geom:latitude":51.452591,
     "geom:longitude":7.024345,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleine Steubenstr 13",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320479421,
-    "wof:lastmodified":1449013830,
+    "wof:lastmodified":1466240889,
     "wof:name":"Hans Schreckling Gmbh",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.024345,51.452591,7.024345,51.452591],
+  "bbox": [
+    7.024345,
+    51.452591,
+    7.024345,
+    51.452591
+],
   "geometry": {"coordinates":[7.024345,51.452591],"type":"Point"}
 }

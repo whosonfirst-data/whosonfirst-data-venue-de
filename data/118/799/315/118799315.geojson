@@ -2,13 +2,14 @@
   "id": 118799315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.566605,48.184456,11.566605,48.184456",
     "geom:latitude":48.184456,
     "geom:longitude":11.566605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlei\u00dfheimer Str. 354",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905617,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118799315,
-    "wof:lastmodified":1449054544,
+    "wof:lastmodified":1466229719,
     "wof:name":"Apotheke Am Milbertshofener Platz",
     "wof:parent_id":85905617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.566605,48.184456,11.566605,48.184456],
+  "bbox": [
+    11.566605,
+    48.184456,
+    11.566605,
+    48.184456
+],
   "geometry": {"coordinates":[11.566605,48.184456],"type":"Point"}
 }

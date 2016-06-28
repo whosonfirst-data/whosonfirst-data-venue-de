@@ -2,13 +2,14 @@
   "id": 119475489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.006034,50.350018,10.006034,50.350018",
     "geom:latitude":50.350018,
     "geom:longitude":10.006034,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzbergstr. 64",
     "sg:city":"Sandberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119475489,
-    "wof:lastmodified":1449041940,
+    "wof:lastmodified":1466243227,
     "wof:name":"M. Katzenberger",
     "wof:parent_id":101812303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.006034,50.350018,10.006034,50.350018],
+  "bbox": [
+    10.006034,
+    50.350018,
+    10.006034,
+    50.350018
+],
   "geometry": {"coordinates":[10.006034,50.350018],"type":"Point"}
 }

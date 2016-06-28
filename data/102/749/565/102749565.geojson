@@ -2,13 +2,14 @@
   "id": 102749565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.078283,51.453094,7.078283,51.453094",
     "geom:latitude":51.453094,
     "geom:longitude":7.078283,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bewerungestr. 31",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795485,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102749565,
-    "wof:lastmodified":1449068470,
+    "wof:lastmodified":1466218230,
     "wof:name":"Fv-druck Fritz Volkwein",
     "wof:parent_id":85795485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.078283,51.453094,7.078283,51.453094],
+  "bbox": [
+    7.078283,
+    51.453094,
+    7.078283,
+    51.453094
+],
   "geometry": {"coordinates":[7.078283,51.453094],"type":"Point"}
 }

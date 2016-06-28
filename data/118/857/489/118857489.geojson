@@ -2,13 +2,14 @@
   "id": 118857489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.376634,51.449848,7.376634,51.449848",
     "geom:latitude":51.449848,
     "geom:longitude":7.376634,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockumer Str. 21",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794743,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118857489,
-    "wof:lastmodified":1449054053,
+    "wof:lastmodified":1466233261,
     "wof:name":"Adler-apotheke Inh. Dr. Harald Werner",
     "wof:parent_id":85794743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.376634,51.449848,7.376634,51.449848],
+  "bbox": [
+    7.376634,
+    51.449848,
+    7.376634,
+    51.449848
+],
   "geometry": {"coordinates":[7.376634,51.449848],"type":"Point"}
 }

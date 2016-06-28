@@ -2,13 +2,14 @@
   "id": 119383773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.573264,50.890125,10.573264,50.890125",
     "geom:latitude":50.890125,
     "geom:longitude":10.573264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortsstr. 28",
     "sg:city":"Waltershausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119383773,
-    "wof:lastmodified":1449041960,
+    "wof:lastmodified":1466241215,
     "wof:name":"W. Reiche",
     "wof:parent_id":101823215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.573264,50.890125,10.573264,50.890125],
+  "bbox": [
+    10.573264,
+    50.890125,
+    10.573264,
+    50.890125
+],
   "geometry": {"coordinates":[10.573264,50.890125],"type":"Point"}
 }

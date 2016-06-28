@@ -2,13 +2,14 @@
   "id": 118734319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.618416,50.216953,8.618416,50.216953",
     "geom:latitude":50.216953,
     "geom:longitude":8.618416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nehringstr. 17",
     "sg:city":"Bad Homburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118734319,
-    "wof:lastmodified":1449054370,
+    "wof:lastmodified":1466225839,
     "wof:name":"Patienten-heimversorgung",
     "wof:parent_id":101748581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.618416,50.216953,8.618416,50.216953],
+  "bbox": [
+    8.618416,
+    50.216953,
+    8.618416,
+    50.216953
+],
   "geometry": {"coordinates":[8.618416,50.216953],"type":"Point"}
 }

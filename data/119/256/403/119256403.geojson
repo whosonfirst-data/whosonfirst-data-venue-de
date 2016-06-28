@@ -2,13 +2,14 @@
   "id": 119256403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.494436,52.627972,13.494436,52.627972",
     "geom:latitude":52.627972,
     "geom:longitude":13.494436,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruno-Apitz-Str. 15",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907701,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85907701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119256403,
-    "wof:lastmodified":1449042879,
+    "wof:lastmodified":1466234231,
     "wof:name":"Dr. Marianne Wittwer",
     "wof:parent_id":85907701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.494436,52.627972,13.494436,52.627972],
+  "bbox": [
+    13.494436,
+    52.627972,
+    13.494436,
+    52.627972
+],
   "geometry": {"coordinates":[13.494436,52.627972],"type":"Point"}
 }

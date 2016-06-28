@@ -2,13 +2,14 @@
   "id": 202454879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.460331,51.209904,10.460331,51.209904",
     "geom:latitude":51.209904,
     "geom:longitude":10.460331,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinweg 28",
     "sg:city":"M\u00fchlhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202454879,
-    "wof:lastmodified":1449062409,
+    "wof:lastmodified":1466214770,
     "wof:name":"H. Trapp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.460331,51.209904,10.460331,51.209904],
+  "bbox": [
+    10.460331,
+    51.209904,
+    10.460331,
+    51.209904
+],
   "geometry": {"coordinates":[10.460331,51.209904],"type":"Point"}
 }

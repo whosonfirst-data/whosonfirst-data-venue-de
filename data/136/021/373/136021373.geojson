@@ -2,13 +2,14 @@
   "id": 136021373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.502218,48.191212,11.502218,48.191212",
     "geom:latitude":48.191212,
     "geom:longitude":11.502218,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dachauer Str. 531",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899265,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136021373,
-    "wof:lastmodified":1449075761,
+    "wof:lastmodified":1466213115,
     "wof:name":"Reger Getr\u00e4nke Fachgro\u00dfhandel Gmbh",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.502218,48.191212,11.502218,48.191212],
+  "bbox": [
+    11.502218,
+    48.191212,
+    11.502218,
+    48.191212
+],
   "geometry": {"coordinates":[11.502218,48.191212],"type":"Point"}
 }

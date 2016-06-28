@@ -2,13 +2,14 @@
   "id": 135500081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.749283,48.508652,9.749283,48.508652",
     "geom:latitude":48.508652,
     "geom:longitude":9.749283,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Drosselweg 3",
     "sg:city":"Merklingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135500081,
-    "wof:lastmodified":1449021746,
+    "wof:lastmodified":1466231590,
     "wof:name":"Waltraud Dunger",
     "wof:parent_id":101762989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.749283,48.508652,9.749283,48.508652],
+  "bbox": [
+    9.749283,
+    48.508652,
+    9.749283,
+    48.508652
+],
   "geometry": {"coordinates":[9.749283,48.508652],"type":"Point"}
 }

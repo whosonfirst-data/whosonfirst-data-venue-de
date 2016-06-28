@@ -2,13 +2,14 @@
   "id": 118636945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.543077,52.327572,14.543077,52.327572",
     "geom:latitude":52.327572,
     "geom:longitude":14.543077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jungclaussenweg 5",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118636945,
-    "wof:lastmodified":1449053703,
+    "wof:lastmodified":1466220350,
     "wof:name":"Seniorenhaus Der Stadt Frankfurt",
     "wof:parent_id":101748801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.543077,52.327572,14.543077,52.327572],
+  "bbox": [
+    14.543077,
+    52.327572,
+    14.543077,
+    52.327572
+],
   "geometry": {"coordinates":[14.543077,52.327572],"type":"Point"}
 }

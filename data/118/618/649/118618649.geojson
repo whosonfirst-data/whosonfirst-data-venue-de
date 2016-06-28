@@ -2,13 +2,14 @@
   "id": 118618649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701494,50.126202,8.701494,50.126202",
     "geom:latitude":50.126202,
     "geom:longitude":8.701494,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichwaldstr. 71",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118618649,
-    "wof:lastmodified":1449054030,
+    "wof:lastmodified":1466219323,
     "wof:name":"Altenwohnanlage Burgblock",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701494,50.126202,8.701494,50.126202],
+  "bbox": [
+    8.701494,
+    50.126202,
+    8.701494,
+    50.126202
+],
   "geometry": {"coordinates":[8.701494,50.126202],"type":"Point"}
 }

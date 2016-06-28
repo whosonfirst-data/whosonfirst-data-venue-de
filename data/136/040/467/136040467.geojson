@@ -2,13 +2,14 @@
   "id": 136040467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.553973,52.567783,13.553973,52.567783",
     "geom:latitude":52.567783,
     "geom:longitude":13.553973,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merseburger Stra\u00dfe 3",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899733,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136040467,
-    "wof:lastmodified":1449076239,
+    "wof:lastmodified":1466213973,
     "wof:name":"Dachbeschichtung Spezialfolienbau Hille",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.553973,52.567783,13.553973,52.567783],
+  "bbox": [
+    13.553973,
+    52.567783,
+    13.553973,
+    52.567783
+],
   "geometry": {"coordinates":[13.553973,52.567783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136132315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.312338,51.348347,12.312338,51.348347",
     "geom:latitude":51.348347,
     "geom:longitude":12.312338,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Schwarz-Str. 125",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899021,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136132315,
-    "wof:lastmodified":1449075542,
+    "wof:lastmodified":1466218083,
     "wof:name":"Swingerworld Inez.de",
     "wof:parent_id":85899021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.312338,51.348347,12.312338,51.348347],
+  "bbox": [
+    12.312338,
+    51.348347,
+    12.312338,
+    51.348347
+],
   "geometry": {"coordinates":[12.312338,51.348347],"type":"Point"}
 }

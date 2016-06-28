@@ -2,13 +2,14 @@
   "id": 202640203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.949577,50.849369,12.949577,50.849369",
     "geom:latitude":50.849369,
     "geom:longitude":12.949577,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dresdner Str. 152",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202640203,
-    "wof:lastmodified":1449061223,
+    "wof:lastmodified":1466218363,
     "wof:name":"A. M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.949577,50.849369,12.949577,50.849369],
+  "bbox": [
+    12.949577,
+    50.849369,
+    12.949577,
+    50.849369
+],
   "geometry": {"coordinates":[12.949577,50.849369],"type":"Point"}
 }

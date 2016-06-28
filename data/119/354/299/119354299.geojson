@@ -2,13 +2,14 @@
   "id": 119354299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.080101,48.587929,13.080101,48.587929",
     "geom:latitude":48.587929,
     "geom:longitude":13.080101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Abt-Zanker-Str. 11",
     "sg:city":"Aldersbach",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119354299,
-    "wof:lastmodified":1449043231,
+    "wof:lastmodified":1466240120,
     "wof:name":"Kurt Kinzel",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.080101,48.587929,13.080101,48.587929],
+  "bbox": [
+    13.080101,
+    48.587929,
+    13.080101,
+    48.587929
+],
   "geometry": {"coordinates":[13.080101,48.587929],"type":"Point"}
 }

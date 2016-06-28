@@ -2,13 +2,14 @@
   "id": 336925441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.149328,49.671108,12.149328,49.671108",
     "geom:latitude":49.671108,
     "geom:longitude":12.149328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Alten Dorf 22 a",
     "sg:city":"Weiden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336925441,
-    "wof:lastmodified":1448996928,
+    "wof:lastmodified":1466239263,
     "wof:name":"Bambi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.149328,49.671108,12.149328,49.671108],
+  "bbox": [
+    12.149328,
+    49.671108,
+    12.149328,
+    49.671108
+],
   "geometry": {"coordinates":[12.149328,49.671108],"type":"Point"}
 }

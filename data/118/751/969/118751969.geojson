@@ -2,13 +2,14 @@
   "id": 118751969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.824374,53.073582,8.824374,53.073582",
     "geom:latitude":53.073582,
     "geom:longitude":8.824374,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fehrfeld 60",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796209,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118751969,
-    "wof:lastmodified":1449053221,
+    "wof:lastmodified":1466226886,
     "wof:name":"Ambulanter Hilfsdienst E. V. Volkhart Schmidtsdorff",
     "wof:parent_id":85796209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.824374,53.073582,8.824374,53.073582],
+  "bbox": [
+    8.824374,
+    53.073582,
+    8.824374,
+    53.073582
+],
   "geometry": {"coordinates":[8.824374,53.073582],"type":"Point"}
 }

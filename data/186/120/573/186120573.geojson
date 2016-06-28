@@ -2,13 +2,14 @@
   "id": 186120573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.497779,48.142544,11.497779,48.142544",
     "geom:latitude":48.142544,
     "geom:longitude":11.497779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schifferlstr. 5",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186120573,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466214431,
     "wof:name":"G. Goldmann",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.497779,48.142544,11.497779,48.142544],
+  "bbox": [
+    11.497779,
+    48.142544,
+    11.497779,
+    48.142544
+],
   "geometry": {"coordinates":[11.497779,48.142544],"type":"Point"}
 }

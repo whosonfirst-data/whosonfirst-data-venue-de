@@ -2,13 +2,14 @@
   "id": 119179097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.137589,49.462719,11.137589,49.462719",
     "geom:latitude":49.462719,
     "geom:longitude":11.137589,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrgweg 24",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119179097,
-    "wof:lastmodified":1449043255,
+    "wof:lastmodified":1466226872,
     "wof:name":"Aed Architecture Jurck Gmbh",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.137589,49.462719,11.137589,49.462719],
+  "bbox": [
+    11.137589,
+    49.462719,
+    11.137589,
+    49.462719
+],
   "geometry": {"coordinates":[11.137589,49.462719],"type":"Point"}
 }

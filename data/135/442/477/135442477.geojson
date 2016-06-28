@@ -2,13 +2,14 @@
   "id": 135442477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751968,32.772968,-96.751968,32.772968",
     "geom:latitude":32.772968,
     "geom:longitude":-96.751968,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Biebelsbach",
     "sg:city":"Biebelsbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870447,
+        85688753,
         85633793,
         101724385,
         102080647,
-        85688753
+        85870447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135442477,
-    "wof:lastmodified":1449022338,
+    "wof:lastmodified":1466226517,
     "wof:name":"Sparkasse Pforzheim",
     "wof:parent_id":85870447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.751968,32.772968,-96.751968,32.772968],
-  "geometry": {"coordinates":[-96.751968,32.772968],"type":"Point"}
+  "bbox": [
+    -96.751968,
+    32.772968,
+    -96.751968,
+    32.772968
+],
+  "geometry": {"coordinates":[-96.75196800000001,32.772968],"type":"Point"}
 }

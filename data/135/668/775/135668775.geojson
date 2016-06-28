@@ -2,13 +2,14 @@
   "id": 135668775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.370656,47.902828,11.370656,47.902828",
     "geom:latitude":47.902828,
     "geom:longitude":11.370656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hacklgasse 2",
     "sg:city":"M\u00fcnsing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135668775,
-    "wof:lastmodified":1449023107,
+    "wof:lastmodified":1466241665,
     "wof:name":"Max Will",
     "wof:parent_id":101787625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.370656,47.902828,11.370656,47.902828],
+  "bbox": [
+    11.370656,
+    47.902828,
+    11.370656,
+    47.902828
+],
   "geometry": {"coordinates":[11.370656,47.902828],"type":"Point"}
 }

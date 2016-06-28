@@ -2,13 +2,14 @@
   "id": 135462831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.06278,48.408745,9.06278,48.408745",
     "geom:latitude":48.408745,
     "geom:longitude":9.06278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1280:: 72110 M\u00f6ssingen:: Germany.^^Karl Jaggy Str 8::",
     "sg:city":"M\u00f6ssingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135462831,
-    "wof:lastmodified":1449023885,
+    "wof:lastmodified":1466228225,
     "wof:name":"Volksbank M\u00f6ssingen Eg",
     "wof:parent_id":101827525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.06278,48.408745,9.06278,48.408745],
+  "bbox": [
+    9.06278,
+    48.408745,
+    9.06278,
+    48.408745
+],
   "geometry": {"coordinates":[9.06278,48.408745],"type":"Point"}
 }

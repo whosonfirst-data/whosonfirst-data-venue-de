@@ -2,13 +2,14 @@
   "id": 186240811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.12488,50.69413,7.12488,50.69413",
     "geom:latitude":50.69413,
     "geom:longitude":7.12488,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am G\u00fcsgensberg 4",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186240811,
-    "wof:lastmodified":1449050525,
+    "wof:lastmodified":1466215725,
     "wof:name":"Heinrich Heuser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.12488,50.69413,7.12488,50.69413],
+  "bbox": [
+    7.12488,
+    50.69413,
+    7.12488,
+    50.69413
+],
   "geometry": {"coordinates":[7.12488,50.69413],"type":"Point"}
 }

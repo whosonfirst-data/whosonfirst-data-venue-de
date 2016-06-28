@@ -2,13 +2,14 @@
   "id": 320270203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.049643,53.551914,10.049643,53.551914",
     "geom:latitude":53.551914,
     "geom:longitude":10.049643,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eiffestr. 490",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320270203,
-    "wof:lastmodified":1449011922,
+    "wof:lastmodified":1466238323,
     "wof:name":"H.s.h. - The House Sound From Hamburg",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.049643,53.551914,10.049643,53.551914],
+  "bbox": [
+    10.049643,
+    53.551914,
+    10.049643,
+    53.551914
+],
   "geometry": {"coordinates":[10.049643,53.551914],"type":"Point"}
 }

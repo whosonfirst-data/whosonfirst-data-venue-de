@@ -2,13 +2,14 @@
   "id": 202897217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.374727,48.799446,11.374727,48.799446",
     "geom:latitude":48.799446,
     "geom:longitude":11.374727,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00fchlingstr. 7",
     "sg:city":"Gaimersheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202897217,
-    "wof:lastmodified":1449062250,
+    "wof:lastmodified":1466223076,
     "wof:name":"Ammer",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.374727,48.799446,11.374727,48.799446],
+  "bbox": [
+    11.374727,
+    48.799446,
+    11.374727,
+    48.799446
+],
   "geometry": {"coordinates":[11.374727,48.799446],"type":"Point"}
 }

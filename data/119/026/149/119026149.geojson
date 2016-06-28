@@ -2,13 +2,14 @@
   "id": 119026149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47293,51.373734,7.47293,51.373734",
     "geom:latitude":51.373734,
     "geom:longitude":7.47293,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Houbenstr. 9",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794715,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85794715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119026149,
-    "wof:lastmodified":1449042427,
+    "wof:lastmodified":1466213161,
     "wof:name":"G\u00fcnter Paul Lemm Architekt",
     "wof:parent_id":85794715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47293,51.373734,7.47293,51.373734],
+  "bbox": [
+    7.47293,
+    51.373734,
+    7.47293,
+    51.373734
+],
   "geometry": {"coordinates":[7.47293,51.373734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152735021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.342857,50.861481,11.342857,50.861481",
     "geom:latitude":50.861481,
     "geom:longitude":11.342857,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brauhausstr. 11",
     "sg:city":"Blankenhain",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152735021,
-    "wof:lastmodified":1449048805,
+    "wof:lastmodified":1466225479,
     "wof:name":"Rudi Eckardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.342857,50.861481,11.342857,50.861481],
+  "bbox": [
+    11.342857,
+    50.861481,
+    11.342857,
+    50.861481
+],
   "geometry": {"coordinates":[11.342857,50.861481],"type":"Point"}
 }

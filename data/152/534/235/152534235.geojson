@@ -2,13 +2,14 @@
   "id": 152534235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.921545,50.919151,6.921545,50.919151",
     "geom:latitude":50.919151,
     "geom:longitude":6.921545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fclzburgstr. 146",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152534235,
-    "wof:lastmodified":1449045493,
+    "wof:lastmodified":1466220984,
     "wof:name":"Ges. F\u00fcr Station\u00e4re Ein- Richtungen Des Arbeiter-",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.921545,50.919151,6.921545,50.919151],
+  "bbox": [
+    6.921545,
+    50.919151,
+    6.921545,
+    50.919151
+],
   "geometry": {"coordinates":[6.921545,50.919151],"type":"Point"}
 }

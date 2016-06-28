@@ -2,13 +2,14 @@
   "id": 270000527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.631312,52.879063,12.631312,52.879063",
     "geom:latitude":52.879063,
     "geom:longitude":12.631312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ernst-Th\u00e4lmann-Str. 3",
     "sg:city":"Wildberg",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270000527,
-    "wof:lastmodified":1449009021,
+    "wof:lastmodified":1466235295,
     "wof:name":"Bhg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.631312,52.879063,12.631312,52.879063],
+  "bbox": [
+    12.631312,
+    52.879063,
+    12.631312,
+    52.879063
+],
   "geometry": {"coordinates":[12.631312,52.879063],"type":"Point"}
 }

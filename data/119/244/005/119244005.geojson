@@ -2,13 +2,14 @@
   "id": 119244005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.583515,50.924206,11.583515,50.924206",
     "geom:latitude":50.924206,
     "geom:longitude":11.583515,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erbertstr. 1",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119244005,
-    "wof:lastmodified":1449041812,
+    "wof:lastmodified":1466233034,
     "wof:name":"Universit\u00e4t Jena",
     "wof:parent_id":101748613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.583515,50.924206,11.583515,50.924206],
+  "bbox": [
+    11.583515,
+    50.924206,
+    11.583515,
+    50.924206
+],
   "geometry": {"coordinates":[11.583515,50.924206],"type":"Point"}
 }

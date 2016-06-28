@@ -2,13 +2,14 @@
   "id": 119454315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444204,48.993725,8.444204,48.993725",
     "geom:latitude":48.993725,
     "geom:longitude":8.444204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dieselstr. 1",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119454315,
-    "wof:lastmodified":1449043283,
+    "wof:lastmodified":1466242699,
     "wof:name":"Kleindienst Datentechnik Doku- Menten Service Gmbh & Co. Kg",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.444204,48.993725,8.444204,48.993725],
+  "bbox": [
+    8.444204,
+    48.993725,
+    8.444204,
+    48.993725
+],
   "geometry": {"coordinates":[8.444204,48.993725],"type":"Point"}
 }

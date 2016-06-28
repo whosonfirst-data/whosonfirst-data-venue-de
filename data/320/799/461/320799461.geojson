@@ -2,13 +2,14 @@
   "id": 320799461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.719285,51.02784,13.719285,51.02784",
     "geom:latitude":51.02784,
     "geom:longitude":13.719285,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fcrzburger Str. 87",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320799461,
-    "wof:lastmodified":1449014987,
+    "wof:lastmodified":1466243189,
     "wof:name":"Dietmar Schmotz",
     "wof:parent_id":85899929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.719285,51.02784,13.719285,51.02784],
+  "bbox": [
+    13.719285,
+    51.02784,
+    13.719285,
+    51.02784
+],
   "geometry": {"coordinates":[13.719285,51.02784],"type":"Point"}
 }

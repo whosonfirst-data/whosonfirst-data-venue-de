@@ -2,13 +2,14 @@
   "id": 270277701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.580228,48.162582,11.580228,48.162582",
     "geom:latitude":48.162582,
     "geom:longitude":11.580228,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzogstr. 33",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270277701,
-    "wof:lastmodified":1449008925,
+    "wof:lastmodified":1466227878,
     "wof:name":"Serviceteam",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.580228,48.162582,11.580228,48.162582],
+  "bbox": [
+    11.580228,
+    48.162582,
+    11.580228,
+    48.162582
+],
   "geometry": {"coordinates":[11.580228,48.162582],"type":"Point"}
 }

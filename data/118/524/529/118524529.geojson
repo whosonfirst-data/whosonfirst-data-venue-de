@@ -2,13 +2,14 @@
   "id": 118524529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.572404,48.140541,11.572404,48.140541",
     "geom:latitude":48.140541,
     "geom:longitude":11.572404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Distelfeldstr. 15::",
     "sg:city":"Leonberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118524529,
-    "wof:lastmodified":1449053130,
+    "wof:lastmodified":1466213913,
     "wof:name":"Seb Ag",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.572404,48.140541,11.572404,48.140541],
+  "bbox": [
+    11.572404,
+    48.140541,
+    11.572404,
+    48.140541
+],
   "geometry": {"coordinates":[11.572404,48.140541],"type":"Point"}
 }

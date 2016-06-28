@@ -2,13 +2,14 @@
   "id": 118613009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.005861,53.555714,10.005861,53.555714",
     "geom:latitude":53.555714,
     "geom:longitude":10.005861,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzdamm 28-32",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118613009,
-    "wof:lastmodified":1449053796,
+    "wof:lastmodified":1466218993,
     "wof:name":"Cura Seniorencentrum Oelsnitz Ggmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.005861,53.555714,10.005861,53.555714],
+  "bbox": [
+    10.005861,
+    53.555714,
+    10.005861,
+    53.555714
+],
   "geometry": {"coordinates":[10.005861,53.555714],"type":"Point"}
 }

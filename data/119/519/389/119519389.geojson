@@ -2,13 +2,14 @@
   "id": 119519389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.456511,51.622375,10.456511,51.622375",
     "geom:latitude":51.622375,
     "geom:longitude":10.456511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharzfelder Str. 35",
     "sg:city":"Bad Lauterberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119519389,
-    "wof:lastmodified":1449043373,
+    "wof:lastmodified":1466243900,
     "wof:name":"F. Renner",
     "wof:parent_id":101820829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.456511,51.622375,10.456511,51.622375],
+  "bbox": [
+    10.456511,
+    51.622375,
+    10.456511,
+    51.622375
+],
   "geometry": {"coordinates":[10.456511,51.622375],"type":"Point"}
 }

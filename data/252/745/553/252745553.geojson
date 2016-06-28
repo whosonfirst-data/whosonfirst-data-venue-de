@@ -2,13 +2,14 @@
   "id": 252745553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.750922,47.746506,11.750922,47.746506",
     "geom:latitude":47.746506,
     "geom:longitude":11.750922,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlierseer Str. 31",
     "sg:city":"Gmund",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252745553,
-    "wof:lastmodified":1449006449,
+    "wof:lastmodified":1466219801,
     "wof:name":"Hans Haslauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.750922,47.746506,11.750922,47.746506],
+  "bbox": [
+    11.750922,
+    47.746506,
+    11.750922,
+    47.746506
+],
   "geometry": {"coordinates":[11.750922,47.746506],"type":"Point"}
 }

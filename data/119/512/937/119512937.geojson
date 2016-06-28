@@ -2,13 +2,14 @@
   "id": 119512937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558254,49.859886,8.558254,49.859886",
     "geom:latitude":49.859886,
     "geom:longitude":8.558254,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Leuschner-Str. 17",
     "sg:city":"Griesheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119512937,
-    "wof:lastmodified":1449042810,
+    "wof:lastmodified":1466243888,
     "wof:name":"E. Hammann",
     "wof:parent_id":101813389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558254,49.859886,8.558254,49.859886],
+  "bbox": [
+    8.558254,
+    49.859886,
+    8.558254,
+    49.859886
+],
   "geometry": {"coordinates":[8.558254,49.859886],"type":"Point"}
 }

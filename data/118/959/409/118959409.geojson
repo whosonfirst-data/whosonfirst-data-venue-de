@@ -2,13 +2,14 @@
   "id": 118959409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.056148,53.569286,10.056148,53.569286",
     "geom:latitude":53.569286,
     "geom:longitude":10.056148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wandsbeker Chaussee 220",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899247,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118959409,
-    "wof:lastmodified":1449054412,
+    "wof:lastmodified":1466238078,
     "wof:name":"Arbeitsamt",
     "wof:parent_id":85899247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.056148,53.569286,10.056148,53.569286],
+  "bbox": [
+    10.056148,
+    53.569286,
+    10.056148,
+    53.569286
+],
   "geometry": {"coordinates":[10.056148,53.569286],"type":"Point"}
 }

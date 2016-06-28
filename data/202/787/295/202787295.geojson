@@ -2,13 +2,14 @@
   "id": 202787295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.104199,49.028568,12.104199,49.028568",
     "geom:latitude":49.028568,
     "geom:longitude":12.104199,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzgartenstr. 18",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202787295,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1466221009,
     "wof:name":"K. Dillinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.104199,49.028568,12.104199,49.028568],
+  "bbox": [
+    12.104199,
+    49.028568,
+    12.104199,
+    49.028568
+],
   "geometry": {"coordinates":[12.104199,49.028568],"type":"Point"}
 }

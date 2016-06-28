@@ -2,13 +2,14 @@
   "id": 185735779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.467926,49.475849,8.467926,49.475849",
     "geom:latitude":49.475849,
     "geom:longitude":8.467926,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gontardplatz 7",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185735779,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466214504,
     "wof:name":"Christian Bernauer",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.467926,49.475849,8.467926,49.475849],
+  "bbox": [
+    8.467926,
+    49.475849,
+    8.467926,
+    49.475849
+],
   "geometry": {"coordinates":[8.467926,49.475849],"type":"Point"}
 }

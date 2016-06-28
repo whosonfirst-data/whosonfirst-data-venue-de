@@ -2,13 +2,14 @@
   "id": 220002405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.009024,51.381664,10.009024,51.381664",
     "geom:latitude":51.381664,
     "geom:longitude":10.009024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 102",
     "sg:city":"Marth",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220002405,
-    "wof:lastmodified":1449074710,
+    "wof:lastmodified":1466214650,
     "wof:name":"Wilfried Gunkel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.009024,51.381664,10.009024,51.381664],
+  "bbox": [
+    10.009024,
+    51.381664,
+    10.009024,
+    51.381664
+],
   "geometry": {"coordinates":[10.009024,51.381664],"type":"Point"}
 }

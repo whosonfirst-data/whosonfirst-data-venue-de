@@ -2,13 +2,14 @@
   "id": 135352717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.923928,49.175552,10.923928,49.175552",
     "geom:latitude":49.175552,
     "geom:longitude":10.923928,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Rathausgasse 5",
     "sg:city":"Spalt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135352717,
-    "wof:lastmodified":1449022882,
+    "wof:lastmodified":1466218306,
     "wof:name":"Werner Menzel",
     "wof:parent_id":101782041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.923928,49.175552,10.923928,49.175552],
+  "bbox": [
+    10.923928,
+    49.175552,
+    10.923928,
+    49.175552
+],
   "geometry": {"coordinates":[10.923928,49.175552],"type":"Point"}
 }

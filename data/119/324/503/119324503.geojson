@@ -2,13 +2,14 @@
   "id": 119324503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.487295,51.305164,9.487295,51.305164",
     "geom:latitude":51.305164,
     "geom:longitude":9.487295,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landaustr. 11",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899739,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85899739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119324503,
-    "wof:lastmodified":1449042415,
+    "wof:lastmodified":1466238571,
     "wof:name":"Hans Dach",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.487295,51.305164,9.487295,51.305164],
+  "bbox": [
+    9.487295,
+    51.305164,
+    9.487295,
+    51.305164
+],
   "geometry": {"coordinates":[9.487295,51.305164],"type":"Point"}
 }

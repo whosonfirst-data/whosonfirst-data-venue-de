@@ -2,13 +2,14 @@
   "id": 135889249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.848181,49.4589,10.848181,49.4589",
     "geom:latitude":49.4589,
     "geom:longitude":10.848181,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstr. 29",
     "sg:city":"Cadolzburg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063467,
-        85633111,
         85682571,
-        85899063
+        85633111,
+        85899063,
+        102063467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135889249,
-    "wof:lastmodified":1449020921,
+    "wof:lastmodified":1466244484,
     "wof:name":"Gs Hausbau Verwaltungs-gmbh",
     "wof:parent_id":85899063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.848181,49.4589,10.848181,49.4589],
+  "bbox": [
+    10.848181,
+    49.4589,
+    10.848181,
+    49.4589
+],
   "geometry": {"coordinates":[10.848181,49.4589],"type":"Point"}
 }

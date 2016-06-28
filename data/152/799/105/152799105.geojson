@@ -2,13 +2,14 @@
   "id": 152799105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.616696,47.172909,-1.616696,47.172909",
     "geom:latitude":47.172909,
     "geom:longitude":-1.616696,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"1 rue Gutemberg",
     "sg:city":"Bouguenais",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"44340",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897687,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152799105,
-    "wof:lastmodified":1449048920,
+    "wof:lastmodified":1466227041,
     "wof:name":"Ecole De Conduite Lecleve",
     "wof:parent_id":85897687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.616696,47.172909,-1.616696,47.172909],
+  "bbox": [
+    -1.616696,
+    47.172909,
+    -1.616696,
+    47.172909
+],
   "geometry": {"coordinates":[-1.616696,47.172909],"type":"Point"}
 }

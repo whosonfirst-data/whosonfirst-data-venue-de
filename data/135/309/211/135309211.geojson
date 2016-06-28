@@ -2,13 +2,14 @@
   "id": 135309211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.373708,50.062695,8.373708,50.062695",
     "geom:latitude":50.062695,
     "geom:longitude":8.373708,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zur Burg 2",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135309211,
-    "wof:lastmodified":1449021658,
+    "wof:lastmodified":1466214549,
     "wof:name":"R. Schwenk",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.373708,50.062695,8.373708,50.062695],
+  "bbox": [
+    8.373708,
+    50.062695,
+    8.373708,
+    50.062695
+],
   "geometry": {"coordinates":[8.373708,50.062695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286280185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.700041,50.054348,8.700041,50.054348",
     "geom:latitude":50.054348,
     "geom:longitude":8.700041,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Offenbacher Str. 65",
     "sg:city":"Neu-Isenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286280185,
-    "wof:lastmodified":1449016634,
+    "wof:lastmodified":1466225042,
     "wof:name":"Ernst Tischer",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.700041,50.054348,8.700041,50.054348],
+  "bbox": [
+    8.700041,
+    50.054348,
+    8.700041,
+    50.054348
+],
   "geometry": {"coordinates":[8.700041,50.054348],"type":"Point"}
 }

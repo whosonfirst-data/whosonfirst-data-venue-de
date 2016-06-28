@@ -2,13 +2,14 @@
   "id": 119268317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.632284,50.881805,11.632284,50.881805",
     "geom:latitude":50.881805,
     "geom:longitude":11.632284,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Judith-Auer-Str. 1",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119268317,
-    "wof:lastmodified":1449042379,
+    "wof:lastmodified":1466235430,
     "wof:name":"Dr. Med. Susanne Zimmermann",
     "wof:parent_id":101748613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.632284,50.881805,11.632284,50.881805],
+  "bbox": [
+    11.632284,
+    50.881805,
+    11.632284,
+    50.881805
+],
   "geometry": {"coordinates":[11.632284,50.881805],"type":"Point"}
 }

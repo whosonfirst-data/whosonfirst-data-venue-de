@@ -2,13 +2,14 @@
   "id": 303902205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.089778,49.011982,12.089778,49.011982",
     "geom:latitude":49.011982,
     "geom:longitude":12.089778,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im G\u00fcterbahnhof 1",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303902205,
-    "wof:lastmodified":1448999928,
+    "wof:lastmodified":1466241224,
     "wof:name":"Halle 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.089778,49.011982,12.089778,49.011982],
+  "bbox": [
+    12.089778,
+    49.011982,
+    12.089778,
+    49.011982
+],
   "geometry": {"coordinates":[12.089778,49.011982],"type":"Point"}
 }

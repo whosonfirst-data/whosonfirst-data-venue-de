@@ -2,13 +2,14 @@
   "id": 169861445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.42009,51.357651,12.42009,51.357651",
     "geom:latitude":51.357651,
     "geom:longitude":12.42009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Julian-Marchlewski-Str. 1",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169861445,
-    "wof:lastmodified":1449035942,
+    "wof:lastmodified":1466214248,
     "wof:name":"B. Wandel",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.42009,51.357651,12.42009,51.357651],
+  "bbox": [
+    12.42009,
+    51.357651,
+    12.42009,
+    51.357651
+],
   "geometry": {"coordinates":[12.42009,51.357651],"type":"Point"}
 }

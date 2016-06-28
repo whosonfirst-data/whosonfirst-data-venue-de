@@ -2,13 +2,14 @@
   "id": 136079467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.620932,48.054382,11.620932,48.054382",
     "geom:latitude":48.054382,
     "geom:longitude":11.620932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdstr. 1",
     "sg:city":"Unterhaching",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136079467,
-    "wof:lastmodified":1449076031,
+    "wof:lastmodified":1466215770,
     "wof:name":"Immobilien Italien Marken (italia, Marche)",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.620932,48.054382,11.620932,48.054382],
+  "bbox": [
+    11.620932,
+    48.054382,
+    11.620932,
+    48.054382
+],
   "geometry": {"coordinates":[11.620932,48.054382],"type":"Point"}
 }

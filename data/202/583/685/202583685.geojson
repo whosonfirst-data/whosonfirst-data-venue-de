@@ -2,13 +2,14 @@
   "id": 202583685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.857699,49.857983,10.857699,49.857983",
     "geom:latitude":49.857983,
     "geom:longitude":10.857699,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fcrzburger Str. 1",
     "sg:city":"Stegaurach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202583685,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1466217322,
     "wof:name":"Franz M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.857699,49.857983,10.857699,49.857983],
+  "bbox": [
+    10.857699,
+    49.857983,
+    10.857699,
+    49.857983
+],
   "geometry": {"coordinates":[10.857699,49.857983],"type":"Point"}
 }

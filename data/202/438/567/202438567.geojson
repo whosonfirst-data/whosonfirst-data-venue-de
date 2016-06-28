@@ -2,13 +2,14 @@
   "id": 202438567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.485123,53.469128,7.485123,53.469128",
     "geom:latitude":53.469128,
     "geom:longitude":7.485123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osterstr. 32",
     "sg:city":"Aurich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202438567,
-    "wof:lastmodified":1449060975,
+    "wof:lastmodified":1466214466,
     "wof:name":"Zoo-meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.485123,53.469128,7.485123,53.469128],
+  "bbox": [
+    7.485123,
+    53.469128,
+    7.485123,
+    53.469128
+],
   "geometry": {"coordinates":[7.485123,53.469128],"type":"Point"}
 }

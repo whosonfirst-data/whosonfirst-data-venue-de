@@ -2,13 +2,14 @@
   "id": 236485735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588382,50.344185,7.588382,50.344185",
     "geom:latitude":50.344185,
     "geom:longitude":7.588382,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohenzollernstr. 127",
     "sg:city":"Koblenz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236485735,
-    "wof:lastmodified":1449003706,
+    "wof:lastmodified":1466227703,
     "wof:name":"Radschlag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588382,50.344185,7.588382,50.344185],
+  "bbox": [
+    7.588382,
+    50.344185,
+    7.588382,
+    50.344185
+],
   "geometry": {"coordinates":[7.588382,50.344185],"type":"Point"}
 }

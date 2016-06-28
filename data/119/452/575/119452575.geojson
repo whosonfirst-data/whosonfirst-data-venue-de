@@ -2,13 +2,14 @@
   "id": 119452575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.382592,52.530293,13.382592,52.530293",
     "geom:latitude":52.530293,
     "geom:longitude":13.382592,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Invalidenstr. 110",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119452575,
-    "wof:lastmodified":1449041437,
+    "wof:lastmodified":1466242716,
     "wof:name":"Jpk Instruments Ag",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.382592,52.530293,13.382592,52.530293],
+  "bbox": [
+    13.382592,
+    52.530293,
+    13.382592,
+    52.530293
+],
   "geometry": {"coordinates":[13.382592,52.530293],"type":"Point"}
 }

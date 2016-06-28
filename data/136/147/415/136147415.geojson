@@ -2,13 +2,14 @@
   "id": 136147415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.153447,51.258701,7.153447,51.258701",
     "geom:latitude":51.258701,
     "geom:longitude":7.153447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofkamp 71",
     "sg:city":"Wuppertal / Elberfeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796715,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513,
+        85796715,
         85796517
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136147415,
-    "wof:lastmodified":1449076120,
+    "wof:lastmodified":1466218715,
     "wof:name":"Wellcome To Www.bestsmiles.de",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.153447,51.258701,7.153447,51.258701],
+  "bbox": [
+    7.153447,
+    51.258701,
+    7.153447,
+    51.258701
+],
   "geometry": {"coordinates":[7.153447,51.258701],"type":"Point"}
 }

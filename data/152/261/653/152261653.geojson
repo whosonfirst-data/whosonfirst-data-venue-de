@@ -2,13 +2,14 @@
   "id": 152261653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.006577,51.030243,7.006577,51.030243",
     "geom:latitude":51.030243,
     "geom:longitude":7.006577,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Manforter Str. 231",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863025,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85863025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152261653,
-    "wof:lastmodified":1449044368,
+    "wof:lastmodified":1466215330,
     "wof:name":"Angelike Rie\u00df Norge-reinigung",
     "wof:parent_id":85863025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.006577,51.030243,7.006577,51.030243],
+  "bbox": [
+    7.006577,
+    51.030243,
+    7.006577,
+    51.030243
+],
   "geometry": {"coordinates":[7.006577,51.030243],"type":"Point"}
 }

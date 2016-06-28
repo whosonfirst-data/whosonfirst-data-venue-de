@@ -2,13 +2,14 @@
   "id": 135394483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.984631,51.093601,13.984631,51.093601",
     "geom:latitude":51.093601,
     "geom:longitude":13.984631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Teichstr. 9",
     "sg:city":"Arnsdorf",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064231,
-        85633111,
         85682523,
-        85899965
+        85633111,
+        85899965,
+        102064231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135394483,
-    "wof:lastmodified":1449021563,
+    "wof:lastmodified":1466222393,
     "wof:name":"Kreissparkasse Dresden",
     "wof:parent_id":85899965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.984631,51.093601,13.984631,51.093601],
+  "bbox": [
+    13.984631,
+    51.093601,
+    13.984631,
+    51.093601
+],
   "geometry": {"coordinates":[13.984631,51.093601],"type":"Point"}
 }

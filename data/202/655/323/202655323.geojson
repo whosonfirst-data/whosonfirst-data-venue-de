@@ -2,13 +2,14 @@
   "id": 202655323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.481228,48.163906,11.481228,48.163906",
     "geom:latitude":48.163906,
     "geom:longitude":11.481228,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Verdistr. 21",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202655323,
-    "wof:lastmodified":1449061559,
+    "wof:lastmodified":1466218610,
     "wof:name":"E. B\u00f6hm Kunstmaler",
     "wof:parent_id":85899851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.481228,48.163906,11.481228,48.163906],
+  "bbox": [
+    11.481228,
+    48.163906,
+    11.481228,
+    48.163906
+],
   "geometry": {"coordinates":[11.481228,48.163906],"type":"Point"}
 }

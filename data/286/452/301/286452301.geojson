@@ -2,13 +2,14 @@
   "id": 286452301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.125458,51.488922,7.125458,51.488922",
     "geom:latitude":51.488922,
     "geom:longitude":7.125458,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00dcckendorfer Str. 127",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286452301,
-    "wof:lastmodified":1449015855,
+    "wof:lastmodified":1466229002,
     "wof:name":"K & H Bau Gmbh",
     "wof:parent_id":85795855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.125458,51.488922,7.125458,51.488922],
+  "bbox": [
+    7.125458,
+    51.488922,
+    7.125458,
+    51.488922
+],
   "geometry": {"coordinates":[7.125458,51.488922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303516805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.114947,50.49865,12.114947,50.49865",
     "geom:latitude":50.49865,
     "geom:longitude":12.114947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-Dietrich-Str. 4",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303516805,
-    "wof:lastmodified":1448998583,
+    "wof:lastmodified":1466236798,
     "wof:name":"Hans-joachim Winzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.114947,50.49865,12.114947,50.49865],
+  "bbox": [
+    12.114947,
+    50.49865,
+    12.114947,
+    50.49865
+],
   "geometry": {"coordinates":[12.114947,50.49865],"type":"Point"}
 }

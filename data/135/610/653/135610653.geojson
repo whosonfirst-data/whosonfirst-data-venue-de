@@ -2,13 +2,14 @@
   "id": 135610653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.200055,51.446255,7.200055,51.446255",
     "geom:latitude":51.446255,
     "geom:longitude":7.200055,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kuhlenkamp 40",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863241,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135610653,
-    "wof:lastmodified":1449023935,
+    "wof:lastmodified":1466239681,
     "wof:name":"Hydrebo Vertriebsges. Mbh",
     "wof:parent_id":85863241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.200055,51.446255,7.200055,51.446255],
+  "bbox": [
+    7.200055,
+    51.446255,
+    7.200055,
+    51.446255
+],
   "geometry": {"coordinates":[7.200055,51.446255],"type":"Point"}
 }

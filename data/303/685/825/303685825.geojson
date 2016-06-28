@@ -2,13 +2,14 @@
   "id": 303685825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.305054,52.51453,13.305054,52.51453",
     "geom:latitude":52.51453,
     "geom:longitude":13.305054,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilmersdorfer Str. 152",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303685825,
-    "wof:lastmodified":1449000505,
+    "wof:lastmodified":1466239135,
     "wof:name":"Klaus Leue",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.305054,52.51453,13.305054,52.51453],
+  "bbox": [
+    13.305054,
+    52.51453,
+    13.305054,
+    52.51453
+],
   "geometry": {"coordinates":[13.305054,52.51453],"type":"Point"}
 }

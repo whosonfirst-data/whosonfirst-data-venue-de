@@ -2,13 +2,14 @@
   "id": 119119949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.02623,49.410183,11.02623,49.410183",
     "geom:latitude":49.410183,
     "geom:longitude":11.02623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beim Eibisch 20",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119119949,
-    "wof:lastmodified":1449042777,
+    "wof:lastmodified":1466221925,
     "wof:name":"Robert Gruber Architekten",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.02623,49.410183,11.02623,49.410183],
+  "bbox": [
+    11.02623,
+    49.410183,
+    11.02623,
+    49.410183
+],
   "geometry": {"coordinates":[11.02623,49.410183],"type":"Point"}
 }

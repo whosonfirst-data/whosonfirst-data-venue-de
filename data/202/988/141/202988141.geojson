@@ -2,13 +2,14 @@
   "id": 202988141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.643514,48.152473,11.643514,48.152473",
     "geom:latitude":48.152473,
     "geom:longitude":11.643514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elbinger Str. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202988141,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466224681,
     "wof:name":"Franz Knapp",
     "wof:parent_id":85899143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.643514,48.152473,11.643514,48.152473],
+  "bbox": [
+    11.643514,
+    48.152473,
+    11.643514,
+    48.152473
+],
   "geometry": {"coordinates":[11.643514,48.152473],"type":"Point"}
 }

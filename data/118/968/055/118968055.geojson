@@ -2,13 +2,14 @@
   "id": 118968055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.027436,51.378311,7.027436,51.378311",
     "geom:latitude":51.378311,
     "geom:longitude":7.027436,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Il\u00e4nderh\u00f6he 19",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063791,
-        85633111,
         85682513,
-        85795419
+        85633111,
+        85795419,
+        102063791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118968055,
-    "wof:lastmodified":1449053235,
+    "wof:lastmodified":1466238593,
     "wof:name":"T. Tittel Garten- Und",
     "wof:parent_id":85795419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.027436,51.378311,7.027436,51.378311],
+  "bbox": [
+    7.027436,
+    51.378311,
+    7.027436,
+    51.378311
+],
   "geometry": {"coordinates":[7.027436,51.378311],"type":"Point"}
 }

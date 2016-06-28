@@ -2,13 +2,14 @@
   "id": 185684313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.18453,53.770599,10.18453,53.770599",
     "geom:latitude":53.770599,
     "geom:longitude":10.18453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fasanenweg 7",
     "sg:city":"Bargfeld-Stegen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185684313,
-    "wof:lastmodified":1449007011,
+    "wof:lastmodified":1466213989,
     "wof:name":"Marion Habermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.18453,53.770599,10.18453,53.770599],
+  "bbox": [
+    10.18453,
+    53.770599,
+    10.18453,
+    53.770599
+],
   "geometry": {"coordinates":[10.18453,53.770599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202561753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.437528,53.893291,11.437528,53.893291",
     "geom:latitude":53.893291,
     "geom:longitude":11.437528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Tierpark 5",
     "sg:city":"Wismar",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202561753,
-    "wof:lastmodified":1449061895,
+    "wof:lastmodified":1466216867,
     "wof:name":"Tierpark Wismar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.437528,53.893291,11.437528,53.893291],
+  "bbox": [
+    11.437528,
+    53.893291,
+    11.437528,
+    53.893291
+],
   "geometry": {"coordinates":[11.437528,53.893291],"type":"Point"}
 }

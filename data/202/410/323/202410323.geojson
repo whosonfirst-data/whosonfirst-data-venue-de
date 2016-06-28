@@ -2,13 +2,14 @@
   "id": 202410323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.083038,51.390228,7.083038,51.390228",
     "geom:latitude":51.390228,
     "geom:longitude":7.083038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kupferdreher Str. 173",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202410323,
-    "wof:lastmodified":1449060140,
+    "wof:lastmodified":1466213957,
     "wof:name":"Werner Thiel Gmbh",
     "wof:parent_id":85795085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.083038,51.390228,7.083038,51.390228],
+  "bbox": [
+    7.083038,
+    51.390228,
+    7.083038,
+    51.390228
+],
   "geometry": {"coordinates":[7.083038,51.390228],"type":"Point"}
 }

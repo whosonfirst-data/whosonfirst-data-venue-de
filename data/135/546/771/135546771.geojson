@@ -2,13 +2,14 @@
   "id": 135546771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.336065,51.441109,7.336065,51.441109",
     "geom:latitude":51.441109,
     "geom:longitude":7.336065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 24",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794853,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135546771,
-    "wof:lastmodified":1449020982,
+    "wof:lastmodified":1466235807,
     "wof:name":"Meng\u00fc-bau- Gmbh",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.336065,51.441109,7.336065,51.441109],
+  "bbox": [
+    7.336065,
+    51.441109,
+    7.336065,
+    51.441109
+],
   "geometry": {"coordinates":[7.336065,51.441109],"type":"Point"}
 }

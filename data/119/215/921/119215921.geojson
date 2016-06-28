@@ -2,13 +2,14 @@
   "id": 119215921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.018405,50.724407,7.018405,50.724407",
     "geom:latitude":50.724407,
     "geom:longitude":7.018405,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blechgasse 6",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795871,
+        85682513,
         85633111,
         101755969,
         102063683,
-        85682513
+        85795871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215921,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466230246,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Jakobus",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.018405,50.724407,7.018405,50.724407],
+  "bbox": [
+    7.018405,
+    50.724407,
+    7.018405,
+    50.724407
+],
   "geometry": {"coordinates":[7.018405,50.724407],"type":"Point"}
 }

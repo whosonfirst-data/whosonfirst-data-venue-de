@@ -2,13 +2,14 @@
   "id": 135484001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.126396,49.469524,11.126396,49.469524",
     "geom:latitude":49.469524,
     "geom:longitude":11.126396,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sibeliusstr 19",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135484001,
-    "wof:lastmodified":1449023824,
+    "wof:lastmodified":1466230195,
     "wof:name":"Mauser Plastic Gmbh",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.126396,49.469524,11.126396,49.469524],
+  "bbox": [
+    11.126396,
+    49.469524,
+    11.126396,
+    49.469524
+],
   "geometry": {"coordinates":[11.126396,49.469524],"type":"Point"}
 }

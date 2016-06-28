@@ -2,13 +2,14 @@
   "id": 135359311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542179,52.013222,8.542179,52.013222",
     "geom:latitude":52.013222,
     "geom:longitude":8.542179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ehlentruper Weg 18",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863223,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85863223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135359311,
-    "wof:lastmodified":1449020935,
+    "wof:lastmodified":1466218918,
     "wof:name":"Bawa Backwaren- Vertriebsgesellschaft Mbh",
     "wof:parent_id":85863223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542179,52.013222,8.542179,52.013222],
+  "bbox": [
+    8.542179,
+    52.013222,
+    8.542179,
+    52.013222
+],
   "geometry": {"coordinates":[8.542179,52.013222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135292431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.645337,50.844276,12.645337,50.844276",
     "geom:latitude":50.844276,
     "geom:longitude":12.645337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 87",
     "sg:city":"Callenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135292431,
-    "wof:lastmodified":1449021253,
+    "wof:lastmodified":1466213171,
     "wof:name":"Klaus Winkler",
     "wof:parent_id":101823145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.645337,50.844276,12.645337,50.844276],
+  "bbox": [
+    12.645337,
+    50.844276,
+    12.645337,
+    50.844276
+],
   "geometry": {"coordinates":[12.645337,50.844276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135820103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.181974,52.540192,13.181974,52.540192",
     "geom:latitude":52.540192,
     "geom:longitude":13.181974,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Kappe 98",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899379,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135820103,
-    "wof:lastmodified":1449022578,
+    "wof:lastmodified":1466243990,
     "wof:name":"Arbeitsgemeinschaft Freier Stillgruppen",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.181974,52.540192,13.181974,52.540192],
+  "bbox": [
+    13.181974,
+    52.540192,
+    13.181974,
+    52.540192
+],
   "geometry": {"coordinates":[13.181974,52.540192],"type":"Point"}
 }

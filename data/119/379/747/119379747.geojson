@@ -2,13 +2,14 @@
   "id": 119379747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.006414,51.159378,7.006414,51.159378",
     "geom:latitude":51.159378,
     "geom:longitude":7.006414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinstr. 20",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796405,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85796405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119379747,
-    "wof:lastmodified":1449042405,
+    "wof:lastmodified":1466241043,
     "wof:name":"Tischlerei Reuber",
     "wof:parent_id":85796405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.006414,51.159378,7.006414,51.159378],
+  "bbox": [
+    7.006414,
+    51.159378,
+    7.006414,
+    51.159378
+],
   "geometry": {"coordinates":[7.006414,51.159378],"type":"Point"}
 }

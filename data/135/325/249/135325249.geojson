@@ -2,13 +2,14 @@
   "id": 135325249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.126053,51.190048,10.126053,51.190048",
     "geom:latitude":51.190048,
     "geom:longitude":10.126053,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Str. 20",
     "sg:city":"Meinhard",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135325249,
-    "wof:lastmodified":1449022187,
+    "wof:lastmodified":1466215946,
     "wof:name":"Werner Herwig",
     "wof:parent_id":85682531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.126053,51.190048,10.126053,51.190048],
+  "bbox": [
+    10.126053,
+    51.190048,
+    10.126053,
+    51.190048
+],
   "geometry": {"coordinates":[10.126053,51.190048],"type":"Point"}
 }

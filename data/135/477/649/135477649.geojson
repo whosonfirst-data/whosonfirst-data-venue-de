@@ -2,13 +2,14 @@
   "id": 135477649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.014256,50.812515,13.014256,50.812515",
     "geom:latitude":50.812515,
     "geom:longitude":13.014256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Adelsbergturm 3",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064223,
-        85633111,
         85682523,
-        85899377
+        85633111,
+        85899377,
+        102064223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135477649,
-    "wof:lastmodified":1449021492,
+    "wof:lastmodified":1466229564,
     "wof:name":"Hasenklause",
     "wof:parent_id":85899377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.014256,50.812515,13.014256,50.812515],
+  "bbox": [
+    13.014256,
+    50.812515,
+    13.014256,
+    50.812515
+],
   "geometry": {"coordinates":[13.014256,50.812515],"type":"Point"}
 }

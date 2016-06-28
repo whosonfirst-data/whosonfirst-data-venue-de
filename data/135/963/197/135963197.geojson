@@ -2,13 +2,14 @@
   "id": 135963197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.056114,50.718719,7.056114,50.718719",
     "geom:latitude":50.718719,
     "geom:longitude":7.056114,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rochusstr. 73",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795871,
+        85682513,
         85633111,
         101755969,
         102063683,
-        85682513
+        85795871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135963197,
-    "wof:lastmodified":1449021292,
+    "wof:lastmodified":1466244803,
     "wof:name":"Plate Holding Gmbh",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.056114,50.718719,7.056114,50.718719],
+  "bbox": [
+    7.056114,
+    50.718719,
+    7.056114,
+    50.718719
+],
   "geometry": {"coordinates":[7.056114,50.718719],"type":"Point"}
 }

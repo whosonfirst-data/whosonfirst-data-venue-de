@@ -2,13 +2,14 @@
   "id": 136179403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65625,49.882019,8.65625,49.882019",
     "geom:latitude":49.882019,
     "geom:longitude":8.65625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Liebfrauenstr. 27",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136179403,
-    "wof:lastmodified":1449076135,
+    "wof:lastmodified":1466220137,
     "wof:name":"Andreas Stahl",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.65625,49.882019,8.65625,49.882019],
+  "bbox": [
+    8.65625,
+    49.882019,
+    8.65625,
+    49.882019
+],
   "geometry": {"coordinates":[8.65625,49.882019],"type":"Point"}
 }

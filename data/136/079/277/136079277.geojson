@@ -2,13 +2,14 @@
   "id": 136079277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.492954,48.135944,11.492954,48.135944",
     "geom:latitude":48.135944,
     "geom:longitude":11.492954,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstr. 81",
     "sg:city":"Muenchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136079277,
-    "wof:lastmodified":1449076026,
+    "wof:lastmodified":1466215761,
     "wof:name":"Immobilien Bahamas",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.492954,48.135944,11.492954,48.135944],
+  "bbox": [
+    11.492954,
+    48.135944,
+    11.492954,
+    48.135944
+],
   "geometry": {"coordinates":[11.492954,48.135944],"type":"Point"}
 }

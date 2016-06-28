@@ -2,13 +2,14 @@
   "id": 118980815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.474124,48.988945,8.474124,48.988945",
     "geom:latitude":48.988945,
     "geom:longitude":8.474124,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erich-Heckel-Str. 50",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118980815,
-    "wof:lastmodified":1449053247,
+    "wof:lastmodified":1466238993,
     "wof:name":"Bernd Bausch Architekt",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.474124,48.988945,8.474124,48.988945],
+  "bbox": [
+    8.474124,
+    48.988945,
+    8.474124,
+    48.988945
+],
   "geometry": {"coordinates":[8.474124,48.988945],"type":"Point"}
 }

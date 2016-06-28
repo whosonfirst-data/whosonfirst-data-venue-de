@@ -2,13 +2,14 @@
   "id": 136086367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.616762,52.135956,11.616762,52.135956",
     "geom:latitude":52.135956,
     "geom:longitude":11.616762,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebendorfer Stra\u00dfe 3",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136086367,
-    "wof:lastmodified":1449075825,
+    "wof:lastmodified":1466216107,
     "wof:name":"Jungdemokratinnen-junge Linke Sachsen-anhalt",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.616762,52.135956,11.616762,52.135956],
+  "bbox": [
+    11.616762,
+    52.135956,
+    11.616762,
+    52.135956
+],
   "geometry": {"coordinates":[11.616762,52.135956],"type":"Point"}
 }

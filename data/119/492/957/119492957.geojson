@@ -2,13 +2,14 @@
   "id": 119492957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.131094,51.264156,7.131094,51.264156",
     "geom:latitude":51.264156,
     "geom:longitude":7.131094,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Briller Str. 185",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119492957,
-    "wof:lastmodified":1449040879,
+    "wof:lastmodified":1466243434,
     "wof:name":"Rur Tankstellen Gmbh",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.131094,51.264156,7.131094,51.264156],
+  "bbox": [
+    7.131094,
+    51.264156,
+    7.131094,
+    51.264156
+],
   "geometry": {"coordinates":[7.131094,51.264156],"type":"Point"}
 }

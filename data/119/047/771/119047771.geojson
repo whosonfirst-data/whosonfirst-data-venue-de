@@ -2,13 +2,14 @@
   "id": 119047771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.911693,53.04723,8.911693,53.04723",
     "geom:latitude":53.04723,
     "geom:longitude":8.911693,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eggestr. 59",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796437,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119047771,
-    "wof:lastmodified":1449042598,
+    "wof:lastmodified":1466215184,
     "wof:name":"Hellfried Sch\u00fctz Architekt",
     "wof:parent_id":85796437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.911693,53.04723,8.911693,53.04723],
+  "bbox": [
+    8.911693,
+    53.04723,
+    8.911693,
+    53.04723
+],
   "geometry": {"coordinates":[8.911693,53.04723],"type":"Point"}
 }

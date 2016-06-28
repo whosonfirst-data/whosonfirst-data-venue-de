@@ -2,13 +2,14 @@
   "id": 202970113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.420673,49.78532,9.420673,49.78532",
     "geom:latitude":49.78532,
     "geom:longitude":9.420673,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandweg 12",
     "sg:city":"Wertheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202970113,
-    "wof:lastmodified":1449062591,
+    "wof:lastmodified":1466224405,
     "wof:name":"W. Heinzelmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.420673,49.78532,9.420673,49.78532],
+  "bbox": [
+    9.420673,
+    49.78532,
+    9.420673,
+    49.78532
+],
   "geometry": {"coordinates":[9.420673,49.78532],"type":"Point"}
 }

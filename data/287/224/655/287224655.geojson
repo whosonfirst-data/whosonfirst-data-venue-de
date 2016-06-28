@@ -2,13 +2,14 @@
   "id": 287224655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.780163,49.395618,11.780163,49.395618",
     "geom:latitude":49.395618,
     "geom:longitude":11.780163,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlheimer Str. 4",
     "sg:city":"Ursensollen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287224655,
-    "wof:lastmodified":1449001327,
+    "wof:lastmodified":1466231020,
     "wof:name":"Rockhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.780163,49.395618,11.780163,49.395618],
+  "bbox": [
+    11.780163,
+    49.395618,
+    11.780163,
+    49.395618
+],
   "geometry": {"coordinates":[11.780163,49.395618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202734389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.881088,49.865868,11.881088,49.865868",
     "geom:latitude":49.865868,
     "geom:longitude":11.881088,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6ntgenstr. 13",
     "sg:city":"Kemnath",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202734389,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466220057,
     "wof:name":"Alfred Stich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.881088,49.865868,11.881088,49.865868],
+  "bbox": [
+    11.881088,
+    49.865868,
+    11.881088,
+    49.865868
+],
   "geometry": {"coordinates":[11.881088,49.865868],"type":"Point"}
 }

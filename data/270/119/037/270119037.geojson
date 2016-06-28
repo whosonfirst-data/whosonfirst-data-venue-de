@@ -2,13 +2,14 @@
   "id": 270119037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.619927,50.883072,11.619927,50.883072",
     "geom:latitude":50.883072,
     "geom:longitude":11.619927,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ernst-Schneller-Str. 4",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270119037,
-    "wof:lastmodified":1449010403,
+    "wof:lastmodified":1466224171,
     "wof:name":"J. Jonas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.619927,50.883072,11.619927,50.883072],
+  "bbox": [
+    11.619927,
+    50.883072,
+    11.619927,
+    50.883072
+],
   "geometry": {"coordinates":[11.619927,50.883072],"type":"Point"}
 }

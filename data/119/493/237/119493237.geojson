@@ -2,13 +2,14 @@
   "id": 119493237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.6557,53.0299,8.6557,53.0299",
     "geom:latitude":53.0299,
     "geom:longitude":8.6557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasporter Damm 200",
     "sg:city":"Delmenhorst",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063971,
-        85633111,
         85682555,
-        85795997
+        85633111,
+        85795997,
+        102063971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119493237,
-    "wof:lastmodified":1449041622,
+    "wof:lastmodified":1466243646,
     "wof:name":"Koy Tankstellen Gmbh",
     "wof:parent_id":85795997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.6557,53.0299,8.6557,53.0299],
+  "bbox": [
+    8.6557,
+    53.0299,
+    8.6557,
+    53.0299
+],
   "geometry": {"coordinates":[8.6557,53.0299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202807875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.59118,48.109306,11.59118,48.109306",
     "geom:latitude":48.109306,
     "geom:longitude":11.59118,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trauchbergstr. 4",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202807875,
-    "wof:lastmodified":1449060765,
+    "wof:lastmodified":1466221369,
     "wof:name":"T. Janner Kunstmaler",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.59118,48.109306,11.59118,48.109306],
+  "bbox": [
+    11.59118,
+    48.109306,
+    11.59118,
+    48.109306
+],
   "geometry": {"coordinates":[11.59118,48.109306],"type":"Point"}
 }

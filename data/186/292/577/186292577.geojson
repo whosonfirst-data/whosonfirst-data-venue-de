@@ -2,13 +2,14 @@
   "id": 186292577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.966598,51.165245,6.966598,51.165245",
     "geom:latitude":51.165245,
     "geom:longitude":6.966598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Theodor-Storm-Weg 100",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186292577,
-    "wof:lastmodified":1449050476,
+    "wof:lastmodified":1466216279,
     "wof:name":"M. Schmidt",
     "wof:parent_id":85795775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.966598,51.165245,6.966598,51.165245],
+  "bbox": [
+    6.966598,
+    51.165245,
+    6.966598,
+    51.165245
+],
   "geometry": {"coordinates":[6.966598,51.165245],"type":"Point"}
 }

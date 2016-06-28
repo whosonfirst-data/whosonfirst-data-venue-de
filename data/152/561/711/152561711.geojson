@@ -2,13 +2,14 @@
   "id": 152561711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.209832,48.808037,9.209832,48.808037",
     "geom:latitude":48.808037,
     "geom:longitude":9.209832,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hallstr. 25",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152561711,
-    "wof:lastmodified":1449047577,
+    "wof:lastmodified":1466221601,
     "wof:name":"Van De Velde Gebr\u00f6ders Verwaltungs Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.209832,48.808037,9.209832,48.808037],
+  "bbox": [
+    9.209832,
+    48.808037,
+    9.209832,
+    48.808037
+],
   "geometry": {"coordinates":[9.209832,48.808037],"type":"Point"}
 }

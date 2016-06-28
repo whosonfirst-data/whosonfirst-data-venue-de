@@ -2,13 +2,14 @@
   "id": 336823445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.10225,47.486542,11.10225,47.486542",
     "geom:latitude":47.486542,
     "geom:longitude":11.10225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pitzaustr. 11",
     "sg:city":"Garmisch-Partenkirchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336823445,
-    "wof:lastmodified":1448997993,
+    "wof:lastmodified":1466237678,
     "wof:name":"Franz Maurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.10225,47.486542,11.10225,47.486542],
+  "bbox": [
+    11.10225,
+    47.486542,
+    11.10225,
+    47.486542
+],
   "geometry": {"coordinates":[11.10225,47.486542],"type":"Point"}
 }

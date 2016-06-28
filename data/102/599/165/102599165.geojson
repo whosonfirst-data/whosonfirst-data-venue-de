@@ -2,13 +2,14 @@
   "id": 102599165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.279752,49.515339,11.279752,49.515339",
     "geom:latitude":49.515339,
     "geom:longitude":11.279752,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heroldstr. 12",
     "sg:city":"Lauf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102599165,
-    "wof:lastmodified":1449068889,
+    "wof:lastmodified":1466213209,
     "wof:name":"Brauerei Simon Kg",
     "wof:parent_id":101755847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.279752,49.515339,11.279752,49.515339],
+  "bbox": [
+    11.279752,
+    49.515339,
+    11.279752,
+    49.515339
+],
   "geometry": {"coordinates":[11.279752,49.515339],"type":"Point"}
 }

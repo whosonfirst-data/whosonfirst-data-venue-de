@@ -2,13 +2,14 @@
   "id": 320351955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.454613,34.360149,-88.454613,34.360149",
     "geom:latitude":34.360149,
     "geom:longitude":-88.454613,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlachthofdtra\u00dfe 4",
     "sg:city":"Werningerode",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320351955,
-    "wof:lastmodified":1449014415,
+    "wof:lastmodified":1466239692,
     "wof:name":"Ars Dental Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.454613,34.360149,-88.454613,34.360149],
-  "geometry": {"coordinates":[-88.454613,34.360149],"type":"Point"}
+  "bbox": [
+    -88.454613,
+    34.360149,
+    -88.454613,
+    34.360149
+],
+  "geometry": {"coordinates":[-88.45461299999999,34.360149],"type":"Point"}
 }

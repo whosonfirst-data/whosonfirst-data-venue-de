@@ -2,13 +2,14 @@
   "id": 118789643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.996674,49.2327,6.996674,49.2327",
     "geom:latitude":49.2327,
     "geom:longitude":6.996674,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Johanner Markt 18",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118789643,
-    "wof:lastmodified":1449053773,
+    "wof:lastmodified":1466229143,
     "wof:name":"Rudolf M\u00fcller Antiquit\u00e4ten",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.996674,49.2327,6.996674,49.2327],
+  "bbox": [
+    6.996674,
+    49.2327,
+    6.996674,
+    49.2327
+],
   "geometry": {"coordinates":[6.996674,49.2327],"type":"Point"}
 }

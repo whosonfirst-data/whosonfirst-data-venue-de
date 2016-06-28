@@ -2,13 +2,14 @@
   "id": 119372017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.116941,51.187496,7.116941,51.187496",
     "geom:latitude":51.187496,
     "geom:longitude":7.116941,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterkohlfurth 65b",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063751,
-        85633111,
         85682513,
-        85795351
+        85633111,
+        85795351,
+        102063751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119372017,
-    "wof:lastmodified":1449042466,
+    "wof:lastmodified":1466240837,
     "wof:name":"Robert Stein",
     "wof:parent_id":85795351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.116941,51.187496,7.116941,51.187496],
+  "bbox": [
+    7.116941,
+    51.187496,
+    7.116941,
+    51.187496
+],
   "geometry": {"coordinates":[7.116941,51.187496],"type":"Point"}
 }

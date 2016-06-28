@@ -2,13 +2,14 @@
   "id": 119499209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.363195,48.242256,10.363195,48.242256",
     "geom:latitude":48.242256,
     "geom:longitude":10.363195,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mindelheimer Str. 9",
     "sg:city":"Krumbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119499209,
-    "wof:lastmodified":1449041322,
+    "wof:lastmodified":1466243606,
     "wof:name":"Alois Singer",
     "wof:parent_id":101785447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.363195,48.242256,10.363195,48.242256],
+  "bbox": [
+    10.363195,
+    48.242256,
+    10.363195,
+    48.242256
+],
   "geometry": {"coordinates":[10.363195,48.242256],"type":"Point"}
 }

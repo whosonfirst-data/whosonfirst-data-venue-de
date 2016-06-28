@@ -2,13 +2,14 @@
   "id": 220200215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.395145,51.311131,7.395145,51.311131",
     "geom:latitude":51.311131,
     "geom:longitude":7.395145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 82",
     "sg:city":"Ennepetal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220200215,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466218330,
     "wof:name":"Heinrich Geist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.395145,51.311131,7.395145,51.311131],
+  "bbox": [
+    7.395145,
+    51.311131,
+    7.395145,
+    51.311131
+],
   "geometry": {"coordinates":[7.395145,51.311131],"type":"Point"}
 }

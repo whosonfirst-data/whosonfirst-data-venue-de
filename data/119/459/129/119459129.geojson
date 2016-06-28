@@ -2,13 +2,14 @@
   "id": 119459129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.785076,51.036209,13.785076,51.036209",
     "geom:latitude":51.036209,
     "geom:longitude":13.785076,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Comeniusstr 139",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900115,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119459129,
-    "wof:lastmodified":1449041874,
+    "wof:lastmodified":1466242888,
     "wof:name":"Elnic In Dresden Gmbh",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.785076,51.036209,13.785076,51.036209],
+  "bbox": [
+    13.785076,
+    51.036209,
+    13.785076,
+    51.036209
+],
   "geometry": {"coordinates":[13.785076,51.036209],"type":"Point"}
 }

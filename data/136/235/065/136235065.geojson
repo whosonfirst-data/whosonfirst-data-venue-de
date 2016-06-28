@@ -2,13 +2,14 @@
   "id": 136235065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.094103,51.420414,7.094103,51.420414",
     "geom:latitude":51.420414,
     "geom:longitude":7.094103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00dcberruhrstr. 407",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795543,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136235065,
-    "wof:lastmodified":1449075144,
+    "wof:lastmodified":1466223291,
     "wof:name":"M. Hammacher",
     "wof:parent_id":85795543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.094103,51.420414,7.094103,51.420414],
+  "bbox": [
+    7.094103,
+    51.420414,
+    7.094103,
+    51.420414
+],
   "geometry": {"coordinates":[7.094103,51.420414],"type":"Point"}
 }

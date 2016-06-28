@@ -2,13 +2,14 @@
   "id": 102601381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.839649,50.833488,12.839649,50.833488",
     "geom:latitude":50.833488,
     "geom:longitude":12.839649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Limbacher Str. 353",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102601381,
-    "wof:lastmodified":1449068850,
+    "wof:lastmodified":1466213274,
     "wof:name":"Festartikel Sauer",
     "wof:parent_id":101748601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.839649,50.833488,12.839649,50.833488],
+  "bbox": [
+    12.839649,
+    50.833488,
+    12.839649,
+    50.833488
+],
   "geometry": {"coordinates":[12.839649,50.833488],"type":"Point"}
 }

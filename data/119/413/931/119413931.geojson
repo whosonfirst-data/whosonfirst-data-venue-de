@@ -2,13 +2,14 @@
   "id": 119413931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.8218,53.072208,8.8218,53.072208",
     "geom:latitude":53.072208,
     "geom:longitude":8.8218,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weberstr. 18",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119413931,
-    "wof:lastmodified":1449041237,
+    "wof:lastmodified":1466241982,
     "wof:name":"Aucoop",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.8218,53.072208,8.8218,53.072208],
+  "bbox": [
+    8.8218,
+    53.072208,
+    8.8218,
+    53.072208
+],
   "geometry": {"coordinates":[8.8218,53.072208],"type":"Point"}
 }

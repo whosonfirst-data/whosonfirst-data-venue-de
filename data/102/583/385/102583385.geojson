@@ -2,13 +2,14 @@
   "id": 102583385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.915333,48.855816,12.915333,48.855816",
     "geom:latitude":48.855816,
     "geom:longitude":12.915333,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Metten",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102583385,
-    "wof:lastmodified":1449069679,
+    "wof:lastmodified":1466233265,
     "wof:name":"Sparkasse Deggendorf",
     "wof:parent_id":101783037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.915333,48.855816,12.915333,48.855816],
+  "bbox": [
+    12.915333,
+    48.855816,
+    12.915333,
+    48.855816
+],
   "geometry": {"coordinates":[12.915333,48.855816],"type":"Point"}
 }

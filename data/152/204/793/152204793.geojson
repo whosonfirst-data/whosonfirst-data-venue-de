@@ -2,13 +2,14 @@
   "id": 152204793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.024153,49.328773,11.024153,49.328773",
     "geom:latitude":49.328773,
     "geom:longitude":11.024153,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdliche Ringstr. 2",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899347,
+        85682571,
         85633111,
         101833013,
         102063417,
-        85682571
+        85899347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152204793,
-    "wof:lastmodified":1449049030,
+    "wof:lastmodified":1466214157,
     "wof:name":"Modehaus K\u00e4ferlein Gmbh",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.024153,49.328773,11.024153,49.328773],
+  "bbox": [
+    11.024153,
+    49.328773,
+    11.024153,
+    49.328773
+],
   "geometry": {"coordinates":[11.024153,49.328773],"type":"Point"}
 }

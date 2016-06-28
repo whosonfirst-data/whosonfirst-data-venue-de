@@ -2,13 +2,14 @@
   "id": 135450251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.889717,49.45908,10.889717,49.45908",
     "geom:latitude":49.45908,
     "geom:longitude":10.889717,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrther Str 8",
     "sg:city":"Cadolzburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135450251,
-    "wof:lastmodified":1449023548,
+    "wof:lastmodified":1466227210,
     "wof:name":"Vereinigte Sparkasse",
     "wof:parent_id":101826745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.889717,49.45908,10.889717,49.45908],
+  "bbox": [
+    10.889717,
+    49.45908,
+    10.889717,
+    49.45908
+],
   "geometry": {"coordinates":[10.889717,49.45908],"type":"Point"}
 }

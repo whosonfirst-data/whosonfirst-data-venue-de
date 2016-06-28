@@ -2,13 +2,14 @@
   "id": 202429163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.524663,52.368153,10.524663,52.368153",
     "geom:latitude":52.368153,
     "geom:longitude":10.524663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 1 a",
     "sg:city":"Vordorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202429163,
-    "wof:lastmodified":1449062511,
+    "wof:lastmodified":1466214282,
     "wof:name":"Chaos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.524663,52.368153,10.524663,52.368153],
+  "bbox": [
+    10.524663,
+    52.368153,
+    10.524663,
+    52.368153
+],
   "geometry": {"coordinates":[10.524663,52.368153],"type":"Point"}
 }

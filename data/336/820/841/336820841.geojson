@@ -2,13 +2,14 @@
   "id": 336820841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.707442,51.080723,13.707442,51.080723",
     "geom:latitude":51.080723,
     "geom:longitude":13.707442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trachauer Str. 24",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336820841,
-    "wof:lastmodified":1448997514,
+    "wof:lastmodified":1466237834,
     "wof:name":"Frank Lichter",
     "wof:parent_id":85899901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.707442,51.080723,13.707442,51.080723],
+  "bbox": [
+    13.707442,
+    51.080723,
+    13.707442,
+    51.080723
+],
   "geometry": {"coordinates":[13.707442,51.080723],"type":"Point"}
 }

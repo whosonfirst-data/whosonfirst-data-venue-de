@@ -2,13 +2,14 @@
   "id": 119171059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.477869,51.305645,9.477869,51.305645",
     "geom:latitude":51.305645,
     "geom:longitude":9.477869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenbeckstr. 30",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906345,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119171059,
-    "wof:lastmodified":1449043552,
+    "wof:lastmodified":1466226073,
     "wof:name":"Wallerich Und Partner Ingenieurgesellschaft",
     "wof:parent_id":85906345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.477869,51.305645,9.477869,51.305645],
+  "bbox": [
+    9.477869,
+    51.305645,
+    9.477869,
+    51.305645
+],
   "geometry": {"coordinates":[9.477869,51.305645],"type":"Point"}
 }

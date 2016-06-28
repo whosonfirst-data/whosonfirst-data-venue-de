@@ -2,13 +2,14 @@
   "id": 119151417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.183441,53.477543,10.183441,53.477543",
     "geom:latitude":53.477543,
     "geom:longitude":10.183441,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lundtweg 16",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898941,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119151417,
-    "wof:lastmodified":1449040902,
+    "wof:lastmodified":1466224258,
     "wof:name":"Werner H\u00e4rlein Architekt",
     "wof:parent_id":85898941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.183441,53.477543,10.183441,53.477543],
+  "bbox": [
+    10.183441,
+    53.477543,
+    10.183441,
+    53.477543
+],
   "geometry": {"coordinates":[10.183441,53.477543],"type":"Point"}
 }

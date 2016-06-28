@@ -2,13 +2,14 @@
   "id": 135435517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.195827,49.003792,12.195827,49.003792",
     "geom:latitude":49.003792,
     "geom:longitude":12.195827,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensburger Str. 8",
     "sg:city":"Barbing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135435517,
-    "wof:lastmodified":1449023725,
+    "wof:lastmodified":1466225897,
     "wof:name":"Sparkasse Barbing",
     "wof:parent_id":101758623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.195827,49.003792,12.195827,49.003792],
+  "bbox": [
+    12.195827,
+    49.003792,
+    12.195827,
+    49.003792
+],
   "geometry": {"coordinates":[12.195827,49.003792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136135929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701118,40.306122,-87.701118,40.306122",
     "geom:latitude":40.306122,
     "geom:longitude":-87.701118,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrass 12",
     "sg:city":"Heningen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136135929,
-    "wof:lastmodified":1449075426,
+    "wof:lastmodified":1466218219,
     "wof:name":"The Ca$h 4 Mail Homepage",
     "wof:parent_id":85941121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.701118,40.306122,-87.701118,40.306122],
-  "geometry": {"coordinates":[-87.701118,40.306122],"type":"Point"}
+  "bbox": [
+    -87.701118,
+    40.306122,
+    -87.701118,
+    40.306122
+],
+  "geometry": {"coordinates":[-87.70111799999999,40.306122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119053607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.450442,51.28146,6.450442,51.28146",
     "geom:latitude":51.28146,
     "geom:longitude":6.450442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mertensweg 12",
     "sg:city":"Willich",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063773,
-        85633111,
         85682513,
-        85862873
+        85633111,
+        85862873,
+        102063773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119053607,
-    "wof:lastmodified":1449041313,
+    "wof:lastmodified":1466215749,
     "wof:name":"Hermann Ahrendt Architekt",
     "wof:parent_id":85862873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.450442,51.28146,6.450442,51.28146],
+  "bbox": [
+    6.450442,
+    51.28146,
+    6.450442,
+    51.28146
+],
   "geometry": {"coordinates":[6.450442,51.28146],"type":"Point"}
 }

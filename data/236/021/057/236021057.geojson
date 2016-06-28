@@ -2,13 +2,14 @@
   "id": 236021057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.429175,51.9422,11.429175,51.9422",
     "geom:latitude":51.9422,
     "geom:longitude":11.429175,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berggasse 2",
     "sg:city":"Egeln",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236021057,
-    "wof:lastmodified":1449003783,
+    "wof:lastmodified":1466219047,
     "wof:name":"Peter Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.429175,51.9422,11.429175,51.9422],
+  "bbox": [
+    11.429175,
+    51.9422,
+    11.429175,
+    51.9422
+],
   "geometry": {"coordinates":[11.429175,51.9422],"type":"Point"}
 }

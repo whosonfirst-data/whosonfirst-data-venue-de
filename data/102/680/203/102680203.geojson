@@ -2,13 +2,14 @@
   "id": 102680203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110705,47.872463,12.110705,47.872463",
     "geom:latitude":47.872463,
     "geom:longitude":12.110705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Rosenheim",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102680203,
-    "wof:lastmodified":1449069486,
+    "wof:lastmodified":1466215555,
     "wof:name":"I. Born",
     "wof:parent_id":101748471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.110705,47.872463,12.110705,47.872463],
+  "bbox": [
+    12.110705,
+    47.872463,
+    12.110705,
+    47.872463
+],
   "geometry": {"coordinates":[12.110705,47.872463],"type":"Point"}
 }

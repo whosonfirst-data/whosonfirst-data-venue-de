@@ -2,13 +2,14 @@
   "id": 135359935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53293,52.023087,8.53293,52.023087",
     "geom:latitude":52.023087,
     "geom:longitude":8.53293,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jahnplatz",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135359935,
-    "wof:lastmodified":1449020936,
+    "wof:lastmodified":1466218977,
     "wof:name":"Ellermeier Gmbh",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53293,52.023087,8.53293,52.023087],
+  "bbox": [
+    8.53293,
+    52.023087,
+    8.53293,
+    52.023087
+],
   "geometry": {"coordinates":[8.53293,52.023087],"type":"Point"}
 }

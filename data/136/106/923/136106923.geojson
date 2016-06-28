@@ -2,13 +2,14 @@
   "id": 136106923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.01017,44.512791,-88.01017,44.512791",
     "geom:latitude":44.512791,
     "geom:longitude":-88.01017,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kariesallee 3",
     "sg:city":"Juhuhausen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"54324",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877935,
+        85688517,
         85633793,
         101732365,
         102081867,
-        85688517
+        85877935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136106923,
-    "wof:lastmodified":1449074905,
+    "wof:lastmodified":1466217040,
     "wof:name":"Plombenzieher.de - Errate Den Schokoriegel!",
     "wof:parent_id":85877935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.01017,44.512791,-88.01017,44.512791],
+  "bbox": [
+    -88.01017,
+    44.512791,
+    -88.01017,
+    44.512791
+],
   "geometry": {"coordinates":[-88.01017,44.512791],"type":"Point"}
 }

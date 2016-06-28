@@ -2,13 +2,14 @@
   "id": 152257791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.965253,53.611881,9.965253,53.611881",
     "geom:latitude":53.611881,
     "geom:longitude":9.965253,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Willhoop 7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898947,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505,
+        85898947,
         85898969
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152257791,
-    "wof:lastmodified":1449045667,
+    "wof:lastmodified":1466215251,
     "wof:name":"Martex Textilien Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.965253,53.611881,9.965253,53.611881],
+  "bbox": [
+    9.965253,
+    53.611881,
+    9.965253,
+    53.611881
+],
   "geometry": {"coordinates":[9.965253,53.611881],"type":"Point"}
 }

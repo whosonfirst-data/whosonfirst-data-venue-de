@@ -2,13 +2,14 @@
   "id": 135664261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.768541,52.461494,13.768541,52.461494",
     "geom:latitude":52.461494,
     "geom:longitude":13.768541,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meisensteg 10",
     "sg:city":"Woltersdorf",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063935,
-        85633111,
         85682553,
-        85900029
+        85633111,
+        85900029,
+        102063935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135664261,
-    "wof:lastmodified":1449022111,
+    "wof:lastmodified":1466241279,
     "wof:name":"Joachim Pirch",
     "wof:parent_id":85900029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.768541,52.461494,13.768541,52.461494],
+  "bbox": [
+    13.768541,
+    52.461494,
+    13.768541,
+    52.461494
+],
   "geometry": {"coordinates":[13.768541,52.461494],"type":"Point"}
 }

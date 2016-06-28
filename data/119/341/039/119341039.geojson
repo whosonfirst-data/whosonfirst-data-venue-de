@@ -2,13 +2,14 @@
   "id": 119341039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.07723,48.555355,10.07723,48.555355",
     "geom:latitude":48.555355,
     "geom:longitude":10.07723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mehrstetter Str. 33",
     "sg:city":"Ballendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119341039,
-    "wof:lastmodified":1449043447,
+    "wof:lastmodified":1466239584,
     "wof:name":"Jakob Miller",
     "wof:parent_id":101905771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.07723,48.555355,10.07723,48.555355],
+  "bbox": [
+    10.07723,
+    48.555355,
+    10.07723,
+    48.555355
+],
   "geometry": {"coordinates":[10.07723,48.555355],"type":"Point"}
 }

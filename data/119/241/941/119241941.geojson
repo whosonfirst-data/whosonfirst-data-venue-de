@@ -2,13 +2,14 @@
   "id": 119241941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.594783,52.051052,8.594783,52.051052",
     "geom:latitude":52.051052,
     "geom:longitude":8.594783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rabenhof 76",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795637,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119241941,
-    "wof:lastmodified":1449043496,
+    "wof:lastmodified":1466232807,
     "wof:name":"Stadtteilbibliothek O Freizeitzentrum Baumheide",
     "wof:parent_id":85795637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.594783,52.051052,8.594783,52.051052],
+  "bbox": [
+    8.594783,
+    52.051052,
+    8.594783,
+    52.051052
+],
   "geometry": {"coordinates":[8.594783,52.051052],"type":"Point"}
 }

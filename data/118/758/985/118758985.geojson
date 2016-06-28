@@ -2,13 +2,14 @@
   "id": 118758985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.517872,51.266277,6.517872,51.266277",
     "geom:latitude":51.266277,
     "geom:longitude":6.517872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siemensring 16",
     "sg:city":"Willich",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063773,
-        85633111,
         85682513,
-        85862873
+        85633111,
+        85862873,
+        102063773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118758985,
-    "wof:lastmodified":1449053571,
+    "wof:lastmodified":1466227283,
     "wof:name":"K. Matter",
     "wof:parent_id":85862873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.517872,51.266277,6.517872,51.266277],
+  "bbox": [
+    6.517872,
+    51.266277,
+    6.517872,
+    51.266277
+],
   "geometry": {"coordinates":[6.517872,51.266277],"type":"Point"}
 }

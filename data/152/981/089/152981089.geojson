@@ -2,13 +2,14 @@
   "id": 152981089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.585103,48.162666,11.585103,48.162666",
     "geom:latitude":48.162666,
     "geom:longitude":11.585103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siegfriedstra\u00dfe 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152981089,
-    "wof:lastmodified":1449048977,
+    "wof:lastmodified":1466231348,
     "wof:name":"Wasl & W\u00fcst Werbeagentur Gmbh, M\u00fcnchen",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.585103,48.162666,11.585103,48.162666],
+  "bbox": [
+    11.585103,
+    48.162666,
+    11.585103,
+    48.162666
+],
   "geometry": {"coordinates":[11.585103,48.162666],"type":"Point"}
 }

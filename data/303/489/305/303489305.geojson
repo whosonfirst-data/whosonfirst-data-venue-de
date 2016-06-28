@@ -2,13 +2,14 @@
   "id": 303489305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.583337,48.157387,11.583337,48.157387",
     "geom:latitude":48.157387,
     "geom:longitude":11.583337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Joseph-Str. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303489305,
-    "wof:lastmodified":1448999454,
+    "wof:lastmodified":1466236313,
     "wof:name":"H\u00e4berlein & Mauerer Ag",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.583337,48.157387,11.583337,48.157387],
+  "bbox": [
+    11.583337,
+    48.157387,
+    11.583337,
+    48.157387
+],
   "geometry": {"coordinates":[11.583337,48.157387],"type":"Point"}
 }

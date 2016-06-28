@@ -2,13 +2,14 @@
   "id": 136237181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.808231,51.259552,6.808231,51.259552",
     "geom:latitude":51.259552,
     "geom:longitude":6.808231,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterstr. 467",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85794683
+        85633111,
+        85794683,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136237181,
-    "wof:lastmodified":1449074953,
+    "wof:lastmodified":1466223423,
     "wof:name":"Manfred Bolten",
     "wof:parent_id":85794683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.808231,51.259552,6.808231,51.259552],
+  "bbox": [
+    6.808231,
+    51.259552,
+    6.808231,
+    51.259552
+],
   "geometry": {"coordinates":[6.808231,51.259552],"type":"Point"}
 }

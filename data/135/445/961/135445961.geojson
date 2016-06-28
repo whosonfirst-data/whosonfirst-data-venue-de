@@ -2,13 +2,14 @@
   "id": 135445961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.07028,48.210499,10.07028,48.210499",
     "geom:latitude":48.210499,
     "geom:longitude":10.07028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigstr. 57",
     "sg:city":"Dietenheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135445961,
-    "wof:lastmodified":1449021392,
+    "wof:lastmodified":1466226822,
     "wof:name":"Sparkasse",
     "wof:parent_id":101764351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.07028,48.210499,10.07028,48.210499],
+  "bbox": [
+    10.07028,
+    48.210499,
+    10.07028,
+    48.210499
+],
   "geometry": {"coordinates":[10.07028,48.210499],"type":"Point"}
 }

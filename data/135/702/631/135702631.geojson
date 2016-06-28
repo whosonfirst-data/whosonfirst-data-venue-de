@@ -2,13 +2,14 @@
   "id": 135702631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.377452,48.187756,11.377452,48.187756",
     "geom:latitude":48.187756,
     "geom:longitude":11.377452,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernhard-R\u00f6\u00dfner-Str. 22",
     "sg:city":"Gr\u00f6benzell",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899549
+        85633111,
+        85899549,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135702631,
-    "wof:lastmodified":1449022521,
+    "wof:lastmodified":1466242272,
     "wof:name":"Graebel Bautr\u00e4ger Generalunternehmen Gmbh",
     "wof:parent_id":85899549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.377452,48.187756,11.377452,48.187756],
+  "bbox": [
+    11.377452,
+    48.187756,
+    11.377452,
+    48.187756
+],
   "geometry": {"coordinates":[11.377452,48.187756],"type":"Point"}
 }

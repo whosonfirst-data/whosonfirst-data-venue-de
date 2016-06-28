@@ -2,13 +2,14 @@
   "id": 118714699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.333904,52.504204,13.333904,52.504204",
     "geom:latitude":52.504204,
     "geom:longitude":13.333904,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurf\u00fcrstendamm 235",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118714699,
-    "wof:lastmodified":1449053833,
+    "wof:lastmodified":1466224714,
     "wof:name":"Hauskrankenpflege Aimee Sadowsky",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.333904,52.504204,13.333904,52.504204],
+  "bbox": [
+    13.333904,
+    52.504204,
+    13.333904,
+    52.504204
+],
   "geometry": {"coordinates":[13.333904,52.504204],"type":"Point"}
 }

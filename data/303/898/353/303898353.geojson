@@ -2,13 +2,14 @@
   "id": 303898353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.904629,54.106846,11.904629,54.106846",
     "geom:latitude":54.106846,
     "geom:longitude":11.904629,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beethovenstr. 2a",
     "sg:city":"Bad Doberan",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303898353,
-    "wof:lastmodified":1448998064,
+    "wof:lastmodified":1466241203,
     "wof:name":"M Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.904629,54.106846,11.904629,54.106846],
+  "bbox": [
+    11.904629,
+    54.106846,
+    11.904629,
+    54.106846
+],
   "geometry": {"coordinates":[11.904629,54.106846],"type":"Point"}
 }

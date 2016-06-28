@@ -2,13 +2,14 @@
   "id": 152540377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.925644,53.523834,9.925644,53.523834",
     "geom:latitude":53.523834,
     "geom:longitude":9.925644,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-Eckelmann-Str. 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899363,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152540377,
-    "wof:lastmodified":1449046128,
+    "wof:lastmodified":1466221126,
     "wof:name":"Ctb Container Terminal Beteiligungsgesellschaft Mbh",
     "wof:parent_id":85899363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.925644,53.523834,9.925644,53.523834],
+  "bbox": [
+    9.925644,
+    53.523834,
+    9.925644,
+    53.523834
+],
   "geometry": {"coordinates":[9.925644,53.523834],"type":"Point"}
 }

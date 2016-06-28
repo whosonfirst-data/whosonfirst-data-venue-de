@@ -2,13 +2,14 @@
   "id": 118868343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52767,49.487148,8.52767,49.487148",
     "geom:latitude":49.487148,
     "geom:longitude":8.52767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 81-83",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118868343,
-    "wof:lastmodified":1449053200,
+    "wof:lastmodified":1466233955,
     "wof:name":"Apotheke Beyer Ohg",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52767,49.487148,8.52767,49.487148],
+  "bbox": [
+    8.52767,
+    49.487148,
+    8.52767,
+    49.487148
+],
   "geometry": {"coordinates":[8.52767,49.487148],"type":"Point"}
 }

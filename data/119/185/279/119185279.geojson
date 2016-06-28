@@ -2,13 +2,14 @@
   "id": 119185279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.16727,48.766296,9.16727,48.766296",
     "geom:latitude":48.766296,
     "geom:longitude":9.16727,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6rikestr. 17",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119185279,
-    "wof:lastmodified":1449041259,
+    "wof:lastmodified":1466227421,
     "wof:name":"Pro-plan Gmbh",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.16727,48.766296,9.16727,48.766296],
+  "bbox": [
+    9.16727,
+    48.766296,
+    9.16727,
+    48.766296
+],
   "geometry": {"coordinates":[9.16727,48.766296],"type":"Point"}
 }

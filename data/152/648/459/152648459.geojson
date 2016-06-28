@@ -2,13 +2,14 @@
   "id": 152648459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.6661,51.992958,7.6661,51.992958",
     "geom:latitude":51.992958,
     "geom:longitude":7.6661,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiffahrter Damm 350 a",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865117,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85865117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152648459,
-    "wof:lastmodified":1449045561,
+    "wof:lastmodified":1466223519,
     "wof:name":"Galerie 29 Kunst Und Antiquit\u00e4ten Verwaltungs- Gmbh",
     "wof:parent_id":85865117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.6661,51.992958,7.6661,51.992958],
+  "bbox": [
+    7.6661,
+    51.992958,
+    7.6661,
+    51.992958
+],
   "geometry": {"coordinates":[7.6661,51.992958],"type":"Point"}
 }

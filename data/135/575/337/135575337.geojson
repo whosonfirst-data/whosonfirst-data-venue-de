@@ -2,13 +2,14 @@
   "id": 135575337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.586824,52.514538,13.586824,52.514538",
     "geom:latitude":52.514538,
     "geom:longitude":13.586824,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bauerwitzer Weg 19",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135575337,
-    "wof:lastmodified":1449021888,
+    "wof:lastmodified":1466237715,
     "wof:name":"Rowa Wasserbau Gmbh",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.586824,52.514538,13.586824,52.514538],
+  "bbox": [
+    13.586824,
+    52.514538,
+    13.586824,
+    52.514538
+],
   "geometry": {"coordinates":[13.586824,52.514538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119109723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.040572,49.394146,11.040572,49.394146",
     "geom:latitude":49.394146,
     "geom:longitude":11.040572,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Traklstr. 18",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899237,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119109723,
-    "wof:lastmodified":1449041708,
+    "wof:lastmodified":1466220958,
     "wof:name":"Peter Steiner Architekt",
     "wof:parent_id":85899237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.040572,49.394146,11.040572,49.394146],
+  "bbox": [
+    11.040572,
+    49.394146,
+    11.040572,
+    49.394146
+],
   "geometry": {"coordinates":[11.040572,49.394146],"type":"Point"}
 }

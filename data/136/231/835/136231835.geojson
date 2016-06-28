@@ -2,13 +2,14 @@
   "id": 136231835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.786499,53.070377,8.786499,53.070377",
     "geom:latitude":53.070377,
     "geom:longitude":8.786499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pappelstr. 35",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796579,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136231835,
-    "wof:lastmodified":1449075593,
+    "wof:lastmodified":1466223102,
     "wof:name":"Konrad Weimar",
     "wof:parent_id":85796579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.786499,53.070377,8.786499,53.070377],
+  "bbox": [
+    8.786499,
+    53.070377,
+    8.786499,
+    53.070377
+],
   "geometry": {"coordinates":[8.786499,53.070377],"type":"Point"}
 }

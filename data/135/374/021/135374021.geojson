@@ -2,13 +2,14 @@
   "id": 135374021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.662209,50.112759,8.662209,50.112759",
     "geom:latitude":50.112759,
     "geom:longitude":8.662209,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westendstr 28",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795339,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135374021,
-    "wof:lastmodified":1449022327,
+    "wof:lastmodified":1466220382,
     "wof:name":"Bikuben A/s",
     "wof:parent_id":85795339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.662209,50.112759,8.662209,50.112759],
+  "bbox": [
+    8.662209,
+    50.112759,
+    8.662209,
+    50.112759
+],
   "geometry": {"coordinates":[8.662209,50.112759],"type":"Point"}
 }

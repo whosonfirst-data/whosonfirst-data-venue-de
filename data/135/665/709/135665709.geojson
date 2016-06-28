@@ -2,13 +2,14 @@
   "id": 135665709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.085417,52.374325,13.085417,52.374325",
     "geom:latitude":52.374325,
     "geom:longitude":13.085417,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ravensbergweg 2",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928761,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85928761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135665709,
-    "wof:lastmodified":1449021930,
+    "wof:lastmodified":1466241382,
     "wof:name":"K.-h. G\u00f6risch",
     "wof:parent_id":85928761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.085417,52.374325,13.085417,52.374325],
+  "bbox": [
+    13.085417,
+    52.374325,
+    13.085417,
+    52.374325
+],
   "geometry": {"coordinates":[13.085417,52.374325],"type":"Point"}
 }

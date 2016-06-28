@@ -2,13 +2,14 @@
   "id": 320235539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.955087,48.841026,12.955087,48.841026",
     "geom:latitude":48.841026,
     "geom:longitude":12.955087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Martin-Str. 1",
     "sg:city":"Deggendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320235539,
-    "wof:lastmodified":1449011903,
+    "wof:lastmodified":1466237758,
     "wof:name":"Franz Wudy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.955087,48.841026,12.955087,48.841026],
+  "bbox": [
+    12.955087,
+    48.841026,
+    12.955087,
+    48.841026
+],
   "geometry": {"coordinates":[12.955087,48.841026],"type":"Point"}
 }

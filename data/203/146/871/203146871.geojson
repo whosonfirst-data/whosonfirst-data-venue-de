@@ -2,13 +2,14 @@
   "id": 203146871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.539716,48.868706,12.539716,48.868706",
     "geom:latitude":48.868706,
     "geom:longitude":12.539716,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Winkel 7",
     "sg:city":"Straubing",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203146871,
-    "wof:lastmodified":1449025710,
+    "wof:lastmodified":1466216315,
     "wof:name":"Josef Aumer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.539716,48.868706,12.539716,48.868706],
+  "bbox": [
+    12.539716,
+    48.868706,
+    12.539716,
+    48.868706
+],
   "geometry": {"coordinates":[12.539716,48.868706],"type":"Point"}
 }

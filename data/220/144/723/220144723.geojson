@@ -2,13 +2,14 @@
   "id": 220144723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.587215,52.538559,13.587215,52.538559",
     "geom:latitude":52.538559,
     "geom:longitude":13.587215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenacher Str. 37",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220144723,
-    "wof:lastmodified":1449074638,
+    "wof:lastmodified":1466217331,
     "wof:name":"Dollys Rosencafe",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.587215,52.538559,13.587215,52.538559],
+  "bbox": [
+    13.587215,
+    52.538559,
+    13.587215,
+    52.538559
+],
   "geometry": {"coordinates":[13.587215,52.538559],"type":"Point"}
 }

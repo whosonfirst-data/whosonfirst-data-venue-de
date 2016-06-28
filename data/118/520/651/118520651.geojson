@@ -2,13 +2,14 @@
   "id": 118520651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.017787,53.600899,10.017787,53.600899",
     "geom:latitude":53.600899,
     "geom:longitude":10.017787,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00dcberseering 45::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118520651,
-    "wof:lastmodified":1449053602,
+    "wof:lastmodified":1466213636,
     "wof:name":"Hamburg-mannheimer Versicherungs-ag",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.017787,53.600899,10.017787,53.600899],
+  "bbox": [
+    10.017787,
+    53.600899,
+    10.017787,
+    53.600899
+],
   "geometry": {"coordinates":[10.017787,53.600899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136192535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.898047,53.550083,9.898047,53.550083",
     "geom:latitude":53.550083,
     "geom:longitude":9.898047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Liebermannstr. 46",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900129,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136192535,
-    "wof:lastmodified":1449075860,
+    "wof:lastmodified":1466220768,
     "wof:name":"Br\u00f6ckerhoff & Dethlefsen",
     "wof:parent_id":85900129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.898047,53.550083,9.898047,53.550083],
+  "bbox": [
+    9.898047,
+    53.550083,
+    9.898047,
+    53.550083
+],
   "geometry": {"coordinates":[9.898047,53.550083],"type":"Point"}
 }

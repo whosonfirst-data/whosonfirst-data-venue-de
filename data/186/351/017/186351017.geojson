@@ -2,13 +2,14 @@
   "id": 186351017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.345201,51.531261,12.345201,51.531261",
     "geom:latitude":51.531261,
     "geom:longitude":12.345201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werkst\u00e4ttenweg 24",
     "sg:city":"Delitzsch",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186351017,
-    "wof:lastmodified":1449052608,
+    "wof:lastmodified":1466216863,
     "wof:name":"Vereinigte Netz- Und Seilwerke Heidenau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.345201,51.531261,12.345201,51.531261],
+  "bbox": [
+    12.345201,
+    51.531261,
+    12.345201,
+    51.531261
+],
   "geometry": {"coordinates":[12.345201,51.531261],"type":"Point"}
 }

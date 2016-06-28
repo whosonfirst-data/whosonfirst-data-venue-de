@@ -2,13 +2,14 @@
   "id": 320550909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.066421,50.083084,9.066421,50.083084",
     "geom:latitude":50.083084,
     "geom:longitude":9.066421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlweg 22",
     "sg:city":"Alzenau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320550909,
-    "wof:lastmodified":1449013288,
+    "wof:lastmodified":1466241315,
     "wof:name":"Hermann Gleesner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.066421,50.083084,9.066421,50.083084],
+  "bbox": [
+    9.066421,
+    50.083084,
+    9.066421,
+    50.083084
+],
   "geometry": {"coordinates":[9.066421,50.083084],"type":"Point"}
 }

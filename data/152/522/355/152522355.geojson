@@ -2,13 +2,14 @@
   "id": 152522355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.022372,50.964569,11.022372,50.964569",
     "geom:latitude":50.964569,
     "geom:longitude":11.022372,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goethestr. 61",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152522355,
-    "wof:lastmodified":1449046510,
+    "wof:lastmodified":1466220723,
     "wof:name":"Stolze Bau Gmbh",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.022372,50.964569,11.022372,50.964569],
+  "bbox": [
+    11.022372,
+    50.964569,
+    11.022372,
+    50.964569
+],
   "geometry": {"coordinates":[11.022372,50.964569],"type":"Point"}
 }

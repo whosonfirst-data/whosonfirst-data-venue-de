@@ -2,13 +2,14 @@
   "id": 303131217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.366743,52.045162,10.366743,52.045162",
     "geom:latitude":52.045162,
     "geom:longitude":10.366743,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gittertor 14",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303131217,
-    "wof:lastmodified":1448998854,
+    "wof:lastmodified":1466227727,
     "wof:name":"Hans H. Meyer Gmbh",
     "wof:parent_id":85899203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.366743,52.045162,10.366743,52.045162],
+  "bbox": [
+    10.366743,
+    52.045162,
+    10.366743,
+    52.045162
+],
   "geometry": {"coordinates":[10.366743,52.045162],"type":"Point"}
 }

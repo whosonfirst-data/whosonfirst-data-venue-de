@@ -2,13 +2,14 @@
   "id": 119164643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.656943,49.880539,8.656943,49.880539",
     "geom:latitude":49.880539,
     "geom:longitude":8.656943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arheilger Str. 52",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,13 +19,13 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531,
-        102063543,
-        85859529
+        85794755,
+        85859529,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119164643,
-    "wof:lastmodified":1449041159,
+    "wof:lastmodified":1466225466,
     "wof:name":"Ag 5 B\u00f6ttcher Klie Und Pilz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.656943,49.880539,8.656943,49.880539],
+  "bbox": [
+    8.656943,
+    49.880539,
+    8.656943,
+    49.880539
+],
   "geometry": {"coordinates":[8.656943,49.880539],"type":"Point"}
 }

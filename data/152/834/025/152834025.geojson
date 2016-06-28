@@ -2,13 +2,14 @@
   "id": 152834025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.375009,52.46439,13.375009,52.46439",
     "geom:latitude":52.46439,
     "geom:longitude":13.375009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4\u00dfnerweg 32",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152834025,
-    "wof:lastmodified":1449044737,
+    "wof:lastmodified":1466227840,
     "wof:name":"Hermann Funger, Berlin, Hauswartung, Bautenschutz",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.375009,52.46439,13.375009,52.46439],
+  "bbox": [
+    13.375009,
+    52.46439,
+    13.375009,
+    52.46439
+],
   "geometry": {"coordinates":[13.375009,52.46439],"type":"Point"}
 }

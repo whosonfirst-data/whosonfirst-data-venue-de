@@ -2,13 +2,14 @@
   "id": 202489685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.68297,51.449455,6.68297,51.449455",
     "geom:latitude":51.449455,
     "geom:longitude":6.68297,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moerser Str. 297",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202489685,
-    "wof:lastmodified":1449061499,
+    "wof:lastmodified":1466215412,
     "wof:name":"Ohly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.68297,51.449455,6.68297,51.449455],
+  "bbox": [
+    6.68297,
+    51.449455,
+    6.68297,
+    51.449455
+],
   "geometry": {"coordinates":[6.68297,51.449455],"type":"Point"}
 }

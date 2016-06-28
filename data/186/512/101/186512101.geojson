@@ -2,13 +2,14 @@
   "id": 186512101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.656459,50.106606,8.656459,50.106606",
     "geom:latitude":50.106606,
     "geom:longitude":8.656459,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafenstr. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186512101,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466218664,
     "wof:name":"Inter-mobil Gmbh",
     "wof:parent_id":85795339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.656459,50.106606,8.656459,50.106606],
+  "bbox": [
+    8.656459,
+    50.106606,
+    8.656459,
+    50.106606
+],
   "geometry": {"coordinates":[8.656459,50.106606],"type":"Point"}
 }

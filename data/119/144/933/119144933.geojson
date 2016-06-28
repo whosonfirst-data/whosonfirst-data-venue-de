@@ -2,13 +2,14 @@
   "id": 119144933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.371623,51.351868,12.371623,51.351868",
     "geom:latitude":51.351868,
     "geom:longitude":12.371623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kickerlingsberg 8",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119144933,
-    "wof:lastmodified":1449042835,
+    "wof:lastmodified":1466223651,
     "wof:name":"Voigt Und Herzig Architekten",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.371623,51.351868,12.371623,51.351868],
+  "bbox": [
+    12.371623,
+    51.351868,
+    12.371623,
+    51.351868
+],
   "geometry": {"coordinates":[12.371623,51.351868],"type":"Point"}
 }

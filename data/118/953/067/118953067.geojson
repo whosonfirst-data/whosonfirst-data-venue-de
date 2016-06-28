@@ -2,13 +2,14 @@
   "id": 118953067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.949757,51.52129,6.949757,51.52129",
     "geom:latitude":51.52129,
     "geom:longitude":6.949757,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Prosperstr. 205 - 213",
     "sg:city":"Bottrop",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794829,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85794829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118953067,
-    "wof:lastmodified":1449054106,
+    "wof:lastmodified":1466238077,
     "wof:name":"Triebe & Bleil Gmbh",
     "wof:parent_id":85794829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.949757,51.52129,6.949757,51.52129],
+  "bbox": [
+    6.949757,
+    51.52129,
+    6.949757,
+    51.52129
+],
   "geometry": {"coordinates":[6.949757,51.52129],"type":"Point"}
 }

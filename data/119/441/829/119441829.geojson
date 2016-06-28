@@ -2,13 +2,14 @@
   "id": 119441829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.659046,51.933998,7.659046,51.933998",
     "geom:latitude":51.933998,
     "geom:longitude":7.659046,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An den Loddenb\u00fcschen 11",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863197,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85863197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119441829,
-    "wof:lastmodified":1449041055,
+    "wof:lastmodified":1466242414,
     "wof:name":"K. H. Janning",
     "wof:parent_id":85863197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.659046,51.933998,7.659046,51.933998],
+  "bbox": [
+    7.659046,
+    51.933998,
+    7.659046,
+    51.933998
+],
   "geometry": {"coordinates":[7.659046,51.933998],"type":"Point"}
 }

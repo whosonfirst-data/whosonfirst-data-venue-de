@@ -2,13 +2,14 @@
   "id": 320319667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.126056,50.510246,12.126056,50.510246",
     "geom:latitude":50.510246,
     "geom:longitude":12.126056,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pausaer Str. 74",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320319667,
-    "wof:lastmodified":1449012792,
+    "wof:lastmodified":1466239235,
     "wof:name":"Hirsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.126056,50.510246,12.126056,50.510246],
+  "bbox": [
+    12.126056,
+    50.510246,
+    12.126056,
+    50.510246
+],
   "geometry": {"coordinates":[12.126056,50.510246],"type":"Point"}
 }

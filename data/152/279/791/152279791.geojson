@@ -2,13 +2,14 @@
   "id": 152279791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.033169,51.077114,7.033169,51.077114",
     "geom:latitude":51.077114,
     "geom:longitude":7.033169,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burscheider Str. 75",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794891,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85794891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152279791,
-    "wof:lastmodified":1449046434,
+    "wof:lastmodified":1466215721,
     "wof:name":"Ingeborg Lohmann",
     "wof:parent_id":85794891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.033169,51.077114,7.033169,51.077114],
+  "bbox": [
+    7.033169,
+    51.077114,
+    7.033169,
+    51.077114
+],
   "geometry": {"coordinates":[7.033169,51.077114],"type":"Point"}
 }

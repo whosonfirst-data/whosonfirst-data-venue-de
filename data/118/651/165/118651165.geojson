@@ -2,13 +2,14 @@
   "id": 118651165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.017911,50.371929,8.017911,50.371929",
     "geom:latitude":50.371929,
     "geom:longitude":8.017911,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Louise-Seher-Str. 16",
     "sg:city":"Diez",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862831,
+        85682531,
         85633111,
         101840081,
         102063643,
-        85682531
+        85862831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118651165,
-    "wof:lastmodified":1449053421,
+    "wof:lastmodified":1466221165,
     "wof:name":"Alten- Und Pflegeheim Haus Deul",
     "wof:parent_id":85862831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.017911,50.371929,8.017911,50.371929],
+  "bbox": [
+    8.017911,
+    50.371929,
+    8.017911,
+    50.371929
+],
   "geometry": {"coordinates":[8.017911,50.371929],"type":"Point"}
 }

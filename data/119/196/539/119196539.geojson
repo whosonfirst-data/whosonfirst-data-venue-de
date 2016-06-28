@@ -2,13 +2,14 @@
   "id": 119196539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.523773,52.011513,8.523773,52.011513",
     "geom:latitude":52.011513,
     "geom:longitude":8.523773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sareptaweg 12",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863223,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85863223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119196539,
-    "wof:lastmodified":1449041407,
+    "wof:lastmodified":1466228464,
     "wof:name":"Diakonissen-mutterhaus Sarepta",
     "wof:parent_id":85863223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.523773,52.011513,8.523773,52.011513],
+  "bbox": [
+    8.523773,
+    52.011513,
+    8.523773,
+    52.011513
+],
   "geometry": {"coordinates":[8.523773,52.011513],"type":"Point"}
 }

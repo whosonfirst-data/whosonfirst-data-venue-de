@@ -2,13 +2,14 @@
   "id": 135635105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.938939,50.930897,6.938939,50.930897",
     "geom:latitude":50.930897,
     "geom:longitude":6.938939,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Engelbertstr. 7",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135635105,
-    "wof:lastmodified":1449022318,
+    "wof:lastmodified":1466240657,
     "wof:name":"Keller & Kirchhoff Gmbh",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.938939,50.930897,6.938939,50.930897],
+  "bbox": [
+    6.938939,
+    50.930897,
+    6.938939,
+    50.930897
+],
   "geometry": {"coordinates":[6.938939,50.930897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118991191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.682179,51.207535,6.682179,51.207535",
     "geom:latitude":51.207535,
     "geom:longitude":6.682179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Josefstr. 102",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118991191,
-    "wof:lastmodified":1449053584,
+    "wof:lastmodified":1466239642,
     "wof:name":"Dieter Elling Und H. Fischer Architekten",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.682179,51.207535,6.682179,51.207535],
+  "bbox": [
+    6.682179,
+    51.207535,
+    6.682179,
+    51.207535
+],
   "geometry": {"coordinates":[6.682179,51.207535],"type":"Point"}
 }

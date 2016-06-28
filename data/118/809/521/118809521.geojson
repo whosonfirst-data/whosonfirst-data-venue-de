@@ -2,13 +2,14 @@
   "id": 118809521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.050574,50.760433,7.050574,50.760433",
     "geom:latitude":50.760433,
     "geom:longitude":7.050574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedlandstr. 9",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795017,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118809521,
-    "wof:lastmodified":1449054308,
+    "wof:lastmodified":1466230300,
     "wof:name":"Buschdorfer-apotheke",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.050574,50.760433,7.050574,50.760433],
+  "bbox": [
+    7.050574,
+    50.760433,
+    7.050574,
+    50.760433
+],
   "geometry": {"coordinates":[7.050574,50.760433],"type":"Point"}
 }

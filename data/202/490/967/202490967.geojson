@@ -2,13 +2,14 @@
   "id": 202490967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.589894,48.165886,11.589894,48.165886",
     "geom:latitude":48.165886,
     "geom:longitude":11.589894,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ungererstr. 46",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202490967,
-    "wof:lastmodified":1449062390,
+    "wof:lastmodified":1466215434,
     "wof:name":"P. Und G. Heumann",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.589894,48.165886,11.589894,48.165886],
+  "bbox": [
+    11.589894,
+    48.165886,
+    11.589894,
+    48.165886
+],
   "geometry": {"coordinates":[11.589894,48.165886],"type":"Point"}
 }

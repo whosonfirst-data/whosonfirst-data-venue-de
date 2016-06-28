@@ -2,13 +2,14 @@
   "id": 203105825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.876222,48.641495,9.876222,48.641495",
     "geom:latitude":48.641495,
     "geom:longitude":9.876222,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Roggentalstr. 38",
     "sg:city":"Geislingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203105825,
-    "wof:lastmodified":1449025640,
+    "wof:lastmodified":1466215608,
     "wof:name":"Arthur Rossmanith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.876222,48.641495,9.876222,48.641495],
+  "bbox": [
+    9.876222,
+    48.641495,
+    9.876222,
+    48.641495
+],
   "geometry": {"coordinates":[9.876222,48.641495],"type":"Point"}
 }

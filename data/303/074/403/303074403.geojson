@@ -2,13 +2,14 @@
   "id": 303074403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.255654,48.843609,9.255654,48.843609",
     "geom:latitude":48.843609,
     "geom:longitude":9.255654,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Eyth-Str. 5",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303074403,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1466226359,
     "wof:name":"Helmut Strohmaier",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.255654,48.843609,9.255654,48.843609],
+  "bbox": [
+    9.255654,
+    48.843609,
+    9.255654,
+    48.843609
+],
   "geometry": {"coordinates":[9.255654,48.843609],"type":"Point"}
 }

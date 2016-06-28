@@ -2,13 +2,14 @@
   "id": 136054977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.346277,50.063251,8.346277,50.063251",
     "geom:latitude":50.063251,
     "geom:longitude":8.346277,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Nachtschatten 12 A",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136054977,
-    "wof:lastmodified":1449075525,
+    "wof:lastmodified":1466214666,
     "wof:name":"Elektroger\u00e4te Von Den Haushalts-schotten",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.346277,50.063251,8.346277,50.063251],
+  "bbox": [
+    8.346277,
+    50.063251,
+    8.346277,
+    50.063251
+],
   "geometry": {"coordinates":[8.346277,50.063251],"type":"Point"}
 }

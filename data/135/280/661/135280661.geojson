@@ -2,13 +2,14 @@
   "id": 135280661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604339,49.185448,7.604339,49.185448",
     "geom:latitude":49.185448,
     "geom:longitude":7.604339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Anton-Bruckner-Str. 1",
     "sg:city":"Pirmasens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135280661,
-    "wof:lastmodified":1449022501,
+    "wof:lastmodified":1466225418,
     "wof:name":"Joachim Gillner",
     "wof:parent_id":101760713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604339,49.185448,7.604339,49.185448],
+  "bbox": [
+    7.604339,
+    49.185448,
+    7.604339,
+    49.185448
+],
   "geometry": {"coordinates":[7.604339,49.185448],"type":"Point"}
 }

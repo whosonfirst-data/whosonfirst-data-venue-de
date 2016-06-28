@@ -2,13 +2,14 @@
   "id": 119366983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.530961,50.622257,10.530961,50.622257",
     "geom:latitude":50.622257,
     "geom:longitude":10.530961,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Froschmarkt 15",
     "sg:city":"Schwarza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119366983,
-    "wof:lastmodified":1449042826,
+    "wof:lastmodified":1466240884,
     "wof:name":"Peter Munk",
     "wof:parent_id":101824681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.530961,50.622257,10.530961,50.622257],
+  "bbox": [
+    10.530961,
+    50.622257,
+    10.530961,
+    50.622257
+],
   "geometry": {"coordinates":[10.530961,50.622257],"type":"Point"}
 }

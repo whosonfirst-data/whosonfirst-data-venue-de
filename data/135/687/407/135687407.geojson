@@ -2,13 +2,14 @@
   "id": 135687407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.627885,51.998943,8.627885,51.998943",
     "geom:latitude":51.998943,
     "geom:longitude":8.627885,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6rster Str. 76",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063883,
-        85633111,
         85682513,
-        85794861
+        85633111,
+        85794861,
+        102063883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135687407,
-    "wof:lastmodified":1449021856,
+    "wof:lastmodified":1466242098,
     "wof:name":"G & M Objekteinrichtungen Gmbh",
     "wof:parent_id":85794861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.627885,51.998943,8.627885,51.998943],
+  "bbox": [
+    8.627885,
+    51.998943,
+    8.627885,
+    51.998943
+],
   "geometry": {"coordinates":[8.627885,51.998943],"type":"Point"}
 }

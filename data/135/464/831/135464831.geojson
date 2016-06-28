@@ -2,13 +2,14 @@
   "id": 135464831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.027525,49.307243,7.027525,49.307243",
     "geom:latitude":49.307243,
     "geom:longitude":7.027525,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Qierschieder Str 65",
     "sg:city":"Quierschied",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063433,
-        85633111,
         85682479,
-        85796363
+        85633111,
+        85796363,
+        102063433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135464831,
-    "wof:lastmodified":1449021819,
+    "wof:lastmodified":1466228384,
     "wof:name":"Volksbank Quierschied Eg",
     "wof:parent_id":85796363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.027525,49.307243,7.027525,49.307243],
+  "bbox": [
+    7.027525,
+    49.307243,
+    7.027525,
+    49.307243
+],
   "geometry": {"coordinates":[7.027525,49.307243],"type":"Point"}
 }

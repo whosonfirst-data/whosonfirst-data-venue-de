@@ -2,13 +2,14 @@
   "id": 186095383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.140925,47.855049,12.140925,47.855049",
     "geom:latitude":47.855049,
     "geom:longitude":12.140925,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Innstr. 74",
     "sg:city":"Rosenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186095383,
-    "wof:lastmodified":1449051729,
+    "wof:lastmodified":1466214181,
     "wof:name":"Inn-museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.140925,47.855049,12.140925,47.855049],
+  "bbox": [
+    12.140925,
+    47.855049,
+    12.140925,
+    47.855049
+],
   "geometry": {"coordinates":[12.140925,47.855049],"type":"Point"}
 }

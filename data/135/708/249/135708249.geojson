@@ -2,13 +2,14 @@
   "id": 135708249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.31999,51.471443,7.31999,51.471443",
     "geom:latitude":51.471443,
     "geom:longitude":7.31999,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Bahnhofstr. 40",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795635,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135708249,
-    "wof:lastmodified":1449021456,
+    "wof:lastmodified":1466242580,
     "wof:name":"Ekom Bau-partner Ges. F\u00fcr Schl\u00fcsself. Bauen Grundst\u00fccks-",
     "wof:parent_id":85795635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.31999,51.471443,7.31999,51.471443],
+  "bbox": [
+    7.31999,
+    51.471443,
+    7.31999,
+    51.471443
+],
   "geometry": {"coordinates":[7.31999,51.471443],"type":"Point"}
 }

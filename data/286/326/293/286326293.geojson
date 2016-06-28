@@ -2,13 +2,14 @@
   "id": 286326293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.20805,49.376629,11.20805,49.376629",
     "geom:latitude":49.376629,
     "geom:longitude":11.20805,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Kellerstr. 43",
     "sg:city":"Feucht",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286326293,
-    "wof:lastmodified":1449016428,
+    "wof:lastmodified":1466226113,
     "wof:name":"Georg Zimmerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.20805,49.376629,11.20805,49.376629],
+  "bbox": [
+    11.20805,
+    49.376629,
+    11.20805,
+    49.376629
+],
   "geometry": {"coordinates":[11.20805,49.376629],"type":"Point"}
 }

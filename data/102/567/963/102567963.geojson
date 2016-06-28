@@ -2,13 +2,14 @@
   "id": 102567963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171124,48.776859,9.171124,48.776859",
     "geom:latitude":48.776859,
     "geom:longitude":9.171124,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Str 51",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102567963,
-    "wof:lastmodified":1449070230,
+    "wof:lastmodified":1466214097,
     "wof:name":"Bastlerzentrale Tannert Kg",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171124,48.776859,9.171124,48.776859],
+  "bbox": [
+    9.171124,
+    48.776859,
+    9.171124,
+    48.776859
+],
   "geometry": {"coordinates":[9.171124,48.776859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118807531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598122,51.560963,7.598122,51.560963",
     "geom:latitude":51.560963,
     "geom:longitude":7.598122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Husener Str. 73",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795805,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118807531,
-    "wof:lastmodified":1449053507,
+    "wof:lastmodified":1466230183,
     "wof:name":"Bienen-apotheke Dortmund-husen",
     "wof:parent_id":85795805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.598122,51.560963,7.598122,51.560963],
+  "bbox": [
+    7.598122,
+    51.560963,
+    7.598122,
+    51.560963
+],
   "geometry": {"coordinates":[7.598122,51.560963],"type":"Point"}
 }

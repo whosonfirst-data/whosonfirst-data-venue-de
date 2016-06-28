@@ -2,13 +2,14 @@
   "id": 303438765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.160082,50.309322,8.160082,50.309322",
     "geom:latitude":50.309322,
     "geom:longitude":8.160082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bubenheimer Str. 13",
     "sg:city":"H\u00fcnfelden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303438765,
-    "wof:lastmodified":1448998945,
+    "wof:lastmodified":1466235333,
     "wof:name":"Edmund Pauli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.160082,50.309322,8.160082,50.309322],
+  "bbox": [
+    8.160082,
+    50.309322,
+    8.160082,
+    50.309322
+],
   "geometry": {"coordinates":[8.160082,50.309322],"type":"Point"}
 }

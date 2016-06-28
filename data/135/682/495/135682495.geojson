@@ -2,13 +2,14 @@
   "id": 135682495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.137776,54.080475,12.137776,54.080475",
     "geom:latitude":54.080475,
     "geom:longitude":12.137776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosa-Luxemburg-Str. 5",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905721,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135682495,
-    "wof:lastmodified":1449021495,
+    "wof:lastmodified":1466241986,
     "wof:name":"Secon Fenster T\u00fcren Bauelemente Marina Zimmermann",
     "wof:parent_id":85905721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.137776,54.080475,12.137776,54.080475],
+  "bbox": [
+    12.137776,
+    54.080475,
+    12.137776,
+    54.080475
+],
   "geometry": {"coordinates":[12.137776,54.080475],"type":"Point"}
 }

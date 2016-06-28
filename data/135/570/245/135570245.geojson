@@ -2,13 +2,14 @@
   "id": 135570245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.214993,48.78661,9.214993,48.78661",
     "geom:latitude":48.78661,
     "geom:longitude":9.214993,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boslerstr. 19",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795273,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135570245,
-    "wof:lastmodified":1449022813,
+    "wof:lastmodified":1466237253,
     "wof:name":"Benevento Gmbh",
     "wof:parent_id":85795273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.214993,48.78661,9.214993,48.78661],
+  "bbox": [
+    9.214993,
+    48.78661,
+    9.214993,
+    48.78661
+],
   "geometry": {"coordinates":[9.214993,48.78661],"type":"Point"}
 }

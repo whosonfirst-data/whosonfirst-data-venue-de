@@ -2,13 +2,14 @@
   "id": 136036327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.41112,43.565865,1.41112,43.565865",
     "geom:latitude":43.565865,
     "geom:longitude":1.41112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Route de Seysses",
     "sg:city":"Toulouse",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"31100",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136036327,
-    "wof:lastmodified":1449075196,
+    "wof:lastmodified":1466213768,
     "wof:name":"Ccam Toulouse,bourse Retrojouets",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.41112,43.565865,1.41112,43.565865],
+  "bbox": [
+    1.41112,
+    43.565865,
+    1.41112,
+    43.565865
+],
   "geometry": {"coordinates":[1.41112,43.565865],"type":"Point"}
 }

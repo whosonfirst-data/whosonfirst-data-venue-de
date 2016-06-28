@@ -2,13 +2,14 @@
   "id": 202530425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.298971,49.72216,7.298971,49.72216",
     "geom:latitude":49.72216,
     "geom:longitude":7.298971,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 43",
     "sg:city":"Idar-Oberstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202530425,
-    "wof:lastmodified":1449061462,
+    "wof:lastmodified":1466216234,
     "wof:name":"Wagner & Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.298971,49.72216,7.298971,49.72216],
+  "bbox": [
+    7.298971,
+    49.72216,
+    7.298971,
+    49.72216
+],
   "geometry": {"coordinates":[7.298971,49.72216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102603329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.476641,53.652664,9.476641,53.652664",
     "geom:latitude":53.652664,
     "geom:longitude":9.476641,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"stade",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":102603329,
-    "wof:lastmodified":1449069787,
+    "wof:lastmodified":1466213329,
     "wof:name":"Marion Lange",
     "wof:parent_id":85682555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.476641,53.652664,9.476641,53.652664],
+  "bbox": [
+    9.476641,
+    53.652664,
+    9.476641,
+    53.652664
+],
   "geometry": {"coordinates":[9.476641,53.652664],"type":"Point"}
 }

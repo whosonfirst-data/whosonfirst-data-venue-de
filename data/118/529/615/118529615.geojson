@@ -2,13 +2,14 @@
   "id": 118529615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726523,50.112835,8.726523,50.112835",
     "geom:latitude":50.112835,
     "geom:longitude":8.726523,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmickstr. 38",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118529615,
-    "wof:lastmodified":1449053751,
+    "wof:lastmodified":1466214245,
     "wof:name":"G. Wieser",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.726523,50.112835,8.726523,50.112835],
+  "bbox": [
+    8.726523,
+    50.112835,
+    8.726523,
+    50.112835
+],
   "geometry": {"coordinates":[8.726523,50.112835],"type":"Point"}
 }

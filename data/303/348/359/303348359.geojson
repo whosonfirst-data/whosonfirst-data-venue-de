@@ -2,13 +2,14 @@
   "id": 303348359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.123229,50.215538,10.123229,50.215538",
     "geom:latitude":50.215538,
     "geom:longitude":10.123229,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 55",
     "sg:city":"N\u00fcdlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303348359,
-    "wof:lastmodified":1448998222,
+    "wof:lastmodified":1466233111,
     "wof:name":"Hofmann & R\u00f6ssert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.123229,50.215538,10.123229,50.215538],
+  "bbox": [
+    10.123229,
+    50.215538,
+    10.123229,
+    50.215538
+],
   "geometry": {"coordinates":[10.123229,50.215538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135400579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.039749,53.687321,10.039749,53.687321",
     "geom:latitude":53.687321,
     "geom:longitude":10.039749,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelstr 64",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135400579,
-    "wof:lastmodified":1449021291,
+    "wof:lastmodified":1466222904,
     "wof:name":"Kreissparkasse Segeberg",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.039749,53.687321,10.039749,53.687321],
+  "bbox": [
+    10.039749,
+    53.687321,
+    10.039749,
+    53.687321
+],
   "geometry": {"coordinates":[10.039749,53.687321],"type":"Point"}
 }

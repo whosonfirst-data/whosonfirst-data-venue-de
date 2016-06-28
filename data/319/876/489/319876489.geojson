@@ -2,13 +2,14 @@
   "id": 319876489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.49621,48.578281,10.49621,48.578281",
     "geom:latitude":48.578281,
     "geom:longitude":10.49621,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapuzinerstr. 35",
     "sg:city":"Dillingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319876489,
-    "wof:lastmodified":1449024248,
+    "wof:lastmodified":1466233773,
     "wof:name":"Kaufhalle Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.49621,48.578281,10.49621,48.578281],
+  "bbox": [
+    10.49621,
+    48.578281,
+    10.49621,
+    48.578281
+],
   "geometry": {"coordinates":[10.49621,48.578281],"type":"Point"}
 }

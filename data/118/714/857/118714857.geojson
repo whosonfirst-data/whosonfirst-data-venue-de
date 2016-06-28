@@ -2,13 +2,14 @@
   "id": 118714857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.871775,50.883404,12.871775,50.883404",
     "geom:latitude":50.883404,
     "geom:longitude":12.871775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hauptstr. 4",
     "sg:city":"Wittgensdorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900249,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85900249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118714857,
-    "wof:lastmodified":1449053835,
+    "wof:lastmodified":1466224723,
     "wof:name":"Hauskrankenpflege Helfende Hand Inh. Ellen Wagner",
     "wof:parent_id":85900249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.871775,50.883404,12.871775,50.883404],
+  "bbox": [
+    12.871775,
+    50.883404,
+    12.871775,
+    50.883404
+],
   "geometry": {"coordinates":[12.871775,50.883404],"type":"Point"}
 }

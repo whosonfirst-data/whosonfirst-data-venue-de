@@ -2,13 +2,14 @@
   "id": 220190401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.944855,48.468651,7.944855,48.468651",
     "geom:latitude":48.468651,
     "geom:longitude":7.944855,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ritterstr. 10",
     "sg:city":"Offenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220190401,
-    "wof:lastmodified":1449074837,
+    "wof:lastmodified":1466218143,
     "wof:name":"Im Ritterhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.944855,48.468651,7.944855,48.468651],
+  "bbox": [
+    7.944855,
+    48.468651,
+    7.944855,
+    48.468651
+],
   "geometry": {"coordinates":[7.944855,48.468651],"type":"Point"}
 }

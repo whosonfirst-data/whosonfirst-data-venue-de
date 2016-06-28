@@ -2,13 +2,14 @@
   "id": 286602967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.88724,49.899075,10.88724,49.899075",
     "geom:latitude":49.899075,
     "geom:longitude":10.88724,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Margaretendamm 28",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286602967,
-    "wof:lastmodified":1449016573,
+    "wof:lastmodified":1466232757,
     "wof:name":"Verkehrsbetrieb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.88724,49.899075,10.88724,49.899075],
+  "bbox": [
+    10.88724,
+    49.899075,
+    10.88724,
+    49.899075
+],
   "geometry": {"coordinates":[10.88724,49.899075],"type":"Point"}
 }

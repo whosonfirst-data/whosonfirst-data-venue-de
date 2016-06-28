@@ -2,13 +2,14 @@
   "id": 152890915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.011637,52.419765,13.011637,52.419765",
     "geom:latitude":52.419765,
     "geom:longitude":13.011637,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Potsdamer Strasse 57",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899029,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85899029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152890915,
-    "wof:lastmodified":1449045315,
+    "wof:lastmodified":1466229157,
     "wof:name":"Orangpoint - Digitaltonstudio In Der Medienstadt P",
     "wof:parent_id":85899029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.011637,52.419765,13.011637,52.419765],
+  "bbox": [
+    13.011637,
+    52.419765,
+    13.011637,
+    52.419765
+],
   "geometry": {"coordinates":[13.011637,52.419765],"type":"Point"}
 }

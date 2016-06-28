@@ -2,13 +2,14 @@
   "id": 152639063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177448,48.776428,9.177448,48.776428",
     "geom:latitude":48.776428,
     "geom:longitude":9.177448,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stiftstr. 5",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152639063,
-    "wof:lastmodified":1449048881,
+    "wof:lastmodified":1466223313,
     "wof:name":"Dbr Friedrichscarree Liegen- Schaften-verwaltungs Gmbh",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.177448,48.776428,9.177448,48.776428],
+  "bbox": [
+    9.177448,
+    48.776428,
+    9.177448,
+    48.776428
+],
   "geometry": {"coordinates":[9.177448,48.776428],"type":"Point"}
 }

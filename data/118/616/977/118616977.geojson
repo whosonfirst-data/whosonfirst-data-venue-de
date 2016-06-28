@@ -2,13 +2,14 @@
   "id": 118616977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.136036,48.812408,9.136036,48.812408",
     "geom:latitude":48.812408,
     "geom:longitude":9.136036,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfostenw\u00e4ldle 25",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118616977,
-    "wof:lastmodified":1449054173,
+    "wof:lastmodified":1466219223,
     "wof:name":"Altenheim Paul-hofstetter-haus",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.136036,48.812408,9.136036,48.812408],
+  "bbox": [
+    9.136036,
+    48.812408,
+    9.136036,
+    48.812408
+],
   "geometry": {"coordinates":[9.136036,48.812408],"type":"Point"}
 }

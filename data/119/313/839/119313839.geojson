@@ -2,13 +2,14 @@
   "id": 119313839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.512824,52.464329,13.512824,52.464329",
     "geom:latitude":52.464329,
     "geom:longitude":13.512824,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siemensstr. 20",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899855,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119313839,
-    "wof:lastmodified":1449040966,
+    "wof:lastmodified":1466237957,
     "wof:name":"Gaida Gbr",
     "wof:parent_id":85899855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.512824,52.464329,13.512824,52.464329],
+  "bbox": [
+    13.512824,
+    52.464329,
+    13.512824,
+    52.464329
+],
   "geometry": {"coordinates":[13.512824,52.464329],"type":"Point"}
 }

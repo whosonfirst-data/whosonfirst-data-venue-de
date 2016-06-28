@@ -2,13 +2,14 @@
   "id": 135932619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.503237,51.377026,7.503237,51.377026",
     "geom:latitude":51.377026,
     "geom:longitude":7.503237,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfer Kamp 26",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795413,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135932619,
-    "wof:lastmodified":1449022118,
+    "wof:lastmodified":1466244671,
     "wof:name":"Brock Vertriebs- Und Verwaltungs- Gmbh",
     "wof:parent_id":85795413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.503237,51.377026,7.503237,51.377026],
+  "bbox": [
+    7.503237,
+    51.377026,
+    7.503237,
+    51.377026
+],
   "geometry": {"coordinates":[7.503237,51.377026],"type":"Point"}
 }

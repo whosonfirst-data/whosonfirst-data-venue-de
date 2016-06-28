@@ -2,13 +2,14 @@
   "id": 135485789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.75751,51.501869,6.75751,51.501869",
     "geom:latitude":51.501869,
     "geom:longitude":6.75751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weseler Str. 310",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796431,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85796431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135485789,
-    "wof:lastmodified":1449022866,
+    "wof:lastmodified":1466230361,
     "wof:name":"Heim Und Haus Kunststoffenster Produktions",
     "wof:parent_id":85796431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.75751,51.501869,6.75751,51.501869],
+  "bbox": [
+    6.75751,
+    51.501869,
+    6.75751,
+    51.501869
+],
   "geometry": {"coordinates":[6.75751,51.501869],"type":"Point"}
 }

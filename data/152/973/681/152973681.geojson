@@ -2,13 +2,14 @@
   "id": 152973681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.884606,50.820938,12.884606,50.820938",
     "geom:latitude":50.820938,
     "geom:longitude":12.884606,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zwickauer Str. 211",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152973681,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1466231175,
     "wof:name":"Vermessungsb\u00fcro Oertelt",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.884606,50.820938,12.884606,50.820938],
+  "bbox": [
+    12.884606,
+    50.820938,
+    12.884606,
+    50.820938
+],
   "geometry": {"coordinates":[12.884606,50.820938],"type":"Point"}
 }

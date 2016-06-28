@@ -2,13 +2,14 @@
   "id": 135625625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.771357,48.350433,10.771357,48.350433",
     "geom:latitude":48.350433,
     "geom:longitude":10.771357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Anhauser Str. 3",
     "sg:city":"Diedorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135625625,
-    "wof:lastmodified":1449024039,
+    "wof:lastmodified":1466240284,
     "wof:name":"M. Kugelmann",
     "wof:parent_id":101785537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.771357,48.350433,10.771357,48.350433],
+  "bbox": [
+    10.771357,
+    48.350433,
+    10.771357,
+    48.350433
+],
   "geometry": {"coordinates":[10.771357,48.350433],"type":"Point"}
 }

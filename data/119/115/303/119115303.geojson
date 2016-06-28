@@ -2,13 +2,14 @@
   "id": 119115303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.452182,51.159836,6.452182,51.159836",
     "geom:latitude":51.159836,
     "geom:longitude":6.452182,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardenbergstr. 34",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862877,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85862877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119115303,
-    "wof:lastmodified":1449040865,
+    "wof:lastmodified":1466221513,
     "wof:name":"Rainer Quermann Architekt",
     "wof:parent_id":85862877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.452182,51.159836,6.452182,51.159836],
+  "bbox": [
+    6.452182,
+    51.159836,
+    6.452182,
+    51.159836
+],
   "geometry": {"coordinates":[6.452182,51.159836],"type":"Point"}
 }

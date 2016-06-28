@@ -2,13 +2,14 @@
   "id": 220138501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.183904,47.983284,10.183904,47.983284",
     "geom:latitude":47.983284,
     "geom:longitude":10.183904,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindentorstr. 16",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220138501,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466217217,
     "wof:name":"Coffea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.183904,47.983284,10.183904,47.983284],
+  "bbox": [
+    10.183904,
+    47.983284,
+    10.183904,
+    47.983284
+],
   "geometry": {"coordinates":[10.183904,47.983284],"type":"Point"}
 }

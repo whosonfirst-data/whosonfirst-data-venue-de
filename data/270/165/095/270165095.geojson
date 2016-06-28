@@ -2,13 +2,14 @@
   "id": 270165095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.242528,51.586784,13.242528,51.586784",
     "geom:latitude":51.586784,
     "geom:longitude":13.242528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr. 12",
     "sg:city":"Falkenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270165095,
-    "wof:lastmodified":1449011117,
+    "wof:lastmodified":1466225218,
     "wof:name":"Andreas Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.242528,51.586784,13.242528,51.586784],
+  "bbox": [
+    13.242528,
+    51.586784,
+    13.242528,
+    51.586784
+],
   "geometry": {"coordinates":[13.242528,51.586784],"type":"Point"}
 }

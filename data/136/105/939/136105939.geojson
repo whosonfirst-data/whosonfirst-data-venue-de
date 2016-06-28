@@ -2,13 +2,14 @@
   "id": 136105939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.130015,54.35498,10.130015,54.35498",
     "geom:latitude":54.35498,
     "geom:longitude":10.130015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rendsburger Str. 206",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900035,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85900035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136105939,
-    "wof:lastmodified":1449075418,
+    "wof:lastmodified":1466216992,
     "wof:name":"Pickup M\u00f6bel Der Sonderpostenabhol-markt",
     "wof:parent_id":85900035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.130015,54.35498,10.130015,54.35498],
+  "bbox": [
+    10.130015,
+    54.35498,
+    10.130015,
+    54.35498
+],
   "geometry": {"coordinates":[10.130015,54.35498],"type":"Point"}
 }

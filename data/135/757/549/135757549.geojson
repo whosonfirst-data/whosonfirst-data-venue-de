@@ -2,13 +2,14 @@
   "id": 135757549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.476437,48.125797,11.476437,48.125797",
     "geom:latitude":48.125797,
     "geom:longitude":11.476437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Terofalstr. 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899017,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135757549,
-    "wof:lastmodified":1449022708,
+    "wof:lastmodified":1466243517,
     "wof:name":"Braun W\u00e4sche Und Mode Inh. Barbara Braun",
     "wof:parent_id":85899017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.476437,48.125797,11.476437,48.125797],
+  "bbox": [
+    11.476437,
+    48.125797,
+    11.476437,
+    48.125797
+],
   "geometry": {"coordinates":[11.476437,48.125797],"type":"Point"}
 }

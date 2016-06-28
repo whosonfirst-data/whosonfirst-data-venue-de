@@ -2,13 +2,14 @@
   "id": 152940001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.716788,51.039318,13.716788,51.039318",
     "geom:latitude":51.039318,
     "geom:longitude":13.716788,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"werdauer stra\u00dfe",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523,
+        85899545,
         85899819
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152940001,
-    "wof:lastmodified":1449045419,
+    "wof:lastmodified":1466230361,
     "wof:name":"Sirius Arts Die Exklusive Galerie F\u00fcr Bildende Kunh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.716788,51.039318,13.716788,51.039318],
+  "bbox": [
+    13.716788,
+    51.039318,
+    13.716788,
+    51.039318
+],
   "geometry": {"coordinates":[13.716788,51.039318],"type":"Point"}
 }

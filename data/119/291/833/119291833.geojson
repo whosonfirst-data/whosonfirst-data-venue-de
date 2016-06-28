@@ -2,13 +2,14 @@
   "id": 119291833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.343028,51.323021,12.343028,51.323021",
     "geom:latitude":51.323021,
     "geom:longitude":12.343028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rochlitzstr. 80-86",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119291833,
-    "wof:lastmodified":1449041597,
+    "wof:lastmodified":1466236993,
     "wof:name":"Andreas Neumann",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.343028,51.323021,12.343028,51.323021],
+  "bbox": [
+    12.343028,
+    51.323021,
+    12.343028,
+    51.323021
+],
   "geometry": {"coordinates":[12.343028,51.323021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136141323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.46582,51.202839,6.46582,51.202839",
     "geom:latitude":51.202839,
     "geom:longitude":6.46582,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcrriper Str.393",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795179,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85795179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136141323,
-    "wof:lastmodified":1449075373,
+    "wof:lastmodified":1466218451,
     "wof:name":"Versicherungsmakler In M\u00f6nchengladbach",
     "wof:parent_id":85795179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.46582,51.202839,6.46582,51.202839],
+  "bbox": [
+    6.46582,
+    51.202839,
+    6.46582,
+    51.202839
+],
   "geometry": {"coordinates":[6.46582,51.202839],"type":"Point"}
 }

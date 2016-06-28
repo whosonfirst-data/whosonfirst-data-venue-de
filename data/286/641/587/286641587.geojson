@@ -2,13 +2,14 @@
   "id": 286641587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.541725,48.123089,11.541725,48.123089",
     "geom:latitude":48.123089,
     "geom:longitude":11.541725,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitzwegstr. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":286641587,
-    "wof:lastmodified":1449017419,
+    "wof:lastmodified":1466233737,
     "wof:name":"H. Peters Wettannahme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.541725,48.123089,11.541725,48.123089],
+  "bbox": [
+    11.541725,
+    48.123089,
+    11.541725,
+    48.123089
+],
   "geometry": {"coordinates":[11.541725,48.123089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135297443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.339286,49.880322,8.339286,49.880322",
     "geom:latitude":49.880322,
     "geom:longitude":8.339286,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mainzer Str. 110",
     "sg:city":"Nierstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135297443,
-    "wof:lastmodified":1449022929,
+    "wof:lastmodified":1466213601,
     "wof:name":"M. Kempf",
     "wof:parent_id":101839997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.339286,49.880322,8.339286,49.880322],
+  "bbox": [
+    8.339286,
+    49.880322,
+    8.339286,
+    49.880322
+],
   "geometry": {"coordinates":[8.339286,49.880322],"type":"Point"}
 }

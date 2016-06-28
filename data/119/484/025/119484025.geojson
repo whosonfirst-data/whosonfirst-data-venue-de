@@ -2,13 +2,14 @@
   "id": 119484025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.794549,51.560139,6.794549,51.560139",
     "geom:latitude":51.560139,
     "geom:longitude":6.794549,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-Schumacher-Str. 267",
     "sg:city":"Dinslaken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863097,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119484025,
-    "wof:lastmodified":1449043394,
+    "wof:lastmodified":1466243342,
     "wof:name":"Arno Eichholz",
     "wof:parent_id":85863097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.794549,51.560139,6.794549,51.560139],
+  "bbox": [
+    6.794549,
+    51.560139,
+    6.794549,
+    51.560139
+],
   "geometry": {"coordinates":[6.794549,51.560139],"type":"Point"}
 }

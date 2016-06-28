@@ -2,13 +2,14 @@
   "id": 135997891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.00651,53.686371,10.00651,53.686371",
     "geom:latitude":53.686371,
     "geom:longitude":10.00651,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glash\u00fctter Damm 80 a",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135997891,
-    "wof:lastmodified":1449023486,
+    "wof:lastmodified":1466244947,
     "wof:name":"Verwaltungsges. Kurkliniken Hoheleye Gmbh",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.00651,53.686371,10.00651,53.686371],
+  "bbox": [
+    10.00651,
+    53.686371,
+    10.00651,
+    53.686371
+],
   "geometry": {"coordinates":[10.00651,53.686371],"type":"Point"}
 }

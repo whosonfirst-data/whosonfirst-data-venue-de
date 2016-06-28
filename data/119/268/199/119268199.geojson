@@ -2,13 +2,14 @@
   "id": 119268199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.991804,51.509632,11.991804,51.509632",
     "geom:latitude":51.509632,
     "geom:longitude":11.991804,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Busch-Str. 10",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063785,
-        85633111,
         85682519,
-        85900161
+        85633111,
+        85900161,
+        102063785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119268199,
-    "wof:lastmodified":1449042378,
+    "wof:lastmodified":1466235419,
     "wof:name":"Dr. Med. Silke Poskowski",
     "wof:parent_id":85900161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.991804,51.509632,11.991804,51.509632],
+  "bbox": [
+    11.991804,
+    51.509632,
+    11.991804,
+    51.509632
+],
   "geometry": {"coordinates":[11.991804,51.509632],"type":"Point"}
 }

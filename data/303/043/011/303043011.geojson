@@ -2,13 +2,14 @@
   "id": 303043011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.48432,51.664127,7.48432,51.664127",
     "geom:latitude":51.664127,
     "geom:longitude":7.48432,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcnener Str. 30",
     "sg:city":"Selm",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303043011,
-    "wof:lastmodified":1448999946,
+    "wof:lastmodified":1466225566,
     "wof:name":"Alfred Stier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.48432,51.664127,7.48432,51.664127],
+  "bbox": [
+    7.48432,
+    51.664127,
+    7.48432,
+    51.664127
+],
   "geometry": {"coordinates":[7.48432,51.664127],"type":"Point"}
 }

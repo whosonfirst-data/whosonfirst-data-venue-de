@@ -2,13 +2,14 @@
   "id": 135386161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650175,50.113804,8.650175,50.113804",
     "geom:latitude":50.113804,
     "geom:longitude":8.650175,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Ebert Str. 1",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795985,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135386161,
-    "wof:lastmodified":1449022597,
+    "wof:lastmodified":1466221629,
     "wof:name":"Dresdner Verm\u00f6gensberatungs- Gmbh",
     "wof:parent_id":85795985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650175,50.113804,8.650175,50.113804],
+  "bbox": [
+    8.650175,
+    50.113804,
+    8.650175,
+    50.113804
+],
   "geometry": {"coordinates":[8.650175,50.113804],"type":"Point"}
 }

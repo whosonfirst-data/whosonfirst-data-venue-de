@@ -2,13 +2,14 @@
   "id": 118753217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.876438,51.297447,6.876438,51.297447",
     "geom:latitude":51.297447,
     "geom:longitude":6.876438,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantstr 16",
     "sg:city":"Ratingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85794683
+        85633111,
+        85794683,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118753217,
-    "wof:lastmodified":1449053311,
+    "wof:lastmodified":1466226965,
     "wof:name":"Gs Messtechnik Gmbh",
     "wof:parent_id":85794683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.876438,51.297447,6.876438,51.297447],
+  "bbox": [
+    6.876438,
+    51.297447,
+    6.876438,
+    51.297447
+],
   "geometry": {"coordinates":[6.876438,51.297447],"type":"Point"}
 }

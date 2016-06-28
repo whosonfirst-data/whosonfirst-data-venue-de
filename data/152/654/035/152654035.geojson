@@ -2,13 +2,14 @@
   "id": 152654035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.633365,51.956867,7.633365,51.956867",
     "geom:latitude":51.956867,
     "geom:longitude":7.633365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windthorststr. 7",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795671,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152654035,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1466223636,
     "wof:name":"Hausfelder Zahntechnik Verwaltungs-gmbh",
     "wof:parent_id":85795671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.633365,51.956867,7.633365,51.956867],
+  "bbox": [
+    7.633365,
+    51.956867,
+    7.633365,
+    51.956867
+],
   "geometry": {"coordinates":[7.633365,51.956867],"type":"Point"}
 }

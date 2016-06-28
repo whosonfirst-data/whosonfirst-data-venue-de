@@ -2,13 +2,14 @@
   "id": 135566401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.126648,52.381828,13.126648,52.381828",
     "geom:latitude":52.381828,
     "geom:longitude":13.126648,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfbeerenstr. 231",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899385
+        85633111,
+        85899385,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135566401,
-    "wof:lastmodified":1449021038,
+    "wof:lastmodified":1466237124,
     "wof:name":"Ingenius Gmbh & Co. Bau\u00fcbernehmer Kg",
     "wof:parent_id":85899385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.126648,52.381828,13.126648,52.381828],
+  "bbox": [
+    13.126648,
+    52.381828,
+    13.126648,
+    52.381828
+],
   "geometry": {"coordinates":[13.126648,52.381828],"type":"Point"}
 }

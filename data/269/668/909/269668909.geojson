@@ -2,13 +2,14 @@
   "id": 269668909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.88472,50.101589,11.88472,50.101589",
     "geom:latitude":50.101589,
     "geom:longitude":11.88472,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 14",
     "sg:city":"Wei\u00dfenstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269668909,
-    "wof:lastmodified":1449037794,
+    "wof:lastmodified":1466225191,
     "wof:name":"Werner Horn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.88472,50.101589,11.88472,50.101589],
+  "bbox": [
+    11.88472,
+    50.101589,
+    11.88472,
+    50.101589
+],
   "geometry": {"coordinates":[11.88472,50.101589],"type":"Point"}
 }

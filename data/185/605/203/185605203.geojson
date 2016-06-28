@@ -2,13 +2,14 @@
   "id": 185605203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.186426,49.079395,8.186426,49.079395",
     "geom:latitude":49.079395,
     "geom:longitude":8.186426,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saarstr. 19",
     "sg:city":"Kandel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185605203,
-    "wof:lastmodified":1449007414,
+    "wof:lastmodified":1466213187,
     "wof:name":"M. Heilmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.186426,49.079395,8.186426,49.079395],
+  "bbox": [
+    8.186426,
+    49.079395,
+    8.186426,
+    49.079395
+],
   "geometry": {"coordinates":[8.186426,49.079395],"type":"Point"}
 }

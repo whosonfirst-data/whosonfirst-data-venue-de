@@ -2,13 +2,14 @@
   "id": 220060985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.40517,48.208954,12.40517,48.208954",
     "geom:latitude":48.208954,
     "geom:longitude":12.40517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlergebirgsstr. 3",
     "sg:city":"Waldkraiburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220060985,
-    "wof:lastmodified":1449074804,
+    "wof:lastmodified":1466215769,
     "wof:name":"Cafe Journal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.40517,48.208954,12.40517,48.208954],
+  "bbox": [
+    12.40517,
+    48.208954,
+    12.40517,
+    48.208954
+],
   "geometry": {"coordinates":[12.40517,48.208954],"type":"Point"}
 }

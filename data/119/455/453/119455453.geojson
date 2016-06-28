@@ -2,13 +2,14 @@
   "id": 119455453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.376183,49.488937,8.376183,49.488937",
     "geom:latitude":49.488937,
     "geom:longitude":8.376183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niedererdstr. 10",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795913,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119455453,
-    "wof:lastmodified":1449043091,
+    "wof:lastmodified":1466242793,
     "wof:name":"H. Leibeling Gmbh",
     "wof:parent_id":85795913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.376183,49.488937,8.376183,49.488937],
+  "bbox": [
+    8.376183,
+    49.488937,
+    8.376183,
+    49.488937
+],
   "geometry": {"coordinates":[8.376183,49.488937],"type":"Point"}
 }

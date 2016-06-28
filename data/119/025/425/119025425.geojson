@@ -2,13 +2,14 @@
   "id": 119025425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64838,49.825943,8.64838,49.825943",
     "geom:latitude":49.825943,
     "geom:longitude":8.64838,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Delp-Str. 121",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119025425,
-    "wof:lastmodified":1449043080,
+    "wof:lastmodified":1466213097,
     "wof:name":"G\u00fcnter H\u00e4rtel Architekt",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.64838,49.825943,8.64838,49.825943],
+  "bbox": [
+    8.64838,
+    49.825943,
+    8.64838,
+    49.825943
+],
   "geometry": {"coordinates":[8.64838,49.825943],"type":"Point"}
 }

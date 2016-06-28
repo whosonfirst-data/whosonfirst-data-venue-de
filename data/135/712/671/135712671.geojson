@@ -2,13 +2,14 @@
   "id": 135712671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.542985,51.484528,7.542985,51.484528",
     "geom:latitude":51.484528,
     "geom:longitude":7.542985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brennerstr. 10",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85794879
+        85633111,
+        85794879,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135712671,
-    "wof:lastmodified":1449022297,
+    "wof:lastmodified":1466242773,
     "wof:name":"Peha Bautr\u00e4gerges. Gmbh",
     "wof:parent_id":85794879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.542985,51.484528,7.542985,51.484528],
+  "bbox": [
+    7.542985,
+    51.484528,
+    7.542985,
+    51.484528
+],
   "geometry": {"coordinates":[7.542985,51.484528],"type":"Point"}
 }

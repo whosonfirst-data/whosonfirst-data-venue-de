@@ -2,13 +2,14 @@
   "id": 303419795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.704669,48.188545,11.704669,48.188545",
     "geom:latitude":48.188545,
     "geom:longitude":11.704669,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 6",
     "sg:city":"Aschheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303419795,
-    "wof:lastmodified":1449000521,
+    "wof:lastmodified":1466234975,
     "wof:name":"Dieter Eigner",
     "wof:parent_id":85899327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.704669,48.188545,11.704669,48.188545],
+  "bbox": [
+    11.704669,
+    48.188545,
+    11.704669,
+    48.188545
+],
   "geometry": {"coordinates":[11.704669,48.188545],"type":"Point"}
 }

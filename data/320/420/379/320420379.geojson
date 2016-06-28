@@ -2,13 +2,14 @@
   "id": 320420379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.028302,50.890583,8.028302,50.890583",
     "geom:latitude":50.890583,
     "geom:longitude":8.028302,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidenauer Str. 252",
     "sg:city":"Siegen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320420379,
-    "wof:lastmodified":1449013043,
+    "wof:lastmodified":1466240205,
     "wof:name":"Franz & Mauden Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.028302,50.890583,8.028302,50.890583],
+  "bbox": [
+    8.028302,
+    50.890583,
+    8.028302,
+    50.890583
+],
   "geometry": {"coordinates":[8.028302,50.890583],"type":"Point"}
 }

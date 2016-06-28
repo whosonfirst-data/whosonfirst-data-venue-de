@@ -2,13 +2,14 @@
   "id": 203090431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.41113,47.704006,11.41113,47.704006",
     "geom:latitude":47.704006,
     "geom:longitude":11.41113,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glaswandstr. 1",
     "sg:city":"Benediktbeuern",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203090431,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466215341,
     "wof:name":"Andreas Huber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.41113,47.704006,11.41113,47.704006],
+  "bbox": [
+    11.41113,
+    47.704006,
+    11.41113,
+    47.704006
+],
   "geometry": {"coordinates":[11.41113,47.704006],"type":"Point"}
 }

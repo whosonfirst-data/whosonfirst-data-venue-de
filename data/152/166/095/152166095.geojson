@@ -2,13 +2,14 @@
   "id": 152166095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.851922,51.461193,6.851922,51.461193",
     "geom:latitude":51.461193,
     "geom:longitude":6.851922,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lothringer Str. 164",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796569,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85796569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152166095,
-    "wof:lastmodified":1449046883,
+    "wof:lastmodified":1466213331,
     "wof:name":"A. Chossa",
     "wof:parent_id":85796569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.851922,51.461193,6.851922,51.461193],
+  "bbox": [
+    6.851922,
+    51.461193,
+    6.851922,
+    51.461193
+],
   "geometry": {"coordinates":[6.851922,51.461193],"type":"Point"}
 }

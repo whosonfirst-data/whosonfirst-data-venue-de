@@ -2,13 +2,14 @@
   "id": 135347777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.604443,48.50494,11.604443,48.50494",
     "geom:latitude":48.50494,
     "geom:longitude":11.604443,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 24",
     "sg:city":"Schweitenkirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135347777,
-    "wof:lastmodified":1449022482,
+    "wof:lastmodified":1466217885,
     "wof:name":"Karl Wiesender",
     "wof:parent_id":101784385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.604443,48.50494,11.604443,48.50494],
+  "bbox": [
+    11.604443,
+    48.50494,
+    11.604443,
+    48.50494
+],
   "geometry": {"coordinates":[11.604443,48.50494],"type":"Point"}
 }

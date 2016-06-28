@@ -2,13 +2,14 @@
   "id": 118997053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.577849,52.416191,13.577849,52.416191",
     "geom:latitude":52.416191,
     "geom:longitude":13.577849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walchenseestr. 6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900229,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118997053,
-    "wof:lastmodified":1449054309,
+    "wof:lastmodified":1466239765,
     "wof:name":"Dr. Friedrich Hinkel Architekt",
     "wof:parent_id":85900229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.577849,52.416191,13.577849,52.416191],
+  "bbox": [
+    13.577849,
+    52.416191,
+    13.577849,
+    52.416191
+],
   "geometry": {"coordinates":[13.577849,52.416191],"type":"Point"}
 }

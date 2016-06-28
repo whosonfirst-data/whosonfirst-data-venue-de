@@ -2,13 +2,14 @@
   "id": 186485995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.344467,49.553268,11.344467,49.553268",
     "geom:latitude":49.553268,
     "geom:longitude":11.344467,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hersbrucker Str. 31",
     "sg:city":"Schnaittach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186485995,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466218341,
     "wof:name":"Franz Messer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.344467,49.553268,11.344467,49.553268],
+  "bbox": [
+    11.344467,
+    49.553268,
+    11.344467,
+    49.553268
+],
   "geometry": {"coordinates":[11.344467,49.553268],"type":"Point"}
 }

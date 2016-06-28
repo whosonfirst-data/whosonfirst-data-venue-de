@@ -2,13 +2,14 @@
   "id": 136192405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.703671,52.350983,9.703671,52.350983",
     "geom:latitude":52.350983,
     "geom:longitude":9.703671,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am T\u00f6nniesberg 16",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899535,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136192405,
-    "wof:lastmodified":1449075866,
+    "wof:lastmodified":1466220760,
     "wof:name":"Brinkmann-blumen Gmbh",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.703671,52.350983,9.703671,52.350983],
+  "bbox": [
+    9.703671,
+    52.350983,
+    9.703671,
+    52.350983
+],
   "geometry": {"coordinates":[9.703671,52.350983],"type":"Point"}
 }

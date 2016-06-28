@@ -2,13 +2,14 @@
   "id": 135541471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625442,51.996609,8.625442,51.996609",
     "geom:latitude":51.996609,
     "geom:longitude":8.625442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6rster Str. 22",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063883,
-        85633111,
         85682513,
-        85794861
+        85633111,
+        85794861,
+        102063883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135541471,
-    "wof:lastmodified":1449021323,
+    "wof:lastmodified":1466235751,
     "wof:name":"Schneevoigt Und Hoffmann Wohnbau Gmbh",
     "wof:parent_id":85794861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625442,51.996609,8.625442,51.996609],
+  "bbox": [
+    8.625442,
+    51.996609,
+    8.625442,
+    51.996609
+],
   "geometry": {"coordinates":[8.625442,51.996609],"type":"Point"}
 }

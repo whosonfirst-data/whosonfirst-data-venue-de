@@ -2,13 +2,14 @@
   "id": 152296575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820023,53.078228,8.820023,53.078228",
     "geom:latitude":53.078228,
     "geom:longitude":8.820023,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fedelh\u00f6ren 70",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152296575,
-    "wof:lastmodified":1449048063,
+    "wof:lastmodified":1466216080,
     "wof:name":"Taifun",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.820023,53.078228,8.820023,53.078228],
+  "bbox": [
+    8.820023,
+    53.078228,
+    8.820023,
+    53.078228
+],
   "geometry": {"coordinates":[8.820023,53.078228],"type":"Point"}
 }

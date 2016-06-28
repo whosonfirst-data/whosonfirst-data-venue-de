@@ -2,13 +2,14 @@
   "id": 202710371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.635997,51.118267,10.635997,51.118267",
     "geom:latitude":51.118267,
     "geom:longitude":10.635997,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Homburger Weg 20",
     "sg:city":"Bad Langensalza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202710371,
-    "wof:lastmodified":1449060264,
+    "wof:lastmodified":1466219614,
     "wof:name":"Harald Stieding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.635997,51.118267,10.635997,51.118267],
+  "bbox": [
+    10.635997,
+    51.118267,
+    10.635997,
+    51.118267
+],
   "geometry": {"coordinates":[10.635997,51.118267],"type":"Point"}
 }

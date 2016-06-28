@@ -2,13 +2,14 @@
   "id": 119174335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.224788,51.538383,7.224788,51.538383",
     "geom:latitude":51.538383,
     "geom:longitude":7.224788,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 20",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863257,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119174335,
-    "wof:lastmodified":1449041201,
+    "wof:lastmodified":1466226381,
     "wof:name":"C Design Capizzi Gmbh",
     "wof:parent_id":85863257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.224788,51.538383,7.224788,51.538383],
+  "bbox": [
+    7.224788,
+    51.538383,
+    7.224788,
+    51.538383
+],
   "geometry": {"coordinates":[7.224788,51.538383],"type":"Point"}
 }

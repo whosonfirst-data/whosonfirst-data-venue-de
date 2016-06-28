@@ -2,13 +2,14 @@
   "id": 102632775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.931082,53.554447,9.931082,53.554447",
     "geom:latitude":53.554447,
     "geom:longitude":9.931082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohenesch 51",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102632775,
-    "wof:lastmodified":1449069305,
+    "wof:lastmodified":1466214157,
     "wof:name":"Paul Berke Maschinenbau Ek",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.931082,53.554447,9.931082,53.554447],
+  "bbox": [
+    9.931082,
+    53.554447,
+    9.931082,
+    53.554447
+],
   "geometry": {"coordinates":[9.931082,53.554447],"type":"Point"}
 }

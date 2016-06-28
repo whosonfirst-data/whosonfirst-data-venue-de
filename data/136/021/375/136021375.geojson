@@ -2,13 +2,14 @@
   "id": 136021375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543926,52.044701,8.543926,52.044701",
     "geom:latitude":52.044701,
     "geom:longitude":8.543926,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beckhausstr. 113",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794931,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85794931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136021375,
-    "wof:lastmodified":1449075757,
+    "wof:lastmodified":1466213116,
     "wof:name":"Reiner M\u00fcller Gmbh",
     "wof:parent_id":85794931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543926,52.044701,8.543926,52.044701],
+  "bbox": [
+    8.543926,
+    52.044701,
+    8.543926,
+    52.044701
+],
   "geometry": {"coordinates":[8.543926,52.044701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152792295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.207339,50.066933,8.207339,50.066933",
     "geom:latitude":50.066933,
     "geom:longitude":8.207339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiefersteinstr.1",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795719
+        85633111,
+        85795719,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152792295,
-    "wof:lastmodified":1449045292,
+    "wof:lastmodified":1466226861,
     "wof:name":"Dj-moony, Wiesbaden: Soul, Dancefloor-classics",
     "wof:parent_id":85795719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.207339,50.066933,8.207339,50.066933],
+  "bbox": [
+    8.207339,
+    50.066933,
+    8.207339,
+    50.066933
+],
   "geometry": {"coordinates":[8.207339,50.066933],"type":"Point"}
 }

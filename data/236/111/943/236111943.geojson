@@ -2,13 +2,14 @@
   "id": 236111943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.344077,50.957123,11.344077,50.957123",
     "geom:latitude":50.957123,
     "geom:longitude":11.344077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Belvederer Allee 65",
     "sg:city":"Weimar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236111943,
-    "wof:lastmodified":1449005377,
+    "wof:lastmodified":1466220846,
     "wof:name":"Hainfels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.344077,50.957123,11.344077,50.957123],
+  "bbox": [
+    11.344077,
+    50.957123,
+    11.344077,
+    50.957123
+],
   "geometry": {"coordinates":[11.344077,50.957123],"type":"Point"}
 }

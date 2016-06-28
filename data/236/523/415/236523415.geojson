@@ -2,13 +2,14 @@
   "id": 236523415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.937586,49.32151,11.937586,49.32151",
     "geom:latitude":49.32151,
     "geom:longitude":11.937586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelweg 6",
     "sg:city":"Rieden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236523415,
-    "wof:lastmodified":1449003572,
+    "wof:lastmodified":1466228420,
     "wof:name":"Schmucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.937586,49.32151,11.937586,49.32151],
+  "bbox": [
+    11.937586,
+    49.32151,
+    11.937586,
+    49.32151
+],
   "geometry": {"coordinates":[11.937586,49.32151],"type":"Point"}
 }

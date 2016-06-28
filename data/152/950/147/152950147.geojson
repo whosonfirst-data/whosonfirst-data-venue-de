@@ -2,13 +2,14 @@
   "id": 152950147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.782739,52.373486,9.782739,52.373486",
     "geom:latitude":52.373486,
     "geom:longitude":9.782739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleestra\u00dfe 7",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899361,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152950147,
-    "wof:lastmodified":1449046112,
+    "wof:lastmodified":1466230595,
     "wof:name":"Stebo-fugen Steffen B\u00f6ttcher",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.782739,52.373486,9.782739,52.373486],
+  "bbox": [
+    9.782739,
+    52.373486,
+    9.782739,
+    52.373486
+],
   "geometry": {"coordinates":[9.782739,52.373486],"type":"Point"}
 }

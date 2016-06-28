@@ -2,13 +2,14 @@
   "id": 202783763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.074314,49.467278,11.074314,49.467278",
     "geom:latitude":49.467278,
     "geom:longitude":11.074314,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4ufeleinstr. 6",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202783763,
-    "wof:lastmodified":1449060177,
+    "wof:lastmodified":1466220946,
     "wof:name":"Peter Graf",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.074314,49.467278,11.074314,49.467278],
+  "bbox": [
+    11.074314,
+    49.467278,
+    11.074314,
+    49.467278
+],
   "geometry": {"coordinates":[11.074314,49.467278],"type":"Point"}
 }

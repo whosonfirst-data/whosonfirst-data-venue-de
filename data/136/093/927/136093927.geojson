@@ -2,13 +2,14 @@
   "id": 136093927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.400779,52.530067,13.400779,52.530067",
     "geom:latitude":52.530067,
     "geom:longitude":13.400779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenstra\u00dfe 196",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899193,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136093927,
-    "wof:lastmodified":1449074914,
+    "wof:lastmodified":1466216475,
     "wof:name":"Ksv - Kr\u00fcger, Schuberth, Vandreike",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.400779,52.530067,13.400779,52.530067],
+  "bbox": [
+    13.400779,
+    52.530067,
+    13.400779,
+    52.530067
+],
   "geometry": {"coordinates":[13.400779,52.530067],"type":"Point"}
 }

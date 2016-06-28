@@ -2,13 +2,14 @@
   "id": 119001931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.200435,52.523884,13.200435,52.523884",
     "geom:latitude":52.523884,
     "geom:longitude":13.200435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00f6rther Str. 35",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900143,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119001931,
-    "wof:lastmodified":1449041413,
+    "wof:lastmodified":1466213204,
     "wof:name":"El-sayed Madany Architekt",
     "wof:parent_id":85900143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.200435,52.523884,13.200435,52.523884],
+  "bbox": [
+    13.200435,
+    52.523884,
+    13.200435,
+    52.523884
+],
   "geometry": {"coordinates":[13.200435,52.523884],"type":"Point"}
 }

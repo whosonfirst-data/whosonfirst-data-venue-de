@@ -2,13 +2,14 @@
   "id": 119358769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436276,51.614525,7.436276,51.614525",
     "geom:latitude":51.614525,
     "geom:longitude":7.436276,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Kn\u00e4ppen 5",
     "sg:city":"Waltrop",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796435,
+        85682513,
         85633111,
         101748737,
         102063823,
-        85682513
+        85796435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119358769,
-    "wof:lastmodified":1449041948,
+    "wof:lastmodified":1466240351,
     "wof:name":"Manfred Fu\u00df",
     "wof:parent_id":85796435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436276,51.614525,7.436276,51.614525],
+  "bbox": [
+    7.436276,
+    51.614525,
+    7.436276,
+    51.614525
+],
   "geometry": {"coordinates":[7.436276,51.614525],"type":"Point"}
 }

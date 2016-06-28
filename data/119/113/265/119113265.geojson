@@ -2,13 +2,14 @@
   "id": 119113265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.219416,48.804752,9.219416,48.804752",
     "geom:latitude":48.804752,
     "geom:longitude":9.219416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Daimlerstr. 29",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119113265,
-    "wof:lastmodified":1449043307,
+    "wof:lastmodified":1466221317,
     "wof:name":"Prof. Wolfgang St\u00fcbler Architekt",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.219416,48.804752,9.219416,48.804752],
+  "bbox": [
+    9.219416,
+    48.804752,
+    9.219416,
+    48.804752
+],
   "geometry": {"coordinates":[9.219416,48.804752],"type":"Point"}
 }

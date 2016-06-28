@@ -2,13 +2,14 @@
   "id": 303501281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.018321,52.381664,13.018321,52.381664",
     "geom:latitude":52.381664,
     "geom:longitude":13.018321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeppelinstr. 114",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303501281,
-    "wof:lastmodified":1449000587,
+    "wof:lastmodified":1466236544,
     "wof:name":"B. Borchardt",
     "wof:parent_id":85899281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.018321,52.381664,13.018321,52.381664],
+  "bbox": [
+    13.018321,
+    52.381664,
+    13.018321,
+    52.381664
+],
   "geometry": {"coordinates":[13.018321,52.381664],"type":"Point"}
 }

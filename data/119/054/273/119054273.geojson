@@ -2,13 +2,14 @@
   "id": 119054273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.623895,48.143944,11.623895,48.143944",
     "geom:latitude":48.143944,
     "geom:longitude":11.623895,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Morgenrothstr. 33",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119054273,
-    "wof:lastmodified":1449042090,
+    "wof:lastmodified":1466215802,
     "wof:name":"Hermann Karl Strohmaier Architekt",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.623895,48.143944,11.623895,48.143944],
+  "bbox": [
+    11.623895,
+    48.143944,
+    11.623895,
+    48.143944
+],
   "geometry": {"coordinates":[11.623895,48.143944],"type":"Point"}
 }

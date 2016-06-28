@@ -2,13 +2,14 @@
   "id": 118677679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.381468,49.006851,8.381468,49.006851",
     "geom:latitude":49.006851,
     "geom:longitude":8.381468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheffelstr. 56",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118677679,
-    "wof:lastmodified":1449053646,
+    "wof:lastmodified":1466222595,
     "wof:name":"Roland Lutz Gmbh",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.381468,49.006851,8.381468,49.006851],
+  "bbox": [
+    8.381468,
+    49.006851,
+    8.381468,
+    49.006851
+],
   "geometry": {"coordinates":[8.381468,49.006851],"type":"Point"}
 }

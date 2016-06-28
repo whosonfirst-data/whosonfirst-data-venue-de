@@ -2,13 +2,14 @@
   "id": 202822649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.543518,50.907497,7.543518,50.907497",
     "geom:latitude":50.907497,
     "geom:longitude":7.543518,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 2",
     "sg:city":"N\u00fcmbrecht",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202822649,
-    "wof:lastmodified":1449062561,
+    "wof:lastmodified":1466221643,
     "wof:name":"Robert Spies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.543518,50.907497,7.543518,50.907497],
+  "bbox": [
+    7.543518,
+    50.907497,
+    7.543518,
+    50.907497
+],
   "geometry": {"coordinates":[7.543518,50.907497],"type":"Point"}
 }

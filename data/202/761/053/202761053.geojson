@@ -2,13 +2,14 @@
   "id": 202761053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.190633,52.557442,10.190633,52.557442",
     "geom:latitude":52.557442,
     "geom:longitude":10.190633,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandlinger Str. 36",
     "sg:city":"Eicklingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202761053,
-    "wof:lastmodified":1449062052,
+    "wof:lastmodified":1466220546,
     "wof:name":"Gustav Schumacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.190633,52.557442,10.190633,52.557442],
+  "bbox": [
+    10.190633,
+    52.557442,
+    10.190633,
+    52.557442
+],
   "geometry": {"coordinates":[10.190633,52.557442],"type":"Point"}
 }

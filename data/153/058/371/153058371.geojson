@@ -2,13 +2,14 @@
   "id": 153058371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.943142,49.302441,6.943142,49.302441",
     "geom:latitude":49.302441,
     "geom:longitude":6.943142,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 4",
     "sg:city":"Riegelsberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862841,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153058371,
-    "wof:lastmodified":1449040398,
+    "wof:lastmodified":1466213779,
     "wof:name":"Anna Recktenwald",
     "wof:parent_id":85862841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.943142,49.302441,6.943142,49.302441],
+  "bbox": [
+    6.943142,
+    49.302441,
+    6.943142,
+    49.302441
+],
   "geometry": {"coordinates":[6.943142,49.302441],"type":"Point"}
 }

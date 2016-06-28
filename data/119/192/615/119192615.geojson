@@ -2,13 +2,14 @@
   "id": 119192615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.470838,52.553432,13.470838,52.553432",
     "geom:latitude":52.553432,
     "geom:longitude":13.470838,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buschallee 8",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928753,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119192615,
-    "wof:lastmodified":1449042753,
+    "wof:lastmodified":1466228128,
     "wof:name":"Bibliothek",
     "wof:parent_id":85928753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.470838,52.553432,13.470838,52.553432],
+  "bbox": [
+    13.470838,
+    52.553432,
+    13.470838,
+    52.553432
+],
   "geometry": {"coordinates":[13.470838,52.553432],"type":"Point"}
 }

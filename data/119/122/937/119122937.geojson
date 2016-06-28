@@ -2,13 +2,14 @@
   "id": 119122937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625497,50.162315,8.625497,50.162315",
     "geom:latitude":50.162315,
     "geom:longitude":8.625497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glaskopfweg 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119122937,
-    "wof:lastmodified":1449042370,
+    "wof:lastmodified":1466222109,
     "wof:name":"Rolf Himmelreich Architekt",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625497,50.162315,8.625497,50.162315],
+  "bbox": [
+    8.625497,
+    50.162315,
+    8.625497,
+    50.162315
+],
   "geometry": {"coordinates":[8.625497,50.162315],"type":"Point"}
 }

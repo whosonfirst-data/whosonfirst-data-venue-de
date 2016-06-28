@@ -2,13 +2,14 @@
   "id": 185800307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.390947,51.295513,12.390947,51.295513",
     "geom:latitude":51.295513,
     "geom:longitude":12.390947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Maurer-Str. 3",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185800307,
-    "wof:lastmodified":1449006731,
+    "wof:lastmodified":1466215118,
     "wof:name":"R. Walter",
     "wof:parent_id":85899857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.390947,51.295513,12.390947,51.295513],
+  "bbox": [
+    12.390947,
+    51.295513,
+    12.390947,
+    51.295513
+],
   "geometry": {"coordinates":[12.390947,51.295513],"type":"Point"}
 }

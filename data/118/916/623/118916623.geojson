@@ -2,13 +2,14 @@
   "id": 118916623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638775,50.169498,8.638775,50.169498",
     "geom:latitude":50.169498,
     "geom:longitude":8.638775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lurgiallee 6-8",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118916623,
-    "wof:lastmodified":1449053920,
+    "wof:lastmodified":1466236549,
     "wof:name":"Merton Apotheke Manfred Plath",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638775,50.169498,8.638775,50.169498],
+  "bbox": [
+    8.638775,
+    50.169498,
+    8.638775,
+    50.169498
+],
   "geometry": {"coordinates":[8.638775,50.169498],"type":"Point"}
 }

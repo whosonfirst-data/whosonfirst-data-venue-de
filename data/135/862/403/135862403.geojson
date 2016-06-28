@@ -2,13 +2,14 @@
   "id": 135862403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.333312,49.641376,8.333312,49.641376",
     "geom:latitude":49.641376,
     "geom:longitude":8.333312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Binger Str. 66",
     "sg:city":"Worms",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135862403,
-    "wof:lastmodified":1449024069,
+    "wof:lastmodified":1466244329,
     "wof:name":"Klotz Gmbh",
     "wof:parent_id":101748553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.333312,49.641376,8.333312,49.641376],
+  "bbox": [
+    8.333312,
+    49.641376,
+    8.333312,
+    49.641376
+],
   "geometry": {"coordinates":[8.333312,49.641376],"type":"Point"}
 }

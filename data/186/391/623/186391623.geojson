@@ -2,13 +2,14 @@
   "id": 186391623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60271,51.52927,7.60271,51.52927",
     "geom:latitude":51.52927,
     "geom:longitude":7.60271,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bebelstr. 79",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186391623,
-    "wof:lastmodified":1449052098,
+    "wof:lastmodified":1466217303,
     "wof:name":"Kornhaus Dortmund",
     "wof:parent_id":85796731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60271,51.52927,7.60271,51.52927],
+  "bbox": [
+    7.60271,
+    51.52927,
+    7.60271,
+    51.52927
+],
   "geometry": {"coordinates":[7.60271,51.52927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136053185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.445007,39.004421,-77.445007,39.004421",
     "geom:latitude":39.004421,
     "geom:longitude":-77.445007,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 AOL Way",
     "sg:city":"Dulles",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136053185,
-    "wof:lastmodified":1449075155,
+    "wof:lastmodified":1466214569,
     "wof:name":"Education Bibliography",
     "wof:parent_id":101729435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.445007,39.004421,-77.445007,39.004421],
+  "bbox": [
+    -77.445007,
+    39.004421,
+    -77.445007,
+    39.004421
+],
   "geometry": {"coordinates":[-77.445007,39.004421],"type":"Point"}
 }

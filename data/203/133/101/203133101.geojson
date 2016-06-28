@@ -2,13 +2,14 @@
   "id": 203133101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.274518,50.84441,11.274518,50.84441",
     "geom:latitude":50.84441,
     "geom:longitude":11.274518,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 47",
     "sg:city":"Blankenhain",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203133101,
-    "wof:lastmodified":1449026513,
+    "wof:lastmodified":1466216083,
     "wof:name":"Bernd Wischnewski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.274518,50.84441,11.274518,50.84441],
+  "bbox": [
+    11.274518,
+    50.84441,
+    11.274518,
+    50.84441
+],
   "geometry": {"coordinates":[11.274518,50.84441],"type":"Point"}
 }

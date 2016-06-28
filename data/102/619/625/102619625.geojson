@@ -2,13 +2,14 @@
   "id": 102619625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.239226,53.640949,9.239226,53.640949",
     "geom:latitude":53.640949,
     "geom:longitude":9.239226,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Hechthausen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102619625,
-    "wof:lastmodified":1449068252,
+    "wof:lastmodified":1466213802,
     "wof:name":"Borchers",
     "wof:parent_id":101804201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.239226,53.640949,9.239226,53.640949],
+  "bbox": [
+    9.239226,
+    53.640949,
+    9.239226,
+    53.640949
+],
   "geometry": {"coordinates":[9.239226,53.640949],"type":"Point"}
 }

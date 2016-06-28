@@ -2,13 +2,14 @@
   "id": 303512701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.990625,48.448299,9.990625,48.448299",
     "geom:latitude":48.448299,
     "geom:longitude":9.990625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siegwartstr. 19",
     "sg:city":"Ulm",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303512701,
-    "wof:lastmodified":1448999898,
+    "wof:lastmodified":1466236894,
     "wof:name":"Barbara Steinmetz Hebamme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.990625,48.448299,9.990625,48.448299],
+  "bbox": [
+    9.990625,
+    48.448299,
+    9.990625,
+    48.448299
+],
   "geometry": {"coordinates":[9.990625,48.448299],"type":"Point"}
 }

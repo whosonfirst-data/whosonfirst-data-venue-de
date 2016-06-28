@@ -2,13 +2,14 @@
   "id": 135948457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.18476,51.266411,7.18476,51.266411",
     "geom:latitude":51.266411,
     "geom:longitude":7.18476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserstr. 25",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796715,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135948457,
-    "wof:lastmodified":1449023402,
+    "wof:lastmodified":1466244734,
     "wof:name":"Klauser Beteiligungs-gmbh",
     "wof:parent_id":85796715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.18476,51.266411,7.18476,51.266411],
+  "bbox": [
+    7.18476,
+    51.266411,
+    7.18476,
+    51.266411
+],
   "geometry": {"coordinates":[7.18476,51.266411],"type":"Point"}
 }

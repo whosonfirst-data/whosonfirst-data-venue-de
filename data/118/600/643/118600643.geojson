@@ -2,13 +2,14 @@
   "id": 118600643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.157754,53.5163,10.157754,53.5163",
     "geom:latitude":53.5163,
     "geom:longitude":10.157754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Langberg 104",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899019,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118600643,
-    "wof:lastmodified":1449053279,
+    "wof:lastmodified":1466218234,
     "wof:name":"Weinhaus An Der Bergstra\u00dfeg\u00dcnther & G\u00dcnther",
     "wof:parent_id":85899019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.157754,53.5163,10.157754,53.5163],
+  "bbox": [
+    10.157754,
+    53.5163,
+    10.157754,
+    53.5163
+],
   "geometry": {"coordinates":[10.157754,53.5163],"type":"Point"}
 }

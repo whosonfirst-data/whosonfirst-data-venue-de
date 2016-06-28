@@ -2,13 +2,14 @@
   "id": 135593191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74552,50.130253,8.74552,50.130253",
     "geom:latitude":50.130253,
     "geom:longitude":8.74552,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sontraer Str. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063631,
-        85633111,
         85682531,
-        85795187
+        85633111,
+        85795187,
+        102063631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135593191,
-    "wof:lastmodified":1449023009,
+    "wof:lastmodified":1466238709,
     "wof:name":"Winkler & Kolter Elektro- Und Fernmelde-",
     "wof:parent_id":85795187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74552,50.130253,8.74552,50.130253],
+  "bbox": [
+    8.74552,
+    50.130253,
+    8.74552,
+    50.130253
+],
   "geometry": {"coordinates":[8.74552,50.130253],"type":"Point"}
 }

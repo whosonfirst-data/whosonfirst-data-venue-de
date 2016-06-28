@@ -2,13 +2,14 @@
   "id": 320789717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.30306,52.437004,13.30306,52.437004",
     "geom:latitude":52.437004,
     "geom:longitude":13.30306,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Drakestr. 66",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320789717,
-    "wof:lastmodified":1449012935,
+    "wof:lastmodified":1466243108,
     "wof:name":"Otto Goertz",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.30306,52.437004,13.30306,52.437004],
+  "bbox": [
+    13.30306,
+    52.437004,
+    13.30306,
+    52.437004
+],
   "geometry": {"coordinates":[13.30306,52.437004],"type":"Point"}
 }

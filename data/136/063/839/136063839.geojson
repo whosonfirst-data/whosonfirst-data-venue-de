@@ -2,13 +2,14 @@
   "id": 136063839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.482021,51.358501,9.482021,51.358501",
     "geom:latitude":51.358501,
     "geom:longitude":9.482021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haferhof 3",
     "sg:city":"Vellmar",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906343,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136063839,
-    "wof:lastmodified":1449075010,
+    "wof:lastmodified":1466215068,
     "wof:name":"Finanzdienstleistungen Und Baufinanzierung Vom Fac",
     "wof:parent_id":85906343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.482021,51.358501,9.482021,51.358501],
+  "bbox": [
+    9.482021,
+    51.358501,
+    9.482021,
+    51.358501
+],
   "geometry": {"coordinates":[9.482021,51.358501],"type":"Point"}
 }

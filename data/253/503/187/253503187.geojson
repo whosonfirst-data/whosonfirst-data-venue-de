@@ -2,13 +2,14 @@
   "id": 253503187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.723251,47.650299,10.723251,47.650299",
     "geom:latitude":47.650299,
     "geom:longitude":10.723251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcssener Str. 31",
     "sg:city":"Ro\u00dfhaupten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253503187,
-    "wof:lastmodified":1449065816,
+    "wof:lastmodified":1466229215,
     "wof:name":"Josef Walk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.723251,47.650299,10.723251,47.650299],
+  "bbox": [
+    10.723251,
+    47.650299,
+    10.723251,
+    47.650299
+],
   "geometry": {"coordinates":[10.723251,47.650299],"type":"Point"}
 }

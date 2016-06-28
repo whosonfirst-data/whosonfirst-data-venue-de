@@ -2,13 +2,14 @@
   "id": 119187013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.836009,51.061859,13.836009,51.061859",
     "geom:latitude":51.061859,
     "geom:longitude":13.836009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugersdorfer Str. 24",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064219,
-        85633111,
         85682523,
-        85900223
+        85633111,
+        85900223,
+        102064219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119187013,
-    "wof:lastmodified":1449041224,
+    "wof:lastmodified":1466227566,
     "wof:name":"Logoplan Gmbh",
     "wof:parent_id":85900223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.836009,51.061859,13.836009,51.061859],
+  "bbox": [
+    13.836009,
+    51.061859,
+    13.836009,
+    51.061859
+],
   "geometry": {"coordinates":[13.836009,51.061859],"type":"Point"}
 }

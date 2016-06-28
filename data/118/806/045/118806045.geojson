@@ -2,13 +2,14 @@
   "id": 118806045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.432765,52.510372,13.432765,52.510372",
     "geom:latitude":52.510372,
     "geom:longitude":13.432765,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Ostbahnhof 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899171,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118806045,
-    "wof:lastmodified":1449053142,
+    "wof:lastmodified":1466230099,
     "wof:name":"Bahnhof Apotheke Friefrichshain",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.432765,52.510372,13.432765,52.510372],
+  "bbox": [
+    13.432765,
+    52.510372,
+    13.432765,
+    52.510372
+],
   "geometry": {"coordinates":[13.432765,52.510372],"type":"Point"}
 }

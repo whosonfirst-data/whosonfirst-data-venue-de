@@ -2,13 +2,14 @@
   "id": 118611185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.14052,54.084728,12.14052,54.084728",
     "geom:latitude":54.084728,
     "geom:longitude":12.14052,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augustenstr. 4",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905721,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118611185,
-    "wof:lastmodified":1449054256,
+    "wof:lastmodified":1466218884,
     "wof:name":"Ostwind Spirituosen Rostock Gmbh & Co. Kg",
     "wof:parent_id":85905721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.14052,54.084728,12.14052,54.084728],
+  "bbox": [
+    12.14052,
+    54.084728,
+    12.14052,
+    54.084728
+],
   "geometry": {"coordinates":[12.14052,54.084728],"type":"Point"}
 }

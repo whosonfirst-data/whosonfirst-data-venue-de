@@ -2,13 +2,14 @@
   "id": 119181615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.595602,48.125431,11.595602,48.125431",
     "geom:latitude":48.125431,
     "geom:longitude":11.595602,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Balanstr. 28",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905613,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119181615,
-    "wof:lastmodified":1449042480,
+    "wof:lastmodified":1466227084,
     "wof:name":"Hiltl Ingenieurb\u00fcro F\u00fcr Bauwesen",
     "wof:parent_id":85905613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.595602,48.125431,11.595602,48.125431],
+  "bbox": [
+    11.595602,
+    48.125431,
+    11.595602,
+    48.125431
+],
   "geometry": {"coordinates":[11.595602,48.125431],"type":"Point"}
 }

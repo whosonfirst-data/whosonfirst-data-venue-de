@@ -2,13 +2,14 @@
   "id": 152719007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.766534,51.12133,13.766534,51.12133",
     "geom:latitude":51.12133,
     "geom:longitude":13.766534,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Steinacker 45",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905673,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152719007,
-    "wof:lastmodified":1449044901,
+    "wof:lastmodified":1466225121,
     "wof:name":"P. Saupe",
     "wof:parent_id":85905673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.766534,51.12133,13.766534,51.12133],
+  "bbox": [
+    13.766534,
+    51.12133,
+    13.766534,
+    51.12133
+],
   "geometry": {"coordinates":[13.766534,51.12133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152654993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.992632,51.495956,6.992632,51.495956",
     "geom:latitude":51.495956,
     "geom:longitude":6.992632,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Daniel-Eckhardt-Str. 48",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796063,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85796063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152654993,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1466223656,
     "wof:name":"Heinz Verwaltungs Ges. Mbh",
     "wof:parent_id":85796063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.992632,51.495956,6.992632,51.495956],
+  "bbox": [
+    6.992632,
+    51.495956,
+    6.992632,
+    51.495956
+],
   "geometry": {"coordinates":[6.992632,51.495956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135901147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.363335,50.063034,8.363335,50.063034",
     "geom:latitude":50.063034,
     "geom:longitude":8.363335,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcdesheimer Str. 72",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135901147,
-    "wof:lastmodified":1449022267,
+    "wof:lastmodified":1466244529,
     "wof:name":"Myhold-it-beteiligungs- Gesellschaft Mbh",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.363335,50.063034,8.363335,50.063034],
+  "bbox": [
+    8.363335,
+    50.063034,
+    8.363335,
+    50.063034
+],
   "geometry": {"coordinates":[8.363335,50.063034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102645751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.43639,49.290546,12.43639,49.290546",
     "geom:latitude":49.290546,
     "geom:longitude":12.43639,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Neukirchen-Balbini",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102645751,
-    "wof:lastmodified":1449068030,
+    "wof:lastmodified":1466214524,
     "wof:name":"Fersch & Babl",
     "wof:parent_id":101780751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.43639,49.290546,12.43639,49.290546],
+  "bbox": [
+    12.43639,
+    49.290546,
+    12.43639,
+    49.290546
+],
   "geometry": {"coordinates":[12.43639,49.290546],"type":"Point"}
 }

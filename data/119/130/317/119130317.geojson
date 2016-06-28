@@ -2,13 +2,14 @@
   "id": 119130317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.648254,49.882263,8.648254,49.882263",
     "geom:latitude":49.882263,
     "geom:longitude":8.648254,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emilstr. 44",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119130317,
-    "wof:lastmodified":1449041697,
+    "wof:lastmodified":1466222555,
     "wof:name":"Schauss Und Mietzschke-schauss Architekten",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.648254,49.882263,8.648254,49.882263],
+  "bbox": [
+    8.648254,
+    49.882263,
+    8.648254,
+    49.882263
+],
   "geometry": {"coordinates":[8.648254,49.882263],"type":"Point"}
 }

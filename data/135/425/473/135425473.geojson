@@ -2,13 +2,14 @@
   "id": 135425473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.943393,49.32296,11.943393,49.32296",
     "geom:latitude":49.32296,
     "geom:longitude":11.943393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschwalder Str. 17",
     "sg:city":"Rieden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135425473,
-    "wof:lastmodified":1449022063,
+    "wof:lastmodified":1466224997,
     "wof:name":"Raiffeisenbank Rieden",
     "wof:parent_id":101780769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.943393,49.32296,11.943393,49.32296],
+  "bbox": [
+    11.943393,
+    49.32296,
+    11.943393,
+    49.32296
+],
   "geometry": {"coordinates":[11.943393,49.32296],"type":"Point"}
 }

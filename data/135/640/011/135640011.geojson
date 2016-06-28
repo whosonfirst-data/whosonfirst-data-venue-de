@@ -2,13 +2,14 @@
   "id": 135640011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600459,49.192318,7.600459,49.192318",
     "geom:latitude":49.192318,
     "geom:longitude":7.600459,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blocksbergstr. 52",
     "sg:city":"Pirmasens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135640011,
-    "wof:lastmodified":1449022324,
+    "wof:lastmodified":1466240719,
     "wof:name":"Haag",
     "wof:parent_id":101760713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600459,49.192318,7.600459,49.192318],
+  "bbox": [
+    7.600459,
+    49.192318,
+    7.600459,
+    49.192318
+],
   "geometry": {"coordinates":[7.600459,49.192318],"type":"Point"}
 }

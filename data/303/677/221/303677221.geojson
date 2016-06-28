@@ -2,13 +2,14 @@
   "id": 303677221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.174526,51.499889,7.174526,51.499889",
     "geom:latitude":51.499889,
     "geom:longitude":7.174526,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptfl\u00f6zstr. 52",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303677221,
-    "wof:lastmodified":1448998998,
+    "wof:lastmodified":1466239017,
     "wof:name":"Hans Freitag",
     "wof:parent_id":85795147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.174526,51.499889,7.174526,51.499889],
+  "bbox": [
+    7.174526,
+    51.499889,
+    7.174526,
+    51.499889
+],
   "geometry": {"coordinates":[7.174526,51.499889],"type":"Point"}
 }

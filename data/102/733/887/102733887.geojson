@@ -2,13 +2,14 @@
   "id": 102733887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619055,51.502033,7.619055,51.502033",
     "geom:latitude":51.502033,
     "geom:longitude":7.619055,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Holzwickede",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796735,
+        85682513,
         85633111,
         101756023,
         102063823,
-        85682513
+        85796735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102733887,
-    "wof:lastmodified":1449068148,
+    "wof:lastmodified":1466217222,
     "wof:name":"Wehmeier",
     "wof:parent_id":85796735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619055,51.502033,7.619055,51.502033],
+  "bbox": [
+    7.619055,
+    51.502033,
+    7.619055,
+    51.502033
+],
   "geometry": {"coordinates":[7.619055,51.502033],"type":"Point"}
 }

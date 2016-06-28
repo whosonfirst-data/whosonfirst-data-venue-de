@@ -2,13 +2,14 @@
   "id": 186512055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.381645,49.379559,8.381645,49.379559",
     "geom:latitude":49.379559,
     "geom:longitude":8.381645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00e4gerstr. 74",
     "sg:city":"Schifferstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186512055,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466218664,
     "wof:name":"Peter Und Chris Reitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.381645,49.379559,8.381645,49.379559],
+  "bbox": [
+    8.381645,
+    49.379559,
+    8.381645,
+    49.379559
+],
   "geometry": {"coordinates":[8.381645,49.379559],"type":"Point"}
 }

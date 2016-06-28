@@ -2,13 +2,14 @@
   "id": 119272279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.511556,52.501598,13.511556,52.501598",
     "geom:latitude":52.501598,
     "geom:longitude":13.511556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzmeerstr. 23",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899981,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119272279,
-    "wof:lastmodified":1449043362,
+    "wof:lastmodified":1466235759,
     "wof:name":"Jens Ebner",
     "wof:parent_id":85899981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.511556,52.501598,13.511556,52.501598],
+  "bbox": [
+    13.511556,
+    52.501598,
+    13.511556,
+    52.501598
+],
   "geometry": {"coordinates":[13.511556,52.501598],"type":"Point"}
 }

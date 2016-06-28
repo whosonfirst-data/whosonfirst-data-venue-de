@@ -2,13 +2,14 @@
   "id": 119174969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.686205,50.120014,8.686205,50.120014",
     "geom:latitude":50.120014,
     "geom:longitude":8.686205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenheimer Anlage 15",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119174969,
-    "wof:lastmodified":1449041195,
+    "wof:lastmodified":1466226448,
     "wof:name":"Eberhard Schaeffer Architekt",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.686205,50.120014,8.686205,50.120014],
+  "bbox": [
+    8.686205,
+    50.120014,
+    8.686205,
+    50.120014
+],
   "geometry": {"coordinates":[8.686205,50.120014],"type":"Point"}
 }

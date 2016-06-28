@@ -2,13 +2,14 @@
   "id": 136045951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.11277,53.578499,10.11277,53.578499",
     "geom:latitude":53.578499,
     "geom:longitude":10.11277,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kroonst\u00fccken 1-7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899253,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136045951,
-    "wof:lastmodified":1449076109,
+    "wof:lastmodified":1466214224,
     "wof:name":"Die Broadcast-auktion",
     "wof:parent_id":85899253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.11277,53.578499,10.11277,53.578499],
+  "bbox": [
+    10.11277,
+    53.578499,
+    10.11277,
+    53.578499
+],
   "geometry": {"coordinates":[10.11277,53.578499],"type":"Point"}
 }

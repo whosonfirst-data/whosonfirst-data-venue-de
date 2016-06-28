@@ -2,13 +2,14 @@
   "id": 119269401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.325557,50.989529,11.325557,50.989529",
     "geom:latitude":50.989529,
     "geom:longitude":11.325557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meyerstr. 58",
     "sg:city":"Weimar",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119269401,
-    "wof:lastmodified":1449042546,
+    "wof:lastmodified":1466235528,
     "wof:name":"Dr. Med. Werner Schorcht",
     "wof:parent_id":101748623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.325557,50.989529,11.325557,50.989529],
+  "bbox": [
+    11.325557,
+    50.989529,
+    11.325557,
+    50.989529
+],
   "geometry": {"coordinates":[11.325557,50.989529],"type":"Point"}
 }

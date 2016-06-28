@@ -2,13 +2,14 @@
   "id": 118713345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.088263,53.586956,10.088263,53.586956",
     "geom:latitude":53.586956,
     "geom:longitude":10.088263,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Ebert-Damm 89A",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899293,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118713345,
-    "wof:lastmodified":1449054420,
+    "wof:lastmodified":1466224633,
     "wof:name":"Gudrun Von Samsom-himmestjerna",
     "wof:parent_id":85899293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.088263,53.586956,10.088263,53.586956],
+  "bbox": [
+    10.088263,
+    53.586956,
+    10.088263,
+    53.586956
+],
   "geometry": {"coordinates":[10.088263,53.586956],"type":"Point"}
 }

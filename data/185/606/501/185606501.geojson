@@ -2,13 +2,14 @@
   "id": 185606501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.41232,49.993328,8.41232,49.993328",
     "geom:latitude":49.993328,
     "geom:longitude":8.41232,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstr. 26",
     "sg:city":"R\u00fcsselsheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185606501,
-    "wof:lastmodified":1449006864,
+    "wof:lastmodified":1466213198,
     "wof:name":"M. Hoffmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.41232,49.993328,8.41232,49.993328],
+  "bbox": [
+    8.41232,
+    49.993328,
+    8.41232,
+    49.993328
+],
   "geometry": {"coordinates":[8.41232,49.993328],"type":"Point"}
 }

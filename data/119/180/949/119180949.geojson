@@ -2,13 +2,14 @@
   "id": 119180949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452944,48.978073,8.452944,48.978073",
     "geom:latitude":48.978073,
     "geom:longitude":8.452944,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Talwiesenstr. 25",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119180949,
-    "wof:lastmodified":1449040989,
+    "wof:lastmodified":1466227036,
     "wof:name":"Gottstein Gmbh",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.452944,48.978073,8.452944,48.978073],
+  "bbox": [
+    8.452944,
+    48.978073,
+    8.452944,
+    48.978073
+],
   "geometry": {"coordinates":[8.452944,48.978073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135716879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.977576,53.908894,10.977576,53.908894",
     "geom:latitude":53.908894,
     "geom:longitude":10.977576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestr. 15 b",
     "sg:city":"Harkensee",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064093,
-        85633111,
         85682487,
-        85899923
+        85633111,
+        85899923,
+        102064093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135716879,
-    "wof:lastmodified":1449021407,
+    "wof:lastmodified":1466242906,
     "wof:name":"Hanse-wohnungsbau- Ag",
     "wof:parent_id":85899923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.977576,53.908894,10.977576,53.908894],
+  "bbox": [
+    10.977576,
+    53.908894,
+    10.977576,
+    53.908894
+],
   "geometry": {"coordinates":[10.977576,53.908894],"type":"Point"}
 }

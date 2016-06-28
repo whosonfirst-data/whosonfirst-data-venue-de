@@ -2,13 +2,14 @@
   "id": 202812953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.633672,50.17271,11.633672,50.17271",
     "geom:latitude":50.17271,
     "geom:longitude":11.633672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstr. 32",
     "sg:city":"Marktleugast",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202812953,
-    "wof:lastmodified":1449060169,
+    "wof:lastmodified":1466221459,
     "wof:name":"Norbert Klier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.633672,50.17271,11.633672,50.17271],
+  "bbox": [
+    11.633672,
+    50.17271,
+    11.633672,
+    50.17271
+],
   "geometry": {"coordinates":[11.633672,50.17271],"type":"Point"}
 }

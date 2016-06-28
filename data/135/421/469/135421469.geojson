@@ -2,13 +2,14 @@
   "id": 135421469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.389604,50.348747,7.389604,50.348747",
     "geom:latitude":50.348747,
     "geom:longitude":7.389604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 40:: 56296 Ochtendung:: Germany.^^Koblenzer Str 3-5::",
     "sg:city":"Ochtendung",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135421469,
-    "wof:lastmodified":1449022925,
+    "wof:lastmodified":1466224679,
     "wof:name":"Raiffeisenbank Maifeld-pellenz Eg",
     "wof:parent_id":101812805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.389604,50.348747,7.389604,50.348747],
+  "bbox": [
+    7.389604,
+    50.348747,
+    7.389604,
+    50.348747
+],
   "geometry": {"coordinates":[7.389604,50.348747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119273951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.07598,54.101486,12.07598,54.101486",
     "geom:latitude":54.101486,
     "geom:longitude":12.07598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Clara-Zetkin-Str. 15",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899039,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119273951,
-    "wof:lastmodified":1449042218,
+    "wof:lastmodified":1466235918,
     "wof:name":"Prof. Dr. Wilhelm Urboszek",
     "wof:parent_id":85899039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.07598,54.101486,12.07598,54.101486],
+  "bbox": [
+    12.07598,
+    54.101486,
+    12.07598,
+    54.101486
+],
   "geometry": {"coordinates":[12.07598,54.101486],"type":"Point"}
 }

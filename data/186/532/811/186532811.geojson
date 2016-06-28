@@ -2,13 +2,14 @@
   "id": 186532811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.180623,49.3727,10.180623,49.3727",
     "geom:latitude":49.3727,
     "geom:longitude":10.180623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 23",
     "sg:city":"Rothenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186532811,
-    "wof:lastmodified":1449051285,
+    "wof:lastmodified":1466218921,
     "wof:name":"S. M\u00fchleck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.180623,49.3727,10.180623,49.3727],
+  "bbox": [
+    10.180623,
+    49.3727,
+    10.180623,
+    49.3727
+],
   "geometry": {"coordinates":[10.180623,49.3727],"type":"Point"}
 }

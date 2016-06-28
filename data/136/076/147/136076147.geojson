@@ -2,13 +2,14 @@
   "id": 136076147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.517772,51.325802,9.517772,51.325802",
     "geom:latitude":51.325802,
     "geom:longitude":9.517772,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuldatalstra\u00dfe 27",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136076147,
-    "wof:lastmodified":1449075948,
+    "wof:lastmodified":1466215615,
     "wof:name":"House Of Mp3 - Die Beste Mp3 Seite Im Netz",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.517772,51.325802,9.517772,51.325802],
+  "bbox": [
+    9.517772,
+    51.325802,
+    9.517772,
+    51.325802
+],
   "geometry": {"coordinates":[9.517772,51.325802],"type":"Point"}
 }

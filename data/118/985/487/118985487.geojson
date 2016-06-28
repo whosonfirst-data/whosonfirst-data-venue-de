@@ -2,13 +2,14 @@
   "id": 118985487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.614378,52.518604,13.614378,52.518604",
     "geom:latitude":52.518604,
     "geom:longitude":13.614378,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burggrafenstr. 28",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118985487,
-    "wof:lastmodified":1449053841,
+    "wof:lastmodified":1466239326,
     "wof:name":"Bruno Zillmann Architekt",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.614378,52.518604,13.614378,52.518604],
+  "bbox": [
+    13.614378,
+    52.518604,
+    13.614378,
+    52.518604
+],
   "geometry": {"coordinates":[13.614378,52.518604],"type":"Point"}
 }

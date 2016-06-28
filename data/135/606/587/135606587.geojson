@@ -2,13 +2,14 @@
   "id": 135606587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.000523,49.417892,11.000523,49.417892",
     "geom:latitude":49.417892,
     "geom:longitude":11.000523,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlstr. 65",
     "sg:city":"Stein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135606587,
-    "wof:lastmodified":1449021446,
+    "wof:lastmodified":1466239414,
     "wof:name":"Rolf Klenk Gmbh & Co. Kg",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.000523,49.417892,11.000523,49.417892],
+  "bbox": [
+    11.000523,
+    49.417892,
+    11.000523,
+    49.417892
+],
   "geometry": {"coordinates":[11.000523,49.417892],"type":"Point"}
 }

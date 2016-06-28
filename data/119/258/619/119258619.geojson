@@ -2,13 +2,14 @@
   "id": 119258619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.006638,51.494209,12.006638,51.494209",
     "geom:latitude":51.494209,
     "geom:longitude":12.006638,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Apoldaer Str. 1",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899093,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85899093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119258619,
-    "wof:lastmodified":1449042947,
+    "wof:lastmodified":1466234487,
     "wof:name":"Dr. Med. Eckard Meyer",
     "wof:parent_id":85899093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.006638,51.494209,12.006638,51.494209],
+  "bbox": [
+    12.006638,
+    51.494209,
+    12.006638,
+    51.494209
+],
   "geometry": {"coordinates":[12.006638,51.494209],"type":"Point"}
 }

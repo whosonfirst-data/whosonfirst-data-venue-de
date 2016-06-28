@@ -2,13 +2,14 @@
   "id": 135308755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.253547,48.809402,9.253547,48.809402",
     "geom:latitude":48.809402,
     "geom:longitude":9.253547,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saarlandstr. 2",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135308755,
-    "wof:lastmodified":1449024076,
+    "wof:lastmodified":1466214515,
     "wof:name":"R. K\u00e4rcher",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.253547,48.809402,9.253547,48.809402],
+  "bbox": [
+    9.253547,
+    48.809402,
+    9.253547,
+    48.809402
+],
   "geometry": {"coordinates":[9.253547,48.809402],"type":"Point"}
 }

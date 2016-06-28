@@ -2,13 +2,14 @@
   "id": 102758791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.359093,29.2019,-98.359093,29.2019",
     "geom:latitude":29.2019,
     "geom:longitude":-98.359093,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"St.Georgen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":102758791,
-    "wof:lastmodified":1449068509,
+    "wof:lastmodified":1466218742,
     "wof:name":"Cityinfo Adressenservice",
     "wof:parent_id":85688753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.359093,29.2019,-98.359093,29.2019],
+  "bbox": [
+    -98.359093,
+    29.2019,
+    -98.359093,
+    29.2019
+],
   "geometry": {"coordinates":[-98.359093,29.2019],"type":"Point"}
 }

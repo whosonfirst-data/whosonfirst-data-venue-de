@@ -2,13 +2,14 @@
   "id": 119360271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.429242,48.467419,10.429242,48.467419",
     "geom:latitude":48.467419,
     "geom:longitude":10.429242,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofstr. 5",
     "sg:city":"D\u00fcrrlauingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119360271,
-    "wof:lastmodified":1449042889,
+    "wof:lastmodified":1466240403,
     "wof:name":"Martin Pfaller",
     "wof:parent_id":101784149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.429242,48.467419,10.429242,48.467419],
+  "bbox": [
+    10.429242,
+    48.467419,
+    10.429242,
+    48.467419
+],
   "geometry": {"coordinates":[10.429242,48.467419],"type":"Point"}
 }

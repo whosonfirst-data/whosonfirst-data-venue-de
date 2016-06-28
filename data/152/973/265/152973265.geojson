@@ -2,13 +2,14 @@
   "id": 152973265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.746568,51.046581,13.746568,51.046581",
     "geom:latitude":51.046581,
     "geom:longitude":13.746568,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lingnerallee 3",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898963,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85898963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152973265,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1466231166,
     "wof:name":"Verkehrswacht Dresden E.v.",
     "wof:parent_id":85898963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.746568,51.046581,13.746568,51.046581],
+  "bbox": [
+    13.746568,
+    51.046581,
+    13.746568,
+    51.046581
+],
   "geometry": {"coordinates":[13.746568,51.046581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202388455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.388804,51.385647,7.388804,51.385647",
     "geom:latitude":51.385647,
     "geom:longitude":7.388804,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 85",
     "sg:city":"Wetter",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202388455,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466213560,
     "wof:name":"Vorberg",
     "wof:parent_id":85794961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.388804,51.385647,7.388804,51.385647],
+  "bbox": [
+    7.388804,
+    51.385647,
+    7.388804,
+    51.385647
+],
   "geometry": {"coordinates":[7.388804,51.385647],"type":"Point"}
 }

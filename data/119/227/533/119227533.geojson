@@ -2,13 +2,14 @@
   "id": 119227533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.907316,48.345085,10.907316,48.345085",
     "geom:latitude":48.345085,
     "geom:longitude":10.907316,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stauffenbergstr. 8",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900105,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85900105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119227533,
-    "wof:lastmodified":1449041379,
+    "wof:lastmodified":1466231354,
     "wof:name":"Priesterseminar Der Di\u00f6zese Augsburg",
     "wof:parent_id":85900105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.907316,48.345085,10.907316,48.345085],
+  "bbox": [
+    10.907316,
+    48.345085,
+    10.907316,
+    48.345085
+],
   "geometry": {"coordinates":[10.907316,48.345085],"type":"Point"}
 }

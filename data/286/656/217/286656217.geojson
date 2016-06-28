@@ -2,13 +2,14 @@
   "id": 286656217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.339501,49.345356,7.339501,49.345356",
     "geom:latitude":49.345356,
     "geom:longitude":7.339501,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogelbacher Weg 11",
     "sg:city":"Homburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286656217,
-    "wof:lastmodified":1449017107,
+    "wof:lastmodified":1466234157,
     "wof:name":"Willi Knerr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.339501,49.345356,7.339501,49.345356],
+  "bbox": [
+    7.339501,
+    49.345356,
+    7.339501,
+    49.345356
+],
   "geometry": {"coordinates":[7.339501,49.345356],"type":"Point"}
 }

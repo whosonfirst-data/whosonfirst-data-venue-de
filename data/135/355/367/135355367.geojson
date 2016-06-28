@@ -2,13 +2,14 @@
   "id": 135355367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.777465,47.736298,10.777465,47.736298",
     "geom:latitude":47.736298,
     "geom:longitude":10.777465,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 12",
     "sg:city":"Bernbeuren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135355367,
-    "wof:lastmodified":1449021851,
+    "wof:lastmodified":1466218560,
     "wof:name":"Karl Heiligensetzer",
     "wof:parent_id":101787575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.777465,47.736298,10.777465,47.736298],
+  "bbox": [
+    10.777465,
+    47.736298,
+    10.777465,
+    47.736298
+],
   "geometry": {"coordinates":[10.777465,47.736298],"type":"Point"}
 }

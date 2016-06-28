@@ -2,13 +2,14 @@
   "id": 136143905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.906443,51.422066,6.906443,51.422066",
     "geom:latitude":51.422066,
     "geom:longitude":6.906443,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tilsiter Str. 31d",
     "sg:city":"M\u00fclheim an der Ruhr",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795549,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85795549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136143905,
-    "wof:lastmodified":1449076021,
+    "wof:lastmodified":1466218568,
     "wof:name":"Wam Die Agentur F\u00fcr Ihren Web-auftritt",
     "wof:parent_id":85795549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.906443,51.422066,6.906443,51.422066],
+  "bbox": [
+    6.906443,
+    51.422066,
+    6.906443,
+    51.422066
+],
   "geometry": {"coordinates":[6.906443,51.422066],"type":"Point"}
 }

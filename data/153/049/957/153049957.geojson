@@ -2,13 +2,14 @@
   "id": 153049957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638481,49.814259,8.638481,49.814259",
     "geom:latitude":49.814259,
     "geom:longitude":8.638481,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinerweg 9",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153049957,
-    "wof:lastmodified":1449040580,
+    "wof:lastmodified":1466213606,
     "wof:name":"A. Gerlich",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638481,49.814259,8.638481,49.814259],
+  "bbox": [
+    8.638481,
+    49.814259,
+    8.638481,
+    49.814259
+],
   "geometry": {"coordinates":[8.638481,49.814259],"type":"Point"}
 }

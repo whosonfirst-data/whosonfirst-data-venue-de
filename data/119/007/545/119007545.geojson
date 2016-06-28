@@ -2,13 +2,14 @@
   "id": 119007545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.222524,51.433754,7.222524,51.433754",
     "geom:latitude":51.433754,
     "geom:longitude":7.222524,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fclsbergstr. 35",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796423,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119007545,
-    "wof:lastmodified":1449043055,
+    "wof:lastmodified":1466217305,
     "wof:name":"F.-o. Uhe Architekt",
     "wof:parent_id":85796423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.222524,51.433754,7.222524,51.433754],
+  "bbox": [
+    7.222524,
+    51.433754,
+    7.222524,
+    51.433754
+],
   "geometry": {"coordinates":[7.222524,51.433754],"type":"Point"}
 }

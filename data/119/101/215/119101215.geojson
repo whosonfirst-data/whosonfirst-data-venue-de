@@ -2,13 +2,14 @@
   "id": 119101215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.897543,53.562405,9.897543,53.562405",
     "geom:latitude":53.562405,
     "geom:longitude":9.897543,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Baurstr. 68",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899221,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119101215,
-    "wof:lastmodified":1449042250,
+    "wof:lastmodified":1466220161,
     "wof:name":"Norbert Kasten Architekt",
     "wof:parent_id":85899221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.897543,53.562405,9.897543,53.562405],
+  "bbox": [
+    9.897543,
+    53.562405,
+    9.897543,
+    53.562405
+],
   "geometry": {"coordinates":[9.897543,53.562405],"type":"Point"}
 }

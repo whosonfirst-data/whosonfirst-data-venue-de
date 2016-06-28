@@ -2,13 +2,14 @@
   "id": 135613011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.807898,51.006504,13.807898,51.006504",
     "geom:latitude":51.006504,
     "geom:longitude":13.807898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niedersedlitzer Str. 61",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899925,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135613011,
-    "wof:lastmodified":1449022423,
+    "wof:lastmodified":1466240077,
     "wof:name":"Kvs Kranvermietung- Schwertransporte",
     "wof:parent_id":85899925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.807898,51.006504,13.807898,51.006504],
+  "bbox": [
+    13.807898,
+    51.006504,
+    13.807898,
+    51.006504
+],
   "geometry": {"coordinates":[13.807898,51.006504],"type":"Point"}
 }

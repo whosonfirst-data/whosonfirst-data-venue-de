@@ -2,13 +2,14 @@
   "id": 135306509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.723317,50.861275,11.723317,50.861275",
     "geom:latitude":50.861275,
     "geom:longitude":11.723317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterstr. 51",
     "sg:city":"Stadtroda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135306509,
-    "wof:lastmodified":1449023862,
+    "wof:lastmodified":1466214330,
     "wof:name":"Paul Vogel",
     "wof:parent_id":101823203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.723317,50.861275,11.723317,50.861275],
+  "bbox": [
+    11.723317,
+    50.861275,
+    11.723317,
+    50.861275
+],
   "geometry": {"coordinates":[11.723317,50.861275],"type":"Point"}
 }

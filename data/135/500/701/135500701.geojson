@@ -2,13 +2,14 @@
   "id": 135500701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.356065,48.117619,11.356065,48.117619",
     "geom:latitude":48.117619,
     "geom:longitude":11.356065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westendstr. 16a",
     "sg:city":"Germering",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135500701,
-    "wof:lastmodified":1449021746,
+    "wof:lastmodified":1466231639,
     "wof:name":"Alg\u00f6 Bauelemente Gmbh",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.356065,48.117619,11.356065,48.117619],
+  "bbox": [
+    11.356065,
+    48.117619,
+    11.356065,
+    48.117619
+],
   "geometry": {"coordinates":[11.356065,48.117619],"type":"Point"}
 }

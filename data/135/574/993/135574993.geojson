@@ -2,13 +2,14 @@
   "id": 135574993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.002473,51.489471,7.002473,51.489471",
     "geom:latitude":51.489471,
     "geom:longitude":7.002473,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schonnefeldstr. 79",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796063,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85796063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135574993,
-    "wof:lastmodified":1449020962,
+    "wof:lastmodified":1466237561,
     "wof:name":"Primorac Gmbh",
     "wof:parent_id":85796063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.002473,51.489471,7.002473,51.489471],
+  "bbox": [
+    7.002473,
+    51.489471,
+    7.002473,
+    51.489471
+],
   "geometry": {"coordinates":[7.002473,51.489471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119509483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.806032,50.986553,13.806032,50.986553",
     "geom:latitude":50.986553,
     "geom:longitude":13.806032,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6hrsdorfer Str. 4",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899925,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119509483,
-    "wof:lastmodified":1449040995,
+    "wof:lastmodified":1466243729,
     "wof:name":"Christian Gehre",
     "wof:parent_id":85899925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.806032,50.986553,13.806032,50.986553],
+  "bbox": [
+    13.806032,
+    50.986553,
+    13.806032,
+    50.986553
+],
   "geometry": {"coordinates":[13.806032,50.986553],"type":"Point"}
 }

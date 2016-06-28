@@ -2,13 +2,14 @@
   "id": 135288591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.959185,49.244213,6.959185,49.244213",
     "geom:latitude":49.244213,
     "geom:longitude":6.959185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rappoltsweilerstr. 22",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795927,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85795927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135288591,
-    "wof:lastmodified":1449021312,
+    "wof:lastmodified":1466234752,
     "wof:name":"Karl Hermann Kr\u00f6ger",
     "wof:parent_id":85795927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.959185,49.244213,6.959185,49.244213],
+  "bbox": [
+    6.959185,
+    49.244213,
+    6.959185,
+    49.244213
+],
   "geometry": {"coordinates":[6.959185,49.244213],"type":"Point"}
 }

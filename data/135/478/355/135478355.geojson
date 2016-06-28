@@ -2,13 +2,14 @@
   "id": 135478355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.938229,50.937084,6.938229,50.937084",
     "geom:latitude":50.937084,
     "geom:longitude":6.938229,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flandrische Str. 7",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135478355,
-    "wof:lastmodified":1449021077,
+    "wof:lastmodified":1466229641,
     "wof:name":"K\u00f6nigswasser",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.938229,50.937084,6.938229,50.937084],
+  "bbox": [
+    6.938229,
+    50.937084,
+    6.938229,
+    50.937084
+],
   "geometry": {"coordinates":[6.938229,50.937084],"type":"Point"}
 }

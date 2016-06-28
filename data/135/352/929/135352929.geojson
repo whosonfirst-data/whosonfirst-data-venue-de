@@ -2,13 +2,14 @@
   "id": 135352929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.290979,48.117496,11.290979,48.117496",
     "geom:latitude":48.117496,
     "geom:longitude":11.290979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brucker Str. 45",
     "sg:city":"Gilching",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135352929,
-    "wof:lastmodified":1449022883,
+    "wof:lastmodified":1466218319,
     "wof:name":"Wilhelm Boneberger",
     "wof:parent_id":101786455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.290979,48.117496,11.290979,48.117496],
+  "bbox": [
+    11.290979,
+    48.117496,
+    11.290979,
+    48.117496
+],
   "geometry": {"coordinates":[11.290979,48.117496],"type":"Point"}
 }

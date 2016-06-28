@@ -2,13 +2,14 @@
   "id": 252720251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.561386,51.877586,10.561386,51.877586",
     "geom:latitude":51.877586,
     "geom:longitude":10.561386,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An Der Alster 81",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252720251,
-    "wof:lastmodified":1449005680,
+    "wof:lastmodified":1466219325,
     "wof:name":"Biofactor Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.561386,51.877586,10.561386,51.877586],
+  "bbox": [
+    10.561386,
+    51.877586,
+    10.561386,
+    51.877586
+],
   "geometry": {"coordinates":[10.561386,51.877586],"type":"Point"}
 }

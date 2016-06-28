@@ -2,13 +2,14 @@
   "id": 135708303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534921,52.020695,8.534921,52.020695",
     "geom:latitude":52.020695,
     "geom:longitude":8.534921,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niederwall 23",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135708303,
-    "wof:lastmodified":1449021455,
+    "wof:lastmodified":1466242584,
     "wof:name":"Krematorium Bielefeld Besitz- Gmbh",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534921,52.020695,8.534921,52.020695],
+  "bbox": [
+    8.534921,
+    52.020695,
+    8.534921,
+    52.020695
+],
   "geometry": {"coordinates":[8.534921,52.020695],"type":"Point"}
 }

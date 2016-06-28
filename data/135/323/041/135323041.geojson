@@ -2,13 +2,14 @@
   "id": 135323041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.640172,49.480427,9.640172,49.480427",
     "geom:latitude":49.480427,
     "geom:longitude":9.640172,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurpfalzstr. 19",
     "sg:city":"Boxberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135323041,
-    "wof:lastmodified":1449021265,
+    "wof:lastmodified":1466215766,
     "wof:name":"W. Und K. Schmid",
     "wof:parent_id":101815757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.640172,49.480427,9.640172,49.480427],
+  "bbox": [
+    9.640172,
+    49.480427,
+    9.640172,
+    49.480427
+],
   "geometry": {"coordinates":[9.640172,49.480427],"type":"Point"}
 }

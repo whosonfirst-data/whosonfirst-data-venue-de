@@ -2,13 +2,14 @@
   "id": 203253673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.645031,50.140038,8.645031,50.140038",
     "geom:latitude":50.140038,
     "geom:longitude":8.645031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Guaitastr. 37",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203253673,
-    "wof:lastmodified":1449026628,
+    "wof:lastmodified":1466218101,
     "wof:name":"Erich Prokopp",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.645031,50.140038,8.645031,50.140038],
+  "bbox": [
+    8.645031,
+    50.140038,
+    8.645031,
+    50.140038
+],
   "geometry": {"coordinates":[8.645031,50.140038],"type":"Point"}
 }

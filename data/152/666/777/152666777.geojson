@@ -2,13 +2,14 @@
   "id": 152666777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.399424,51.254593,6.399424,51.254593",
     "geom:latitude":51.254593,
     "geom:longitude":6.399424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viktoriastr. 9",
     "sg:city":"Viersen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796257,
+        85682513,
         85633111,
         101748689,
         102063773,
-        85682513
+        85796257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152666777,
-    "wof:lastmodified":1449046001,
+    "wof:lastmodified":1466223924,
     "wof:name":"Laufs Verwaltungs Gmbh",
     "wof:parent_id":85796257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.399424,51.254593,6.399424,51.254593],
+  "bbox": [
+    6.399424,
+    51.254593,
+    6.399424,
+    51.254593
+],
   "geometry": {"coordinates":[6.399424,51.254593],"type":"Point"}
 }

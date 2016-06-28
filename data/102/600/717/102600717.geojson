@@ -2,13 +2,14 @@
   "id": 102600717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.498625,50.801872,6.498625,50.801872",
     "geom:latitude":50.801872,
     "geom:longitude":6.498625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Binsfelder Str. 119",
     "sg:city":"D\u00fcren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102600717,
-    "wof:lastmodified":1449068014,
+    "wof:lastmodified":1466213259,
     "wof:name":"Drs-computing In D\u00fcren",
     "wof:parent_id":101748629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.498625,50.801872,6.498625,50.801872],
+  "bbox": [
+    6.498625,
+    50.801872,
+    6.498625,
+    50.801872
+],
   "geometry": {"coordinates":[6.498625,50.801872],"type":"Point"}
 }

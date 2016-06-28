@@ -2,13 +2,14 @@
   "id": 119446913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.98996,49.478012,10.98996,49.478012",
     "geom:latitude":49.478012,
     "geom:longitude":10.98996,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzstr. 5",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119446913,
-    "wof:lastmodified":1449043300,
+    "wof:lastmodified":1466242623,
     "wof:name":"Glas- U. Geb\u00e4udereinigungs- Institut M. Achleitner Gmbh",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.98996,49.478012,10.98996,49.478012],
+  "bbox": [
+    10.98996,
+    49.478012,
+    10.98996,
+    49.478012
+],
   "geometry": {"coordinates":[10.98996,49.478012],"type":"Point"}
 }

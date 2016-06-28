@@ -2,13 +2,14 @@
   "id": 135752117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.740771,49.505688,11.740771,49.505688",
     "geom:latitude":49.505688,
     "geom:longitude":11.740771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neustadt 10",
     "sg:city":"Sulzbach-Rosenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135752117,
-    "wof:lastmodified":1449021477,
+    "wof:lastmodified":1466243591,
     "wof:name":"Rudolf Wyrobisch",
     "wof:parent_id":101826911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.740771,49.505688,11.740771,49.505688],
+  "bbox": [
+    11.740771,
+    49.505688,
+    11.740771,
+    49.505688
+],
   "geometry": {"coordinates":[11.740771,49.505688],"type":"Point"}
 }

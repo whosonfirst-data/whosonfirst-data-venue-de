@@ -2,13 +2,14 @@
   "id": 119034743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.685995,53.873306,10.685995,53.873306",
     "geom:latitude":53.873306,
     "geom:longitude":10.685995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Untertrave 25",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900237,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119034743,
-    "wof:lastmodified":1449041140,
+    "wof:lastmodified":1466213977,
     "wof:name":"Hans Vossgrag Architekt",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.685995,53.873306,10.685995,53.873306],
+  "bbox": [
+    10.685995,
+    53.873306,
+    10.685995,
+    53.873306
+],
   "geometry": {"coordinates":[10.685995,53.873306],"type":"Point"}
 }

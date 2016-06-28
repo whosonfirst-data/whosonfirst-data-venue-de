@@ -2,13 +2,14 @@
   "id": 320599263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.32857,48.050571,9.32857,48.050571",
     "geom:latitude":48.050571,
     "geom:longitude":9.32857,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichhausgasse 8",
     "sg:city":"Mengen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320599263,
-    "wof:lastmodified":1449012992,
+    "wof:lastmodified":1466241841,
     "wof:name":"Stadtwerke Mengen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.32857,48.050571,9.32857,48.050571],
+  "bbox": [
+    9.32857,
+    48.050571,
+    9.32857,
+    48.050571
+],
   "geometry": {"coordinates":[9.32857,48.050571],"type":"Point"}
 }

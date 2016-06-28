@@ -2,13 +2,14 @@
   "id": 235971119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.629817,52.120892,11.629817,52.120892",
     "geom:latitude":52.120892,
     "geom:longitude":11.629817,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leibnizstr. 18",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235971119,
-    "wof:lastmodified":1449008429,
+    "wof:lastmodified":1466218244,
     "wof:name":"Pinguin Cafe",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.629817,52.120892,11.629817,52.120892],
+  "bbox": [
+    11.629817,
+    52.120892,
+    11.629817,
+    52.120892
+],
   "geometry": {"coordinates":[11.629817,52.120892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152348759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.636562,52.155521,11.636562,52.155521",
     "geom:latitude":52.155521,
     "geom:longitude":11.636562,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcbecker Str. 21 a",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899391,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152348759,
-    "wof:lastmodified":1449044498,
+    "wof:lastmodified":1466217187,
     "wof:name":"Rechtsanwaltskammer Des Landes Sachsen-anhalt",
     "wof:parent_id":85899391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.636562,52.155521,11.636562,52.155521],
+  "bbox": [
+    11.636562,
+    52.155521,
+    11.636562,
+    52.155521
+],
   "geometry": {"coordinates":[11.636562,52.155521],"type":"Point"}
 }

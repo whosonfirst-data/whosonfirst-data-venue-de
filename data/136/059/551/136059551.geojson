@@ -2,13 +2,14 @@
   "id": 136059551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.423978,51.321636,12.423978,51.321636",
     "geom:latitude":51.321636,
     "geom:longitude":12.423978,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstr. 15",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136059551,
-    "wof:lastmodified":1449075256,
+    "wof:lastmodified":1466214880,
     "wof:name":"Fairwaltungstiger - Vereinsbuchhaltung A La Carte",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.423978,51.321636,12.423978,51.321636],
+  "bbox": [
+    12.423978,
+    51.321636,
+    12.423978,
+    51.321636
+],
   "geometry": {"coordinates":[12.423978,51.321636],"type":"Point"}
 }

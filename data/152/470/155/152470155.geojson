@@ -2,13 +2,14 @@
   "id": 152470155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.298128,52.509064,13.298128,52.509064",
     "geom:latitude":52.509064,
     "geom:longitude":13.298128,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windscheidstr. 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152470155,
-    "wof:lastmodified":1449045416,
+    "wof:lastmodified":1466219586,
     "wof:name":"Comvik International Iran Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.298128,52.509064,13.298128,52.509064],
+  "bbox": [
+    13.298128,
+    52.509064,
+    13.298128,
+    52.509064
+],
   "geometry": {"coordinates":[13.298128,52.509064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152691447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.677898,50.118622,8.677898,50.118622",
     "geom:latitude":50.118622,
     "geom:longitude":8.677898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fellnerstr. 12",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152691447,
-    "wof:lastmodified":1449044683,
+    "wof:lastmodified":1466224413,
     "wof:name":"Verwaltungs Arogran Handels- Und Beteiligungs Gmbh",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.677898,50.118622,8.677898,50.118622],
+  "bbox": [
+    8.677898,
+    50.118622,
+    8.677898,
+    50.118622
+],
   "geometry": {"coordinates":[8.677898,50.118622],"type":"Point"}
 }

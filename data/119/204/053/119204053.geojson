@@ -2,13 +2,14 @@
   "id": 119204053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.23096,53.800598,10.23096,53.800598",
     "geom:latitude":53.800598,
     "geom:longitude":10.23096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Markt 12",
     "sg:city":"S\u00fclfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119204053,
-    "wof:lastmodified":1449043588,
+    "wof:lastmodified":1466229133,
     "wof:name":"Gemeindeb\u00fccherei",
     "wof:parent_id":101806751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.23096,53.800598,10.23096,53.800598],
+  "bbox": [
+    10.23096,
+    53.800598,
+    10.23096,
+    53.800598
+],
   "geometry": {"coordinates":[10.23096,53.800598],"type":"Point"}
 }

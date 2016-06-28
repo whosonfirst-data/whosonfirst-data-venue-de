@@ -2,13 +2,14 @@
   "id": 270215301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.508812,48.916805,8.508812,48.916805",
     "geom:latitude":48.916805,
     "geom:longitude":8.508812,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pforzheimer Str. 27",
     "sg:city":"Karlsbad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270215301,
-    "wof:lastmodified":1449010637,
+    "wof:lastmodified":1466226385,
     "wof:name":"Hartmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.508812,48.916805,8.508812,48.916805],
+  "bbox": [
+    8.508812,
+    48.916805,
+    8.508812,
+    48.916805
+],
   "geometry": {"coordinates":[8.508812,48.916805],"type":"Point"}
 }

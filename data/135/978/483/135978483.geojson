@@ -2,13 +2,14 @@
   "id": 135978483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.590343,51.330002,6.590343,51.330002",
     "geom:latitude":51.330002,
     "geom:longitude":6.590343,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Verschubbahnhof 53",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795791,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135978483,
-    "wof:lastmodified":1449022756,
+    "wof:lastmodified":1466244776,
     "wof:name":"Hauser Sicherheitstechnik Gmbh",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.590343,51.330002,6.590343,51.330002],
+  "bbox": [
+    6.590343,
+    51.330002,
+    6.590343,
+    51.330002
+],
   "geometry": {"coordinates":[6.590343,51.330002],"type":"Point"}
 }

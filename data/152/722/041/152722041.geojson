@@ -2,13 +2,14 @@
   "id": 152722041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.477113,51.53809,7.477113,51.53809",
     "geom:latitude":51.53809,
     "geom:longitude":7.477113,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hildastr. 4",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795207,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152722041,
-    "wof:lastmodified":1449045930,
+    "wof:lastmodified":1466225186,
     "wof:name":"Josef Fuchs Gmbh & Co. Kg",
     "wof:parent_id":85795207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.477113,51.53809,7.477113,51.53809],
+  "bbox": [
+    7.477113,
+    51.53809,
+    7.477113,
+    51.53809
+],
   "geometry": {"coordinates":[7.477113,51.53809],"type":"Point"}
 }

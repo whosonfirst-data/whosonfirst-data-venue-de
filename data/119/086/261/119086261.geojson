@@ -2,13 +2,14 @@
   "id": 119086261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40125,49.41761,8.40125,49.41761",
     "geom:latitude":49.41761,
     "geom:longitude":8.40125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwetzinger Str. 45",
     "sg:city":"Limburgerhof",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796279,
+        85682491,
         85633111,
         101815675,
         102063479,
-        85682491
+        85796279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119086261,
-    "wof:lastmodified":1449042670,
+    "wof:lastmodified":1466218783,
     "wof:name":"Kurt Schumacher Architekt",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40125,49.41761,8.40125,49.41761],
+  "bbox": [
+    8.40125,
+    49.41761,
+    8.40125,
+    49.41761
+],
   "geometry": {"coordinates":[8.40125,49.41761],"type":"Point"}
 }

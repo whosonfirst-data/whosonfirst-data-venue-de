@@ -2,13 +2,14 @@
   "id": 303805625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.169897,49.406513,11.169897,49.406513",
     "geom:latitude":49.406513,
     "geom:longitude":11.169897,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Habsburgerstr. 28",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303805625,
-    "wof:lastmodified":1448998934,
+    "wof:lastmodified":1466240446,
     "wof:name":"Ingrid Wittmann Krankengymnastin",
     "wof:parent_id":85898955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.169897,49.406513,11.169897,49.406513],
+  "bbox": [
+    11.169897,
+    49.406513,
+    11.169897,
+    49.406513
+],
   "geometry": {"coordinates":[11.169897,49.406513],"type":"Point"}
 }

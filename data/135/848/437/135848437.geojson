@@ -2,13 +2,14 @@
   "id": 135848437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.40907,51.35284,12.40907,51.35284",
     "geom:latitude":51.35284,
     "geom:longitude":12.40907,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dimpfelstr. 10",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135848437,
-    "wof:lastmodified":1449021406,
+    "wof:lastmodified":1466244282,
     "wof:name":"Bestattungsinstitut U. Und G. Uhlig Gmbh",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.40907,51.35284,12.40907,51.35284],
+  "bbox": [
+    12.40907,
+    51.35284,
+    12.40907,
+    51.35284
+],
   "geometry": {"coordinates":[12.40907,51.35284],"type":"Point"}
 }

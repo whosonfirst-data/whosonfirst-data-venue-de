@@ -2,13 +2,14 @@
   "id": 119262651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.330553,50.980312,10.330553,50.980312",
     "geom:latitude":50.980312,
     "geom:longitude":10.330553,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lucas-Cranach-Str. 8",
     "sg:city":"Eisenach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119262651,
-    "wof:lastmodified":1449042511,
+    "wof:lastmodified":1466234879,
     "wof:name":"Dr. Med. Hermann Thau",
     "wof:parent_id":101827177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.330553,50.980312,10.330553,50.980312],
+  "bbox": [
+    10.330553,
+    50.980312,
+    10.330553,
+    50.980312
+],
   "geometry": {"coordinates":[10.330553,50.980312],"type":"Point"}
 }

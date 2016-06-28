@@ -2,13 +2,14 @@
   "id": 135873607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.322937,51.375156,12.322937,51.375156",
     "geom:latitude":51.375156,
     "geom:longitude":12.322937,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Linkelstr. 2",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900091,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135873607,
-    "wof:lastmodified":1449021607,
+    "wof:lastmodified":1466244402,
     "wof:name":"Trauerhilfe Piet\u00e4t Gmbh",
     "wof:parent_id":85900091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.322937,51.375156,12.322937,51.375156],
+  "bbox": [
+    12.322937,
+    51.375156,
+    12.322937,
+    51.375156
+],
   "geometry": {"coordinates":[12.322937,51.375156],"type":"Point"}
 }

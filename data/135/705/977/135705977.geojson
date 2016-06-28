@@ -2,13 +2,14 @@
   "id": 135705977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.446129,48.181454,11.446129,48.181454",
     "geom:latitude":48.181454,
     "geom:longitude":11.446129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jennerstr. 15",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898939,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85898939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135705977,
-    "wof:lastmodified":1449024003,
+    "wof:lastmodified":1466242553,
     "wof:name":"Corik Bautr\u00e4ger Gesellschaft Mbh",
     "wof:parent_id":85898939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.446129,48.181454,11.446129,48.181454],
+  "bbox": [
+    11.446129,
+    48.181454,
+    11.446129,
+    48.181454
+],
   "geometry": {"coordinates":[11.446129,48.181454],"type":"Point"}
 }

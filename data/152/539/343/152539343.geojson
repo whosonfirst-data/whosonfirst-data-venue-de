@@ -2,13 +2,14 @@
   "id": 152539343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.265582,50.067867,8.265582,50.067867",
     "geom:latitude":50.067867,
     "geom:longitude":8.265582,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Abraham-Lincoln-Str. 32",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795955
+        85633111,
+        85795955,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152539343,
-    "wof:lastmodified":1449048988,
+    "wof:lastmodified":1466221103,
     "wof:name":"Buck Consultants Gmbh",
     "wof:parent_id":85795955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.265582,50.067867,8.265582,50.067867],
+  "bbox": [
+    8.265582,
+    50.067867,
+    8.265582,
+    50.067867
+],
   "geometry": {"coordinates":[8.265582,50.067867],"type":"Point"}
 }

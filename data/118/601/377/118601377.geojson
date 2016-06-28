@@ -2,13 +2,14 @@
   "id": 118601377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.502404,52.526447,13.502404,52.526447",
     "geom:latitude":52.526447,
     "geom:longitude":13.502404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzbergstr 87-99",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900219,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118601377,
-    "wof:lastmodified":1449053766,
+    "wof:lastmodified":1466218271,
     "wof:name":"Berlinerluft Technik Gmbh",
     "wof:parent_id":85900219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.502404,52.526447,13.502404,52.526447],
+  "bbox": [
+    13.502404,
+    52.526447,
+    13.502404,
+    52.526447
+],
   "geometry": {"coordinates":[13.502404,52.526447],"type":"Point"}
 }

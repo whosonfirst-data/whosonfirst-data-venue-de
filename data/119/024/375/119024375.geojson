@@ -2,13 +2,14 @@
   "id": 119024375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.002319,53.596115,10.002319,53.596115",
     "geom:latitude":53.596115,
     "geom:longitude":10.002319,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ohlsdorfer Str. 26",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119024375,
-    "wof:lastmodified":1449042112,
+    "wof:lastmodified":1466234927,
     "wof:name":"G\u00f6rig Und Schulz Architekten",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.002319,53.596115,10.002319,53.596115],
+  "bbox": [
+    10.002319,
+    53.596115,
+    10.002319,
+    53.596115
+],
   "geometry": {"coordinates":[10.002319,53.596115],"type":"Point"}
 }

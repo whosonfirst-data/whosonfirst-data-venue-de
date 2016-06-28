@@ -2,13 +2,14 @@
   "id": 135578039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.763675,51.026814,13.763675,51.026814",
     "geom:latitude":51.026814,
     "geom:longitude":13.763675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dohnaer Str. 1",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899525,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135578039,
-    "wof:lastmodified":1449021749,
+    "wof:lastmodified":1466237764,
     "wof:name":"Baugesch\u00e4ft Gei\u00dfler Gmbh",
     "wof:parent_id":85899525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.763675,51.026814,13.763675,51.026814],
+  "bbox": [
+    13.763675,
+    51.026814,
+    13.763675,
+    51.026814
+],
   "geometry": {"coordinates":[13.763675,51.026814],"type":"Point"}
 }

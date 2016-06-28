@@ -2,13 +2,14 @@
   "id": 219826525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.905536,50.328659,11.905536,50.328659",
     "geom:latitude":50.328659,
     "geom:longitude":11.905536,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfweg 4",
     "sg:city":"Hof",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219826525,
-    "wof:lastmodified":1449072964,
+    "wof:lastmodified":1466226846,
     "wof:name":"B\u00fcro Mayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.905536,50.328659,11.905536,50.328659],
+  "bbox": [
+    11.905536,
+    50.328659,
+    11.905536,
+    50.328659
+],
   "geometry": {"coordinates":[11.905536,50.328659],"type":"Point"}
 }

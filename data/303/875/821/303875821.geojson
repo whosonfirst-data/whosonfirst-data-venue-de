@@ -2,13 +2,14 @@
   "id": 303875821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.815645,48.004688,7.815645,48.004688",
     "geom:latitude":48.004688,
     "geom:longitude":7.815645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lichtenbergstr. 86",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303875821,
-    "wof:lastmodified":1448999936,
+    "wof:lastmodified":1466240982,
     "wof:name":"Eugen Becker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.815645,48.004688,7.815645,48.004688],
+  "bbox": [
+    7.815645,
+    48.004688,
+    7.815645,
+    48.004688
+],
   "geometry": {"coordinates":[7.815645,48.004688],"type":"Point"}
 }

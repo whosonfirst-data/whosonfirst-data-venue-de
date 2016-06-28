@@ -2,13 +2,14 @@
   "id": 135448413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.56582,48.145645,11.56582,48.145645",
     "geom:latitude":48.145645,
     "geom:longitude":11.56582,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 201916:: 80019 Munich:: Germany.^^Brienner Str 59::",
     "sg:city":"Munich",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135448413,
-    "wof:lastmodified":1449023854,
+    "wof:lastmodified":1466227041,
     "wof:name":"State Street Bank Gmbh",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.56582,48.145645,11.56582,48.145645],
+  "bbox": [
+    11.56582,
+    48.145645,
+    11.56582,
+    48.145645
+],
   "geometry": {"coordinates":[11.56582,48.145645],"type":"Point"}
 }

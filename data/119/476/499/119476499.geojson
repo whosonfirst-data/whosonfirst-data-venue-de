@@ -2,13 +2,14 @@
   "id": 119476499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.195181,50.247662,10.195181,50.247662",
     "geom:latitude":50.247662,
     "geom:longitude":10.195181,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landgerichtsgasse 1",
     "sg:city":"M\u00fcnnerstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119476499,
-    "wof:lastmodified":1449041850,
+    "wof:lastmodified":1466243219,
     "wof:name":"Otto Pfennig",
     "wof:parent_id":101812087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.195181,50.247662,10.195181,50.247662],
+  "bbox": [
+    10.195181,
+    50.247662,
+    10.195181,
+    50.247662
+],
   "geometry": {"coordinates":[10.195181,50.247662],"type":"Point"}
 }

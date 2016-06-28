@@ -2,13 +2,14 @@
   "id": 119277341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.550154,51.538033,7.550154,51.538033",
     "geom:latitude":51.538033,
     "geom:longitude":7.550154,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"He\u00dflingsweg 65",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794771,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85794771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119277341,
-    "wof:lastmodified":1449041147,
+    "wof:lastmodified":1466236191,
     "wof:name":"Do Therm Isolierwerkstoffe Gmbh & Co. Kg",
     "wof:parent_id":85794771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.550154,51.538033,7.550154,51.538033],
+  "bbox": [
+    7.550154,
+    51.538033,
+    7.550154,
+    51.538033
+],
   "geometry": {"coordinates":[7.550154,51.538033],"type":"Point"}
 }

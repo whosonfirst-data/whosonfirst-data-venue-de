@@ -2,13 +2,14 @@
   "id": 219218033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.263109,49.963543,8.263109,49.963543",
     "geom:latitude":49.963543,
     "geom:longitude":8.263109,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannes-Kepler-Str. 17",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219218033,
-    "wof:lastmodified":1449072620,
+    "wof:lastmodified":1466215455,
     "wof:name":"Hill Hochbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.263109,49.963543,8.263109,49.963543],
+  "bbox": [
+    8.263109,
+    49.963543,
+    8.263109,
+    49.963543
+],
   "geometry": {"coordinates":[8.263109,49.963543],"type":"Point"}
 }

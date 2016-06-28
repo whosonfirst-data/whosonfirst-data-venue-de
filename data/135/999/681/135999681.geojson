@@ -2,13 +2,14 @@
   "id": 135999681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.921598,51.177017,6.921598,51.177017",
     "geom:latitude":51.177017,
     "geom:longitude":6.921598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herderstr. 29",
     "sg:city":"Hilden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85796647
+        85633111,
+        85796647,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135999681,
-    "wof:lastmodified":1449023635,
+    "wof:lastmodified":1466244955,
     "wof:name":"Wilhelm Butz Verwaltungsges. Mbh",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.921598,51.177017,6.921598,51.177017],
+  "bbox": [
+    6.921598,
+    51.177017,
+    6.921598,
+    51.177017
+],
   "geometry": {"coordinates":[6.921598,51.177017],"type":"Point"}
 }

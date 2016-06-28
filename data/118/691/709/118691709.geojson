@@ -2,13 +2,14 @@
   "id": 118691709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.980416,51.427155,11.980416,51.427155",
     "geom:latitude":51.427155,
     "geom:longitude":11.980416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 19",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898967,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85898967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118691709,
-    "wof:lastmodified":1449053261,
+    "wof:lastmodified":1466223434,
     "wof:name":"Bettina Rosche",
     "wof:parent_id":85898967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.980416,51.427155,11.980416,51.427155],
+  "bbox": [
+    11.980416,
+    51.427155,
+    11.980416,
+    51.427155
+],
   "geometry": {"coordinates":[11.980416,51.427155],"type":"Point"}
 }

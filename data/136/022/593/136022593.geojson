@@ -2,13 +2,14 @@
   "id": 136022593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.699143,48.14407,11.699143,48.14407",
     "geom:latitude":48.14407,
     "geom:longitude":11.699143,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofbr\u00e4uallee 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899949
+        85633111,
+        85899949,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136022593,
-    "wof:lastmodified":1449075350,
+    "wof:lastmodified":1466213173,
     "wof:name":"Staatliches Hofbr\u00e4uhaus M\u00fcnchen",
     "wof:parent_id":85899949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.699143,48.14407,11.699143,48.14407],
+  "bbox": [
+    11.699143,
+    48.14407,
+    11.699143,
+    48.14407
+],
   "geometry": {"coordinates":[11.699143,48.14407],"type":"Point"}
 }

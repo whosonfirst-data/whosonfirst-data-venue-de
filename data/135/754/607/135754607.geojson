@@ -2,13 +2,14 @@
   "id": 135754607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.334927,51.508198,7.334927,51.508198",
     "geom:latitude":51.508198,
     "geom:longitude":7.334927,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dellwiger Str. 242",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863245,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85863245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135754607,
-    "wof:lastmodified":1449022981,
+    "wof:lastmodified":1466243612,
     "wof:name":"Thomas Linneweber",
     "wof:parent_id":85863245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.334927,51.508198,7.334927,51.508198],
+  "bbox": [
+    7.334927,
+    51.508198,
+    7.334927,
+    51.508198
+],
   "geometry": {"coordinates":[7.334927,51.508198],"type":"Point"}
 }

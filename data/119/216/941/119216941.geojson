@@ -2,13 +2,14 @@
   "id": 119216941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.68591,51.20319,6.68591,51.20319",
     "geom:latitude":51.20319,
     "geom:longitude":6.68591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienkirchplatz 30",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119216941,
-    "wof:lastmodified":1449043227,
+    "wof:lastmodified":1466230346,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek St. Marien",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.68591,51.20319,6.68591,51.20319],
+  "bbox": [
+    6.68591,
+    51.20319,
+    6.68591,
+    51.20319
+],
   "geometry": {"coordinates":[6.68591,51.20319],"type":"Point"}
 }

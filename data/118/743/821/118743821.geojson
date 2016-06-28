@@ -2,13 +2,14 @@
   "id": 118743821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.007617,51.459587,12.007617,51.459587",
     "geom:latitude":51.459587,
     "geom:longitude":12.007617,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aprikosenweg 31",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899071,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85899071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118743821,
-    "wof:lastmodified":1449054523,
+    "wof:lastmodified":1466226397,
     "wof:name":"Sonja Klimm",
     "wof:parent_id":85899071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.007617,51.459587,12.007617,51.459587],
+  "bbox": [
+    12.007617,
+    51.459587,
+    12.007617,
+    51.459587
+],
   "geometry": {"coordinates":[12.007617,51.459587],"type":"Point"}
 }

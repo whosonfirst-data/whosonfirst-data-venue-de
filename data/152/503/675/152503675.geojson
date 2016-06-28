@@ -2,13 +2,14 @@
   "id": 152503675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.355141,49.49128,8.355141,49.49128",
     "geom:latitude":49.49128,
     "geom:longitude":8.355141,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flomersheimer Str. 11",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795913,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152503675,
-    "wof:lastmodified":1449048913,
+    "wof:lastmodified":1466220305,
     "wof:name":"Mauer Betriebsges. Mbh",
     "wof:parent_id":85795913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.355141,49.49128,8.355141,49.49128],
+  "bbox": [
+    8.355141,
+    49.49128,
+    8.355141,
+    49.49128
+],
   "geometry": {"coordinates":[8.355141,49.49128],"type":"Point"}
 }

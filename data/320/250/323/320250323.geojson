@@ -2,13 +2,14 @@
   "id": 320250323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.789599,51.219685,6.789599,51.219685",
     "geom:latitude":51.219685,
     "geom:longitude":6.789599,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"graf-adolf-strasse 100",
     "sg:city":"d\u00fcsseldorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320250323,
-    "wof:lastmodified":1449013384,
+    "wof:lastmodified":1466238210,
     "wof:name":"Trend Network Ag",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.789599,51.219685,6.789599,51.219685],
+  "bbox": [
+    6.789599,
+    51.219685,
+    6.789599,
+    51.219685
+],
   "geometry": {"coordinates":[6.789599,51.219685],"type":"Point"}
 }

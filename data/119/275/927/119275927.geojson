@@ -2,13 +2,14 @@
   "id": 119275927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.370252,52.585724,13.370252,52.585724",
     "geom:latitude":52.585724,
     "geom:longitude":13.370252,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Edelwei\u00dfstr. 34",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900241,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119275927,
-    "wof:lastmodified":1449041635,
+    "wof:lastmodified":1466236085,
     "wof:name":"Dr. Klaus Lott",
     "wof:parent_id":85900241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.370252,52.585724,13.370252,52.585724],
+  "bbox": [
+    13.370252,
+    52.585724,
+    13.370252,
+    52.585724
+],
   "geometry": {"coordinates":[13.370252,52.585724],"type":"Point"}
 }

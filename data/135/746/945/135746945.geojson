@@ -2,13 +2,14 @@
   "id": 135746945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.143352,48.998451,9.143352,48.998451",
     "geom:latitude":48.998451,
     "geom:longitude":9.143352,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrgasse 9",
     "sg:city":"Besigheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135746945,
-    "wof:lastmodified":1449020956,
+    "wof:lastmodified":1466243572,
     "wof:name":"Marc Brangs",
     "wof:parent_id":101827561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.143352,48.998451,9.143352,48.998451],
+  "bbox": [
+    9.143352,
+    48.998451,
+    9.143352,
+    48.998451
+],
   "geometry": {"coordinates":[9.143352,48.998451],"type":"Point"}
 }

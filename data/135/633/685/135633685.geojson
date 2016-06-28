@@ -2,13 +2,14 @@
   "id": 135633685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.897557,51.47847,11.897557,51.47847",
     "geom:latitude":51.47847,
     "geom:longitude":11.897557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niedersachsenplatz 5",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063785,
-        85633111,
         85682519,
-        85899831
+        85633111,
+        85899831,
+        102063785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135633685,
-    "wof:lastmodified":1449023963,
+    "wof:lastmodified":1466240507,
     "wof:name":"Gemotec Gmbh & Co. Kg",
     "wof:parent_id":85899831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.897557,51.47847,11.897557,51.47847],
+  "bbox": [
+    11.897557,
+    51.47847,
+    11.897557,
+    51.47847
+],
   "geometry": {"coordinates":[11.897557,51.47847],"type":"Point"}
 }

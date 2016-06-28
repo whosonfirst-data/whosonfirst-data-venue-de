@@ -2,13 +2,14 @@
   "id": 118943131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.853121,48.379974,10.853121,48.379974",
     "geom:latitude":48.379974,
     "geom:longitude":10.853121,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulmer Str. 194",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118943131,
-    "wof:lastmodified":1449053520,
+    "wof:lastmodified":1466237503,
     "wof:name":"Stefan-apotheke",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.853121,48.379974,10.853121,48.379974],
+  "bbox": [
+    10.853121,
+    48.379974,
+    10.853121,
+    48.379974
+],
   "geometry": {"coordinates":[10.853121,48.379974],"type":"Point"}
 }

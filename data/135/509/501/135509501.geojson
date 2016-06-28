@@ -2,13 +2,14 @@
   "id": 135509501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.12697,53.64999,10.12697,53.64999",
     "geom:latitude":53.64999,
     "geom:longitude":10.12697,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kahden 17c",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900001,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135509501,
-    "wof:lastmodified":1449021104,
+    "wof:lastmodified":1466232499,
     "wof:name":"Mse Micro Sensoric Electronic Gmbh",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.12697,53.64999,10.12697,53.64999],
+  "bbox": [
+    10.12697,
+    53.64999,
+    10.12697,
+    53.64999
+],
   "geometry": {"coordinates":[10.12697,53.64999],"type":"Point"}
 }

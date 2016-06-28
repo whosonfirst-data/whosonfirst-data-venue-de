@@ -2,13 +2,14 @@
   "id": 119524555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.120001,51.416893,7.120001,51.416893",
     "geom:latitude":51.416893,
     "geom:longitude":7.120001,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Hauptstr. 16",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794713,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85794713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119524555,
-    "wof:lastmodified":1449040864,
+    "wof:lastmodified":1466243733,
     "wof:name":"G. Gr\u00e4ler",
     "wof:parent_id":85794713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.120001,51.416893,7.120001,51.416893],
+  "bbox": [
+    7.120001,
+    51.416893,
+    7.120001,
+    51.416893
+],
   "geometry": {"coordinates":[7.120001,51.416893],"type":"Point"}
 }

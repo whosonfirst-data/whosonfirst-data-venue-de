@@ -2,13 +2,14 @@
   "id": 153018751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.539814,48.147476,11.539814,48.147476",
     "geom:latitude":48.147476,
     "geom:longitude":11.539814,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkerstra\u00dfe 22",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153018751,
-    "wof:lastmodified":1449040580,
+    "wof:lastmodified":1466234316,
     "wof:name":"Kirche-mit-kindern",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.539814,48.147476,11.539814,48.147476],
+  "bbox": [
+    11.539814,
+    48.147476,
+    11.539814,
+    48.147476
+],
   "geometry": {"coordinates":[11.539814,48.147476],"type":"Point"}
 }

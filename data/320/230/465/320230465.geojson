@@ -2,13 +2,14 @@
   "id": 320230465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.002811,48.336685,11.002811,48.336685",
     "geom:latitude":48.336685,
     "geom:longitude":11.002811,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Thomas-Weg 1",
     "sg:city":"Friedberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320230465,
-    "wof:lastmodified":1449014027,
+    "wof:lastmodified":1466237662,
     "wof:name":"Walter Pritzlaff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.002811,48.336685,11.002811,48.336685],
+  "bbox": [
+    11.002811,
+    48.336685,
+    11.002811,
+    48.336685
+],
   "geometry": {"coordinates":[11.002811,48.336685],"type":"Point"}
 }

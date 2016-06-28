@@ -2,13 +2,14 @@
   "id": 303154625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.933254,50.820293,11.933254,50.820293",
     "geom:latitude":50.820293,
     "geom:longitude":11.933254,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerplatz 3",
     "sg:city":"M\u00fcnchenbernsdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303154625,
-    "wof:lastmodified":1449000600,
+    "wof:lastmodified":1466228313,
     "wof:name":"Carl-heinrich Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.933254,50.820293,11.933254,50.820293],
+  "bbox": [
+    11.933254,
+    50.820293,
+    11.933254,
+    50.820293
+],
   "geometry": {"coordinates":[11.933254,50.820293],"type":"Point"}
 }

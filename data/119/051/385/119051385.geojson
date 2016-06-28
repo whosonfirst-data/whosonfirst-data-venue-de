@@ -2,13 +2,14 @@
   "id": 119051385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.998416,49.469238,10.998416,49.469238",
     "geom:latitude":49.469238,
     "geom:longitude":10.998416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigswarterstr. 66",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899919,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119051385,
-    "wof:lastmodified":1449042507,
+    "wof:lastmodified":1466215519,
     "wof:name":"Henner H\u00e4fner Architekt",
     "wof:parent_id":85899919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.998416,49.469238,10.998416,49.469238],
+  "bbox": [
+    10.998416,
+    49.469238,
+    10.998416,
+    49.469238
+],
   "geometry": {"coordinates":[10.998416,49.469238],"type":"Point"}
 }

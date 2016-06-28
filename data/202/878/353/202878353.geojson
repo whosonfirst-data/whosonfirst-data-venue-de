@@ -2,13 +2,14 @@
   "id": 202878353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.611976,49.29224,11.611976,49.29224",
     "geom:latitude":49.29224,
     "geom:longitude":11.611976,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilzhofener Str. 11",
     "sg:city":"Velburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202878353,
-    "wof:lastmodified":1449061433,
+    "wof:lastmodified":1466222719,
     "wof:name":"A. Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.611976,49.29224,11.611976,49.29224],
+  "bbox": [
+    11.611976,
+    49.29224,
+    11.611976,
+    49.29224
+],
   "geometry": {"coordinates":[11.611976,49.29224],"type":"Point"}
 }

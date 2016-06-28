@@ -2,13 +2,14 @@
   "id": 119244291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.560549,48.134773,11.560549,48.134773",
     "geom:latitude":48.134773,
     "geom:longitude":11.560549,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 44",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119244291,
-    "wof:lastmodified":1449041811,
+    "wof:lastmodified":1466233053,
     "wof:name":"Universit\u00e4t M\u00fcnchen Ber. Physiologie U. Physiolog.",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.560549,48.134773,11.560549,48.134773],
+  "bbox": [
+    11.560549,
+    48.134773,
+    11.560549,
+    48.134773
+],
   "geometry": {"coordinates":[11.560549,48.134773],"type":"Point"}
 }

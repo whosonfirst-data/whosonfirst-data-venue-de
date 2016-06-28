@@ -2,13 +2,14 @@
   "id": 236815001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.797319,50.298382,11.797319,50.298382",
     "geom:latitude":50.298382,
     "geom:longitude":11.797319,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstr. 10",
     "sg:city":"Leupoldsgr\u00fcn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236815001,
-    "wof:lastmodified":1449003209,
+    "wof:lastmodified":1466233870,
     "wof:name":"Georg Baderschneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.797319,50.298382,11.797319,50.298382],
+  "bbox": [
+    11.797319,
+    50.298382,
+    11.797319,
+    50.298382
+],
   "geometry": {"coordinates":[11.797319,50.298382],"type":"Point"}
 }

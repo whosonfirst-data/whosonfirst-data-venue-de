@@ -2,13 +2,14 @@
   "id": 152940065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.11508,50.644169,3.11508,50.644169",
     "geom:latitude":50.644169,
     "geom:longitude":3.11508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"1/73 rue \u00eele de france",
     "sg:city":"Mons en Baroeul",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"59370",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152940065,
-    "wof:lastmodified":1449045427,
+    "wof:lastmodified":1466230362,
     "wof:name":"Site Amateur De Pronostiques De Foot",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.11508,50.644169,3.11508,50.644169],
+  "bbox": [
+    3.11508,
+    50.644169,
+    3.11508,
+    50.644169
+],
   "geometry": {"coordinates":[3.11508,50.644169],"type":"Point"}
 }

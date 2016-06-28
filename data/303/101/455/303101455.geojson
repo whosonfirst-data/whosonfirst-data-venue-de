@@ -2,13 +2,14 @@
   "id": 303101455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.54016,49.501511,9.54016,49.501511",
     "geom:latitude":49.501511,
     "geom:longitude":9.54016,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 1",
     "sg:city":"Ahorn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303101455,
-    "wof:lastmodified":1448999410,
+    "wof:lastmodified":1466227014,
     "wof:name":"Mura Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.54016,49.501511,9.54016,49.501511],
+  "bbox": [
+    9.54016,
+    49.501511,
+    9.54016,
+    49.501511
+],
   "geometry": {"coordinates":[9.54016,49.501511],"type":"Point"}
 }

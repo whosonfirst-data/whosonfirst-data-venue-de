@@ -2,13 +2,14 @@
   "id": 135476365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.113528,54.089287,12.113528,54.089287",
     "geom:latitude":54.089287,
     "geom:longitude":12.113528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz-Reuter-Str. 66",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905731,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135476365,
-    "wof:lastmodified":1449022215,
+    "wof:lastmodified":1466229433,
     "wof:name":"Cocktail-bar Lero",
     "wof:parent_id":85905731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.113528,54.089287,12.113528,54.089287],
+  "bbox": [
+    12.113528,
+    54.089287,
+    12.113528,
+    54.089287
+],
   "geometry": {"coordinates":[12.113528,54.089287],"type":"Point"}
 }

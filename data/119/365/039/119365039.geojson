@@ -2,13 +2,14 @@
   "id": 119365039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.51795,49.768253,9.51795,49.768253",
     "geom:latitude":49.768253,
     "geom:longitude":9.51795,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzstr. 2",
     "sg:city":"Kreuzwertheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119365039,
-    "wof:lastmodified":1449041251,
+    "wof:lastmodified":1466240562,
     "wof:name":"P. Lanning",
     "wof:parent_id":101874349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.51795,49.768253,9.51795,49.768253],
+  "bbox": [
+    9.51795,
+    49.768253,
+    9.51795,
+    49.768253
+],
   "geometry": {"coordinates":[9.51795,49.768253],"type":"Point"}
 }

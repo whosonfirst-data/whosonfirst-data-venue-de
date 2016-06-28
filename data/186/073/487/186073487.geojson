@@ -2,13 +2,14 @@
   "id": 186073487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.455026,48.119678,10.455026,48.119678",
     "geom:latitude":48.119678,
     "geom:longitude":10.455026,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 30",
     "sg:city":"Pfaffenhausen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186073487,
-    "wof:lastmodified":1449050721,
+    "wof:lastmodified":1466213986,
     "wof:name":"Heimatmuseum Pfaffenhausen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.455026,48.119678,10.455026,48.119678],
+  "bbox": [
+    10.455026,
+    48.119678,
+    10.455026,
+    48.119678
+],
   "geometry": {"coordinates":[10.455026,48.119678],"type":"Point"}
 }

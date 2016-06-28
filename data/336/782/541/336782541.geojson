@@ -2,13 +2,14 @@
   "id": 336782541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.633076,47.892483,10.633076,47.892483",
     "geom:latitude":47.892483,
     "geom:longitude":10.633076,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beuthener Str. 4",
     "sg:city":"Kaufbeuren",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336782541,
-    "wof:lastmodified":1448996911,
+    "wof:lastmodified":1466237545,
     "wof:name":"C. Zimmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.633076,47.892483,10.633076,47.892483],
+  "bbox": [
+    10.633076,
+    47.892483,
+    10.633076,
+    47.892483
+],
   "geometry": {"coordinates":[10.633076,47.892483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236525015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.892997,49.868793,11.892997,49.868793",
     "geom:latitude":49.868793,
     "geom:longitude":11.892997,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erbendorfer Str. 25",
     "sg:city":"Kemnath",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236525015,
-    "wof:lastmodified":1449004417,
+    "wof:lastmodified":1466228450,
     "wof:name":"Schulz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.892997,49.868793,11.892997,49.868793],
+  "bbox": [
+    11.892997,
+    49.868793,
+    11.892997,
+    49.868793
+],
   "geometry": {"coordinates":[11.892997,49.868793],"type":"Point"}
 }

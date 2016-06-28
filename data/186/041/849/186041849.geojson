@@ -2,13 +2,14 @@
   "id": 186041849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.651227,50.068531,8.651227,50.068531",
     "geom:latitude":50.068531,
     "geom:longitude":8.651227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6rfelder Landstr. 362",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186041849,
-    "wof:lastmodified":1449051355,
+    "wof:lastmodified":1466213650,
     "wof:name":"Frankfurter Sportmuseum",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.651227,50.068531,8.651227,50.068531],
+  "bbox": [
+    8.651227,
+    50.068531,
+    8.651227,
+    50.068531
+],
   "geometry": {"coordinates":[8.651227,50.068531],"type":"Point"}
 }

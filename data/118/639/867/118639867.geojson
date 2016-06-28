@@ -2,13 +2,14 @@
   "id": 118639867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.06896,53.589828,10.06896,53.589828",
     "geom:latitude":53.589828,
     "geom:longitude":10.06896,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiefh\u00f6rn 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899293,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118639867,
-    "wof:lastmodified":1449054530,
+    "wof:lastmodified":1466220519,
     "wof:name":"Seniorenwohnanlage Kiefh\u00f6rn",
     "wof:parent_id":85899293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.06896,53.589828,10.06896,53.589828],
+  "bbox": [
+    10.06896,
+    53.589828,
+    10.06896,
+    53.589828
+],
   "geometry": {"coordinates":[10.06896,53.589828],"type":"Point"}
 }

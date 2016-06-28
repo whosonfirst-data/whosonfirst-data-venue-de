@@ -2,13 +2,14 @@
   "id": 135281431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.140408,49.864918,8.140408,49.864918",
     "geom:latitude":49.864918,
     "geom:longitude":8.140408,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nieder-Saulheimer Str. 12",
     "sg:city":"Saulheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135281431,
-    "wof:lastmodified":1449023552,
+    "wof:lastmodified":1466230716,
     "wof:name":"Johann Metzler",
     "wof:parent_id":101813165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.140408,49.864918,8.140408,49.864918],
+  "bbox": [
+    8.140408,
+    49.864918,
+    8.140408,
+    49.864918
+],
   "geometry": {"coordinates":[8.140408,49.864918],"type":"Point"}
 }

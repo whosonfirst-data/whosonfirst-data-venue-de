@@ -2,13 +2,14 @@
   "id": 236503319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.66302,48.07618,11.66302,48.07618",
     "geom:latitude":48.07618,
     "geom:longitude":11.66302,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 17",
     "sg:city":"Neubiberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236503319,
-    "wof:lastmodified":1449005259,
+    "wof:lastmodified":1466228027,
     "wof:name":"Rieger",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.66302,48.07618,11.66302,48.07618],
+  "bbox": [
+    11.66302,
+    48.07618,
+    11.66302,
+    48.07618
+],
   "geometry": {"coordinates":[11.66302,48.07618],"type":"Point"}
 }

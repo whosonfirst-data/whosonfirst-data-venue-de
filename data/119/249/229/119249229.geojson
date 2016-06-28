@@ -2,13 +2,14 @@
   "id": 119249229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.067983,48.802578,9.067983,48.802578",
     "geom:latitude":48.802578,
     "geom:longitude":9.067983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 51-53",
     "sg:city":"Gerlingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119249229,
-    "wof:lastmodified":1449041021,
+    "wof:lastmodified":1466233525,
     "wof:name":"Displaytronic Gesellschaft F\u00fcr Elektron. Anzeigensysteme Mbh",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.067983,48.802578,9.067983,48.802578],
+  "bbox": [
+    9.067983,
+    48.802578,
+    9.067983,
+    48.802578
+],
   "geometry": {"coordinates":[9.067983,48.802578],"type":"Point"}
 }

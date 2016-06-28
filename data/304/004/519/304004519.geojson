@@ -2,13 +2,14 @@
   "id": 304004519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.159738,54.079079,12.159738,54.079079",
     "geom:latitude":54.079079,
     "geom:longitude":12.159738,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neubrandenburger Str. 11",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":304004519,
-    "wof:lastmodified":1449043777,
+    "wof:lastmodified":1466230963,
     "wof:name":"R. Pietralczyk",
     "wof:parent_id":85899047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.159738,54.079079,12.159738,54.079079],
+  "bbox": [
+    12.159738,
+    54.079079,
+    12.159738,
+    54.079079
+],
   "geometry": {"coordinates":[12.159738,54.079079],"type":"Point"}
 }

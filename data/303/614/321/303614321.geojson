@@ -2,13 +2,14 @@
   "id": 303614321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.86206,48.430767,10.86206,48.430767",
     "geom:latitude":48.430767,
     "geom:longitude":10.86206,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstr. 1",
     "sg:city":"Gersthofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303614321,
-    "wof:lastmodified":1449000634,
+    "wof:lastmodified":1466238187,
     "wof:name":"Leonhard Kraus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.86206,48.430767,10.86206,48.430767],
+  "bbox": [
+    10.86206,
+    48.430767,
+    10.86206,
+    48.430767
+],
   "geometry": {"coordinates":[10.86206,48.430767],"type":"Point"}
 }

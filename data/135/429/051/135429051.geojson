@@ -2,13 +2,14 @@
   "id": 135429051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.567312,48.276691,11.567312,48.276691",
     "geom:latitude":48.276691,
     "geom:longitude":11.567312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr 42",
     "sg:city":"Unterschlei\u00dfheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905625,
+        85682571,
         85633111,
         101785323,
         102063273,
-        85682571
+        85905625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135429051,
-    "wof:lastmodified":1449023833,
+    "wof:lastmodified":1466225315,
     "wof:name":"Raiffeisenbank Unterschlei\u00dfheim-loh",
     "wof:parent_id":85905625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.567312,48.276691,11.567312,48.276691],
+  "bbox": [
+    11.567312,
+    48.276691,
+    11.567312,
+    48.276691
+],
   "geometry": {"coordinates":[11.567312,48.276691],"type":"Point"}
 }

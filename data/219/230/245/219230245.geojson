@@ -2,13 +2,14 @@
   "id": 219230245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.250573,51.460136,7.250573,51.460136",
     "geom:latitude":51.460136,
     "geom:longitude":7.250573,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schadowstr. 34",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219230245,
-    "wof:lastmodified":1449073022,
+    "wof:lastmodified":1466215662,
     "wof:name":"Hans Kemper",
     "wof:parent_id":85796531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.250573,51.460136,7.250573,51.460136],
+  "bbox": [
+    7.250573,
+    51.460136,
+    7.250573,
+    51.460136
+],
   "geometry": {"coordinates":[7.250573,51.460136],"type":"Point"}
 }

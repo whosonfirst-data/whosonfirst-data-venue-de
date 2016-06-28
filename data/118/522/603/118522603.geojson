@@ -2,13 +2,14 @@
   "id": 118522603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.098289,53.534103,10.098289,53.534103",
     "geom:latitude":53.534103,
     "geom:longitude":10.098289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berzeliusstr. 59::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900015,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118522603,
-    "wof:lastmodified":1449053812,
+    "wof:lastmodified":1466213776,
     "wof:name":"Marlo Spedition Gmbh",
     "wof:parent_id":85900015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.098289,53.534103,10.098289,53.534103],
+  "bbox": [
+    10.098289,
+    53.534103,
+    10.098289,
+    53.534103
+],
   "geometry": {"coordinates":[10.098289,53.534103],"type":"Point"}
 }

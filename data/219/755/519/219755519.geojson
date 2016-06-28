@@ -2,13 +2,14 @@
   "id": 219755519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.084508,53.349773,13.084508,53.349773",
     "geom:latitude":53.349773,
     "geom:longitude":13.084508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Fasanerie 31",
     "sg:city":"Neustrelitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219755519,
-    "wof:lastmodified":1449071405,
+    "wof:lastmodified":1466225409,
     "wof:name":"Peter Benzin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.084508,53.349773,13.084508,53.349773],
+  "bbox": [
+    13.084508,
+    53.349773,
+    13.084508,
+    53.349773
+],
   "geometry": {"coordinates":[13.084508,53.349773],"type":"Point"}
 }

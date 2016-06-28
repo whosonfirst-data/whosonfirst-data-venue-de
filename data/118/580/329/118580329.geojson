@@ -2,13 +2,14 @@
   "id": 118580329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.896389,48.387444,10.896389,48.387444",
     "geom:latitude":48.387444,
     "geom:longitude":10.896389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Josef-Strau\u00df-Str. 5",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899507,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118580329,
-    "wof:lastmodified":1449054086,
+    "wof:lastmodified":1466217169,
     "wof:name":"Man Technologie Ag",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.896389,48.387444,10.896389,48.387444],
+  "bbox": [
+    10.896389,
+    48.387444,
+    10.896389,
+    48.387444
+],
   "geometry": {"coordinates":[10.896389,48.387444],"type":"Point"}
 }

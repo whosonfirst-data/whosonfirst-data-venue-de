@@ -2,13 +2,14 @@
   "id": 118577911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.682917,50.125313,8.682917,50.125313",
     "geom:latitude":50.125313,
     "geom:longitude":8.682917,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Keplerstr 30",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118577911,
-    "wof:lastmodified":1449054598,
+    "wof:lastmodified":1466217011,
     "wof:name":"Wagner Alliance",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.682917,50.125313,8.682917,50.125313],
+  "bbox": [
+    8.682917,
+    50.125313,
+    8.682917,
+    50.125313
+],
   "geometry": {"coordinates":[8.682917,50.125313],"type":"Point"}
 }

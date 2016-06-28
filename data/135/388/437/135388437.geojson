@@ -2,13 +2,14 @@
   "id": 135388437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.741078,52.374802,9.741078,52.374802",
     "geom:latitude":52.374802,
     "geom:longitude":9.741078,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luisenstr. 4",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899535,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135388437,
-    "wof:lastmodified":1449021093,
+    "wof:lastmodified":1466221857,
     "wof:name":"Hamburg Hypothekenbank Ag",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.741078,52.374802,9.741078,52.374802],
+  "bbox": [
+    9.741078,
+    52.374802,
+    9.741078,
+    52.374802
+],
   "geometry": {"coordinates":[9.741078,52.374802],"type":"Point"}
 }

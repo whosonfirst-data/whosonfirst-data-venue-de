@@ -2,13 +2,14 @@
   "id": 119173001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.072366,52.407558,13.072366,52.407558",
     "geom:latitude":52.407558,
     "geom:longitude":13.072366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Helmholtzstr. 17",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898995,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85898995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119173001,
-    "wof:lastmodified":1449041327,
+    "wof:lastmodified":1466226255,
     "wof:name":"K\u00e4stner T\u00e4uber Und Cohrs Ingenieure",
     "wof:parent_id":85898995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.072366,52.407558,13.072366,52.407558],
+  "bbox": [
+    13.072366,
+    52.407558,
+    13.072366,
+    52.407558
+],
   "geometry": {"coordinates":[13.072366,52.407558],"type":"Point"}
 }

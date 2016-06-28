@@ -2,13 +2,14 @@
   "id": 135366025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.295144,51.284782,7.295144,51.284782",
     "geom:latitude":51.284782,
     "geom:longitude":7.295144,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 63",
     "sg:city":"Schwelm",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796243,
+        85682513,
         85633111,
         101756009,
         102063779,
-        85682513
+        85796243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135366025,
-    "wof:lastmodified":1449023206,
+    "wof:lastmodified":1466219531,
     "wof:name":"St\u00c4dtische Sparkasse",
     "wof:parent_id":85796243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.295144,51.284782,7.295144,51.284782],
+  "bbox": [
+    7.295144,
+    51.284782,
+    7.295144,
+    51.284782
+],
   "geometry": {"coordinates":[7.295144,51.284782],"type":"Point"}
 }

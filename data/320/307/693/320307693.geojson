@@ -2,13 +2,14 @@
   "id": 320307693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.33097,51.317451,7.33097,51.317451",
     "geom:latitude":51.317451,
     "geom:longitude":7.33097,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelstra\u00dfe 102",
     "sg:city":"Gevelsberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320307693,
-    "wof:lastmodified":1449012230,
+    "wof:lastmodified":1466238903,
     "wof:name":"City Anzeiger Gevelsberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.33097,51.317451,7.33097,51.317451],
+  "bbox": [
+    7.33097,
+    51.317451,
+    7.33097,
+    51.317451
+],
   "geometry": {"coordinates":[7.33097,51.317451],"type":"Point"}
 }

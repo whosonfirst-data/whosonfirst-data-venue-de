@@ -2,13 +2,14 @@
   "id": 202871661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.188175,51.837585,12.188175,51.837585",
     "geom:latitude":51.837585,
     "geom:longitude":12.188175,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenburger Str. 25",
     "sg:city":"Dessau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202871661,
-    "wof:lastmodified":1449060939,
+    "wof:lastmodified":1466222600,
     "wof:name":"Dieter Siegling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.188175,51.837585,12.188175,51.837585],
+  "bbox": [
+    12.188175,
+    51.837585,
+    12.188175,
+    51.837585
+],
   "geometry": {"coordinates":[12.188175,51.837585],"type":"Point"}
 }

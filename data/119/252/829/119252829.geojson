@@ -2,13 +2,14 @@
   "id": 119252829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.088351,49.019085,12.088351,49.019085",
     "geom:latitude":49.019085,
     "geom:longitude":12.088351,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jakobstr. 6",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119252829,
-    "wof:lastmodified":1449041185,
+    "wof:lastmodified":1466233880,
     "wof:name":"Tony Kobler",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.088351,49.019085,12.088351,49.019085],
+  "bbox": [
+    12.088351,
+    49.019085,
+    12.088351,
+    49.019085
+],
   "geometry": {"coordinates":[12.088351,49.019085],"type":"Point"}
 }

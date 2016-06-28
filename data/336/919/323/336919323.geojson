@@ -2,13 +2,14 @@
   "id": 336919323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.625149,52.095512,11.625149,52.095512",
     "geom:latitude":52.095512,
     "geom:longitude":11.625149,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernhard-Kellermann-Str. 37",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336919323,
-    "wof:lastmodified":1448997760,
+    "wof:lastmodified":1466239015,
     "wof:name":"Joachim Bertz",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.625149,52.095512,11.625149,52.095512],
+  "bbox": [
+    11.625149,
+    52.095512,
+    11.625149,
+    52.095512
+],
   "geometry": {"coordinates":[11.625149,52.095512],"type":"Point"}
 }

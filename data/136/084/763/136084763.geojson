@@ -2,13 +2,14 @@
   "id": 136084763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.42028,30.7113,-97.42028,30.7113",
     "geom:latitude":30.7113,
     "geom:longitude":-97.42028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Drapp-Stra\u00dfe 17a",
     "sg:city":"Badeb-Baden",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":136084763,
-    "wof:lastmodified":1449075055,
+    "wof:lastmodified":1466216034,
     "wof:name":"Jens M\u00e4chler",
     "wof:parent_id":85688753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.42028,30.7113,-97.42028,30.7113],
-  "geometry": {"coordinates":[-97.42028,30.7113],"type":"Point"}
+  "bbox": [
+    -97.42028,
+    30.7113,
+    -97.42028,
+    30.7113
+],
+  "geometry": {"coordinates":[-97.42028000000001,30.7113],"type":"Point"}
 }

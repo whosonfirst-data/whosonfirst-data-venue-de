@@ -2,13 +2,14 @@
   "id": 135716993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.118678,49.341465,11.118678,49.341465",
     "geom:latitude":49.341465,
     "geom:longitude":11.118678,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidestr. 9",
     "sg:city":"Wendelstein",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063425,
-        85633111,
         85682571,
-        85899407
+        85633111,
+        85899407,
+        102063425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135716993,
-    "wof:lastmodified":1449021408,
+    "wof:lastmodified":1466242910,
     "wof:name":"Herbert Angsten Immobilien Gmbh",
     "wof:parent_id":85899407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.118678,49.341465,11.118678,49.341465],
+  "bbox": [
+    11.118678,
+    49.341465,
+    11.118678,
+    49.341465
+],
   "geometry": {"coordinates":[11.118678,49.341465],"type":"Point"}
 }

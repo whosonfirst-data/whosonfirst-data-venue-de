@@ -2,13 +2,14 @@
   "id": 118853445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.032802,51.436493,7.032802,51.436493",
     "geom:latitude":51.436493,
     "geom:longitude":7.032802,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rellinghauser Str. 276",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796467,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85796467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118853445,
-    "wof:lastmodified":1449053704,
+    "wof:lastmodified":1466232995,
     "wof:name":"S\u00fcd-apotheke",
     "wof:parent_id":85796467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.032802,51.436493,7.032802,51.436493],
+  "bbox": [
+    7.032802,
+    51.436493,
+    7.032802,
+    51.436493
+],
   "geometry": {"coordinates":[7.032802,51.436493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119412407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.540068,51.051102,13.540068,51.051102",
     "geom:latitude":51.051102,
     "geom:longitude":13.540068,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zedtlerstr. 11",
     "sg:city":"Wilsdruff",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064217,
-        85633111,
         85682523,
-        85900165
+        85633111,
+        85900165,
+        102064217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119412407,
-    "wof:lastmodified":1449041357,
+    "wof:lastmodified":1466241917,
     "wof:name":"Otto",
     "wof:parent_id":85900165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.540068,51.051102,13.540068,51.051102],
+  "bbox": [
+    13.540068,
+    51.051102,
+    13.540068,
+    51.051102
+],
   "geometry": {"coordinates":[13.540068,51.051102],"type":"Point"}
 }

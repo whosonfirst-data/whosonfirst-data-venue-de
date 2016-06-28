@@ -2,13 +2,14 @@
   "id": 136131461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.55315,48.807114,2.55315,48.807114",
     "geom:latitude":48.807114,
     "geom:longitude":2.55315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"all\u00e9e carpeaux",
     "sg:city":"champigny sur marne",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"94500",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794473,
+        85683459,
         85633147,
         101751099,
         102070873,
-        85683459
+        85794473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136131461,
-    "wof:lastmodified":1449075288,
+    "wof:lastmodified":1466218047,
     "wof:name":"Studio \u00e0 Vendre",
     "wof:parent_id":85794473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.55315,48.807114,2.55315,48.807114],
+  "bbox": [
+    2.55315,
+    48.807114,
+    2.55315,
+    48.807114
+],
   "geometry": {"coordinates":[2.55315,48.807114],"type":"Point"}
 }

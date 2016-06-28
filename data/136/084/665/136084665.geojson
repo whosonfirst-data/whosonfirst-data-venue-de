@@ -2,13 +2,14 @@
   "id": 136084665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.362959,48.872494,2.362959,48.872494",
     "geom:latitude":48.872494,
     "geom:longitude":2.362959,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"65 rue de Lancry",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"75010",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873875,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136084665,
-    "wof:lastmodified":1449075053,
+    "wof:lastmodified":1466216026,
     "wof:name":"Jean Claude Dewaele",
     "wof:parent_id":85873875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.362959,48.872494,2.362959,48.872494],
+  "bbox": [
+    2.362959,
+    48.872494,
+    2.362959,
+    48.872494
+],
   "geometry": {"coordinates":[2.362959,48.872494],"type":"Point"}
 }

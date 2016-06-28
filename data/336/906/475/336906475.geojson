@@ -2,13 +2,14 @@
   "id": 336906475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.449255,52.852905,12.449255,52.852905",
     "geom:latitude":52.852905,
     "geom:longitude":12.449255,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Str. 86",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":336906475,
-    "wof:lastmodified":1448997353,
+    "wof:lastmodified":1466238795,
     "wof:name":"L. Schumann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.449255,52.852905,12.449255,52.852905],
+  "bbox": [
+    12.449255,
+    52.852905,
+    12.449255,
+    52.852905
+],
   "geometry": {"coordinates":[12.449255,52.852905],"type":"Point"}
 }

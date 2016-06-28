@@ -2,13 +2,14 @@
   "id": 118952887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.982313,51.132225,13.982313,51.132225",
     "geom:latitude":51.132225,
     "geom:longitude":13.982313,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfr\u00f6hrsdorfer Str. 40",
     "sg:city":"Gro\u00dfr\u00f6hrsdorf",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":118952887,
-    "wof:lastmodified":1449054154,
+    "wof:lastmodified":1466237926,
     "wof:name":"Fred Schott",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.982313,51.132225,13.982313,51.132225],
+  "bbox": [
+    13.982313,
+    51.132225,
+    13.982313,
+    51.132225
+],
   "geometry": {"coordinates":[13.982313,51.132225],"type":"Point"}
 }

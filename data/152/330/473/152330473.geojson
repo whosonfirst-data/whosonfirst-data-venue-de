@@ -2,13 +2,14 @@
   "id": 152330473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.875852,51.525951,6.875852,51.525951",
     "geom:latitude":51.525951,
     "geom:longitude":6.875852,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzwaldstr. 25",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795255,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85795255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152330473,
-    "wof:lastmodified":1449046605,
+    "wof:lastmodified":1466216790,
     "wof:name":"Beratungsstelle Der Stadt Oberhausen",
     "wof:parent_id":85795255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.875852,51.525951,6.875852,51.525951],
+  "bbox": [
+    6.875852,
+    51.525951,
+    6.875852,
+    51.525951
+],
   "geometry": {"coordinates":[6.875852,51.525951],"type":"Point"}
 }

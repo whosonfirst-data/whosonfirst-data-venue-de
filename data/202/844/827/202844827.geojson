@@ -2,13 +2,14 @@
   "id": 202844827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.775574,51.004211,12.775574,51.004211",
     "geom:latitude":51.004211,
     "geom:longitude":12.775574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-Fleming-Gasse 4",
     "sg:city":"Wechselburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202844827,
-    "wof:lastmodified":1449061196,
+    "wof:lastmodified":1466222080,
     "wof:name":"Werner Steinbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.775574,51.004211,12.775574,51.004211],
+  "bbox": [
+    12.775574,
+    51.004211,
+    12.775574,
+    51.004211
+],
   "geometry": {"coordinates":[12.775574,51.004211],"type":"Point"}
 }

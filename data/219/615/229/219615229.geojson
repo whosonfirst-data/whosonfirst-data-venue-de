@@ -2,13 +2,14 @@
   "id": 219615229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.149916,48.744884,9.149916,48.744884",
     "geom:latitude":48.744884,
     "geom:longitude":9.149916,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Anna-Peters-Str. 57b",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219615229,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466222679,
     "wof:name":"M. Schwarz",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.149916,48.744884,9.149916,48.744884],
+  "bbox": [
+    9.149916,
+    48.744884,
+    9.149916,
+    48.744884
+],
   "geometry": {"coordinates":[9.149916,48.744884],"type":"Point"}
 }

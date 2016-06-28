@@ -2,13 +2,14 @@
   "id": 253680897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.459392,48.059643,8.459392,48.059643",
     "geom:latitude":48.059643,
     "geom:longitude":8.459392,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietstr. 3",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253680897,
-    "wof:lastmodified":1449064910,
+    "wof:lastmodified":1466233346,
     "wof:name":"Flair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.459392,48.059643,8.459392,48.059643],
+  "bbox": [
+    8.459392,
+    48.059643,
+    8.459392,
+    48.059643
+],
   "geometry": {"coordinates":[8.459392,48.059643],"type":"Point"}
 }

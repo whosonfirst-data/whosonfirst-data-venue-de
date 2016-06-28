@@ -2,13 +2,14 @@
   "id": 118573843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110184,54.092876,12.110184,54.092876",
     "geom:latitude":54.092876,
     "geom:longitude":12.110184,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Doberaner Str 96",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905731,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118573843,
-    "wof:lastmodified":1449054178,
+    "wof:lastmodified":1466216735,
     "wof:name":"Abraham",
     "wof:parent_id":85905731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.110184,54.092876,12.110184,54.092876],
+  "bbox": [
+    12.110184,
+    54.092876,
+    12.110184,
+    54.092876
+],
   "geometry": {"coordinates":[12.110184,54.092876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186020741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.105246,49.240387,9.105246,49.240387",
     "geom:latitude":49.240387,
     "geom:longitude":9.105246,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinsheimer Str. 16",
     "sg:city":"Bad Rappenau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186020741,
-    "wof:lastmodified":1449051631,
+    "wof:lastmodified":1466213425,
     "wof:name":"Bad Rappenauer Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.105246,49.240387,9.105246,49.240387],
+  "bbox": [
+    9.105246,
+    49.240387,
+    9.105246,
+    49.240387
+],
   "geometry": {"coordinates":[9.105246,49.240387],"type":"Point"}
 }

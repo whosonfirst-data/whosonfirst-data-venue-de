@@ -2,13 +2,14 @@
   "id": 136035481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.810898,37.302498,-121.810898,37.302498",
     "geom:latitude":37.302498,
     "geom:longitude":-121.810898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"3547 Squire Creek Circle",
     "sg:city":"San Jose",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"95121",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85887517,
+        85688637,
         85633793,
         85922347,
         102081673,
-        85688637
+        85887517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136035481,
-    "wof:lastmodified":1449075977,
+    "wof:lastmodified":1466213726,
     "wof:name":"Camtech 2000",
     "wof:parent_id":85887517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.810898,37.302498,-121.810898,37.302498],
-  "geometry": {"coordinates":[-121.810898,37.302498],"type":"Point"}
+  "bbox": [
+    -121.810898,
+    37.302498,
+    -121.810898,
+    37.302498
+],
+  "geometry": {"coordinates":[-121.81089799999999,37.302498],"type":"Point"}
 }

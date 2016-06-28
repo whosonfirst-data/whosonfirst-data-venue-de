@@ -2,13 +2,14 @@
   "id": 118526007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.160895,53.653378,10.160895,53.653378",
     "geom:latitude":53.653378,
     "geom:longitude":10.160895,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Halenreie 40-44::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899601,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118526007,
-    "wof:lastmodified":1449053580,
+    "wof:lastmodified":1466214021,
     "wof:name":"Transatlantische Allgemeine Versicherung Ag",
     "wof:parent_id":85899601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.160895,53.653378,10.160895,53.653378],
+  "bbox": [
+    10.160895,
+    53.653378,
+    10.160895,
+    53.653378
+],
   "geometry": {"coordinates":[10.160895,53.653378],"type":"Point"}
 }

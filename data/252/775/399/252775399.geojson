@@ -2,13 +2,14 @@
   "id": 252775399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.453225,48.107754,11.453225,48.107754",
     "geom:latitude":48.107754,
     "geom:longitude":11.453225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Angerbauerstr. 1",
     "sg:city":"Planegg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252775399,
-    "wof:lastmodified":1449006203,
+    "wof:lastmodified":1466220385,
     "wof:name":"Hans Schweiger",
     "wof:parent_id":85899225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.453225,48.107754,11.453225,48.107754],
+  "bbox": [
+    11.453225,
+    48.107754,
+    11.453225,
+    48.107754
+],
   "geometry": {"coordinates":[11.453225,48.107754],"type":"Point"}
 }

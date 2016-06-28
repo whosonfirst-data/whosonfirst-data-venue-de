@@ -2,13 +2,14 @@
   "id": 118892167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.95817,49.44305,10.95817,49.44305",
     "geom:latitude":49.44305,
     "geom:longitude":10.95817,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrther Str. 15",
     "sg:city":"Zirndorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900217,
+        85682571,
         85633111,
         101755915,
         102063467,
-        85682571
+        85900217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118892167,
-    "wof:lastmodified":1449053351,
+    "wof:lastmodified":1466235396,
     "wof:name":"Gustav-adolf-apotheke Inh. Rolf Hummelmann E. K.",
     "wof:parent_id":85900217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.95817,49.44305,10.95817,49.44305],
+  "bbox": [
+    10.95817,
+    49.44305,
+    10.95817,
+    49.44305
+],
   "geometry": {"coordinates":[10.95817,49.44305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203290033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.398633,49.518688,8.398633,49.518688",
     "geom:latitude":49.518688,
     "geom:longitude":8.398633,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Behrensstr. 5",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203290033,
-    "wof:lastmodified":1449025736,
+    "wof:lastmodified":1466218688,
     "wof:name":"F. Schneider",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.398633,49.518688,8.398633,49.518688],
+  "bbox": [
+    8.398633,
+    49.518688,
+    8.398633,
+    49.518688
+],
   "geometry": {"coordinates":[8.398633,49.518688],"type":"Point"}
 }

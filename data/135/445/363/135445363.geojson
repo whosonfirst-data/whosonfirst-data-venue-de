@@ -2,13 +2,14 @@
   "id": 135445363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.926438,50.724789,7.926438,50.724789",
     "geom:latitude":50.724789,
     "geom:longitude":7.926438,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 2",
     "sg:city":"Weitefeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135445363,
-    "wof:lastmodified":1449021390,
+    "wof:lastmodified":1466226766,
     "wof:name":"Sparkasse",
     "wof:parent_id":101810967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.926438,50.724789,7.926438,50.724789],
+  "bbox": [
+    7.926438,
+    50.724789,
+    7.926438,
+    50.724789
+],
   "geometry": {"coordinates":[7.926438,50.724789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135323707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.95509,47.971714,10.95509,47.971714",
     "geom:latitude":47.971714,
     "geom:longitude":10.95509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obergasse 11",
     "sg:city":"Thaining",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135323707,
-    "wof:lastmodified":1449021266,
+    "wof:lastmodified":1466215827,
     "wof:name":"Walter Kirchmann",
     "wof:parent_id":101905723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.95509,47.971714,10.95509,47.971714],
+  "bbox": [
+    10.95509,
+    47.971714,
+    10.95509,
+    47.971714
+],
   "geometry": {"coordinates":[10.95509,47.971714],"type":"Point"}
 }

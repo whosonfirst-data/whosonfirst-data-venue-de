@@ -2,13 +2,14 @@
   "id": 135486525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.875631,53.0798,8.875631,53.0798",
     "geom:latitude":53.0798,
     "geom:longitude":8.875631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonneberger Str. 8",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796219,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135486525,
-    "wof:lastmodified":1449022687,
+    "wof:lastmodified":1466230429,
     "wof:name":"Eduard Janssen Gmbh & Co. Kg",
     "wof:parent_id":85796219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.875631,53.0798,8.875631,53.0798],
+  "bbox": [
+    8.875631,
+    53.0798,
+    8.875631,
+    53.0798
+],
   "geometry": {"coordinates":[8.875631,53.0798],"type":"Point"}
 }

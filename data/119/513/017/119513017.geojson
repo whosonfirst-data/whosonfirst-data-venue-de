@@ -2,13 +2,14 @@
   "id": 119513017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.811989,48.010983,7.811989,48.010983",
     "geom:latitude":48.010983,
     "geom:longitude":7.811989,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sundgauallee 108",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119513017,
-    "wof:lastmodified":1449042646,
+    "wof:lastmodified":1466243741,
     "wof:name":"E. Heitzmann",
     "wof:parent_id":101748475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.811989,48.010983,7.811989,48.010983],
+  "bbox": [
+    7.811989,
+    48.010983,
+    7.811989,
+    48.010983
+],
   "geometry": {"coordinates":[7.811989,48.010983],"type":"Point"}
 }

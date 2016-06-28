@@ -2,13 +2,14 @@
   "id": 119057353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154082,51.280483,7.154082,51.280483",
     "geom:latitude":51.280483,
     "geom:longitude":7.154082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-Ehlers-Str. 110",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862921,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85862921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119057353,
-    "wof:lastmodified":1449042149,
+    "wof:lastmodified":1466216093,
     "wof:name":"Horst Knobel Architekt",
     "wof:parent_id":85862921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154082,51.280483,7.154082,51.280483],
+  "bbox": [
+    7.154082,
+    51.280483,
+    7.154082,
+    51.280483
+],
   "geometry": {"coordinates":[7.154082,51.280483],"type":"Point"}
 }

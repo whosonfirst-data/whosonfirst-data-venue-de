@@ -2,13 +2,14 @@
   "id": 152142375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.728704,52.38192,9.728704,52.38192",
     "geom:latitude":52.38192,
     "geom:longitude":9.728704,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arndtstr. 5",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899535,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152142375,
-    "wof:lastmodified":1449047994,
+    "wof:lastmodified":1466231950,
     "wof:name":"Nieders\u00e4chsiche Bautr\u00e4ger Gmbh",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.728704,52.38192,9.728704,52.38192],
+  "bbox": [
+    9.728704,
+    52.38192,
+    9.728704,
+    52.38192
+],
   "geometry": {"coordinates":[9.728704,52.38192],"type":"Point"}
 }

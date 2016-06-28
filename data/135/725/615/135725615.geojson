@@ -2,13 +2,14 @@
   "id": 135725615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.684074,50.101341,8.684074,50.101341",
     "geom:latitude":50.101341,
     "geom:longitude":8.684074,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanthaler Str. 21",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
-        85796369
+        85633111,
+        85796369,
+        102063589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135725615,
-    "wof:lastmodified":1449021723,
+    "wof:lastmodified":1466243097,
     "wof:name":"Stema Bau- Und Grundst\u00fccks Gmbh",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.684074,50.101341,8.684074,50.101341],
+  "bbox": [
+    8.684074,
+    50.101341,
+    8.684074,
+    50.101341
+],
   "geometry": {"coordinates":[8.684074,50.101341],"type":"Point"}
 }

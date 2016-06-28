@@ -2,13 +2,14 @@
   "id": 119385343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.985065,49.599724,10.985065,49.599724",
     "geom:latitude":49.599724,
     "geom:longitude":10.985065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldm\u00fcllerstr. 14",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119385343,
-    "wof:lastmodified":1449042440,
+    "wof:lastmodified":1466241164,
     "wof:name":"Walter Nodes",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.985065,49.599724,10.985065,49.599724],
+  "bbox": [
+    10.985065,
+    49.599724,
+    10.985065,
+    49.599724
+],
   "geometry": {"coordinates":[10.985065,49.599724],"type":"Point"}
 }

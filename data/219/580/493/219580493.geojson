@@ -2,13 +2,14 @@
   "id": 219580493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.111773,53.661404,10.111773,53.661404",
     "geom:latitude":53.661404,
     "geom:longitude":10.111773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nsberg 8",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219580493,
-    "wof:lastmodified":1449072766,
+    "wof:lastmodified":1466222020,
     "wof:name":"L. Nonnenmacher",
     "wof:parent_id":85899975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.111773,53.661404,10.111773,53.661404],
+  "bbox": [
+    10.111773,
+    53.661404,
+    10.111773,
+    53.661404
+],
   "geometry": {"coordinates":[10.111773,53.661404],"type":"Point"}
 }

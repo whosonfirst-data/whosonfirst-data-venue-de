@@ -2,13 +2,14 @@
   "id": 220040511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.69647,53.279613,9.69647,53.279613",
     "geom:latitude":53.279613,
     "geom:longitude":9.69647,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorgasse 5",
     "sg:city":"Tostedt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220040511,
-    "wof:lastmodified":1449074849,
+    "wof:lastmodified":1466215367,
     "wof:name":"Wolfgang Heise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.69647,53.279613,9.69647,53.279613],
+  "bbox": [
+    9.69647,
+    53.279613,
+    9.69647,
+    53.279613
+],
   "geometry": {"coordinates":[9.69647,53.279613],"type":"Point"}
 }

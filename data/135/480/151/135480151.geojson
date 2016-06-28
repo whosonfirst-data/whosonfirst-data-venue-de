@@ -2,13 +2,14 @@
   "id": 135480151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.151101,48.53714,12.151101,48.53714",
     "geom:latitude":48.53714,
     "geom:longitude":12.151101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ndgasse 117",
     "sg:city":"Landshut",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135480151,
-    "wof:lastmodified":1449021981,
+    "wof:lastmodified":1466229832,
     "wof:name":"Planet-bar",
     "wof:parent_id":101748491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.151101,48.53714,12.151101,48.53714],
+  "bbox": [
+    12.151101,
+    48.53714,
+    12.151101,
+    48.53714
+],
   "geometry": {"coordinates":[12.151101,48.53714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303986233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.47671,49.484539,8.47671,49.484539",
     "geom:latitude":49.484539,
     "geom:longitude":8.47671,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 122039",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303986233,
-    "wof:lastmodified":1449000091,
+    "wof:lastmodified":1466241945,
     "wof:name":"R. Witzigmann",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.47671,49.484539,8.47671,49.484539],
+  "bbox": [
+    8.47671,
+    49.484539,
+    8.47671,
+    49.484539
+],
   "geometry": {"coordinates":[8.47671,49.484539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236610749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.783227,50.030319,8.783227,50.030319",
     "geom:latitude":50.030319,
     "geom:longitude":8.783227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Keltenring 81",
     "sg:city":"Dietzenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236610749,
-    "wof:lastmodified":1449005185,
+    "wof:lastmodified":1466230048,
     "wof:name":"Wenzel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.783227,50.030319,8.783227,50.030319],
+  "bbox": [
+    8.783227,
+    50.030319,
+    8.783227,
+    50.030319
+],
   "geometry": {"coordinates":[8.783227,50.030319],"type":"Point"}
 }

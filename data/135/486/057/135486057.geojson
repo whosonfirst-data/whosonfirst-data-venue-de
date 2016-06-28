@@ -2,13 +2,14 @@
   "id": 135486057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.946684,53.544491,9.946684,53.544491",
     "geom:latitude":53.544491,
     "geom:longitude":9.946684,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carsten-Rehder-Str. 69",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900097,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135486057,
-    "wof:lastmodified":1449022685,
+    "wof:lastmodified":1466230388,
     "wof:name":"Metallbau Reifenrath Gmbh",
     "wof:parent_id":85900097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.946684,53.544491,9.946684,53.544491],
+  "bbox": [
+    9.946684,
+    53.544491,
+    9.946684,
+    53.544491
+],
   "geometry": {"coordinates":[9.946684,53.544491],"type":"Point"}
 }

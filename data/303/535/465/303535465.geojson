@@ -2,13 +2,14 @@
   "id": 303535465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.13076,50.169708,12.13076,50.169708",
     "geom:latitude":50.169708,
     "geom:longitude":12.13076,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1440",
     "sg:city":"Selb",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303535465,
-    "wof:lastmodified":1448998561,
+    "wof:lastmodified":1466237033,
     "wof:name":"Selber Tageblatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.13076,50.169708,12.13076,50.169708],
+  "bbox": [
+    12.13076,
+    50.169708,
+    12.13076,
+    50.169708
+],
   "geometry": {"coordinates":[12.13076,50.169708],"type":"Point"}
 }

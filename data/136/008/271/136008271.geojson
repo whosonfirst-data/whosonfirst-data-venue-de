@@ -2,13 +2,14 @@
   "id": 136008271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.27951,48.823662,9.27951,48.823662",
     "geom:latitude":48.823662,
     "geom:longitude":9.27951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Salierstr. 24",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136008271,
-    "wof:lastmodified":1449075319,
+    "wof:lastmodified":1466224895,
     "wof:name":"Select Electronic Fachhandel Verm\u00f6gensverwaltungs Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.27951,48.823662,9.27951,48.823662],
+  "bbox": [
+    9.27951,
+    48.823662,
+    9.27951,
+    48.823662
+],
   "geometry": {"coordinates":[9.27951,48.823662],"type":"Point"}
 }

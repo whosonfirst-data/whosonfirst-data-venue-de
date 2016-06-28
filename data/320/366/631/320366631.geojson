@@ -2,13 +2,14 @@
   "id": 320366631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.037057,50.963112,7.037057,50.963112",
     "geom:latitude":50.963112,
     "geom:longitude":7.037057,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wichheimer Str. 277",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320366631,
-    "wof:lastmodified":1449013982,
+    "wof:lastmodified":1466239727,
     "wof:name":"Peter Br\u00fcck",
     "wof:parent_id":85795075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.037057,50.963112,7.037057,50.963112],
+  "bbox": [
+    7.037057,
+    50.963112,
+    7.037057,
+    50.963112
+],
   "geometry": {"coordinates":[7.037057,50.963112],"type":"Point"}
 }

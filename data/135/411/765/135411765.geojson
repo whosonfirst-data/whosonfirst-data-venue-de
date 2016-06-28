@@ -2,13 +2,14 @@
   "id": 135411765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.444955,49.109566,11.444955,49.109566",
     "geom:latitude":49.109566,
     "geom:longitude":11.444955,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 53:: 92332 Berching:: Germany.^^Reichenauplatz 24::",
     "sg:city":"Berching",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135411765,
-    "wof:lastmodified":1449021125,
+    "wof:lastmodified":1466223893,
     "wof:name":"Raiffeisenbank Berching-m\u00fchlhausen Eg",
     "wof:parent_id":101782057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.444955,49.109566,11.444955,49.109566],
+  "bbox": [
+    11.444955,
+    49.109566,
+    11.444955,
+    49.109566
+],
   "geometry": {"coordinates":[11.444955,49.109566],"type":"Point"}
 }

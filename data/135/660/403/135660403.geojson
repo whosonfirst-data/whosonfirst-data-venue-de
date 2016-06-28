@@ -2,13 +2,14 @@
   "id": 135660403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.662597,52.107651,8.662597,52.107651",
     "geom:latitude":52.107651,
     "geom:longitude":8.662597,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasenbrink 18 a",
     "sg:city":"Herford",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063891,
-        85633111,
         85682513,
-        85794927
+        85633111,
+        85794927,
+        102063891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135660403,
-    "wof:lastmodified":1449023690,
+    "wof:lastmodified":1466241277,
     "wof:name":"H. Weissphal",
     "wof:parent_id":85794927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.662597,52.107651,8.662597,52.107651],
+  "bbox": [
+    8.662597,
+    52.107651,
+    8.662597,
+    52.107651
+],
   "geometry": {"coordinates":[8.662597,52.107651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119321099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597549,47.632118,7.597549,47.632118",
     "geom:latitude":47.632118,
     "geom:longitude":7.597549,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 26",
     "sg:city":"Eimeldingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119321099,
-    "wof:lastmodified":1449040946,
+    "wof:lastmodified":1466238567,
     "wof:name":"H. Karcher",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597549,47.632118,7.597549,47.632118],
+  "bbox": [
+    7.597549,
+    47.632118,
+    7.597549,
+    47.632118
+],
   "geometry": {"coordinates":[7.597549,47.632118],"type":"Point"}
 }

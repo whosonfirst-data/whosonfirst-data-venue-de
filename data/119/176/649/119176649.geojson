@@ -2,13 +2,14 @@
   "id": 119176649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.199072,52.566647,13.199072,52.566647",
     "geom:latitude":52.566647,
     "geom:longitude":13.199072,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hakenfelder Str. 9 a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899329,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119176649,
-    "wof:lastmodified":1449042630,
+    "wof:lastmodified":1466226630,
     "wof:name":"Klaus Hinzpeter Architekt",
     "wof:parent_id":85899329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.199072,52.566647,13.199072,52.566647],
+  "bbox": [
+    13.199072,
+    52.566647,
+    13.199072,
+    52.566647
+],
   "geometry": {"coordinates":[13.199072,52.566647],"type":"Point"}
 }

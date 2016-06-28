@@ -2,13 +2,14 @@
   "id": 152341663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.295744,51.249725,7.295744,51.249725",
     "geom:latitude":51.249725,
     "geom:longitude":7.295744,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Wupperstollen 2b",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794889
+        85633111,
+        85794889,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152341663,
-    "wof:lastmodified":1449048717,
+    "wof:lastmodified":1466217031,
     "wof:name":"Solitec Tyre Technology Gmbh",
     "wof:parent_id":85794889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.295744,51.249725,7.295744,51.249725],
+  "bbox": [
+    7.295744,
+    51.249725,
+    7.295744,
+    51.249725
+],
   "geometry": {"coordinates":[7.295744,51.249725],"type":"Point"}
 }

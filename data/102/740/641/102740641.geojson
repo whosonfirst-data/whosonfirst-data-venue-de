@@ -2,13 +2,14 @@
   "id": 102740641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.967395,51.448841,6.967395,51.448841",
     "geom:latitude":51.448841,
     "geom:longitude":6.967395,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Essen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795453,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85795453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102740641,
-    "wof:lastmodified":1449068858,
+    "wof:lastmodified":1466217677,
     "wof:name":"Mnk-service",
     "wof:parent_id":85795453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.967395,51.448841,6.967395,51.448841],
+  "bbox": [
+    6.967395,
+    51.448841,
+    6.967395,
+    51.448841
+],
   "geometry": {"coordinates":[6.967395,51.448841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303541967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.072194,52.60445,10.072194,52.60445",
     "geom:latitude":52.60445,
     "geom:longitude":10.072194,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mondhagen 3",
     "sg:city":"Celle",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303541967,
-    "wof:lastmodified":1448998392,
+    "wof:lastmodified":1466237119,
     "wof:name":"Wolfgang List",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.072194,52.60445,10.072194,52.60445],
+  "bbox": [
+    10.072194,
+    52.60445,
+    10.072194,
+    52.60445
+],
   "geometry": {"coordinates":[10.072194,52.60445],"type":"Point"}
 }

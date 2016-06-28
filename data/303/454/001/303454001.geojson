@@ -2,13 +2,14 @@
   "id": 303454001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.471906,48.709198,9.471906,48.709198",
     "geom:latitude":48.709198,
     "geom:longitude":9.471906,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Hegenloher Str. 6/1",
     "sg:city":"Reichenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303454001,
-    "wof:lastmodified":1449000334,
+    "wof:lastmodified":1466235619,
     "wof:name":"Hans Halm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.471906,48.709198,9.471906,48.709198],
+  "bbox": [
+    9.471906,
+    48.709198,
+    9.471906,
+    48.709198
+],
   "geometry": {"coordinates":[9.471906,48.709198],"type":"Point"}
 }

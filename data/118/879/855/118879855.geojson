@@ -2,13 +2,14 @@
   "id": 118879855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.681865,51.494133,6.681865,51.494133",
     "geom:latitude":51.494133,
     "geom:longitude":6.681865,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafschafter Str. 28",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794699,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118879855,
-    "wof:lastmodified":1449053168,
+    "wof:lastmodified":1466234676,
     "wof:name":"B\u00e4rler-apotheke",
     "wof:parent_id":85794699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.681865,51.494133,6.681865,51.494133],
+  "bbox": [
+    6.681865,
+    51.494133,
+    6.681865,
+    51.494133
+],
   "geometry": {"coordinates":[6.681865,51.494133],"type":"Point"}
 }

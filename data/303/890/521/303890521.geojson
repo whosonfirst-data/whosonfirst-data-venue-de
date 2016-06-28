@@ -2,13 +2,14 @@
   "id": 303890521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338995,52.53286,12.338995,52.53286",
     "geom:latitude":52.53286,
     "geom:longitude":12.338995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heimstr. 22",
     "sg:city":"Premnitz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303890521,
-    "wof:lastmodified":1448998650,
+    "wof:lastmodified":1466241162,
     "wof:name":"Gerd Kohlmeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.338995,52.53286,12.338995,52.53286],
+  "bbox": [
+    12.338995,
+    52.53286,
+    12.338995,
+    52.53286
+],
   "geometry": {"coordinates":[12.338995,52.53286],"type":"Point"}
 }

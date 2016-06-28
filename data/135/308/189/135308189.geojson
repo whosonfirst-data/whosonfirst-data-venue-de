@@ -2,13 +2,14 @@
   "id": 135308189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.136423,48.948944,9.136423,48.948944",
     "geom:latitude":48.948944,
     "geom:longitude":9.136423,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofsplatz 3",
     "sg:city":"Bietigheim-Bissingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135308189,
-    "wof:lastmodified":1449024080,
+    "wof:lastmodified":1466214467,
     "wof:name":"R. Baumann",
     "wof:parent_id":101760643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.136423,48.948944,9.136423,48.948944],
+  "bbox": [
+    9.136423,
+    48.948944,
+    9.136423,
+    48.948944
+],
   "geometry": {"coordinates":[9.136423,48.948944],"type":"Point"}
 }

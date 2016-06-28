@@ -2,13 +2,14 @@
   "id": 136135939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.88625,51.427448,6.88625,51.427448",
     "geom:latitude":51.427448,
     "geom:longitude":6.88625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"muhrenkamp62",
     "sg:city":"m\u00fclheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863049,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85863049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136135939,
-    "wof:lastmodified":1449075425,
+    "wof:lastmodified":1466218219,
     "wof:name":"The Cambridge Diet",
     "wof:parent_id":85863049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.88625,51.427448,6.88625,51.427448],
+  "bbox": [
+    6.88625,
+    51.427448,
+    6.88625,
+    51.427448
+],
   "geometry": {"coordinates":[6.88625,51.427448],"type":"Point"}
 }

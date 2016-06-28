@@ -2,13 +2,14 @@
   "id": 203263369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.28704,52.434345,13.28704,52.434345",
     "geom:latitude":52.434345,
     "geom:longitude":13.28704,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wei\u00dfwasserweg 2 a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203263369,
-    "wof:lastmodified":1449026824,
+    "wof:lastmodified":1466218256,
     "wof:name":"Ernst Ott",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.28704,52.434345,13.28704,52.434345],
+  "bbox": [
+    13.28704,
+    52.434345,
+    13.28704,
+    52.434345
+],
   "geometry": {"coordinates":[13.28704,52.434345],"type":"Point"}
 }

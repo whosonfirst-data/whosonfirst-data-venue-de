@@ -2,13 +2,14 @@
   "id": 135712203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.5112,48.157551,11.5112,48.157551",
     "geom:latitude":48.157551,
     "geom:longitude":11.5112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Notburgastr. 4 a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899839,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135712203,
-    "wof:lastmodified":1449022300,
+    "wof:lastmodified":1466242731,
     "wof:name":"Grundst\u00fccksverwaltungsges. M\u00fcllerstra\u00dfe 43 Und 43 A Mbh",
     "wof:parent_id":85899839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.5112,48.157551,11.5112,48.157551],
+  "bbox": [
+    11.5112,
+    48.157551,
+    11.5112,
+    48.157551
+],
   "geometry": {"coordinates":[11.5112,48.157551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135526921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.3854,52.52874,13.3854,52.52874",
     "geom:latitude":52.52874,
     "geom:longitude":13.3854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tieckstr. 156",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135526921,
-    "wof:lastmodified":1449021935,
+    "wof:lastmodified":1466234074,
     "wof:name":"Ivb Th\u00fcringer Sanierungs-und Entwicklungsgesellschaft Mbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.3854,52.52874,13.3854,52.52874],
+  "bbox": [
+    13.3854,
+    52.52874,
+    13.3854,
+    52.52874
+],
   "geometry": {"coordinates":[13.3854,52.52874],"type":"Point"}
 }

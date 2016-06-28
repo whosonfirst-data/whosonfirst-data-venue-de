@@ -2,13 +2,14 @@
   "id": 186033023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68475,50.11105,8.68475,50.11105",
     "geom:latitude":50.11105,
     "geom:longitude":8.68475,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Domplatz 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186033023,
-    "wof:lastmodified":1449050959,
+    "wof:lastmodified":1466213555,
     "wof:name":"Dommuseum",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68475,50.11105,8.68475,50.11105],
+  "bbox": [
+    8.68475,
+    50.11105,
+    8.68475,
+    50.11105
+],
   "geometry": {"coordinates":[8.68475,50.11105],"type":"Point"}
 }

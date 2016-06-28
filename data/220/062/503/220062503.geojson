@@ -2,13 +2,14 @@
   "id": 220062503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.009601,50.394306,11.009601,50.394306",
     "geom:latitude":50.394306,
     "geom:longitude":11.009601,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonneberger Str. 8",
     "sg:city":"Schalkau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220062503,
-    "wof:lastmodified":1449074834,
+    "wof:lastmodified":1466215798,
     "wof:name":"Cafe Kathrin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.009601,50.394306,11.009601,50.394306],
+  "bbox": [
+    11.009601,
+    50.394306,
+    11.009601,
+    50.394306
+],
   "geometry": {"coordinates":[11.009601,50.394306],"type":"Point"}
 }

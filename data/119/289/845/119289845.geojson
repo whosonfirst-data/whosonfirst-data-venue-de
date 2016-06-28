@@ -2,13 +2,14 @@
   "id": 119289845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.103649,52.594753,10.103649,52.594753",
     "geom:latitude":52.594753,
     "geom:longitude":10.103649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Treuburger Str. 6",
     "sg:city":"Celle",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119289845,
-    "wof:lastmodified":1449043072,
+    "wof:lastmodified":1466236880,
     "wof:name":"Alexander Zimmermann",
     "wof:parent_id":85682555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.103649,52.594753,10.103649,52.594753],
+  "bbox": [
+    10.103649,
+    52.594753,
+    10.103649,
+    52.594753
+],
   "geometry": {"coordinates":[10.103649,52.594753],"type":"Point"}
 }

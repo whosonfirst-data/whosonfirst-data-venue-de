@@ -2,13 +2,14 @@
   "id": 152259689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.777324,47.640846,7.777324,47.640846",
     "geom:latitude":47.640846,
     "geom:longitude":7.777324,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neue Str. 1",
     "sg:city":"Maulburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152259689,
-    "wof:lastmodified":1449045351,
+    "wof:lastmodified":1466215289,
     "wof:name":"A. Beer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.777324,47.640846,7.777324,47.640846],
+  "bbox": [
+    7.777324,
+    47.640846,
+    7.777324,
+    47.640846
+],
   "geometry": {"coordinates":[7.777324,47.640846],"type":"Point"}
 }

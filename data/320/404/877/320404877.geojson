@@ -2,13 +2,14 @@
   "id": 320404877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.608795,52.013401,8.608795,52.013401",
     "geom:latitude":52.013401,
     "geom:longitude":8.608795,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcneburger Str. 45",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320404877,
-    "wof:lastmodified":1449013752,
+    "wof:lastmodified":1466240253,
     "wof:name":"Werner Hanke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.608795,52.013401,8.608795,52.013401],
+  "bbox": [
+    8.608795,
+    52.013401,
+    8.608795,
+    52.013401
+],
   "geometry": {"coordinates":[8.608795,52.013401],"type":"Point"}
 }

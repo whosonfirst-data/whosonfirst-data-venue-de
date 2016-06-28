@@ -2,13 +2,14 @@
   "id": 119257879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.668685,52.419567,13.668685,52.419567",
     "geom:latitude":52.419567,
     "geom:longitude":13.668685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kallbacher Str. 24",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85905643
+        85633111,
+        85905643,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119257879,
-    "wof:lastmodified":1449041554,
+    "wof:lastmodified":1466234407,
     "wof:name":"Dr. Med. Cornelia Bauersfeld",
     "wof:parent_id":85905643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.668685,52.419567,13.668685,52.419567],
+  "bbox": [
+    13.668685,
+    52.419567,
+    13.668685,
+    52.419567
+],
   "geometry": {"coordinates":[13.668685,52.419567],"type":"Point"}
 }

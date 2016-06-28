@@ -2,13 +2,14 @@
   "id": 135579257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625749,53.047447,8.625749,53.047447",
     "geom:latitude":53.047447,
     "geom:longitude":8.625749,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An den Graften 1",
     "sg:city":"Delmenhorst",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063971,
-        85633111,
         85682555,
-        85796553
+        85633111,
+        85796553,
+        102063971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135579257,
-    "wof:lastmodified":1449021965,
+    "wof:lastmodified":1466237849,
     "wof:name":"Saalbau Am Stadtpark Gmbh",
     "wof:parent_id":85796553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625749,53.047447,8.625749,53.047447],
+  "bbox": [
+    8.625749,
+    53.047447,
+    8.625749,
+    53.047447
+],
   "geometry": {"coordinates":[8.625749,53.047447],"type":"Point"}
 }

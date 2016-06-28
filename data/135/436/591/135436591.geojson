@@ -2,13 +2,14 @@
   "id": 135436591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.83781,54.465633,9.83781,54.465633",
     "geom:latitude":54.465633,
     "geom:longitude":9.83781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1250:: 24332 Eckernf\u00f6rde:: Germany.^^Kieler Str 1::",
     "sg:city":"Eckernf\u00f6rde",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135436591,
-    "wof:lastmodified":1449023713,
+    "wof:lastmodified":1466225993,
     "wof:name":"Sparkasse Eckernf\u00f6rde",
     "wof:parent_id":101805145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.83781,54.465633,9.83781,54.465633],
+  "bbox": [
+    9.83781,
+    54.465633,
+    9.83781,
+    54.465633
+],
   "geometry": {"coordinates":[9.83781,54.465633],"type":"Point"}
 }

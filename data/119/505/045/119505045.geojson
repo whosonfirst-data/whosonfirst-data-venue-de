@@ -2,13 +2,14 @@
   "id": 119505045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.817662,48.56958,7.817662,48.56958",
     "geom:latitude":48.56958,
     "geom:longitude":7.817662,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr. 10",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897709,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119505045,
-    "wof:lastmodified":1449043083,
+    "wof:lastmodified":1466243637,
     "wof:name":"Bruno Dierle",
     "wof:parent_id":85897709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.817662,48.56958,7.817662,48.56958],
+  "bbox": [
+    7.817662,
+    48.56958,
+    7.817662,
+    48.56958
+],
   "geometry": {"coordinates":[7.817662,48.56958],"type":"Point"}
 }

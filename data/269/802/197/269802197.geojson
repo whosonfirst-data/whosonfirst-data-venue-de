@@ -2,13 +2,14 @@
   "id": 269802197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.604773,52.005825,8.604773,52.005825",
     "geom:latitude":52.005825,
     "geom:longitude":8.604773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meyer-zu-Stieghorst-Hof 3",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269802197,
-    "wof:lastmodified":1449038395,
+    "wof:lastmodified":1466228478,
     "wof:name":"Werner Meyer Zu Stieghorst",
     "wof:parent_id":85795475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.604773,52.005825,8.604773,52.005825],
+  "bbox": [
+    8.604773,
+    52.005825,
+    8.604773,
+    52.005825
+],
   "geometry": {"coordinates":[8.604773,52.005825],"type":"Point"}
 }

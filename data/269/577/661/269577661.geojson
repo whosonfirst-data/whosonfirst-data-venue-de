@@ -2,13 +2,14 @@
   "id": 269577661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.122136,49.985134,10.122136,49.985134",
     "geom:latitude":49.985134,
     "geom:longitude":10.122136,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ettlebener Str. 26",
     "sg:city":"Werneck",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269577661,
-    "wof:lastmodified":1449039063,
+    "wof:lastmodified":1466223070,
     "wof:name":"Peter Klenkert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.122136,49.985134,10.122136,49.985134],
+  "bbox": [
+    10.122136,
+    49.985134,
+    10.122136,
+    49.985134
+],
   "geometry": {"coordinates":[10.122136,49.985134],"type":"Point"}
 }

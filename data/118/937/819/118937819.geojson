@@ -2,13 +2,14 @@
   "id": 118937819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.184818,48.736259,11.184818,48.736259",
     "geom:latitude":48.736259,
     "geom:longitude":11.184818,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalplatz 195",
     "sg:city":"Neuburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118937819,
-    "wof:lastmodified":1449053410,
+    "wof:lastmodified":1466237311,
     "wof:name":"Spital-apotheke",
     "wof:parent_id":101782999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.184818,48.736259,11.184818,48.736259],
+  "bbox": [
+    11.184818,
+    48.736259,
+    11.184818,
+    48.736259
+],
   "geometry": {"coordinates":[11.184818,48.736259],"type":"Point"}
 }

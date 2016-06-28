@@ -2,13 +2,14 @@
   "id": 119524965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.715171,53.58416,9.715171,53.58416",
     "geom:latitude":53.58416,
     "geom:longitude":9.715171,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6llers Park 8",
     "sg:city":"Wedel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900247,
+        85682517,
         85633111,
         101806597,
         102064081,
-        85682517
+        85900247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119524965,
-    "wof:lastmodified":1449040864,
+    "wof:lastmodified":1466243762,
     "wof:name":"G. L\u00fcdtke",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.715171,53.58416,9.715171,53.58416],
+  "bbox": [
+    9.715171,
+    53.58416,
+    9.715171,
+    53.58416
+],
   "geometry": {"coordinates":[9.715171,53.58416],"type":"Point"}
 }

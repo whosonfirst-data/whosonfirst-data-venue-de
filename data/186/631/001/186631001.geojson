@@ -2,13 +2,14 @@
   "id": 186631001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.74003,48.558502,11.74003,48.558502",
     "geom:latitude":48.558502,
     "geom:longitude":11.74003,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hauptstr. 14",
     "sg:city":"Au",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186631001,
-    "wof:lastmodified":1449051206,
+    "wof:lastmodified":1466220489,
     "wof:name":"Josef Maier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.74003,48.558502,11.74003,48.558502],
+  "bbox": [
+    11.74003,
+    48.558502,
+    11.74003,
+    48.558502
+],
   "geometry": {"coordinates":[11.74003,48.558502],"type":"Point"}
 }

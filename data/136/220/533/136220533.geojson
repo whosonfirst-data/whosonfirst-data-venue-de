@@ -2,13 +2,14 @@
   "id": 136220533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.163605,51.78727,11.163605,51.78727",
     "geom:latitude":51.78727,
     "geom:longitude":11.163605,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boxhornschanzenweg 1",
     "sg:city":"Quedlinburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136220533,
-    "wof:lastmodified":1449076215,
+    "wof:lastmodified":1466222420,
     "wof:name":"Hohmann",
     "wof:parent_id":101820903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.163605,51.78727,11.163605,51.78727],
+  "bbox": [
+    11.163605,
+    51.78727,
+    11.163605,
+    51.78727
+],
   "geometry": {"coordinates":[11.163605,51.78727],"type":"Point"}
 }

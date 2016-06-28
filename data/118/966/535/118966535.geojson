@@ -2,13 +2,14 @@
   "id": 118966535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.018573,51.036846,7.018573,51.036846",
     "geom:latitude":51.036846,
     "geom:longitude":7.018573,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hemmelrather Weg 201",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863025,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85863025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118966535,
-    "wof:lastmodified":1449053159,
+    "wof:lastmodified":1466238374,
     "wof:name":"M\u00fcller Peuker Kampfer Landschaftsarchitekten",
     "wof:parent_id":85863025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.018573,51.036846,7.018573,51.036846],
+  "bbox": [
+    7.018573,
+    51.036846,
+    7.018573,
+    51.036846
+],
   "geometry": {"coordinates":[7.018573,51.036846],"type":"Point"}
 }

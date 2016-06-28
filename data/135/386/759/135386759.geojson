@@ -2,13 +2,14 @@
   "id": 135386759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.985886,44.669865,-74.985886,44.669865",
     "geom:latitude":44.669865,
     "geom:longitude":-74.985886,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Allee 40",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135386759,
-    "wof:lastmodified":1449022601,
+    "wof:lastmodified":1466221697,
     "wof:name":"Filmboard Berlin-brandenburg Gmbh",
     "wof:parent_id":85978687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.985886,44.669865,-74.985886,44.669865],
-  "geometry": {"coordinates":[-74.985886,44.669865],"type":"Point"}
+  "bbox": [
+    -74.985886,
+    44.669865,
+    -74.985886,
+    44.669865
+],
+  "geometry": {"coordinates":[-74.98588599999999,44.669865],"type":"Point"}
 }

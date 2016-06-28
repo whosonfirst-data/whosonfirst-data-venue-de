@@ -2,13 +2,14 @@
   "id": 135529035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.072979,51.176884,7.072979,51.176884",
     "geom:latitude":51.176884,
     "geom:longitude":7.072979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandstr. 16",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795449,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85795449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135529035,
-    "wof:lastmodified":1449022335,
+    "wof:lastmodified":1466234291,
     "wof:name":"K\u00f6nig",
     "wof:parent_id":85795449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.072979,51.176884,7.072979,51.176884],
+  "bbox": [
+    7.072979,
+    51.176884,
+    7.072979,
+    51.176884
+],
   "geometry": {"coordinates":[7.072979,51.176884],"type":"Point"}
 }

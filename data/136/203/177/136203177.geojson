@@ -2,13 +2,14 @@
   "id": 136203177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.607115,50.892296,11.607115,50.892296",
     "geom:latitude":50.892296,
     "geom:longitude":11.607115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausplatz 8",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136203177,
-    "wof:lastmodified":1449075497,
+    "wof:lastmodified":1466221372,
     "wof:name":"Ernst Pieper",
     "wof:parent_id":101748613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.607115,50.892296,11.607115,50.892296],
+  "bbox": [
+    11.607115,
+    50.892296,
+    11.607115,
+    50.892296
+],
   "geometry": {"coordinates":[11.607115,50.892296],"type":"Point"}
 }

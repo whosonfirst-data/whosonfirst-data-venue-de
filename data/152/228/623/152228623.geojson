@@ -2,13 +2,14 @@
   "id": 152228623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.219452,51.479664,7.219452,51.479664",
     "geom:latitude":51.479664,
     "geom:longitude":7.219452,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Huestr. 17-19",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152228623,
-    "wof:lastmodified":1449045749,
+    "wof:lastmodified":1466214647,
     "wof:name":"An Mode Designer Depot Gmbh",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.219452,51.479664,7.219452,51.479664],
+  "bbox": [
+    7.219452,
+    51.479664,
+    7.219452,
+    51.479664
+],
   "geometry": {"coordinates":[7.219452,51.479664],"type":"Point"}
 }

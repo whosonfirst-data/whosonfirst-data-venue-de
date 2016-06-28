@@ -2,13 +2,14 @@
   "id": 236497449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.493107,51.318359,9.493107,51.318359",
     "geom:latitude":51.318359,
     "geom:longitude":9.493107,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werner-Hilpert-Str. 17",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236497449,
-    "wof:lastmodified":1449005196,
+    "wof:lastmodified":1466227913,
     "wof:name":"Reitburg",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.493107,51.318359,9.493107,51.318359],
+  "bbox": [
+    9.493107,
+    51.318359,
+    9.493107,
+    51.318359
+],
   "geometry": {"coordinates":[9.493107,51.318359],"type":"Point"}
 }

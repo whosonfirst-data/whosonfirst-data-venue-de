@@ -2,13 +2,14 @@
   "id": 202413955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.871766,51.139805,9.871766,51.139805",
     "geom:latitude":51.139805,
     "geom:longitude":9.871766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Ebert-Str. 35",
     "sg:city":"Waldkappel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202413955,
-    "wof:lastmodified":1449060511,
+    "wof:lastmodified":1466214019,
     "wof:name":"Alexander Frank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.871766,51.139805,9.871766,51.139805],
+  "bbox": [
+    9.871766,
+    51.139805,
+    9.871766,
+    51.139805
+],
   "geometry": {"coordinates":[9.871766,51.139805],"type":"Point"}
 }

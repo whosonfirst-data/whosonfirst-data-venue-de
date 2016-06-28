@@ -2,13 +2,14 @@
   "id": 135909263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.447151,49.484379,8.447151,49.484379",
     "geom:latitude":49.484379,
     "geom:longitude":8.447151,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwigstr. 52",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135909263,
-    "wof:lastmodified":1449023278,
+    "wof:lastmodified":1466244548,
     "wof:name":"Sparkassenbeteiligungs- Gesellschaft Marktplatz-",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.447151,49.484379,8.447151,49.484379],
+  "bbox": [
+    8.447151,
+    49.484379,
+    8.447151,
+    49.484379
+],
   "geometry": {"coordinates":[8.447151,49.484379],"type":"Point"}
 }

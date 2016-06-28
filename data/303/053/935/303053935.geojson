@@ -2,13 +2,14 @@
   "id": 303053935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.45572,51.32222,12.45572,51.32222",
     "geom:latitude":51.32222,
     "geom:longitude":12.45572,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paunsdorfer Str. 85",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303053935,
-    "wof:lastmodified":1448998576,
+    "wof:lastmodified":1466225872,
     "wof:name":"Dieter Schreier",
     "wof:parent_id":85900289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.45572,51.32222,12.45572,51.32222],
+  "bbox": [
+    12.45572,
+    51.32222,
+    12.45572,
+    51.32222
+],
   "geometry": {"coordinates":[12.45572,51.32222],"type":"Point"}
 }

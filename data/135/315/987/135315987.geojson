@@ -2,13 +2,14 @@
   "id": 135315987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.029315,48.26569,13.029315,48.26569",
     "geom:latitude":48.26569,
     "geom:longitude":13.029315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Innstr. 31",
     "sg:city":"Simbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135315987,
-    "wof:lastmodified":1449023838,
+    "wof:lastmodified":1466215145,
     "wof:name":"Siegfried Zieringer",
     "wof:parent_id":101834011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.029315,48.26569,13.029315,48.26569],
+  "bbox": [
+    13.029315,
+    48.26569,
+    13.029315,
+    48.26569
+],
   "geometry": {"coordinates":[13.029315,48.26569],"type":"Point"}
 }

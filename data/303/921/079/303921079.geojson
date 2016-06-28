@@ -2,13 +2,14 @@
   "id": 303921079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.424473,48.76265,11.424473,48.76265",
     "geom:latitude":48.76265,
     "geom:longitude":11.424473,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sauerstr. 2",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303921079,
-    "wof:lastmodified":1448999688,
+    "wof:lastmodified":1466241389,
     "wof:name":"J. Schnieders",
     "wof:parent_id":85899417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.424473,48.76265,11.424473,48.76265],
+  "bbox": [
+    11.424473,
+    48.76265,
+    11.424473,
+    48.76265
+],
   "geometry": {"coordinates":[11.424473,48.76265],"type":"Point"}
 }

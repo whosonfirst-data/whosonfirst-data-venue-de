@@ -2,13 +2,14 @@
   "id": 303303245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.912554,51.47414,11.912554,51.47414",
     "geom:latitude":51.47414,
     "geom:longitude":11.912554,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wippraer Weg 4",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303303245,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1466231971,
     "wof:name":"Frank Funke",
     "wof:parent_id":85899241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.912554,51.47414,11.912554,51.47414],
+  "bbox": [
+    11.912554,
+    51.47414,
+    11.912554,
+    51.47414
+],
   "geometry": {"coordinates":[11.912554,51.47414],"type":"Point"}
 }

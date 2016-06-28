@@ -2,13 +2,14 @@
   "id": 303254133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.355405,49.047886,8.355405,49.047886",
     "geom:latitude":49.047886,
     "geom:longitude":8.355405,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der W\u00e4sserung 1",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303254133,
-    "wof:lastmodified":1448999798,
+    "wof:lastmodified":1466230768,
     "wof:name":"E.m.s. Deutschland Gmbh",
     "wof:parent_id":85796067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.355405,49.047886,8.355405,49.047886],
+  "bbox": [
+    8.355405,
+    49.047886,
+    8.355405,
+    49.047886
+],
   "geometry": {"coordinates":[8.355405,49.047886],"type":"Point"}
 }

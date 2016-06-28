@@ -2,13 +2,14 @@
   "id": 152262043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.13285,50.749863,7.13285,50.749863",
     "geom:latitude":50.749863,
     "geom:longitude":7.13285,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schnorrenbergstr. 34",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794887,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85794887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152262043,
-    "wof:lastmodified":1449047161,
+    "wof:lastmodified":1466215338,
     "wof:name":"Armin Sch\u00fcnemann",
     "wof:parent_id":85794887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.13285,50.749863,7.13285,50.749863],
+  "bbox": [
+    7.13285,
+    50.749863,
+    7.13285,
+    50.749863
+],
   "geometry": {"coordinates":[7.13285,50.749863],"type":"Point"}
 }

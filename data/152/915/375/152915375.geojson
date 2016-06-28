@@ -2,13 +2,14 @@
   "id": 152915375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.883367,51.094501,6.883367,51.094501",
     "geom:latitude":51.094501,
     "geom:longitude":6.883367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meisburgstr. 19",
     "sg:city":"Monheim a. Rhein",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063761,
-        85633111,
         85682513,
-        85796175
+        85633111,
+        85796175,
+        102063761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152915375,
-    "wof:lastmodified":1449048860,
+    "wof:lastmodified":1466229777,
     "wof:name":"Rechtsanwalt Stephan Szarvasy",
     "wof:parent_id":85796175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.883367,51.094501,6.883367,51.094501],
+  "bbox": [
+    6.883367,
+    51.094501,
+    6.883367,
+    51.094501
+],
   "geometry": {"coordinates":[6.883367,51.094501],"type":"Point"}
 }

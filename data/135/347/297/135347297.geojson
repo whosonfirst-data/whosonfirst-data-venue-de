@@ -2,13 +2,14 @@
   "id": 135347297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.589886,51.604492,7.589886,51.604492",
     "geom:latitude":51.604492,
     "geom:longitude":7.589886,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcnener Str. 26",
     "sg:city":"Bergkamen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063823,
-        85633111,
         85682513,
-        85796205
+        85633111,
+        85796205,
+        102063823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135347297,
-    "wof:lastmodified":1449022483,
+    "wof:lastmodified":1466217843,
     "wof:name":"K. H. Braune",
     "wof:parent_id":85796205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.589886,51.604492,7.589886,51.604492],
+  "bbox": [
+    7.589886,
+    51.604492,
+    7.589886,
+    51.604492
+],
   "geometry": {"coordinates":[7.589886,51.604492],"type":"Point"}
 }

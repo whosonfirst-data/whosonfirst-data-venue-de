@@ -2,13 +2,14 @@
   "id": 203351575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.091736,49.016834,12.091736,49.016834",
     "geom:latitude":49.016834,
     "geom:longitude":12.091736,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marschallstr. 10a",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203351575,
-    "wof:lastmodified":1449026563,
+    "wof:lastmodified":1466219680,
     "wof:name":"G. Eberl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.091736,49.016834,12.091736,49.016834],
+  "bbox": [
+    12.091736,
+    49.016834,
+    12.091736,
+    49.016834
+],
   "geometry": {"coordinates":[12.091736,49.016834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119387423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.478698,49.526493,8.478698,49.526493",
     "geom:latitude":49.526493,
     "geom:longitude":8.478698,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Roggenplatz 30",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795279,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85795279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119387423,
-    "wof:lastmodified":1449043173,
+    "wof:lastmodified":1466241137,
     "wof:name":"Werner Wellenreuther",
     "wof:parent_id":85795279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.478698,49.526493,8.478698,49.526493],
+  "bbox": [
+    8.478698,
+    49.526493,
+    8.478698,
+    49.526493
+],
   "geometry": {"coordinates":[8.478698,49.526493],"type":"Point"}
 }

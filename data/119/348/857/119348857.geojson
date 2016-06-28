@@ -2,13 +2,14 @@
   "id": 119348857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.60318,51.09343,13.60318,51.09343",
     "geom:latitude":51.09343,
     "geom:longitude":13.60318,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00e4nnichtgrundstr. 2",
     "sg:city":"Niederwartha",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:postcode":"01462",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064219,
-        85633111,
         85682523,
-        85899823
+        85633111,
+        85899823,
+        102064219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119348857,
-    "wof:lastmodified":1449041005,
+    "wof:lastmodified":1466239992,
     "wof:name":"Karin Parchow",
     "wof:parent_id":85899823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.60318,51.09343,13.60318,51.09343],
+  "bbox": [
+    13.60318,
+    51.09343,
+    13.60318,
+    51.09343
+],
   "geometry": {"coordinates":[13.60318,51.09343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118962651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.392812,49.526371,8.392812,49.526371",
     "geom:latitude":49.526371,
     "geom:longitude":8.392812,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenstr. 5",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118962651,
-    "wof:lastmodified":1449053982,
+    "wof:lastmodified":1466238398,
     "wof:name":"Bernd Mathes Garten-u.landschaftsarchitekt",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.392812,49.526371,8.392812,49.526371],
+  "bbox": [
+    8.392812,
+    49.526371,
+    8.392812,
+    49.526371
+],
   "geometry": {"coordinates":[8.392812,49.526371],"type":"Point"}
 }

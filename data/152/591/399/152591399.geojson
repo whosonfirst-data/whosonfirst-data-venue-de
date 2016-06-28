@@ -2,13 +2,14 @@
   "id": 152591399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4429,51.532497,7.4429,51.532497",
     "geom:latitude":51.532497,
     "geom:longitude":7.4429,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hartmannstr. 5",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795071,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152591399,
-    "wof:lastmodified":1449046773,
+    "wof:lastmodified":1466222308,
     "wof:name":"Heinz H\u00f6ing Gmbh",
     "wof:parent_id":85795071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4429,51.532497,7.4429,51.532497],
+  "bbox": [
+    7.4429,
+    51.532497,
+    7.4429,
+    51.532497
+],
   "geometry": {"coordinates":[7.4429,51.532497],"type":"Point"}
 }

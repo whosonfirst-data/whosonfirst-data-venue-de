@@ -2,13 +2,14 @@
   "id": 135353481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.981899,47.840206,12.981899,47.840206",
     "geom:latitude":47.840206,
     "geom:longitude":12.981899,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 4",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135353481,
-    "wof:lastmodified":1449021882,
+    "wof:lastmodified":1466218370,
     "wof:name":"Alfred Sinzinger",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.981899,47.840206,12.981899,47.840206],
+  "bbox": [
+    12.981899,
+    47.840206,
+    12.981899,
+    47.840206
+],
   "geometry": {"coordinates":[12.981899,47.840206],"type":"Point"}
 }

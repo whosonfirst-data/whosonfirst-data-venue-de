@@ -2,13 +2,14 @@
   "id": 119413145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.507476,52.438854,13.507476,52.438854",
     "geom:latitude":52.438854,
     "geom:longitude":13.507476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Segelfliegerdamm 87",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900085,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119413145,
-    "wof:lastmodified":1449041235,
+    "wof:lastmodified":1466241955,
     "wof:name":"Gdv-tischlerei Gmbh",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.507476,52.438854,13.507476,52.438854],
+  "bbox": [
+    13.507476,
+    52.438854,
+    13.507476,
+    52.438854
+],
   "geometry": {"coordinates":[13.507476,52.438854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119437473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.787299,51.044247,13.787299,51.044247",
     "geom:latitude":51.044247,
     "geom:longitude":13.787299,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eilenburger Str. 6",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900115,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119437473,
-    "wof:lastmodified":1449042800,
+    "wof:lastmodified":1466242584,
     "wof:name":"Meisterbetrieb Weber & Hilbert Naturb\u00f6den Gmbh",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.787299,51.044247,13.787299,51.044247],
+  "bbox": [
+    13.787299,
+    51.044247,
+    13.787299,
+    51.044247
+],
   "geometry": {"coordinates":[13.787299,51.044247],"type":"Point"}
 }

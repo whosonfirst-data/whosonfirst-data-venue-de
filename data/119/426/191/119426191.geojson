@@ -2,13 +2,14 @@
   "id": 119426191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.881751,53.567139,9.881751,53.567139",
     "geom:latitude":53.567139,
     "geom:longitude":9.881751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenst\u00fccken 8-10",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899221,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119426191,
-    "wof:lastmodified":1449041371,
+    "wof:lastmodified":1466242301,
     "wof:name":"Kleeworth Kg",
     "wof:parent_id":85899221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.881751,53.567139,9.881751,53.567139],
+  "bbox": [
+    9.881751,
+    53.567139,
+    9.881751,
+    53.567139
+],
   "geometry": {"coordinates":[9.881751,53.567139],"type":"Point"}
 }

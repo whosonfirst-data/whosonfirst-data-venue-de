@@ -2,13 +2,14 @@
   "id": 135804653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.900932,50.879238,6.900932,50.879238",
     "geom:latitude":50.879238,
     "geom:longitude":6.900932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Margueritenweg 2a",
     "sg:city":"H\u00fcrth",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862987,
+        85682513,
         85633111,
         101748639,
         102063709,
-        85682513
+        85862987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135804653,
-    "wof:lastmodified":1449023098,
+    "wof:lastmodified":1466244120,
     "wof:name":"Jocelyn Estrada Fashion Gmbh",
     "wof:parent_id":85862987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.900932,50.879238,6.900932,50.879238],
+  "bbox": [
+    6.900932,
+    50.879238,
+    6.900932,
+    50.879238
+],
   "geometry": {"coordinates":[6.900932,50.879238],"type":"Point"}
 }

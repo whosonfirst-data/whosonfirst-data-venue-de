@@ -2,13 +2,14 @@
   "id": 135437783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.729447,49.335861,10.729447,49.335861",
     "geom:latitude":49.335861,
     "geom:longitude":10.729447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 5",
     "sg:city":"Petersaurach",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135437783,
-    "wof:lastmodified":1449023182,
+    "wof:lastmodified":1466226103,
     "wof:name":"Sparkasse Heilsbronn",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.729447,49.335861,10.729447,49.335861],
+  "bbox": [
+    10.729447,
+    49.335861,
+    10.729447,
+    49.335861
+],
   "geometry": {"coordinates":[10.729447,49.335861],"type":"Point"}
 }

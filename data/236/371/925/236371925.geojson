@@ -2,13 +2,14 @@
   "id": 236371925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.806192,52.413429,10.806192,52.413429",
     "geom:latitude":52.413429,
     "geom:longitude":10.806192,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenweg 21",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236371925,
-    "wof:lastmodified":1449004360,
+    "wof:lastmodified":1466225639,
     "wof:name":"K. Hamann",
     "wof:parent_id":85905775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.806192,52.413429,10.806192,52.413429],
+  "bbox": [
+    10.806192,
+    52.413429,
+    10.806192,
+    52.413429
+],
   "geometry": {"coordinates":[10.806192,52.413429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336934661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.561332,48.137527,11.561332,48.137527",
     "geom:latitude":48.137527,
     "geom:longitude":11.561332,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanthalerstr. 22",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336934661,
-    "wof:lastmodified":1448996967,
+    "wof:lastmodified":1466239226,
     "wof:name":"Colibri",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.561332,48.137527,11.561332,48.137527],
+  "bbox": [
+    11.561332,
+    48.137527,
+    11.561332,
+    48.137527
+],
   "geometry": {"coordinates":[11.561332,48.137527],"type":"Point"}
 }

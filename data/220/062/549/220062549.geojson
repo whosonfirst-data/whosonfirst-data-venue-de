@@ -2,13 +2,14 @@
   "id": 220062549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.937408,51.363529,6.937408,51.363529",
     "geom:latitude":51.363529,
     "geom:longitude":6.937408,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 104",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220062549,
-    "wof:lastmodified":1449074832,
+    "wof:lastmodified":1466215798,
     "wof:name":"Cafe Kirschbaum",
     "wof:parent_id":85796621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.937408,51.363529,6.937408,51.363529],
+  "bbox": [
+    6.937408,
+    51.363529,
+    6.937408,
+    51.363529
+],
   "geometry": {"coordinates":[6.937408,51.363529],"type":"Point"}
 }

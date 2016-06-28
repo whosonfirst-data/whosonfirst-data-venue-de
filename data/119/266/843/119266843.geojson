@@ -2,13 +2,14 @@
   "id": 119266843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.38288,52.443062,13.38288,52.443062",
     "geom:latitude":52.443062,
     "geom:longitude":13.38288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richterstr. 62",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119266843,
-    "wof:lastmodified":1449040968,
+    "wof:lastmodified":1466235278,
     "wof:name":"Dr. Med. Peter Scholz",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.38288,52.443062,13.38288,52.443062],
+  "bbox": [
+    13.38288,
+    52.443062,
+    13.38288,
+    52.443062
+],
   "geometry": {"coordinates":[13.38288,52.443062],"type":"Point"}
 }

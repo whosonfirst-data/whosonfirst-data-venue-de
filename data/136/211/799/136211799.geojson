@@ -2,13 +2,14 @@
   "id": 136211799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.562468,52.233688,10.562468,52.233688",
     "geom:latitude":52.233688,
     "geom:longitude":10.562468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Malerweg 1",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905757,
+        85682555,
         85633111,
         101748797,
         102063903,
-        85682555
+        85905757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136211799,
-    "wof:lastmodified":1449075228,
+    "wof:lastmodified":1466221896,
     "wof:name":"G\u00fcnter Schlotzhauer",
     "wof:parent_id":85905757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.562468,52.233688,10.562468,52.233688],
+  "bbox": [
+    10.562468,
+    52.233688,
+    10.562468,
+    52.233688
+],
   "geometry": {"coordinates":[10.562468,52.233688],"type":"Point"}
 }

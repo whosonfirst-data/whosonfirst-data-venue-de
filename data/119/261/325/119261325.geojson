@@ -2,13 +2,14 @@
   "id": 119261325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.07171,54.134979,12.07171,54.134979",
     "geom:latitude":54.134979,
     "geom:longitude":12.07171,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vitus-Bering-Str. 33",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064115,
-        85633111,
         85682487,
-        85900019
+        85633111,
+        85900019,
+        102064115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119261325,
-    "wof:lastmodified":1449040922,
+    "wof:lastmodified":1466234750,
     "wof:name":"Dr. Med. Hans Troeger",
     "wof:parent_id":85900019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.07171,54.134979,12.07171,54.134979],
+  "bbox": [
+    12.07171,
+    54.134979,
+    12.07171,
+    54.134979
+],
   "geometry": {"coordinates":[12.07171,54.134979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303594735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.562305,48.131077,11.562305,48.131077",
     "geom:latitude":48.131077,
     "geom:longitude":11.562305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rothmundstr. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303594735,
-    "wof:lastmodified":1448998472,
+    "wof:lastmodified":1466237873,
     "wof:name":"M. Welsch",
     "wof:parent_id":85905609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.562305,48.131077,11.562305,48.131077],
+  "bbox": [
+    11.562305,
+    48.131077,
+    11.562305,
+    48.131077
+],
   "geometry": {"coordinates":[11.562305,48.131077],"type":"Point"}
 }

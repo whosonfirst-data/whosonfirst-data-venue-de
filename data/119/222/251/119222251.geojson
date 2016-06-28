@@ -2,13 +2,14 @@
   "id": 119222251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.390365,51.257816,6.390365,51.257816",
     "geom:latitude":51.257816,
     "geom:longitude":6.390365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausmarkt 3",
     "sg:city":"Viersen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796257,
+        85682513,
         85633111,
         101748689,
         102063773,
-        85682513
+        85796257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119222251,
-    "wof:lastmodified":1449042661,
+    "wof:lastmodified":1466230866,
     "wof:name":"Kreis Viersen Verwaltungsb\u00fccherei",
     "wof:parent_id":85796257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.390365,51.257816,6.390365,51.257816],
+  "bbox": [
+    6.390365,
+    51.257816,
+    6.390365,
+    51.257816
+],
   "geometry": {"coordinates":[6.390365,51.257816],"type":"Point"}
 }

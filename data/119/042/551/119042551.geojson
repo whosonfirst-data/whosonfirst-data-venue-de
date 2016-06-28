@@ -2,13 +2,14 @@
   "id": 119042551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.44978,48.144466,11.44978,48.144466",
     "geom:latitude":48.144466,
     "geom:longitude":11.44978,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-H\u00f6sch-Str. 17",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119042551,
-    "wof:lastmodified":1449042870,
+    "wof:lastmodified":1466214700,
     "wof:name":"Heinrich Jakob Fremmer Architekt",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.44978,48.144466,11.44978,48.144466],
+  "bbox": [
+    11.44978,
+    48.144466,
+    11.44978,
+    48.144466
+],
   "geometry": {"coordinates":[11.44978,48.144466],"type":"Point"}
 }

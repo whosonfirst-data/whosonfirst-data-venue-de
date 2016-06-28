@@ -2,13 +2,14 @@
   "id": 119521385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.50342,50.031605,10.50342,50.031605",
     "geom:latitude":50.031605,
     "geom:longitude":10.50342,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 80",
     "sg:city":"Ha\u00dffurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119521385,
-    "wof:lastmodified":1449043429,
+    "wof:lastmodified":1466243845,
     "wof:name":"Franz J\u00fcngling",
     "wof:parent_id":101825933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.50342,50.031605,10.50342,50.031605],
+  "bbox": [
+    10.50342,
+    50.031605,
+    10.50342,
+    50.031605
+],
   "geometry": {"coordinates":[10.50342,50.031605],"type":"Point"}
 }

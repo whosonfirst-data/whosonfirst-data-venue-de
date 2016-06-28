@@ -2,13 +2,14 @@
   "id": 102700155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.469625,53.589306,11.469625,53.589306",
     "geom:latitude":53.589306,
     "geom:longitude":11.469625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Schwerin",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102700155,
-    "wof:lastmodified":1449069985,
+    "wof:lastmodified":1466216133,
     "wof:name":"Dede Com",
     "wof:parent_id":101748851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.469625,53.589306,11.469625,53.589306],
+  "bbox": [
+    11.469625,
+    53.589306,
+    11.469625,
+    53.589306
+],
   "geometry": {"coordinates":[11.469625,53.589306],"type":"Point"}
 }

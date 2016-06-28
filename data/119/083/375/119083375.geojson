@@ -2,13 +2,14 @@
   "id": 119083375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.287848,51.336853,7.287848,51.336853",
     "geom:latitude":51.336853,
     "geom:longitude":7.287848,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oststr. 73",
     "sg:city":"Sprockh\u00f6vel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85796401
+        85633111,
+        85796401,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119083375,
-    "wof:lastmodified":1449042092,
+    "wof:lastmodified":1466218503,
     "wof:name":"Klaus-hubert Preiss Innenarchitekt",
     "wof:parent_id":85796401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.287848,51.336853,7.287848,51.336853],
+  "bbox": [
+    7.287848,
+    51.336853,
+    7.287848,
+    51.336853
+],
   "geometry": {"coordinates":[7.287848,51.336853],"type":"Point"}
 }

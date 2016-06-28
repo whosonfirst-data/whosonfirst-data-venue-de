@@ -2,13 +2,14 @@
   "id": 136197547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.327975,51.336872,12.327975,51.336872",
     "geom:latitude":51.336872,
     "geom:longitude":12.327975,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merseburger Str. 95",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136197547,
-    "wof:lastmodified":1449076096,
+    "wof:lastmodified":1466221045,
     "wof:name":"Detlef Winkler",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.327975,51.336872,12.327975,51.336872],
+  "bbox": [
+    12.327975,
+    51.336872,
+    12.327975,
+    51.336872
+],
   "geometry": {"coordinates":[12.327975,51.336872],"type":"Point"}
 }

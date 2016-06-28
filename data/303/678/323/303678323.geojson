@@ -2,13 +2,14 @@
   "id": 303678323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.879091,52.608723,12.879091,52.608723",
     "geom:latitude":52.608723,
     "geom:longitude":12.879091,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammstr. 6",
     "sg:city":"Nauen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303678323,
-    "wof:lastmodified":1448999296,
+    "wof:lastmodified":1466239036,
     "wof:name":"Hartmut Herrmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.879091,52.608723,12.879091,52.608723],
+  "bbox": [
+    12.879091,
+    52.608723,
+    12.879091,
+    52.608723
+],
   "geometry": {"coordinates":[12.879091,52.608723],"type":"Point"}
 }

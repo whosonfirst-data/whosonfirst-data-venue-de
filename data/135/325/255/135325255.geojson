@@ -2,13 +2,14 @@
   "id": 135325255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.731275,52.010872,11.731275,52.010872",
     "geom:latitude":52.010872,
     "geom:longitude":11.731275,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstr. 39",
     "sg:city":"Sch\u00f6nebeck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135325255,
-    "wof:lastmodified":1449022191,
+    "wof:lastmodified":1466215946,
     "wof:name":"Werner Heupke",
     "wof:parent_id":101821037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.731275,52.010872,11.731275,52.010872],
+  "bbox": [
+    11.731275,
+    52.010872,
+    11.731275,
+    52.010872
+],
   "geometry": {"coordinates":[11.731275,52.010872],"type":"Point"}
 }

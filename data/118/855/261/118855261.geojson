@@ -2,13 +2,14 @@
   "id": 118855261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.612307,48.729462,9.612307,48.729462",
     "geom:latitude":48.729462,
     "geom:longitude":9.612307,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 93",
     "sg:city":"Wangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118855261,
-    "wof:lastmodified":1449054176,
+    "wof:lastmodified":1466233112,
     "wof:name":"Wangener-apotheke",
     "wof:parent_id":101761757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.612307,48.729462,9.612307,48.729462],
+  "bbox": [
+    9.612307,
+    48.729462,
+    9.612307,
+    48.729462
+],
   "geometry": {"coordinates":[9.612307,48.729462],"type":"Point"}
 }

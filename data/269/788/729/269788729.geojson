@@ -2,13 +2,14 @@
   "id": 269788729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.165389,49.18552,8.165389,49.18552",
     "geom:latitude":49.18552,
     "geom:longitude":8.165389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6rlheimer Hauptstr. 130",
     "sg:city":"Landau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269788729,
-    "wof:lastmodified":1449037379,
+    "wof:lastmodified":1466228180,
     "wof:name":"Werner Fried",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.165389,49.18552,8.165389,49.18552],
+  "bbox": [
+    8.165389,
+    49.18552,
+    8.165389,
+    49.18552
+],
   "geometry": {"coordinates":[8.165389,49.18552],"type":"Point"}
 }

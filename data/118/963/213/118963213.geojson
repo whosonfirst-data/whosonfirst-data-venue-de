@@ -2,13 +2,14 @@
   "id": 118963213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.689792,51.009262,13.689792,51.009262",
     "geom:latitude":51.009262,
     "geom:longitude":13.689792,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-B\u00fcttner-Str. 17",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899075,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118963213,
-    "wof:lastmodified":1449053283,
+    "wof:lastmodified":1466238268,
     "wof:name":"Detlef Thiel Garten- Und Landschafts-",
     "wof:parent_id":85899075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.689792,51.009262,13.689792,51.009262],
+  "bbox": [
+    13.689792,
+    51.009262,
+    13.689792,
+    51.009262
+],
   "geometry": {"coordinates":[13.689792,51.009262],"type":"Point"}
 }

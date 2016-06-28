@@ -2,13 +2,14 @@
   "id": 253353695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40203,49.925331,8.40203,49.925331",
     "geom:latitude":49.925331,
     "geom:longitude":8.40203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 49",
     "sg:city":"Trebur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253353695,
-    "wof:lastmodified":1449063660,
+    "wof:lastmodified":1466225939,
     "wof:name":"Johann Jung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40203,49.925331,8.40203,49.925331],
+  "bbox": [
+    8.40203,
+    49.925331,
+    8.40203,
+    49.925331
+],
   "geometry": {"coordinates":[8.40203,49.925331],"type":"Point"}
 }

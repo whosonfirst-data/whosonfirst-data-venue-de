@@ -2,13 +2,14 @@
   "id": 102735965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.04087,49.457329,11.04087,49.457329",
     "geom:latitude":49.457329,
     "geom:longitude":11.04087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"N\u00fcrnberg - M\u00fcnchen - Hamburg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899667,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102735965,
-    "wof:lastmodified":1449070158,
+    "wof:lastmodified":1466217355,
     "wof:name":"Showtreff Das Branchenverzeichnis F\u00fcr\u00b4s Showbusiness",
     "wof:parent_id":85899667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.04087,49.457329,11.04087,49.457329],
+  "bbox": [
+    11.04087,
+    49.457329,
+    11.04087,
+    49.457329
+],
   "geometry": {"coordinates":[11.04087,49.457329],"type":"Point"}
 }

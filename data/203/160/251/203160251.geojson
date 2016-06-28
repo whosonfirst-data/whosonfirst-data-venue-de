@@ -2,13 +2,14 @@
   "id": 203160251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.619677,48.198387,11.619677,48.198387",
     "geom:latitude":48.198387,
     "geom:longitude":11.619677,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boxberger Str. 4",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203160251,
-    "wof:lastmodified":1449026542,
+    "wof:lastmodified":1466216543,
     "wof:name":"Christian Schindler",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.619677,48.198387,11.619677,48.198387],
+  "bbox": [
+    11.619677,
+    48.198387,
+    11.619677,
+    48.198387
+],
   "geometry": {"coordinates":[11.619677,48.198387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152297889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.318519,52.161415,10.318519,52.161415",
     "geom:latitude":52.161415,
     "geom:longitude":10.318519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nei\u00dfestr. 8",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899431,
+        85682555,
         85633111,
         101748779,
         102063885,
-        85682555
+        85899431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152297889,
-    "wof:lastmodified":1449047237,
+    "wof:lastmodified":1466216110,
     "wof:name":"Tip-top",
     "wof:parent_id":85899431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.318519,52.161415,10.318519,52.161415],
+  "bbox": [
+    10.318519,
+    52.161415,
+    10.318519,
+    52.161415
+],
   "geometry": {"coordinates":[10.318519,52.161415],"type":"Point"}
 }

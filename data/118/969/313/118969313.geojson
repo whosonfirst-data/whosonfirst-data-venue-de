@@ -2,13 +2,14 @@
   "id": 118969313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.097315,52.376793,13.097315,52.376793",
     "geom:latitude":52.376793,
     "geom:longitude":13.097315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenhof 22",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928761,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85928761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118969313,
-    "wof:lastmodified":1449053479,
+    "wof:lastmodified":1466238420,
     "wof:name":"A. Fr\u00f6bel Innenarchitekt",
     "wof:parent_id":85928761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.097315,52.376793,13.097315,52.376793],
+  "bbox": [
+    13.097315,
+    52.376793,
+    13.097315,
+    52.376793
+],
   "geometry": {"coordinates":[13.097315,52.376793],"type":"Point"}
 }

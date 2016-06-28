@@ -2,13 +2,14 @@
   "id": 152621941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.825451,51.057156,13.825451,51.057156",
     "geom:latitude":51.057156,
     "geom:longitude":13.825451,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wuttkestr. 7 a",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900197,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152621941,
-    "wof:lastmodified":1449048371,
+    "wof:lastmodified":1466222969,
     "wof:name":"Rossmann & Partner Verwaltungs- Und Gesch\u00e4fts-",
     "wof:parent_id":85900197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.825451,51.057156,13.825451,51.057156],
+  "bbox": [
+    13.825451,
+    51.057156,
+    13.825451,
+    51.057156
+],
   "geometry": {"coordinates":[13.825451,51.057156],"type":"Point"}
 }

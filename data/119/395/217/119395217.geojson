@@ -2,13 +2,14 @@
   "id": 119395217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.99886,53.550045,9.99886,53.550045",
     "geom:latitude":53.550045,
     "geom:longitude":9.99886,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Speersort 4-6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119395217,
-    "wof:lastmodified":1449043135,
+    "wof:lastmodified":1466241309,
     "wof:name":"Drinkuth Produktions- Service- Und Vertriebsgesellschaft Mbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.99886,53.550045,9.99886,53.550045],
+  "bbox": [
+    9.99886,
+    53.550045,
+    9.99886,
+    53.550045
+],
   "geometry": {"coordinates":[9.99886,53.550045],"type":"Point"}
 }

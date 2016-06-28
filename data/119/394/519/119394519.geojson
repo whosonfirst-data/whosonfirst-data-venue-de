@@ -2,13 +2,14 @@
   "id": 119394519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.412217,51.342205,12.412217,51.342205",
     "geom:latitude":51.342205,
     "geom:longitude":12.412217,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wurzner Str. 62",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119394519,
-    "wof:lastmodified":1449041337,
+    "wof:lastmodified":1466241430,
     "wof:name":"Ideal Fenstersysteme Vertriebsgesellschaft Mbh",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.412217,51.342205,12.412217,51.342205],
+  "bbox": [
+    12.412217,
+    51.342205,
+    12.412217,
+    51.342205
+],
   "geometry": {"coordinates":[12.412217,51.342205],"type":"Point"}
 }

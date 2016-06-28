@@ -2,13 +2,14 @@
   "id": 119387201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.393328,48.20554,12.393328,48.20554",
     "geom:latitude":48.20554,
     "geom:longitude":12.393328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschberger Str. 9",
     "sg:city":"Waldkraiburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119387201,
-    "wof:lastmodified":1449043176,
+    "wof:lastmodified":1466241208,
     "wof:name":"Werner Seitz",
     "wof:parent_id":101780677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.393328,48.20554,12.393328,48.20554],
+  "bbox": [
+    12.393328,
+    48.20554,
+    12.393328,
+    48.20554
+],
   "geometry": {"coordinates":[12.393328,48.20554],"type":"Point"}
 }

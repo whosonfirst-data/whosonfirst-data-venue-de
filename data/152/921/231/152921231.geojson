@@ -2,13 +2,14 @@
   "id": 152921231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.232555,48.777161,9.232555,48.777161",
     "geom:latitude":48.777161,
     "geom:longitude":9.232555,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00e4hterstr. 127",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795273,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152921231,
-    "wof:lastmodified":1449047264,
+    "wof:lastmodified":1466229922,
     "wof:name":"Rfp Reinungsservice F\u00fcr Parkuhren",
     "wof:parent_id":85795273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.232555,48.777161,9.232555,48.777161],
+  "bbox": [
+    9.232555,
+    48.777161,
+    9.232555,
+    48.777161
+],
   "geometry": {"coordinates":[9.232555,48.777161],"type":"Point"}
 }

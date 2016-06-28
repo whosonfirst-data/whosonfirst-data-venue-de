@@ -2,13 +2,14 @@
   "id": 118644451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.221538,52.526463,13.221538,52.526463",
     "geom:latitude":52.526463,
     "geom:longitude":13.221538,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stichstr. 1",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899979,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499,
+        85899979,
         85900143
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118644451,
-    "wof:lastmodified":1449053950,
+    "wof:lastmodified":1466220786,
     "wof:name":"St\u00e4dtische Senioren- Einrichtungen Spandau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.221538,52.526463,13.221538,52.526463],
+  "bbox": [
+    13.221538,
+    52.526463,
+    13.221538,
+    52.526463
+],
   "geometry": {"coordinates":[13.221538,52.526463],"type":"Point"}
 }

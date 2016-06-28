@@ -2,13 +2,14 @@
   "id": 286372835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.873137,49.441929,11.873137,49.441929",
     "geom:latitude":49.441929,
     "geom:longitude":11.873137,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensburger Str. 33",
     "sg:city":"Amberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286372835,
-    "wof:lastmodified":1449016984,
+    "wof:lastmodified":1466227170,
     "wof:name":"Hans G\u00f6tz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.873137,49.441929,11.873137,49.441929],
+  "bbox": [
+    11.873137,
+    49.441929,
+    11.873137,
+    49.441929
+],
   "geometry": {"coordinates":[11.873137,49.441929],"type":"Point"}
 }

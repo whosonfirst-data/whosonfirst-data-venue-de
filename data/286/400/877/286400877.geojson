@@ -2,13 +2,14 @@
   "id": 286400877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.138382,53.184269,13.138382,53.184269",
     "geom:latitude":53.184269,
     "geom:longitude":13.138382,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schliemannstr. 1",
     "sg:city":"F\u00fcrstenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286400877,
-    "wof:lastmodified":1449015469,
+    "wof:lastmodified":1466227801,
     "wof:name":"T. Burmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.138382,53.184269,13.138382,53.184269],
+  "bbox": [
+    13.138382,
+    53.184269,
+    13.138382,
+    53.184269
+],
   "geometry": {"coordinates":[13.138382,53.184269],"type":"Point"}
 }

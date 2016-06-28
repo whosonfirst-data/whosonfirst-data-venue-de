@@ -2,13 +2,14 @@
   "id": 253242245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.628177,48.101585,11.628177,48.101585",
     "geom:latitude":48.101585,
     "geom:longitude":11.628177,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ottobrunner Str. 133",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253242245,
-    "wof:lastmodified":1449065427,
+    "wof:lastmodified":1466223893,
     "wof:name":"Hieronymus Engel",
     "wof:parent_id":85899887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.628177,48.101585,11.628177,48.101585],
+  "bbox": [
+    11.628177,
+    48.101585,
+    11.628177,
+    48.101585
+],
   "geometry": {"coordinates":[11.628177,48.101585],"type":"Point"}
 }

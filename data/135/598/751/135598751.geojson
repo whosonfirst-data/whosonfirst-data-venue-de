@@ -2,13 +2,14 @@
   "id": 135598751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.751095,50.805538,12.751095,50.805538",
     "geom:latitude":50.805538,
     "geom:longitude":12.751095,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberlungwitzer Str. 12",
     "sg:city":"Hohenstein-Ernstthal",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135598751,
-    "wof:lastmodified":1449021145,
+    "wof:lastmodified":1466239041,
     "wof:name":"Martin Koch",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.751095,50.805538,12.751095,50.805538],
+  "bbox": [
+    12.751095,
+    50.805538,
+    12.751095,
+    50.805538
+],
   "geometry": {"coordinates":[12.751095,50.805538],"type":"Point"}
 }

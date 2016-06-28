@@ -2,13 +2,14 @@
   "id": 202622253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21516,48.752331,9.21516,48.752331",
     "geom:latitude":48.752331,
     "geom:longitude":9.21516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buowaldstr. 33",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202622253,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466218025,
     "wof:name":"Lindenmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21516,48.752331,9.21516,48.752331],
+  "bbox": [
+    9.21516,
+    48.752331,
+    9.21516,
+    48.752331
+],
   "geometry": {"coordinates":[9.21516,48.752331],"type":"Point"}
 }

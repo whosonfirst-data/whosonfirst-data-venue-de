@@ -2,13 +2,14 @@
   "id": 118892129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.953655,49.241718,6.953655,49.241718",
     "geom:latitude":49.241718,
     "geom:longitude":6.953655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breite Str. 35",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795927,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85795927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118892129,
-    "wof:lastmodified":1449053351,
+    "wof:lastmodified":1466235393,
     "wof:name":"Gr\u00fcne-apotheke P\u00e4chter Karlheinz Esser",
     "wof:parent_id":85795927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.953655,49.241718,6.953655,49.241718],
+  "bbox": [
+    6.953655,
+    49.241718,
+    6.953655,
+    49.241718
+],
   "geometry": {"coordinates":[6.953655,49.241718],"type":"Point"}
 }

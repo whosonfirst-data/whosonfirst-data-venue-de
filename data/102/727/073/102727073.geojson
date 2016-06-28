@@ -2,13 +2,14 @@
   "id": 102727073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.927877,53.556107,9.927877,53.556107",
     "geom:latitude":53.556107,
     "geom:longitude":9.927877,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Barnerstr 42",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102727073,
-    "wof:lastmodified":1449068161,
+    "wof:lastmodified":1466216910,
     "wof:name":"Nobels Electronics",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.927877,53.556107,9.927877,53.556107],
+  "bbox": [
+    9.927877,
+    53.556107,
+    9.927877,
+    53.556107
+],
   "geometry": {"coordinates":[9.927877,53.556107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152617141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.514553,51.958843,7.514553,51.958843",
     "geom:latitude":51.958843,
     "geom:longitude":7.514553,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im R\u00fcschenfeld 43",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063863,
-        85633111,
         85682513,
-        85796419
+        85633111,
+        85796419,
+        102063863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152617141,
-    "wof:lastmodified":1449044452,
+    "wof:lastmodified":1466222856,
     "wof:name":"Cs Verwaltungs- Gmbh",
     "wof:parent_id":85796419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.514553,51.958843,7.514553,51.958843],
+  "bbox": [
+    7.514553,
+    51.958843,
+    7.514553,
+    51.958843
+],
   "geometry": {"coordinates":[7.514553,51.958843],"type":"Point"}
 }

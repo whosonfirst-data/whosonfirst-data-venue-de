@@ -2,13 +2,14 @@
   "id": 303355195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.55205,50.948021,7.55205,50.948021",
     "geom:latitude":50.948021,
     "geom:longitude":7.55205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 12",
     "sg:city":"Wiehl",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303355195,
-    "wof:lastmodified":1448998795,
+    "wof:lastmodified":1466235493,
     "wof:name":"Paul Schmitz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.55205,50.948021,7.55205,50.948021],
+  "bbox": [
+    7.55205,
+    50.948021,
+    7.55205,
+    50.948021
+],
   "geometry": {"coordinates":[7.55205,50.948021],"type":"Point"}
 }

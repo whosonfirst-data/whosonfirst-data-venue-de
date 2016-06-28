@@ -2,13 +2,14 @@
   "id": 135551357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.77168,51.05241,13.77168,51.05241",
     "geom:latitude":51.05241,
     "geom:longitude":13.77168,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Wohnheim 2",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905667,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135551357,
-    "wof:lastmodified":1449021585,
+    "wof:lastmodified":1466236010,
     "wof:name":"Grundst\u00fccksges. L\u00f6bauerstr. 18 Dresden Mbh",
     "wof:parent_id":85905667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.77168,51.05241,13.77168,51.05241],
+  "bbox": [
+    13.77168,
+    51.05241,
+    13.77168,
+    51.05241
+],
   "geometry": {"coordinates":[13.77168,51.05241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303695965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526013,49.057766,8.526013,49.057766",
     "geom:latitude":49.057766,
     "geom:longitude":8.526013,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6hefeldstr. 24",
     "sg:city":"Weingarten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303695965,
-    "wof:lastmodified":1448999044,
+    "wof:lastmodified":1466239312,
     "wof:name":"Remmers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526013,49.057766,8.526013,49.057766],
+  "bbox": [
+    8.526013,
+    49.057766,
+    8.526013,
+    49.057766
+],
   "geometry": {"coordinates":[8.526013,49.057766],"type":"Point"}
 }

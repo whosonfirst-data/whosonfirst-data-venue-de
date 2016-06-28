@@ -2,13 +2,14 @@
   "id": 136175357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.83489,53.593895,9.83489,53.593895",
     "geom:latitude":53.593895,
     "geom:longitude":9.83489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osterbrooksweg 38-40",
     "sg:city":"Schenefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899299,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136175357,
-    "wof:lastmodified":1449075849,
+    "wof:lastmodified":1466219944,
     "wof:name":"Heinz E. Ebel Schilderfabrik Industriegravuren Gmbh",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.83489,53.593895,9.83489,53.593895],
+  "bbox": [
+    9.83489,
+    53.593895,
+    9.83489,
+    53.593895
+],
   "geometry": {"coordinates":[9.83489,53.593895],"type":"Point"}
 }

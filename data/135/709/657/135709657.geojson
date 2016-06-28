@@ -2,13 +2,14 @@
   "id": 135709657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.046151,51.417095,7.046151,51.417095",
     "geom:latitude":51.417095,
     "geom:longitude":7.046151,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantorie 101",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795403,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135709657,
-    "wof:lastmodified":1449021577,
+    "wof:lastmodified":1466242702,
     "wof:name":"Land Immobilien Gmbh",
     "wof:parent_id":85795403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.046151,51.417095,7.046151,51.417095],
+  "bbox": [
+    7.046151,
+    51.417095,
+    7.046151,
+    51.417095
+],
   "geometry": {"coordinates":[7.046151,51.417095],"type":"Point"}
 }

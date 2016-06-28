@@ -2,13 +2,14 @@
   "id": 152626399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.050646,54.138016,12.050646,54.138016",
     "geom:latitude":54.138016,
     "geom:longitude":12.050646,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Warnowallee 5",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064115,
-        85633111,
         85682487,
-        85900019
+        85633111,
+        85900019,
+        102064115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152626399,
-    "wof:lastmodified":1449048901,
+    "wof:lastmodified":1466223058,
     "wof:name":"Beteiligungsgesellschaft Modern Games Casino Mbh",
     "wof:parent_id":85900019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.050646,54.138016,12.050646,54.138016],
+  "bbox": [
+    12.050646,
+    54.138016,
+    12.050646,
+    54.138016
+],
   "geometry": {"coordinates":[12.050646,54.138016],"type":"Point"}
 }

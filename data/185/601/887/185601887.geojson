@@ -2,13 +2,14 @@
   "id": 185601887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.315552,47.724827,10.315552,47.724827",
     "geom:latitude":47.724827,
     "geom:longitude":10.315552,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischerstr. 7",
     "sg:city":"Kempten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185601887,
-    "wof:lastmodified":1449007335,
+    "wof:lastmodified":1466213159,
     "wof:name":"M. Geiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.315552,47.724827,10.315552,47.724827],
+  "bbox": [
+    10.315552,
+    47.724827,
+    10.315552,
+    47.724827
+],
   "geometry": {"coordinates":[10.315552,47.724827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303469223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.167991,48.747757,9.167991,48.747757",
     "geom:latitude":48.747757,
     "geom:longitude":9.167991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rubensstr. 23",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303469223,
-    "wof:lastmodified":1449000628,
+    "wof:lastmodified":1466235941,
     "wof:name":"Heinrich Haug",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.167991,48.747757,9.167991,48.747757],
+  "bbox": [
+    9.167991,
+    48.747757,
+    9.167991,
+    48.747757
+],
   "geometry": {"coordinates":[9.167991,48.747757],"type":"Point"}
 }

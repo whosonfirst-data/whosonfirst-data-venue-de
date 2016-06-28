@@ -2,13 +2,14 @@
   "id": 135447731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.76042,49.44207,7.76042,49.44207",
     "geom:latitude":49.44207,
     "geom:longitude":7.76042,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1307:: 67603 Kaiserslautern:: Germany.^^Stiftsplatz 10::",
     "sg:city":"Kaiserslautern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135447731,
-    "wof:lastmodified":1449023129,
+    "wof:lastmodified":1466226972,
     "wof:name":"Stadtsparkasse Kaiserslautern",
     "wof:parent_id":101748541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.76042,49.44207,7.76042,49.44207],
+  "bbox": [
+    7.76042,
+    49.44207,
+    7.76042,
+    49.44207
+],
   "geometry": {"coordinates":[7.76042,49.44207],"type":"Point"}
 }

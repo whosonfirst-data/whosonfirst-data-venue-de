@@ -2,13 +2,14 @@
   "id": 286509243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.103205,50.810123,13.103205,50.810123",
     "geom:latitude":50.810123,
     "geom:longitude":13.103205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eppendorfer Str. 4a",
     "sg:city":"Augustusburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286509243,
-    "wof:lastmodified":1449015280,
+    "wof:lastmodified":1466230345,
     "wof:name":"Lange",
     "wof:parent_id":85899377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.103205,50.810123,13.103205,50.810123],
+  "bbox": [
+    13.103205,
+    50.810123,
+    13.103205,
+    50.810123
+],
   "geometry": {"coordinates":[13.103205,50.810123],"type":"Point"}
 }

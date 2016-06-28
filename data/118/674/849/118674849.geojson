@@ -2,13 +2,14 @@
   "id": 118674849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.239868,51.14283,7.239868,51.14283",
     "geom:latitude":51.14283,
     "geom:longitude":7.239868,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Handelsstr 5",
     "sg:city":"Wermelskirchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85794915
+        85633111,
+        85794915,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118674849,
-    "wof:lastmodified":1449054190,
+    "wof:lastmodified":1466222428,
     "wof:name":"Suer Nutzfahrzeugtechnik Gmbh & Co Kg",
     "wof:parent_id":85794915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.239868,51.14283,7.239868,51.14283],
+  "bbox": [
+    7.239868,
+    51.14283,
+    7.239868,
+    51.14283
+],
   "geometry": {"coordinates":[7.239868,51.14283],"type":"Point"}
 }

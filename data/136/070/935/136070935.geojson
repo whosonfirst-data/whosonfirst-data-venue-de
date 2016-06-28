@@ -2,13 +2,14 @@
   "id": 136070935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.012344,51.528095,7.012344,51.528095",
     "geom:latitude":51.528095,
     "geom:longitude":7.012344,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heisterholz 79",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794823,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136070935,
-    "wof:lastmodified":1449075539,
+    "wof:lastmodified":1466215406,
     "wof:name":"Herzlich Willkommen Bei Ulrich Kalinke",
     "wof:parent_id":85794823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.012344,51.528095,7.012344,51.528095],
+  "bbox": [
+    7.012344,
+    51.528095,
+    7.012344,
+    51.528095
+],
   "geometry": {"coordinates":[7.012344,51.528095],"type":"Point"}
 }

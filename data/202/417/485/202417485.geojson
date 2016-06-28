@@ -2,13 +2,14 @@
   "id": 202417485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.276895,52.742477,8.276895,52.742477",
     "geom:latitude":52.742477,
     "geom:longitude":8.276895,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 12",
     "sg:city":"Vechta",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202417485,
-    "wof:lastmodified":1449061150,
+    "wof:lastmodified":1466214075,
     "wof:name":"Wilhelm Stolle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.276895,52.742477,8.276895,52.742477],
+  "bbox": [
+    8.276895,
+    52.742477,
+    8.276895,
+    52.742477
+],
   "geometry": {"coordinates":[8.276895,52.742477],"type":"Point"}
 }

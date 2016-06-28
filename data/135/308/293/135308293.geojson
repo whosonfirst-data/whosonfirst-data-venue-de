@@ -2,13 +2,14 @@
   "id": 135308293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.10039,49.461586,11.10039,49.461586",
     "geom:latitude":49.461586,
     "geom:longitude":11.10039,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mathildenstr. 28",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135308293,
-    "wof:lastmodified":1449024079,
+    "wof:lastmodified":1466214479,
     "wof:name":"R. D\u00fcll Lebk\u00fcchnerei B\u00e4ckerei Konditorei Gmbh",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.10039,49.461586,11.10039,49.461586],
+  "bbox": [
+    11.10039,
+    49.461586,
+    11.10039,
+    49.461586
+],
   "geometry": {"coordinates":[11.10039,49.461586],"type":"Point"}
 }

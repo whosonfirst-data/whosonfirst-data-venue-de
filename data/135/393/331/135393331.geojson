@@ -2,13 +2,14 @@
   "id": 135393331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.503083,49.93309,11.503083,49.93309",
     "geom:latitude":49.93309,
     "geom:longitude":11.503083,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bamberger Str. 26",
     "sg:city":"Eckersdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135393331,
-    "wof:lastmodified":1449021949,
+    "wof:lastmodified":1466222309,
     "wof:name":"Kreissparkasse Bayreuth",
     "wof:parent_id":101825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.503083,49.93309,11.503083,49.93309],
+  "bbox": [
+    11.503083,
+    49.93309,
+    11.503083,
+    49.93309
+],
   "geometry": {"coordinates":[11.503083,49.93309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135439723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.90175,52.03331,8.90175,52.03331",
     "geom:latitude":52.03331,
     "geom:longitude":8.90175,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 720:: 32637 Lemgo:: Germany.^^Mittelstr 75-79::",
     "sg:city":"Lemgo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135439723,
-    "wof:lastmodified":1449021841,
+    "wof:lastmodified":1466226279,
     "wof:name":"Sparkasse Lemgo",
     "wof:parent_id":101809123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.90175,52.03331,8.90175,52.03331],
+  "bbox": [
+    8.90175,
+    52.03331,
+    8.90175,
+    52.03331
+],
   "geometry": {"coordinates":[8.90175,52.03331],"type":"Point"}
 }

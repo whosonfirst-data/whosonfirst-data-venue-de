@@ -2,13 +2,14 @@
   "id": 253363309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.405591,48.658718,11.405591,48.658718",
     "geom:latitude":48.658718,
     "geom:longitude":11.405591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichertshofener Str. 10",
     "sg:city":"Karlskron",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253363309,
-    "wof:lastmodified":1449065413,
+    "wof:lastmodified":1466226140,
     "wof:name":"Johann Mayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.405591,48.658718,11.405591,48.658718],
+  "bbox": [
+    11.405591,
+    48.658718,
+    11.405591,
+    48.658718
+],
   "geometry": {"coordinates":[11.405591,48.658718],"type":"Point"}
 }

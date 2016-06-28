@@ -2,13 +2,14 @@
   "id": 303600679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.445858,49.481853,8.445858,49.481853",
     "geom:latitude":49.481853,
     "geom:longitude":8.445858,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amtsstr. 8",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303600679,
-    "wof:lastmodified":1448998345,
+    "wof:lastmodified":1466238126,
     "wof:name":"Franz M\u00fcller",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.445858,49.481853,8.445858,49.481853],
+  "bbox": [
+    8.445858,
+    49.481853,
+    8.445858,
+    49.481853
+],
   "geometry": {"coordinates":[8.445858,49.481853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303372485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.329061,51.336555,12.329061,51.336555",
     "geom:latitude":51.336555,
     "geom:longitude":12.329061,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merseburger Str. 82",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303372485,
-    "wof:lastmodified":1448999604,
+    "wof:lastmodified":1466233682,
     "wof:name":"Print Express",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.329061,51.336555,12.329061,51.336555],
+  "bbox": [
+    12.329061,
+    51.336555,
+    12.329061,
+    51.336555
+],
   "geometry": {"coordinates":[12.329061,51.336555],"type":"Point"}
 }

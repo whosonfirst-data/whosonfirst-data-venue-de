@@ -2,13 +2,14 @@
   "id": 286280723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.23736,50.080647,8.23736,50.080647",
     "geom:latitude":50.080647,
     "geom:longitude":8.23736,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Faulbrunnenstr. 6",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286280723,
-    "wof:lastmodified":1449016635,
+    "wof:lastmodified":1466225057,
     "wof:name":"Le Sac",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.23736,50.080647,8.23736,50.080647],
+  "bbox": [
+    8.23736,
+    50.080647,
+    8.23736,
+    50.080647
+],
   "geometry": {"coordinates":[8.23736,50.080647],"type":"Point"}
 }

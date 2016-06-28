@@ -2,13 +2,14 @@
   "id": 270401317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.796245,48.126629,9.796245,48.126629",
     "geom:latitude":48.126629,
     "geom:longitude":9.796245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchensteige 1",
     "sg:city":"Warthausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270401317,
-    "wof:lastmodified":1449010717,
+    "wof:lastmodified":1466231106,
     "wof:name":"Read Dokumentation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.796245,48.126629,9.796245,48.126629],
+  "bbox": [
+    9.796245,
+    48.126629,
+    9.796245,
+    48.126629
+],
   "geometry": {"coordinates":[9.796245,48.126629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203404607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529754,49.486706,8.529754,49.486706",
     "geom:latitude":49.486706,
     "geom:longitude":8.529754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 61",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203404607,
-    "wof:lastmodified":1449026238,
+    "wof:lastmodified":1466220579,
     "wof:name":"German Gumbel",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529754,49.486706,8.529754,49.486706],
+  "bbox": [
+    8.529754,
+    49.486706,
+    8.529754,
+    49.486706
+],
   "geometry": {"coordinates":[8.529754,49.486706],"type":"Point"}
 }

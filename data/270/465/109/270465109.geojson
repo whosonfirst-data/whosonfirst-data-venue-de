@@ -2,13 +2,14 @@
   "id": 270465109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.040397,50.750187,7.040397,50.750187",
     "geom:latitude":50.750187,
     "geom:longitude":7.040397,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschberger Str. 10",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270465109,
-    "wof:lastmodified":1449010311,
+    "wof:lastmodified":1466232768,
     "wof:name":"A. Hardy",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.040397,50.750187,7.040397,50.750187],
+  "bbox": [
+    7.040397,
+    50.750187,
+    7.040397,
+    50.750187
+],
   "geometry": {"coordinates":[7.040397,50.750187],"type":"Point"}
 }

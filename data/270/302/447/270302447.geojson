@@ -2,13 +2,14 @@
   "id": 270302447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.525938,50.139893,10.525938,50.139893",
     "geom:latitude":50.139893,
     "geom:longitude":10.525938,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichelsdorfer Str. 10",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270302447,
-    "wof:lastmodified":1449009455,
+    "wof:lastmodified":1466228477,
     "wof:name":"Ehrlinger Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.525938,50.139893,10.525938,50.139893],
+  "bbox": [
+    10.525938,
+    50.139893,
+    10.525938,
+    50.139893
+],
   "geometry": {"coordinates":[10.525938,50.139893],"type":"Point"}
 }

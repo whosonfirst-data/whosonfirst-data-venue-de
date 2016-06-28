@@ -2,13 +2,14 @@
   "id": 236085071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.749614,52.411591,9.749614,52.411591",
     "geom:latitude":52.411591,
     "geom:longitude":9.749614,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vahrenheider Markt 2",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236085071,
-    "wof:lastmodified":1449002301,
+    "wof:lastmodified":1466220299,
     "wof:name":"Gondola",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.749614,52.411591,9.749614,52.411591],
+  "bbox": [
+    9.749614,
+    52.411591,
+    9.749614,
+    52.411591
+],
   "geometry": {"coordinates":[9.749614,52.411591],"type":"Point"}
 }

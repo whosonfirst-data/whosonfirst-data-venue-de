@@ -2,13 +2,14 @@
   "id": 136055507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.749951,50.086735,8.749951,50.086735",
     "geom:latitude":50.086735,
     "geom:longitude":8.749951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merianstr. 11",
     "sg:city":"Offenbach/M",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136055507,
-    "wof:lastmodified":1449075200,
+    "wof:lastmodified":1466214691,
     "wof:name":"Emirova Kucna Stranica",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.749951,50.086735,8.749951,50.086735],
+  "bbox": [
+    8.749951,
+    50.086735,
+    8.749951,
+    50.086735
+],
   "geometry": {"coordinates":[8.749951,50.086735],"type":"Point"}
 }

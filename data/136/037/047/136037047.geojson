@@ -2,13 +2,14 @@
   "id": 136037047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.024589,53.545959,10.024589,53.545959",
     "geom:latitude":53.545959,
     "geom:longitude":10.024589,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerbrookstr. 75",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136037047,
-    "wof:lastmodified":1449076294,
+    "wof:lastmodified":1466213801,
     "wof:name":"Chat-aktiv",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.024589,53.545959,10.024589,53.545959],
+  "bbox": [
+    10.024589,
+    53.545959,
+    10.024589,
+    53.545959
+],
   "geometry": {"coordinates":[10.024589,53.545959],"type":"Point"}
 }

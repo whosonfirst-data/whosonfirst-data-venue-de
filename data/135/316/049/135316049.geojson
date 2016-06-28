@@ -2,13 +2,14 @@
   "id": 135316049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.430538,51.924576,10.430538,51.924576",
     "geom:latitude":51.924576,
     "geom:longitude":10.430538,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breslauer Str. 26",
     "sg:city":"Goslar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135316049,
-    "wof:lastmodified":1449023050,
+    "wof:lastmodified":1466215150,
     "wof:name":"Siemer",
     "wof:parent_id":101820883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.430538,51.924576,10.430538,51.924576],
+  "bbox": [
+    10.430538,
+    51.924576,
+    10.430538,
+    51.924576
+],
   "geometry": {"coordinates":[10.430538,51.924576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118797465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.350367,52.541878,13.350367,52.541878",
     "geom:latitude":52.541878,
     "geom:longitude":13.350367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Triftstr. 37",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118797465,
-    "wof:lastmodified":1449054414,
+    "wof:lastmodified":1466229606,
     "wof:name":"Apotheke Am Augustenburger Platz",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.350367,52.541878,13.350367,52.541878],
+  "bbox": [
+    13.350367,
+    52.541878,
+    13.350367,
+    52.541878
+],
   "geometry": {"coordinates":[13.350367,52.541878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136096761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.5623,51.333889,6.5623,51.333889",
     "geom:latitude":51.333889,
     "geom:longitude":6.5623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uerdinger Str. 125",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864277,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513,
+        85864277,
         85795079
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136096761,
-    "wof:lastmodified":1449075332,
+    "wof:lastmodified":1466216612,
     "wof:name":"Naturheilpraxis Hildegard Ibbels - Heilpraktikerin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.5623,51.333889,6.5623,51.333889],
+  "bbox": [
+    6.5623,
+    51.333889,
+    6.5623,
+    51.333889
+],
   "geometry": {"coordinates":[6.5623,51.333889],"type":"Point"}
 }

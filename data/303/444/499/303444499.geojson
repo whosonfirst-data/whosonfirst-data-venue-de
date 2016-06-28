@@ -2,13 +2,14 @@
   "id": 303444499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.633084,52.143024,11.633084,52.143024",
     "geom:latitude":52.143024,
     "geom:longitude":11.633084,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lorenzweg 34",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303444499,
-    "wof:lastmodified":1449000230,
+    "wof:lastmodified":1466235794,
     "wof:name":"Karl Dettmer",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.633084,52.143024,11.633084,52.143024],
+  "bbox": [
+    11.633084,
+    52.143024,
+    11.633084,
+    52.143024
+],
   "geometry": {"coordinates":[11.633084,52.143024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152219815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.471407,48.74844,11.471407,48.74844",
     "geom:latitude":48.74844,
     "geom:longitude":11.471407,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eriagstr. 14",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899417,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152219815,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466214475,
     "wof:name":"V\u00f6gele Gmbh & Co. Kg",
     "wof:parent_id":85899417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.471407,48.74844,11.471407,48.74844],
+  "bbox": [
+    11.471407,
+    48.74844,
+    11.471407,
+    48.74844
+],
   "geometry": {"coordinates":[11.471407,48.74844],"type":"Point"}
 }

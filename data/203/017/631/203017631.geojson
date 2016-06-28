@@ -2,13 +2,14 @@
   "id": 203017631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.964828,49.24242,10.964828,49.24242",
     "geom:latitude":49.24242,
     "geom:longitude":10.964828,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergweg 5",
     "sg:city":"Abenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203017631,
-    "wof:lastmodified":1449025948,
+    "wof:lastmodified":1466214052,
     "wof:name":"Georg Seitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.964828,49.24242,10.964828,49.24242],
+  "bbox": [
+    10.964828,
+    49.24242,
+    10.964828,
+    49.24242
+],
   "geometry": {"coordinates":[10.964828,49.24242],"type":"Point"}
 }

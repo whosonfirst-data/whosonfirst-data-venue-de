@@ -2,13 +2,14 @@
   "id": 118613353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.848763,53.031742,8.848763,53.031742",
     "geom:latitude":53.031742,
     "geom:longitude":8.848763,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinter dem Vorwerk 32",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794765,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118613353,
-    "wof:lastmodified":1449053794,
+    "wof:lastmodified":1466219016,
     "wof:name":"Senioren Wohnpark Weser Gmbh",
     "wof:parent_id":85794765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.848763,53.031742,8.848763,53.031742],
+  "bbox": [
+    8.848763,
+    53.031742,
+    8.848763,
+    53.031742
+],
   "geometry": {"coordinates":[8.848763,53.031742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202407123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.698407,51.374763,7.698407,51.374763",
     "geom:latitude":51.374763,
     "geom:longitude":7.698407,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserstr. 4",
     "sg:city":"Iserlohn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202407123,
-    "wof:lastmodified":1449061512,
+    "wof:lastmodified":1466213899,
     "wof:name":"Welke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.698407,51.374763,7.698407,51.374763],
+  "bbox": [
+    7.698407,
+    51.374763,
+    7.698407,
+    51.374763
+],
   "geometry": {"coordinates":[7.698407,51.374763],"type":"Point"}
 }

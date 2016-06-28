@@ -2,13 +2,14 @@
   "id": 135562461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.651788,50.127823,8.651788,50.127823",
     "geom:latitude":50.127823,
     "geom:longitude":8.651788,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Cretzschmarstr. 10",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135562461,
-    "wof:lastmodified":1449022611,
+    "wof:lastmodified":1466236704,
     "wof:name":"Planbaucontract Gesellschaft F\u00fcr Planung Und",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.651788,50.127823,8.651788,50.127823],
+  "bbox": [
+    8.651788,
+    50.127823,
+    8.651788,
+    50.127823
+],
   "geometry": {"coordinates":[8.651788,50.127823],"type":"Point"}
 }

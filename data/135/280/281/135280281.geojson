@@ -2,13 +2,14 @@
   "id": 135280281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.000371,48.260487,9.000371,48.260487",
     "geom:latitude":48.260487,
     "geom:longitude":9.000371,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heubergstr. 14",
     "sg:city":"Albstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135280281,
-    "wof:lastmodified":1449022500,
+    "wof:lastmodified":1466225382,
     "wof:name":"J. Wolf",
     "wof:parent_id":101764311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.000371,48.260487,9.000371,48.260487],
+  "bbox": [
+    9.000371,
+    48.260487,
+    9.000371,
+    48.260487
+],
   "geometry": {"coordinates":[9.000371,48.260487],"type":"Point"}
 }

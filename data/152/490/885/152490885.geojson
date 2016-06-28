@@ -2,13 +2,14 @@
   "id": 152490885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.7863,52.45224,9.7863,52.45224",
     "geom:latitude":52.45224,
     "geom:longitude":9.7863,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dieselstr. 13",
     "sg:city":"Isernhagen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152490885,
-    "wof:lastmodified":1449048457,
+    "wof:lastmodified":1466220032,
     "wof:name":"Horst Heinrich Industrie- Vertretungen Gmbh",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.7863,52.45224,9.7863,52.45224],
+  "bbox": [
+    9.7863,
+    52.45224,
+    9.7863,
+    52.45224
+],
   "geometry": {"coordinates":[9.7863,52.45224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186640489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.866636,47.987263,11.866636,47.987263",
     "geom:latitude":47.987263,
     "geom:longitude":11.866636,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Professor-Lebsche-Str. 22",
     "sg:city":"Glonn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186640489,
-    "wof:lastmodified":1449051534,
+    "wof:lastmodified":1466220668,
     "wof:name":"Voigt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.866636,47.987263,11.866636,47.987263],
+  "bbox": [
+    11.866636,
+    47.987263,
+    11.866636,
+    47.987263
+],
   "geometry": {"coordinates":[11.866636,47.987263],"type":"Point"}
 }

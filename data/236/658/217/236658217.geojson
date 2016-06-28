@@ -2,13 +2,14 @@
   "id": 236658217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.310701,49.245483,9.310701,49.245483",
     "geom:latitude":49.245483,
     "geom:longitude":9.310701,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofstr. 6",
     "sg:city":"Neuenstadt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236658217,
-    "wof:lastmodified":1449001624,
+    "wof:lastmodified":1466230931,
     "wof:name":"Franz Lohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.310701,49.245483,9.310701,49.245483],
+  "bbox": [
+    9.310701,
+    49.245483,
+    9.310701,
+    49.245483
+],
   "geometry": {"coordinates":[9.310701,49.245483],"type":"Point"}
 }

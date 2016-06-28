@@ -2,13 +2,14 @@
   "id": 270066295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.29647,47.733307,10.29647,47.733307",
     "geom:latitude":47.733307,
     "geom:longitude":10.29647,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mariaberger Str. 41",
     "sg:city":"Kempten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270066295,
-    "wof:lastmodified":1449009315,
+    "wof:lastmodified":1466222925,
     "wof:name":"S. Knusterer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.29647,47.733307,10.29647,47.733307],
+  "bbox": [
+    10.29647,
+    47.733307,
+    10.29647,
+    47.733307
+],
   "geometry": {"coordinates":[10.29647,47.733307],"type":"Point"}
 }

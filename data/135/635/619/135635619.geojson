@@ -2,13 +2,14 @@
   "id": 135635619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.552338,48.250988,11.552338,48.250988",
     "geom:latitude":48.250988,
     "geom:longitude":11.552338,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dachauer Str. 15 a",
     "sg:city":"Oberschlei\u00dfheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905625,
+        85682571,
         85633111,
         101785323,
         102063273,
-        85682571
+        85905625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135635619,
-    "wof:lastmodified":1449022318,
+    "wof:lastmodified":1466240557,
     "wof:name":"Real Granit Gmbh",
     "wof:parent_id":85905625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.552338,48.250988,11.552338,48.250988],
+  "bbox": [
+    11.552338,
+    48.250988,
+    11.552338,
+    48.250988
+],
   "geometry": {"coordinates":[11.552338,48.250988],"type":"Point"}
 }

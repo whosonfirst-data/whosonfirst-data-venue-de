@@ -2,13 +2,14 @@
   "id": 136129375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.977685,51.472092,11.977685,51.472092",
     "geom:latitude":51.472092,
     "geom:longitude":11.977685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"pfaennerhoehe 28",
     "sg:city":"halle saale",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136129375,
-    "wof:lastmodified":1449075968,
+    "wof:lastmodified":1466217945,
     "wof:name":"Stammtisch-halle",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.977685,51.472092,11.977685,51.472092],
+  "bbox": [
+    11.977685,
+    51.472092,
+    11.977685,
+    51.472092
+],
   "geometry": {"coordinates":[11.977685,51.472092],"type":"Point"}
 }

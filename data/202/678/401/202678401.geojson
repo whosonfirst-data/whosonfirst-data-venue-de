@@ -2,13 +2,14 @@
   "id": 202678401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.425622,51.08596,12.425622,51.08596",
     "geom:latitude":51.08596,
     "geom:longitude":12.425622,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forststr. 34",
     "sg:city":"Regis-Breitingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202678401,
-    "wof:lastmodified":1449061357,
+    "wof:lastmodified":1466219021,
     "wof:name":"Peter Fischer Transport Unternehmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.425622,51.08596,12.425622,51.08596],
+  "bbox": [
+    12.425622,
+    51.08596,
+    12.425622,
+    51.08596
+],
   "geometry": {"coordinates":[12.425622,51.08596],"type":"Point"}
 }

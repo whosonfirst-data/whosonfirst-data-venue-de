@@ -2,13 +2,14 @@
   "id": 303402703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.923278,51.03804,6.923278,51.03804",
     "geom:latitude":51.03804,
     "geom:longitude":6.923278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Morsestr. 4",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303402703,
-    "wof:lastmodified":1448998898,
+    "wof:lastmodified":1466234492,
     "wof:name":"Anton Fischer",
     "wof:parent_id":85863001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.923278,51.03804,6.923278,51.03804],
+  "bbox": [
+    6.923278,
+    51.03804,
+    6.923278,
+    51.03804
+],
   "geometry": {"coordinates":[6.923278,51.03804],"type":"Point"}
 }

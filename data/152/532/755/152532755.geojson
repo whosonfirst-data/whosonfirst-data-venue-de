@@ -2,13 +2,14 @@
   "id": 152532755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.51814,48.094402,11.51814,48.094402",
     "geom:latitude":48.094402,
     "geom:longitude":11.51814,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kistlerhofstr. 119",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899853,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152532755,
-    "wof:lastmodified":1449045859,
+    "wof:lastmodified":1466220953,
     "wof:name":"Wps World Patent Service Verwaltungs- Und",
     "wof:parent_id":85899853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.51814,48.094402,11.51814,48.094402],
+  "bbox": [
+    11.51814,
+    48.094402,
+    11.51814,
+    48.094402
+],
   "geometry": {"coordinates":[11.51814,48.094402],"type":"Point"}
 }

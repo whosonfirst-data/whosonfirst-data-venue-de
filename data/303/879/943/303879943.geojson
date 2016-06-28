@@ -2,13 +2,14 @@
   "id": 303879943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.620611,48.152027,11.620611,48.152027",
     "geom:latitude":48.152027,
     "geom:longitude":11.620611,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenkavalierplatz 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303879943,
-    "wof:lastmodified":1448998138,
+    "wof:lastmodified":1466240908,
     "wof:name":"Kurbad Bogenhausen",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.620611,48.152027,11.620611,48.152027],
+  "bbox": [
+    11.620611,
+    48.152027,
+    11.620611,
+    48.152027
+],
   "geometry": {"coordinates":[11.620611,48.152027],"type":"Point"}
 }

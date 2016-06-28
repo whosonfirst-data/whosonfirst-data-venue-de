@@ -2,13 +2,14 @@
   "id": 135663405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.413567,52.07518,8.413567,52.07518",
     "geom:latitude":52.07518,
     "geom:longitude":8.413567,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 9",
     "sg:city":"Werther",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063869,
-        85633111,
         85682513,
-        85863219
+        85633111,
+        85863219,
+        102063869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135663405,
-    "wof:lastmodified":1449023224,
+    "wof:lastmodified":1466241444,
     "wof:name":"H\u00fcttemann",
     "wof:parent_id":85863219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.413567,52.07518,8.413567,52.07518],
+  "bbox": [
+    8.413567,
+    52.07518,
+    8.413567,
+    52.07518
+],
   "geometry": {"coordinates":[8.413567,52.07518],"type":"Point"}
 }

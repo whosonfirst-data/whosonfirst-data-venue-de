@@ -2,13 +2,14 @@
   "id": 152956295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.06765,32.42783,-111.06765,32.42783",
     "geom:latitude":32.42783,
     "geom:longitude":-111.06765,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1420",
     "sg:city":"Garching",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"85742",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152956295,
-    "wof:lastmodified":1449045092,
+    "wof:lastmodified":1466230742,
     "wof:name":"Systeme Sygulla Gmbh",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.06765,32.42783,-111.06765,32.42783],
+  "bbox": [
+    -111.06765,
+    32.42783,
+    -111.06765,
+    32.42783
+],
   "geometry": {"coordinates":[-111.06765,32.42783],"type":"Point"}
 }

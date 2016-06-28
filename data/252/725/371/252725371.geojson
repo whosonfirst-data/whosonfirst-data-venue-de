@@ -2,13 +2,14 @@
   "id": 252725371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.245821,52.439808,13.245821,52.439808",
     "geom:latitude":52.439808,
     "geom:longitude":13.245821,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischerh\u00fcttenstr. 48",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252725371,
-    "wof:lastmodified":1449005691,
+    "wof:lastmodified":1466219422,
     "wof:name":"Hans B. Hoffstaedter",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.245821,52.439808,13.245821,52.439808],
+  "bbox": [
+    13.245821,
+    52.439808,
+    13.245821,
+    52.439808
+],
   "geometry": {"coordinates":[13.245821,52.439808],"type":"Point"}
 }

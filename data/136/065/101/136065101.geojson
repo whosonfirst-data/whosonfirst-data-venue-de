@@ -2,13 +2,14 @@
   "id": 136065101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57873,48.186401,11.57873,48.186401",
     "geom:latitude":48.186401,
     "geom:longitude":11.57873,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Silcherstra\u00dfe 22",
     "sg:city":"Munich",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136065101,
-    "wof:lastmodified":1449076268,
+    "wof:lastmodified":1466215125,
     "wof:name":"Flashwaves - Music And Fx Library For Media Design",
     "wof:parent_id":85899615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57873,48.186401,11.57873,48.186401],
+  "bbox": [
+    11.57873,
+    48.186401,
+    11.57873,
+    48.186401
+],
   "geometry": {"coordinates":[11.57873,48.186401],"type":"Point"}
 }

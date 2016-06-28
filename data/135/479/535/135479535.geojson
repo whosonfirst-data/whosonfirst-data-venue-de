@@ -2,13 +2,14 @@
   "id": 135479535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.08259,53.660477,10.08259,53.660477",
     "geom:latitude":53.660477,
     "geom:longitude":10.08259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Harksheider Str. 10",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900157,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135479535,
-    "wof:lastmodified":1449023064,
+    "wof:lastmodified":1466229763,
     "wof:name":"Number One",
     "wof:parent_id":85900157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.08259,53.660477,10.08259,53.660477],
+  "bbox": [
+    10.08259,
+    53.660477,
+    10.08259,
+    53.660477
+],
   "geometry": {"coordinates":[10.08259,53.660477],"type":"Point"}
 }

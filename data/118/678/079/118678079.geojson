@@ -2,13 +2,14 @@
   "id": 118678079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.519751,52.428429,13.519751,52.428429",
     "geom:latitude":52.428429,
     "geom:longitude":13.519751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rudower Chaussee 44",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900085,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118678079,
-    "wof:lastmodified":1449053825,
+    "wof:lastmodified":1466222620,
     "wof:name":"Eltz Berlin Gmbh & Co. Kg",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.519751,52.428429,13.519751,52.428429],
+  "bbox": [
+    13.519751,
+    52.428429,
+    13.519751,
+    52.428429
+],
   "geometry": {"coordinates":[13.519751,52.428429],"type":"Point"}
 }

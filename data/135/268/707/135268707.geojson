@@ -2,13 +2,14 @@
   "id": 135268707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.752349,52.986897,10.752349,52.986897",
     "geom:latitude":52.986897,
     "geom:longitude":10.752349,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcchower Str. 1",
     "sg:city":"Rosche",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135268707,
-    "wof:lastmodified":1449022732,
+    "wof:lastmodified":1466213676,
     "wof:name":"Harri Hamborg",
     "wof:parent_id":101820005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.752349,52.986897,10.752349,52.986897],
+  "bbox": [
+    10.752349,
+    52.986897,
+    10.752349,
+    52.986897
+],
   "geometry": {"coordinates":[10.752349,52.986897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186620465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.671999,53.872761,10.671999,53.872761",
     "geom:latitude":53.872761,
     "geom:longitude":10.671999,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlerstr. 38",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186620465,
-    "wof:lastmodified":1449052788,
+    "wof:lastmodified":1466220289,
     "wof:name":"T. Reincke",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.671999,53.872761,10.671999,53.872761],
+  "bbox": [
+    10.671999,
+    53.872761,
+    10.671999,
+    53.872761
+],
   "geometry": {"coordinates":[10.671999,53.872761],"type":"Point"}
 }

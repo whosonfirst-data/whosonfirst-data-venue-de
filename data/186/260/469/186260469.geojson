@@ -2,13 +2,14 @@
   "id": 186260469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.538989,52.541958,13.538989,52.541958",
     "geom:latitude":52.541958,
     "geom:longitude":13.538989,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenburger Weg 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186260469,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466215943,
     "wof:name":"Henry Fleischer",
     "wof:parent_id":85900219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.538989,52.541958,13.538989,52.541958],
+  "bbox": [
+    13.538989,
+    52.541958,
+    13.538989,
+    52.541958
+],
   "geometry": {"coordinates":[13.538989,52.541958],"type":"Point"}
 }

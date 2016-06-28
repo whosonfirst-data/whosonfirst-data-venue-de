@@ -2,13 +2,14 @@
   "id": 119211439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.710376,51.453323,6.710376,51.453323",
     "geom:latitude":51.453323,
     "geom:longitude":6.710376,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannisstr. 21",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795559,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85795559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119211439,
-    "wof:lastmodified":1449041459,
+    "wof:lastmodified":1466229843,
     "wof:name":"Kath. Krankenhausbibliothek",
     "wof:parent_id":85795559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.710376,51.453323,6.710376,51.453323],
+  "bbox": [
+    6.710376,
+    51.453323,
+    6.710376,
+    51.453323
+],
   "geometry": {"coordinates":[6.710376,51.453323],"type":"Point"}
 }

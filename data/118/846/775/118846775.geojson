@@ -2,13 +2,14 @@
   "id": 118846775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465574,52.044853,7.465574,52.044853",
     "geom:latitude":52.044853,
     "geom:longitude":7.465574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterstr. 6",
     "sg:city":"Altenberge",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063863,
-        85633111,
         85682513,
-        85863163
+        85633111,
+        85863163,
+        102063863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118846775,
-    "wof:lastmodified":1449054249,
+    "wof:lastmodified":1466232594,
     "wof:name":"Sonnen Apotheke Susanne Stricker E. K.",
     "wof:parent_id":85863163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465574,52.044853,7.465574,52.044853],
+  "bbox": [
+    7.465574,
+    52.044853,
+    7.465574,
+    52.044853
+],
   "geometry": {"coordinates":[7.465574,52.044853],"type":"Point"}
 }

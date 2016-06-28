@@ -2,13 +2,14 @@
   "id": 119430481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.6337,49.691563,11.6337,49.691563",
     "geom:latitude":49.691563,
     "geom:longitude":11.6337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 5",
     "sg:city":"Auerbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119430481,
-    "wof:lastmodified":1449042586,
+    "wof:lastmodified":1466242375,
     "wof:name":"Hans Bundscherer",
     "wof:parent_id":101826913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.6337,49.691563,11.6337,49.691563],
+  "bbox": [
+    11.6337,
+    49.691563,
+    11.6337,
+    49.691563
+],
   "geometry": {"coordinates":[11.6337,49.691563],"type":"Point"}
 }

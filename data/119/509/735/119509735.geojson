@@ -2,13 +2,14 @@
   "id": 119509735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.854158,49.249233,6.854158,49.249233",
     "geom:latitude":49.249233,
     "geom:longitude":6.854158,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausstr. 15",
     "sg:city":"V\u00f6lklingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063433,
-        85633111,
         85682479,
-        85795777
+        85633111,
+        85795777,
+        102063433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119509735,
-    "wof:lastmodified":1449040999,
+    "wof:lastmodified":1466243741,
     "wof:name":"City B\u00e4ckerei",
     "wof:parent_id":85795777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.854158,49.249233,6.854158,49.249233],
+  "bbox": [
+    6.854158,
+    49.249233,
+    6.854158,
+    49.249233
+],
   "geometry": {"coordinates":[6.854158,49.249233],"type":"Point"}
 }

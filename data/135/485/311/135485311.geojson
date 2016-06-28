@@ -2,13 +2,14 @@
   "id": 135485311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.085629,50.985298,13.085629,50.985298",
     "geom:latitude":50.985298,
     "geom:longitude":13.085629,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Rossauer Wald 11",
     "sg:city":"Rossau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135485311,
-    "wof:lastmodified":1449022865,
+    "wof:lastmodified":1466230316,
     "wof:name":"Hilzinger Gmbh",
     "wof:parent_id":101847909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.085629,50.985298,13.085629,50.985298],
+  "bbox": [
+    13.085629,
+    50.985298,
+    13.085629,
+    50.985298
+],
   "geometry": {"coordinates":[13.085629,50.985298],"type":"Point"}
 }

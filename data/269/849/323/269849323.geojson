@@ -2,13 +2,14 @@
   "id": 269849323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.080076,52.848217,10.080076,52.848217",
     "geom:latitude":52.848217,
     "geom:longitude":10.080076,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcdener Str. 11",
     "sg:city":"Hermannsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269849323,
-    "wof:lastmodified":1449036578,
+    "wof:lastmodified":1466229556,
     "wof:name":"Wilhelm Drewes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.080076,52.848217,10.080076,52.848217],
+  "bbox": [
+    10.080076,
+    52.848217,
+    10.080076,
+    52.848217
+],
   "geometry": {"coordinates":[10.080076,52.848217],"type":"Point"}
 }

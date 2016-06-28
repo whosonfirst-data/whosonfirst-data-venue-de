@@ -2,13 +2,14 @@
   "id": 185771345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.105849,53.544472,10.105849,53.544472",
     "geom:latitude":53.544472,
     "geom:longitude":10.105849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gothaer Weg 36",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185771345,
-    "wof:lastmodified":1449007486,
+    "wof:lastmodified":1466214852,
     "wof:name":"Dieter Pape",
     "wof:parent_id":85900015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.105849,53.544472,10.105849,53.544472],
+  "bbox": [
+    10.105849,
+    53.544472,
+    10.105849,
+    53.544472
+],
   "geometry": {"coordinates":[10.105849,53.544472],"type":"Point"}
 }

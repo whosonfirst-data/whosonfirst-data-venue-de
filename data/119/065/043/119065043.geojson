@@ -2,13 +2,14 @@
   "id": 119065043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.520051,48.156616,11.520051,48.156616",
     "geom:latitude":48.156616,
     "geom:longitude":11.520051,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubertusstr. 22",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899191,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119065043,
-    "wof:lastmodified":1449043535,
+    "wof:lastmodified":1466216848,
     "wof:name":"Jochen Drexler Architekt",
     "wof:parent_id":85899191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.520051,48.156616,11.520051,48.156616],
+  "bbox": [
+    11.520051,
+    48.156616,
+    11.520051,
+    48.156616
+],
   "geometry": {"coordinates":[11.520051,48.156616],"type":"Point"}
 }

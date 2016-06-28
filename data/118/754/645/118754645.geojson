@@ -2,13 +2,14 @@
   "id": 118754645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.09039,49.459007,11.09039,49.459007",
     "geom:latitude":49.459007,
     "geom:longitude":11.09039,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayreuther Str. 10",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118754645,
-    "wof:lastmodified":1449054059,
+    "wof:lastmodified":1466227046,
     "wof:name":"Auto Pkw-anh\u00e4nger",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.09039,49.459007,11.09039,49.459007],
+  "bbox": [
+    11.09039,
+    49.459007,
+    11.09039,
+    49.459007
+],
   "geometry": {"coordinates":[11.09039,49.459007],"type":"Point"}
 }

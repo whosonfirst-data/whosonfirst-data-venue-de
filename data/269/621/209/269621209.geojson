@@ -2,13 +2,14 @@
   "id": 269621209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.576301,49.943745,11.576301,49.943745",
     "geom:latitude":49.943745,
     "geom:longitude":11.576301,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanzleistr. 2",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269621209,
-    "wof:lastmodified":1449038648,
+    "wof:lastmodified":1466224065,
     "wof:name":"Yvonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.576301,49.943745,11.576301,49.943745],
+  "bbox": [
+    11.576301,
+    49.943745,
+    11.576301,
+    49.943745
+],
   "geometry": {"coordinates":[11.576301,49.943745],"type":"Point"}
 }

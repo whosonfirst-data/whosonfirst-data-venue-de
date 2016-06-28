@@ -2,13 +2,14 @@
   "id": 119067923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.827733,50.893944,6.827733,50.893944",
     "geom:latitude":50.893944,
     "geom:longitude":6.827733,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachemer Str. 82",
     "sg:city":"H\u00fcrth",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063709,
-        85633111,
         85682513,
-        85795567
+        85633111,
+        85795567,
+        102063709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119067923,
-    "wof:lastmodified":1449041032,
+    "wof:lastmodified":1466217101,
     "wof:name":"Josef Montag Architekt",
     "wof:parent_id":85795567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.827733,50.893944,6.827733,50.893944],
+  "bbox": [
+    6.827733,
+    50.893944,
+    6.827733,
+    50.893944
+],
   "geometry": {"coordinates":[6.827733,50.893944],"type":"Point"}
 }

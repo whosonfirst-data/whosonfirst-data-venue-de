@@ -2,13 +2,14 @@
   "id": 269698405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.443083,49.979027,12.443083,49.979027",
     "geom:latitude":49.979027,
     "geom:longitude":12.443083,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tirschenreuther Str. 2",
     "sg:city":"Neualbenreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269698405,
-    "wof:lastmodified":1449038825,
+    "wof:lastmodified":1466225922,
     "wof:name":"W. Mayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.443083,49.979027,12.443083,49.979027],
+  "bbox": [
+    12.443083,
+    49.979027,
+    12.443083,
+    49.979027
+],
   "geometry": {"coordinates":[12.443083,49.979027],"type":"Point"}
 }

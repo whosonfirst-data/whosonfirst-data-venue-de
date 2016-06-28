@@ -2,13 +2,14 @@
   "id": 135850485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.005463,52.446129,10.005463,52.446129",
     "geom:latitude":52.446129,
     "geom:longitude":10.005463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstr. 6",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135850485,
-    "wof:lastmodified":1449022766,
+    "wof:lastmodified":1466244283,
     "wof:name":"Bamberg",
     "wof:parent_id":101807695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.005463,52.446129,10.005463,52.446129],
+  "bbox": [
+    10.005463,
+    52.446129,
+    10.005463,
+    52.446129
+],
   "geometry": {"coordinates":[10.005463,52.446129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118841631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.586514,48.168106,11.586514,48.168106",
     "geom:latitude":48.168106,
     "geom:longitude":11.586514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leopoldstr. 138",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118841631,
-    "wof:lastmodified":1449053441,
+    "wof:lastmodified":1466232267,
     "wof:name":"Renate Gruber",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.586514,48.168106,11.586514,48.168106],
+  "bbox": [
+    11.586514,
+    48.168106,
+    11.586514,
+    48.168106
+],
   "geometry": {"coordinates":[11.586514,48.168106],"type":"Point"}
 }

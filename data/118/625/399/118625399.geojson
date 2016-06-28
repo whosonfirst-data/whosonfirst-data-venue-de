@@ -2,13 +2,14 @@
   "id": 118625399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.355376,52.484261,13.355376,52.484261",
     "geom:latitude":52.484261,
     "geom:longitude":13.355376,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feurigstr. 20",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118625399,
-    "wof:lastmodified":1449054569,
+    "wof:lastmodified":1466219732,
     "wof:name":"Ev. Method. Altenwohnheim",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.355376,52.484261,13.355376,52.484261],
+  "bbox": [
+    13.355376,
+    52.484261,
+    13.355376,
+    52.484261
+],
   "geometry": {"coordinates":[13.355376,52.484261],"type":"Point"}
 }

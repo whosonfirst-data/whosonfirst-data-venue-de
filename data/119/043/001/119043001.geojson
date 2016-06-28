@@ -2,13 +2,14 @@
   "id": 119043001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.428194,52.492283,13.428194,52.492283",
     "geom:latitude":52.492283,
     "geom:longitude":13.428194,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedelstr. 27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928793,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119043001,
-    "wof:lastmodified":1449042853,
+    "wof:lastmodified":1466214740,
     "wof:name":"Heinrich Pl\u00fcmpe Und Josef Fricke",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.428194,52.492283,13.428194,52.492283],
+  "bbox": [
+    13.428194,
+    52.492283,
+    13.428194,
+    52.492283
+],
   "geometry": {"coordinates":[13.428194,52.492283],"type":"Point"}
 }

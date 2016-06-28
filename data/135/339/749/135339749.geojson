@@ -2,13 +2,14 @@
   "id": 135339749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59977,51.997292,8.59977,51.997292",
     "geom:latitude":51.997292,
     "geom:longitude":8.59977,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schneidem\u00fchler Str. 100",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795475,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135339749,
-    "wof:lastmodified":1449022360,
+    "wof:lastmodified":1466217143,
     "wof:name":"B. L\u00fcnnemann",
     "wof:parent_id":85795475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59977,51.997292,8.59977,51.997292],
+  "bbox": [
+    8.59977,
+    51.997292,
+    8.59977,
+    51.997292
+],
   "geometry": {"coordinates":[8.59977,51.997292],"type":"Point"}
 }

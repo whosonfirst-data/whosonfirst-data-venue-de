@@ -2,13 +2,14 @@
   "id": 135291401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.625766,51.958778,7.625766,51.958778",
     "geom:latitude":51.958778,
     "geom:longitude":7.625766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsstr. 46",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795671,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135291401,
-    "wof:lastmodified":1449021941,
+    "wof:lastmodified":1466213087,
     "wof:name":"Klaus Bleckmann",
     "wof:parent_id":85795671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.625766,51.958778,7.625766,51.958778],
+  "bbox": [
+    7.625766,
+    51.958778,
+    7.625766,
+    51.958778
+],
   "geometry": {"coordinates":[7.625766,51.958778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236518861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.625021,52.270416,10.625021,52.270416",
     "geom:latitude":52.270416,
     "geom:longitude":10.625021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bauernstr. 18",
     "sg:city":"Cremlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236518861,
-    "wof:lastmodified":1449003531,
+    "wof:lastmodified":1466228333,
     "wof:name":"Erich Beese",
     "wof:parent_id":85900013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.625021,52.270416,10.625021,52.270416],
+  "bbox": [
+    10.625021,
+    52.270416,
+    10.625021,
+    52.270416
+],
   "geometry": {"coordinates":[10.625021,52.270416],"type":"Point"}
 }

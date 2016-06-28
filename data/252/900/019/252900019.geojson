@@ -2,13 +2,14 @@
   "id": 252900019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.09055,51.198002,7.09055,51.198002",
     "geom:latitude":51.198002,
     "geom:longitude":7.09055,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obenketzberg 40",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252900019,
-    "wof:lastmodified":1449005883,
+    "wof:lastmodified":1466222723,
     "wof:name":"Heinrich Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.09055,51.198002,7.09055,51.198002],
+  "bbox": [
+    7.09055,
+    51.198002,
+    7.09055,
+    51.198002
+],
   "geometry": {"coordinates":[7.09055,51.198002],"type":"Point"}
 }

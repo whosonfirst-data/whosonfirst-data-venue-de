@@ -2,13 +2,14 @@
   "id": 152965385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.617393,49.879944,8.617393,49.879944",
     "geom:latitude":49.879944,
     "geom:longitude":8.617393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Koelner Str. 12",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152965385,
-    "wof:lastmodified":1449047529,
+    "wof:lastmodified":1466230987,
     "wof:name":"Thomas Witteck Computer Hard- Und Softwarevertrieb",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.617393,49.879944,8.617393,49.879944],
+  "bbox": [
+    8.617393,
+    49.879944,
+    8.617393,
+    49.879944
+],
   "geometry": {"coordinates":[8.617393,49.879944],"type":"Point"}
 }

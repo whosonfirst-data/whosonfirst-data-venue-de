@@ -2,13 +2,14 @@
   "id": 135309947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.800621,51.495861,6.800621,51.495861",
     "geom:latitude":51.495861,
     "geom:longitude":6.800621,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lehrerstr. 1",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863081,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135309947,
-    "wof:lastmodified":1449021659,
+    "wof:lastmodified":1466214620,
     "wof:name":"Ralf Heinen",
     "wof:parent_id":85863081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.800621,51.495861,6.800621,51.495861],
+  "bbox": [
+    6.800621,
+    51.495861,
+    6.800621,
+    51.495861
+],
   "geometry": {"coordinates":[6.800621,51.495861],"type":"Point"}
 }

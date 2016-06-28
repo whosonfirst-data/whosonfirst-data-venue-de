@@ -2,13 +2,14 @@
   "id": 286490851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.062264,52.306915,11.062264,52.306915",
     "geom:latitude":52.306915,
     "geom:longitude":11.062264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Magdeburger Str. 33",
     "sg:city":"Weferlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286490851,
-    "wof:lastmodified":1449017793,
+    "wof:lastmodified":1466229915,
     "wof:name":"Karl Wiegmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.062264,52.306915,11.062264,52.306915],
+  "bbox": [
+    11.062264,
+    52.306915,
+    11.062264,
+    52.306915
+],
   "geometry": {"coordinates":[11.062264,52.306915],"type":"Point"}
 }

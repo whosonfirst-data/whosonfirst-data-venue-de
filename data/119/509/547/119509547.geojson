@@ -2,13 +2,14 @@
   "id": 119509547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.113998,49.009205,12.113998,49.009205",
     "geom:latitude":49.009205,
     "geom:longitude":12.113998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landshuter Str. 53",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119509547,
-    "wof:lastmodified":1449040992,
+    "wof:lastmodified":1466243876,
     "wof:name":"Christian Maier",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.113998,49.009205,12.113998,49.009205],
+  "bbox": [
+    12.113998,
+    49.009205,
+    12.113998,
+    49.009205
+],
   "geometry": {"coordinates":[12.113998,49.009205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135860215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.421711,51.352676,12.421711,51.352676",
     "geom:latitude":51.352676,
     "geom:longitude":12.421711,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Volksgartenstr. 53",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135860215,
-    "wof:lastmodified":1449022358,
+    "wof:lastmodified":1466244318,
     "wof:name":"Hoensch Bestattungsdienst",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.421711,51.352676,12.421711,51.352676],
+  "bbox": [
+    12.421711,
+    51.352676,
+    12.421711,
+    51.352676
+],
   "geometry": {"coordinates":[12.421711,51.352676],"type":"Point"}
 }

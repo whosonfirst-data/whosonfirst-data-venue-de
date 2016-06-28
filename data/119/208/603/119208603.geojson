@@ -2,13 +2,14 @@
   "id": 119208603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.946455,53.547646,9.946455,53.547646",
     "geom:latitude":53.547646,
     "geom:longitude":9.946455,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Struenseestr. 30",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119208603,
-    "wof:lastmodified":1449041156,
+    "wof:lastmodified":1466229515,
     "wof:name":"Hambg. \u00d6ffentl. B\u00fccherhallen Ausgabest. Haus Der Jugend",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.946455,53.547646,9.946455,53.547646],
+  "bbox": [
+    9.946455,
+    53.547646,
+    9.946455,
+    53.547646
+],
   "geometry": {"coordinates":[9.946455,53.547646],"type":"Point"}
 }

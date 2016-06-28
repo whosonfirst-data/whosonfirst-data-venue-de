@@ -2,13 +2,14 @@
   "id": 135629275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.304672,51.475071,7.304672,51.475071",
     "geom:latitude":51.475071,
     "geom:longitude":7.304672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohe Eiche 12",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865101,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85865101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135629275,
-    "wof:lastmodified":1449023316,
+    "wof:lastmodified":1466240427,
     "wof:name":"Bausparkasse W\u00fcstenrot Gmbh",
     "wof:parent_id":85865101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.304672,51.475071,7.304672,51.475071],
+  "bbox": [
+    7.304672,
+    51.475071,
+    7.304672,
+    51.475071
+],
   "geometry": {"coordinates":[7.304672,51.475071],"type":"Point"}
 }

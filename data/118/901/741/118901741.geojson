@@ -2,13 +2,14 @@
   "id": 118901741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.684479,50.114777,8.684479,50.114777",
     "geom:latitude":50.114777,
     "geom:longitude":8.684479,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeil 90",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118901741,
-    "wof:lastmodified":1449053723,
+    "wof:lastmodified":1466235894,
     "wof:name":"Konstabler Apotheke Im Hause Hertie Zeil",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.684479,50.114777,8.684479,50.114777],
+  "bbox": [
+    8.684479,
+    50.114777,
+    8.684479,
+    50.114777
+],
   "geometry": {"coordinates":[8.684479,50.114777],"type":"Point"}
 }

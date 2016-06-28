@@ -2,13 +2,14 @@
   "id": 219981517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.106596,53.710316,10.106596,53.710316",
     "geom:latitude":53.710316,
     "geom:longitude":10.106596,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lohe 24",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219981517,
-    "wof:lastmodified":1449073989,
+    "wof:lastmodified":1466230008,
     "wof:name":"Werner Fleischhauer",
     "wof:parent_id":85900123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.106596,53.710316,10.106596,53.710316],
+  "bbox": [
+    10.106596,
+    53.710316,
+    10.106596,
+    53.710316
+],
   "geometry": {"coordinates":[10.106596,53.710316],"type":"Point"}
 }

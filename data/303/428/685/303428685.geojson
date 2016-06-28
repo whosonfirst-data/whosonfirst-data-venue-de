@@ -2,13 +2,14 @@
   "id": 303428685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.235499,50.81324,10.235499,50.81324",
     "geom:latitude":50.81324,
     "geom:longitude":10.235499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markt 1",
     "sg:city":"Bad Salzungen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303428685,
-    "wof:lastmodified":1449000401,
+    "wof:lastmodified":1466235203,
     "wof:name":"A. Bohl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.235499,50.81324,10.235499,50.81324],
+  "bbox": [
+    10.235499,
+    50.81324,
+    10.235499,
+    50.81324
+],
   "geometry": {"coordinates":[10.235499,50.81324],"type":"Point"}
 }

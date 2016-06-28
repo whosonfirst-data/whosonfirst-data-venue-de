@@ -2,13 +2,14 @@
   "id": 119084637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.92746,50.832081,12.92746,50.832081",
     "geom:latitude":50.832081,
     "geom:longitude":12.92746,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Theresenstr. 1b",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119084637,
-    "wof:lastmodified":1449041134,
+    "wof:lastmodified":1466218634,
     "wof:name":"Krieger Schuster Und Partner",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.92746,50.832081,12.92746,50.832081],
+  "bbox": [
+    12.92746,
+    50.832081,
+    12.92746,
+    50.832081
+],
   "geometry": {"coordinates":[12.92746,50.832081],"type":"Point"}
 }

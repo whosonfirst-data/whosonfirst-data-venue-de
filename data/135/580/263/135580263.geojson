@@ -2,13 +2,14 @@
   "id": 135580263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535463,53.193817,8.535463,53.193817",
     "geom:latitude":53.193817,
     "geom:longitude":8.535463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Amtsweide 35",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795213,
+        85682555,
         85633111,
         101748829,
         102064025,
-        85682555
+        85795213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135580263,
-    "wof:lastmodified":1449023040,
+    "wof:lastmodified":1466238065,
     "wof:name":"Immo-projekt Gmbh",
     "wof:parent_id":85795213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535463,53.193817,8.535463,53.193817],
+  "bbox": [
+    8.535463,
+    53.193817,
+    8.535463,
+    53.193817
+],
   "geometry": {"coordinates":[8.535463,53.193817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186185901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.577203,48.139507,11.577203,48.139507",
     "geom:latitude":48.139507,
     "geom:longitude":11.577203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Residenzstr. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186185901,
-    "wof:lastmodified":1449050851,
+    "wof:lastmodified":1466215138,
     "wof:name":"Thomas Von Lintel",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.577203,48.139507,11.577203,48.139507],
+  "bbox": [
+    11.577203,
+    48.139507,
+    11.577203,
+    48.139507
+],
   "geometry": {"coordinates":[11.577203,48.139507],"type":"Point"}
 }

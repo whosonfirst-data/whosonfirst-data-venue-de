@@ -2,13 +2,14 @@
   "id": 152538585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.570833,48.088242,11.570833,48.088242",
     "geom:latitude":48.088242,
     "geom:longitude":11.570833,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Perlacher Forst 170",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899261,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152538585,
-    "wof:lastmodified":1449044887,
+    "wof:lastmodified":1466221089,
     "wof:name":"Biga-verwaltungs-gmbh",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.570833,48.088242,11.570833,48.088242],
+  "bbox": [
+    11.570833,
+    48.088242,
+    11.570833,
+    48.088242
+],
   "geometry": {"coordinates":[11.570833,48.088242],"type":"Point"}
 }

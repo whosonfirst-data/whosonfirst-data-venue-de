@@ -2,13 +2,14 @@
   "id": 119325163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.637986,49.690617,11.637986,49.690617",
     "geom:latitude":49.690617,
     "geom:longitude":11.637986,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergknappenstr. 3",
     "sg:city":"Auerbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119325163,
-    "wof:lastmodified":1449041801,
+    "wof:lastmodified":1466238610,
     "wof:name":"Hans Kastner",
     "wof:parent_id":101826913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.637986,49.690617,11.637986,49.690617],
+  "bbox": [
+    11.637986,
+    49.690617,
+    11.637986,
+    49.690617
+],
   "geometry": {"coordinates":[11.637986,49.690617],"type":"Point"}
 }

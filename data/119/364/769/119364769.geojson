@@ -2,13 +2,14 @@
   "id": 119364769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.463102,52.884594,12.463102,52.884594",
     "geom:latitude":52.884594,
     "geom:longitude":12.463102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 42",
     "sg:city":"Wusterhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119364769,
-    "wof:lastmodified":1449042356,
+    "wof:lastmodified":1466240679,
     "wof:name":"P. Brunk",
     "wof:parent_id":101820675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.463102,52.884594,12.463102,52.884594],
+  "bbox": [
+    12.463102,
+    52.884594,
+    12.463102,
+    52.884594
+],
   "geometry": {"coordinates":[12.463102,52.884594],"type":"Point"}
 }

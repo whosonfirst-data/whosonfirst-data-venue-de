@@ -2,13 +2,14 @@
   "id": 336922323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.65169,47.768875,12.65169,47.768875",
     "geom:latitude":47.768875,
     "geom:longitude":12.65169,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Miesenbacherstr. 68",
     "sg:city":"Ruhpolding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":336922323,
-    "wof:lastmodified":1448997028,
+    "wof:lastmodified":1466239051,
     "wof:name":"Johann Felber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.65169,47.768875,12.65169,47.768875],
+  "bbox": [
+    12.65169,
+    47.768875,
+    12.65169,
+    47.768875
+],
   "geometry": {"coordinates":[12.65169,47.768875],"type":"Point"}
 }

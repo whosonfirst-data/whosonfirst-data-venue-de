@@ -2,13 +2,14 @@
   "id": 152999797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69451,50.121346,8.69451,50.121346",
     "geom:latitude":50.121346,
     "geom:longitude":8.69451,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elkenbachstr.43",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152999797,
-    "wof:lastmodified":1449048346,
+    "wof:lastmodified":1466231783,
     "wof:name":"Wizzquiz.de",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69451,50.121346,8.69451,50.121346],
+  "bbox": [
+    8.69451,
+    50.121346,
+    8.69451,
+    50.121346
+],
   "geometry": {"coordinates":[8.69451,50.121346],"type":"Point"}
 }

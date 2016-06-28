@@ -2,13 +2,14 @@
   "id": 219826223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190967,49.235943,9.190967,49.235943",
     "geom:latitude":49.235943,
     "geom:longitude":9.190967,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 9/2",
     "sg:city":"Bad Friedrichshall",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219826223,
-    "wof:lastmodified":1449072962,
+    "wof:lastmodified":1466226839,
     "wof:name":"Robert Zimmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190967,49.235943,9.190967,49.235943],
+  "bbox": [
+    9.190967,
+    49.235943,
+    9.190967,
+    49.235943
+],
   "geometry": {"coordinates":[9.190967,49.235943],"type":"Point"}
 }

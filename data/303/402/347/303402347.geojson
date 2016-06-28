@@ -2,13 +2,14 @@
   "id": 303402347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.982687,48.188328,11.982687,48.188328",
     "geom:latitude":48.188328,
     "geom:longitude":11.982687,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fichtenstr. 4 b",
     "sg:city":"Forstern",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303402347,
-    "wof:lastmodified":1448998897,
+    "wof:lastmodified":1466234482,
     "wof:name":"Wiesner Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.982687,48.188328,11.982687,48.188328],
+  "bbox": [
+    11.982687,
+    48.188328,
+    11.982687,
+    48.188328
+],
   "geometry": {"coordinates":[11.982687,48.188328],"type":"Point"}
 }

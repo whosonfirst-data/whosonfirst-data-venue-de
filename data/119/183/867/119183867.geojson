@@ -2,13 +2,14 @@
   "id": 119183867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.79179,51.058414,13.79179,51.058414",
     "geom:latitude":51.058414,
     "geom:longitude":13.79179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goetheallee 23",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900115,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119183867,
-    "wof:lastmodified":1449042279,
+    "wof:lastmodified":1466227291,
     "wof:name":"Trag Werk Ingenieure D\u00f6king Und Purak Partnerschaft",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.79179,51.058414,13.79179,51.058414],
+  "bbox": [
+    13.79179,
+    51.058414,
+    13.79179,
+    51.058414
+],
   "geometry": {"coordinates":[13.79179,51.058414],"type":"Point"}
 }

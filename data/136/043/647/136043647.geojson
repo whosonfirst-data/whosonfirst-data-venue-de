@@ -2,13 +2,14 @@
   "id": 136043647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.575333,39.199371,-84.575333,39.199371",
     "geom:latitude":39.199371,
     "geom:longitude":-84.575333,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hufergasse 17",
     "sg:city":"Essern",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822201,
+        85688485,
         85633793,
         101713803,
         102083687,
-        85688485
+        85822201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136043647,
-    "wof:lastmodified":1449075914,
+    "wof:lastmodified":1466214110,
     "wof:name":"Der Geburtstagstorten Versand",
     "wof:parent_id":85822201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.575333,39.199371,-84.575333,39.199371],
+  "bbox": [
+    -84.575333,
+    39.199371,
+    -84.575333,
+    39.199371
+],
   "geometry": {"coordinates":[-84.575333,39.199371],"type":"Point"}
 }

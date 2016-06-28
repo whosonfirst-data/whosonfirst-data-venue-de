@@ -2,13 +2,14 @@
   "id": 118984375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.061929,50.81131,6.061929,50.81131",
     "geom:latitude":50.81131,
     "geom:longitude":6.061929,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausplatz 4",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796765,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85796765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118984375,
-    "wof:lastmodified":1449053938,
+    "wof:lastmodified":1466239235,
     "wof:name":"Bob Becker Architekt",
     "wof:parent_id":85796765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.061929,50.81131,6.061929,50.81131],
+  "bbox": [
+    6.061929,
+    50.81131,
+    6.061929,
+    50.81131
+],
   "geometry": {"coordinates":[6.061929,50.81131],"type":"Point"}
 }

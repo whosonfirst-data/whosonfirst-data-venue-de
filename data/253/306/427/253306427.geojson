@@ -2,13 +2,14 @@
   "id": 253306427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.856483,52.986492,9.856483,52.986492",
     "geom:latitude":52.986492,
     "geom:longitude":9.856483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcneburger Str. 58",
     "sg:city":"Soltau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253306427,
-    "wof:lastmodified":1449065662,
+    "wof:lastmodified":1466225014,
     "wof:name":"Georg Hintze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.856483,52.986492,9.856483,52.986492],
+  "bbox": [
+    9.856483,
+    52.986492,
+    9.856483,
+    52.986492
+],
   "geometry": {"coordinates":[9.856483,52.986492],"type":"Point"}
 }

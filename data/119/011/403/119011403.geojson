@@ -2,13 +2,14 @@
   "id": 119011403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.682597,51.195171,6.682597,51.195171",
     "geom:latitude":51.195171,
     "geom:longitude":6.682597,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Friedrich-Str. 28",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862935,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85862935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119011403,
-    "wof:lastmodified":1449043024,
+    "wof:lastmodified":1466219405,
     "wof:name":"Friedel Kellermann Architekt",
     "wof:parent_id":85862935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.682597,51.195171,6.682597,51.195171],
+  "bbox": [
+    6.682597,
+    51.195171,
+    6.682597,
+    51.195171
+],
   "geometry": {"coordinates":[6.682597,51.195171],"type":"Point"}
 }

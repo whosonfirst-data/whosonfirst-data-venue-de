@@ -2,13 +2,14 @@
   "id": 320338281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.032198,52.414803,13.032198,52.414803",
     "geom:latitude":52.414803,
     "geom:longitude":13.032198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirschallee 5",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320338281,
-    "wof:lastmodified":1449012564,
+    "wof:lastmodified":1466239503,
     "wof:name":"Kay Kittlitz",
     "wof:parent_id":85899029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.032198,52.414803,13.032198,52.414803],
+  "bbox": [
+    13.032198,
+    52.414803,
+    13.032198,
+    52.414803
+],
   "geometry": {"coordinates":[13.032198,52.414803],"type":"Point"}
 }

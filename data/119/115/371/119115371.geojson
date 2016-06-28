@@ -2,13 +2,14 @@
   "id": 119115371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.341108,51.423119,7.341108,51.423119",
     "geom:latitude":51.423119,
     "geom:longitude":7.341108,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bommerfelder Ring 21",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794907,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119115371,
-    "wof:lastmodified":1449040867,
+    "wof:lastmodified":1466221518,
     "wof:name":"Rainer Schaarmann Architekt",
     "wof:parent_id":85794907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.341108,51.423119,7.341108,51.423119],
+  "bbox": [
+    7.341108,
+    51.423119,
+    7.341108,
+    51.423119
+],
   "geometry": {"coordinates":[7.341108,51.423119],"type":"Point"}
 }

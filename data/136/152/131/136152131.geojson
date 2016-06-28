@@ -2,13 +2,14 @@
   "id": 136152131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.475151,27.817129,-80.475151,27.817129",
     "geom:latitude":27.817129,
     "geom:longitude":-80.475151,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"35 eaton park",
     "sg:city":"Sebastian",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"32958",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85889579,
+        85688651,
         85633793,
         85932731,
         102085837,
-        85688651
+        85889579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136152131,
-    "wof:lastmodified":1449075924,
+    "wof:lastmodified":1466218905,
     "wof:name":"Windows Bibliography",
     "wof:parent_id":85889579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.475151,27.817129,-80.475151,27.817129],
+  "bbox": [
+    -80.475151,
+    27.817129,
+    -80.475151,
+    27.817129
+],
   "geometry": {"coordinates":[-80.475151,27.817129],"type":"Point"}
 }

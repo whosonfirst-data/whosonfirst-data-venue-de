@@ -2,13 +2,14 @@
   "id": 220100973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.060665,50.320892,7.060665,50.320892",
     "geom:latitude":50.320892,
     "geom:longitude":7.060665,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 4",
     "sg:city":"Nachtsheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220100973,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466216521,
     "wof:name":"Werner Hoffmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.060665,50.320892,7.060665,50.320892],
+  "bbox": [
+    7.060665,
+    50.320892,
+    7.060665,
+    50.320892
+],
   "geometry": {"coordinates":[7.060665,50.320892],"type":"Point"}
 }

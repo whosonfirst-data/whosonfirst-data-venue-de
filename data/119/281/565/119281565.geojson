@@ -2,13 +2,14 @@
   "id": 119281565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.432322,52.605125,13.432322,52.605125",
     "geom:latitude":52.605125,
     "geom:longitude":13.432322,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr 13a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119281565,
-    "wof:lastmodified":1449043115,
+    "wof:lastmodified":1466236475,
     "wof:name":"Geophone Deutschland",
     "wof:parent_id":101748799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.432322,52.605125,13.432322,52.605125],
+  "bbox": [
+    13.432322,
+    52.605125,
+    13.432322,
+    52.605125
+],
   "geometry": {"coordinates":[13.432322,52.605125],"type":"Point"}
 }

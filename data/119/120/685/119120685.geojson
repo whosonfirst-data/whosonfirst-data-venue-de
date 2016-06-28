@@ -2,13 +2,14 @@
   "id": 119120685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.106979,49.463337,11.106979,49.463337",
     "geom:latitude":49.463337,
     "geom:longitude":11.106979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharnhorststr. 32",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900215,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119120685,
-    "wof:lastmodified":1449043152,
+    "wof:lastmodified":1466221968,
     "wof:name":"Robert Vogel Architekt",
     "wof:parent_id":85900215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.106979,49.463337,11.106979,49.463337],
+  "bbox": [
+    11.106979,
+    49.463337,
+    11.106979,
+    49.463337
+],
   "geometry": {"coordinates":[11.106979,49.463337],"type":"Point"}
 }

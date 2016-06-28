@@ -2,13 +2,14 @@
   "id": 118607185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564384,49.871105,8.564384,49.871105",
     "geom:latitude":49.871105,
     "geom:longitude":8.564384,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bunsenstr 5",
     "sg:city":"Griesheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118607185,
-    "wof:lastmodified":1449053326,
+    "wof:lastmodified":1466218630,
     "wof:name":"Frutrans Transporte & Lagerungen Gmbh & Co Kg",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564384,49.871105,8.564384,49.871105],
+  "bbox": [
+    8.564384,
+    49.871105,
+    8.564384,
+    49.871105
+],
   "geometry": {"coordinates":[8.564384,49.871105],"type":"Point"}
 }

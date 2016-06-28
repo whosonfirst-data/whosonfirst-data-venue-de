@@ -2,13 +2,14 @@
   "id": 135653927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084161,49.854599,9.084161,49.854599",
     "geom:latitude":49.854599,
     "geom:longitude":9.084161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Ziegelrain 18",
     "sg:city":"M\u00f6mlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135653927,
-    "wof:lastmodified":1449021214,
+    "wof:lastmodified":1466240945,
     "wof:name":"Bernd Heidrich",
     "wof:parent_id":101813241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084161,49.854599,9.084161,49.854599],
+  "bbox": [
+    9.084161,
+    49.854599,
+    9.084161,
+    49.854599
+],
   "geometry": {"coordinates":[9.084161,49.854599],"type":"Point"}
 }

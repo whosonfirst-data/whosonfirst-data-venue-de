@@ -2,13 +2,14 @@
   "id": 303282851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.146368,48.72823,9.146368,48.72823",
     "geom:latitude":48.72823,
     "geom:longitude":9.146368,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vaihinger Str. 40",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303282851,
-    "wof:lastmodified":1448999649,
+    "wof:lastmodified":1466231463,
     "wof:name":"Wolfgang Maack Drogerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.146368,48.72823,9.146368,48.72823],
+  "bbox": [
+    9.146368,
+    48.72823,
+    9.146368,
+    48.72823
+],
   "geometry": {"coordinates":[9.146368,48.72823],"type":"Point"}
 }

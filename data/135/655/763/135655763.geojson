@@ -2,13 +2,14 @@
   "id": 135655763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.554792,51.496124,7.554792,51.496124",
     "geom:latitude":51.496124,
     "geom:longitude":7.554792,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marsbruchstr. 42 a",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794747,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85794747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135655763,
-    "wof:lastmodified":1449022747,
+    "wof:lastmodified":1466241068,
     "wof:name":"Edmund Schubert Bauschlosserei",
     "wof:parent_id":85794747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.554792,51.496124,7.554792,51.496124],
+  "bbox": [
+    7.554792,
+    51.496124,
+    7.554792,
+    51.496124
+],
   "geometry": {"coordinates":[7.554792,51.496124],"type":"Point"}
 }

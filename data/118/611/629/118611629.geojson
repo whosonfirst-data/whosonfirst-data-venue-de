@@ -2,13 +2,14 @@
   "id": 118611629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.124747,48.679291,10.124747,48.679291",
     "geom:latitude":48.679291,
     "geom:longitude":10.124747,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinheimer Str 7",
     "sg:city":"Heidenheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118611629,
-    "wof:lastmodified":1449054257,
+    "wof:lastmodified":1466218911,
     "wof:name":"Aditech Gmbh",
     "wof:parent_id":101761787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.124747,48.679291,10.124747,48.679291],
+  "bbox": [
+    10.124747,
+    48.679291,
+    10.124747,
+    48.679291
+],
   "geometry": {"coordinates":[10.124747,48.679291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135357397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611409,51.581181,7.611409,51.581181",
     "geom:latitude":51.581181,
     "geom:longitude":7.611409,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Prein-Str. 29",
     "sg:city":"Kamen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063823,
-        85633111,
         85682513,
-        85795609
+        85633111,
+        85795609,
+        102063823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135357397,
-    "wof:lastmodified":1449023637,
+    "wof:lastmodified":1466218745,
     "wof:name":"Wellner Die B\u00e4ckerei Gmbh",
     "wof:parent_id":85795609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611409,51.581181,7.611409,51.581181],
+  "bbox": [
+    7.611409,
+    51.581181,
+    7.611409,
+    51.581181
+],
   "geometry": {"coordinates":[7.611409,51.581181],"type":"Point"}
 }

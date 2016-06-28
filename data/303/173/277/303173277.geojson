@@ -2,13 +2,14 @@
   "id": 303173277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.647058,49.988926,8.647058,49.988926",
     "geom:latitude":49.988926,
     "geom:longitude":8.647058,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Ginsterbusch 18",
     "sg:city":"Langen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303173277,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466228795,
     "wof:name":"E. Lauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.647058,49.988926,8.647058,49.988926],
+  "bbox": [
+    8.647058,
+    49.988926,
+    8.647058,
+    49.988926
+],
   "geometry": {"coordinates":[8.647058,49.988926],"type":"Point"}
 }

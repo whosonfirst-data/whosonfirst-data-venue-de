@@ -2,13 +2,14 @@
   "id": 136250429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.983093,50.972008,10.983093,50.972008",
     "geom:latitude":50.972008,
     "geom:longitude":10.983093,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kreuzchen 52",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136250429,
-    "wof:lastmodified":1449075683,
+    "wof:lastmodified":1466224239,
     "wof:name":"Roswitha Vogt",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.983093,50.972008,10.983093,50.972008],
+  "bbox": [
+    10.983093,
+    50.972008,
+    10.983093,
+    50.972008
+],
   "geometry": {"coordinates":[10.983093,50.972008],"type":"Point"}
 }

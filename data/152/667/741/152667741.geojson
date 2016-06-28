@@ -2,13 +2,14 @@
   "id": 152667741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.00532,49.228996,7.00532,49.228996",
     "geom:latitude":49.228996,
     "geom:longitude":7.00532,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 53",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152667741,
-    "wof:lastmodified":1449047319,
+    "wof:lastmodified":1466223943,
     "wof:name":"Lionhead Venture Capital Ag",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.00532,49.228996,7.00532,49.228996],
+  "bbox": [
+    7.00532,
+    49.228996,
+    7.00532,
+    49.228996
+],
   "geometry": {"coordinates":[7.00532,49.228996],"type":"Point"}
 }

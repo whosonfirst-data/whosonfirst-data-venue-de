@@ -2,13 +2,14 @@
   "id": 303345109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.35317,48.653198,9.35317,48.653198",
     "geom:latitude":48.653198,
     "geom:longitude":9.35317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcrtinger Str. 39",
     "sg:city":"Unterensingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303345109,
-    "wof:lastmodified":1449000372,
+    "wof:lastmodified":1466233027,
     "wof:name":"M. Peuser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.35317,48.653198,9.35317,48.653198],
+  "bbox": [
+    9.35317,
+    48.653198,
+    9.35317,
+    48.653198
+],
   "geometry": {"coordinates":[9.35317,48.653198],"type":"Point"}
 }

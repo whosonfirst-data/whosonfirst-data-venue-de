@@ -2,13 +2,14 @@
   "id": 152831991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.610213,52.435844,9.610213,52.435844",
     "geom:latitude":52.435844,
     "geom:longitude":9.610213,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heideweg 3",
     "sg:city":"Garbsen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85905781
+        85633111,
+        85905781,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152831991,
-    "wof:lastmodified":1449047012,
+    "wof:lastmodified":1466227797,
     "wof:name":"Handelsagentu Jean-pierre Wartique Und Duftsshop",
     "wof:parent_id":85905781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.610213,52.435844,9.610213,52.435844],
+  "bbox": [
+    9.610213,
+    52.435844,
+    9.610213,
+    52.435844
+],
   "geometry": {"coordinates":[9.610213,52.435844],"type":"Point"}
 }

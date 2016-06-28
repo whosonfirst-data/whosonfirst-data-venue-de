@@ -2,13 +2,14 @@
   "id": 202757155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.303509,48.752953,9.303509,48.752953",
     "geom:latitude":48.752953,
     "geom:longitude":9.303509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krummenackerstr. 65",
     "sg:city":"Esslingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202757155,
-    "wof:lastmodified":1449061531,
+    "wof:lastmodified":1466220472,
     "wof:name":"L. Brieger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.303509,48.752953,9.303509,48.752953],
+  "bbox": [
+    9.303509,
+    48.752953,
+    9.303509,
+    48.752953
+],
   "geometry": {"coordinates":[9.303509,48.752953],"type":"Point"}
 }

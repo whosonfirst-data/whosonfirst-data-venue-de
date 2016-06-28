@@ -2,13 +2,14 @@
   "id": 119189249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.510635,51.313194,9.510635,51.313194",
     "geom:latitude":51.313194,
     "geom:longitude":9.510635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sommerweg 1b",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899739,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85899739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119189249,
-    "wof:lastmodified":1449042747,
+    "wof:lastmodified":1466227792,
     "wof:name":"Archiv Der Ersten Deutschen Frauenbewegung E. V.",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.510635,51.313194,9.510635,51.313194],
+  "bbox": [
+    9.510635,
+    51.313194,
+    9.510635,
+    51.313194
+],
   "geometry": {"coordinates":[9.510635,51.313194],"type":"Point"}
 }

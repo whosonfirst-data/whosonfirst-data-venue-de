@@ -2,13 +2,14 @@
   "id": 136173245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.583607,48.094208,11.583607,48.094208",
     "geom:latitude":48.094208,
     "geom:longitude":11.583607,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadelbergstr. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899199,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136173245,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466219858,
     "wof:name":"Werner Schr\u00e4gle Gmbh",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.583607,48.094208,11.583607,48.094208],
+  "bbox": [
+    11.583607,
+    48.094208,
+    11.583607,
+    48.094208
+],
   "geometry": {"coordinates":[11.583607,48.094208],"type":"Point"}
 }

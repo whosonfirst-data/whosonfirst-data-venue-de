@@ -2,13 +2,14 @@
   "id": 118965307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.678692,51.547127,7.678692,51.547127",
     "geom:latitude":51.547127,
     "geom:longitude":7.678692,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vaersthausener Str. 11",
     "sg:city":"Unna",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796731,
+        85682513,
         85633111,
         101748733,
         102063823,
-        85682513
+        85796731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118965307,
-    "wof:lastmodified":1449054121,
+    "wof:lastmodified":1466238511,
     "wof:name":"Josef B\u00e4umer Garten- Und",
     "wof:parent_id":85796731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.678692,51.547127,7.678692,51.547127],
+  "bbox": [
+    7.678692,
+    51.547127,
+    7.678692,
+    51.547127
+],
   "geometry": {"coordinates":[7.678692,51.547127],"type":"Point"}
 }

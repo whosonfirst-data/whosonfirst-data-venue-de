@@ -2,13 +2,14 @@
   "id": 119460731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.184234,48.852825,9.184234,48.852825",
     "geom:latitude":48.852825,
     "geom:longitude":9.184234,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstr. 27",
     "sg:city":"Kornwestheim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85796651
+        85633111,
+        85796651,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119460731,
-    "wof:lastmodified":1449043403,
+    "wof:lastmodified":1466242836,
     "wof:name":"Autowelt Gmbh",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.184234,48.852825,9.184234,48.852825],
+  "bbox": [
+    9.184234,
+    48.852825,
+    9.184234,
+    48.852825
+],
   "geometry": {"coordinates":[9.184234,48.852825],"type":"Point"}
 }

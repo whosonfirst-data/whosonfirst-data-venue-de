@@ -2,13 +2,14 @@
   "id": 118566293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.114411,51.002987,7.114411,51.002987",
     "geom:latitude":51.002987,
     "geom:longitude":7.114411,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6ckachstr 16",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794941,
+        85682513,
         85633111,
         101748647,
         102063727,
-        85682513
+        85794941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118566293,
-    "wof:lastmodified":1449053176,
+    "wof:lastmodified":1466216246,
     "wof:name":"Holtey Werbeagentur Gmbh & Co Kg",
     "wof:parent_id":85794941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.114411,51.002987,7.114411,51.002987],
+  "bbox": [
+    7.114411,
+    51.002987,
+    7.114411,
+    51.002987
+],
   "geometry": {"coordinates":[7.114411,51.002987],"type":"Point"}
 }

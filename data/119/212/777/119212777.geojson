@@ -2,13 +2,14 @@
   "id": 119212777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.189635,54.326836,10.189635,54.326836",
     "geom:latitude":54.326836,
     "geom:longitude":10.189635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostring 191",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899097,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119212777,
-    "wof:lastmodified":1449042609,
+    "wof:lastmodified":1466229959,
     "wof:name":"Kath. \u00d6ffentl. Bibliothek St. Josef",
     "wof:parent_id":85899097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.189635,54.326836,10.189635,54.326836],
+  "bbox": [
+    10.189635,
+    54.326836,
+    10.189635,
+    54.326836
+],
   "geometry": {"coordinates":[10.189635,54.326836],"type":"Point"}
 }

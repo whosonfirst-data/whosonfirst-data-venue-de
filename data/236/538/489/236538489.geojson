@@ -2,13 +2,14 @@
   "id": 236538489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.084358,49.469967,11.084358,49.469967",
     "geom:latitude":49.469967,
     "geom:longitude":11.084358,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jakob-Muffel-Str. 16",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236538489,
-    "wof:lastmodified":1449001989,
+    "wof:lastmodified":1466228720,
     "wof:name":"Sport Link",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.084358,49.469967,11.084358,49.469967],
+  "bbox": [
+    11.084358,
+    49.469967,
+    11.084358,
+    49.469967
+],
   "geometry": {"coordinates":[11.084358,49.469967],"type":"Point"}
 }

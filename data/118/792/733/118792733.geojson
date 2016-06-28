@@ -2,13 +2,14 @@
   "id": 118792733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.251272,51.603935,7.251272,51.603935",
     "geom:latitude":51.603935,
     "geom:longitude":7.251272,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maria-May-Str 13",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
-        85863203
+        85633111,
+        85863203,
+        102063831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118792733,
-    "wof:lastmodified":1449053448,
+    "wof:lastmodified":1466229343,
     "wof:name":"H\u00f6kenschnieder Reinigungstechnik Ohg",
     "wof:parent_id":85863203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.251272,51.603935,7.251272,51.603935],
+  "bbox": [
+    7.251272,
+    51.603935,
+    7.251272,
+    51.603935
+],
   "geometry": {"coordinates":[7.251272,51.603935],"type":"Point"}
 }

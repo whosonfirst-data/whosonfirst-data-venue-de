@@ -2,13 +2,14 @@
   "id": 220019379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.269712,49.997608,8.269712,49.997608",
     "geom:latitude":49.997608,
     "geom:longitude":8.269712,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ballplatz 2",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220019379,
-    "wof:lastmodified":1449074512,
+    "wof:lastmodified":1466214965,
     "wof:name":"Cafe Am Ballplatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.269712,49.997608,8.269712,49.997608],
+  "bbox": [
+    8.269712,
+    49.997608,
+    8.269712,
+    49.997608
+],
   "geometry": {"coordinates":[8.269712,49.997608],"type":"Point"}
 }

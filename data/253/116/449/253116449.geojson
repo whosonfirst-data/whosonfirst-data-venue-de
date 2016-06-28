@@ -2,13 +2,14 @@
   "id": 253116449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.595308,49.299629,10.595308,49.299629",
     "geom:latitude":49.299629,
     "geom:longitude":10.595308,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Oberer-Weg 21a",
     "sg:city":"Ansbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253116449,
-    "wof:lastmodified":1449063251,
+    "wof:lastmodified":1466221522,
     "wof:name":"Hans Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.595308,49.299629,10.595308,49.299629],
+  "bbox": [
+    10.595308,
+    49.299629,
+    10.595308,
+    49.299629
+],
   "geometry": {"coordinates":[10.595308,49.299629],"type":"Point"}
 }

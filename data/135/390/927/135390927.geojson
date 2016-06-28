@@ -2,13 +2,14 @@
   "id": 135390927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.376987,52.516075,13.376987,52.516075",
     "geom:latitude":52.516075,
     "geom:longitude":13.376987,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingraben 11-13",
     "sg:city":"Moosburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135390927,
-    "wof:lastmodified":1449024020,
+    "wof:lastmodified":1466222096,
     "wof:name":"Kadmos Verm\u00f6gensverwaltungsgesellschaft Mbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.376987,52.516075,13.376987,52.516075],
+  "bbox": [
+    13.376987,
+    52.516075,
+    13.376987,
+    52.516075
+],
   "geometry": {"coordinates":[13.376987,52.516075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119420261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.594466,51.991982,8.594466,51.991982",
     "geom:latitude":51.991982,
     "geom:longitude":8.594466,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lipper Hellweg 295a",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795475,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119420261,
-    "wof:lastmodified":1449042102,
+    "wof:lastmodified":1466242059,
     "wof:name":"R. Und F. Werning Gmbh",
     "wof:parent_id":85795475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.594466,51.991982,8.594466,51.991982],
+  "bbox": [
+    8.594466,
+    51.991982,
+    8.594466,
+    51.991982
+],
   "geometry": {"coordinates":[8.594466,51.991982],"type":"Point"}
 }

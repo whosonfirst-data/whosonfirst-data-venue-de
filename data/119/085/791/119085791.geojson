@@ -2,13 +2,14 @@
   "id": 119085791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.666137,47.621071,7.666137,47.621071",
     "geom:latitude":47.621071,
     "geom:longitude":7.666137,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Alten 7",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119085791,
-    "wof:lastmodified":1449041467,
+    "wof:lastmodified":1466218736,
     "wof:name":"Kurt K\u00fclby",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.666137,47.621071,7.666137,47.621071],
+  "bbox": [
+    7.666137,
+    47.621071,
+    7.666137,
+    47.621071
+],
   "geometry": {"coordinates":[7.666137,47.621071],"type":"Point"}
 }

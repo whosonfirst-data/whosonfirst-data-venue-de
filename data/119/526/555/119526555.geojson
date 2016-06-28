@@ -2,13 +2,14 @@
   "id": 119526555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.200893,49.480942,11.200893,49.480942",
     "geom:latitude":49.480942,
     "geom:longitude":11.200893,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufer Str. 11",
     "sg:city":"Schwaig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063495,
-        85633111,
         85682571,
-        85899487
+        85633111,
+        85899487,
+        102063495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119526555,
-    "wof:lastmodified":1449041594,
+    "wof:lastmodified":1466243861,
     "wof:name":"Georg Meyer",
     "wof:parent_id":85899487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.200893,49.480942,11.200893,49.480942],
+  "bbox": [
+    11.200893,
+    49.480942,
+    11.200893,
+    49.480942
+],
   "geometry": {"coordinates":[11.200893,49.480942],"type":"Point"}
 }

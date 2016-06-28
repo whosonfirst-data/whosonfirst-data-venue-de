@@ -2,13 +2,14 @@
   "id": 118754179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.017905,49.203381,7.017905,49.203381",
     "geom:latitude":49.203381,
     "geom:longitude":7.017905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hartmanns Au 1",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071609,
-        85633147,
         85683271,
-        85796413
+        85633147,
+        85796413,
+        102071609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118754179,
-    "wof:lastmodified":1449054061,
+    "wof:lastmodified":1466227019,
     "wof:name":"Dyckerhoff Fertigbeton Saar Gmbh & Co Kg",
     "wof:parent_id":85796413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.017905,49.203381,7.017905,49.203381],
+  "bbox": [
+    7.017905,
+    49.203381,
+    7.017905,
+    49.203381
+],
   "geometry": {"coordinates":[7.017905,49.203381],"type":"Point"}
 }

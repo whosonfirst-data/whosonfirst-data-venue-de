@@ -2,13 +2,14 @@
   "id": 118953735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.902425,52.036549,8.902425,52.036549",
     "geom:latitude":52.036549,
     "geom:longitude":8.902425,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rintelner Str. 85",
     "sg:city":"Lemgo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118953735,
-    "wof:lastmodified":1449054108,
+    "wof:lastmodified":1466238111,
     "wof:name":"Kreiskrankenhaus Lemgo",
     "wof:parent_id":101809123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.902425,52.036549,8.902425,52.036549],
+  "bbox": [
+    8.902425,
+    52.036549,
+    8.902425,
+    52.036549
+],
   "geometry": {"coordinates":[8.902425,52.036549],"type":"Point"}
 }

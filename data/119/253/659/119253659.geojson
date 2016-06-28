@@ -2,13 +2,14 @@
   "id": 119253659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165321,48.77198,9.165321,48.77198",
     "geom:latitude":48.77198,
     "geom:longitude":9.165321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermannstr 15",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119253659,
-    "wof:lastmodified":1449043205,
+    "wof:lastmodified":1466233960,
     "wof:name":"Pr\u00e4sentations Service Gmbh",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165321,48.77198,9.165321,48.77198],
+  "bbox": [
+    9.165321,
+    48.77198,
+    9.165321,
+    48.77198
+],
   "geometry": {"coordinates":[9.165321,48.77198],"type":"Point"}
 }

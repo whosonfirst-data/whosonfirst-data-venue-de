@@ -2,13 +2,14 @@
   "id": 253161047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.177039,47.965145,11.177039,47.965145",
     "geom:latitude":47.965145,
     "geom:longitude":11.177039,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlinger Str. 2",
     "sg:city":"Andechs",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253161047,
-    "wof:lastmodified":1449063995,
+    "wof:lastmodified":1466222399,
     "wof:name":"Hermann Albrecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.177039,47.965145,11.177039,47.965145],
+  "bbox": [
+    11.177039,
+    47.965145,
+    11.177039,
+    47.965145
+],
   "geometry": {"coordinates":[11.177039,47.965145],"type":"Point"}
 }

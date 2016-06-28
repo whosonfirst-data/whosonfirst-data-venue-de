@@ -2,13 +2,14 @@
   "id": 119267309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.220034,52.414394,13.220034,52.414394",
     "geom:latitude":52.414394,
     "geom:longitude":13.220034,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wendemarken 78b",
     "sg:city":"Kleinmachnow",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119267309,
-    "wof:lastmodified":1449043295,
+    "wof:lastmodified":1466235323,
     "wof:name":"Dr. Med. Renate Deicke",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.220034,52.414394,13.220034,52.414394],
+  "bbox": [
+    13.220034,
+    52.414394,
+    13.220034,
+    52.414394
+],
   "geometry": {"coordinates":[13.220034,52.414394],"type":"Point"}
 }

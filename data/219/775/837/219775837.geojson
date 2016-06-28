@@ -2,13 +2,14 @@
   "id": 219775837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.454085,49.0326,8.454085,49.0326",
     "geom:latitude":49.0326,
     "geom:longitude":8.454085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Allee 14",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219775837,
-    "wof:lastmodified":1449073010,
+    "wof:lastmodified":1466225830,
     "wof:name":"Pottharst Gmbh",
     "wof:parent_id":85795647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.454085,49.0326,8.454085,49.0326],
+  "bbox": [
+    8.454085,
+    49.0326,
+    8.454085,
+    49.0326
+],
   "geometry": {"coordinates":[8.454085,49.0326],"type":"Point"}
 }

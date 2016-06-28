@@ -2,13 +2,14 @@
   "id": 119218215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.082425,51.421741,7.082425,51.421741",
     "geom:latitude":51.421741,
     "geom:longitude":7.082425,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klapperstr. 70",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795403,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119218215,
-    "wof:lastmodified":1449042569,
+    "wof:lastmodified":1466230467,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek St. Suitbert",
     "wof:parent_id":85795403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.082425,51.421741,7.082425,51.421741],
+  "bbox": [
+    7.082425,
+    51.421741,
+    7.082425,
+    51.421741
+],
   "geometry": {"coordinates":[7.082425,51.421741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152722871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.949497,51.547436,6.949497,51.547436",
     "geom:latitude":51.547436,
     "geom:longitude":6.949497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinbabenstr. 75",
     "sg:city":"Bottrop",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794919,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85794919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152722871,
-    "wof:lastmodified":1449045931,
+    "wof:lastmodified":1466225204,
     "wof:name":"Mpv Materialpr\u00fcfungs- Und Vertriebs-gesellschaft F\u00fcr",
     "wof:parent_id":85794919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.949497,51.547436,6.949497,51.547436],
+  "bbox": [
+    6.949497,
+    51.547436,
+    6.949497,
+    51.547436
+],
   "geometry": {"coordinates":[6.949497,51.547436],"type":"Point"}
 }

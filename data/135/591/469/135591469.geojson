@@ -2,13 +2,14 @@
   "id": 135591469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.023673,50.726639,7.023673,50.726639",
     "geom:latitude":50.726639,
     "geom:longitude":7.023673,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alfterer Str. 128",
     "sg:city":"Alfter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795871,
+        85682513,
         85633111,
         101755969,
         102063683,
-        85682513
+        85795871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135591469,
-    "wof:lastmodified":1449022629,
+    "wof:lastmodified":1466238597,
     "wof:name":"Ningelgen",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.023673,50.726639,7.023673,50.726639],
+  "bbox": [
+    7.023673,
+    50.726639,
+    7.023673,
+    50.726639
+],
   "geometry": {"coordinates":[7.023673,50.726639],"type":"Point"}
 }

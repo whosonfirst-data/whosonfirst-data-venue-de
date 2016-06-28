@@ -2,13 +2,14 @@
   "id": 119482657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.507677,48.087273,11.507677,48.087273",
     "geom:latitude":48.087273,
     "geom:longitude":11.507677,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofbrunnstr. 100 A",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905623,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119482657,
-    "wof:lastmodified":1449041733,
+    "wof:lastmodified":1466243449,
     "wof:name":"Hoca Gmbh Holiday Capital Beteiligungs",
     "wof:parent_id":85905623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.507677,48.087273,11.507677,48.087273],
+  "bbox": [
+    11.507677,
+    48.087273,
+    11.507677,
+    48.087273
+],
   "geometry": {"coordinates":[11.507677,48.087273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203349853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.064216,54.469234,9.064216,54.469234",
     "geom:latitude":54.469234,
     "geom:longitude":9.064216,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beselerstr. 81",
     "sg:city":"Husum",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203349853,
-    "wof:lastmodified":1449025636,
+    "wof:lastmodified":1466219654,
     "wof:name":"Werner Backens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.064216,54.469234,9.064216,54.469234],
+  "bbox": [
+    9.064216,
+    54.469234,
+    9.064216,
+    54.469234
+],
   "geometry": {"coordinates":[9.064216,54.469234],"type":"Point"}
 }

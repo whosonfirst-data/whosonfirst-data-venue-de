@@ -2,13 +2,14 @@
   "id": 119043195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.614129,51.49773,7.614129,51.49773",
     "geom:latitude":51.49773,
     "geom:longitude":7.614129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emscherweg 11",
     "sg:city":"Holzwickede",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796735,
+        85682513,
         85633111,
         101756023,
         102063823,
-        85682513
+        85796735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119043195,
-    "wof:lastmodified":1449042853,
+    "wof:lastmodified":1466214763,
     "wof:name":"Heinrich Spiekermann",
     "wof:parent_id":85796735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.614129,51.49773,7.614129,51.49773],
+  "bbox": [
+    7.614129,
+    51.49773,
+    7.614129,
+    51.49773
+],
   "geometry": {"coordinates":[7.614129,51.49773],"type":"Point"}
 }

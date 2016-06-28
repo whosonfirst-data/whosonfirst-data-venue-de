@@ -2,13 +2,14 @@
   "id": 135400605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.081195,53.781567,10.081195,53.781567",
     "geom:latitude":53.781567,
     "geom:longitude":10.081195,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilstedter Str. 1a",
     "sg:city":"Wakendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135400605,
-    "wof:lastmodified":1449021292,
+    "wof:lastmodified":1466222906,
     "wof:name":"Kreissparkasse Segeberg",
     "wof:parent_id":101806755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.081195,53.781567,10.081195,53.781567],
+  "bbox": [
+    10.081195,
+    53.781567,
+    10.081195,
+    53.781567
+],
   "geometry": {"coordinates":[10.081195,53.781567],"type":"Point"}
 }

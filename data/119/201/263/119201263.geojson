@@ -2,13 +2,14 @@
   "id": 119201263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.581156,52.242371,10.581156,52.242371",
     "geom:latitude":52.242371,
     "geom:longitude":10.581156,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 7",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063899,
-        85633111,
         85682555,
-        85900065
+        85633111,
+        85900065,
+        102063899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119201263,
-    "wof:lastmodified":1449043183,
+    "wof:lastmodified":1466228887,
     "wof:name":"Gemeindeb\u00fccherei Br.-rautheim G. S.",
     "wof:parent_id":85900065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.581156,52.242371,10.581156,52.242371],
+  "bbox": [
+    10.581156,
+    52.242371,
+    10.581156,
+    52.242371
+],
   "geometry": {"coordinates":[10.581156,52.242371],"type":"Point"}
 }

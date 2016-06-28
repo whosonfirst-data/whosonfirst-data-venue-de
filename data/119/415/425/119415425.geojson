@@ -2,13 +2,14 @@
   "id": 119415425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.13518,48.459332,11.13518,48.459332",
     "geom:latitude":48.459332,
     "geom:longitude":11.13518,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Michael-Str. 5",
     "sg:city":"Aichach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119415425,
-    "wof:lastmodified":1449042791,
+    "wof:lastmodified":1466242113,
     "wof:name":"Herbert Glas",
     "wof:parent_id":101784155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.13518,48.459332,11.13518,48.459332],
+  "bbox": [
+    11.13518,
+    48.459332,
+    11.13518,
+    48.459332
+],
   "geometry": {"coordinates":[11.13518,48.459332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320370143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.440249,50.169483,11.440249,50.169483",
     "geom:latitude":50.169483,
     "geom:longitude":11.440249,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafendobrach 23",
     "sg:city":"Kulmbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320370143,
-    "wof:lastmodified":1449013308,
+    "wof:lastmodified":1466239918,
     "wof:name":"R. Beetz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.440249,50.169483,11.440249,50.169483],
+  "bbox": [
+    11.440249,
+    50.169483,
+    11.440249,
+    50.169483
+],
   "geometry": {"coordinates":[11.440249,50.169483],"type":"Point"}
 }

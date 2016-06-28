@@ -2,13 +2,14 @@
   "id": 135649405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44309,51.419914,7.44309,51.419914",
     "geom:latitude":51.419914,
     "geom:longitude":7.44309,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gahlenfeldstr. 42",
     "sg:city":"Herdecke",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794689
+        85633111,
+        85794689,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135649405,
-    "wof:lastmodified":1449023059,
+    "wof:lastmodified":1466241052,
     "wof:name":"Nikolic Gmbh",
     "wof:parent_id":85794689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44309,51.419914,7.44309,51.419914],
+  "bbox": [
+    7.44309,
+    51.419914,
+    7.44309,
+    51.419914
+],
   "geometry": {"coordinates":[7.44309,51.419914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119000671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.748138,50.102299,8.748138,50.102299",
     "geom:latitude":50.102299,
     "geom:longitude":8.748138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 130",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119000671,
-    "wof:lastmodified":1449041242,
+    "wof:lastmodified":1466213116,
     "wof:name":"Edith Rudat Architektin",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.748138,50.102299,8.748138,50.102299],
+  "bbox": [
+    8.748138,
+    50.102299,
+    8.748138,
+    50.102299
+],
   "geometry": {"coordinates":[8.748138,50.102299],"type":"Point"}
 }

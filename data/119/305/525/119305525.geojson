@@ -2,13 +2,14 @@
   "id": 119305525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616904,47.616428,7.616904,47.616428",
     "geom:latitude":47.616428,
     "geom:longitude":7.616904,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Turnstr. 15",
     "sg:city":"Weil am Rhein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119305525,
-    "wof:lastmodified":1449041230,
+    "wof:lastmodified":1466237772,
     "wof:name":"Eugen Gauggel",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.616904,47.616428,7.616904,47.616428],
+  "bbox": [
+    7.616904,
+    47.616428,
+    7.616904,
+    47.616428
+],
   "geometry": {"coordinates":[7.616904,47.616428],"type":"Point"}
 }

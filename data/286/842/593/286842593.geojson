@@ -2,13 +2,14 @@
   "id": 286842593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.12345,52.443359,13.12345,52.443359",
     "geom:latitude":52.443359,
     "geom:longitude":13.12345,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sakrower Landstr. 23-29",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286842593,
-    "wof:lastmodified":1449015392,
+    "wof:lastmodified":1466237746,
     "wof:name":"Thunderbird B\u00e4ckerei- Und Nahrungs-",
     "wof:parent_id":85899317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.12345,52.443359,13.12345,52.443359],
+  "bbox": [
+    13.12345,
+    52.443359,
+    13.12345,
+    52.443359
+],
   "geometry": {"coordinates":[13.12345,52.443359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135888825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.941558,50.944534,6.941558,50.944534",
     "geom:latitude":50.944534,
     "geom:longitude":6.941558,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Wilhelm-Ring 27-29",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135888825,
-    "wof:lastmodified":1449022904,
+    "wof:lastmodified":1466244518,
     "wof:name":"Gothaer Zweite Beteiligungsgesellschaft Usa",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.941558,50.944534,6.941558,50.944534],
+  "bbox": [
+    6.941558,
+    50.944534,
+    6.941558,
+    50.944534
+],
   "geometry": {"coordinates":[6.941558,50.944534],"type":"Point"}
 }

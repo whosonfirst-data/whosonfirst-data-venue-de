@@ -2,13 +2,14 @@
   "id": 286869259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.508676,51.324913,9.508676,51.324913",
     "geom:latitude":51.324913,
     "geom:longitude":9.508676,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6nchebergstr. 33",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286869259,
-    "wof:lastmodified":1449017857,
+    "wof:lastmodified":1466238096,
     "wof:name":"Con Plan",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.508676,51.324913,9.508676,51.324913],
+  "bbox": [
+    9.508676,
+    51.324913,
+    9.508676,
+    51.324913
+],
   "geometry": {"coordinates":[9.508676,51.324913],"type":"Point"}
 }

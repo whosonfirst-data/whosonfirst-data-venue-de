@@ -2,13 +2,14 @@
   "id": 303107303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.937205,51.378643,6.937205,51.378643",
     "geom:latitude":51.378643,
     "geom:longitude":6.937205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Teelbruch 89",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303107303,
-    "wof:lastmodified":1448998124,
+    "wof:lastmodified":1466227154,
     "wof:name":"Putzmeister Ag",
     "wof:parent_id":85795963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.937205,51.378643,6.937205,51.378643],
+  "bbox": [
+    6.937205,
+    51.378643,
+    6.937205,
+    51.378643
+],
   "geometry": {"coordinates":[6.937205,51.378643],"type":"Point"}
 }

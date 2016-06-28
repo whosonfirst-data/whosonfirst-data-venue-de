@@ -2,13 +2,14 @@
   "id": 135821347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.628381,51.954792,7.628381,51.954792",
     "geom:latitude":51.954792,
     "geom:longitude":7.628381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafenstr. 6-8",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795293,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135821347,
-    "wof:lastmodified":1449022649,
+    "wof:lastmodified":1466244047,
     "wof:name":"Verband F. D. Verkehrsgewerbe Westfalen-lippe E.v.",
     "wof:parent_id":85795293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.628381,51.954792,7.628381,51.954792],
+  "bbox": [
+    7.628381,
+    51.954792,
+    7.628381,
+    51.954792
+],
   "geometry": {"coordinates":[7.628381,51.954792],"type":"Point"}
 }

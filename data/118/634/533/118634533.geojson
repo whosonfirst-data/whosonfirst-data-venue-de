@@ -2,13 +2,14 @@
   "id": 118634533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.365876,51.314659,12.365876,51.314659",
     "geom:latitude":51.314659,
     "geom:longitude":12.365876,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Lehmann-Str. 11-13",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118634533,
-    "wof:lastmodified":1449053814,
+    "wof:lastmodified":1466220226,
     "wof:name":"Pflegeheim Richard Lehmann",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.365876,51.314659,12.365876,51.314659],
+  "bbox": [
+    12.365876,
+    51.314659,
+    12.365876,
+    51.314659
+],
   "geometry": {"coordinates":[12.365876,51.314659],"type":"Point"}
 }

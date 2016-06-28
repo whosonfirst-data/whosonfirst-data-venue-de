@@ -2,13 +2,14 @@
   "id": 203013173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.527608,49.274265,12.527608,49.274265",
     "geom:latitude":49.274265,
     "geom:longitude":12.527608,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofgarten 25",
     "sg:city":"Stamsried",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203013173,
-    "wof:lastmodified":1449026260,
+    "wof:lastmodified":1466213964,
     "wof:name":"Georg Bauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.527608,49.274265,12.527608,49.274265],
+  "bbox": [
+    12.527608,
+    49.274265,
+    12.527608,
+    49.274265
+],
   "geometry": {"coordinates":[12.527608,49.274265],"type":"Point"}
 }

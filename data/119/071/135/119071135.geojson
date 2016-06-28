@@ -2,13 +2,14 @@
   "id": 119071135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.959159,49.518551,10.959159,49.518551",
     "geom:latitude":49.518551,
     "geom:longitude":10.959159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Peter-Hannweg-Str. 56",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900183,
+        85682571,
         85633111,
         101748545,
         102063487,
-        85682571
+        85900183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119071135,
-    "wof:lastmodified":1449042549,
+    "wof:lastmodified":1466217395,
     "wof:name":"J\u00fcrgen Lischka Architekt",
     "wof:parent_id":85900183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.959159,49.518551,10.959159,49.518551],
+  "bbox": [
+    10.959159,
+    49.518551,
+    10.959159,
+    49.518551
+],
   "geometry": {"coordinates":[10.959159,49.518551],"type":"Point"}
 }

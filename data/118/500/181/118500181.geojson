@@ -2,13 +2,14 @@
   "id": 118500181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.077498,53.536449,10.077498,53.536449",
     "geom:latitude":53.536449,
     "geom:longitude":10.077498,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Billbrookdeich 2-10",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899257,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118500181,
-    "wof:lastmodified":1449053503,
+    "wof:lastmodified":1466220944,
     "wof:name":"Transico Spedition Gmbh",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.077498,53.536449,10.077498,53.536449],
+  "bbox": [
+    10.077498,
+    53.536449,
+    10.077498,
+    53.536449
+],
   "geometry": {"coordinates":[10.077498,53.536449],"type":"Point"}
 }

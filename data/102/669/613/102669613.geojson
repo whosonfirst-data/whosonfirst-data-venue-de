@@ -2,13 +2,14 @@
   "id": 102669613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.708618,36.43457,-119.708618,36.43457",
     "geom:latitude":36.43457,
     "geom:longitude":-119.708618,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Freystadt",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102669613,
-    "wof:lastmodified":1449068072,
+    "wof:lastmodified":1466215292,
     "wof:name":"Sparkasse Neumarkt",
     "wof:parent_id":85927227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.708618,36.43457,-119.708618,36.43457],
+  "bbox": [
+    -119.708618,
+    36.43457,
+    -119.708618,
+    36.43457
+],
   "geometry": {"coordinates":[-119.708618,36.43457],"type":"Point"}
 }

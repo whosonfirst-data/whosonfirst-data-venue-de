@@ -2,13 +2,14 @@
   "id": 135527335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.271546,47.949463,12.271546,47.949463",
     "geom:latitude":47.949463,
     "geom:longitude":12.271546,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenheimer Str. 23",
     "sg:city":"Halfing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135527335,
-    "wof:lastmodified":1449023406,
+    "wof:lastmodified":1466234113,
     "wof:name":"Johann Fegl",
     "wof:parent_id":101787717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.271546,47.949463,12.271546,47.949463],
+  "bbox": [
+    12.271546,
+    47.949463,
+    12.271546,
+    47.949463
+],
   "geometry": {"coordinates":[12.271546,47.949463],"type":"Point"}
 }

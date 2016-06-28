@@ -2,13 +2,14 @@
   "id": 136168535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.736771,51.455494,6.736771,51.455494",
     "geom:latitude":51.455494,
     "geom:longitude":6.736771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landwehrstr. 75",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796547,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85796547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136168535,
-    "wof:lastmodified":1449075609,
+    "wof:lastmodified":1466219648,
     "wof:name":"Theo Beekmann Schiffsmakler",
     "wof:parent_id":85796547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.736771,51.455494,6.736771,51.455494],
+  "bbox": [
+    6.736771,
+    51.455494,
+    6.736771,
+    51.455494
+],
   "geometry": {"coordinates":[6.736771,51.455494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203354623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.15078,53.67955,10.15078,53.67955",
     "geom:latitude":53.67955,
     "geom:longitude":10.15078,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Lottbek 2",
     "sg:city":"Ammersbek",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203354623,
-    "wof:lastmodified":1449026659,
+    "wof:lastmodified":1466219727,
     "wof:name":"Werner Peter Bauunternehmen",
     "wof:parent_id":85900253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.15078,53.67955,10.15078,53.67955],
+  "bbox": [
+    10.15078,
+    53.67955,
+    10.15078,
+    53.67955
+],
   "geometry": {"coordinates":[10.15078,53.67955],"type":"Point"}
 }

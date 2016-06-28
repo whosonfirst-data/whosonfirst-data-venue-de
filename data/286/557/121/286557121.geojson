@@ -2,13 +2,14 @@
   "id": 286557121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.677512,48.115776,11.677512,48.115776",
     "geom:latitude":48.115776,
     "geom:longitude":11.677512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Solalindenstr. 44",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286557121,
-    "wof:lastmodified":1449017285,
+    "wof:lastmodified":1466231520,
     "wof:name":"Paul Meyer",
     "wof:parent_id":85900109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.677512,48.115776,11.677512,48.115776],
+  "bbox": [
+    11.677512,
+    48.115776,
+    11.677512,
+    48.115776
+],
   "geometry": {"coordinates":[11.677512,48.115776],"type":"Point"}
 }

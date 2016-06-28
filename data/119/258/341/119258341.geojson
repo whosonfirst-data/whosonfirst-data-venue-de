@@ -2,13 +2,14 @@
   "id": 119258341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.427074,52.521534,13.427074,52.521534",
     "geom:latitude":52.521534,
     "geom:longitude":13.427074,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weydemeyerstr. 11",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899171,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119258341,
-    "wof:lastmodified":1449042954,
+    "wof:lastmodified":1466234454,
     "wof:name":"Dr. Med. Dietrich Schmidt",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.427074,52.521534,13.427074,52.521534],
+  "bbox": [
+    13.427074,
+    52.521534,
+    13.427074,
+    52.521534
+],
   "geometry": {"coordinates":[13.427074,52.521534],"type":"Point"}
 }

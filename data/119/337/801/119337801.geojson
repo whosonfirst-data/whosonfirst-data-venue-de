@@ -2,13 +2,14 @@
   "id": 119337801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.110256,49.185463,9.110256,49.185463",
     "geom:latitude":49.185463,
     "geom:longitude":9.110256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-Hoffmann-Str. 4",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119337801,
-    "wof:lastmodified":1449042087,
+    "wof:lastmodified":1466239244,
     "wof:name":"Hugo Hohnerlein",
     "wof:parent_id":101748529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.110256,49.185463,9.110256,49.185463],
+  "bbox": [
+    9.110256,
+    49.185463,
+    9.110256,
+    49.185463
+],
   "geometry": {"coordinates":[9.110256,49.185463],"type":"Point"}
 }

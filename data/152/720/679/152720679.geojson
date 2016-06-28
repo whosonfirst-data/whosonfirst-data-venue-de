@@ -2,13 +2,14 @@
   "id": 152720679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.427779,51.302593,9.427779,51.302593",
     "geom:latitude":51.302593,
     "geom:longitude":9.427779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Sch\u00fctz-Allee 31-37",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063755,
-        85633111,
         85682531,
-        85905691
+        85633111,
+        85905691,
+        102063755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152720679,
-    "wof:lastmodified":1449045396,
+    "wof:lastmodified":1466225157,
     "wof:name":"V\u00f6tterle- Verm\u00f6gensverwaltungs-gmbh",
     "wof:parent_id":85905691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.427779,51.302593,9.427779,51.302593],
+  "bbox": [
+    9.427779,
+    51.302593,
+    9.427779,
+    51.302593
+],
   "geometry": {"coordinates":[9.427779,51.302593],"type":"Point"}
 }

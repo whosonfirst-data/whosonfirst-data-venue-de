@@ -2,13 +2,14 @@
   "id": 119284045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.756964,50.104389,8.756964,50.104389",
     "geom:latitude":50.104389,
     "geom:longitude":8.756964,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 68",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119284045,
-    "wof:lastmodified":1449042519,
+    "wof:lastmodified":1466236568,
     "wof:name":"Optik Blank & Klein Gmbh",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.756964,50.104389,8.756964,50.104389],
+  "bbox": [
+    8.756964,
+    50.104389,
+    8.756964,
+    50.104389
+],
   "geometry": {"coordinates":[8.756964,50.104389],"type":"Point"}
 }

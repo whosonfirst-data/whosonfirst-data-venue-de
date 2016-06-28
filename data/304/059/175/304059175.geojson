@@ -2,13 +2,14 @@
   "id": 304059175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.013159,51.074509,7.013159,51.074509",
     "geom:latitude":51.074509,
     "geom:longitude":7.013159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elsbachstr. 109",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304059175,
-    "wof:lastmodified":1449043716,
+    "wof:lastmodified":1466232317,
     "wof:name":"Johannes Ring",
     "wof:parent_id":85795603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.013159,51.074509,7.013159,51.074509],
+  "bbox": [
+    7.013159,
+    51.074509,
+    7.013159,
+    51.074509
+],
   "geometry": {"coordinates":[7.013159,51.074509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152586203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638514,50.172585,8.638514,50.172585",
     "geom:latitude":50.172585,
     "geom:longitude":8.638514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marie-Curie-Str. 30",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152586203,
-    "wof:lastmodified":1449048390,
+    "wof:lastmodified":1466222201,
     "wof:name":"Fkr-verm\u00f6gens- Verwaltungsgesellschaft Mbh",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638514,50.172585,8.638514,50.172585],
+  "bbox": [
+    8.638514,
+    50.172585,
+    8.638514,
+    50.172585
+],
   "geometry": {"coordinates":[8.638514,50.172585],"type":"Point"}
 }

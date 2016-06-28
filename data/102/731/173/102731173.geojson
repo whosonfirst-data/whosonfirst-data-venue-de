@@ -2,13 +2,14 @@
   "id": 102731173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.42793,52.490849,13.42793,52.490849",
     "geom:latitude":52.490849,
     "geom:longitude":13.42793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Berlin",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928793,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102731173,
-    "wof:lastmodified":1449069920,
+    "wof:lastmodified":1466217073,
     "wof:name":"Photolink",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.42793,52.490849,13.42793,52.490849],
+  "bbox": [
+    13.42793,
+    52.490849,
+    13.42793,
+    52.490849
+],
   "geometry": {"coordinates":[13.42793,52.490849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286659169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.11463,53.688332,10.11463,53.688332",
     "geom:latitude":53.688332,
     "geom:longitude":10.11463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sarenweg 10",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286659169,
-    "wof:lastmodified":1449015492,
+    "wof:lastmodified":1466234234,
     "wof:name":"Willy Eggerstedt",
     "wof:parent_id":85900159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.11463,53.688332,10.11463,53.688332],
+  "bbox": [
+    10.11463,
+    53.688332,
+    10.11463,
+    53.688332
+],
   "geometry": {"coordinates":[10.11463,53.688332],"type":"Point"}
 }

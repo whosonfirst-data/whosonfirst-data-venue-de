@@ -2,13 +2,14 @@
   "id": 119318147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.22574,51.424191,7.22574,51.424191",
     "geom:latitude":51.424191,
     "geom:longitude":7.22574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Pastoratsbusch 40",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795613
+        85633111,
+        85795613,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119318147,
-    "wof:lastmodified":1449041389,
+    "wof:lastmodified":1466238183,
     "wof:name":"G\u00fcnter Grubert Schreinerei",
     "wof:parent_id":85795613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.22574,51.424191,7.22574,51.424191],
+  "bbox": [
+    7.22574,
+    51.424191,
+    7.22574,
+    51.424191
+],
   "geometry": {"coordinates":[7.22574,51.424191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118991003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.402982,51.411667,7.402982,51.411667",
     "geom:latitude":51.411667,
     "geom:longitude":7.402982,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westender Weg 99",
     "sg:city":"Herdecke",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795289
+        85633111,
+        85795289,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118991003,
-    "wof:lastmodified":1449053586,
+    "wof:lastmodified":1466239630,
     "wof:name":"Dieter Bossmann Architekt",
     "wof:parent_id":85795289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.402982,51.411667,7.402982,51.411667],
+  "bbox": [
+    7.402982,
+    51.411667,
+    7.402982,
+    51.411667
+],
   "geometry": {"coordinates":[7.402982,51.411667],"type":"Point"}
 }

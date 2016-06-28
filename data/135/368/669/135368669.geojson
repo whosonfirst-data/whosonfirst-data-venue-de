@@ -2,13 +2,14 @@
   "id": 135368669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4055,51.489429,7.4055,51.489429",
     "geom:latitude":51.489429,
     "geom:longitude":7.4055,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Joseph-von-Fraunhofer-Str 27::",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85796185
+        85633111,
+        85796185,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135368669,
-    "wof:lastmodified":1449021666,
+    "wof:lastmodified":1466219822,
     "wof:name":"Amg Industrie Consulting Gmbh",
     "wof:parent_id":85796185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4055,51.489429,7.4055,51.489429],
+  "bbox": [
+    7.4055,
+    51.489429,
+    7.4055,
+    51.489429
+],
   "geometry": {"coordinates":[7.4055,51.489429],"type":"Point"}
 }

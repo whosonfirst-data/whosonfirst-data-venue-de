@@ -2,13 +2,14 @@
   "id": 219585405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.805237,53.074684,8.805237,53.074684",
     "geom:latitude":53.074684,
     "geom:longitude":8.805237,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6ttcherstr. 2",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219585405,
-    "wof:lastmodified":1449072737,
+    "wof:lastmodified":1466222115,
     "wof:name":"Hilton Bremen",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.805237,53.074684,8.805237,53.074684],
+  "bbox": [
+    8.805237,
+    53.074684,
+    8.805237,
+    53.074684
+],
   "geometry": {"coordinates":[8.805237,53.074684],"type":"Point"}
 }

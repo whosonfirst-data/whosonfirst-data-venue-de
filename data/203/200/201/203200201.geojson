@@ -2,13 +2,14 @@
   "id": 203200201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.413901,49.786015,9.413901,49.786015",
     "geom:latitude":49.786015,
     "geom:longitude":9.413901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 86",
     "sg:city":"Stadtprozelten",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203200201,
-    "wof:lastmodified":1449025680,
+    "wof:lastmodified":1466217222,
     "wof:name":"Dietz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.413901,49.786015,9.413901,49.786015],
+  "bbox": [
+    9.413901,
+    49.786015,
+    9.413901,
+    49.786015
+],
   "geometry": {"coordinates":[9.413901,49.786015],"type":"Point"}
 }

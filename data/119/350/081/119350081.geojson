@@ -2,13 +2,14 @@
   "id": 119350081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.477536,50.692455,12.477536,50.692455",
     "geom:latitude":50.692455,
     "geom:longitude":12.477536,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstr. 13",
     "sg:city":"Zwickau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119350081,
-    "wof:lastmodified":1449042191,
+    "wof:lastmodified":1466239920,
     "wof:name":"Karl Morgner",
     "wof:parent_id":101748603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.477536,50.692455,12.477536,50.692455],
+  "bbox": [
+    12.477536,
+    50.692455,
+    12.477536,
+    50.692455
+],
   "geometry": {"coordinates":[12.477536,50.692455],"type":"Point"}
 }

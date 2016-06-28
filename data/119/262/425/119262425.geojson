@@ -2,13 +2,14 @@
   "id": 119262425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.50101,52.456329,13.50101,52.456329",
     "geom:latitude":52.456329,
     "geom:longitude":13.50101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdostallee 134",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899855,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119262425,
-    "wof:lastmodified":1449042511,
+    "wof:lastmodified":1466234857,
     "wof:name":"Dr. Med. Helmut M\u00e4rker",
     "wof:parent_id":85899855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.50101,52.456329,13.50101,52.456329],
+  "bbox": [
+    13.50101,
+    52.456329,
+    13.50101,
+    52.456329
+],
   "geometry": {"coordinates":[13.50101,52.456329],"type":"Point"}
 }

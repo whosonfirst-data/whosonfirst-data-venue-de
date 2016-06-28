@@ -2,13 +2,14 @@
   "id": 320275841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.976027,53.585068,9.976027,53.585068",
     "geom:latitude":53.585068,
     "geom:longitude":9.976027,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00d6WENSTR.38",
     "sg:city":"HAMBURG",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320275841,
-    "wof:lastmodified":1449012469,
+    "wof:lastmodified":1466238595,
     "wof:name":"Spiekermann Verlag",
     "wof:parent_id":85899703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.976027,53.585068,9.976027,53.585068],
+  "bbox": [
+    9.976027,
+    53.585068,
+    9.976027,
+    53.585068
+],
   "geometry": {"coordinates":[9.976027,53.585068],"type":"Point"}
 }

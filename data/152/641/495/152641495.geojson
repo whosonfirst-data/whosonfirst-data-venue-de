@@ -2,13 +2,14 @@
   "id": 152641495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.201698,51.172878,7.201698,51.172878",
     "geom:latitude":51.172878,
     "geom:longitude":7.201698,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenh\u00fcgeler Str. 58-60",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862893,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152641495,
-    "wof:lastmodified":1449047807,
+    "wof:lastmodified":1466223373,
     "wof:name":"Dr\u00f6gemeyer & Co. Verwaltungsgesellschaft Mbh",
     "wof:parent_id":85862893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.201698,51.172878,7.201698,51.172878],
+  "bbox": [
+    7.201698,
+    51.172878,
+    7.201698,
+    51.172878
+],
   "geometry": {"coordinates":[7.201698,51.172878],"type":"Point"}
 }

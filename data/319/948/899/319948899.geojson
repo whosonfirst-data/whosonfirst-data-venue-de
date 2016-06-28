@@ -2,13 +2,14 @@
   "id": 319948899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.185929,49.741329,10.185929,49.741329",
     "geom:latitude":49.741329,
     "geom:longitude":10.185929,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugplatzstr. 70",
     "sg:city":"Kitzingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319948899,
-    "wof:lastmodified":1449024722,
+    "wof:lastmodified":1466235628,
     "wof:name":"Pfeuffer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.185929,49.741329,10.185929,49.741329],
+  "bbox": [
+    10.185929,
+    49.741329,
+    10.185929,
+    49.741329
+],
   "geometry": {"coordinates":[10.185929,49.741329],"type":"Point"}
 }

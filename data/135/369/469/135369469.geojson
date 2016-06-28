@@ -2,13 +2,14 @@
   "id": 135369469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.571137,48.135067,11.571137,48.135067",
     "geom:latitude":48.135067,
     "geom:longitude":11.571137,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberanger 26",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135369469,
-    "wof:lastmodified":1449023845,
+    "wof:lastmodified":1466219904,
     "wof:name":"Banca Nazionale Del Lavoro",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.571137,48.135067,11.571137,48.135067],
+  "bbox": [
+    11.571137,
+    48.135067,
+    11.571137,
+    48.135067
+],
   "geometry": {"coordinates":[11.571137,48.135067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135309505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.625702,48.857288,9.625702,48.857288",
     "geom:latitude":48.857288,
     "geom:longitude":9.625702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stuttgarter Str. 59",
     "sg:city":"Welzheim",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135309505,
-    "wof:lastmodified":1449021664,
+    "wof:lastmodified":1466214575,
     "wof:name":"R. Wiedmaier",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.625702,48.857288,9.625702,48.857288],
+  "bbox": [
+    9.625702,
+    48.857288,
+    9.625702,
+    48.857288
+],
   "geometry": {"coordinates":[9.625702,48.857288],"type":"Point"}
 }

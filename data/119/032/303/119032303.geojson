@@ -2,13 +2,14 @@
   "id": 119032303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.127993,49.394943,11.127993,49.394943",
     "geom:latitude":49.394943,
     "geom:longitude":11.127993,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schrammstr. 4",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899475,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119032303,
-    "wof:lastmodified":1449042129,
+    "wof:lastmodified":1466213750,
     "wof:name":"Hans Hofmann Architekt",
     "wof:parent_id":85899475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.127993,49.394943,11.127993,49.394943],
+  "bbox": [
+    11.127993,
+    49.394943,
+    11.127993,
+    49.394943
+],
   "geometry": {"coordinates":[11.127993,49.394943],"type":"Point"}
 }

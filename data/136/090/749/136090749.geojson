@@ -2,13 +2,14 @@
   "id": 136090749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.427247,49.479519,8.427247,49.479519",
     "geom:latitude":49.479519,
     "geom:longitude":8.427247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walk\u00fcrenstrasse 3",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"67509",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136090749,
-    "wof:lastmodified":1449075949,
+    "wof:lastmodified":1466216313,
     "wof:name":"Klemm Elektrcotechnik Gmbh",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.427247,49.479519,8.427247,49.479519],
+  "bbox": [
+    8.427247,
+    49.479519,
+    8.427247,
+    49.479519
+],
   "geometry": {"coordinates":[8.427247,49.479519],"type":"Point"}
 }

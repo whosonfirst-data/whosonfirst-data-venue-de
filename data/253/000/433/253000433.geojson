@@ -2,13 +2,14 @@
   "id": 253000433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.472445,51.615356,6.472445,51.615356",
     "geom:latitude":51.615356,
     "geom:longitude":6.472445,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Feld",
     "sg:city":"Alpen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253000433,
-    "wof:lastmodified":1449063288,
+    "wof:lastmodified":1466219468,
     "wof:name":"Heinrich Van Leuck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.472445,51.615356,6.472445,51.615356],
+  "bbox": [
+    6.472445,
+    51.615356,
+    6.472445,
+    51.615356
+],
   "geometry": {"coordinates":[6.472445,51.615356],"type":"Point"}
 }

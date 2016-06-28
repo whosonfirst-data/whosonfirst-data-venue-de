@@ -2,13 +2,14 @@
   "id": 320105857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.124955,49.115475,12.124955,49.115475",
     "geom:latitude":49.115475,
     "geom:longitude":12.124955,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensburger Str. 44",
     "sg:city":"Regenstauf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320105857,
-    "wof:lastmodified":1449012706,
+    "wof:lastmodified":1466235718,
     "wof:name":"Cadmium Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.124955,49.115475,12.124955,49.115475],
+  "bbox": [
+    12.124955,
+    49.115475,
+    12.124955,
+    49.115475
+],
   "geometry": {"coordinates":[12.124955,49.115475],"type":"Point"}
 }

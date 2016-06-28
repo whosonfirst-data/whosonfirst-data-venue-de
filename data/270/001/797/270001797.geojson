@@ -2,13 +2,14 @@
   "id": 270001797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.987406,53.582031,9.987406,53.582031",
     "geom:latitude":53.582031,
     "geom:longitude":9.987406,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eppendorfer Baum 3",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270001797,
-    "wof:lastmodified":1449009183,
+    "wof:lastmodified":1466221398,
     "wof:name":"K. Bach",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.987406,53.582031,9.987406,53.582031],
+  "bbox": [
+    9.987406,
+    53.582031,
+    9.987406,
+    53.582031
+],
   "geometry": {"coordinates":[9.987406,53.582031],"type":"Point"}
 }

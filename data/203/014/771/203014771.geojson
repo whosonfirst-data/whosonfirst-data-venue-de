@@ -2,13 +2,14 @@
   "id": 203014771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.095377,50.74498,7.095377,50.74498",
     "geom:latitude":50.74498,
     "geom:longitude":7.095377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Graurheindorfer Str. 69",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203014771,
-    "wof:lastmodified":1449025851,
+    "wof:lastmodified":1466213996,
     "wof:name":"Localite Gmbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.095377,50.74498,7.095377,50.74498],
+  "bbox": [
+    7.095377,
+    50.74498,
+    7.095377,
+    50.74498
+],
   "geometry": {"coordinates":[7.095377,50.74498],"type":"Point"}
 }

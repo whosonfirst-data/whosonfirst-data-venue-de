@@ -2,13 +2,14 @@
   "id": 119169789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.440799,51.314892,9.440799,51.314892",
     "geom:latitude":51.314892,
     "geom:longitude":9.440799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Str. 47",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063755,
-        85633111,
         85682531,
-        85905691
+        85633111,
+        85905691,
+        102063755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119169789,
-    "wof:lastmodified":1449042501,
+    "wof:lastmodified":1466225964,
     "wof:name":"Planungsgruppe Bau Und Energie Diplom-ingenieure Lubenow Und",
     "wof:parent_id":85905691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.440799,51.314892,9.440799,51.314892],
+  "bbox": [
+    9.440799,
+    51.314892,
+    9.440799,
+    51.314892
+],
   "geometry": {"coordinates":[9.440799,51.314892],"type":"Point"}
 }

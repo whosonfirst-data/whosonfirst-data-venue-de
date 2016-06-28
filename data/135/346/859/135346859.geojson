@@ -2,13 +2,14 @@
   "id": 135346859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.198845,48.736408,12.198845,48.736408",
     "geom:latitude":48.736408,
     "geom:longitude":12.198845,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schubertstr. 3",
     "sg:city":"Neufahrn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135346859,
-    "wof:lastmodified":1449020966,
+    "wof:lastmodified":1466217805,
     "wof:name":"Josef Festner",
     "wof:parent_id":101782955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.198845,48.736408,12.198845,48.736408],
+  "bbox": [
+    12.198845,
+    48.736408,
+    12.198845,
+    48.736408
+],
   "geometry": {"coordinates":[12.198845,48.736408],"type":"Point"}
 }

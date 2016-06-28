@@ -2,13 +2,14 @@
   "id": 287099125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.019775,54.099953,12.019775,54.099953",
     "geom:latitude":54.099953,
     "geom:longitude":12.019775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bauernreihe 8",
     "sg:city":"Lambrechtshagen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287099125,
-    "wof:lastmodified":1449001265,
+    "wof:lastmodified":1466227718,
     "wof:name":"Walter Harms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.019775,54.099953,12.019775,54.099953],
+  "bbox": [
+    12.019775,
+    54.099953,
+    12.019775,
+    54.099953
+],
   "geometry": {"coordinates":[12.019775,54.099953],"type":"Point"}
 }

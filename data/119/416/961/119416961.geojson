@@ -2,13 +2,14 @@
   "id": 119416961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.668767,52.108036,8.668767,52.108036",
     "geom:latitude":52.108036,
     "geom:longitude":8.668767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elverdisser Str. 31",
     "sg:city":"Herford",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063891,
-        85633111,
         85682513,
-        85794927
+        85633111,
+        85794927,
+        102063891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119416961,
-    "wof:lastmodified":1449042020,
+    "wof:lastmodified":1466242053,
     "wof:name":"Strangh\u00f6ner & Jahr Gmbh & Co. Kg",
     "wof:parent_id":85794927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.668767,52.108036,8.668767,52.108036],
+  "bbox": [
+    8.668767,
+    52.108036,
+    8.668767,
+    52.108036
+],
   "geometry": {"coordinates":[8.668767,52.108036],"type":"Point"}
 }

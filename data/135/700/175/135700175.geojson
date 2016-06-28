@@ -2,13 +2,14 @@
   "id": 135700175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.362659,48.129128,11.362659,48.129128",
     "geom:latitude":48.129128,
     "geom:longitude":11.362659,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 12",
     "sg:city":"Germering",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135700175,
-    "wof:lastmodified":1449023743,
+    "wof:lastmodified":1466242275,
     "wof:name":"Terracomfort Wohnbau Gmbh",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.362659,48.129128,11.362659,48.129128],
+  "bbox": [
+    11.362659,
+    48.129128,
+    11.362659,
+    48.129128
+],
   "geometry": {"coordinates":[11.362659,48.129128],"type":"Point"}
 }

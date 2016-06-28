@@ -2,13 +2,14 @@
   "id": 270314601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.044149,50.810101,6.044149,50.810101",
     "geom:latitude":50.810101,
     "geom:longitude":6.044149,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laurensberger Str. 21",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270314601,
-    "wof:lastmodified":1449011028,
+    "wof:lastmodified":1466228775,
     "wof:name":"Maria Manstetten",
     "wof:parent_id":85796643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.044149,50.810101,6.044149,50.810101],
+  "bbox": [
+    6.044149,
+    50.810101,
+    6.044149,
+    50.810101
+],
   "geometry": {"coordinates":[6.044149,50.810101],"type":"Point"}
 }

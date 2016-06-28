@@ -2,13 +2,14 @@
   "id": 119067019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.792159,50.094757,8.792159,50.094757",
     "geom:latitude":50.094757,
     "geom:longitude":8.792159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heusenstammer Weg 32",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119067019,
-    "wof:lastmodified":1449041028,
+    "wof:lastmodified":1466217024,
     "wof:name":"Josef Biegner Architekt",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.792159,50.094757,8.792159,50.094757],
+  "bbox": [
+    8.792159,
+    50.094757,
+    8.792159,
+    50.094757
+],
   "geometry": {"coordinates":[8.792159,50.094757],"type":"Point"}
 }

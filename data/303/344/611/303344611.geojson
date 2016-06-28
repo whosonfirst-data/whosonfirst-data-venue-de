@@ -2,13 +2,14 @@
   "id": 303344611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.533774,48.137836,11.533774,48.137836",
     "geom:latitude":48.137836,
     "geom:longitude":11.533774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westendstr. 123",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303344611,
-    "wof:lastmodified":1448998243,
+    "wof:lastmodified":1466233017,
     "wof:name":"Heinz Schieder",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.533774,48.137836,11.533774,48.137836],
+  "bbox": [
+    11.533774,
+    48.137836,
+    11.533774,
+    48.137836
+],
   "geometry": {"coordinates":[11.533774,48.137836],"type":"Point"}
 }

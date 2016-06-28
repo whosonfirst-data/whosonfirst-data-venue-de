@@ -2,13 +2,14 @@
   "id": 203124601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.230266,52.728649,9.230266,52.728649",
     "geom:latitude":52.728649,
     "geom:longitude":9.230266,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 70",
     "sg:city":"Ha\u00dfbergen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203124601,
-    "wof:lastmodified":1449026724,
+    "wof:lastmodified":1466215938,
     "wof:name":"Beermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.230266,52.728649,9.230266,52.728649],
+  "bbox": [
+    9.230266,
+    52.728649,
+    9.230266,
+    52.728649
+],
   "geometry": {"coordinates":[9.230266,52.728649],"type":"Point"}
 }

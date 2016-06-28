@@ -2,13 +2,14 @@
   "id": 303721613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.354538,48.172901,11.354538,48.172901",
     "geom:latitude":48.172901,
     "geom:longitude":11.354538,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lochhauser Str. 12",
     "sg:city":"Puchheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303721613,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1466239949,
     "wof:name":"Hans Ahegger Masseur",
     "wof:parent_id":85898975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.354538,48.172901,11.354538,48.172901],
+  "bbox": [
+    11.354538,
+    48.172901,
+    11.354538,
+    48.172901
+],
   "geometry": {"coordinates":[11.354538,48.172901],"type":"Point"}
 }

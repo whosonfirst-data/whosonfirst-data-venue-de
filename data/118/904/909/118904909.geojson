@@ -2,13 +2,14 @@
   "id": 118904909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.334923,52.470722,13.334923,52.470722",
     "geom:latitude":52.470722,
     "geom:longitude":13.334923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinstr. 63",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118904909,
-    "wof:lastmodified":1449054584,
+    "wof:lastmodified":1466236057,
     "wof:name":"Lauter-apotheke Freidrich E. K.",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.334923,52.470722,13.334923,52.470722],
+  "bbox": [
+    13.334923,
+    52.470722,
+    13.334923,
+    52.470722
+],
   "geometry": {"coordinates":[13.334923,52.470722],"type":"Point"}
 }

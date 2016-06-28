@@ -2,13 +2,14 @@
   "id": 136048247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.093829,50.402897,8.093829,50.402897",
     "geom:latitude":50.402897,
     "geom:longitude":8.093829,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untergasse 1",
     "sg:city":"Dietkirchen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063643,
-        85633111,
         85682531,
-        85796011
+        85633111,
+        85796011,
+        102063643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136048247,
-    "wof:lastmodified":1449075372,
+    "wof:lastmodified":1466214338,
     "wof:name":"Dietkirchen Im Internet",
     "wof:parent_id":85796011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.093829,50.402897,8.093829,50.402897],
+  "bbox": [
+    8.093829,
+    50.402897,
+    8.093829,
+    50.402897
+],
   "geometry": {"coordinates":[8.093829,50.402897],"type":"Point"}
 }

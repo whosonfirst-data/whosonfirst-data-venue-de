@@ -2,13 +2,14 @@
   "id": 152145505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65951,51.538422,7.65951,51.538422",
     "geom:latitude":51.538422,
     "geom:longitude":7.65951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcddenberg 11 A",
     "sg:city":"Unna",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796731,
+        85682513,
         85633111,
         101748733,
         102063823,
-        85682513
+        85796731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152145505,
-    "wof:lastmodified":1449045715,
+    "wof:lastmodified":1466234036,
     "wof:name":"Ps Gesellschaft F\u00fcr Wohnungs- Bau Und Wohnungserhaltung Mbh",
     "wof:parent_id":85796731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65951,51.538422,7.65951,51.538422],
+  "bbox": [
+    7.65951,
+    51.538422,
+    7.65951,
+    51.538422
+],
   "geometry": {"coordinates":[7.65951,51.538422],"type":"Point"}
 }

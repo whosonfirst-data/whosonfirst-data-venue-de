@@ -2,13 +2,14 @@
   "id": 135480859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.413498,49.008991,8.413498,49.008991",
     "geom:latitude":49.008991,
     "geom:longitude":8.413498,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 39",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
-        85862807
+        85633111,
+        85862807,
+        102063403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135480859,
-    "wof:lastmodified":1449021984,
+    "wof:lastmodified":1466229891,
     "wof:name":"Savoy",
     "wof:parent_id":85862807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.413498,49.008991,8.413498,49.008991],
+  "bbox": [
+    8.413498,
+    49.008991,
+    8.413498,
+    49.008991
+],
   "geometry": {"coordinates":[8.413498,49.008991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135322251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.228799,49.545059,10.228799,49.545059",
     "geom:latitude":49.545059,
     "geom:longitude":10.228799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 1",
     "sg:city":"Uffenheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135322251,
-    "wof:lastmodified":1449020947,
+    "wof:lastmodified":1466215704,
     "wof:name":"W. Pehl",
     "wof:parent_id":101813025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.228799,49.545059,10.228799,49.545059],
+  "bbox": [
+    10.228799,
+    49.545059,
+    10.228799,
+    49.545059
+],
   "geometry": {"coordinates":[10.228799,49.545059],"type":"Point"}
 }

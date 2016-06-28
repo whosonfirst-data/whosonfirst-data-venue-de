@@ -2,13 +2,14 @@
   "id": 118566967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.997411,49.235737,6.997411,49.235737",
     "geom:latitude":49.235737,
     "geom:longitude":6.997411,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannisstr 5",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118566967,
-    "wof:lastmodified":1449053176,
+    "wof:lastmodified":1466216300,
     "wof:name":"Maksimovic & Partners",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.997411,49.235737,6.997411,49.235737],
+  "bbox": [
+    6.997411,
+    49.235737,
+    6.997411,
+    49.235737
+],
   "geometry": {"coordinates":[6.997411,49.235737],"type":"Point"}
 }

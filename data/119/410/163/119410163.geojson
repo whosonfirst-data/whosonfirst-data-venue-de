@@ -2,13 +2,14 @@
   "id": 119410163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.144911,51.473118,7.144911,51.473118",
     "geom:latitude":51.473118,
     "geom:longitude":7.144911,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westenfelder Str. 124",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796449,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119410163,
-    "wof:lastmodified":1449040919,
+    "wof:lastmodified":1466241692,
     "wof:name":"Reichel H\u00f6rstgen Gmbh",
     "wof:parent_id":85796449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.144911,51.473118,7.144911,51.473118],
+  "bbox": [
+    7.144911,
+    51.473118,
+    7.144911,
+    51.473118
+],
   "geometry": {"coordinates":[7.144911,51.473118],"type":"Point"}
 }

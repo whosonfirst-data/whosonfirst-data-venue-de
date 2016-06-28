@@ -2,13 +2,14 @@
   "id": 303402317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.388058,51.306816,7.388058,51.306816",
     "geom:latitude":51.306816,
     "geom:longitude":7.388058,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofsweg 24",
     "sg:city":"Ennepetal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303402317,
-    "wof:lastmodified":1448998898,
+    "wof:lastmodified":1466234481,
     "wof:name":"Werner Homberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.388058,51.306816,7.388058,51.306816],
+  "bbox": [
+    7.388058,
+    51.306816,
+    7.388058,
+    51.306816
+],
   "geometry": {"coordinates":[7.388058,51.306816],"type":"Point"}
 }

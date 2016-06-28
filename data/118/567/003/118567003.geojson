@@ -2,13 +2,14 @@
   "id": 118567003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.744601,50.811188,8.744601,50.811188",
     "geom:latitude":50.811188,
     "geom:longitude":8.744601,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6henweg 45b",
     "sg:city":"Marburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118567003,
-    "wof:lastmodified":1449054552,
+    "wof:lastmodified":1466216303,
     "wof:name":"Marketti",
     "wof:parent_id":101748615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.744601,50.811188,8.744601,50.811188],
+  "bbox": [
+    8.744601,
+    50.811188,
+    8.744601,
+    50.811188
+],
   "geometry": {"coordinates":[8.744601,50.811188],"type":"Point"}
 }

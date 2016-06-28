@@ -2,13 +2,14 @@
   "id": 119086699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.839917,53.069977,8.839917,53.069977",
     "geom:latitude":53.069977,
     "geom:longitude":8.839917,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hildesheimer Str. 33",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796209,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119086699,
-    "wof:lastmodified":1449042670,
+    "wof:lastmodified":1466218824,
     "wof:name":"K\u00e4mmerer Und Lamping Architekten",
     "wof:parent_id":85796209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.839917,53.069977,8.839917,53.069977],
+  "bbox": [
+    8.839917,
+    53.069977,
+    8.839917,
+    53.069977
+],
   "geometry": {"coordinates":[8.839917,53.069977],"type":"Point"}
 }

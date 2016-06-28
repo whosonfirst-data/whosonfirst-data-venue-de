@@ -2,13 +2,14 @@
   "id": 135889539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.759512,51.232452,6.759512,51.232452",
     "geom:latitude":51.232452,
     "geom:longitude":6.759512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burggrafenstr. 5 a",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796275,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85796275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135889539,
-    "wof:lastmodified":1449020924,
+    "wof:lastmodified":1466244497,
     "wof:name":"G\u00f6bbels & Partner Gmbh",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.759512,51.232452,6.759512,51.232452],
+  "bbox": [
+    6.759512,
+    51.232452,
+    6.759512,
+    51.232452
+],
   "geometry": {"coordinates":[6.759512,51.232452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303420091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170484,48.747707,9.170484,48.747707",
     "geom:latitude":48.747707,
     "geom:longitude":9.170484,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstr. 41",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303420091,
-    "wof:lastmodified":1448999289,
+    "wof:lastmodified":1466234982,
     "wof:name":"Eugen Lamparter",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.170484,48.747707,9.170484,48.747707],
+  "bbox": [
+    9.170484,
+    48.747707,
+    9.170484,
+    48.747707
+],
   "geometry": {"coordinates":[9.170484,48.747707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303602287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.398297,50.102859,8.398297,50.102859",
     "geom:latitude":50.102859,
     "geom:longitude":8.398297,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oranienstr. 29",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303602287,
-    "wof:lastmodified":1448999265,
+    "wof:lastmodified":1466238170,
     "wof:name":"H. Schneider",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.398297,50.102859,8.398297,50.102859],
+  "bbox": [
+    8.398297,
+    50.102859,
+    8.398297,
+    50.102859
+],
   "geometry": {"coordinates":[8.398297,50.102859],"type":"Point"}
 }

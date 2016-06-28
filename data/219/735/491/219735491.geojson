@@ -2,13 +2,14 @@
   "id": 219735491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.156921,52.857079,11.156921,52.857079",
     "geom:latitude":52.857079,
     "geom:longitude":11.156921,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Eichwall 1a",
     "sg:city":"Salzwedel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219735491,
-    "wof:lastmodified":1449073830,
+    "wof:lastmodified":1466225003,
     "wof:name":"Otto Sch\u00fcmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.156921,52.857079,11.156921,52.857079],
+  "bbox": [
+    11.156921,
+    52.857079,
+    11.156921,
+    52.857079
+],
   "geometry": {"coordinates":[11.156921,52.857079],"type":"Point"}
 }

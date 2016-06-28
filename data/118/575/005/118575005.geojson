@@ -2,13 +2,14 @@
   "id": 118575005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.141567,48.940063,9.141567,48.940063",
     "geom:latitude":48.940063,
     "geom:longitude":9.141567,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagener Str. 72",
     "sg:city":"Schwerte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118575005,
-    "wof:lastmodified":1449053563,
+    "wof:lastmodified":1466216812,
     "wof:name":"B M Maier",
     "wof:parent_id":101760643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.141567,48.940063,9.141567,48.940063],
+  "bbox": [
+    9.141567,
+    48.940063,
+    9.141567,
+    48.940063
+],
   "geometry": {"coordinates":[9.141567,48.940063],"type":"Point"}
 }

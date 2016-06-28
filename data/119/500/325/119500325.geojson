@@ -2,13 +2,14 @@
   "id": 119500325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.800936,48.463547,10.800936,48.463547",
     "geom:latitude":48.463547,
     "geom:longitude":10.800936,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gablinger Str. 22",
     "sg:city":"Gablingen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119500325,
-    "wof:lastmodified":1449041462,
+    "wof:lastmodified":1466243539,
     "wof:name":"Anton Sontheimer",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.800936,48.463547,10.800936,48.463547],
+  "bbox": [
+    10.800936,
+    48.463547,
+    10.800936,
+    48.463547
+],
   "geometry": {"coordinates":[10.800936,48.463547],"type":"Point"}
 }

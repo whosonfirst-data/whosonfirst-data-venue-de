@@ -2,13 +2,14 @@
   "id": 303383185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.396985,51.476151,7.396985,51.476151",
     "geom:latitude":51.476151,
     "geom:longitude":7.396985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Winkelsweg 95",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303383185,
-    "wof:lastmodified":1448999152,
+    "wof:lastmodified":1466233972,
     "wof:name":"Teiner & Osthoff",
     "wof:parent_id":85795143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.396985,51.476151,7.396985,51.476151],
+  "bbox": [
+    7.396985,
+    51.476151,
+    7.396985,
+    51.476151
+],
   "geometry": {"coordinates":[7.396985,51.476151],"type":"Point"}
 }

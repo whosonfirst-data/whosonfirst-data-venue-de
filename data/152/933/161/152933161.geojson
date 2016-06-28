@@ -2,13 +2,14 @@
   "id": 152933161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.990259,49.493572,10.990259,49.493572",
     "geom:latitude":49.493572,
     "geom:longitude":10.990259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bremer Str. 54",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152933161,
-    "wof:lastmodified":1449045250,
+    "wof:lastmodified":1466230192,
     "wof:name":"Secondhanddeco - Gebrauchte Deko-artikel Aller Art",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.990259,49.493572,10.990259,49.493572],
+  "bbox": [
+    10.990259,
+    49.493572,
+    10.990259,
+    49.493572
+],
   "geometry": {"coordinates":[10.990259,49.493572],"type":"Point"}
 }

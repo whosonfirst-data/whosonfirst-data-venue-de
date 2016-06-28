@@ -2,13 +2,14 @@
   "id": 119495533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.799362,53.094524,8.799362,53.094524",
     "geom:latitude":53.094524,
     "geom:longitude":8.799362,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchener Str. 33",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85796203
+        85633111,
+        85796203,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119495533,
-    "wof:lastmodified":1449042002,
+    "wof:lastmodified":1466243547,
     "wof:name":"A. Cetin",
     "wof:parent_id":85796203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.799362,53.094524,8.799362,53.094524],
+  "bbox": [
+    8.799362,
+    53.094524,
+    8.799362,
+    53.094524
+],
   "geometry": {"coordinates":[8.799362,53.094524],"type":"Point"}
 }

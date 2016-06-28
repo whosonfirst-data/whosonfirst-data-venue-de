@@ -2,13 +2,14 @@
   "id": 203060923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.884288,48.38493,10.884288,48.38493",
     "geom:latitude":48.38493,
     "geom:longitude":10.884288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schallerstr. 13a",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203060923,
-    "wof:lastmodified":1449026691,
+    "wof:lastmodified":1466214822,
     "wof:name":"Adolf Wanner",
     "wof:parent_id":85899849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.884288,48.38493,10.884288,48.38493],
+  "bbox": [
+    10.884288,
+    48.38493,
+    10.884288,
+    48.38493
+],
   "geometry": {"coordinates":[10.884288,48.38493],"type":"Point"}
 }

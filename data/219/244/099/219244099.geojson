@@ -2,13 +2,14 @@
   "id": 219244099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.273565,53.730343,10.273565,53.730343",
     "geom:latitude":53.730343,
     "geom:longitude":10.273565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Struhbarg 11",
     "sg:city":"Bargteheide",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219244099,
-    "wof:lastmodified":1449071790,
+    "wof:lastmodified":1466215906,
     "wof:name":"Hans Timmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.273565,53.730343,10.273565,53.730343],
+  "bbox": [
+    10.273565,
+    53.730343,
+    10.273565,
+    53.730343
+],
   "geometry": {"coordinates":[10.273565,53.730343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119061743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.355962,48.133842,11.355962,48.133842",
     "geom:latitude":48.133842,
     "geom:longitude":11.355962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchenstr. 71a",
     "sg:city":"Germering",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85907703
+        85633111,
+        85907703,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119061743,
-    "wof:lastmodified":1449042797,
+    "wof:lastmodified":1466216507,
     "wof:name":"Ingrid Huber Innenarchitekt",
     "wof:parent_id":85907703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.355962,48.133842,11.355962,48.133842],
+  "bbox": [
+    11.355962,
+    48.133842,
+    11.355962,
+    48.133842
+],
   "geometry": {"coordinates":[11.355962,48.133842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135734311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.094311,51.512173,7.094311,51.512173",
     "geom:latitude":51.512173,
     "geom:longitude":7.094311,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Von-Oven-Str. 11",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794991,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135734311,
-    "wof:lastmodified":1449023627,
+    "wof:lastmodified":1466243132,
     "wof:name":"A. Demuth",
     "wof:parent_id":85794991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.094311,51.512173,7.094311,51.512173],
+  "bbox": [
+    7.094311,
+    51.512173,
+    7.094311,
+    51.512173
+],
   "geometry": {"coordinates":[7.094311,51.512173],"type":"Point"}
 }

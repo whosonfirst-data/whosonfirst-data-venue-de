@@ -2,13 +2,14 @@
   "id": 303412387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.360657,54.290352,12.360657,54.290352",
     "geom:latitude":54.290352,
     "geom:longitude":12.360657,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstr. 14",
     "sg:city":"Dierhagen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303412387,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1466234768,
     "wof:name":"Stefan Methling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.360657,54.290352,12.360657,54.290352],
+  "bbox": [
+    12.360657,
+    54.290352,
+    12.360657,
+    54.290352
+],
   "geometry": {"coordinates":[12.360657,54.290352],"type":"Point"}
 }

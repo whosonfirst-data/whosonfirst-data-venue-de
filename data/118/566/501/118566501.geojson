@@ -2,13 +2,14 @@
   "id": 118566501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186399,48.817558,9.186399,48.817558",
     "geom:latitude":48.817558,
     "geom:longitude":9.186399,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Roter Stich 129",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118566501,
-    "wof:lastmodified":1449053177,
+    "wof:lastmodified":1466216263,
     "wof:name":"Jelena Milinkovic",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.186399,48.817558,9.186399,48.817558],
+  "bbox": [
+    9.186399,
+    48.817558,
+    9.186399,
+    48.817558
+],
   "geometry": {"coordinates":[9.186399,48.817558],"type":"Point"}
 }

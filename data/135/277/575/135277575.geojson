@@ -2,13 +2,14 @@
   "id": 135277575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.563647,52.495934,13.563647,52.495934",
     "geom:latitude":52.495934,
     "geom:longitude":13.563647,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Binsengrund 2",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898993,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85898993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135277575,
-    "wof:lastmodified":1449021332,
+    "wof:lastmodified":1466224329,
     "wof:name":"Horst Wolff",
     "wof:parent_id":85898993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.563647,52.495934,13.563647,52.495934],
+  "bbox": [
+    13.563647,
+    52.495934,
+    13.563647,
+    52.495934
+],
   "geometry": {"coordinates":[13.563647,52.495934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202411235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.847348,50.904736,11.847348,50.904736",
     "geom:latitude":50.904736,
     "geom:longitude":11.847348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Stadion 46",
     "sg:city":"Hermsdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202411235,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466213974,
     "wof:name":"A. Kramarczyk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.847348,50.904736,11.847348,50.904736],
+  "bbox": [
+    11.847348,
+    50.904736,
+    11.847348,
+    50.904736
+],
   "geometry": {"coordinates":[11.847348,50.904736],"type":"Point"}
 }

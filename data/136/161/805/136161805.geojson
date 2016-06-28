@@ -2,13 +2,14 @@
   "id": 136161805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.754575,51.405846,6.754575,51.405846",
     "geom:latitude":51.405846,
     "geom:longitude":6.754575,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenstrasse 14",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863035,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85863035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136161805,
-    "wof:lastmodified":1449075440,
+    "wof:lastmodified":1466219343,
     "wof:name":"Freie Evangelische Gemeinde Duisburg Wanheimerort",
     "wof:parent_id":85863035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.754575,51.405846,6.754575,51.405846],
+  "bbox": [
+    6.754575,
+    51.405846,
+    6.754575,
+    51.405846
+],
   "geometry": {"coordinates":[6.754575,51.405846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136156705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38214,48.866669,2.38214,48.866669",
     "geom:latitude":48.866669,
     "geom:longitude":2.38214,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"156",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"75011",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873891,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136156705,
-    "wof:lastmodified":1449075173,
+    "wof:lastmodified":1466219112,
     "wof:name":"Yanke Production Inc",
     "wof:parent_id":85873891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38214,48.866669,2.38214,48.866669],
+  "bbox": [
+    2.38214,
+    48.866669,
+    2.38214,
+    48.866669
+],
   "geometry": {"coordinates":[2.38214,48.866669],"type":"Point"}
 }

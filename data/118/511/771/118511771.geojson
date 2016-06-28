@@ -2,13 +2,14 @@
   "id": 118511771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.332409,51.322895,12.332409,51.322895",
     "geom:latitude":51.322895,
     "geom:longitude":12.332409,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Leipzig",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118511771,
-    "wof:lastmodified":1449053786,
+    "wof:lastmodified":1466234397,
     "wof:name":"Sv Handwerk Leipzig E.v.",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.332409,51.322895,12.332409,51.322895],
+  "bbox": [
+    12.332409,
+    51.322895,
+    12.332409,
+    51.322895
+],
   "geometry": {"coordinates":[12.332409,51.322895],"type":"Point"}
 }

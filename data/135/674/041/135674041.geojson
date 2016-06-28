@@ -2,13 +2,14 @@
   "id": 135674041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.482516,52.57486,13.482516,52.57486",
     "geom:latitude":52.57486,
     "geom:longitude":13.482516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 43",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928743,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135674041,
-    "wof:lastmodified":1449023257,
+    "wof:lastmodified":1466241882,
     "wof:name":"Udo Senst",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.482516,52.57486,13.482516,52.57486],
+  "bbox": [
+    13.482516,
+    52.57486,
+    13.482516,
+    52.57486
+],
   "geometry": {"coordinates":[13.482516,52.57486],"type":"Point"}
 }

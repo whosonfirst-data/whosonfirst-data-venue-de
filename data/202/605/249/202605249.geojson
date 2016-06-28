@@ -2,13 +2,14 @@
   "id": 202605249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.995398,50.180515,10.995398,50.180515",
     "geom:latitude":50.180515,
     "geom:longitude":10.995398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenstr. 10",
     "sg:city":"Untersiemau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202605249,
-    "wof:lastmodified":1449061366,
+    "wof:lastmodified":1466217708,
     "wof:name":"Elsa Eller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.995398,50.180515,10.995398,50.180515],
+  "bbox": [
+    10.995398,
+    50.180515,
+    10.995398,
+    50.180515
+],
   "geometry": {"coordinates":[10.995398,50.180515],"type":"Point"}
 }

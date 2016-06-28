@@ -2,13 +2,14 @@
   "id": 203221105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.545469,52.533249,13.545469,52.533249",
     "geom:latitude":52.533249,
     "geom:longitude":13.545469,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poelchaustr. 26",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203221105,
-    "wof:lastmodified":1449025746,
+    "wof:lastmodified":1466217551,
     "wof:name":"E.-d. B\u00fchrer",
     "wof:parent_id":85900219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.545469,52.533249,13.545469,52.533249],
+  "bbox": [
+    13.545469,
+    52.533249,
+    13.545469,
+    52.533249
+],
   "geometry": {"coordinates":[13.545469,52.533249],"type":"Point"}
 }

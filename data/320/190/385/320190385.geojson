@@ -2,13 +2,14 @@
   "id": 320190385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.76252,52.454498,13.76252,52.454498",
     "geom:latitude":52.454498,
     "geom:longitude":13.76252,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalkseestr. 61",
     "sg:city":"Woltersdorf",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320190385,
-    "wof:lastmodified":1449014722,
+    "wof:lastmodified":1466237077,
     "wof:name":"Karl Thiede",
     "wof:parent_id":85900029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.76252,52.454498,13.76252,52.454498],
+  "bbox": [
+    13.76252,
+    52.454498,
+    13.76252,
+    52.454498
+],
   "geometry": {"coordinates":[13.76252,52.454498],"type":"Point"}
 }

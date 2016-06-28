@@ -2,13 +2,14 @@
   "id": 270031967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.626326,49.403316,8.626326,49.403316",
     "geom:latitude":49.403316,
     "geom:longitude":8.626326,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Holzmann-Str. 10",
     "sg:city":"Eppelheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270031967,
-    "wof:lastmodified":1449009550,
+    "wof:lastmodified":1466222107,
     "wof:name":"Mediko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.626326,49.403316,8.626326,49.403316],
+  "bbox": [
+    8.626326,
+    49.403316,
+    8.626326,
+    49.403316
+],
   "geometry": {"coordinates":[8.626326,49.403316],"type":"Point"}
 }

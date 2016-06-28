@@ -2,13 +2,14 @@
   "id": 118998115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12234,48.748253,9.12234,48.748253",
     "geom:latitude":48.748253,
     "geom:longitude":9.12234,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Knappenweg 75",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85795041
+        85633111,
+        85795041,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118998115,
-    "wof:lastmodified":1449053605,
+    "wof:lastmodified":1466239842,
     "wof:name":"Dr. Walther Gerd Fleck Architekt",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.12234,48.748253,9.12234,48.748253],
+  "bbox": [
+    9.12234,
+    48.748253,
+    9.12234,
+    48.748253
+],
   "geometry": {"coordinates":[9.12234,48.748253],"type":"Point"}
 }

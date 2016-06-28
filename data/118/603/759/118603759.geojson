@@ -2,13 +2,14 @@
   "id": 118603759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554442,52.111549,8.554442,52.111549",
     "geom:latitude":52.111549,
     "geom:longitude":8.554442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdstr 26",
     "sg:city":"Enger",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063891,
-        85633111,
         85682513,
-        85794873
+        85633111,
+        85794873,
+        102063891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118603759,
-    "wof:lastmodified":1449054339,
+    "wof:lastmodified":1466218419,
     "wof:name":"Ccdweber Gmbh",
     "wof:parent_id":85794873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554442,52.111549,8.554442,52.111549],
+  "bbox": [
+    8.554442,
+    52.111549,
+    8.554442,
+    52.111549
+],
   "geometry": {"coordinates":[8.554442,52.111549],"type":"Point"}
 }

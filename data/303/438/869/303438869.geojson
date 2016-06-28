@@ -2,13 +2,14 @@
   "id": 303438869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.572546,48.130791,11.572546,48.130791",
     "geom:latitude":48.130791,
     "geom:longitude":11.572546,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fraunhoferstr. 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303438869,
-    "wof:lastmodified":1448998946,
+    "wof:lastmodified":1466235336,
     "wof:name":"Franz M\u00fcller",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.572546,48.130791,11.572546,48.130791],
+  "bbox": [
+    11.572546,
+    48.130791,
+    11.572546,
+    48.130791
+],
   "geometry": {"coordinates":[11.572546,48.130791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118500175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45204,49.49884,8.45204,49.49884",
     "geom:latitude":49.49884,
     "geom:longitude":8.45204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landzungenstr 12",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795247,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118500175,
-    "wof:lastmodified":1449053502,
+    "wof:lastmodified":1466220943,
     "wof:name":"Transcombi Express Internationale Speditions-, Lagerei- Und Handels-gmbh",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.45204,49.49884,8.45204,49.49884],
+  "bbox": [
+    8.45204,
+    49.49884,
+    8.45204,
+    49.49884
+],
   "geometry": {"coordinates":[8.45204,49.49884],"type":"Point"}
 }

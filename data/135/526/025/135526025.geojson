@@ -2,13 +2,14 @@
   "id": 135526025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.250705,49.986622,8.250705,49.986622",
     "geom:latitude":49.986622,
     "geom:longitude":8.250705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Schanze 5",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135526025,
-    "wof:lastmodified":1449021939,
+    "wof:lastmodified":1466233979,
     "wof:name":"Hermann Daam",
     "wof:parent_id":101748569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.250705,49.986622,8.250705,49.986622],
+  "bbox": [
+    8.250705,
+    49.986622,
+    8.250705,
+    49.986622
+],
   "geometry": {"coordinates":[8.250705,49.986622],"type":"Point"}
 }

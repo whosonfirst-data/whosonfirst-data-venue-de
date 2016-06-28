@@ -2,13 +2,14 @@
   "id": 135934791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.157398,50.692753,7.157398,50.692753",
     "geom:latitude":50.692753,
     "geom:longitude":7.157398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viktoriastr. 31",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795333,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135934791,
-    "wof:lastmodified":1449021139,
+    "wof:lastmodified":1466244779,
     "wof:name":"Verm\u00f6gensverwaltungs- Und Beteiligungs Kg",
     "wof:parent_id":85795333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.157398,50.692753,7.157398,50.692753],
+  "bbox": [
+    7.157398,
+    50.692753,
+    7.157398,
+    50.692753
+],
   "geometry": {"coordinates":[7.157398,50.692753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202411803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.560089,48.259674,11.560089,48.259674",
     "geom:latitude":48.259674,
     "geom:longitude":11.560089,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Stichgartl 1",
     "sg:city":"Oberschlei\u00dfheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202411803,
-    "wof:lastmodified":1449060219,
+    "wof:lastmodified":1466213983,
     "wof:name":"A. Stadler",
     "wof:parent_id":85905625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.560089,48.259674,11.560089,48.259674],
+  "bbox": [
+    11.560089,
+    48.259674,
+    11.560089,
+    48.259674
+],
   "geometry": {"coordinates":[11.560089,48.259674],"type":"Point"}
 }

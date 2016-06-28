@@ -2,13 +2,14 @@
   "id": 119000869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.841924,47.680111,9.841924,47.680111",
     "geom:latitude":47.680111,
     "geom:longitude":9.841924,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kopernikusweg 38",
     "sg:city":"Wangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119000869,
-    "wof:lastmodified":1449041246,
+    "wof:lastmodified":1466213131,
     "wof:name":"Edmund Schneider",
     "wof:parent_id":101765299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.841924,47.680111,9.841924,47.680111],
+  "bbox": [
+    9.841924,
+    47.680111,
+    9.841924,
+    47.680111
+],
   "geometry": {"coordinates":[9.841924,47.680111],"type":"Point"}
 }

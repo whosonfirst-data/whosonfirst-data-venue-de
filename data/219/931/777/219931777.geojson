@@ -2,13 +2,14 @@
   "id": 219931777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.750598,50.938812,11.750598,50.938812",
     "geom:latitude":50.938812,
     "geom:longitude":11.750598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hospitalweg 1",
     "sg:city":"B\u00fcrgel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219931777,
-    "wof:lastmodified":1449073603,
+    "wof:lastmodified":1466229025,
     "wof:name":"W. Amberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.750598,50.938812,11.750598,50.938812],
+  "bbox": [
+    11.750598,
+    50.938812,
+    11.750598,
+    50.938812
+],
   "geometry": {"coordinates":[11.750598,50.938812],"type":"Point"}
 }

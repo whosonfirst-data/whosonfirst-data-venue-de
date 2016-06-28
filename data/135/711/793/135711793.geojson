@@ -2,13 +2,14 @@
   "id": 135711793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.5464,48.134663,11.5464,48.134663",
     "geom:latitude":48.134663,
     "geom:longitude":11.5464,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alter Messeplatz 4",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900137,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135711793,
-    "wof:lastmodified":1449023469,
+    "wof:lastmodified":1466242847,
     "wof:name":"Bauwelt Bautr\u00e4gergesellschaft F\u00fcr Umweltfreundliches",
     "wof:parent_id":85900137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.5464,48.134663,11.5464,48.134663],
+  "bbox": [
+    11.5464,
+    48.134663,
+    11.5464,
+    48.134663
+],
   "geometry": {"coordinates":[11.5464,48.134663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135514939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.649345,51.34938,6.649345,51.34938",
     "geom:latitude":51.34938,
     "geom:longitude":6.649345,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Linner Str. 30",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795513,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135514939,
-    "wof:lastmodified":1449022533,
+    "wof:lastmodified":1466232973,
     "wof:name":"A.b. J\u00f6dden Gmbh",
     "wof:parent_id":85795513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.649345,51.34938,6.649345,51.34938],
+  "bbox": [
+    6.649345,
+    51.34938,
+    6.649345,
+    51.34938
+],
   "geometry": {"coordinates":[6.649345,51.34938],"type":"Point"}
 }

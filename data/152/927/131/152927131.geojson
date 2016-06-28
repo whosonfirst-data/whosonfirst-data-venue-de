@@ -2,13 +2,14 @@
   "id": 152927131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.050362,51.49044,7.050362,51.49044",
     "geom:latitude":51.49044,
     "geom:longitude":7.050362,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schonnebeckh\u00f6fe 195",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152927131,
-    "wof:lastmodified":1449048438,
+    "wof:lastmodified":1466230052,
     "wof:name":"Schattan Internetdienstleistungen",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.050362,51.49044,7.050362,51.49044],
+  "bbox": [
+    7.050362,
+    51.49044,
+    7.050362,
+    51.49044
+],
   "geometry": {"coordinates":[7.050362,51.49044],"type":"Point"}
 }

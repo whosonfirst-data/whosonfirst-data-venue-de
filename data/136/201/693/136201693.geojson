@@ -2,13 +2,14 @@
   "id": 136201693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.202939,48.776985,9.202939,48.776985",
     "geom:latitude":48.776985,
     "geom:longitude":9.202939,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Planckstr. 1 b",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795273,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136201693,
-    "wof:lastmodified":1449076083,
+    "wof:lastmodified":1466221287,
     "wof:name":"Elisabeth Schuler",
     "wof:parent_id":85795273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.202939,48.776985,9.202939,48.776985],
+  "bbox": [
+    9.202939,
+    48.776985,
+    9.202939,
+    48.776985
+],
   "geometry": {"coordinates":[9.202939,48.776985],"type":"Point"}
 }

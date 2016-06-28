@@ -2,13 +2,14 @@
   "id": 270290901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.16279,50.50312,12.16279,50.50312",
     "geom:latitude":50.50312,
     "geom:longitude":12.16279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marie-Curie-Str. 27",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270290901,
-    "wof:lastmodified":1449009691,
+    "wof:lastmodified":1466228190,
     "wof:name":"St. Kalusok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.16279,50.50312,12.16279,50.50312],
+  "bbox": [
+    12.16279,
+    50.50312,
+    12.16279,
+    50.50312
+],
   "geometry": {"coordinates":[12.16279,50.50312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303955321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.803147,52.395805,9.803147,52.395805",
     "geom:latitude":52.395805,
     "geom:longitude":9.803147,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Roderbruchstr. 11-15",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303955321,
-    "wof:lastmodified":1448999814,
+    "wof:lastmodified":1466241642,
     "wof:name":"Mobili",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.803147,52.395805,9.803147,52.395805],
+  "bbox": [
+    9.803147,
+    52.395805,
+    9.803147,
+    52.395805
+],
   "geometry": {"coordinates":[9.803147,52.395805],"type":"Point"}
 }

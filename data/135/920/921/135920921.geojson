@@ -2,13 +2,14 @@
   "id": 135920921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.813013,51.196304,6.813013,51.196304",
     "geom:latitude":51.196304,
     "geom:longitude":6.813013,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lner Landstr. 32",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795217,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135920921,
-    "wof:lastmodified":1449023341,
+    "wof:lastmodified":1466244629,
     "wof:name":"Franz-josef Hagen Beteiligungs Gmbh",
     "wof:parent_id":85795217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.813013,51.196304,6.813013,51.196304],
+  "bbox": [
+    6.813013,
+    51.196304,
+    6.813013,
+    51.196304
+],
   "geometry": {"coordinates":[6.813013,51.196304],"type":"Point"}
 }

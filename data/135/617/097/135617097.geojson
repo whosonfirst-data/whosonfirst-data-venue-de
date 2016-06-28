@@ -2,13 +2,14 @@
   "id": 135617097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.09241,49.660015,11.09241,49.660015",
     "geom:latitude":49.660015,
     "geom:longitude":11.09241,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neunkirchener Str. 3",
     "sg:city":"Effeltrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135617097,
-    "wof:lastmodified":1449021079,
+    "wof:lastmodified":1466240198,
     "wof:name":"Georg Marsching",
     "wof:parent_id":101827101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.09241,49.660015,11.09241,49.660015],
+  "bbox": [
+    11.09241,
+    49.660015,
+    11.09241,
+    49.660015
+],
   "geometry": {"coordinates":[11.09241,49.660015],"type":"Point"}
 }

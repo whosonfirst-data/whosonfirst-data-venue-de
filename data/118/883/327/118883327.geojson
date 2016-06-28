@@ -2,13 +2,14 @@
   "id": 118883327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.359082,52.498188,13.359082,52.498188",
     "geom:latitude":52.498188,
     "geom:longitude":13.359082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fclowstr. 17",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118883327,
-    "wof:lastmodified":1449054225,
+    "wof:lastmodified":1466234905,
     "wof:name":"Eckhard Gli\u00dfmann E. Kfm.",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.359082,52.498188,13.359082,52.498188],
+  "bbox": [
+    13.359082,
+    52.498188,
+    13.359082,
+    52.498188
+],
   "geometry": {"coordinates":[13.359082,52.498188],"type":"Point"}
 }

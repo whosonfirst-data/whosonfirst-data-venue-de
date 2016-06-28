@@ -2,13 +2,14 @@
   "id": 202522573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.005239,49.678326,9.005239,49.678326",
     "geom:latitude":49.678326,
     "geom:longitude":9.005239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Braunstr. 6",
     "sg:city":"Michelstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202522573,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466216078,
     "wof:name":"T. Diamantidis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.005239,49.678326,9.005239,49.678326],
+  "bbox": [
+    9.005239,
+    49.678326,
+    9.005239,
+    49.678326
+],
   "geometry": {"coordinates":[9.005239,49.678326],"type":"Point"}
 }

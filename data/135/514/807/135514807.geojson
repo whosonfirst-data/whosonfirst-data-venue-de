@@ -2,13 +2,14 @@
   "id": 135514807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.916456,51.175564,6.916456,51.175564",
     "geom:latitude":51.175564,
     "geom:longitude":6.916456,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In den Weiden 3",
     "sg:city":"Hilden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85796647
+        85633111,
+        85796647,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135514807,
-    "wof:lastmodified":1449022533,
+    "wof:lastmodified":1466232963,
     "wof:name":"Microvitech Gmbh",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.916456,51.175564,6.916456,51.175564],
+  "bbox": [
+    6.916456,
+    51.175564,
+    6.916456,
+    51.175564
+],
   "geometry": {"coordinates":[6.916456,51.175564],"type":"Point"}
 }

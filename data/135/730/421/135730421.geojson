@@ -2,13 +2,14 @@
   "id": 135730421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.967185,51.459888,11.967185,51.459888",
     "geom:latitude":51.459888,
     "geom:longitude":11.967185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogelherd 31",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905699,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85905699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135730421,
-    "wof:lastmodified":1449023530,
+    "wof:lastmodified":1466243162,
     "wof:name":"Procon Gmbh",
     "wof:parent_id":85905699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.967185,51.459888,11.967185,51.459888],
+  "bbox": [
+    11.967185,
+    51.459888,
+    11.967185,
+    51.459888
+],
   "geometry": {"coordinates":[11.967185,51.459888],"type":"Point"}
 }

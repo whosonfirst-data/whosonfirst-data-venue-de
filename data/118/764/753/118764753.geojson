@@ -2,13 +2,14 @@
   "id": 118764753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.656311,48.131554,11.656311,48.131554",
     "geom:latitude":48.131554,
     "geom:longitude":11.656311,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Xaver-Weismor-Str. 28",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899077,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118764753,
-    "wof:lastmodified":1449054466,
+    "wof:lastmodified":1466227613,
     "wof:name":"Liegl & Mette Gmbh",
     "wof:parent_id":85899077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.656311,48.131554,11.656311,48.131554],
+  "bbox": [
+    11.656311,
+    48.131554,
+    11.656311,
+    48.131554
+],
   "geometry": {"coordinates":[11.656311,48.131554],"type":"Point"}
 }

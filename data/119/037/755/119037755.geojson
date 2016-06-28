@@ -2,13 +2,14 @@
   "id": 119037755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.47025,48.988121,8.47025,48.988121",
     "geom:latitude":48.988121,
     "geom:longitude":8.47025,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badener Str. 49b",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119037755,
-    "wof:lastmodified":1449043575,
+    "wof:lastmodified":1466214282,
     "wof:name":"Hans-klaus B\u00e4umler Architekt",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.47025,48.988121,8.47025,48.988121],
+  "bbox": [
+    8.47025,
+    48.988121,
+    8.47025,
+    48.988121
+],
   "geometry": {"coordinates":[8.47025,48.988121],"type":"Point"}
 }

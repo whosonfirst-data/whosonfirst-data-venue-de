@@ -2,13 +2,14 @@
   "id": 118779803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.374874,51.339828,12.374874,51.339828",
     "geom:latitude":51.339828,
     "geom:longitude":12.374874,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markt 17",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118779803,
-    "wof:lastmodified":1449053358,
+    "wof:lastmodified":1466228545,
     "wof:name":"Interart Versandbuchhandlung Siegfried Jahn",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.374874,51.339828,12.374874,51.339828],
+  "bbox": [
+    12.374874,
+    51.339828,
+    12.374874,
+    51.339828
+],
   "geometry": {"coordinates":[12.374874,51.339828],"type":"Point"}
 }

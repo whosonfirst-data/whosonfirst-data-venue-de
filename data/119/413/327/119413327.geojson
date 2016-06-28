@@ -2,13 +2,14 @@
   "id": 119413327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.785446,51.238636,6.785446,51.238636",
     "geom:latitude":51.238636,
     "geom:longitude":6.785446,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkelsfelder Str. 28",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119413327,
-    "wof:lastmodified":1449041234,
+    "wof:lastmodified":1466241870,
     "wof:name":"Joh. Mengeringhausen",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.785446,51.238636,6.785446,51.238636],
+  "bbox": [
+    6.785446,
+    51.238636,
+    6.785446,
+    51.238636
+],
   "geometry": {"coordinates":[6.785446,51.238636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135515233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.100012,49.462799,11.100012,49.462799",
     "geom:latitude":49.462799,
     "geom:longitude":11.100012,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mathildenstr. 42",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135515233,
-    "wof:lastmodified":1449021681,
+    "wof:lastmodified":1466233006,
     "wof:name":"Willy H\u00fctter",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.100012,49.462799,11.100012,49.462799],
+  "bbox": [
+    11.100012,
+    49.462799,
+    11.100012,
+    49.462799
+],
   "geometry": {"coordinates":[11.100012,49.462799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119060563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.586189,48.114391,11.586189,48.114391",
     "geom:latitude":48.114391,
     "geom:longitude":11.586189,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Warngauer Str. 18",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899199,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571,
+        85899199,
         85905611
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119060563,
-    "wof:lastmodified":1449043291,
+    "wof:lastmodified":1466216391,
     "wof:name":"Ignaz Resch Architekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.586189,48.114391,11.586189,48.114391],
+  "bbox": [
+    11.586189,
+    48.114391,
+    11.586189,
+    48.114391
+],
   "geometry": {"coordinates":[11.586189,48.114391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135522583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.419836,51.361588,12.419836,51.361588",
     "geom:latitude":51.361588,
     "geom:longitude":12.419836,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Theklaer Str. 19",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135522583,
-    "wof:lastmodified":1449022456,
+    "wof:lastmodified":1466233690,
     "wof:name":"G. Masuch",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.419836,51.361588,12.419836,51.361588],
+  "bbox": [
+    12.419836,
+    51.361588,
+    12.419836,
+    51.361588
+],
   "geometry": {"coordinates":[12.419836,51.361588],"type":"Point"}
 }

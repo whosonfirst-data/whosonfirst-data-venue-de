@@ -2,13 +2,14 @@
   "id": 118863979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.417295,52.506142,13.417295,52.506142",
     "geom:latitude":52.506142,
     "geom:longitude":13.417295,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Legiendamm 2",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900107,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118863979,
-    "wof:lastmodified":1449054110,
+    "wof:lastmodified":1466233673,
     "wof:name":"Apotheke Am Engelbecken Ralf Goepfert E. K.",
     "wof:parent_id":85900107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.417295,52.506142,13.417295,52.506142],
+  "bbox": [
+    13.417295,
+    52.506142,
+    13.417295,
+    52.506142
+],
   "geometry": {"coordinates":[13.417295,52.506142],"type":"Point"}
 }

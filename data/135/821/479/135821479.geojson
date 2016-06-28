@@ -2,13 +2,14 @@
   "id": 135821479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.055537,51.503536,7.055537,51.503536",
     "geom:latitude":51.503536,
     "geom:longitude":7.055537,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nienhausenstr. 42",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135821479,
-    "wof:lastmodified":1449022650,
+    "wof:lastmodified":1466244053,
     "wof:name":"Heikki Ahokas Kg",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.055537,51.503536,7.055537,51.503536],
+  "bbox": [
+    7.055537,
+    51.503536,
+    7.055537,
+    51.503536
+],
   "geometry": {"coordinates":[7.055537,51.503536],"type":"Point"}
 }

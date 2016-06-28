@@ -2,13 +2,14 @@
   "id": 303480059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.90341,50.845982,12.90341,50.845982",
     "geom:latitude":50.845982,
     "geom:longitude":12.90341,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Str. 82",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303480059,
-    "wof:lastmodified":1448998912,
+    "wof:lastmodified":1466236711,
     "wof:name":"Siegfried Jungnickel",
     "wof:parent_id":85899025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.90341,50.845982,12.90341,50.845982],
+  "bbox": [
+    12.90341,
+    50.845982,
+    12.90341,
+    50.845982
+],
   "geometry": {"coordinates":[12.90341,50.845982],"type":"Point"}
 }

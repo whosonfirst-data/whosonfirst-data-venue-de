@@ -2,13 +2,14 @@
   "id": 118600159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.548694,48.191486,11.548694,48.191486",
     "geom:latitude":48.191486,
     "geom:longitude":11.548694,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lerchenauer Str. 145",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899395
+        85633111,
+        85899395,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118600159,
-    "wof:lastmodified":1449053277,
+    "wof:lastmodified":1466218203,
     "wof:name":"Schumann Hydrokulturen Gmbh",
     "wof:parent_id":85899395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.548694,48.191486,11.548694,48.191486],
+  "bbox": [
+    11.548694,
+    48.191486,
+    11.548694,
+    48.191486
+],
   "geometry": {"coordinates":[11.548694,48.191486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303900949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.184801,51.125687,14.184801,51.125687",
     "geom:latitude":51.125687,
     "geom:longitude":14.184801,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohe Str. 1",
     "sg:city":"Bischofswerda",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303900949,
-    "wof:lastmodified":1448999174,
+    "wof:lastmodified":1466241221,
     "wof:name":"H. Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.184801,51.125687,14.184801,51.125687],
+  "bbox": [
+    14.184801,
+    51.125687,
+    14.184801,
+    51.125687
+],
   "geometry": {"coordinates":[14.184801,51.125687],"type":"Point"}
 }

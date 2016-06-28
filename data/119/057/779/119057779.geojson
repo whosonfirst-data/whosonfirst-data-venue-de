@@ -2,13 +2,14 @@
   "id": 119057779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.074493,51.226082,7.074493,51.226082",
     "geom:latitude":51.226082,
     "geom:longitude":7.074493,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ehrenhainstr. 60 b",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796337,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119057779,
-    "wof:lastmodified":1449042149,
+    "wof:lastmodified":1466216128,
     "wof:name":"Horst Mohr Architekt",
     "wof:parent_id":85796337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.074493,51.226082,7.074493,51.226082],
+  "bbox": [
+    7.074493,
+    51.226082,
+    7.074493,
+    51.226082
+],
   "geometry": {"coordinates":[7.074493,51.226082],"type":"Point"}
 }

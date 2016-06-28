@@ -2,13 +2,14 @@
   "id": 135291283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.198285,50.056732,8.198285,50.056732",
     "geom:latitude":50.056732,
     "geom:longitude":8.198285,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Zille-Str. 43",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795719
+        85633111,
+        85795719,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135291283,
-    "wof:lastmodified":1449021940,
+    "wof:lastmodified":1466213077,
     "wof:name":"Kirn Gmbh",
     "wof:parent_id":85795719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.198285,50.056732,8.198285,50.056732],
+  "bbox": [
+    8.198285,
+    50.056732,
+    8.198285,
+    50.056732
+],
   "geometry": {"coordinates":[8.198285,50.056732],"type":"Point"}
 }

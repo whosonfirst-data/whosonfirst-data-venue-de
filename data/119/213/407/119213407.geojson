@@ -2,13 +2,14 @@
   "id": 119213407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.538545,48.109783,11.538545,48.109783",
     "geom:latitude":48.109783,
     "geom:longitude":11.538545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fallstr. 11a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900135,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119213407,
-    "wof:lastmodified":1449040910,
+    "wof:lastmodified":1466230010,
     "wof:name":"Kath. \u00d6ffentl. B\u00fccherei St. Achaz",
     "wof:parent_id":85900135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.538545,48.109783,11.538545,48.109783],
+  "bbox": [
+    11.538545,
+    48.109783,
+    11.538545,
+    48.109783
+],
   "geometry": {"coordinates":[11.538545,48.109783],"type":"Point"}
 }

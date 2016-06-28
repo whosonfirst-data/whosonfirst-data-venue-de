@@ -2,13 +2,14 @@
   "id": 303973111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.144606,50.505493,11.144606,50.505493",
     "geom:latitude":50.505493,
     "geom:longitude":11.144606,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonneberger Str. 65",
     "sg:city":"Neuhaus",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303973111,
-    "wof:lastmodified":1448999588,
+    "wof:lastmodified":1466241701,
     "wof:name":"M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.144606,50.505493,11.144606,50.505493],
+  "bbox": [
+    11.144606,
+    50.505493,
+    11.144606,
+    50.505493
+],
   "geometry": {"coordinates":[11.144606,50.505493],"type":"Point"}
 }

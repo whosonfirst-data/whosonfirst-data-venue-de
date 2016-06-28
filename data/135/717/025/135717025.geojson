@@ -2,13 +2,14 @@
   "id": 135717025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.888055,50.854507,12.888055,50.854507",
     "geom:latitude":50.854507,
     "geom:longitude":12.888055,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wendegang 11",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899025,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135717025,
-    "wof:lastmodified":1449021050,
+    "wof:lastmodified":1466242786,
     "wof:name":"Heuke Bau Gmbh",
     "wof:parent_id":85899025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.888055,50.854507,12.888055,50.854507],
+  "bbox": [
+    12.888055,
+    50.854507,
+    12.888055,
+    50.854507
+],
   "geometry": {"coordinates":[12.888055,50.854507],"type":"Point"}
 }

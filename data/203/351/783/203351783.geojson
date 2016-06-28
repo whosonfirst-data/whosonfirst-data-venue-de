@@ -2,13 +2,14 @@
   "id": 203351783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.689396,50.098804,8.689396,50.098804",
     "geom:latitude":50.098804,
     "geom:longitude":8.689396,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grethenweg 7",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203351783,
-    "wof:lastmodified":1449026560,
+    "wof:lastmodified":1466219683,
     "wof:name":"Werner Hubert",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.689396,50.098804,8.689396,50.098804],
+  "bbox": [
+    8.689396,
+    50.098804,
+    8.689396,
+    50.098804
+],
   "geometry": {"coordinates":[8.689396,50.098804],"type":"Point"}
 }

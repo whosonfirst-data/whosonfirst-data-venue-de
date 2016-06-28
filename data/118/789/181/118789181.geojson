@@ -2,13 +2,14 @@
   "id": 118789181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.834417,53.558216,9.834417,53.558216",
     "geom:latitude":53.558216,
     "geom:longitude":9.834417,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichendorffstr. 21",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899671,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118789181,
-    "wof:lastmodified":1449053772,
+    "wof:lastmodified":1466229114,
     "wof:name":"Ralph Kessler",
     "wof:parent_id":85899671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.834417,53.558216,9.834417,53.558216],
+  "bbox": [
+    9.834417,
+    53.558216,
+    9.834417,
+    53.558216
+],
   "geometry": {"coordinates":[9.834417,53.558216],"type":"Point"}
 }

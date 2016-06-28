@@ -2,13 +2,14 @@
   "id": 118529887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.954849,51.005085,6.954849,51.005085",
     "geom:latitude":51.005085,
     "geom:longitude":6.954849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emdener Str. 107",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863021,
+        85682513,
         85633111,
         101748641,
         102063715,
-        85682513
+        85863021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118529887,
-    "wof:lastmodified":1449053752,
+    "wof:lastmodified":1466214260,
     "wof:name":"Jansen Lappe & Partner Entsorgungsdienst Gmbh",
     "wof:parent_id":85863021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.954849,51.005085,6.954849,51.005085],
+  "bbox": [
+    6.954849,
+    51.005085,
+    6.954849,
+    51.005085
+],
   "geometry": {"coordinates":[6.954849,51.005085],"type":"Point"}
 }

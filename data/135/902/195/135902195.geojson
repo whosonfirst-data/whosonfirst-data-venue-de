@@ -2,13 +2,14 @@
   "id": 135902195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.793161,53.093506,8.793161,53.093506",
     "geom:latitude":53.093506,
     "geom:longitude":8.793161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Utbremer Str. 67",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,12 +18,12 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
+        85633111,
         85796203,
-        85796503,
-        101748829
+        102063991,
+        101748829,
+        85796503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135902195,
-    "wof:lastmodified":1449023241,
+    "wof:lastmodified":1466244528,
     "wof:name":"Nordwestdeutsche Transport- Beteiligungsgesellschaft Mbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.793161,53.093506,8.793161,53.093506],
+  "bbox": [
+    8.793161,
+    53.093506,
+    8.793161,
+    53.093506
+],
   "geometry": {"coordinates":[8.793161,53.093506],"type":"Point"}
 }

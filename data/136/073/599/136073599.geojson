@@ -2,13 +2,14 @@
   "id": 136073599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.157777,54.096874,12.157777,54.096874",
     "geom:latitude":54.096874,
     "geom:longitude":12.157777,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dierkower Damm 38 D",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899095,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136073599,
-    "wof:lastmodified":1449075088,
+    "wof:lastmodified":1466215513,
     "wof:name":"Homepage Der Iscos Gmbh",
     "wof:parent_id":85899095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.157777,54.096874,12.157777,54.096874],
+  "bbox": [
+    12.157777,
+    54.096874,
+    12.157777,
+    54.096874
+],
   "geometry": {"coordinates":[12.157777,54.096874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135990093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.28877,52.435181,13.28877,52.435181",
     "geom:latitude":52.435181,
     "geom:longitude":13.28877,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 46",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900017,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135990093,
-    "wof:lastmodified":1449023023,
+    "wof:lastmodified":1466244933,
     "wof:name":"Peter Schunk Mechatronic Systeme Gesch\u00e4ftsf\u00fchrungs Gmbh",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.28877,52.435181,13.28877,52.435181],
+  "bbox": [
+    13.28877,
+    52.435181,
+    13.28877,
+    52.435181
+],
   "geometry": {"coordinates":[13.28877,52.435181],"type":"Point"}
 }

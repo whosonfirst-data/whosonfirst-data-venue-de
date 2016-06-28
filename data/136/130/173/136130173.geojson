@@ -2,13 +2,14 @@
   "id": 136130173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.806923,38.728905,-77.806923,38.728905",
     "geom:latitude":38.728905,
     "geom:longitude":-77.806923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Forest CT",
     "sg:city":"Warrenton",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":136130173,
-    "wof:lastmodified":1449075360,
+    "wof:lastmodified":1466217988,
     "wof:name":"Stephan K\u00fchls Homepage",
     "wof:parent_id":101728777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.806923,38.728905,-77.806923,38.728905],
+  "bbox": [
+    -77.806923,
+    38.728905,
+    -77.806923,
+    38.728905
+],
   "geometry": {"coordinates":[-77.806923,38.728905],"type":"Point"}
 }

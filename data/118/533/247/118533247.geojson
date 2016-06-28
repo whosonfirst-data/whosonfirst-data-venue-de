@@ -2,13 +2,14 @@
   "id": 118533247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.719062,53.134296,8.719062,53.134296",
     "geom:latitude":53.134296,
     "geom:longitude":8.719062,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reitbrake 6",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794997,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118533247,
-    "wof:lastmodified":1449053129,
+    "wof:lastmodified":1466214462,
     "wof:name":"C.f. Plump Schadstoffentsorgung Nord",
     "wof:parent_id":85794997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.719062,53.134296,8.719062,53.134296],
+  "bbox": [
+    8.719062,
+    53.134296,
+    8.719062,
+    53.134296
+],
   "geometry": {"coordinates":[8.719062,53.134296],"type":"Point"}
 }

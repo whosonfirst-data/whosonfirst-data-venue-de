@@ -2,13 +2,14 @@
   "id": 270070171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.160505,48.779297,9.160505,48.779297",
     "geom:latitude":48.779297,
     "geom:longitude":9.160505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannesstr. 58 A",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270070171,
-    "wof:lastmodified":1449009825,
+    "wof:lastmodified":1466223019,
     "wof:name":"Schw\u00e4ble & Wolf",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.160505,48.779297,9.160505,48.779297],
+  "bbox": [
+    9.160505,
+    48.779297,
+    9.160505,
+    48.779297
+],
   "geometry": {"coordinates":[9.160505,48.779297],"type":"Point"}
 }

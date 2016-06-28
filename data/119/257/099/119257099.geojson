@@ -2,13 +2,14 @@
   "id": 119257099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.421666,51.313461,12.421666,51.313461",
     "geom:latitude":51.313461,
     "geom:longitude":12.421666,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kommandant-Prendel-Allee 87",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119257099,
-    "wof:lastmodified":1449041558,
+    "wof:lastmodified":1466234319,
     "wof:name":"Dr. Med. Bernd Bauchspie\u00df",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.421666,51.313461,12.421666,51.313461],
+  "bbox": [
+    12.421666,
+    51.313461,
+    12.421666,
+    51.313461
+],
   "geometry": {"coordinates":[12.421666,51.313461],"type":"Point"}
 }

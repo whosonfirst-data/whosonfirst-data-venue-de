@@ -2,13 +2,14 @@
   "id": 119257763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.680241,52.524063,13.680241,52.524063",
     "geom:latitude":52.524063,
     "geom:longitude":13.680241,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rudolf-Breitscheid-Allee 79",
     "sg:city":"Neuenhagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119257763,
-    "wof:lastmodified":1449041559,
+    "wof:lastmodified":1466234392,
     "wof:name":"Dr. Med. Christine Pietsch",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.680241,52.524063,13.680241,52.524063],
+  "bbox": [
+    13.680241,
+    52.524063,
+    13.680241,
+    52.524063
+],
   "geometry": {"coordinates":[13.680241,52.524063],"type":"Point"}
 }

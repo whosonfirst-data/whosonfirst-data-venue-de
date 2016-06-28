@@ -2,13 +2,14 @@
   "id": 303060651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.480249,47.916122,11.480249,47.916122",
     "geom:latitude":47.916122,
     "geom:longitude":11.480249,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstr. 6",
     "sg:city":"Egling",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303060651,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466226028,
     "wof:name":"F. Wiedenbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.480249,47.916122,11.480249,47.916122],
+  "bbox": [
+    11.480249,
+    47.916122,
+    11.480249,
+    47.916122
+],
   "geometry": {"coordinates":[11.480249,47.916122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202845187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.941928,53.469799,9.941928,53.469799",
     "geom:latitude":53.469799,
     "geom:longitude":9.941928,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stader Str. 342",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202845187,
-    "wof:lastmodified":1449060513,
+    "wof:lastmodified":1466222087,
     "wof:name":"H. Schween",
     "wof:parent_id":85899035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.941928,53.469799,9.941928,53.469799],
+  "bbox": [
+    9.941928,
+    53.469799,
+    9.941928,
+    53.469799
+],
   "geometry": {"coordinates":[9.941928,53.469799],"type":"Point"}
 }

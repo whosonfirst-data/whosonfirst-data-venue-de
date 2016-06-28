@@ -2,13 +2,14 @@
   "id": 135270473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.547239,48.807316,13.547239,48.807316",
     "geom:latitude":48.807316,
     "geom:longitude":13.547239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtplatz 20",
     "sg:city":"Freyung",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135270473,
-    "wof:lastmodified":1449021505,
+    "wof:lastmodified":1466214584,
     "wof:name":"Heinrich Schuster",
     "wof:parent_id":101783101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.547239,48.807316,13.547239,48.807316],
+  "bbox": [
+    13.547239,
+    48.807316,
+    13.547239,
+    48.807316
+],
   "geometry": {"coordinates":[13.547239,48.807316],"type":"Point"}
 }

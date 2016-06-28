@@ -2,13 +2,14 @@
   "id": 135950815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.644179,51.948368,7.644179,51.948368",
     "geom:latitude":51.948368,
     "geom:longitude":7.644179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafengrenzweg 11-13",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863183,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85863183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135950815,
-    "wof:lastmodified":1449022179,
+    "wof:lastmodified":1466244756,
     "wof:name":"M\u00fcla-maschinenfabrik Gmbh",
     "wof:parent_id":85863183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.644179,51.948368,7.644179,51.948368],
+  "bbox": [
+    7.644179,
+    51.948368,
+    7.644179,
+    51.948368
+],
   "geometry": {"coordinates":[7.644179,51.948368],"type":"Point"}
 }

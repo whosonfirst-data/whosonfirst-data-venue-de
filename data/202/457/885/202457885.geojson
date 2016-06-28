@@ -2,13 +2,14 @@
   "id": 202457885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.082623,51.23254,7.082623,51.23254",
     "geom:latitude":51.23254,
     "geom:longitude":7.082623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Manteuffelstr. 2",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202457885,
-    "wof:lastmodified":1449061790,
+    "wof:lastmodified":1466214823,
     "wof:name":"Heinrich Wermann",
     "wof:parent_id":85796377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.082623,51.23254,7.082623,51.23254],
+  "bbox": [
+    7.082623,
+    51.23254,
+    7.082623,
+    51.23254
+],
   "geometry": {"coordinates":[7.082623,51.23254],"type":"Point"}
 }

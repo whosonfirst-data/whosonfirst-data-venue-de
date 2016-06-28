@@ -2,13 +2,14 @@
   "id": 135331303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.482036,51.6007,7.482036,51.6007",
     "geom:latitude":51.6007,
     "geom:longitude":7.482036,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Wethmarheide 21",
     "sg:city":"L\u00fcnen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063823,
-        85633111,
         85682513,
-        85794947
+        85633111,
+        85794947,
+        102063823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135331303,
-    "wof:lastmodified":1449022862,
+    "wof:lastmodified":1466216438,
     "wof:name":"Wendeln Brot West Gmbh",
     "wof:parent_id":85794947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.482036,51.6007,7.482036,51.6007],
+  "bbox": [
+    7.482036,
+    51.6007,
+    7.482036,
+    51.6007
+],
   "geometry": {"coordinates":[7.482036,51.6007],"type":"Point"}
 }

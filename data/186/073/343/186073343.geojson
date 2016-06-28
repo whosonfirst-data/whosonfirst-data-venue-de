@@ -2,13 +2,14 @@
   "id": 186073343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.019393,48.701756,13.019393,48.701756",
     "geom:latitude":48.701756,
     "geom:longitude":13.019393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtplatz 15",
     "sg:city":"Osterhofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186073343,
-    "wof:lastmodified":1449050724,
+    "wof:lastmodified":1466213985,
     "wof:name":"Heimatmuseum Osterhofen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.019393,48.701756,13.019393,48.701756],
+  "bbox": [
+    13.019393,
+    48.701756,
+    13.019393,
+    48.701756
+],
   "geometry": {"coordinates":[13.019393,48.701756],"type":"Point"}
 }

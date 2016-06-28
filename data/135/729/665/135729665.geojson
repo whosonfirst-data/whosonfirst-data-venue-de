@@ -2,13 +2,14 @@
   "id": 135729665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.670533,47.616982,7.670533,47.616982",
     "geom:latitude":47.616982,
     "geom:longitude":7.670533,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Hartmattenstr. 5",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135729665,
-    "wof:lastmodified":1449022538,
+    "wof:lastmodified":1466243247,
     "wof:name":"Baugenossenschaft L\u00f6rrach Eg",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.670533,47.616982,7.670533,47.616982],
+  "bbox": [
+    7.670533,
+    47.616982,
+    7.670533,
+    47.616982
+],
   "geometry": {"coordinates":[7.670533,47.616982],"type":"Point"}
 }

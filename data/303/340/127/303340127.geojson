@@ -2,13 +2,14 @@
   "id": 303340127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.592292,48.160789,11.592292,48.160789",
     "geom:latitude":48.160789,
     "geom:longitude":11.592292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feilitzschstr. 35",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303340127,
-    "wof:lastmodified":1449000007,
+    "wof:lastmodified":1466232913,
     "wof:name":"Hans Egger",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.592292,48.160789,11.592292,48.160789],
+  "bbox": [
+    11.592292,
+    48.160789,
+    11.592292,
+    48.160789
+],
   "geometry": {"coordinates":[11.592292,48.160789],"type":"Point"}
 }

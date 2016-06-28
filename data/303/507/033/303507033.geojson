@@ -2,13 +2,14 @@
   "id": 303507033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.379851,52.493973,13.379851,52.493973",
     "geom:latitude":52.493973,
     "geom:longitude":13.379851,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6ckernstr. 100",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303507033,
-    "wof:lastmodified":1448999374,
+    "wof:lastmodified":1466236819,
     "wof:name":"Bad Am Kreuzberg",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.379851,52.493973,13.379851,52.493973],
+  "bbox": [
+    13.379851,
+    52.493973,
+    13.379851,
+    52.493973
+],
   "geometry": {"coordinates":[13.379851,52.493973],"type":"Point"}
 }

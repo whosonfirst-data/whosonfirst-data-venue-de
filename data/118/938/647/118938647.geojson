@@ -2,13 +2,14 @@
   "id": 118938647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.024685,50.966297,11.024685,50.966297",
     "geom:latitude":50.966297,
     "geom:longitude":11.024685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 43",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118938647,
-    "wof:lastmodified":1449054192,
+    "wof:lastmodified":1466237514,
     "wof:name":"St. Elisabeth-apotheke Bernhard Meyer",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.024685,50.966297,11.024685,50.966297],
+  "bbox": [
+    11.024685,
+    50.966297,
+    11.024685,
+    50.966297
+],
   "geometry": {"coordinates":[11.024685,50.966297],"type":"Point"}
 }

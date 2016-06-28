@@ -2,13 +2,14 @@
   "id": 269853811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.048102,52.998329,9.048102,52.998329",
     "geom:latitude":52.998329,
     "geom:longitude":9.048102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uesener Weserstr. 9",
     "sg:city":"Achim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269853811,
-    "wof:lastmodified":1449037114,
+    "wof:lastmodified":1466229661,
     "wof:name":"Wilhelm Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.048102,52.998329,9.048102,52.998329],
+  "bbox": [
+    9.048102,
+    52.998329,
+    9.048102,
+    52.998329
+],
   "geometry": {"coordinates":[9.048102,52.998329],"type":"Point"}
 }

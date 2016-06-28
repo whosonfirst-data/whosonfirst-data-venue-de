@@ -2,13 +2,14 @@
   "id": 119089303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.924374,51.290356,6.924374,51.290356",
     "geom:latitude":51.290356,
     "geom:longitude":6.924374,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kockshof 88",
     "sg:city":"Ratingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85795099
+        85633111,
+        85795099,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119089303,
-    "wof:lastmodified":1449041348,
+    "wof:lastmodified":1466219045,
     "wof:name":"Ludger Feldkamp Architekt",
     "wof:parent_id":85795099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.924374,51.290356,6.924374,51.290356],
+  "bbox": [
+    6.924374,
+    51.290356,
+    6.924374,
+    51.290356
+],
   "geometry": {"coordinates":[6.924374,51.290356],"type":"Point"}
 }

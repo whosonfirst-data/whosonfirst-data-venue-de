@@ -2,13 +2,14 @@
   "id": 135308143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.686607,51.524216,6.686607,51.524216",
     "geom:latitude":51.524216,
     "geom:longitude":6.686607,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Egerstr. 22",
     "sg:city":"Rheinberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063833,
-        85633111,
         85682513,
-        85794895
+        85633111,
+        85794895,
+        102063833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135308143,
-    "wof:lastmodified":1449024080,
+    "wof:lastmodified":1466214463,
     "wof:name":"Quintin Schmitt",
     "wof:parent_id":85794895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.686607,51.524216,6.686607,51.524216],
+  "bbox": [
+    6.686607,
+    51.524216,
+    6.686607,
+    51.524216
+],
   "geometry": {"coordinates":[6.686607,51.524216],"type":"Point"}
 }

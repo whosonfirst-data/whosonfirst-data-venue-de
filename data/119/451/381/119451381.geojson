@@ -2,13 +2,14 @@
   "id": 119451381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.654784,48.133854,11.654784,48.133854",
     "geom:latitude":48.133854,
     "geom:longitude":11.654784,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bistritzer Weg 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899077,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119451381,
-    "wof:lastmodified":1449041981,
+    "wof:lastmodified":1466242666,
     "wof:name":"Mocom Gesellschaft F\u00fcr Nachrichtentechnik Mbh",
     "wof:parent_id":85899077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.654784,48.133854,11.654784,48.133854],
+  "bbox": [
+    11.654784,
+    48.133854,
+    11.654784,
+    48.133854
+],
   "geometry": {"coordinates":[11.654784,48.133854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152492191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.240259,51.424351,7.240259,51.424351",
     "geom:latitude":51.424351,
     "geom:longitude":7.240259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In der Hei 21",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795613
+        85633111,
+        85795613,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152492191,
-    "wof:lastmodified":1449044283,
+    "wof:lastmodified":1466220063,
     "wof:name":"Ic Platte Gmbh",
     "wof:parent_id":85795613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.240259,51.424351,7.240259,51.424351],
+  "bbox": [
+    7.240259,
+    51.424351,
+    7.240259,
+    51.424351
+],
   "geometry": {"coordinates":[7.240259,51.424351],"type":"Point"}
 }

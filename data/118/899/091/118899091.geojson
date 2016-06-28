@@ -2,13 +2,14 @@
   "id": 118899091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.393016,52.542809,13.393016,52.542809",
     "geom:latitude":52.542809,
     "geom:longitude":13.393016,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lortzingstr. 42",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899193,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118899091,
-    "wof:lastmodified":1449054461,
+    "wof:lastmodified":1466235759,
     "wof:name":"Jasmin-apotheke Beate Drescher",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.393016,52.542809,13.393016,52.542809],
+  "bbox": [
+    13.393016,
+    52.542809,
+    13.393016,
+    52.542809
+],
   "geometry": {"coordinates":[13.393016,52.542809],"type":"Point"}
 }

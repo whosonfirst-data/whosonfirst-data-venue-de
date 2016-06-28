@@ -2,13 +2,14 @@
   "id": 136135905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.509038,48.176075,11.509038,48.176075",
     "geom:latitude":48.176075,
     "geom:longitude":11.509038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ernst Platzstr. 49",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899839,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136135905,
-    "wof:lastmodified":1449075426,
+    "wof:lastmodified":1466218218,
     "wof:name":"The Bluesbrothers",
     "wof:parent_id":85899839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.509038,48.176075,11.509038,48.176075],
+  "bbox": [
+    11.509038,
+    48.176075,
+    11.509038,
+    48.176075
+],
   "geometry": {"coordinates":[11.509038,48.176075],"type":"Point"}
 }

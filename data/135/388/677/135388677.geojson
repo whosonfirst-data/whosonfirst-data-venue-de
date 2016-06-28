@@ -2,13 +2,14 @@
   "id": 135388677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.152089,48.679138,10.152089,48.679138",
     "geom:latitude":48.679138,
     "geom:longitude":10.152089,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 10 28 20:: 69018 Heidelberg:: Germany.^^Kurfuerstenanlage 8::",
     "sg:city":"Heidelberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135388677,
-    "wof:lastmodified":1449021092,
+    "wof:lastmodified":1466221886,
     "wof:name":"Heidenheimer Treuhand Gmbh",
     "wof:parent_id":101761787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.152089,48.679138,10.152089,48.679138],
+  "bbox": [
+    10.152089,
+    48.679138,
+    10.152089,
+    48.679138
+],
   "geometry": {"coordinates":[10.152089,48.679138],"type":"Point"}
 }

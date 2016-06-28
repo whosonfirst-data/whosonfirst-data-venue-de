@@ -2,13 +2,14 @@
   "id": 135846547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.456498,52.413956,9.456498,52.413956",
     "geom:latitude":52.413956,
     "geom:longitude":9.456498,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werner-von-Siemens-Str. 2",
     "sg:city":"Wunstorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135846547,
-    "wof:lastmodified":1449023348,
+    "wof:lastmodified":1466244283,
     "wof:name":"Portas",
     "wof:parent_id":101807691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.456498,52.413956,9.456498,52.413956],
+  "bbox": [
+    9.456498,
+    52.413956,
+    9.456498,
+    52.413956
+],
   "geometry": {"coordinates":[9.456498,52.413956],"type":"Point"}
 }

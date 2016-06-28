@@ -2,13 +2,14 @@
   "id": 153043625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.216595,50.077145,8.216595,50.077145",
     "geom:latitude":50.077145,
     "geom:longitude":8.216595,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dotzheimer Str. 121",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795719
+        85633111,
+        85795719,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":153043625,
-    "wof:lastmodified":1449040698,
+    "wof:lastmodified":1466213464,
     "wof:name":"Josef K\u00fchl Inh. Dieter Bolz Gmbh",
     "wof:parent_id":85795719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.216595,50.077145,8.216595,50.077145],
+  "bbox": [
+    8.216595,
+    50.077145,
+    8.216595,
+    50.077145
+],
   "geometry": {"coordinates":[8.216595,50.077145],"type":"Point"}
 }

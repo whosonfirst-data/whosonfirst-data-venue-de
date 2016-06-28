@@ -2,13 +2,14 @@
   "id": 136159003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.843744,51.097164,6.843744,51.097164",
     "geom:latitude":51.097164,
     "geom:longitude":6.843744,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walhovener Str.13",
     "sg:city":"Dormagen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063761,
-        85633111,
         85682513,
-        85796175
+        85633111,
+        85796175,
+        102063761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136159003,
-    "wof:lastmodified":1449075077,
+    "wof:lastmodified":1466219211,
     "wof:name":"Auszeit - Kooperationstraining & Entstressung",
     "wof:parent_id":85796175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.843744,51.097164,6.843744,51.097164],
+  "bbox": [
+    6.843744,
+    51.097164,
+    6.843744,
+    51.097164
+],
   "geometry": {"coordinates":[6.843744,51.097164],"type":"Point"}
 }

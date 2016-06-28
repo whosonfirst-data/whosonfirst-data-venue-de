@@ -2,13 +2,14 @@
   "id": 152528587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.052321,53.692234,10.052321,53.692234",
     "geom:latitude":53.692234,
     "geom:longitude":10.052321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-B\u00f6ckler-Ring 19",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899881,
+        85682517,
         85633111,
         101748857,
         102064103,
-        85682517
+        85899881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152528587,
-    "wof:lastmodified":1449045539,
+    "wof:lastmodified":1466220852,
     "wof:name":"Von Saenger & Von Saenger Gmbh",
     "wof:parent_id":85899881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.052321,53.692234,10.052321,53.692234],
+  "bbox": [
+    10.052321,
+    53.692234,
+    10.052321,
+    53.692234
+],
   "geometry": {"coordinates":[10.052321,53.692234],"type":"Point"}
 }

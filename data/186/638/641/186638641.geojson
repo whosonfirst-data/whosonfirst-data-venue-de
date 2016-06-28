@@ -2,13 +2,14 @@
   "id": 186638641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.096542,49.01664,12.096542,49.01664",
     "geom:latitude":49.01664,
     "geom:longitude":12.096542,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Malergasse 15",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186638641,
-    "wof:lastmodified":1449050417,
+    "wof:lastmodified":1466220633,
     "wof:name":"K. Meister",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.096542,49.01664,12.096542,49.01664],
+  "bbox": [
+    12.096542,
+    49.01664,
+    12.096542,
+    49.01664
+],
   "geometry": {"coordinates":[12.096542,49.01664],"type":"Point"}
 }

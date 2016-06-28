@@ -2,13 +2,14 @@
   "id": 152808929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.686393,51.103878,13.686393,51.103878",
     "geom:latitude":51.103878,
     "geom:longitude":13.686393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantstrasse 20",
     "sg:city":"Radebeul",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900101,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152808929,
-    "wof:lastmodified":1449044516,
+    "wof:lastmodified":1466227259,
     "wof:name":"Eudaimonia-sachsen",
     "wof:parent_id":85900101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.686393,51.103878,13.686393,51.103878],
+  "bbox": [
+    13.686393,
+    51.103878,
+    13.686393,
+    51.103878
+],
   "geometry": {"coordinates":[13.686393,51.103878],"type":"Point"}
 }

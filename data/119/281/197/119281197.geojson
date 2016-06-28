@@ -2,13 +2,14 @@
   "id": 119281197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.121697,54.321674,10.121697,54.321674",
     "geom:latitude":54.321674,
     "geom:longitude":10.121697,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-Weigmann-Str. 12-16",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899179,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119281197,
-    "wof:lastmodified":1449043116,
+    "wof:lastmodified":1466236444,
     "wof:name":"Hi-fi-studio Hoert-sich-gut-an Gmbh",
     "wof:parent_id":85899179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.121697,54.321674,10.121697,54.321674],
+  "bbox": [
+    10.121697,
+    54.321674,
+    10.121697,
+    54.321674
+],
   "geometry": {"coordinates":[10.121697,54.321674],"type":"Point"}
 }

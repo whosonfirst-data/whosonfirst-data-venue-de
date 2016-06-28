@@ -2,13 +2,14 @@
   "id": 135370007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.669595,50.107784,8.669595,50.107784",
     "geom:latitude":50.107784,
     "geom:longitude":8.669595,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchenerstr. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135370007,
-    "wof:lastmodified":1449022656,
+    "wof:lastmodified":1466219966,
     "wof:name":"Bank Saderat Iran",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.669595,50.107784,8.669595,50.107784],
+  "bbox": [
+    8.669595,
+    50.107784,
+    8.669595,
+    50.107784
+],
   "geometry": {"coordinates":[8.669595,50.107784],"type":"Point"}
 }

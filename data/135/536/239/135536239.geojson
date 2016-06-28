@@ -2,13 +2,14 @@
   "id": 135536239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.478571,49.540878,8.478571,49.540878",
     "geom:latitude":49.540878,
     "geom:longitude":8.478571,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lissaer Weg 1a",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795279,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85795279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135536239,
-    "wof:lastmodified":1449022823,
+    "wof:lastmodified":1466234959,
     "wof:name":"Werner K\u00e4lber",
     "wof:parent_id":85795279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.478571,49.540878,8.478571,49.540878],
+  "bbox": [
+    8.478571,
+    49.540878,
+    8.478571,
+    49.540878
+],
   "geometry": {"coordinates":[8.478571,49.540878],"type":"Point"}
 }

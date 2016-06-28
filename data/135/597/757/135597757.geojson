@@ -2,13 +2,14 @@
   "id": 135597757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.344962,50.105377,8.344962,50.105377",
     "geom:latitude":50.105377,
     "geom:longitude":8.344962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An den Drei Weiden 23",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85794725
+        85633111,
+        85794725,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135597757,
-    "wof:lastmodified":1449023944,
+    "wof:lastmodified":1466238964,
     "wof:name":"H.g. Biwer Gmbh",
     "wof:parent_id":85794725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.344962,50.105377,8.344962,50.105377],
+  "bbox": [
+    8.344962,
+    50.105377,
+    8.344962,
+    50.105377
+],
   "geometry": {"coordinates":[8.344962,50.105377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152311487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.852887,48.368618,10.852887,48.368618",
     "geom:latitude":48.368618,
     "geom:longitude":10.852887,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Uneben 8",
     "sg:city":"Stadtbergen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152311487,
-    "wof:lastmodified":1449045375,
+    "wof:lastmodified":1466216387,
     "wof:name":"Schwab Gmbh",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.852887,48.368618,10.852887,48.368618],
+  "bbox": [
+    10.852887,
+    48.368618,
+    10.852887,
+    48.368618
+],
   "geometry": {"coordinates":[10.852887,48.368618],"type":"Point"}
 }

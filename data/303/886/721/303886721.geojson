@@ -2,13 +2,14 @@
   "id": 303886721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.751918,49.311523,6.751918,49.311523",
     "geom:latitude":49.311523,
     "geom:longitude":6.751918,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kleinbahnhof 2 A",
     "sg:city":"Saarlouis",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303886721,
-    "wof:lastmodified":1448999474,
+    "wof:lastmodified":1466240954,
     "wof:name":"Lars Wenzel Ergotherapie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.751918,49.311523,6.751918,49.311523],
+  "bbox": [
+    6.751918,
+    49.311523,
+    6.751918,
+    49.311523
+],
   "geometry": {"coordinates":[6.751918,49.311523],"type":"Point"}
 }

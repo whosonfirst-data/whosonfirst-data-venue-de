@@ -2,13 +2,14 @@
   "id": 118683313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.189044,47.989601,10.189044,47.989601",
     "geom:latitude":47.989601,
     "geom:longitude":10.189044,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenbadstr. 29",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118683313,
-    "wof:lastmodified":1449053660,
+    "wof:lastmodified":1466222924,
     "wof:name":"Ambulante Krankenpflegestation",
     "wof:parent_id":101828659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.189044,47.989601,10.189044,47.989601],
+  "bbox": [
+    10.189044,
+    47.989601,
+    10.189044,
+    47.989601
+],
   "geometry": {"coordinates":[10.189044,47.989601],"type":"Point"}
 }

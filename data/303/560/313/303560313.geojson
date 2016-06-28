@@ -2,13 +2,14 @@
   "id": 303560313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.457437,52.547489,13.457437,52.547489",
     "geom:latitude":52.547489,
     "geom:longitude":13.457437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meyerbeerstr. 60",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303560313,
-    "wof:lastmodified":1448999984,
+    "wof:lastmodified":1466237572,
     "wof:name":"Christel Marke",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.457437,52.547489,13.457437,52.547489],
+  "bbox": [
+    13.457437,
+    52.547489,
+    13.457437,
+    52.547489
+],
   "geometry": {"coordinates":[13.457437,52.547489],"type":"Point"}
 }

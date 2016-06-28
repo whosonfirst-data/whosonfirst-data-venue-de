@@ -2,13 +2,14 @@
   "id": 286712101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.606222,53.176552,8.606222,53.176552",
     "geom:latitude":53.176552,
     "geom:longitude":8.606222,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstr. 43",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286712101,
-    "wof:lastmodified":1449016443,
+    "wof:lastmodified":1466235863,
     "wof:name":"Henry Claussen",
     "wof:parent_id":85795421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.606222,53.176552,8.606222,53.176552],
+  "bbox": [
+    8.606222,
+    53.176552,
+    8.606222,
+    53.176552
+],
   "geometry": {"coordinates":[8.606222,53.176552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135776419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.244749,51.469208,7.244749,51.469208",
     "geom:latitude":51.469208,
     "geom:longitude":7.244749,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserstr. 27 a",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796531,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135776419,
-    "wof:lastmodified":1449021650,
+    "wof:lastmodified":1466243917,
     "wof:name":"Alfred Baumann",
     "wof:parent_id":85796531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.244749,51.469208,7.244749,51.469208],
+  "bbox": [
+    7.244749,
+    51.469208,
+    7.244749,
+    51.469208
+],
   "geometry": {"coordinates":[7.244749,51.469208],"type":"Point"}
 }

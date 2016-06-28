@@ -2,13 +2,14 @@
   "id": 136082419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.311287,18.29047,-93.311287,18.29047",
     "geom:latitude":18.29047,
     "geom:longitude":-93.311287,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flurstr. 1",
     "sg:city":"Gersthofen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":136082419,
-    "wof:lastmodified":1449074958,
+    "wof:lastmodified":1466215913,
     "wof:name":"Internationale Transporte",
     "wof:parent_id":85686617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.311287,18.29047,-93.311287,18.29047],
-  "geometry": {"coordinates":[-93.311287,18.29047],"type":"Point"}
+  "bbox": [
+    -93.311287,
+    18.29047,
+    -93.311287,
+    18.29047
+],
+  "geometry": {"coordinates":[-93.31128699999999,18.29047],"type":"Point"}
 }

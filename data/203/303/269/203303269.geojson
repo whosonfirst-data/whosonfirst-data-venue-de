@@ -2,13 +2,14 @@
   "id": 203303269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.046374,51.185619,7.046374,51.185619",
     "geom:latitude":51.185619,
     "geom:longitude":7.046374,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00fcbbener Str. 5",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203303269,
-    "wof:lastmodified":1449024954,
+    "wof:lastmodified":1466218911,
     "wof:name":"Frank L\u00f6rcher",
     "wof:parent_id":85796725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.046374,51.185619,7.046374,51.185619],
+  "bbox": [
+    7.046374,
+    51.185619,
+    7.046374,
+    51.185619
+],
   "geometry": {"coordinates":[7.046374,51.185619],"type":"Point"}
 }

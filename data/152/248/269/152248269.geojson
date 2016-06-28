@@ -2,13 +2,14 @@
   "id": 152248269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.083489,51.172333,7.083489,51.172333",
     "geom:latitude":51.172333,
     "geom:longitude":7.083489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lner Str.",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85795697
+        85633111,
+        85795697,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152248269,
-    "wof:lastmodified":1449046838,
+    "wof:lastmodified":1466215059,
     "wof:name":"Bijou Brigitte Modische Accessoires Ag",
     "wof:parent_id":85795697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.083489,51.172333,7.083489,51.172333],
+  "bbox": [
+    7.083489,
+    51.172333,
+    7.083489,
+    51.172333
+],
   "geometry": {"coordinates":[7.083489,51.172333],"type":"Point"}
 }

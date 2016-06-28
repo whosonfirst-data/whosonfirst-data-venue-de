@@ -2,13 +2,14 @@
   "id": 119284547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.970104,53.576183,9.970104,53.576183",
     "geom:latitude":53.576183,
     "geom:longitude":9.970104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bogenstr. 68",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899703,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119284547,
-    "wof:lastmodified":1449042515,
+    "wof:lastmodified":1466236618,
     "wof:name":"Pfeiffer Optik Gmbh",
     "wof:parent_id":85899703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.970104,53.576183,9.970104,53.576183],
+  "bbox": [
+    9.970104,
+    53.576183,
+    9.970104,
+    53.576183
+],
   "geometry": {"coordinates":[9.970104,53.576183],"type":"Point"}
 }

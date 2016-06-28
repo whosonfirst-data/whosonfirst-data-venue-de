@@ -2,13 +2,14 @@
   "id": 287227007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.586028,48.162407,11.586028,48.162407",
     "geom:latitude":48.162407,
     "geom:longitude":11.586028,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leopoldstr. 69",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287227007,
-    "wof:lastmodified":1449000850,
+    "wof:lastmodified":1466231083,
     "wof:name":"Sunset",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.586028,48.162407,11.586028,48.162407],
+  "bbox": [
+    11.586028,
+    48.162407,
+    11.586028,
+    48.162407
+],
   "geometry": {"coordinates":[11.586028,48.162407],"type":"Point"}
 }

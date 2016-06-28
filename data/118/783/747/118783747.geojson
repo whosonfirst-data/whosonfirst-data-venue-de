@@ -2,13 +2,14 @@
   "id": 118783747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675682,45.51181,-122.675682,45.51181",
     "geom:latitude":45.51181,
     "geom:longitude":-122.675682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzm\u00fchle",
     "sg:city":"Holzm\u00fchle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867131,
+        85688513,
         85633793,
         101715829,
         102081631,
-        85688513
+        85867131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118783747,
-    "wof:lastmodified":1449053187,
+    "wof:lastmodified":1466228774,
     "wof:name":"F\u00f6rster Antiquit\u00e4ten",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.675682,45.51181,-122.675682,45.51181],
-  "geometry": {"coordinates":[-122.675682,45.51181],"type":"Point"}
+  "bbox": [
+    -122.675682,
+    45.51181,
+    -122.675682,
+    45.51181
+],
+  "geometry": {"coordinates":[-122.67568199999999,45.51181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253414165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.714181,48.175117,11.714181,48.175117",
     "geom:latitude":48.175117,
     "geom:longitude":11.714181,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ismaninger Str. 21",
     "sg:city":"Aschheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253414165,
-    "wof:lastmodified":1449064209,
+    "wof:lastmodified":1466227252,
     "wof:name":"Josef Bauer",
     "wof:parent_id":85899949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.714181,48.175117,11.714181,48.175117],
+  "bbox": [
+    11.714181,
+    48.175117,
+    11.714181,
+    48.175117
+],
   "geometry": {"coordinates":[11.714181,48.175117],"type":"Point"}
 }

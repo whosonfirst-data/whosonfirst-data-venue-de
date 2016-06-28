@@ -2,13 +2,14 @@
   "id": 119072707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.43374,48.12249,11.43374,48.12249",
     "geom:latitude":48.12249,
     "geom:longitude":11.43374,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wandlhamerstr. 40",
     "sg:city":"Gr\u00e4felfing",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119072707,
-    "wof:lastmodified":1449042257,
+    "wof:lastmodified":1466217551,
     "wof:name":"K. Steinmetz-weiglein Architekt",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.43374,48.12249,11.43374,48.12249],
+  "bbox": [
+    11.43374,
+    48.12249,
+    11.43374,
+    48.12249
+],
   "geometry": {"coordinates":[11.43374,48.12249],"type":"Point"}
 }

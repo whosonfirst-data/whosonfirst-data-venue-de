@@ -2,13 +2,14 @@
   "id": 270402965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.09047,50.77515,6.09047,50.77515",
     "geom:latitude":50.77515,
     "geom:longitude":6.09047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adalbertstrasse 41a",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270402965,
-    "wof:lastmodified":1449009404,
+    "wof:lastmodified":1466231149,
     "wof:name":"Aachen Kriterium",
     "wof:parent_id":85795007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.09047,50.77515,6.09047,50.77515],
+  "bbox": [
+    6.09047,
+    50.77515,
+    6.09047,
+    50.77515
+],
   "geometry": {"coordinates":[6.09047,50.77515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286704463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.443403,48.410507,10.443403,48.410507",
     "geom:latitude":48.410507,
     "geom:longitude":10.443403,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siemensstr 3",
     "sg:city":"Jettingen-Scheppach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286704463,
-    "wof:lastmodified":1449015942,
+    "wof:lastmodified":1466235388,
     "wof:name":"Mitrovic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.443403,48.410507,10.443403,48.410507],
+  "bbox": [
+    10.443403,
+    48.410507,
+    10.443403,
+    48.410507
+],
   "geometry": {"coordinates":[10.443403,48.410507],"type":"Point"}
 }

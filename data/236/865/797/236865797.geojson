@@ -2,13 +2,14 @@
   "id": 236865797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45026,50.149036,8.45026,50.149036",
     "geom:latitude":50.149036,
     "geom:longitude":8.45026,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotebergstr. 23",
     "sg:city":"Kelkheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236865797,
-    "wof:lastmodified":1449004272,
+    "wof:lastmodified":1466234816,
     "wof:name":"Martin Schmitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.45026,50.149036,8.45026,50.149036],
+  "bbox": [
+    8.45026,
+    50.149036,
+    8.45026,
+    50.149036
+],
   "geometry": {"coordinates":[8.45026,50.149036],"type":"Point"}
 }

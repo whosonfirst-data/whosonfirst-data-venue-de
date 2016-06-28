@@ -2,13 +2,14 @@
   "id": 119135379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.294514,52.450047,13.294514,52.450047",
     "geom:latitude":52.450047,
     "geom:longitude":13.294514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ehrenbergstr. 1a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900017,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119135379,
-    "wof:lastmodified":1449041789,
+    "wof:lastmodified":1466222849,
     "wof:name":"Stefan Ludes Architekt",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.294514,52.450047,13.294514,52.450047],
+  "bbox": [
+    13.294514,
+    52.450047,
+    13.294514,
+    52.450047
+],
   "geometry": {"coordinates":[13.294514,52.450047],"type":"Point"}
 }

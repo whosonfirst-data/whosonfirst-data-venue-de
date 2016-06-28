@@ -2,13 +2,14 @@
   "id": 119447473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.034805,53.645576,10.034805,53.645576",
     "geom:latitude":53.645576,
     "geom:longitude":10.034805,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lademannbogen 18",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119447473,
-    "wof:lastmodified":1449042743,
+    "wof:lastmodified":1466242668,
     "wof:name":"Ms Gesellschaft F\u00fcr Projektierung Und Planung",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.034805,53.645576,10.034805,53.645576],
+  "bbox": [
+    10.034805,
+    53.645576,
+    10.034805,
+    53.645576
+],
   "geometry": {"coordinates":[10.034805,53.645576],"type":"Point"}
 }

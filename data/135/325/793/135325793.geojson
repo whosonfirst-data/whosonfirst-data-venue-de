@@ -2,13 +2,14 @@
   "id": 135325793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.872439,48.341785,7.872439,48.341785",
     "geom:latitude":48.341785,
     "geom:longitude":7.872439,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 6",
     "sg:city":"Lahr",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135325793,
-    "wof:lastmodified":1449022189,
+    "wof:lastmodified":1466215995,
     "wof:name":"Werner Roser",
     "wof:parent_id":101763057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.872439,48.341785,7.872439,48.341785],
+  "bbox": [
+    7.872439,
+    48.341785,
+    7.872439,
+    48.341785
+],
   "geometry": {"coordinates":[7.872439,48.341785],"type":"Point"}
 }

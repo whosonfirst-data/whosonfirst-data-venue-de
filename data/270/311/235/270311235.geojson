@@ -2,13 +2,14 @@
   "id": 270311235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.846962,48.385437,10.846962,48.385437",
     "geom:latitude":48.385437,
     "geom:longitude":10.846962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werner-Heisenberg-Str. 3",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270311235,
-    "wof:lastmodified":1449009204,
+    "wof:lastmodified":1466228695,
     "wof:name":"Kuhn & Ehrengruber Gmbh",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.846962,48.385437,10.846962,48.385437],
+  "bbox": [
+    10.846962,
+    48.385437,
+    10.846962,
+    48.385437
+],
   "geometry": {"coordinates":[10.846962,48.385437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320300133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.790409,51.242058,6.790409,51.242058",
     "geom:latitude":51.242058,
     "geom:longitude":6.790409,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstra\u00dfe 85",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320300133,
-    "wof:lastmodified":1449013363,
+    "wof:lastmodified":1466238947,
     "wof:name":"St. Vinzenz-krankenhaus D\u00fcsseldorf",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.790409,51.242058,6.790409,51.242058],
+  "bbox": [
+    6.790409,
+    51.242058,
+    6.790409,
+    51.242058
+],
   "geometry": {"coordinates":[6.790409,51.242058],"type":"Point"}
 }

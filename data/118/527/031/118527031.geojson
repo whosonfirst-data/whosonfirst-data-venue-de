@@ -2,13 +2,14 @@
   "id": 118527031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.469305,49.595516,8.469305,49.595516",
     "geom:latitude":49.595516,
     "geom:longitude":8.469305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 22::",
     "sg:city":"Lampertheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063507,
-        85633111,
         85682531,
-        85862821
+        85633111,
+        85862821,
+        102063507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118527031,
-    "wof:lastmodified":1449054273,
+    "wof:lastmodified":1466214089,
     "wof:name":"Volksbank Kreis Bergstrasse Eg",
     "wof:parent_id":85862821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.469305,49.595516,8.469305,49.595516],
+  "bbox": [
+    8.469305,
+    49.595516,
+    8.469305,
+    49.595516
+],
   "geometry": {"coordinates":[8.469305,49.595516],"type":"Point"}
 }

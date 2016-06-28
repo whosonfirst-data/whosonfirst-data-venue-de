@@ -2,13 +2,14 @@
   "id": 136111811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.075138,50.822948,13.075138,50.822948",
     "geom:latitude":50.822948,
     "geom:longitude":13.075138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Vogelherd 9a",
     "sg:city":"Erdmannsdorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064223,
-        85633111,
         85682523,
-        85899377
+        85633111,
+        85899377,
+        102064223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136111811,
-    "wof:lastmodified":1449076309,
+    "wof:lastmodified":1466217246,
     "wof:name":"Raik\u00b4s Homepage",
     "wof:parent_id":85899377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.075138,50.822948,13.075138,50.822948],
+  "bbox": [
+    13.075138,
+    50.822948,
+    13.075138,
+    50.822948
+],
   "geometry": {"coordinates":[13.075138,50.822948],"type":"Point"}
 }

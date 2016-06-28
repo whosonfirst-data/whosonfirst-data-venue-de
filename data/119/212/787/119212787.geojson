@@ -2,13 +2,14 @@
   "id": 119212787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.119162,51.49831,7.119162,51.49831",
     "geom:latitude":51.49831,
     "geom:longitude":7.119162,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Virchowstr. 4",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795855,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119212787,
-    "wof:lastmodified":1449042608,
+    "wof:lastmodified":1466229960,
     "wof:name":"Kath. \u00f6ffentl. Bibliothek St. Josef",
     "wof:parent_id":85795855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.119162,51.49831,7.119162,51.49831],
+  "bbox": [
+    7.119162,
+    51.49831,
+    7.119162,
+    51.49831
+],
   "geometry": {"coordinates":[7.119162,51.49831],"type":"Point"}
 }

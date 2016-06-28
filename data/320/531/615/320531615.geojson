@@ -2,13 +2,14 @@
   "id": 320531615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.727725,52.417656,9.727725,52.417656",
     "geom:latitude":52.417656,
     "geom:longitude":9.727725,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wohlenbergstr. 6",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320531615,
-    "wof:lastmodified":1449012148,
+    "wof:lastmodified":1466241243,
     "wof:name":"Ulrich Neumann",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.727725,52.417656,9.727725,52.417656],
+  "bbox": [
+    9.727725,
+    52.417656,
+    9.727725,
+    52.417656
+],
   "geometry": {"coordinates":[9.727725,52.417656],"type":"Point"}
 }

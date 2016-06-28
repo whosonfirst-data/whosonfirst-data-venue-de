@@ -2,13 +2,14 @@
   "id": 135903769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.478968,49.590057,8.478968,49.590057",
     "geom:latitude":49.590057,
     "geom:longitude":8.478968,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viernheimer Str. 48",
     "sg:city":"Lampertheim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063507,
-        85633111,
         85682531,
-        85862821
+        85633111,
+        85862821,
+        102063507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135903769,
-    "wof:lastmodified":1449021173,
+    "wof:lastmodified":1466244560,
     "wof:name":"Ph. Rhein Gmbh",
     "wof:parent_id":85862821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.478968,49.590057,8.478968,49.590057],
+  "bbox": [
+    8.478968,
+    49.590057,
+    8.478968,
+    49.590057
+],
   "geometry": {"coordinates":[8.478968,49.590057],"type":"Point"}
 }

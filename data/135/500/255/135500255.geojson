@@ -2,13 +2,14 @@
   "id": 135500255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.604663,50.668259,12.604663,50.668259",
     "geom:latitude":50.668259,
     "geom:longitude":12.604663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstr. 32",
     "sg:city":"Wildenfels",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135500255,
-    "wof:lastmodified":1449021747,
+    "wof:lastmodified":1466231604,
     "wof:name":"Wilfried Reuther",
     "wof:parent_id":101823141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.604663,50.668259,12.604663,50.668259],
+  "bbox": [
+    12.604663,
+    50.668259,
+    12.604663,
+    50.668259
+],
   "geometry": {"coordinates":[12.604663,50.668259],"type":"Point"}
 }

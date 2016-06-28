@@ -2,13 +2,14 @@
   "id": 119389253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.293388,49.464931,11.293388,49.464931",
     "geom:latitude":49.464931,
     "geom:longitude":11.293388,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haimendorfer Str. 35",
     "sg:city":"Leinburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063495,
-        85633111,
         85682571,
-        85899685
+        85633111,
+        85899685,
+        102063495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119389253,
-    "wof:lastmodified":1449042956,
+    "wof:lastmodified":1466241300,
     "wof:name":"Willi Abraham",
     "wof:parent_id":85899685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.293388,49.464931,11.293388,49.464931],
+  "bbox": [
+    11.293388,
+    49.464931,
+    11.293388,
+    49.464931
+],
   "geometry": {"coordinates":[11.293388,49.464931],"type":"Point"}
 }

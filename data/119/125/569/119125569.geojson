@@ -2,13 +2,14 @@
   "id": 119125569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.076057,51.509224,7.076057,51.509224",
     "geom:latitude":51.509224,
     "geom:longitude":7.076057,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurf\u00fcrstenstr. 52",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794991,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119125569,
-    "wof:lastmodified":1449043470,
+    "wof:lastmodified":1466222270,
     "wof:name":"Rudi W\u00fcller Architekt",
     "wof:parent_id":85794991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.076057,51.509224,7.076057,51.509224],
+  "bbox": [
+    7.076057,
+    51.509224,
+    7.076057,
+    51.509224
+],
   "geometry": {"coordinates":[7.076057,51.509224],"type":"Point"}
 }

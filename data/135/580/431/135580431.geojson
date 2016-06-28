@@ -2,13 +2,14 @@
   "id": 135580431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.894339,48.318279,10.894339,48.318279",
     "geom:latitude":48.318279,
     "geom:longitude":10.894339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kopernikusstr. 77",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899931,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135580431,
-    "wof:lastmodified":1449023038,
+    "wof:lastmodified":1466237930,
     "wof:name":"Augusta- Bautr\u00e4ger Gmbh",
     "wof:parent_id":85899931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.894339,48.318279,10.894339,48.318279],
+  "bbox": [
+    10.894339,
+    48.318279,
+    10.894339,
+    48.318279
+],
   "geometry": {"coordinates":[10.894339,48.318279],"type":"Point"}
 }

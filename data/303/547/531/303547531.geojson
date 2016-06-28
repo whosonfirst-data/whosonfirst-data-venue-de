@@ -2,13 +2,14 @@
   "id": 303547531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.249973,48.765247,9.249973,48.765247",
     "geom:latitude":48.765247,
     "geom:longitude":9.249973,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hedelfinger Str. 80",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303547531,
-    "wof:lastmodified":1448998368,
+    "wof:lastmodified":1466237171,
     "wof:name":"Document Services Gmbh",
     "wof:parent_id":85796165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.249973,48.765247,9.249973,48.765247],
+  "bbox": [
+    9.249973,
+    48.765247,
+    9.249973,
+    48.765247
+],
   "geometry": {"coordinates":[9.249973,48.765247],"type":"Point"}
 }

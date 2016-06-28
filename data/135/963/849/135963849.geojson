@@ -2,13 +2,14 @@
   "id": 135963849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.004405,53.552639,10.004405,53.552639",
     "geom:latitude":53.552639,
     "geom:longitude":10.004405,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalerstr. 4",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135963849,
-    "wof:lastmodified":1449021285,
+    "wof:lastmodified":1466244844,
     "wof:name":"Schlutius Espey Und Partner Anwaltssoziet\u00e4t",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.004405,53.552639,10.004405,53.552639],
+  "bbox": [
+    10.004405,
+    53.552639,
+    10.004405,
+    53.552639
+],
   "geometry": {"coordinates":[10.004405,53.552639],"type":"Point"}
 }

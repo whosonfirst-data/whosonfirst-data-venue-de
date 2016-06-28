@@ -2,13 +2,14 @@
   "id": 135276553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.572121,52.035439,8.572121,52.035439",
     "geom:latitude":52.035439,
     "geom:longitude":8.572121,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelstr. 68a",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796357,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135276553,
-    "wof:lastmodified":1449021086,
+    "wof:lastmodified":1466221168,
     "wof:name":"Hooman B\u00e4ckerei Gmbh",
     "wof:parent_id":85796357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.572121,52.035439,8.572121,52.035439],
+  "bbox": [
+    8.572121,
+    52.035439,
+    8.572121,
+    52.035439
+],
   "geometry": {"coordinates":[8.572121,52.035439],"type":"Point"}
 }

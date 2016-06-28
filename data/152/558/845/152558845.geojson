@@ -2,13 +2,14 @@
   "id": 152558845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.62381,53.052692,8.62381,53.052692",
     "geom:latitude":53.052692,
     "geom:longitude":8.62381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 13",
     "sg:city":"Delmenhorst",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063971,
-        85633111,
         85682555,
-        85796553
+        85633111,
+        85796553,
+        102063971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152558845,
-    "wof:lastmodified":1449045552,
+    "wof:lastmodified":1466221534,
     "wof:name":"Secu Tec Beteiligungs-gmbh",
     "wof:parent_id":85796553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.62381,53.052692,8.62381,53.052692],
+  "bbox": [
+    8.62381,
+    53.052692,
+    8.62381,
+    53.052692
+],
   "geometry": {"coordinates":[8.62381,53.052692],"type":"Point"}
 }

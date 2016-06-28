@@ -2,13 +2,14 @@
   "id": 136052129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623604,51.499718,7.623604,51.499718",
     "geom:latitude":51.499718,
     "geom:longitude":7.623604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dortmunder Weg 5",
     "sg:city":"Holzwickede",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796735,
+        85682513,
         85633111,
         101756023,
         102063823,
-        85682513
+        85796735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136052129,
-    "wof:lastmodified":1449075500,
+    "wof:lastmodified":1466214517,
     "wof:name":"E-holiday Der Spezialist F\u00fcr Billigfluege Weltweit",
     "wof:parent_id":85796735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.623604,51.499718,7.623604,51.499718],
+  "bbox": [
+    7.623604,
+    51.499718,
+    7.623604,
+    51.499718
+],
   "geometry": {"coordinates":[7.623604,51.499718],"type":"Point"}
 }

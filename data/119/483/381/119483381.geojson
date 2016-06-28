@@ -2,13 +2,14 @@
   "id": 119483381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.783967,51.162601,6.783967,51.162601",
     "geom:latitude":51.162601,
     "geom:longitude":6.783967,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Norfer Weg 119",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796611,
+        85682513,
         85633111,
         101913811,
         102063757,
-        85682513
+        85796611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119483381,
-    "wof:lastmodified":1449042933,
+    "wof:lastmodified":1466243370,
     "wof:name":"Sts Autovermietung Gmbh",
     "wof:parent_id":85796611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.783967,51.162601,6.783967,51.162601],
+  "bbox": [
+    6.783967,
+    51.162601,
+    6.783967,
+    51.162601
+],
   "geometry": {"coordinates":[6.783967,51.162601],"type":"Point"}
 }

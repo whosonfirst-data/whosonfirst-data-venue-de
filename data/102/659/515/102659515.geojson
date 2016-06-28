@@ -2,13 +2,14 @@
   "id": 102659515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.161024,49.945,11.161024,49.945",
     "geom:latitude":49.945,
     "geom:longitude":11.161024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"K\u00f6nigsfeld",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102659515,
-    "wof:lastmodified":1449068056,
+    "wof:lastmodified":1466215053,
     "wof:name":"Kreissparkasse Bamberg",
     "wof:parent_id":101825855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.161024,49.945,11.161024,49.945],
+  "bbox": [
+    11.161024,
+    49.945,
+    11.161024,
+    49.945
+],
   "geometry": {"coordinates":[11.161024,49.945],"type":"Point"}
 }

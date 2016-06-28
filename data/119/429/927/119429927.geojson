@@ -2,13 +2,14 @@
   "id": 119429927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.842952,50.813538,12.842952,50.813538",
     "geom:latitude":50.813538,
     "geom:longitude":12.842952,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adam-Ries-Str. 4",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119429927,
-    "wof:lastmodified":1449043417,
+    "wof:lastmodified":1466242389,
     "wof:name":"Chem Technik Handels- Und Servicegesellschaft Mbh",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.842952,50.813538,12.842952,50.813538],
+  "bbox": [
+    12.842952,
+    50.813538,
+    12.842952,
+    50.813538
+],
   "geometry": {"coordinates":[12.842952,50.813538],"type":"Point"}
 }

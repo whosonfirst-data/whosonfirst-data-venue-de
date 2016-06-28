@@ -2,13 +2,14 @@
   "id": 135710081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.450265,48.163452,11.450265,48.163452",
     "geom:latitude":48.163452,
     "geom:longitude":11.450265,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenhartstr. 22",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899907,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135710081,
-    "wof:lastmodified":1449021180,
+    "wof:lastmodified":1466242716,
     "wof:name":"Planungs-general\u00fcbernehmer- B\u00fcro Gmbh",
     "wof:parent_id":85899907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.450265,48.163452,11.450265,48.163452],
+  "bbox": [
+    11.450265,
+    48.163452,
+    11.450265,
+    48.163452
+],
   "geometry": {"coordinates":[11.450265,48.163452],"type":"Point"}
 }

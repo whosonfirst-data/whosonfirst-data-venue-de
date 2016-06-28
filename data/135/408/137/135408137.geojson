@@ -2,13 +2,14 @@
   "id": 135408137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.974032,53.579987,9.974032,53.579987",
     "geom:latitude":53.579987,
     "geom:longitude":9.974032,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hoheluftchaussee 39",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899703,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135408137,
-    "wof:lastmodified":1449021358,
+    "wof:lastmodified":1466223573,
     "wof:name":"Noris Verbraucherbank Gmbh",
     "wof:parent_id":85899703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.974032,53.579987,9.974032,53.579987],
+  "bbox": [
+    9.974032,
+    53.579987,
+    9.974032,
+    53.579987
+],
   "geometry": {"coordinates":[9.974032,53.579987],"type":"Point"}
 }

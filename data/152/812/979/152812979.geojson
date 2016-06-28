@@ -2,13 +2,14 @@
   "id": 152812979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.101215,50.737045,7.101215,50.737045",
     "geom:latitude":50.737045,
     "geom:longitude":7.101215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bonngasse 22",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152812979,
-    "wof:lastmodified":1449044422,
+    "wof:lastmodified":1466227354,
     "wof:name":"Farnschl\u00e4der Handgemachte Schuhe Bonn",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.101215,50.737045,7.101215,50.737045],
+  "bbox": [
+    7.101215,
+    50.737045,
+    7.101215,
+    50.737045
+],
   "geometry": {"coordinates":[7.101215,50.737045],"type":"Point"}
 }

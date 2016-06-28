@@ -2,13 +2,14 @@
   "id": 136162633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.232375,50.769527,6.232375,50.769527",
     "geom:latitude":50.769527,
     "geom:longitude":6.232375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Enkereistr.17",
     "sg:city":"Stolberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85795237
+        85633111,
+        85795237,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136162633,
-    "wof:lastmodified":1449076065,
+    "wof:lastmodified":1466219384,
     "wof:name":"Csk",
     "wof:parent_id":85795237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.232375,50.769527,6.232375,50.769527],
+  "bbox": [
+    6.232375,
+    50.769527,
+    6.232375,
+    50.769527
+],
   "geometry": {"coordinates":[6.232375,50.769527],"type":"Point"}
 }

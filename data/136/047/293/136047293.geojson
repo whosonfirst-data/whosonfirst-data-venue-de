@@ -2,13 +2,14 @@
   "id": 136047293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227478,40.633942,-80.227478,40.633942",
     "geom:latitude":40.633942,
     "geom:longitude":-80.227478,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstr. 100",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"76323",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808703,
+        85688481,
         85633793,
         101718403,
         102081323,
-        85688481
+        85808703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136047293,
-    "wof:lastmodified":1449075788,
+    "wof:lastmodified":1466214296,
     "wof:name":"Die Sch\u00f6nsten Stars",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.227478,40.633942,-80.227478,40.633942],
+  "bbox": [
+    -80.227478,
+    40.633942,
+    -80.227478,
+    40.633942
+],
   "geometry": {"coordinates":[-80.227478,40.633942],"type":"Point"}
 }

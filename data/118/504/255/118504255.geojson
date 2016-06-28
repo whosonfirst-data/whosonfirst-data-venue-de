@@ -2,13 +2,14 @@
   "id": 118504255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.34203,51.282936,9.34203,51.282936",
     "geom:latitude":51.282936,
     "geom:longitude":9.34203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Schauenburg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,10 +17,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063811,
-        85633111,
         85682531,
-        85935817
+        85633111,
+        85935817,
+        102063811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":118504255,
-    "wof:lastmodified":1449053383,
+    "wof:lastmodified":1466225183,
     "wof:name":"Fanshopfuehrer.de",
     "wof:parent_id":85935817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.34203,51.282936,9.34203,51.282936],
+  "bbox": [
+    9.34203,
+    51.282936,
+    9.34203,
+    51.282936
+],
   "geometry": {"coordinates":[9.34203,51.282936],"type":"Point"}
 }

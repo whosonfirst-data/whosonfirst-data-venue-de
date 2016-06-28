@@ -2,13 +2,14 @@
   "id": 118788119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.265691,51.159599,7.265691,51.159599",
     "geom:latitude":51.159599,
     "geom:longitude":7.265691,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Raiffeisenstr. 6",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063733,
-        85633111,
         85682513,
-        85795907
+        85633111,
+        85795907,
+        102063733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118788119,
-    "wof:lastmodified":1449053878,
+    "wof:lastmodified":1466229053,
     "wof:name":"Meijers Art Antik E. K.",
     "wof:parent_id":85795907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.265691,51.159599,7.265691,51.159599],
+  "bbox": [
+    7.265691,
+    51.159599,
+    7.265691,
+    51.159599
+],
   "geometry": {"coordinates":[7.265691,51.159599],"type":"Point"}
 }

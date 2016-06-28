@@ -2,13 +2,14 @@
   "id": 118695793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.129384,51.501102,7.129384,51.501102",
     "geom:latitude":51.501102,
     "geom:longitude":7.129384,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krahwinkel 26",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795595,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85795595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118695793,
-    "wof:lastmodified":1449053675,
+    "wof:lastmodified":1466223669,
     "wof:name":"Christopherus Pflegedienst",
     "wof:parent_id":85795595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.129384,51.501102,7.129384,51.501102],
+  "bbox": [
+    7.129384,
+    51.501102,
+    7.129384,
+    51.501102
+],
   "geometry": {"coordinates":[7.129384,51.501102],"type":"Point"}
 }

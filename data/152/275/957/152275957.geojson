@@ -2,13 +2,14 @@
   "id": 152275957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.189898,51.476032,7.189898,51.476032",
     "geom:latitude":51.476032,
     "geom:longitude":7.189898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Essener Str. 45a",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796583,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152275957,
-    "wof:lastmodified":1449045792,
+    "wof:lastmodified":1466215625,
     "wof:name":"H.-p. Seehausen",
     "wof:parent_id":85796583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.189898,51.476032,7.189898,51.476032],
+  "bbox": [
+    7.189898,
+    51.476032,
+    7.189898,
+    51.476032
+],
   "geometry": {"coordinates":[7.189898,51.476032],"type":"Point"}
 }

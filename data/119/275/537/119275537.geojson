@@ -2,13 +2,14 @@
   "id": 119275537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.535643,52.440132,13.535643,52.440132",
     "geom:latitude":52.440132,
     "geom:longitude":13.535643,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neltestr. 1",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900085,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119275537,
-    "wof:lastmodified":1449041633,
+    "wof:lastmodified":1466236057,
     "wof:name":"Sabine Hauthal",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.535643,52.440132,13.535643,52.440132],
+  "bbox": [
+    13.535643,
+    52.440132,
+    13.535643,
+    52.440132
+],
   "geometry": {"coordinates":[13.535643,52.440132],"type":"Point"}
 }

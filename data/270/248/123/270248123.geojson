@@ -2,13 +2,14 @@
   "id": 270248123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.50981,49.05368,10.50981,49.05368",
     "geom:latitude":49.05368,
     "geom:longitude":10.50981,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postweg 2",
     "sg:city":"Gerolfingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270248123,
-    "wof:lastmodified":1449009984,
+    "wof:lastmodified":1466227170,
     "wof:name":"Karl Krieger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.50981,49.05368,10.50981,49.05368],
+  "bbox": [
+    10.50981,
+    49.05368,
+    10.50981,
+    49.05368
+],
   "geometry": {"coordinates":[10.50981,49.05368],"type":"Point"}
 }

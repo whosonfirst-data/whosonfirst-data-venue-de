@@ -2,13 +2,14 @@
   "id": 202809257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.43281,52.477982,13.43281,52.477982",
     "geom:latitude":52.477982,
     "geom:longitude":13.43281,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Biebricher Str. 6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202809257,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466221392,
     "wof:name":"Manfred Kusserow",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.43281,52.477982,13.43281,52.477982],
+  "bbox": [
+    13.43281,
+    52.477982,
+    13.43281,
+    52.477982
+],
   "geometry": {"coordinates":[13.43281,52.477982],"type":"Point"}
 }

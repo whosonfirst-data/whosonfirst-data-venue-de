@@ -2,13 +2,14 @@
   "id": 236027951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.521909,52.264248,10.521909,52.264248",
     "geom:latitude":52.264248,
     "geom:longitude":10.521909,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sack 24",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236027951,
-    "wof:lastmodified":1449002136,
+    "wof:lastmodified":1466219171,
     "wof:name":"Zeit",
     "wof:parent_id":85899311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.521909,52.264248,10.521909,52.264248],
+  "bbox": [
+    10.521909,
+    52.264248,
+    10.521909,
+    52.264248
+],
   "geometry": {"coordinates":[10.521909,52.264248],"type":"Point"}
 }

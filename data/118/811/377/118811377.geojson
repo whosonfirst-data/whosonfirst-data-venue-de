@@ -2,13 +2,14 @@
   "id": 118811377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.672489,51.216408,6.672489,51.216408",
     "geom:latitude":51.216408,
     "geom:longitude":6.672489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neusser Weyhe 32",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118811377,
-    "wof:lastmodified":1449053823,
+    "wof:lastmodified":1466230415,
     "wof:name":"Delphin Apotheke E. K.",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.672489,51.216408,6.672489,51.216408],
+  "bbox": [
+    6.672489,
+    51.216408,
+    6.672489,
+    51.216408
+],
   "geometry": {"coordinates":[6.672489,51.216408],"type":"Point"}
 }

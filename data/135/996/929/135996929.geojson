@@ -2,13 +2,14 @@
   "id": 135996929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.379737,52.45435,13.379737,52.45435",
     "geom:latitude":52.45435,
     "geom:longitude":13.379737,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolframstr. 95/96",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135996929,
-    "wof:lastmodified":1449021811,
+    "wof:lastmodified":1466244932,
     "wof:name":"Treuwert Immobilienges. Mbh",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.379737,52.45435,13.379737,52.45435],
+  "bbox": [
+    13.379737,
+    52.45435,
+    13.379737,
+    52.45435
+],
   "geometry": {"coordinates":[13.379737,52.45435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219618523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.544505,50.465012,11.544505,50.465012",
     "geom:latitude":50.465012,
     "geom:longitude":11.544505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Heine-Str. 3",
     "sg:city":"Wurzbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219618523,
-    "wof:lastmodified":1449072593,
+    "wof:lastmodified":1466222732,
     "wof:name":"M. Wolfram",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.544505,50.465012,11.544505,50.465012],
+  "bbox": [
+    11.544505,
+    50.465012,
+    11.544505,
+    50.465012
+],
   "geometry": {"coordinates":[11.544505,50.465012],"type":"Point"}
 }

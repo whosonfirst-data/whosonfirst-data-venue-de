@@ -2,13 +2,14 @@
   "id": 203201589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.409127,49.494728,8.409127,49.494728",
     "geom:latitude":49.494728,
     "geom:longitude":8.409127,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ritterstr. 42",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203201589,
-    "wof:lastmodified":1449026609,
+    "wof:lastmodified":1466217248,
     "wof:name":"Kurt Hahl",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.409127,49.494728,8.409127,49.494728],
+  "bbox": [
+    8.409127,
+    49.494728,
+    8.409127,
+    49.494728
+],
   "geometry": {"coordinates":[8.409127,49.494728],"type":"Point"}
 }

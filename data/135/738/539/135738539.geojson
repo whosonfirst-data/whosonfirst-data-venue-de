@@ -2,13 +2,14 @@
   "id": 135738539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.316684,50.975601,10.316684,50.975601",
     "geom:latitude":50.975601,
     "geom:longitude":10.316684,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georgenstr. 23",
     "sg:city":"Eisenach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135738539,
-    "wof:lastmodified":1449023211,
+    "wof:lastmodified":1466243288,
     "wof:name":"G. Kahl",
     "wof:parent_id":101827177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.316684,50.975601,10.316684,50.975601],
+  "bbox": [
+    10.316684,
+    50.975601,
+    10.316684,
+    50.975601
+],
   "geometry": {"coordinates":[10.316684,50.975601],"type":"Point"}
 }

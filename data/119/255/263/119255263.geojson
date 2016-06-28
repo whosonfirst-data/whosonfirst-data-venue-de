@@ -2,13 +2,14 @@
   "id": 119255263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.057483,52.385063,13.057483,52.385063",
     "geom:latitude":52.385063,
     "geom:longitude":13.057483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Finkenweg 12",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900127,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553,
+        85900127,
         85928783
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119255263,
-    "wof:lastmodified":1449042033,
+    "wof:lastmodified":1466234118,
     "wof:name":"Dr. E.-g. Metz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.057483,52.385063,13.057483,52.385063],
+  "bbox": [
+    13.057483,
+    52.385063,
+    13.057483,
+    52.385063
+],
   "geometry": {"coordinates":[13.057483,52.385063],"type":"Point"}
 }

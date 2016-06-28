@@ -2,13 +2,14 @@
   "id": 220041079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.049045,50.83083,6.049045,50.83083",
     "geom:latitude":50.83083,
     "geom:longitude":6.049045,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Horbacher Str. 284",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220041079,
-    "wof:lastmodified":1449074312,
+    "wof:lastmodified":1466215380,
     "wof:name":"Wolfgang Horbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.049045,50.83083,6.049045,50.83083],
+  "bbox": [
+    6.049045,
+    50.83083,
+    6.049045,
+    50.83083
+],
   "geometry": {"coordinates":[6.049045,50.83083],"type":"Point"}
 }

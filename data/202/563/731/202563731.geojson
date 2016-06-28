@@ -2,13 +2,14 @@
   "id": 202563731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.337021,51.437904,7.337021,51.437904",
     "geom:latitude":51.437904,
     "geom:longitude":7.337021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruhrstr. 24",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202563731,
-    "wof:lastmodified":1449060148,
+    "wof:lastmodified":1466216913,
     "wof:name":"Ellen",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.337021,51.437904,7.337021,51.437904],
+  "bbox": [
+    7.337021,
+    51.437904,
+    7.337021,
+    51.437904
+],
   "geometry": {"coordinates":[7.337021,51.437904],"type":"Point"}
 }

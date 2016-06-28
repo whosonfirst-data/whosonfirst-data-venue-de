@@ -2,13 +2,14 @@
   "id": 135889567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59515,49.548103,8.59515,49.548103",
     "geom:latitude":49.548103,
     "geom:longitude":8.59515,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wernher-von-Braun-Str. 12",
     "sg:city":"Viernheim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135889567,
-    "wof:lastmodified":1449020925,
+    "wof:lastmodified":1466244499,
     "wof:name":"G\u00f6tz Holding Gmbh & Co. Kg",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59515,49.548103,8.59515,49.548103],
+  "bbox": [
+    8.59515,
+    49.548103,
+    8.59515,
+    49.548103
+],
   "geometry": {"coordinates":[8.59515,49.548103],"type":"Point"}
 }

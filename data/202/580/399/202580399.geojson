@@ -2,13 +2,14 @@
   "id": 202580399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.604774,50.955975,11.604774,50.955975",
     "geom:latitude":50.955975,
     "geom:longitude":11.604774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Closewitzer Str. 41",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202580399,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466217252,
     "wof:name":"S. Radzio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.604774,50.955975,11.604774,50.955975],
+  "bbox": [
+    11.604774,
+    50.955975,
+    11.604774,
+    50.955975
+],
   "geometry": {"coordinates":[11.604774,50.955975],"type":"Point"}
 }

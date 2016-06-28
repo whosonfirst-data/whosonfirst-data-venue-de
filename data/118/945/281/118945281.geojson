@@ -2,13 +2,14 @@
   "id": 118945281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.334047,52.144352,10.334047,52.144352",
     "geom:latitude":52.144352,
     "geom:longitude":10.334047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Swindonstr. 25",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899431,
+        85682555,
         85633111,
         101748779,
         102063885,
-        85682555
+        85899431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118945281,
-    "wof:lastmodified":1449053266,
+    "wof:lastmodified":1466237609,
     "wof:name":"S\u00fcd-apotheke",
     "wof:parent_id":85899431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.334047,52.144352,10.334047,52.144352],
+  "bbox": [
+    10.334047,
+    52.144352,
+    10.334047,
+    52.144352
+],
   "geometry": {"coordinates":[10.334047,52.144352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135285589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.385122,51.627525,10.385122,51.627525",
     "geom:latitude":51.627525,
     "geom:longitude":10.385122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Harzstr. 98",
     "sg:city":"Herzberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135285589,
-    "wof:lastmodified":1449021058,
+    "wof:lastmodified":1466234204,
     "wof:name":"K. Giesecke",
     "wof:parent_id":101820829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.385122,51.627525,10.385122,51.627525],
+  "bbox": [
+    10.385122,
+    51.627525,
+    10.385122,
+    51.627525
+],
   "geometry": {"coordinates":[10.385122,51.627525],"type":"Point"}
 }

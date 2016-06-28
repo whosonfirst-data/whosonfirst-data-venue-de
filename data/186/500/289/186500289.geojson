@@ -2,13 +2,14 @@
   "id": 186500289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.044801,48.390182,10.044801,48.390182",
     "geom:latitude":48.390182,
     "geom:longitude":10.044801,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6ttgerstr. 18",
     "sg:city":"Neu-Ulm",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186500289,
-    "wof:lastmodified":1449051064,
+    "wof:lastmodified":1466218516,
     "wof:name":"Eurapid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.044801,48.390182,10.044801,48.390182],
+  "bbox": [
+    10.044801,
+    48.390182,
+    10.044801,
+    48.390182
+],
   "geometry": {"coordinates":[10.044801,48.390182],"type":"Point"}
 }

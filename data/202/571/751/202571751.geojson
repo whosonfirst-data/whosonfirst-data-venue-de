@@ -2,13 +2,14 @@
   "id": 202571751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.180509,51.277832,7.180509,51.277832",
     "geom:latitude":51.277832,
     "geom:longitude":7.180509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Koch-Platz 8",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202571751,
-    "wof:lastmodified":1449061816,
+    "wof:lastmodified":1466217076,
     "wof:name":"Lieselotte Anders",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.180509,51.277832,7.180509,51.277832],
+  "bbox": [
+    7.180509,
+    51.277832,
+    7.180509,
+    51.277832
+],
   "geometry": {"coordinates":[7.180509,51.277832],"type":"Point"}
 }

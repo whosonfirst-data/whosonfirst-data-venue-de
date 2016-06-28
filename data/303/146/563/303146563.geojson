@@ -2,13 +2,14 @@
   "id": 303146563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.056304,49.351864,11.056304,49.351864",
     "geom:latitude":49.351864,
     "geom:longitude":11.056304,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenplatz 2",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303146563,
-    "wof:lastmodified":1448999132,
+    "wof:lastmodified":1466228103,
     "wof:name":"Anton Schlecker",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.056304,49.351864,11.056304,49.351864],
+  "bbox": [
+    11.056304,
+    49.351864,
+    11.056304,
+    49.351864
+],
   "geometry": {"coordinates":[11.056304,49.351864],"type":"Point"}
 }

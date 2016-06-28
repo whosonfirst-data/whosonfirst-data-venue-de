@@ -2,13 +2,14 @@
   "id": 185762391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.102741,49.46225,11.102741,49.46225",
     "geom:latitude":49.46225,
     "geom:longitude":11.102741,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heerwagenstr. 31",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185762391,
-    "wof:lastmodified":1449007739,
+    "wof:lastmodified":1466214759,
     "wof:name":"Petra Bickel",
     "wof:parent_id":85900215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.102741,49.46225,11.102741,49.46225],
+  "bbox": [
+    11.102741,
+    49.46225,
+    11.102741,
+    49.46225
+],
   "geometry": {"coordinates":[11.102741,49.46225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220139039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312122,48.805183,8.312122,48.805183",
     "geom:latitude":48.805183,
     "geom:longitude":8.312122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 33",
     "sg:city":"Gaggenau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220139039,
-    "wof:lastmodified":1449074105,
+    "wof:lastmodified":1466217228,
     "wof:name":"Confetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312122,48.805183,8.312122,48.805183],
+  "bbox": [
+    8.312122,
+    48.805183,
+    8.312122,
+    48.805183
+],
   "geometry": {"coordinates":[8.312122,48.805183],"type":"Point"}
 }

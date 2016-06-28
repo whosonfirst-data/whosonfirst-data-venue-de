@@ -2,13 +2,14 @@
   "id": 152751133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.37339,51.327694,12.37339,51.327694",
     "geom:latitude":51.327694,
     "geom:longitude":12.37339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Liebknecht-Stra\u00dfe 30",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152751133,
-    "wof:lastmodified":1449044561,
+    "wof:lastmodified":1466225878,
     "wof:name":"Aul Bildungsf\u00f6rderwerk Sachsen Ggmbh",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.37339,51.327694,12.37339,51.327694],
+  "bbox": [
+    12.37339,
+    51.327694,
+    12.37339,
+    51.327694
+],
   "geometry": {"coordinates":[12.37339,51.327694],"type":"Point"}
 }

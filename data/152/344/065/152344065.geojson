@@ -2,13 +2,14 @@
   "id": 152344065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.556108,49.461975,7.556108,49.461975",
     "geom:latitude":49.461975,
     "geom:longitude":7.556108,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 25",
     "sg:city":"Ramstein-Miesenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152344065,
-    "wof:lastmodified":1449044534,
+    "wof:lastmodified":1466217080,
     "wof:name":"Kleemann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.556108,49.461975,7.556108,49.461975],
+  "bbox": [
+    7.556108,
+    49.461975,
+    7.556108,
+    49.461975
+],
   "geometry": {"coordinates":[7.556108,49.461975],"type":"Point"}
 }

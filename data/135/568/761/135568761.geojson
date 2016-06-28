@@ -2,13 +2,14 @@
   "id": 135568761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.471525,51.278667,12.471525,51.278667",
     "geom:latitude":51.278667,
     "geom:longitude":12.471525,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Siedlung 12",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85900287
+        85633111,
+        85900287,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135568761,
-    "wof:lastmodified":1449020903,
+    "wof:lastmodified":1466237146,
     "wof:name":"Altmann Baugesellschaft Mbh",
     "wof:parent_id":85900287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.471525,51.278667,12.471525,51.278667],
+  "bbox": [
+    12.471525,
+    51.278667,
+    12.471525,
+    51.278667
+],
   "geometry": {"coordinates":[12.471525,51.278667],"type":"Point"}
 }

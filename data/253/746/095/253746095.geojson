@@ -2,13 +2,14 @@
   "id": 253746095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.335528,50.719501,11.335528,50.719501",
     "geom:latitude":50.719501,
     "geom:longitude":11.335528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstr. 69",
     "sg:city":"Rudolstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253746095,
-    "wof:lastmodified":1449062801,
+    "wof:lastmodified":1466234916,
     "wof:name":"K. Zimmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.335528,50.719501,11.335528,50.719501],
+  "bbox": [
+    11.335528,
+    50.719501,
+    11.335528,
+    50.719501
+],
   "geometry": {"coordinates":[11.335528,50.719501],"type":"Point"}
 }

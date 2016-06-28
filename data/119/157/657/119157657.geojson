@@ -2,13 +2,14 @@
   "id": 119157657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.52774,48.115757,11.52774,48.115757",
     "geom:latitude":48.115757,
     "geom:longitude":11.52774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klingerstr. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899633,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119157657,
-    "wof:lastmodified":1449043151,
+    "wof:lastmodified":1466224818,
     "wof:name":"Winfried Mehl Architekt",
     "wof:parent_id":85899633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.52774,48.115757,11.52774,48.115757],
+  "bbox": [
+    11.52774,
+    48.115757,
+    11.52774,
+    48.115757
+],
   "geometry": {"coordinates":[11.52774,48.115757],"type":"Point"}
 }

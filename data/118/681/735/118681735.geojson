@@ -2,13 +2,14 @@
   "id": 118681735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45085,49.476482,8.45085,49.476482",
     "geom:latitude":49.476482,
     "geom:longitude":8.45085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mundenheimer Str. 239",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118681735,
-    "wof:lastmodified":1449054023,
+    "wof:lastmodified":1466222831,
     "wof:name":"Alzheimer Gesellschaft Pfalz E. V.",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.45085,49.476482,8.45085,49.476482],
+  "bbox": [
+    8.45085,
+    49.476482,
+    8.45085,
+    49.476482
+],
   "geometry": {"coordinates":[8.45085,49.476482],"type":"Point"}
 }

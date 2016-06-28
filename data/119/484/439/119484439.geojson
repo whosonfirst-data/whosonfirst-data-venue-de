@@ -2,13 +2,14 @@
   "id": 119484439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.567719,51.503853,7.567719,51.503853",
     "geom:latitude":51.503853,
     "geom:longitude":7.567719,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schleefstr. 15",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795733,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119484439,
-    "wof:lastmodified":1449043394,
+    "wof:lastmodified":1466243374,
     "wof:name":"Barbara Kuhlmann Autowaschservice E. K.",
     "wof:parent_id":85795733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.567719,51.503853,7.567719,51.503853],
+  "bbox": [
+    7.567719,
+    51.503853,
+    7.567719,
+    51.503853
+],
   "geometry": {"coordinates":[7.567719,51.503853],"type":"Point"}
 }

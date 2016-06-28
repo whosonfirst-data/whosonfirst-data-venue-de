@@ -2,13 +2,14 @@
   "id": 135325151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.626854,49.595692,10.626854,49.595692",
     "geom:latitude":49.595692,
     "geom:longitude":10.626854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausplatz 9",
     "sg:city":"Diespeck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135325151,
-    "wof:lastmodified":1449022187,
+    "wof:lastmodified":1466215940,
     "wof:name":"Werner Guckenberger",
     "wof:parent_id":101842205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.626854,49.595692,10.626854,49.595692],
+  "bbox": [
+    10.626854,
+    49.595692,
+    10.626854,
+    49.595692
+],
   "geometry": {"coordinates":[10.626854,49.595692],"type":"Point"}
 }

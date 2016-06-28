@@ -2,13 +2,14 @@
   "id": 118987179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.379925,49.019196,8.379925,49.019196",
     "geom:latitude":49.019196,
     "geom:longitude":8.379925,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Damaschkestr. 70",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118987179,
-    "wof:lastmodified":1449053929,
+    "wof:lastmodified":1466239587,
     "wof:name":"Christian Adam Innenarchitekt",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.379925,49.019196,8.379925,49.019196],
+  "bbox": [
+    8.379925,
+    49.019196,
+    8.379925,
+    49.019196
+],
   "geometry": {"coordinates":[8.379925,49.019196],"type":"Point"}
 }

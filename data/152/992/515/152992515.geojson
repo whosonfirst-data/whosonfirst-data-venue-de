@@ -2,13 +2,14 @@
   "id": 152992515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.648566,49.815647,8.648566,49.815647",
     "geom:latitude":49.815647,
     "geom:longitude":8.648566,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Odenwaldstr.30",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152992515,
-    "wof:lastmodified":1449046487,
+    "wof:lastmodified":1466231611,
     "wof:name":"Willkommen Bei A-z Textildruck",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.648566,49.815647,8.648566,49.815647],
+  "bbox": [
+    8.648566,
+    49.815647,
+    8.648566,
+    49.815647
+],
   "geometry": {"coordinates":[8.648566,49.815647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135649355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.508404,51.267403,6.508404,51.267403",
     "geom:latitude":51.267403,
     "geom:longitude":6.508404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siemensring 79 C",
     "sg:city":"Willich",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063773,
-        85633111,
         85682513,
-        85862873
+        85633111,
+        85862873,
+        102063773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135649355,
-    "wof:lastmodified":1449023058,
+    "wof:lastmodified":1466241048,
     "wof:name":"Lissmac Maschinenbau Und Diamantwerkzeuge Gmbh",
     "wof:parent_id":85862873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.508404,51.267403,6.508404,51.267403],
+  "bbox": [
+    6.508404,
+    51.267403,
+    6.508404,
+    51.267403
+],
   "geometry": {"coordinates":[6.508404,51.267403],"type":"Point"}
 }

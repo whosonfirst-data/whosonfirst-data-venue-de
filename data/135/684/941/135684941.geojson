@@ -2,13 +2,14 @@
   "id": 135684941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.073862,53.652184,10.073862,53.652184",
     "geom:latitude":53.652184,
     "geom:longitude":10.073862,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poppenb\u00fctteler Weg 176",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900157,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135684941,
-    "wof:lastmodified":1449021741,
+    "wof:lastmodified":1466242083,
     "wof:name":"Medizin Technik Almeda",
     "wof:parent_id":85900157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.073862,53.652184,10.073862,53.652184],
+  "bbox": [
+    10.073862,
+    53.652184,
+    10.073862,
+    53.652184
+],
   "geometry": {"coordinates":[10.073862,53.652184],"type":"Point"}
 }

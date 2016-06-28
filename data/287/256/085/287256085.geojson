@@ -2,13 +2,14 @@
   "id": 287256085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.584091,48.11694,11.584091,48.11694",
     "geom:latitude":48.11694,
     "geom:longitude":11.584091,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugspitzstr. 17",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287256085,
-    "wof:lastmodified":1449001346,
+    "wof:lastmodified":1466231823,
     "wof:name":"Anita Gruber",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.584091,48.11694,11.584091,48.11694],
+  "bbox": [
+    11.584091,
+    48.11694,
+    11.584091,
+    48.11694
+],
   "geometry": {"coordinates":[11.584091,48.11694],"type":"Point"}
 }

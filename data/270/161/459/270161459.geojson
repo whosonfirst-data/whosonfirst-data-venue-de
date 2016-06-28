@@ -2,13 +2,14 @@
   "id": 270161459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.00207,51.16235,7.00207,51.16235",
     "geom:latitude":51.16235,
     "geom:longitude":7.00207,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nippesstr. 17",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270161459,
-    "wof:lastmodified":1449009593,
+    "wof:lastmodified":1466225138,
     "wof:name":"August Zimmermann",
     "wof:parent_id":85796405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.00207,51.16235,7.00207,51.16235],
+  "bbox": [
+    7.00207,
+    51.16235,
+    7.00207,
+    51.16235
+],
   "geometry": {"coordinates":[7.00207,51.16235],"type":"Point"}
 }

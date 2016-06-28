@@ -2,13 +2,14 @@
   "id": 118666165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.051368,51.491795,7.051368,51.491795",
     "geom:latitude":51.491795,
     "geom:longitude":7.051368,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00dcckendorfer Str. 42",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118666165,
-    "wof:lastmodified":1449053660,
+    "wof:lastmodified":1466221963,
     "wof:name":"Harald Arians Alt- Und Abfallstoffe",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.051368,51.491795,7.051368,51.491795],
+  "bbox": [
+    7.051368,
+    51.491795,
+    7.051368,
+    51.491795
+],
   "geometry": {"coordinates":[7.051368,51.491795],"type":"Point"}
 }

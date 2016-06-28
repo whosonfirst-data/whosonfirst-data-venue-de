@@ -2,13 +2,14 @@
   "id": 118966079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.194842,52.533451,13.194842,52.533451",
     "geom:latitude":52.533451,
     "geom:longitude":13.194842,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunsb\u00fctteler Damm 21",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899379,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118966079,
-    "wof:lastmodified":1449053160,
+    "wof:lastmodified":1466238337,
     "wof:name":"Lompe Garten- Und",
     "wof:parent_id":85899379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.194842,52.533451,13.194842,52.533451],
+  "bbox": [
+    13.194842,
+    52.533451,
+    13.194842,
+    52.533451
+],
   "geometry": {"coordinates":[13.194842,52.533451],"type":"Point"}
 }

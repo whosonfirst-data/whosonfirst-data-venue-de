@@ -2,13 +2,14 @@
   "id": 119134309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.561842,48.174442,11.561842,48.174442",
     "geom:latitude":48.174442,
     "geom:longitude":11.561842,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrstenbergstr. 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119134309,
-    "wof:lastmodified":1449043404,
+    "wof:lastmodified":1466222789,
     "wof:name":"Sigurlaug Saemundsdottir Architekt",
     "wof:parent_id":85899615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.561842,48.174442,11.561842,48.174442],
+  "bbox": [
+    11.561842,
+    48.174442,
+    11.561842,
+    48.174442
+],
   "geometry": {"coordinates":[11.561842,48.174442],"type":"Point"}
 }

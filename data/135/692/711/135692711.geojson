@@ -2,13 +2,14 @@
   "id": 135692711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.0194,50.989174,11.0194,50.989174",
     "geom:latitude":50.989174,
     "geom:longitude":11.0194,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr. 10",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135692711,
-    "wof:lastmodified":1449021804,
+    "wof:lastmodified":1466242360,
     "wof:name":"Gemeinn\u00fctzige Wohnungsbau Genossenschaft Eg",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.0194,50.989174,11.0194,50.989174],
+  "bbox": [
+    11.0194,
+    50.989174,
+    11.0194,
+    50.989174
+],
   "geometry": {"coordinates":[11.0194,50.989174],"type":"Point"}
 }

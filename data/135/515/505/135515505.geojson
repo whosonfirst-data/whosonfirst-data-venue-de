@@ -2,13 +2,14 @@
   "id": 135515505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.721326,48.170738,11.721326,48.170738",
     "geom:latitude":48.170738,
     "geom:longitude":11.721326,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dolomitenweg 8",
     "sg:city":"Aschheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899729
+        85633111,
+        85899729,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135515505,
-    "wof:lastmodified":1449021681,
+    "wof:lastmodified":1466233039,
     "wof:name":"Rima Elektronik Entwicklungs Gmbh",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.721326,48.170738,11.721326,48.170738],
+  "bbox": [
+    11.721326,
+    48.170738,
+    11.721326,
+    48.170738
+],
   "geometry": {"coordinates":[11.721326,48.170738],"type":"Point"}
 }

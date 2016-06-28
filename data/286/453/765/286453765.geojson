@@ -2,13 +2,14 @@
   "id": 286453765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.62807,48.093517,11.62807,48.093517",
     "geom:latitude":48.093517,
     "geom:longitude":11.62807,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterbiberger Str. 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286453765,
-    "wof:lastmodified":1449017391,
+    "wof:lastmodified":1466229033,
     "wof:name":"Johann Karl",
     "wof:parent_id":85899887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.62807,48.093517,11.62807,48.093517],
+  "bbox": [
+    11.62807,
+    48.093517,
+    11.62807,
+    48.093517
+],
   "geometry": {"coordinates":[11.62807,48.093517],"type":"Point"}
 }

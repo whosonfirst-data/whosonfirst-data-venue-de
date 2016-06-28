@@ -2,13 +2,14 @@
   "id": 119338679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.628094,48.113564,11.628094,48.113564",
     "geom:latitude":48.113564,
     "geom:longitude":11.628094,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Redlingerstr. 30",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899939,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119338679,
-    "wof:lastmodified":1449041700,
+    "wof:lastmodified":1466239449,
     "wof:name":"J. Duschl",
     "wof:parent_id":85899939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.628094,48.113564,11.628094,48.113564],
+  "bbox": [
+    11.628094,
+    48.113564,
+    11.628094,
+    48.113564
+],
   "geometry": {"coordinates":[11.628094,48.113564],"type":"Point"}
 }

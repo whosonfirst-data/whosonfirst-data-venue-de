@@ -2,13 +2,14 @@
   "id": 286510499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.721967,50.099247,8.721967,50.099247",
     "geom:latitude":50.099247,
     "geom:longitude":8.721967,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gruneliusstr. 95",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286510499,
-    "wof:lastmodified":1449016972,
+    "wof:lastmodified":1466230375,
     "wof:name":"Leonhard Scondo",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.721967,50.099247,8.721967,50.099247],
+  "bbox": [
+    8.721967,
+    50.099247,
+    8.721967,
+    50.099247
+],
   "geometry": {"coordinates":[8.721967,50.099247],"type":"Point"}
 }

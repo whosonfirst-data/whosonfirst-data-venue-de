@@ -2,13 +2,14 @@
   "id": 270507003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.100721,51.555885,8.100721,51.555885",
     "geom:latitude":51.555885,
     "geom:longitude":8.100721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00e4gerkenweg 6",
     "sg:city":"Soest",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270507003,
-    "wof:lastmodified":1449009892,
+    "wof:lastmodified":1466233755,
     "wof:name":"W. Kirchhoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.100721,51.555885,8.100721,51.555885],
+  "bbox": [
+    8.100721,
+    51.555885,
+    8.100721,
+    51.555885
+],
   "geometry": {"coordinates":[8.100721,51.555885],"type":"Point"}
 }

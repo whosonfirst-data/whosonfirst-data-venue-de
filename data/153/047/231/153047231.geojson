@@ -2,13 +2,14 @@
   "id": 153047231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.118757,54.061794,12.118757,54.061794",
     "geom:latitude":54.061794,
     "geom:longitude":12.118757,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Charles-Darwin-Ring 6",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064117,
-        85633111,
         85682487,
-        85899005
+        85633111,
+        85899005,
+        102064117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":153047231,
-    "wof:lastmodified":1449040675,
+    "wof:lastmodified":1466213543,
     "wof:name":"Schilderservice Harder Gmbh",
     "wof:parent_id":85899005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.118757,54.061794,12.118757,54.061794],
+  "bbox": [
+    12.118757,
+    54.061794,
+    12.118757,
+    54.061794
+],
   "geometry": {"coordinates":[12.118757,54.061794],"type":"Point"}
 }

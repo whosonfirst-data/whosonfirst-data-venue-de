@@ -2,13 +2,14 @@
   "id": 303680785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.450335,50.092693,8.450335,50.092693",
     "geom:latitude":50.092693,
     "geom:longitude":8.450335,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Martin-Wohmann-Str. 16",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303680785,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466239215,
     "wof:name":"Hit Heinrich Gmbh & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.450335,50.092693,8.450335,50.092693],
+  "bbox": [
+    8.450335,
+    50.092693,
+    8.450335,
+    50.092693
+],
   "geometry": {"coordinates":[8.450335,50.092693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136103971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.957815,49.442341,10.957815,49.442341",
     "geom:latitude":49.442341,
     "geom:longitude":10.957815,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nuernberger Strasse 29 a",
     "sg:city":"Nuernberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900217,
+        85682571,
         85633111,
         101755915,
         102063467,
-        85682571
+        85900217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136103971,
-    "wof:lastmodified":1449075741,
+    "wof:lastmodified":1466216924,
     "wof:name":"Pentaprise - Web Based Eerp",
     "wof:parent_id":85900217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.957815,49.442341,10.957815,49.442341],
+  "bbox": [
+    10.957815,
+    49.442341,
+    10.957815,
+    49.442341
+],
   "geometry": {"coordinates":[10.957815,49.442341],"type":"Point"}
 }

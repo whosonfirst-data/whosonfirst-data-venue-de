@@ -2,13 +2,14 @@
   "id": 252919867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.304288,52.125118,9.304288,52.125118",
     "geom:latitude":52.125118,
     "geom:longitude":9.304288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4hrweg 14",
     "sg:city":"Hameln",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252919867,
-    "wof:lastmodified":1449006242,
+    "wof:lastmodified":1466223100,
     "wof:name":"Heinrich Kasten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.304288,52.125118,9.304288,52.125118],
+  "bbox": [
+    9.304288,
+    52.125118,
+    9.304288,
+    52.125118
+],
   "geometry": {"coordinates":[9.304288,52.125118],"type":"Point"}
 }

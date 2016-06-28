@@ -2,13 +2,14 @@
   "id": 102562437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.39318,51.353054,12.39318,51.353054",
     "geom:latitude":51.353054,
     "geom:longitude":12.39318,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rackwitzer Str. 16/18",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102562437,
-    "wof:lastmodified":1449069022,
+    "wof:lastmodified":1466231964,
     "wof:name":"Leipziger L\u00dcftungszubeh\u00d6r Gmbh",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.39318,51.353054,12.39318,51.353054],
+  "bbox": [
+    12.39318,
+    51.353054,
+    12.39318,
+    51.353054
+],
   "geometry": {"coordinates":[12.39318,51.353054],"type":"Point"}
 }

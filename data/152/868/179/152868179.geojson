@@ -2,13 +2,14 @@
   "id": 152868179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.342269,52.447216,13.342269,52.447216",
     "geom:latitude":52.447216,
     "geom:longitude":13.342269,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albrechtstr. 70a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152868179,
-    "wof:lastmodified":1449044506,
+    "wof:lastmodified":1466228637,
     "wof:name":"Kdb K\u00fcchen Disposition Berlin E.k.",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.342269,52.447216,13.342269,52.447216],
+  "bbox": [
+    13.342269,
+    52.447216,
+    13.342269,
+    52.447216
+],
   "geometry": {"coordinates":[13.342269,52.447216],"type":"Point"}
 }

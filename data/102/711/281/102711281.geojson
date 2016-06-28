@@ -2,13 +2,14 @@
   "id": 102711281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.154939,47.769169,11.154939,47.769169",
     "geom:latitude":47.769169,
     "geom:longitude":11.154939,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Huglfing",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102711281,
-    "wof:lastmodified":1449069731,
+    "wof:lastmodified":1466216465,
     "wof:name":"Egner",
     "wof:parent_id":101834153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.154939,47.769169,11.154939,47.769169],
+  "bbox": [
+    11.154939,
+    47.769169,
+    11.154939,
+    47.769169
+],
   "geometry": {"coordinates":[11.154939,47.769169],"type":"Point"}
 }

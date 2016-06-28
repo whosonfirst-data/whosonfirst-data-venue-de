@@ -2,13 +2,14 @@
   "id": 236546101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.141486,49.631393,12.141486,49.631393",
     "geom:latitude":49.631393,
     "geom:longitude":12.141486,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pirker Str. 5",
     "sg:city":"Weiden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236546101,
-    "wof:lastmodified":1449001673,
+    "wof:lastmodified":1466228871,
     "wof:name":"Ernst Braun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.141486,49.631393,12.141486,49.631393],
+  "bbox": [
+    12.141486,
+    49.631393,
+    12.141486,
+    49.631393
+],
   "geometry": {"coordinates":[12.141486,49.631393],"type":"Point"}
 }

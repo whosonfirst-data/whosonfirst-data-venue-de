@@ -2,13 +2,14 @@
   "id": 152814937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.125508,51.271664,7.125508,51.271664",
     "geom:latitude":51.271664,
     "geom:longitude":7.125508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmachtenbergweg 13",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795657,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85795657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152814937,
-    "wof:lastmodified":1449045150,
+    "wof:lastmodified":1466227392,
     "wof:name":"Ferienhaus Barbara Im Park De Horn Nordholland",
     "wof:parent_id":85795657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.125508,51.271664,7.125508,51.271664],
+  "bbox": [
+    7.125508,
+    51.271664,
+    7.125508,
+    51.271664
+],
   "geometry": {"coordinates":[7.125508,51.271664],"type":"Point"}
 }

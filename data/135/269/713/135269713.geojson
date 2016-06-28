@@ -2,13 +2,14 @@
   "id": 135269713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172207,49.15863,9.172207,49.15863",
     "geom:latitude":49.15863,
     "geom:longitude":9.172207,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Speyerer Str. 1",
     "sg:city":"Heilbronn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135269713,
-    "wof:lastmodified":1449022919,
+    "wof:lastmodified":1466214250,
     "wof:name":"Heinrich Eibauer",
     "wof:parent_id":101748529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.172207,49.15863,9.172207,49.15863],
+  "bbox": [
+    9.172207,
+    49.15863,
+    9.172207,
+    49.15863
+],
   "geometry": {"coordinates":[9.172207,49.15863],"type":"Point"}
 }

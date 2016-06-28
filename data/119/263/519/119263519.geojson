@@ -2,13 +2,14 @@
   "id": 119263519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.055682,51.884888,11.055682,51.884888",
     "geom:latitude":51.884888,
     "geom:longitude":11.055682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Andreas-Werckmeister-Str. 11",
     "sg:city":"Halberstadt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119263519,
-    "wof:lastmodified":1449043484,
+    "wof:lastmodified":1466234979,
     "wof:name":"Dr. Med. Jens Kaschub",
     "wof:parent_id":101820899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.055682,51.884888,11.055682,51.884888],
+  "bbox": [
+    11.055682,
+    51.884888,
+    11.055682,
+    51.884888
+],
   "geometry": {"coordinates":[11.055682,51.884888],"type":"Point"}
 }

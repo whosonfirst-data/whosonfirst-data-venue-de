@@ -2,13 +2,14 @@
   "id": 252740501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.348866,53.277706,10.348866,53.277706",
     "geom:latitude":53.277706,
     "geom:longitude":10.348866,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 2",
     "sg:city":"V\u00f6gelsen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252740501,
-    "wof:lastmodified":1449005912,
+    "wof:lastmodified":1466219709,
     "wof:name":"Hans Garbers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.348866,53.277706,10.348866,53.277706],
+  "bbox": [
+    10.348866,
+    53.277706,
+    10.348866,
+    53.277706
+],
   "geometry": {"coordinates":[10.348866,53.277706],"type":"Point"}
 }

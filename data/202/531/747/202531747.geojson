@@ -2,13 +2,14 @@
   "id": 202531747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.655537,52.134655,11.655537,52.134655",
     "geom:latitude":52.134655,
     "geom:longitude":11.655537,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 17",
     "sg:city":"Werder",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202531747,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1466216257,
     "wof:name":"G. Hellmig",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.655537,52.134655,11.655537,52.134655],
+  "bbox": [
+    11.655537,
+    52.134655,
+    11.655537,
+    52.134655
+],
   "geometry": {"coordinates":[11.655537,52.134655],"type":"Point"}
 }

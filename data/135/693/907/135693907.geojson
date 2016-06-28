@@ -2,13 +2,14 @@
   "id": 135693907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.899288,49.890743,10.899288,49.890743",
     "geom:latitude":49.890743,
     "geom:longitude":10.899288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augustenstr. 20",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135693907,
-    "wof:lastmodified":1449021166,
+    "wof:lastmodified":1466242205,
     "wof:name":"Herold Gmbh",
     "wof:parent_id":101748561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.899288,49.890743,10.899288,49.890743],
+  "bbox": [
+    10.899288,
+    49.890743,
+    10.899288,
+    49.890743
+],
   "geometry": {"coordinates":[10.899288,49.890743],"type":"Point"}
 }

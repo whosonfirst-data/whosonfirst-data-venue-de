@@ -2,13 +2,14 @@
   "id": 119035051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196561,48.774899,9.196561,48.774899",
     "geom:latitude":48.774899,
     "geom:longitude":9.196561,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hackl\u00e4nderstr. 34",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119035051,
-    "wof:lastmodified":1449042995,
+    "wof:lastmodified":1466214002,
     "wof:name":"Hans Wiem Architekt",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.196561,48.774899,9.196561,48.774899],
+  "bbox": [
+    9.196561,
+    48.774899,
+    9.196561,
+    48.774899
+],
   "geometry": {"coordinates":[9.196561,48.774899],"type":"Point"}
 }

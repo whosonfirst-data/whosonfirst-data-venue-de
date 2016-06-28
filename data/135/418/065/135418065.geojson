@@ -2,13 +2,14 @@
   "id": 135418065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.41451,49.162209,8.41451,49.162209",
     "geom:latitude":49.162209,
     "geom:longitude":8.41451,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 80:: 76704 Dettenheim-Liedolsheim:: Germany.^^Hauptstr 53-55::",
     "sg:city":"Dettenheim-Liedolsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135418065,
-    "wof:lastmodified":1449023374,
+    "wof:lastmodified":1466224427,
     "wof:name":"Raiffeisenbank Hardt-bruhrain Eg",
     "wof:parent_id":101760757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.41451,49.162209,8.41451,49.162209],
+  "bbox": [
+    8.41451,
+    49.162209,
+    8.41451,
+    49.162209
+],
   "geometry": {"coordinates":[8.41451,49.162209],"type":"Point"}
 }

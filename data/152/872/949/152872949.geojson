@@ -2,13 +2,14 @@
   "id": 152872949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.560516,52.568893,13.560516,52.568893",
     "geom:latitude":52.568893,
     "geom:longitude":13.560516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geraer Ring 51",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899733,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152872949,
-    "wof:lastmodified":1449044715,
+    "wof:lastmodified":1466228741,
     "wof:name":"Kneteaksels Privatp\u00e4tsch",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.560516,52.568893,13.560516,52.568893],
+  "bbox": [
+    13.560516,
+    52.568893,
+    13.560516,
+    52.568893
+],
   "geometry": {"coordinates":[13.560516,52.568893],"type":"Point"}
 }

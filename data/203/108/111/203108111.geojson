@@ -2,13 +2,14 @@
   "id": 203108111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.855323,53.601551,9.855323,53.601551",
     "geom:latitude":53.601551,
     "geom:longitude":9.855323,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz-Lau-Str. 11",
     "sg:city":"Schenefeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203108111,
-    "wof:lastmodified":1449024982,
+    "wof:lastmodified":1466215649,
     "wof:name":"Hermann Gesterling",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.855323,53.601551,9.855323,53.601551],
+  "bbox": [
+    9.855323,
+    53.601551,
+    9.855323,
+    53.601551
+],
   "geometry": {"coordinates":[9.855323,53.601551],"type":"Point"}
 }

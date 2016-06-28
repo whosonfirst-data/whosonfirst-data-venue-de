@@ -2,13 +2,14 @@
   "id": 135962153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64294,51.950451,7.64294,51.950451",
     "geom:latitude":51.950451,
     "geom:longitude":7.64294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Mittelhafen 30-36",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863183,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85863183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135962153,
-    "wof:lastmodified":1449022795,
+    "wof:lastmodified":1466244757,
     "wof:name":"Transportbetonwerk M\u00fcnster- Beteiligungsges. Mbh",
     "wof:parent_id":85863183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.64294,51.950451,7.64294,51.950451],
+  "bbox": [
+    7.64294,
+    51.950451,
+    7.64294,
+    51.950451
+],
   "geometry": {"coordinates":[7.64294,51.950451],"type":"Point"}
 }

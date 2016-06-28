@@ -2,13 +2,14 @@
   "id": 136201655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.06751,50.963715,10.06751,50.963715",
     "geom:latitude":50.963715,
     "geom:longitude":10.06751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 65",
     "sg:city":"Gerstungen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136201655,
-    "wof:lastmodified":1449076087,
+    "wof:lastmodified":1466221285,
     "wof:name":"Elisabeth Meyer",
     "wof:parent_id":101809911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.06751,50.963715,10.06751,50.963715],
+  "bbox": [
+    10.06751,
+    50.963715,
+    10.06751,
+    50.963715
+],
   "geometry": {"coordinates":[10.06751,50.963715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152362225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.933413,48.486004,10.933413,48.486004",
     "geom:latitude":48.486004,
     "geom:longitude":10.933413,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hambergstr. 1",
     "sg:city":"Rehling",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063301,
-        85633111,
         85682571,
-        85905629
+        85633111,
+        85905629,
+        102063301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152362225,
-    "wof:lastmodified":1449047285,
+    "wof:lastmodified":1466217458,
     "wof:name":"Georg Glas",
     "wof:parent_id":85905629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.933413,48.486004,10.933413,48.486004],
+  "bbox": [
+    10.933413,
+    48.486004,
+    10.933413,
+    48.486004
+],
   "geometry": {"coordinates":[10.933413,48.486004],"type":"Point"}
 }

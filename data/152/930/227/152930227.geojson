@@ -2,13 +2,14 @@
   "id": 152930227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.962612,49.371578,8.962612,49.371578",
     "geom:latitude":49.371578,
     "geom:longitude":8.962612,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleines Feld 9",
     "sg:city":"Aglasterhausen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":152930227,
-    "wof:lastmodified":1449045780,
+    "wof:lastmodified":1466230125,
     "wof:name":"Schreinereiadressen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.962612,49.371578,8.962612,49.371578],
+  "bbox": [
+    8.962612,
+    49.371578,
+    8.962612,
+    49.371578
+],
   "geometry": {"coordinates":[8.962612,49.371578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135323783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.018525,48.693398,13.018525,48.693398",
     "geom:latitude":48.693398,
     "geom:longitude":13.018525,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maria-Ward-Str. 11",
     "sg:city":"Osterhofen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135323783,
-    "wof:lastmodified":1449021263,
+    "wof:lastmodified":1466215835,
     "wof:name":"Walter Lorenz",
     "wof:parent_id":101783071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.018525,48.693398,13.018525,48.693398],
+  "bbox": [
+    13.018525,
+    48.693398,
+    13.018525,
+    48.693398
+],
   "geometry": {"coordinates":[13.018525,48.693398],"type":"Point"}
 }

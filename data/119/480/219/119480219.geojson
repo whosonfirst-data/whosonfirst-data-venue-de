@@ -2,13 +2,14 @@
   "id": 119480219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124412,49.434875,11.124412,49.434875",
     "geom:latitude":49.434875,
     "geom:longitude":11.124412,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensburger Str. 286",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899611,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119480219,
-    "wof:lastmodified":1449041652,
+    "wof:lastmodified":1466243381,
     "wof:name":"Uni Car S. Barth",
     "wof:parent_id":85899611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124412,49.434875,11.124412,49.434875],
+  "bbox": [
+    11.124412,
+    49.434875,
+    11.124412,
+    49.434875
+],
   "geometry": {"coordinates":[11.124412,49.434875],"type":"Point"}
 }

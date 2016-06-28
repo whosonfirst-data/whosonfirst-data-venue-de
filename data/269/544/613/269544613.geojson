@@ -2,13 +2,14 @@
   "id": 269544613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.983664,53.458054,9.983664,53.458054",
     "geom:latitude":53.458054,
     "geom:longitude":9.983664,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcneburger Str. 12",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269544613,
-    "wof:lastmodified":1449038964,
+    "wof:lastmodified":1466222294,
     "wof:name":"Narli",
     "wof:parent_id":85899035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.983664,53.458054,9.983664,53.458054],
+  "bbox": [
+    9.983664,
+    53.458054,
+    9.983664,
+    53.458054
+],
   "geometry": {"coordinates":[9.983664,53.458054],"type":"Point"}
 }

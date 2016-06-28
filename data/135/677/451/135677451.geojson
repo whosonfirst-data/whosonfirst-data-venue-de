@@ -2,13 +2,14 @@
   "id": 135677451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.065256,52.413834,13.065256,52.413834",
     "geom:latitude":52.413834,
     "geom:longitude":13.065256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Neuen Garten 24",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928757,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85928757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135677451,
-    "wof:lastmodified":1449022089,
+    "wof:lastmodified":1466241974,
     "wof:name":"Gebr\u00fcder Schulte Gmbh",
     "wof:parent_id":85928757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.065256,52.413834,13.065256,52.413834],
+  "bbox": [
+    13.065256,
+    52.413834,
+    13.065256,
+    52.413834
+],
   "geometry": {"coordinates":[13.065256,52.413834],"type":"Point"}
 }

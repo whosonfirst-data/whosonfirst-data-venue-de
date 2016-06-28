@@ -2,13 +2,14 @@
   "id": 136150015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.014116,53.578136,10.014116,53.578136",
     "geom:latitude":53.578136,
     "geom:longitude":10.014116,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofweg 98",
     "sg:city":"HAMBURG",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136150015,
-    "wof:lastmodified":1449074940,
+    "wof:lastmodified":1466218819,
     "wof:name":"Willkommen Bei Der Burg-apotheke In Hamburg !",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.014116,53.578136,10.014116,53.578136],
+  "bbox": [
+    10.014116,
+    53.578136,
+    10.014116,
+    53.578136
+],
   "geometry": {"coordinates":[10.014116,53.578136],"type":"Point"}
 }

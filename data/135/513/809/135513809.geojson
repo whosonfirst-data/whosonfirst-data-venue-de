@@ -2,13 +2,14 @@
   "id": 135513809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.094599,49.468395,11.094599,49.468395",
     "geom:latitude":49.468395,
     "geom:longitude":11.094599,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Virchowstr. 30",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135513809,
-    "wof:lastmodified":1449023003,
+    "wof:lastmodified":1466232882,
     "wof:name":"Solectron Solartechnik Dietze Kg",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.094599,49.468395,11.094599,49.468395],
+  "bbox": [
+    11.094599,
+    49.468395,
+    11.094599,
+    49.468395
+],
   "geometry": {"coordinates":[11.094599,49.468395],"type":"Point"}
 }

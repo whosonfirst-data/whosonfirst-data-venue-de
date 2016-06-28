@@ -2,13 +2,14 @@
   "id": 118980197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.197074,54.328239,10.197074,54.328239",
     "geom:latitude":54.328239,
     "geom:longitude":10.197074,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharweg 67",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899765,
+        85682517,
         85633111,
         101756545,
         102064127,
-        85682517
+        85899765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118980197,
-    "wof:lastmodified":1449053247,
+    "wof:lastmodified":1466238950,
     "wof:name":"Bauplanung Und Bauausf\u00fchrung Nord Gmbh",
     "wof:parent_id":85899765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.197074,54.328239,10.197074,54.328239],
+  "bbox": [
+    10.197074,
+    54.328239,
+    10.197074,
+    54.328239
+],
   "geometry": {"coordinates":[10.197074,54.328239],"type":"Point"}
 }

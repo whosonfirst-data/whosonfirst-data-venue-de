@@ -2,13 +2,14 @@
   "id": 135790841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.464862,53.890457,11.464862,53.890457",
     "geom:latitude":53.890457,
     "geom:longitude":11.464862,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dankwartstr. 12",
     "sg:city":"Wismar",
     "sg:classifiers":[],
@@ -26,14 +27,20 @@
     "wof:geomhash":"932dc2c547a7ebe90f95eef5deb77ebf",
     "wof:hierarchy":[],
     "wof:id":135790841,
-    "wof:lastmodified":1449023323,
+    "wof:lastmodified":1466244045,
     "wof:name":"Otto Meiser",
     "wof:parent_id":101818793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.464862,53.890457,11.464862,53.890457],
+  "bbox": [
+    11.464862,
+    53.890457,
+    11.464862,
+    53.890457
+],
   "geometry": {"coordinates":[11.464862,53.890457],"type":"Point"}
 }

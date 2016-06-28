@@ -2,13 +2,14 @@
   "id": 118980129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.144772,51.253654,7.144772,51.253654",
     "geom:latitude":51.253654,
     "geom:longitude":7.144772,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannisberg",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118980129,
-    "wof:lastmodified":1449053247,
+    "wof:lastmodified":1466238944,
     "wof:name":"Baub\u00fcro Sparkasse",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.144772,51.253654,7.144772,51.253654],
+  "bbox": [
+    7.144772,
+    51.253654,
+    7.144772,
+    51.253654
+],
   "geometry": {"coordinates":[7.144772,51.253654],"type":"Point"}
 }

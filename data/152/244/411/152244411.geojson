@@ -2,13 +2,14 @@
   "id": 152244411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.241243,50.084251,8.241243,50.084251",
     "geom:latitude":50.084251,
     "geom:longitude":8.241243,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4renstr. 2",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152244411,
-    "wof:lastmodified":1449046148,
+    "wof:lastmodified":1466214981,
     "wof:name":"Wilfried Friedrich Gmbh",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.241243,50.084251,8.241243,50.084251],
+  "bbox": [
+    8.241243,
+    50.084251,
+    8.241243,
+    50.084251
+],
   "geometry": {"coordinates":[8.241243,50.084251],"type":"Point"}
 }

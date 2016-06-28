@@ -2,13 +2,14 @@
   "id": 118987689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.446996,48.241062,11.446996,48.241062",
     "geom:latitude":48.241062,
     "geom:longitude":11.446996,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lovis-Corinth-Str. 20",
     "sg:city":"Dachau",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898939,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85898939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118987689,
-    "wof:lastmodified":1449053929,
+    "wof:lastmodified":1466239482,
     "wof:name":"Christian Stadler Architekt",
     "wof:parent_id":85898939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.446996,48.241062,11.446996,48.241062],
+  "bbox": [
+    11.446996,
+    48.241062,
+    11.446996,
+    48.241062
+],
   "geometry": {"coordinates":[11.446996,48.241062],"type":"Point"}
 }

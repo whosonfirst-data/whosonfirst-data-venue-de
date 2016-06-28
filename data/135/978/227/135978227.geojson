@@ -2,13 +2,14 @@
   "id": 135978227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.959928,50.926731,6.959928,50.926731",
     "geom:latitude":50.926731,
     "geom:longitude":6.959928,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenstr. 18-22",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795597,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135978227,
-    "wof:lastmodified":1449022754,
+    "wof:lastmodified":1466244853,
     "wof:name":"Hans Malta Gmbh",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.959928,50.926731,6.959928,50.926731],
+  "bbox": [
+    6.959928,
+    50.926731,
+    6.959928,
+    50.926731
+],
   "geometry": {"coordinates":[6.959928,50.926731],"type":"Point"}
 }

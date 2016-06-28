@@ -2,13 +2,14 @@
   "id": 118514469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.131788,54.331154,10.131788,54.331154",
     "geom:latitude":54.331154,
     "geom:longitude":10.131788,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holtenauer Stra\u00dfe 35",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899179,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118514469,
-    "wof:lastmodified":1449053860,
+    "wof:lastmodified":1466213213,
     "wof:name":"Velocenter-h\u00f6henflug Fahrrad- Und Drachenladen Gmbh",
     "wof:parent_id":85899179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.131788,54.331154,10.131788,54.331154],
+  "bbox": [
+    10.131788,
+    54.331154,
+    10.131788,
+    54.331154
+],
   "geometry": {"coordinates":[10.131788,54.331154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286442283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.584848,52.459255,13.584848,52.459255",
     "geom:latitude":52.459255,
     "geom:longitude":13.584848,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stellingdamm 13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286442283,
-    "wof:lastmodified":1449016480,
+    "wof:lastmodified":1466228779,
     "wof:name":"Fritz Michael Wischke",
     "wof:parent_id":85900261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.584848,52.459255,13.584848,52.459255],
+  "bbox": [
+    13.584848,
+    52.459255,
+    13.584848,
+    52.459255
+],
   "geometry": {"coordinates":[13.584848,52.459255],"type":"Point"}
 }

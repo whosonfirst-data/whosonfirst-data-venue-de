@@ -2,13 +2,14 @@
   "id": 135453045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.574215,49.384621,8.574215,49.384621",
     "geom:latitude":49.384621,
     "geom:longitude":8.574215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Theodor-Str. 3",
     "sg:city":"Schwetzingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135453045,
-    "wof:lastmodified":1449023274,
+    "wof:lastmodified":1466227432,
     "wof:name":"Volksbank Bezirk Schwetzingen Eg",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.574215,49.384621,8.574215,49.384621],
+  "bbox": [
+    8.574215,
+    49.384621,
+    8.574215,
+    49.384621
+],
   "geometry": {"coordinates":[8.574215,49.384621],"type":"Point"}
 }

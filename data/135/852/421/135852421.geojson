@@ -2,13 +2,14 @@
   "id": 135852421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.391901,52.942101,12.391901,52.942101",
     "geom:latitude":52.942101,
     "geom:longitude":12.391901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 18",
     "sg:city":"Kyritz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135852421,
-    "wof:lastmodified":1449023503,
+    "wof:lastmodified":1466244194,
     "wof:name":"Bestattungshaus Nubbemeyer",
     "wof:parent_id":101820061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.391901,52.942101,12.391901,52.942101],
+  "bbox": [
+    12.391901,
+    52.942101,
+    12.391901,
+    52.942101
+],
   "geometry": {"coordinates":[12.391901,52.942101],"type":"Point"}
 }

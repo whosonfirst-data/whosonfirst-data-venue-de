@@ -2,13 +2,14 @@
   "id": 118853583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.394275,49.00486,8.394275,49.00486",
     "geom:latitude":49.00486,
     "geom:longitude":8.394275,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr. 46 b",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567,
+        85794869,
         85795045
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118853583,
-    "wof:lastmodified":1449053707,
+    "wof:lastmodified":1466233005,
     "wof:name":"S\u00fcdwest-apotheke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.394275,49.00486,8.394275,49.00486],
+  "bbox": [
+    8.394275,
+    49.00486,
+    8.394275,
+    49.00486
+],
   "geometry": {"coordinates":[8.394275,49.00486],"type":"Point"}
 }

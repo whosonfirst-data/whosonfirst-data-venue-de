@@ -2,13 +2,14 @@
   "id": 118610211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.413214,52.400467,13.413214,52.400467",
     "geom:latitude":52.400467,
     "geom:longitude":13.413214,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsteinstr 26-29",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118610211,
-    "wof:lastmodified":1449054502,
+    "wof:lastmodified":1466218828,
     "wof:name":"Bezet - Werk Hermann Buchholz Gmbh",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.413214,52.400467,13.413214,52.400467],
+  "bbox": [
+    13.413214,
+    52.400467,
+    13.413214,
+    52.400467
+],
   "geometry": {"coordinates":[13.413214,52.400467],"type":"Point"}
 }

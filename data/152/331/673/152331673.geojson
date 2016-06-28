@@ -2,13 +2,14 @@
   "id": 152331673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465582,51.357536,7.465582,51.357536",
     "geom:latitude":51.357536,
     "geom:longitude":7.465582,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 99",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795787,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152331673,
-    "wof:lastmodified":1449047108,
+    "wof:lastmodified":1466216818,
     "wof:name":"Beratungsstelle F\u00fcr Drogenkranke",
     "wof:parent_id":85795787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465582,51.357536,7.465582,51.357536],
+  "bbox": [
+    7.465582,
+    51.357536,
+    7.465582,
+    51.357536
+],
   "geometry": {"coordinates":[7.465582,51.357536],"type":"Point"}
 }

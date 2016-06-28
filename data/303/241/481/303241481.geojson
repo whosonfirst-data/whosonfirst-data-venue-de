@@ -2,13 +2,14 @@
   "id": 303241481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.142096,54.361473,10.142096,54.361473",
     "geom:latitude":54.361473,
     "geom:longitude":10.142096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeyestr. 16-24",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303241481,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466230456,
     "wof:name":"Raytheon Marine Gmbh",
     "wof:parent_id":85900035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.142096,54.361473,10.142096,54.361473],
+  "bbox": [
+    10.142096,
+    54.361473,
+    10.142096,
+    54.361473
+],
   "geometry": {"coordinates":[10.142096,54.361473],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119017973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.275779,52.426682,13.275779,52.426682",
     "geom:latitude":52.426682,
     "geom:longitude":13.275779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seehofstr. 96",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905641,
+        85682553,
         85633111,
         101756031,
         102063937,
-        85682553
+        85905641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119017973,
-    "wof:lastmodified":1449042263,
+    "wof:lastmodified":1466230865,
     "wof:name":"Gerd Schneider Architekt",
     "wof:parent_id":85905641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.275779,52.426682,13.275779,52.426682],
+  "bbox": [
+    13.275779,
+    52.426682,
+    13.275779,
+    52.426682
+],
   "geometry": {"coordinates":[13.275779,52.426682],"type":"Point"}
 }

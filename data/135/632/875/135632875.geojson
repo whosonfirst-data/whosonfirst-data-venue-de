@@ -2,13 +2,14 @@
   "id": 135632875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.395805,49.005196,8.395805,49.005196",
     "geom:latitude":49.005196,
     "geom:longitude":8.395805,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kriegsstr. 45",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567,
+        85794869,
         85795045
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135632875,
-    "wof:lastmodified":1449022937,
+    "wof:lastmodified":1466240472,
     "wof:name":"W\u00fcstenrot Bausparkasse Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.395805,49.005196,8.395805,49.005196],
+  "bbox": [
+    8.395805,
+    49.005196,
+    8.395805,
+    49.005196
+],
   "geometry": {"coordinates":[8.395805,49.005196],"type":"Point"}
 }

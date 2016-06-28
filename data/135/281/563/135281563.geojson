@@ -2,13 +2,14 @@
   "id": 135281563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.976046,49.434444,10.976046,49.434444",
     "geom:latitude":49.434444,
     "geom:longitude":10.976046,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brucker Weg 4",
     "sg:city":"Oberasbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135281563,
-    "wof:lastmodified":1449023552,
+    "wof:lastmodified":1466230731,
     "wof:name":"Johann Schmidt",
     "wof:parent_id":101755915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.976046,49.434444,10.976046,49.434444],
+  "bbox": [
+    10.976046,
+    49.434444,
+    10.976046,
+    49.434444
+],
   "geometry": {"coordinates":[10.976046,49.434444],"type":"Point"}
 }

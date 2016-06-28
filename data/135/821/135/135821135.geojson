@@ -2,13 +2,14 @@
   "id": 135821135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.31604,52.512428,13.31604,52.512428",
     "geom:latitude":52.512428,
     "geom:longitude":13.31604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135821135,
-    "wof:lastmodified":1449022648,
+    "wof:lastmodified":1466244035,
     "wof:name":"Verein Deutscher Ingenieure Bezirksverein",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.31604,52.512428,13.31604,52.512428],
+  "bbox": [
+    13.31604,
+    52.512428,
+    13.31604,
+    52.512428
+],
   "geometry": {"coordinates":[13.31604,52.512428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153042439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.580742,48.136456,11.580742,48.136456",
     "geom:latitude":48.136456,
     "geom:longitude":11.580742,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905605,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153042439,
-    "wof:lastmodified":1449040698,
+    "wof:lastmodified":1466213436,
     "wof:name":"Werkst\u00e4tte F\u00fcr Metallkunst Frey & Kastenmeier Gmbh",
     "wof:parent_id":85905605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.580742,48.136456,11.580742,48.136456],
+  "bbox": [
+    11.580742,
+    48.136456,
+    11.580742,
+    48.136456
+],
   "geometry": {"coordinates":[11.580742,48.136456],"type":"Point"}
 }

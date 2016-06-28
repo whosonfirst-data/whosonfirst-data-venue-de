@@ -2,13 +2,14 @@
   "id": 119143153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.962133,51.655994,6.962133,51.655994",
     "geom:latitude":51.655994,
     "geom:longitude":6.962133,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 18",
     "sg:city":"Dorsten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119143153,
-    "wof:lastmodified":1449043062,
+    "wof:lastmodified":1466223477,
     "wof:name":"Ursula Jornitz Architektin",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.962133,51.655994,6.962133,51.655994],
+  "bbox": [
+    6.962133,
+    51.655994,
+    6.962133,
+    51.655994
+],
   "geometry": {"coordinates":[6.962133,51.655994],"type":"Point"}
 }

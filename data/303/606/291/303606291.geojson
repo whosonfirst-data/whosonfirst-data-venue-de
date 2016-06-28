@@ -2,13 +2,14 @@
   "id": 303606291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.159675,50.64999,13.159675,50.64999",
     "geom:latitude":50.64999,
     "geom:longitude":13.159675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6pferstr. 1",
     "sg:city":"Marienberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303606291,
-    "wof:lastmodified":1448998496,
+    "wof:lastmodified":1466238047,
     "wof:name":"E. Schulze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.159675,50.64999,13.159675,50.64999],
+  "bbox": [
+    13.159675,
+    50.64999,
+    13.159675,
+    50.64999
+],
   "geometry": {"coordinates":[13.159675,50.64999],"type":"Point"}
 }

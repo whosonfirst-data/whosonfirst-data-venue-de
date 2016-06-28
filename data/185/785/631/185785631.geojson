@@ -2,13 +2,14 @@
   "id": 185785631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.319385,51.331932,12.319385,51.331932",
     "geom:latitude":51.331932,
     "geom:longitude":12.319385,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctzner Str. 160",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185785631,
-    "wof:lastmodified":1449007957,
+    "wof:lastmodified":1466214986,
     "wof:name":"E. Bajer",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.319385,51.331932,12.319385,51.331932],
+  "bbox": [
+    12.319385,
+    51.331932,
+    12.319385,
+    51.331932
+],
   "geometry": {"coordinates":[12.319385,51.331932],"type":"Point"}
 }

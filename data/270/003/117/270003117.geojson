@@ -2,13 +2,14 @@
   "id": 270003117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.291545,53.308601,10.291545,53.308601",
     "geom:latitude":53.308601,
     "geom:longitude":10.291545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedekoppel 4",
     "sg:city":"Radbruch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270003117,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466221431,
     "wof:name":"K. Heinrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.291545,53.308601,10.291545,53.308601],
+  "bbox": [
+    10.291545,
+    53.308601,
+    10.291545,
+    53.308601
+],
   "geometry": {"coordinates":[10.291545,53.308601],"type":"Point"}
 }

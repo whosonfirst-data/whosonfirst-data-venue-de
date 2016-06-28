@@ -2,13 +2,14 @@
   "id": 135998167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.613832,50.149647,8.613832,50.149647",
     "geom:latitude":50.149647,
     "geom:longitude":8.613832,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nberger Weg 18a",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135998167,
-    "wof:lastmodified":1449022003,
+    "wof:lastmodified":1466244948,
     "wof:name":"Verwaltungsgesellschaft Rm Papierrecycling Gmbh",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.613832,50.149647,8.613832,50.149647],
+  "bbox": [
+    8.613832,
+    50.149647,
+    8.613832,
+    50.149647
+],
   "geometry": {"coordinates":[8.613832,50.149647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135432633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.024338,20.783434,-156.024338,20.783434",
     "geom:latitude":20.783434,
     "geom:longitude":-156.024338,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Martensdamm 2::",
     "sg:city":"Kael",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85890137,
+        85688671,
         85633793,
         85937685,
         102085577,
-        85688671
+        85890137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135432633,
-    "wof:lastmodified":1449020930,
+    "wof:lastmodified":1466225630,
     "wof:name":"Schlweswig-holsteinische Landeshaft",
     "wof:parent_id":85890137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-156.024338,20.783434,-156.024338,20.783434],
+  "bbox": [
+    -156.024338,
+    20.783434,
+    -156.024338,
+    20.783434
+],
   "geometry": {"coordinates":[-156.024338,20.783434],"type":"Point"}
 }

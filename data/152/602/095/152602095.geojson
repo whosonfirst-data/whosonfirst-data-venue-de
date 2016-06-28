@@ -2,13 +2,14 @@
   "id": 152602095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.090349,54.08569,12.090349,54.08569",
     "geom:latitude":54.08569,
     "geom:longitude":12.090349,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kopernikusstr. 17a",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898985,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85898985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152602095,
-    "wof:lastmodified":1449046476,
+    "wof:lastmodified":1466222540,
     "wof:name":"Ostsee-stadion Verwaltungsgesellschaft Mbh",
     "wof:parent_id":85898985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.090349,54.08569,12.090349,54.08569],
+  "bbox": [
+    12.090349,
+    54.08569,
+    12.090349,
+    54.08569
+],
   "geometry": {"coordinates":[12.090349,54.08569],"type":"Point"}
 }

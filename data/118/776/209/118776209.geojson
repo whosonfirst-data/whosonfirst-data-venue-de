@@ -2,13 +2,14 @@
   "id": 118776209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.230497,50.045868,10.230497,50.045868",
     "geom:latitude":50.045868,
     "geom:longitude":10.230497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bauerngasse 8",
     "sg:city":"Schweinfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118776209,
-    "wof:lastmodified":1449053455,
+    "wof:lastmodified":1466228304,
     "wof:name":"Schmidt Farben Gmbh",
     "wof:parent_id":101748575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.230497,50.045868,10.230497,50.045868],
+  "bbox": [
+    10.230497,
+    50.045868,
+    10.230497,
+    50.045868
+],
   "geometry": {"coordinates":[10.230497,50.045868],"type":"Point"}
 }

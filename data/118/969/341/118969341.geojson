@@ -2,13 +2,14 @@
   "id": 118969341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.117655,52.395473,13.117655,52.395473",
     "geom:latitude":52.395473,
     "geom:longitude":13.117655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Erich-Str. 10",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,14 +19,14 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
+        85633111,
         85899385,
-        85934639,
+        102063945,
+        85682553,
         101748815,
         102063931,
-        85682553
+        85934639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":118969341,
-    "wof:lastmodified":1449053483,
+    "wof:lastmodified":1466238423,
     "wof:name":"A. Herbst Architekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.117655,52.395473,13.117655,52.395473],
+  "bbox": [
+    13.117655,
+    52.395473,
+    13.117655,
+    52.395473
+],
   "geometry": {"coordinates":[13.117655,52.395473],"type":"Point"}
 }

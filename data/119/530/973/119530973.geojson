@@ -2,13 +2,14 @@
   "id": 119530973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.572778,49.380077,8.572778,49.380077",
     "geom:latitude":49.380077,
     "geom:longitude":8.572778,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kolpingstr. 6",
     "sg:city":"Schwetzingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119530973,
-    "wof:lastmodified":1449042268,
+    "wof:lastmodified":1466243995,
     "wof:name":"G\u00fcnter Wolf Gmbh",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.572778,49.380077,8.572778,49.380077],
+  "bbox": [
+    8.572778,
+    49.380077,
+    8.572778,
+    49.380077
+],
   "geometry": {"coordinates":[8.572778,49.380077],"type":"Point"}
 }

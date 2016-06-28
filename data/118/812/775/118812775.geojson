@@ -2,13 +2,14 @@
   "id": 118812775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.883759,48.405643,8.883759,48.405643",
     "geom:latitude":48.405643,
     "geom:longitude":8.883759,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hechinger Str. 45/2",
     "sg:city":"Hirrlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118812775,
-    "wof:lastmodified":1449053185,
+    "wof:lastmodified":1466230507,
     "wof:name":"Eichenberg-apotheke",
     "wof:parent_id":101762979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.883759,48.405643,8.883759,48.405643],
+  "bbox": [
+    8.883759,
+    48.405643,
+    8.883759,
+    48.405643
+],
   "geometry": {"coordinates":[8.883759,48.405643],"type":"Point"}
 }

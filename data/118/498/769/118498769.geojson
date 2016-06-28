@@ -2,13 +2,14 @@
   "id": 118498769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.945045,53.548973,9.945045,53.548973",
     "geom:latitude":53.548973,
     "geom:longitude":9.945045,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elmenhorststr. 6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118498769,
-    "wof:lastmodified":1449054216,
+    "wof:lastmodified":1466218927,
     "wof:name":"Bps Edv-service- Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.945045,53.548973,9.945045,53.548973],
+  "bbox": [
+    9.945045,
+    53.548973,
+    9.945045,
+    53.548973
+],
   "geometry": {"coordinates":[9.945045,53.548973],"type":"Point"}
 }

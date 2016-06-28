@@ -2,13 +2,14 @@
   "id": 118984541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.984198,53.580906,9.984198,53.580906",
     "geom:latitude":53.580906,
     "geom:longitude":9.984198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkallee 98",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118984541,
-    "wof:lastmodified":1449053939,
+    "wof:lastmodified":1466239248,
     "wof:name":"Boge Und Johannsen Architekten",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.984198,53.580906,9.984198,53.580906],
+  "bbox": [
+    9.984198,
+    53.580906,
+    9.984198,
+    53.580906
+],
   "geometry": {"coordinates":[9.984198,53.580906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270006169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.25357,50.309135,8.25357,50.309135",
     "geom:latitude":50.309135,
     "geom:longitude":8.25357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Limburger Str. 169",
     "sg:city":"Bad Camberg",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270006169,
-    "wof:lastmodified":1449010585,
+    "wof:lastmodified":1466221503,
     "wof:name":"H. Rauch Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.25357,50.309135,8.25357,50.309135],
+  "bbox": [
+    8.25357,
+    50.309135,
+    8.25357,
+    50.309135
+],
   "geometry": {"coordinates":[8.25357,50.309135],"type":"Point"}
 }

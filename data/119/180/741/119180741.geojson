@@ -2,13 +2,14 @@
   "id": 119180741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.274058,48.75449,9.274058,48.75449",
     "geom:latitude":48.75449,
     "geom:longitude":9.274058,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Obert\u00fcrkheimer Str. 59",
     "sg:city":"Esslingen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796165,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119180741,
-    "wof:lastmodified":1449040987,
+    "wof:lastmodified":1466227016,
     "wof:name":"Gbi Gmbh Und Ingenieurbau Mbh",
     "wof:parent_id":85796165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.274058,48.75449,9.274058,48.75449],
+  "bbox": [
+    9.274058,
+    48.75449,
+    9.274058,
+    48.75449
+],
   "geometry": {"coordinates":[9.274058,48.75449],"type":"Point"}
 }

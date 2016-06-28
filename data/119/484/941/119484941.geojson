@@ -2,13 +2,14 @@
   "id": 119484941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.854613,53.571949,9.854613,53.571949",
     "geom:latitude":53.571949,
     "geom:longitude":9.854613,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osdorfer Landstr. 157",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899299,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119484941,
-    "wof:lastmodified":1449043396,
+    "wof:lastmodified":1466243459,
     "wof:name":"Cwh Car-wash Hamburg Gmbh",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.854613,53.571949,9.854613,53.571949],
+  "bbox": [
+    9.854613,
+    53.571949,
+    9.854613,
+    53.571949
+],
   "geometry": {"coordinates":[9.854613,53.571949],"type":"Point"}
 }

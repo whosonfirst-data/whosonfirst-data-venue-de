@@ -2,13 +2,14 @@
   "id": 152715899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.221864,51.219822,7.221864,51.219822",
     "geom:latitude":51.219822,
     "geom:longitude":7.221864,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreherstr. 15",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795701,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152715899,
-    "wof:lastmodified":1449047994,
+    "wof:lastmodified":1466225045,
     "wof:name":"Klett Holding Gmbh",
     "wof:parent_id":85795701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.221864,51.219822,7.221864,51.219822],
+  "bbox": [
+    7.221864,
+    51.219822,
+    7.221864,
+    51.219822
+],
   "geometry": {"coordinates":[7.221864,51.219822],"type":"Point"}
 }

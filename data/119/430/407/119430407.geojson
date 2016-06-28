@@ -2,13 +2,14 @@
   "id": 119430407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.174578,48.771122,9.174578,48.771122",
     "geom:latitude":48.771122,
     "geom:longitude":9.174578,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sophienstr. 15",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119430407,
-    "wof:lastmodified":1449042584,
+    "wof:lastmodified":1466242374,
     "wof:name":"Friedrich Sch\u00fcssler",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.174578,48.771122,9.174578,48.771122],
+  "bbox": [
+    9.174578,
+    48.771122,
+    9.174578,
+    48.771122
+],
   "geometry": {"coordinates":[9.174578,48.771122],"type":"Point"}
 }

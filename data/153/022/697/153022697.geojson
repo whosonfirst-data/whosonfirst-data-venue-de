@@ -2,13 +2,14 @@
   "id": 153022697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469361,51.357372,12.469361,51.357372",
     "geom:latitude":51.357372,
     "geom:longitude":12.469361,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dachsstra\u00dfe 5",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900075,
+        85682523,
         85633111,
         101748685,
         102064227,
-        85682523
+        85900075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153022697,
-    "wof:lastmodified":1449040489,
+    "wof:lastmodified":1466234863,
     "wof:name":"Gustav-hertz-gymnasium",
     "wof:parent_id":85900075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.469361,51.357372,12.469361,51.357372],
+  "bbox": [
+    12.469361,
+    51.357372,
+    12.469361,
+    51.357372
+],
   "geometry": {"coordinates":[12.469361,51.357372],"type":"Point"}
 }

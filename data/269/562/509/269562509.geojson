@@ -2,13 +2,14 @@
   "id": 269562509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.099045,48.631893,11.099045,48.631893",
     "geom:latitude":48.631893,
     "geom:longitude":11.099045,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augsburger Str. 18",
     "sg:city":"Ehekirchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269562509,
-    "wof:lastmodified":1449037401,
+    "wof:lastmodified":1466222707,
     "wof:name":"Paul Strixner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.099045,48.631893,11.099045,48.631893],
+  "bbox": [
+    11.099045,
+    48.631893,
+    11.099045,
+    48.631893
+],
   "geometry": {"coordinates":[11.099045,48.631893],"type":"Point"}
 }

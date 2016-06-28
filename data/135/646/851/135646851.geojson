@@ -2,13 +2,14 @@
   "id": 135646851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.848179,51.431908,6.848179,51.431908",
     "geom:latitude":51.431908,
     "geom:longitude":6.848179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weseler Str. 60",
     "sg:city":"M\u00fclheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863067,
+        85682513,
         85633111,
         101913817,
         102063777,
-        85682513
+        85863067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135646851,
-    "wof:lastmodified":1449020897,
+    "wof:lastmodified":1466240796,
     "wof:name":"Hagebaumarkt M\u00fclheim An Der Ruhr Gmbh",
     "wof:parent_id":85863067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.848179,51.431908,6.848179,51.431908],
+  "bbox": [
+    6.848179,
+    51.431908,
+    6.848179,
+    51.431908
+],
   "geometry": {"coordinates":[6.848179,51.431908],"type":"Point"}
 }

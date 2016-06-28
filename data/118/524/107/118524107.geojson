@@ -2,13 +2,14 @@
   "id": 118524107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.410115,49.004196,8.410115,49.004196",
     "geom:latitude":49.004196,
     "geom:longitude":8.410115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rueppurrer Str. 4::",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118524107,
-    "wof:lastmodified":1449053131,
+    "wof:lastmodified":1466213878,
     "wof:name":"Reinhard Stemmer Und Brigitte Suetterlin-stemmer",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.410115,49.004196,8.410115,49.004196],
+  "bbox": [
+    8.410115,
+    49.004196,
+    8.410115,
+    49.004196
+],
   "geometry": {"coordinates":[8.410115,49.004196],"type":"Point"}
 }

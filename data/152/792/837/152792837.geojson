@@ -2,13 +2,14 @@
   "id": 152792837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.223745,51.531197,7.223745,51.531197",
     "geom:latitude":51.531197,
     "geom:longitude":7.223745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurf\u00fcrstenstrasse 12",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863257,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152792837,
-    "wof:lastmodified":1449045291,
+    "wof:lastmodified":1466226877,
     "wof:name":"Doctor Source - Documentation Tool",
     "wof:parent_id":85863257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.223745,51.531197,7.223745,51.531197],
+  "bbox": [
+    7.223745,
+    51.531197,
+    7.223745,
+    51.531197
+],
   "geometry": {"coordinates":[7.223745,51.531197],"type":"Point"}
 }

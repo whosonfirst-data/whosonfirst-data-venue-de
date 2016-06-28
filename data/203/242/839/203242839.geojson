@@ -2,13 +2,14 @@
   "id": 203242839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.717549,49.562828,8.717549,49.562828",
     "geom:latitude":49.562828,
     "geom:longitude":8.717549,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leppelsheckweg 8",
     "sg:city":"Birkenau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203242839,
-    "wof:lastmodified":1449026641,
+    "wof:lastmodified":1466217919,
     "wof:name":"Emil Schmitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.717549,49.562828,8.717549,49.562828],
+  "bbox": [
+    8.717549,
+    49.562828,
+    8.717549,
+    49.562828
+],
   "geometry": {"coordinates":[8.717549,49.562828],"type":"Point"}
 }

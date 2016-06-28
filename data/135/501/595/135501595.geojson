@@ -2,13 +2,14 @@
   "id": 135501595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.902398,53.08757,8.902398,53.08757",
     "geom:latitude":53.08757,
     "geom:longitude":8.902398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Achterdiek 119",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796057,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135501595,
-    "wof:lastmodified":1449024013,
+    "wof:lastmodified":1466231727,
     "wof:name":"Peter Hartung Gmbh",
     "wof:parent_id":85796057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.902398,53.08757,8.902398,53.08757],
+  "bbox": [
+    8.902398,
+    53.08757,
+    8.902398,
+    53.08757
+],
   "geometry": {"coordinates":[8.902398,53.08757],"type":"Point"}
 }

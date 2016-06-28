@@ -2,13 +2,14 @@
   "id": 136133265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177286,48.81076,9.177286,48.81076",
     "geom:latitude":48.81076,
     "geom:longitude":9.177286,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maybachstrasse 42",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136133265,
-    "wof:lastmodified":1449076013,
+    "wof:lastmodified":1466218120,
     "wof:name":"Tanzparadies F\u00fcr Den Tanzinteressenten Bis Zum Pro",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.177286,48.81076,9.177286,48.81076],
+  "bbox": [
+    9.177286,
+    48.81076,
+    9.177286,
+    48.81076
+],
   "geometry": {"coordinates":[9.177286,48.81076],"type":"Point"}
 }

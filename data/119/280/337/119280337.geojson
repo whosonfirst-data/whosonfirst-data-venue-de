@@ -2,13 +2,14 @@
   "id": 119280337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.798483,53.076958,8.798483,53.076958",
     "geom:latitude":53.076958,
     "geom:longitude":8.798483,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Teerhof 48",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119280337,
-    "wof:lastmodified":1449042142,
+    "wof:lastmodified":1466236671,
     "wof:name":"Larivi\u00e8re Gesellschaft F\u00fcr Digitale Pr\u00e4sentationssysteme Mbh",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.798483,53.076958,8.798483,53.076958],
+  "bbox": [
+    8.798483,
+    53.076958,
+    8.798483,
+    53.076958
+],
   "geometry": {"coordinates":[8.798483,53.076958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202532961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.523398,49.488274,8.523398,49.488274",
     "geom:latitude":49.488274,
     "geom:longitude":8.523398,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 127",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202532961,
-    "wof:lastmodified":1449060971,
+    "wof:lastmodified":1466216280,
     "wof:name":"Zauft",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.523398,49.488274,8.523398,49.488274],
+  "bbox": [
+    8.523398,
+    49.488274,
+    8.523398,
+    49.488274
+],
   "geometry": {"coordinates":[8.523398,49.488274],"type":"Point"}
 }

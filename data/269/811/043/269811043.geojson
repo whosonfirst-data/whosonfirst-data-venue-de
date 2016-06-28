@@ -2,13 +2,14 @@
   "id": 269811043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.574683,49.137665,11.574683,49.137665",
     "geom:latitude":49.137665,
     "geom:longitude":11.574683,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freihauser Str. 5",
     "sg:city":"Seubersdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269811043,
-    "wof:lastmodified":1449037299,
+    "wof:lastmodified":1466228676,
     "wof:name":"Werner Schlierf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.574683,49.137665,11.574683,49.137665],
+  "bbox": [
+    11.574683,
+    49.137665,
+    11.574683,
+    49.137665
+],
   "geometry": {"coordinates":[11.574683,49.137665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135941789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.477527,51.343212,9.477527,51.343212",
     "geom:latitude":51.343212,
     "geom:longitude":9.477527,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holl\u00e4ndische Str. 207",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906343,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135941789,
-    "wof:lastmodified":1449022828,
+    "wof:lastmodified":1466244694,
     "wof:name":"During Betonwerk Elementa Bausysteme Beteiligungs Gmbh",
     "wof:parent_id":85906343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.477527,51.343212,9.477527,51.343212],
+  "bbox": [
+    9.477527,
+    51.343212,
+    9.477527,
+    51.343212
+],
   "geometry": {"coordinates":[9.477527,51.343212],"type":"Point"}
 }

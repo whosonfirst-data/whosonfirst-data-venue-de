@@ -2,13 +2,14 @@
   "id": 203108113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.41583,51.186562,14.41583,51.186562",
     "geom:latitude":51.186562,
     "geom:longitude":14.41583,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberweg 1",
     "sg:city":"Bautzen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203108113,
-    "wof:lastmodified":1449024981,
+    "wof:lastmodified":1466215650,
     "wof:name":"Hermann Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.41583,51.186562,14.41583,51.186562],
+  "bbox": [
+    14.41583,
+    51.186562,
+    14.41583,
+    51.186562
+],
   "geometry": {"coordinates":[14.41583,51.186562],"type":"Point"}
 }

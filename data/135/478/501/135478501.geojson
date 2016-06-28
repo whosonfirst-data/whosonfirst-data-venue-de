@@ -2,13 +2,14 @@
   "id": 135478501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.584651,48.188416,11.584651,48.188416",
     "geom:latitude":48.188416,
     "geom:longitude":11.584651,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ingolst\u00e4dter Str. 38",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899167,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135478501,
-    "wof:lastmodified":1449021079,
+    "wof:lastmodified":1466229657,
     "wof:name":"Leierkasten",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.584651,48.188416,11.584651,48.188416],
+  "bbox": [
+    11.584651,
+    48.188416,
+    11.584651,
+    48.188416
+],
   "geometry": {"coordinates":[11.584651,48.188416],"type":"Point"}
 }

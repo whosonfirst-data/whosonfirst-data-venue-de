@@ -2,13 +2,14 @@
   "id": 118628041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.635665,50.250607,8.635665,50.250607",
     "geom:latitude":50.250607,
     "geom:longitude":8.635665,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kolberger Str. 1",
     "sg:city":"Friedrichsdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118628041,
-    "wof:lastmodified":1449054291,
+    "wof:lastmodified":1466219870,
     "wof:name":"Haus Dammwald",
     "wof:parent_id":101812035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.635665,50.250607,8.635665,50.250607],
+  "bbox": [
+    8.635665,
+    50.250607,
+    8.635665,
+    50.250607
+],
   "geometry": {"coordinates":[8.635665,50.250607],"type":"Point"}
 }

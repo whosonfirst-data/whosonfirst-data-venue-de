@@ -2,13 +2,14 @@
   "id": 135729255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.717951,53.04549,8.717951,53.04549",
     "geom:latitude":53.04549,
     "geom:longitude":8.717951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Sodenmatt 57",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795689,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135729255,
-    "wof:lastmodified":1449022539,
+    "wof:lastmodified":1466243219,
     "wof:name":"Gebr. Sitt Bautr\u00e4ger Gmbh",
     "wof:parent_id":85795689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.717951,53.04549,8.717951,53.04549],
+  "bbox": [
+    8.717951,
+    53.04549,
+    8.717951,
+    53.04549
+],
   "geometry": {"coordinates":[8.717951,53.04549],"type":"Point"}
 }

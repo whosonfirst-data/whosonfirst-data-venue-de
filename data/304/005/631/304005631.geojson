@@ -2,13 +2,14 @@
   "id": 304005631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.765683,49.488186,9.765683,49.488186",
     "geom:latitude":49.488186,
     "geom:longitude":9.765683,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienburger Str. 3",
     "sg:city":"Bad Mergentheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304005631,
-    "wof:lastmodified":1449044118,
+    "wof:lastmodified":1466230989,
     "wof:name":"R. Schwab Masseur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.765683,49.488186,9.765683,49.488186],
+  "bbox": [
+    9.765683,
+    49.488186,
+    9.765683,
+    49.488186
+],
   "geometry": {"coordinates":[9.765683,49.488186],"type":"Point"}
 }

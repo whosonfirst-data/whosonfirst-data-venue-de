@@ -2,13 +2,14 @@
   "id": 136032911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637016,30.402874,-97.637016,30.402874",
     "geom:latitude":30.402874,
     "geom:longitude":-97.637016,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weststrasse 4-6",
     "sg:city":"Dessau",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:postcode":"06874",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081935,
-        85633793,
         85688753,
-        85854327
+        85633793,
+        85854327,
+        102081935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136032911,
-    "wof:lastmodified":1449075549,
+    "wof:lastmodified":1466213603,
     "wof:name":"Bowling Park Dessau/wittenberg",
     "wof:parent_id":85854327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.637016,30.402874,-97.637016,30.402874],
+  "bbox": [
+    -97.637016,
+    30.402874,
+    -97.637016,
+    30.402874
+],
   "geometry": {"coordinates":[-97.637016,30.402874],"type":"Point"}
 }

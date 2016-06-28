@@ -2,13 +2,14 @@
   "id": 152219627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.671039,49.961922,8.671039,49.961922",
     "geom:latitude":49.961922,
     "geom:longitude":8.671039,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-Schumacher-Ring 1",
     "sg:city":"Egelsbach",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063543,
-        85633111,
         85682531,
-        85796779
+        85633111,
+        85796779,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152219627,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466214470,
     "wof:name":"Vogel Bekleidungsfabrik Gmbh",
     "wof:parent_id":85796779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.671039,49.961922,8.671039,49.961922],
+  "bbox": [
+    8.671039,
+    49.961922,
+    8.671039,
+    49.961922
+],
   "geometry": {"coordinates":[8.671039,49.961922],"type":"Point"}
 }

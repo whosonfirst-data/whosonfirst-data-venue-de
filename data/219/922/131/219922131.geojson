@@ -2,13 +2,14 @@
   "id": 219922131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.562313,48.130047,11.562313,48.130047",
     "geom:latitude":48.130047,
     "geom:longitude":11.562313,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maistr. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219922131,
-    "wof:lastmodified":1449070708,
+    "wof:lastmodified":1466228821,
     "wof:name":"Spielraum Gmbh",
     "wof:parent_id":85905609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.562313,48.130047,11.562313,48.130047],
+  "bbox": [
+    11.562313,
+    48.130047,
+    11.562313,
+    48.130047
+],
   "geometry": {"coordinates":[11.562313,48.130047],"type":"Point"}
 }

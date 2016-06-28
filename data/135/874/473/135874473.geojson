@@ -2,13 +2,14 @@
   "id": 135874473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.093383,49.042305,9.093383,49.042305",
     "geom:latitude":49.042305,
     "geom:longitude":9.093383,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 51",
     "sg:city":"B\u00f6nnigheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135874473,
-    "wof:lastmodified":1449023808,
+    "wof:lastmodified":1466244416,
     "wof:name":"Hans Gabler",
     "wof:parent_id":101760663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.093383,49.042305,9.093383,49.042305],
+  "bbox": [
+    9.093383,
+    49.042305,
+    9.093383,
+    49.042305
+],
   "geometry": {"coordinates":[9.093383,49.042305],"type":"Point"}
 }

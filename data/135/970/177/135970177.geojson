@@ -2,13 +2,14 @@
   "id": 135970177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.422327,48.761932,11.422327,48.761932",
     "geom:latitude":48.761932,
     "geom:longitude":11.422327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bei der Schleifm\u00fchle 28",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899417,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135970177,
-    "wof:lastmodified":1449023934,
+    "wof:lastmodified":1466244805,
     "wof:name":"Classcic Globus Verwaltungs- Gmbh",
     "wof:parent_id":85899417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.422327,48.761932,11.422327,48.761932],
+  "bbox": [
+    11.422327,
+    48.761932,
+    11.422327,
+    48.761932
+],
   "geometry": {"coordinates":[11.422327,48.761932],"type":"Point"}
 }

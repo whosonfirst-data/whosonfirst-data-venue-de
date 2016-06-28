@@ -2,13 +2,14 @@
   "id": 118870801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.162674,49.466408,11.162674,49.466408",
     "geom:latitude":49.466408,
     "geom:longitude":11.162674,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moritzbergstr. 43",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899493,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118870801,
-    "wof:lastmodified":1449053519,
+    "wof:lastmodified":1466234097,
     "wof:name":"Apotheke Laufamholz Jutta H\u00f6tzel",
     "wof:parent_id":85899493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.162674,49.466408,11.162674,49.466408],
+  "bbox": [
+    11.162674,
+    49.466408,
+    11.162674,
+    49.466408
+],
   "geometry": {"coordinates":[11.162674,49.466408],"type":"Point"}
 }

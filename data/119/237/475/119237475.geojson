@@ -2,13 +2,14 @@
   "id": 119237475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.222123,48.821892,9.222123,48.821892",
     "geom:latitude":48.821892,
     "geom:longitude":9.222123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moselstr. 25",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119237475,
-    "wof:lastmodified":1449040948,
+    "wof:lastmodified":1466232366,
     "wof:name":"Stadtb\u00fccherei Maria-lutz-weitmann-b\u00fccherei",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.222123,48.821892,9.222123,48.821892],
+  "bbox": [
+    9.222123,
+    48.821892,
+    9.222123,
+    48.821892
+],
   "geometry": {"coordinates":[9.222123,48.821892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303953105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.89191,48.314671,12.89191,48.314671",
     "geom:latitude":48.314671,
     "geom:longitude":12.89191,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchengasse 13",
     "sg:city":"Tann",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303953105,
-    "wof:lastmodified":1448999804,
+    "wof:lastmodified":1466241600,
     "wof:name":"Max Stelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.89191,48.314671,12.89191,48.314671],
+  "bbox": [
+    12.89191,
+    48.314671,
+    12.89191,
+    48.314671
+],
   "geometry": {"coordinates":[12.89191,48.314671],"type":"Point"}
 }

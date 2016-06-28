@@ -2,13 +2,14 @@
   "id": 119187735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.933021,50.949951,6.933021,50.949951",
     "geom:latitude":50.949951,
     "geom:longitude":6.933021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Graeffstr. 5",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119187735,
-    "wof:lastmodified":1449041225,
+    "wof:lastmodified":1466227639,
     "wof:name":"Schmidt Reuter Ingenieurges. Mbh & Partner Kg",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.933021,50.949951,6.933021,50.949951],
+  "bbox": [
+    6.933021,
+    50.949951,
+    6.933021,
+    50.949951
+],
   "geometry": {"coordinates":[6.933021,50.949951],"type":"Point"}
 }

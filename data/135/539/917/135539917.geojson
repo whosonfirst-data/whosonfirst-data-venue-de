@@ -2,13 +2,14 @@
   "id": 135539917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.759331,51.030678,13.759331,51.030678",
     "geom:latitude":51.030678,
     "geom:longitude":13.759331,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Julius-Otto-Str. 8",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905663,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135539917,
-    "wof:lastmodified":1449024051,
+    "wof:lastmodified":1466235660,
     "wof:name":"Minix Ag",
     "wof:parent_id":85905663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.759331,51.030678,13.759331,51.030678],
+  "bbox": [
+    13.759331,
+    51.030678,
+    13.759331,
+    51.030678
+],
   "geometry": {"coordinates":[13.759331,51.030678],"type":"Point"}
 }

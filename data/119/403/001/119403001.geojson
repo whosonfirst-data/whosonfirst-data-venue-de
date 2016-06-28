@@ -2,13 +2,14 @@
   "id": 119403001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.0822,48.455917,9.0822,48.455917",
     "geom:latitude":48.455917,
     "geom:longitude":9.0822,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 42",
     "sg:city":"Gomaringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119403001,
-    "wof:lastmodified":1449043159,
+    "wof:lastmodified":1466241483,
     "wof:name":"Joachim Pflug",
     "wof:parent_id":101762951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.0822,48.455917,9.0822,48.455917],
+  "bbox": [
+    9.0822,
+    48.455917,
+    9.0822,
+    48.455917
+],
   "geometry": {"coordinates":[9.0822,48.455917],"type":"Point"}
 }

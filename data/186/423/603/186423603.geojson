@@ -2,13 +2,14 @@
   "id": 186423603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.4147,51.356033,12.4147,51.356033",
     "geom:latitude":51.356033,
     "geom:longitude":12.4147,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmidt-R\u00fchl-Str. 38",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186423603,
-    "wof:lastmodified":1449050859,
+    "wof:lastmodified":1466217656,
     "wof:name":"M. Horn",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.4147,51.356033,12.4147,51.356033],
+  "bbox": [
+    12.4147,
+    51.356033,
+    12.4147,
+    51.356033
+],
   "geometry": {"coordinates":[12.4147,51.356033],"type":"Point"}
 }

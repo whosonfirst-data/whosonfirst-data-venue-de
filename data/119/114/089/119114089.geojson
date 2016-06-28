@@ -2,13 +2,14 @@
   "id": 119114089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.003494,50.874226,7.003494,50.874226",
     "geom:latitude":50.874226,
     "geom:longitude":7.003494,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiefernweg 5",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796387,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85796387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119114089,
-    "wof:lastmodified":1449041943,
+    "wof:lastmodified":1466221398,
     "wof:name":"R. Schneider-huber Architektin",
     "wof:parent_id":85796387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.003494,50.874226,7.003494,50.874226],
+  "bbox": [
+    7.003494,
+    50.874226,
+    7.003494,
+    50.874226
+],
   "geometry": {"coordinates":[7.003494,50.874226],"type":"Point"}
 }

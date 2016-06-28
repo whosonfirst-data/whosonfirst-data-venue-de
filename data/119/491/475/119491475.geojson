@@ -2,13 +2,14 @@
   "id": 119491475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.882611,53.627686,9.882611,53.627686",
     "geom:latitude":53.627686,
     "geom:longitude":9.882611,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlerstr. 62-68",
     "sg:city":"Rellingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899067,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119491475,
-    "wof:lastmodified":1449040837,
+    "wof:lastmodified":1466243630,
     "wof:name":"Tcs Trans- Und Carservice Gmbh",
     "wof:parent_id":85899067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.882611,53.627686,9.882611,53.627686],
+  "bbox": [
+    9.882611,
+    53.627686,
+    9.882611,
+    53.627686
+],
   "geometry": {"coordinates":[9.882611,53.627686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102752661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.25858,49.4631,11.25858,49.4631",
     "geom:latitude":49.4631,
     "geom:longitude":11.25858,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"R\u00f6thenbach",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063495,
-        85633111,
         85682571,
-        85899685
+        85633111,
+        85899685,
+        102063495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102752661,
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466218408,
     "wof:name":"Hiller Objektm\u00f6bel Gmbh & Co. Kg",
     "wof:parent_id":85899685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.25858,49.4631,11.25858,49.4631],
+  "bbox": [
+    11.25858,
+    49.4631,
+    11.25858,
+    49.4631
+],
   "geometry": {"coordinates":[11.25858,49.4631],"type":"Point"}
 }

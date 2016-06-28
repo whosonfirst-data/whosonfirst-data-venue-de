@@ -2,13 +2,14 @@
   "id": 102584167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.82843,40.557972,-111.82843,40.557972",
     "geom:latitude":40.557972,
     "geom:longitude":-111.82843,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Mallersdorf",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818849,
+        85688567,
         85633793,
         101728077,
         102082877,
-        85688567
+        85818849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102584167,
-    "wof:lastmodified":1449068060,
+    "wof:lastmodified":1466233533,
     "wof:name":"Sparkasse Mallersdorf",
     "wof:parent_id":85818849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.82843,40.557972,-111.82843,40.557972],
+  "bbox": [
+    -111.82843,
+    40.557972,
+    -111.82843,
+    40.557972
+],
   "geometry": {"coordinates":[-111.82843,40.557972],"type":"Point"}
 }

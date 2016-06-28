@@ -2,13 +2,14 @@
   "id": 336868723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146304,50.776997,6.146304,50.776997",
     "geom:latitude":50.776997,
     "geom:longitude":6.146304,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6dgerbachstr. 1",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336868723,
-    "wof:lastmodified":1448996959,
+    "wof:lastmodified":1466238238,
     "wof:name":"Hans Hasen",
     "wof:parent_id":85796331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146304,50.776997,6.146304,50.776997],
+  "bbox": [
+    6.146304,
+    50.776997,
+    6.146304,
+    50.776997
+],
   "geometry": {"coordinates":[6.146304,50.776997],"type":"Point"}
 }

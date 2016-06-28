@@ -2,13 +2,14 @@
   "id": 303600745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.578666,49.438267,8.578666,49.438267",
     "geom:latitude":49.438267,
     "geom:longitude":8.578666,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fclhauser Str. 22",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303600745,
-    "wof:lastmodified":1448998344,
+    "wof:lastmodified":1466237969,
     "wof:name":"Franz Sauer",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.578666,49.438267,8.578666,49.438267],
+  "bbox": [
+    8.578666,
+    49.438267,
+    8.578666,
+    49.438267
+],
   "geometry": {"coordinates":[8.578666,49.438267],"type":"Point"}
 }

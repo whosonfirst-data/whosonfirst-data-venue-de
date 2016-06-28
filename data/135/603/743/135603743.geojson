@@ -2,13 +2,14 @@
   "id": 135603743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.861324,50.989014,13.861324,50.989014",
     "geom:latitude":50.989014,
     "geom:longitude":13.861324,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschierener Str. 5",
     "sg:city":"Heidenau",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900285,
+        85682523,
         85633111,
         101755853,
         102064217,
-        85682523
+        85900285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135603743,
-    "wof:lastmodified":1449023546,
+    "wof:lastmodified":1466239399,
     "wof:name":"Imhof Baumaschinen Gmbh & Co. Kg",
     "wof:parent_id":85900285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.861324,50.989014,13.861324,50.989014],
+  "bbox": [
+    13.861324,
+    50.989014,
+    13.861324,
+    50.989014
+],
   "geometry": {"coordinates":[13.861324,50.989014],"type":"Point"}
 }

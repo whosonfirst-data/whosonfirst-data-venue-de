@@ -2,13 +2,14 @@
   "id": 118577747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.35761,51.35989,12.35761,51.35989",
     "geom:latitude":51.35989,
     "geom:longitude":12.35761,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stallbaumstr. 10",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118577747,
-    "wof:lastmodified":1449054595,
+    "wof:lastmodified":1466216999,
     "wof:name":"Team & Technik Gmbh",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.35761,51.35989,12.35761,51.35989],
+  "bbox": [
+    12.35761,
+    51.35989,
+    12.35761,
+    51.35989
+],
   "geometry": {"coordinates":[12.35761,51.35989],"type":"Point"}
 }

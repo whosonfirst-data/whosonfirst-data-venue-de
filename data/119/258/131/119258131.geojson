@@ -2,13 +2,14 @@
   "id": 119258131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.079698,52.409695,13.079698,52.409695",
     "geom:latitude":52.409695,
     "geom:longitude":13.079698,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 53",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898995,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85898995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119258131,
-    "wof:lastmodified":1449042949,
+    "wof:lastmodified":1466234437,
     "wof:name":"Dr. Med. Dieter Schwartz",
     "wof:parent_id":85898995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.079698,52.409695,13.079698,52.409695],
+  "bbox": [
+    13.079698,
+    52.409695,
+    13.079698,
+    52.409695
+],
   "geometry": {"coordinates":[13.079698,52.409695],"type":"Point"}
 }

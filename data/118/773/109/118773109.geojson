@@ -2,13 +2,14 @@
   "id": 118773109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.643585,50.095177,8.643585,50.095177",
     "geom:latitude":50.095177,
     "geom:longitude":8.643585,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirtenstr. 3",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118773109,
-    "wof:lastmodified":1449053317,
+    "wof:lastmodified":1466228111,
     "wof:name":"Brillux Gmbh & Co. Kg",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.643585,50.095177,8.643585,50.095177],
+  "bbox": [
+    8.643585,
+    50.095177,
+    8.643585,
+    50.095177
+],
   "geometry": {"coordinates":[8.643585,50.095177],"type":"Point"}
 }

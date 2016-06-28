@@ -2,13 +2,14 @@
   "id": 102629639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.819021,51.056355,13.819021,51.056355",
     "geom:latitude":51.056355,
     "geom:longitude":13.819021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundstr 58",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900197,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102629639,
-    "wof:lastmodified":1449069631,
+    "wof:lastmodified":1466214060,
     "wof:name":"Ofenbauer Und Fliesenleger Dresden-ost Gmbh",
     "wof:parent_id":85900197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.819021,51.056355,13.819021,51.056355],
+  "bbox": [
+    13.819021,
+    51.056355,
+    13.819021,
+    51.056355
+],
   "geometry": {"coordinates":[13.819021,51.056355],"type":"Point"}
 }

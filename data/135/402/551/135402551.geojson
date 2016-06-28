@@ -2,13 +2,14 @@
   "id": 135402551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.765495,54.050621,13.765495,54.050621",
     "geom:latitude":54.050621,
     "geom:longitude":13.765495,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 11 52::",
     "sg:city":"Wolgast",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135402551,
-    "wof:lastmodified":1449021974,
+    "wof:lastmodified":1466223047,
     "wof:name":"Kreissparkasse Wolgast",
     "wof:parent_id":101817345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.765495,54.050621,13.765495,54.050621],
+  "bbox": [
+    13.765495,
+    54.050621,
+    13.765495,
+    54.050621
+],
   "geometry": {"coordinates":[13.765495,54.050621],"type":"Point"}
 }

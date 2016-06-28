@@ -2,13 +2,14 @@
   "id": 303669807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.73012,50.172344,8.73012,50.172344",
     "geom:latitude":50.172344,
     "geom:longitude":8.73012,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 17",
     "sg:city":"Bad Vilbel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303669807,
-    "wof:lastmodified":1448998399,
+    "wof:lastmodified":1466239066,
     "wof:name":"Eduard Gradl",
     "wof:parent_id":85794877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.73012,50.172344,8.73012,50.172344],
+  "bbox": [
+    8.73012,
+    50.172344,
+    8.73012,
+    50.172344
+],
   "geometry": {"coordinates":[8.73012,50.172344],"type":"Point"}
 }

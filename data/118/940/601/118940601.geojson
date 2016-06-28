@@ -2,13 +2,14 @@
   "id": 118940601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.512994,51.194321,6.512994,51.194321",
     "geom:latitude":51.194321,
     "geom:longitude":6.512994,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hindenburgstr. 57",
     "sg:city":"Korschenbroich",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795867,
+        85682513,
         85633111,
         101810017,
         102063757,
-        85682513
+        85795867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118940601,
-    "wof:lastmodified":1449053490,
+    "wof:lastmodified":1466237440,
     "wof:name":"St.-rochus-apotheke Inh. Rosemarie Bernauer E. K.",
     "wof:parent_id":85795867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.512994,51.194321,6.512994,51.194321],
+  "bbox": [
+    6.512994,
+    51.194321,
+    6.512994,
+    51.194321
+],
   "geometry": {"coordinates":[6.512994,51.194321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135587651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.876942,50.837765,12.876942,50.837765",
     "geom:latitude":50.837765,
     "geom:longitude":12.876942,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Karbel 103",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135587651,
-    "wof:lastmodified":1449022041,
+    "wof:lastmodified":1466238309,
     "wof:name":"Wieland Zill",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.876942,50.837765,12.876942,50.837765],
+  "bbox": [
+    12.876942,
+    50.837765,
+    12.876942,
+    50.837765
+],
   "geometry": {"coordinates":[12.876942,50.837765],"type":"Point"}
 }

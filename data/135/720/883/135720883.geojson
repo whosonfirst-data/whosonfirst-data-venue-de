@@ -2,13 +2,14 @@
   "id": 135720883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.974334,50.823112,12.974334,50.823112",
     "geom:latitude":50.823112,
     "geom:longitude":12.974334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adelsbergstr. 205",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899045,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135720883,
-    "wof:lastmodified":1449021704,
+    "wof:lastmodified":1466242962,
     "wof:name":"Andreas St\u00f6hr Projektentwicklungs Gmbh",
     "wof:parent_id":85899045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.974334,50.823112,12.974334,50.823112],
+  "bbox": [
+    12.974334,
+    50.823112,
+    12.974334,
+    50.823112
+],
   "geometry": {"coordinates":[12.974334,50.823112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119007451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.996018,51.411373,6.996018,51.411373",
     "geom:latitude":51.411373,
     "geom:longitude":6.996018,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Ruhrstein 10",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794815,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85794815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119007451,
-    "wof:lastmodified":1449043057,
+    "wof:lastmodified":1466217294,
     "wof:name":"F. Schultze-rohnhof Architekt",
     "wof:parent_id":85794815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.996018,51.411373,6.996018,51.411373],
+  "bbox": [
+    6.996018,
+    51.411373,
+    6.996018,
+    51.411373
+],
   "geometry": {"coordinates":[6.996018,51.411373],"type":"Point"}
 }

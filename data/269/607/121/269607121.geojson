@@ -2,13 +2,14 @@
   "id": 269607121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.565088,48.139565,11.565088,48.139565",
     "geom:latitude":48.139565,
     "geom:longitude":11.565088,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlsplatz 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269607121,
-    "wof:lastmodified":1449036461,
+    "wof:lastmodified":1466223740,
     "wof:name":"V. Gmeiner",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.565088,48.139565,11.565088,48.139565],
+  "bbox": [
+    11.565088,
+    48.139565,
+    11.565088,
+    48.139565
+],
   "geometry": {"coordinates":[11.565088,48.139565],"type":"Point"}
 }

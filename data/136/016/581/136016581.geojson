@@ -2,13 +2,14 @@
   "id": 136016581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.780146,52.261929,9.780146,52.261929",
     "geom:latitude":52.261929,
     "geom:longitude":9.780146,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Erhard-Str 37",
     "sg:city":"Pattensen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136016581,
-    "wof:lastmodified":1449075144,
+    "wof:lastmodified":1466234491,
     "wof:name":"Gleiss",
     "wof:parent_id":101807707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.780146,52.261929,9.780146,52.261929],
+  "bbox": [
+    9.780146,
+    52.261929,
+    9.780146,
+    52.261929
+],
   "geometry": {"coordinates":[9.780146,52.261929],"type":"Point"}
 }

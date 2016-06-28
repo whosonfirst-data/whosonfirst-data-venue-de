@@ -2,13 +2,14 @@
   "id": 118962079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.209732,51.231285,7.209732,51.231285",
     "geom:latitude":51.231285,
     "geom:longitude":7.209732,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lohsiepenstr. 6",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796317,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118962079,
-    "wof:lastmodified":1449053985,
+    "wof:lastmodified":1466238214,
     "wof:name":"A. Eschen Gartenarchitekt",
     "wof:parent_id":85796317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.209732,51.231285,7.209732,51.231285],
+  "bbox": [
+    7.209732,
+    51.231285,
+    7.209732,
+    51.231285
+],
   "geometry": {"coordinates":[7.209732,51.231285],"type":"Point"}
 }

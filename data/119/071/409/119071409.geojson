@@ -2,13 +2,14 @@
   "id": 119071409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.78682,51.211773,6.78682,51.211773",
     "geom:latitude":51.211773,
     "geom:longitude":6.78682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Remscheider Str. 11a",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119071409,
-    "wof:lastmodified":1449042548,
+    "wof:lastmodified":1466217417,
     "wof:name":"J\u00fcrgen Oberd\u00f6rfer Architekt",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.78682,51.211773,6.78682,51.211773],
+  "bbox": [
+    6.78682,
+    51.211773,
+    6.78682,
+    51.211773
+],
   "geometry": {"coordinates":[6.78682,51.211773],"type":"Point"}
 }

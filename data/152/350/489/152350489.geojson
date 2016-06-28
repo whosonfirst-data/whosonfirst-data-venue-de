@@ -2,13 +2,14 @@
   "id": 152350489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155564,51.457787,7.155564,51.457787",
     "geom:latitude":51.457787,
     "geom:longitude":7.155564,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenburg 17",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796583,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152350489,
-    "wof:lastmodified":1449046659,
+    "wof:lastmodified":1466217235,
     "wof:name":"Adolf Schmeier",
     "wof:parent_id":85796583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155564,51.457787,7.155564,51.457787],
+  "bbox": [
+    7.155564,
+    51.457787,
+    7.155564,
+    51.457787
+],
   "geometry": {"coordinates":[7.155564,51.457787],"type":"Point"}
 }

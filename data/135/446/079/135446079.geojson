@@ -2,13 +2,14 @@
   "id": 135446079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.940296,52.693203,8.940296,52.693203",
     "geom:latitude":52.693203,
     "geom:longitude":8.940296,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 26",
     "sg:city":"Siedenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135446079,
-    "wof:lastmodified":1449023752,
+    "wof:lastmodified":1466226829,
     "wof:name":"Sparkasse",
     "wof:parent_id":101807947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.940296,52.693203,8.940296,52.693203],
+  "bbox": [
+    8.940296,
+    52.693203,
+    8.940296,
+    52.693203
+],
   "geometry": {"coordinates":[8.940296,52.693203],"type":"Point"}
 }

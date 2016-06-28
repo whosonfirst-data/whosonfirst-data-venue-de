@@ -2,13 +2,14 @@
   "id": 303516597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.370872,52.567825,13.370872,52.567825",
     "geom:latitude":52.567825,
     "geom:longitude":13.370872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hausotterstr. 27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303516597,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466236794,
     "wof:name":"Harry Richter",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.370872,52.567825,13.370872,52.567825],
+  "bbox": [
+    13.370872,
+    52.567825,
+    13.370872,
+    52.567825
+],
   "geometry": {"coordinates":[13.370872,52.567825],"type":"Point"}
 }

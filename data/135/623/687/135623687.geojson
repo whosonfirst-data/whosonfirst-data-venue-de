@@ -2,13 +2,14 @@
   "id": 135623687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.402062,49.708481,9.402062,49.708481",
     "geom:latitude":49.708481,
     "geom:longitude":9.402062,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelgasse 6",
     "sg:city":"Neunkirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135623687,
-    "wof:lastmodified":1449023117,
+    "wof:lastmodified":1466240250,
     "wof:name":"U. Horn",
     "wof:parent_id":101813251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.402062,49.708481,9.402062,49.708481],
+  "bbox": [
+    9.402062,
+    49.708481,
+    9.402062,
+    49.708481
+],
   "geometry": {"coordinates":[9.402062,49.708481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135365581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.420521,51.90192,10.420521,51.90192",
     "geom:latitude":51.90192,
     "geom:longitude":10.420521,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rammelsbergerstr. 2",
     "sg:city":"Goslar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135365581,
-    "wof:lastmodified":1449021464,
+    "wof:lastmodified":1466219493,
     "wof:name":"Sparkasse Goslar/harz",
     "wof:parent_id":101820883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.420521,51.90192,10.420521,51.90192],
+  "bbox": [
+    10.420521,
+    51.90192,
+    10.420521,
+    51.90192
+],
   "geometry": {"coordinates":[10.420521,51.90192],"type":"Point"}
 }

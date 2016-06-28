@@ -2,13 +2,14 @@
   "id": 202629981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.247625,48.27113,10.247625,48.27113",
     "geom:latitude":48.27113,
     "geom:longitude":10.247625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenbacher Str. 7",
     "sg:city":"Roggenburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202629981,
-    "wof:lastmodified":1449062068,
+    "wof:lastmodified":1466218171,
     "wof:name":"A. Schmid Kunstmaler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.247625,48.27113,10.247625,48.27113],
+  "bbox": [
+    10.247625,
+    48.27113,
+    10.247625,
+    48.27113
+],
   "geometry": {"coordinates":[10.247625,48.27113],"type":"Point"}
 }

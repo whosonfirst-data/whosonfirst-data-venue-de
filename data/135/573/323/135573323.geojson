@@ -2,13 +2,14 @@
   "id": 135573323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.184256,51.27594,7.184256,51.27594",
     "geom:latitude":51.27594,
     "geom:longitude":7.184256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6diger Str. 125",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796715,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135573323,
-    "wof:lastmodified":1449023227,
+    "wof:lastmodified":1466237446,
     "wof:name":"K. Und E. Kaufmann Gmbh",
     "wof:parent_id":85796715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.184256,51.27594,7.184256,51.27594],
+  "bbox": [
+    7.184256,
+    51.27594,
+    7.184256,
+    51.27594
+],
   "geometry": {"coordinates":[7.184256,51.27594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118919955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.042368,53.597565,10.042368,53.597565",
     "geom:latitude":53.597565,
     "geom:longitude":10.042368,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuhlsb\u00fcttler Str. 265",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118919955,
-    "wof:lastmodified":1449054214,
+    "wof:lastmodified":1466236867,
     "wof:name":"Nord-apotheke Dr. Friedrich Schehrer",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.042368,53.597565,10.042368,53.597565],
+  "bbox": [
+    10.042368,
+    53.597565,
+    10.042368,
+    53.597565
+],
   "geometry": {"coordinates":[10.042368,53.597565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119177521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.285147,52.472137,13.285147,52.472137",
     "geom:latitude":52.472137,
     "geom:longitude":13.285147,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Miquelstr. 32a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899273
+        85633111,
+        85899273,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119177521,
-    "wof:lastmodified":1449043538,
+    "wof:lastmodified":1466226713,
     "wof:name":"Rolf Gehrke Architekt",
     "wof:parent_id":85899273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.285147,52.472137,13.285147,52.472137],
+  "bbox": [
+    13.285147,
+    52.472137,
+    13.285147,
+    52.472137
+],
   "geometry": {"coordinates":[13.285147,52.472137],"type":"Point"}
 }

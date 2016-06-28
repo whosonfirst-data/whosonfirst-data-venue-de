@@ -2,13 +2,14 @@
   "id": 136156949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40376,49.008091,8.40376,49.008091",
     "geom:latitude":49.008091,
     "geom:longitude":8.40376,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 211029",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136156949,
-    "wof:lastmodified":1449075172,
+    "wof:lastmodified":1466219121,
     "wof:name":"Z-server - Ihre Schnelle Internetpr\u00e4senz",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40376,49.008091,8.40376,49.008091],
+  "bbox": [
+    8.40376,
+    49.008091,
+    8.40376,
+    49.008091
+],
   "geometry": {"coordinates":[8.40376,49.008091],"type":"Point"}
 }

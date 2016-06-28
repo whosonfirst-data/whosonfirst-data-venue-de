@@ -2,13 +2,14 @@
   "id": 220048115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.157149,48.720112,9.157149,48.720112",
     "geom:latitude":48.720112,
     "geom:longitude":9.157149,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Salz\u00e4ckerstr. 74c",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220048115,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466215517,
     "wof:name":"Wolfgang Schwanda",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.157149,48.720112,9.157149,48.720112],
+  "bbox": [
+    9.157149,
+    48.720112,
+    9.157149,
+    48.720112
+],
   "geometry": {"coordinates":[9.157149,48.720112],"type":"Point"}
 }

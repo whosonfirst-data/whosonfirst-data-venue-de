@@ -2,13 +2,14 @@
   "id": 202584507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.055336,48.209976,12.055336,48.209976",
     "geom:latitude":48.209976,
     "geom:longitude":12.055336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchner Str. 44",
     "sg:city":"Isen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202584507,
-    "wof:lastmodified":1449060385,
+    "wof:lastmodified":1466217337,
     "wof:name":"Georg Schnellinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.055336,48.209976,12.055336,48.209976],
+  "bbox": [
+    12.055336,
+    48.209976,
+    12.055336,
+    48.209976
+],
   "geometry": {"coordinates":[12.055336,48.209976],"type":"Point"}
 }

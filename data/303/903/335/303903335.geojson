@@ -2,13 +2,14 @@
   "id": 303903335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.488639,49.258953,8.488639,49.258953",
     "geom:latitude":49.258953,
     "geom:longitude":8.488639,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werderstr. 14",
     "sg:city":"Oberhausen-Rheinhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303903335,
-    "wof:lastmodified":1448998264,
+    "wof:lastmodified":1466241226,
     "wof:name":"Hans Leibig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.488639,49.258953,8.488639,49.258953],
+  "bbox": [
+    8.488639,
+    49.258953,
+    8.488639,
+    49.258953
+],
   "geometry": {"coordinates":[8.488639,49.258953],"type":"Point"}
 }

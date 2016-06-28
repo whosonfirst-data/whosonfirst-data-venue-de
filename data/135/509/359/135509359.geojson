@@ -2,13 +2,14 @@
   "id": 135509359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.558178,48.205193,11.558178,48.205193",
     "geom:latitude":48.205193,
     "geom:longitude":11.558178,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardenstr. 7",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905617,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135509359,
-    "wof:lastmodified":1449021099,
+    "wof:lastmodified":1466232483,
     "wof:name":"Manfred Hafner",
     "wof:parent_id":85905617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.558178,48.205193,11.558178,48.205193],
+  "bbox": [
+    11.558178,
+    48.205193,
+    11.558178,
+    48.205193
+],
   "geometry": {"coordinates":[11.558178,48.205193],"type":"Point"}
 }

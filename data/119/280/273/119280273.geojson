@@ -2,13 +2,14 @@
   "id": 119280273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.03,51.010262,11.03,51.010262",
     "geom:latitude":51.010262,
     "geom:longitude":11.03,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Lache 6b",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900121,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85900121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119280273,
-    "wof:lastmodified":1449042142,
+    "wof:lastmodified":1466236665,
     "wof:name":"Th\u00fcringen Sound",
     "wof:parent_id":85900121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.03,51.010262,11.03,51.010262],
+  "bbox": [
+    11.03,
+    51.010262,
+    11.03,
+    51.010262
+],
   "geometry": {"coordinates":[11.03,51.010262],"type":"Point"}
 }

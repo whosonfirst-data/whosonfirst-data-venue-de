@@ -2,13 +2,14 @@
   "id": 186184249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.161042,47.769073,9.161042,47.769073",
     "geom:latitude":47.769073,
     "geom:longitude":9.161042,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Susogasse 10",
     "sg:city":"\u00dcberlingen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186184249,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466215120,
     "wof:name":"Susohaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.161042,47.769073,9.161042,47.769073],
+  "bbox": [
+    9.161042,
+    47.769073,
+    9.161042,
+    47.769073
+],
   "geometry": {"coordinates":[9.161042,47.769073],"type":"Point"}
 }

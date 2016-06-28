@@ -2,13 +2,14 @@
   "id": 152744351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.234479,51.551785,7.234479,51.551785",
     "geom:latitude":51.551785,
     "geom:longitude":7.234479,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Von-Waldthausen Str.120",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863255,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152744351,
-    "wof:lastmodified":1449045979,
+    "wof:lastmodified":1466225701,
     "wof:name":"1&1 Profiseller Shop Martina Lang",
     "wof:parent_id":85863255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.234479,51.551785,7.234479,51.551785],
+  "bbox": [
+    7.234479,
+    51.551785,
+    7.234479,
+    51.551785
+],
   "geometry": {"coordinates":[7.234479,51.551785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186536917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.159019,52.849968,11.159019,52.849968",
     "geom:latitude":52.849968,
     "geom:longitude":11.159019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedensring 5",
     "sg:city":"Salzwedel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186536917,
-    "wof:lastmodified":1449051973,
+    "wof:lastmodified":1466218970,
     "wof:name":"Thomas Burkhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.159019,52.849968,11.159019,52.849968],
+  "bbox": [
+    11.159019,
+    52.849968,
+    11.159019,
+    52.849968
+],
   "geometry": {"coordinates":[11.159019,52.849968],"type":"Point"}
 }

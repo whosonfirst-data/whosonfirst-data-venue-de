@@ -2,13 +2,14 @@
   "id": 270160203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.050098,48.577595,8.050098,48.577595",
     "geom:latitude":48.577595,
     "geom:longitude":8.050098,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberkircher Str. 25",
     "sg:city":"Renchen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270160203,
-    "wof:lastmodified":1449010684,
+    "wof:lastmodified":1466225112,
     "wof:name":"Anton Ebert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.050098,48.577595,8.050098,48.577595],
+  "bbox": [
+    8.050098,
+    48.577595,
+    8.050098,
+    48.577595
+],
   "geometry": {"coordinates":[8.050098,48.577595],"type":"Point"}
 }

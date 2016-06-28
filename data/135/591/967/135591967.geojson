@@ -2,13 +2,14 @@
   "id": 135591967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.407112,48.179108,11.407112,48.179108",
     "geom:latitude":48.179108,
     "geom:longitude":11.407112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pretzfelder Str. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899549
+        85633111,
+        85899549,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135591967,
-    "wof:lastmodified":1449022629,
+    "wof:lastmodified":1466238637,
     "wof:name":"Willi Lingmann",
     "wof:parent_id":85899549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.407112,48.179108,11.407112,48.179108],
+  "bbox": [
+    11.407112,
+    48.179108,
+    11.407112,
+    48.179108
+],
   "geometry": {"coordinates":[11.407112,48.179108],"type":"Point"}
 }

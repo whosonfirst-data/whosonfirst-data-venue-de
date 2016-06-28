@@ -2,13 +2,14 @@
   "id": 253690445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.689031,53.866783,10.689031,53.866783",
     "geom:latitude":53.866783,
     "geom:longitude":10.689031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fleischhauerstr. 41",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253690445,
-    "wof:lastmodified":1449064386,
+    "wof:lastmodified":1466233566,
     "wof:name":"G. Wirbuleit",
     "wof:parent_id":85905713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.689031,53.866783,10.689031,53.866783],
+  "bbox": [
+    10.689031,
+    53.866783,
+    10.689031,
+    53.866783
+],
   "geometry": {"coordinates":[10.689031,53.866783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152602967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.818738,53.058292,8.818738,53.058292",
     "geom:latitude":53.058292,
     "geom:longitude":8.818738,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Grashof-Str. 21-23",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795591,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152602967,
-    "wof:lastmodified":1449046478,
+    "wof:lastmodified":1466222559,
     "wof:name":"Petersmann Beteiligungs-gmbh",
     "wof:parent_id":85795591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.818738,53.058292,8.818738,53.058292],
+  "bbox": [
+    8.818738,
+    53.058292,
+    8.818738,
+    53.058292
+],
   "geometry": {"coordinates":[8.818738,53.058292],"type":"Point"}
 }

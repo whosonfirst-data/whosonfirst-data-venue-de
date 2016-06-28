@@ -2,13 +2,14 @@
   "id": 270442495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.384598,44.842911,-119.384598,44.842911",
     "geom:latitude":44.842911,
     "geom:longitude":-119.384598,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstr 10",
     "sg:city":"Partenstein",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":270442495,
-    "wof:lastmodified":1449009709,
+    "wof:lastmodified":1466232175,
     "wof:name":"Mario Sanden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.384598,44.842911,-119.384598,44.842911],
+  "bbox": [
+    -119.384598,
+    44.842911,
+    -119.384598,
+    44.842911
+],
   "geometry": {"coordinates":[-119.384598,44.842911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202456779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.242173,50.097431,8.242173,50.097431",
     "geom:latitude":50.097431,
     "geom:longitude":8.242173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freseniusstr. 51",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202456779,
-    "wof:lastmodified":1449060868,
+    "wof:lastmodified":1466214804,
     "wof:name":"Harry Stapf",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.242173,50.097431,8.242173,50.097431],
+  "bbox": [
+    8.242173,
+    50.097431,
+    8.242173,
+    50.097431
+],
   "geometry": {"coordinates":[8.242173,50.097431],"type":"Point"}
 }

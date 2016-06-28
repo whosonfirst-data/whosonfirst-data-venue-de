@@ -2,13 +2,14 @@
   "id": 152702873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.358327,52.501701,13.358327,52.501701",
     "geom:latitude":52.501701,
     "geom:longitude":13.358327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Genthiner Str. 48",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152702873,
-    "wof:lastmodified":1449046611,
+    "wof:lastmodified":1466224696,
     "wof:name":"Cms Beteiligungs Gmbh",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.358327,52.501701,13.358327,52.501701],
+  "bbox": [
+    13.358327,
+    52.501701,
+    13.358327,
+    52.501701
+],
   "geometry": {"coordinates":[13.358327,52.501701],"type":"Point"}
 }

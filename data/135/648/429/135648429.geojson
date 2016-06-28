@@ -2,13 +2,14 @@
   "id": 135648429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.350489,51.456543,7.350489,51.456543",
     "geom:latitude":51.456543,
     "geom:longitude":7.350489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Liegnitzer Str. 3",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85796543
+        85633111,
+        85796543,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135648429,
-    "wof:lastmodified":1449021835,
+    "wof:lastmodified":1466240879,
     "wof:name":"K\u00fcppers Baustoffe Gmbh",
     "wof:parent_id":85796543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.350489,51.456543,7.350489,51.456543],
+  "bbox": [
+    7.350489,
+    51.456543,
+    7.350489,
+    51.456543
+],
   "geometry": {"coordinates":[7.350489,51.456543],"type":"Point"}
 }

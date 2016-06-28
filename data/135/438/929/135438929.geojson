@@ -2,13 +2,14 @@
   "id": 135438929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.459535,48.856602,11.459535,48.856602",
     "geom:latitude":48.856602,
     "geom:longitude":11.459535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westerhofener Str. 1",
     "sg:city":"Stammham",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135438929,
-    "wof:lastmodified":1449022032,
+    "wof:lastmodified":1466226203,
     "wof:name":"Sparkasse Ingolstadt",
     "wof:parent_id":101783231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.459535,48.856602,11.459535,48.856602],
+  "bbox": [
+    11.459535,
+    48.856602,
+    11.459535,
+    48.856602
+],
   "geometry": {"coordinates":[11.459535,48.856602],"type":"Point"}
 }

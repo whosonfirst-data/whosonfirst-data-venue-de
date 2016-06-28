@@ -2,13 +2,14 @@
   "id": 202881923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.889033,49.895432,10.889033,49.895432",
     "geom:latitude":49.895432,
     "geom:longitude":10.889033,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenstr. 30",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202881923,
-    "wof:lastmodified":1449061588,
+    "wof:lastmodified":1466222788,
     "wof:name":"Adam Kleinlein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.889033,49.895432,10.889033,49.895432],
+  "bbox": [
+    10.889033,
+    49.895432,
+    10.889033,
+    49.895432
+],
   "geometry": {"coordinates":[10.889033,49.895432],"type":"Point"}
 }

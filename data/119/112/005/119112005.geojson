@@ -2,13 +2,14 @@
   "id": 119112005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.743537,51.025913,13.743537,51.025913",
     "geom:latitude":51.025913,
     "geom:longitude":13.743537,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-Wiegler-Str. 3",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899929,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119112005,
-    "wof:lastmodified":1449042055,
+    "wof:lastmodified":1466221181,
     "wof:name":"Prof. Eberhard Just Architekt",
     "wof:parent_id":85899929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.743537,51.025913,13.743537,51.025913],
+  "bbox": [
+    13.743537,
+    51.025913,
+    13.743537,
+    51.025913
+],
   "geometry": {"coordinates":[13.743537,51.025913],"type":"Point"}
 }

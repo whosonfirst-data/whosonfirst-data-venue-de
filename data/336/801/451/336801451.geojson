@@ -2,13 +2,14 @@
   "id": 336801451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.128073,49.048286,12.128073,49.048286",
     "geom:latitude":49.048286,
     "geom:longitude":12.128073,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brennbergstr. 28",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336801451,
-    "wof:lastmodified":1448997846,
+    "wof:lastmodified":1466237371,
     "wof:name":"Hermann Neff Elektromeister",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.128073,49.048286,12.128073,49.048286],
+  "bbox": [
+    12.128073,
+    49.048286,
+    12.128073,
+    49.048286
+],
   "geometry": {"coordinates":[12.128073,49.048286],"type":"Point"}
 }

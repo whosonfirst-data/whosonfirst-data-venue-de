@@ -2,13 +2,14 @@
   "id": 269682545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.407323,49.001724,8.407323,49.001724",
     "geom:latitude":49.001724,
     "geom:longitude":8.407323,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werderstr. 41",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269682545,
-    "wof:lastmodified":1449036543,
+    "wof:lastmodified":1466225515,
     "wof:name":"Computer-egeling",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.407323,49.001724,8.407323,49.001724],
+  "bbox": [
+    8.407323,
+    49.001724,
+    8.407323,
+    49.001724
+],
   "geometry": {"coordinates":[8.407323,49.001724],"type":"Point"}
 }

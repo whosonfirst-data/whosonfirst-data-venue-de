@@ -2,13 +2,14 @@
   "id": 136126419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.324669,48.886154,2.324669,48.886154",
     "geom:latitude":48.886154,
     "geom:longitude":2.324669,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"15 rue helene",
     "sg:city":"paris",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"75017",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136126419,
-    "wof:lastmodified":1449075408,
+    "wof:lastmodified":1466217831,
     "wof:name":"Solidarite2000",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.324669,48.886154,2.324669,48.886154],
+  "bbox": [
+    2.324669,
+    48.886154,
+    2.324669,
+    48.886154
+],
   "geometry": {"coordinates":[2.324669,48.886154],"type":"Point"}
 }

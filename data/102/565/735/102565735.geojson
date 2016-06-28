@@ -2,13 +2,14 @@
   "id": 102565735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.203636,51.231514,11.203636,51.231514",
     "geom:latitude":51.231514,
     "geom:longitude":11.203636,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Schillingstedt",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":102565735,
-    "wof:lastmodified":1449069983,
+    "wof:lastmodified":1466213130,
     "wof:name":"Gemeindeschwesterstation Schillingstedt",
     "wof:parent_id":101908941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.203636,51.231514,11.203636,51.231514],
+  "bbox": [
+    11.203636,
+    51.231514,
+    11.203636,
+    51.231514
+],
   "geometry": {"coordinates":[11.203636,51.231514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152343251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.223675,48.771229,8.223675,48.771229",
     "geom:latitude":48.771229,
     "geom:longitude":8.223675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenbahnstr. 25",
     "sg:city":"Baden-Baden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152343251,
-    "wof:lastmodified":1449047577,
+    "wof:lastmodified":1466217062,
     "wof:name":"Amphora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.223675,48.771229,8.223675,48.771229],
+  "bbox": [
+    8.223675,
+    48.771229,
+    8.223675,
+    48.771229
+],
   "geometry": {"coordinates":[8.223675,48.771229],"type":"Point"}
 }

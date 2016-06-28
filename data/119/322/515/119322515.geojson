@@ -2,13 +2,14 @@
   "id": 119322515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.50681,52.71172,8.50681,52.71172",
     "geom:latitude":52.71172,
     "geom:longitude":8.50681,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brinkstr. 25",
     "sg:city":"Barnstorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119322515,
-    "wof:lastmodified":1449040859,
+    "wof:lastmodified":1466238449,
     "wof:name":"H. Schmidt",
     "wof:parent_id":101807917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.50681,52.71172,8.50681,52.71172],
+  "bbox": [
+    8.50681,
+    52.71172,
+    8.50681,
+    52.71172
+],
   "geometry": {"coordinates":[8.50681,52.71172],"type":"Point"}
 }

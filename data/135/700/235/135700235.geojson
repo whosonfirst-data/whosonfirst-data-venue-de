@@ -2,13 +2,14 @@
   "id": 135700235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.797417,51.21188,6.797417,51.21188",
     "geom:latitude":51.21188,
     "geom:longitude":6.797417,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kruppstr. 72",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135700235,
-    "wof:lastmodified":1449023743,
+    "wof:lastmodified":1466242191,
     "wof:name":"Thiel Immobilien",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.797417,51.21188,6.797417,51.21188],
+  "bbox": [
+    6.797417,
+    51.21188,
+    6.797417,
+    51.21188
+],
   "geometry": {"coordinates":[6.797417,51.21188],"type":"Point"}
 }

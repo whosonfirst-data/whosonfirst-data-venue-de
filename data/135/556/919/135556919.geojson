@@ -2,13 +2,14 @@
   "id": 135556919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.611241,52.083004,11.611241,52.083004",
     "geom:latitude":52.083004,
     "geom:longitude":11.611241,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Junoweg 60",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899185,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135556919,
-    "wof:lastmodified":1449021737,
+    "wof:lastmodified":1466236349,
     "wof:name":"Hausbau Partner Gmbh",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.611241,52.083004,11.611241,52.083004],
+  "bbox": [
+    11.611241,
+    52.083004,
+    11.611241,
+    52.083004
+],
   "geometry": {"coordinates":[11.611241,52.083004],"type":"Point"}
 }

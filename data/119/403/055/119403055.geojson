@@ -2,13 +2,14 @@
   "id": 119403055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.123695,48.441486,11.123695,48.441486",
     "geom:latitude":48.441486,
     "geom:longitude":11.123695,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hanns-Martin-Schleyer-Str. 2",
     "sg:city":"Aichach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119403055,
-    "wof:lastmodified":1449043159,
+    "wof:lastmodified":1466241603,
     "wof:name":"Johann Oswald",
     "wof:parent_id":101784155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.123695,48.441486,11.123695,48.441486],
+  "bbox": [
+    11.123695,
+    48.441486,
+    11.123695,
+    48.441486
+],
   "geometry": {"coordinates":[11.123695,48.441486],"type":"Point"}
 }

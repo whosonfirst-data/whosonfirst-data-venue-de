@@ -2,13 +2,14 @@
   "id": 135539717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.98979,53.702991,9.98979,53.702991",
     "geom:latitude":53.702991,
     "geom:longitude":9.98979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidbergstr. 35",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900063,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135539717,
-    "wof:lastmodified":1449024049,
+    "wof:lastmodified":1466235287,
     "wof:name":"Baugesch\u00e4ft Saar Bau- Und Restaurierungskonzept Gmbh",
     "wof:parent_id":85900063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.98979,53.702991,9.98979,53.702991],
+  "bbox": [
+    9.98979,
+    53.702991,
+    9.98979,
+    53.702991
+],
   "geometry": {"coordinates":[9.98979,53.702991],"type":"Point"}
 }

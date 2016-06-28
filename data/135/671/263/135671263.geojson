@@ -2,13 +2,14 @@
   "id": 135671263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.686654,53.863953,10.686654,53.863953",
     "geom:latitude":53.863953,
     "geom:longitude":10.686654,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigstr. 123 -125",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899971,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85899971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135671263,
-    "wof:lastmodified":1449021676,
+    "wof:lastmodified":1466241851,
     "wof:name":"Regale Center Gmbh",
     "wof:parent_id":85899971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.686654,53.863953,10.686654,53.863953],
+  "bbox": [
+    10.686654,
+    53.863953,
+    10.686654,
+    53.863953
+],
   "geometry": {"coordinates":[10.686654,53.863953],"type":"Point"}
 }

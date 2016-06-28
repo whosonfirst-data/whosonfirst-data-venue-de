@@ -2,13 +2,14 @@
   "id": 119526753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.016544,49.186012,11.016544,49.186012",
     "geom:latitude":49.186012,
     "geom:longitude":11.016544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 6",
     "sg:city":"Georgensgm\u00fcnd",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119526753,
-    "wof:lastmodified":1449041593,
+    "wof:lastmodified":1466243914,
     "wof:name":"Georg Schmidt",
     "wof:parent_id":101782047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.016544,49.186012,11.016544,49.186012],
+  "bbox": [
+    11.016544,
+    49.186012,
+    11.016544,
+    49.186012
+],
   "geometry": {"coordinates":[11.016544,49.186012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135545639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.371636,49.028053,8.371636,49.028053",
     "geom:latitude":49.028053,
     "geom:longitude":8.371636,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stresemannstr. 35",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063385,
-        85633111,
         85682567,
-        85796067
+        85633111,
+        85796067,
+        102063385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135545639,
-    "wof:lastmodified":1449021714,
+    "wof:lastmodified":1466235698,
     "wof:name":"Amella Gmbh",
     "wof:parent_id":85796067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.371636,49.028053,8.371636,49.028053],
+  "bbox": [
+    8.371636,
+    49.028053,
+    8.371636,
+    49.028053
+],
   "geometry": {"coordinates":[8.371636,49.028053],"type":"Point"}
 }

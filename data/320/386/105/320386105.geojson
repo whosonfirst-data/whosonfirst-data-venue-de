@@ -2,13 +2,14 @@
   "id": 320386105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.788217,48.097099,9.788217,48.097099",
     "geom:latitude":48.097099,
     "geom:longitude":9.788217,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schrannenstr. 12",
     "sg:city":"Biberach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320386105,
-    "wof:lastmodified":1449013220,
+    "wof:lastmodified":1466239920,
     "wof:name":"Marcus Schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.788217,48.097099,9.788217,48.097099],
+  "bbox": [
+    9.788217,
+    48.097099,
+    9.788217,
+    48.097099
+],
   "geometry": {"coordinates":[9.788217,48.097099],"type":"Point"}
 }

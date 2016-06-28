@@ -2,13 +2,14 @@
   "id": 320652015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.248965,51.220829,7.248965,51.220829",
     "geom:latitude":51.220829,
     "geom:longitude":7.248965,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luckhauser Str. 1-5",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320652015,
-    "wof:lastmodified":1449013668,
+    "wof:lastmodified":1466242214,
     "wof:name":"Karl Diederichs",
     "wof:parent_id":85795921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.248965,51.220829,7.248965,51.220829],
+  "bbox": [
+    7.248965,
+    51.220829,
+    7.248965,
+    51.220829
+],
   "geometry": {"coordinates":[7.248965,51.220829],"type":"Point"}
 }

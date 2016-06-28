@@ -2,13 +2,14 @@
   "id": 118958403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.094979,49.48455,11.094979,49.48455",
     "geom:latitude":49.48455,
     "geom:longitude":11.094979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienbergstr 82",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900279,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118958403,
-    "wof:lastmodified":1449054253,
+    "wof:lastmodified":1466238434,
     "wof:name":"Edv-beratung Gentner Gmbh",
     "wof:parent_id":85900279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.094979,49.48455,11.094979,49.48455],
+  "bbox": [
+    11.094979,
+    49.48455,
+    11.094979,
+    49.48455
+],
   "geometry": {"coordinates":[11.094979,49.48455],"type":"Point"}
 }

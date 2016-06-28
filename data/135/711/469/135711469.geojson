@@ -2,13 +2,14 @@
   "id": 135711469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.0024,51.104721,7.0024,51.104721",
     "geom:latitude":51.104721,
     "geom:longitude":7.0024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moltkestr. 25",
     "sg:city":"Leichlingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85862913
+        85633111,
+        85862913,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135711469,
-    "wof:lastmodified":1449023471,
+    "wof:lastmodified":1466242750,
     "wof:name":"Zeibig Wohnbau Gmbh",
     "wof:parent_id":85862913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.0024,51.104721,7.0024,51.104721],
+  "bbox": [
+    7.0024,
+    51.104721,
+    7.0024,
+    51.104721
+],
   "geometry": {"coordinates":[7.0024,51.104721],"type":"Point"}
 }

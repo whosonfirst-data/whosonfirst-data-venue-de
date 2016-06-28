@@ -2,13 +2,14 @@
   "id": 118512547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.079365,51.463566,7.079365,51.463566",
     "geom:latitude":51.463566,
     "geom:longitude":7.079365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Essen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865109,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85865109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118512547,
-    "wof:lastmodified":1449054159,
+    "wof:lastmodified":1466213092,
     "wof:name":"Die Fu\u00dfball-wm 2006 In Deutschland",
     "wof:parent_id":85865109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.079365,51.463566,7.079365,51.463566],
+  "bbox": [
+    7.079365,
+    51.463566,
+    7.079365,
+    51.463566
+],
   "geometry": {"coordinates":[7.079365,51.463566],"type":"Point"}
 }

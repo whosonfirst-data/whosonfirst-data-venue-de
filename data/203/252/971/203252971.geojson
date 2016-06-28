@@ -2,13 +2,14 @@
   "id": 203252971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.001946,49.573872,11.001946,49.573872",
     "geom:latitude":49.573872,
     "geom:longitude":11.001946,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcnther-Scharowsky-Str. 11",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203252971,
-    "wof:lastmodified":1449025191,
+    "wof:lastmodified":1466218088,
     "wof:name":"Erich Mayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.001946,49.573872,11.001946,49.573872],
+  "bbox": [
+    11.001946,
+    49.573872,
+    11.001946,
+    49.573872
+],
   "geometry": {"coordinates":[11.001946,49.573872],"type":"Point"}
 }

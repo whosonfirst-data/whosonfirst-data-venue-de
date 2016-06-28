@@ -2,13 +2,14 @@
   "id": 152274325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.001404,49.465408,11.001404,49.465408",
     "geom:latitude":49.465408,
     "geom:longitude":11.001404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 160",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899305,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152274325,
-    "wof:lastmodified":1449044870,
+    "wof:lastmodified":1466215583,
     "wof:name":"G\u00fcnther Tilp",
     "wof:parent_id":85899305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.001404,49.465408,11.001404,49.465408],
+  "bbox": [
+    11.001404,
+    49.465408,
+    11.001404,
+    49.465408
+],
   "geometry": {"coordinates":[11.001404,49.465408],"type":"Point"}
 }

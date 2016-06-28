@@ -2,13 +2,14 @@
   "id": 236570043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.483621,48.478336,10.483621,48.478336",
     "geom:latitude":48.478336,
     "geom:longitude":10.483621,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstr. 26",
     "sg:city":"Winterbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236570043,
-    "wof:lastmodified":1449003636,
+    "wof:lastmodified":1466229308,
     "wof:name":"Ernst Schlosser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.483621,48.478336,10.483621,48.478336],
+  "bbox": [
+    10.483621,
+    48.478336,
+    10.483621,
+    48.478336
+],
   "geometry": {"coordinates":[10.483621,48.478336],"type":"Point"}
 }

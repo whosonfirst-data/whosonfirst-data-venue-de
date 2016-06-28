@@ -2,13 +2,14 @@
   "id": 152417585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.139878,51.528881,7.139878,51.528881",
     "geom:latitude":51.528881,
     "geom:longitude":7.139878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Erlenkamp 22",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795595,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85795595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152417585,
-    "wof:lastmodified":1449046198,
+    "wof:lastmodified":1466218496,
     "wof:name":"Ernst Schmidtfranz",
     "wof:parent_id":85795595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.139878,51.528881,7.139878,51.528881],
+  "bbox": [
+    7.139878,
+    51.528881,
+    7.139878,
+    51.528881
+],
   "geometry": {"coordinates":[7.139878,51.528881],"type":"Point"}
 }

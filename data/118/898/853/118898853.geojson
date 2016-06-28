@@ -2,13 +2,14 @@
   "id": 118898853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.528052,48.151798,11.528052,48.151798",
     "geom:latitude":48.151798,
     "geom:longitude":11.528052,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wendl-Dietrich-Str. 21 c",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118898853,
-    "wof:lastmodified":1449053117,
+    "wof:lastmodified":1466235748,
     "wof:name":"Isenstein-apotheke",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.528052,48.151798,11.528052,48.151798],
+  "bbox": [
+    11.528052,
+    48.151798,
+    11.528052,
+    48.151798
+],
   "geometry": {"coordinates":[11.528052,48.151798],"type":"Point"}
 }

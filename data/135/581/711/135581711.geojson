@@ -2,13 +2,14 @@
   "id": 135581711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.324314,48.043694,9.324314,48.043694",
     "geom:latitude":48.043694,
     "geom:longitude":9.324314,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert-Schweitzer-Str. 4",
     "sg:city":"Mengen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135581711,
-    "wof:lastmodified":1449021622,
+    "wof:lastmodified":1466238354,
     "wof:name":"Alfred Steurer",
     "wof:parent_id":101764231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.324314,48.043694,9.324314,48.043694],
+  "bbox": [
+    9.324314,
+    48.043694,
+    9.324314,
+    48.043694
+],
   "geometry": {"coordinates":[9.324314,48.043694],"type":"Point"}
 }

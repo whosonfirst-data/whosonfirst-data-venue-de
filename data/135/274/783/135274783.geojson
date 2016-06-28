@@ -2,13 +2,14 @@
   "id": 135274783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.388531,51.385391,7.388531,51.385391",
     "geom:latitude":51.385391,
     "geom:longitude":7.388531,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 88",
     "sg:city":"Wetter",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794961
+        85633111,
+        85794961,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135274783,
-    "wof:lastmodified":1449021351,
+    "wof:lastmodified":1466219156,
     "wof:name":"Heribert Kamm",
     "wof:parent_id":85794961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.388531,51.385391,7.388531,51.385391],
+  "bbox": [
+    7.388531,
+    51.385391,
+    7.388531,
+    51.385391
+],
   "geometry": {"coordinates":[7.388531,51.385391],"type":"Point"}
 }

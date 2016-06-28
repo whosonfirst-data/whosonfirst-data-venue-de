@@ -2,13 +2,14 @@
   "id": 119009077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.467565,48.093288,11.467565,48.093288",
     "geom:latitude":48.093288,
     "geom:longitude":11.467565,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bichlmairstr. 6 b",
     "sg:city":"Neuried",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899163
+        85633111,
+        85899163,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119009077,
-    "wof:lastmodified":1449043512,
+    "wof:lastmodified":1466218822,
     "wof:name":"Franz Brand Architekt",
     "wof:parent_id":85899163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.467565,48.093288,11.467565,48.093288],
+  "bbox": [
+    11.467565,
+    48.093288,
+    11.467565,
+    48.093288
+],
   "geometry": {"coordinates":[11.467565,48.093288],"type":"Point"}
 }

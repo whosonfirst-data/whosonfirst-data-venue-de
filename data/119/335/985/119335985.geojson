@@ -2,13 +2,14 @@
   "id": 119335985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.862894,51.225643,6.862894,51.225643",
     "geom:latitude":51.225643,
     "geom:longitude":6.862894,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heyestr. 105",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795323,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119335985,
-    "wof:lastmodified":1449042644,
+    "wof:lastmodified":1466239123,
     "wof:name":"Hkh Skoruppa",
     "wof:parent_id":85795323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.862894,51.225643,6.862894,51.225643],
+  "bbox": [
+    6.862894,
+    51.225643,
+    6.862894,
+    51.225643
+],
   "geometry": {"coordinates":[6.862894,51.225643],"type":"Point"}
 }

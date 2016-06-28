@@ -2,13 +2,14 @@
   "id": 152717965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.149963,51.224483,7.149963,51.224483",
     "geom:latitude":51.224483,
     "geom:longitude":7.149963,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Korzerter Str. 18",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796159,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152717965,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1466225098,
     "wof:name":"Hans Dietrich Betonwerk Und Dolomitsteinbruch",
     "wof:parent_id":85796159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.149963,51.224483,7.149963,51.224483],
+  "bbox": [
+    7.149963,
+    51.224483,
+    7.149963,
+    51.224483
+],
   "geometry": {"coordinates":[7.149963,51.224483],"type":"Point"}
 }

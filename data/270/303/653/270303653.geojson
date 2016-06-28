@@ -2,13 +2,14 @@
   "id": 270303653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.979316,49.340221,9.979316,49.340221",
     "geom:latitude":49.340221,
     "geom:longitude":9.979316,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blaufeldener Str. 64",
     "sg:city":"Schrozberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270303653,
-    "wof:lastmodified":1449008675,
+    "wof:lastmodified":1466228502,
     "wof:name":"Werner Hanselmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.979316,49.340221,9.979316,49.340221],
+  "bbox": [
+    9.979316,
+    49.340221,
+    9.979316,
+    49.340221
+],
   "geometry": {"coordinates":[9.979316,49.340221],"type":"Point"}
 }

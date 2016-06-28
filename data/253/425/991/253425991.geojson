@@ -2,13 +2,14 @@
   "id": 253425991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.02201,51.389343,7.02201,51.389343",
     "geom:latitude":51.389343,
     "geom:longitude":7.02201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wintgenhof 14",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253425991,
-    "wof:lastmodified":1449063874,
+    "wof:lastmodified":1466227510,
     "wof:name":"Paul Schmitz",
     "wof:parent_id":85795419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.02201,51.389343,7.02201,51.389343],
+  "bbox": [
+    7.02201,
+    51.389343,
+    7.02201,
+    51.389343
+],
   "geometry": {"coordinates":[7.02201,51.389343],"type":"Point"}
 }

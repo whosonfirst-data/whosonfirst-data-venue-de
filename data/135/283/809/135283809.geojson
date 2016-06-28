@@ -2,13 +2,14 @@
   "id": 135283809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.860167,50.319721,9.860167,50.319721",
     "geom:latitude":50.319721,
     "geom:longitude":9.860167,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sinntalstr. 1",
     "sg:city":"Riedenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135283809,
-    "wof:lastmodified":1449021904,
+    "wof:lastmodified":1466233331,
     "wof:name":"Josef Sell",
     "wof:parent_id":101812063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.860167,50.319721,9.860167,50.319721],
+  "bbox": [
+    9.860167,
+    50.319721,
+    9.860167,
+    50.319721
+],
   "geometry": {"coordinates":[9.860167,50.319721],"type":"Point"}
 }

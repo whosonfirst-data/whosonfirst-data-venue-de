@@ -2,13 +2,14 @@
   "id": 119022377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.607078,52.282204,10.607078,52.282204",
     "geom:latitude":52.282204,
     "geom:longitude":10.607078,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Sieke 8 a",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063903,
-        85633111,
         85682555,
-        85900013
+        85633111,
+        85900013,
+        102063903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119022377,
-    "wof:lastmodified":1449041668,
+    "wof:lastmodified":1466234587,
     "wof:name":"Gie\u00dfelmann Architekt",
     "wof:parent_id":85900013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.607078,52.282204,10.607078,52.282204],
+  "bbox": [
+    10.607078,
+    52.282204,
+    10.607078,
+    52.282204
+],
   "geometry": {"coordinates":[10.607078,52.282204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135792113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.017022,50.956188,7.017022,50.956188",
     "geom:latitude":50.956188,
     "geom:longitude":7.017022,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Wipperf\u00fcrther Str. 58",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862991,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85862991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135792113,
-    "wof:lastmodified":1449021634,
+    "wof:lastmodified":1466244044,
     "wof:name":"R. Loos",
     "wof:parent_id":85862991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.017022,50.956188,7.017022,50.956188],
+  "bbox": [
+    7.017022,
+    50.956188,
+    7.017022,
+    50.956188
+],
   "geometry": {"coordinates":[7.017022,50.956188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118833245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.963805,51.659882,6.963805,51.659882",
     "geom:latitude":51.659882,
     "geom:longitude":6.963805,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Essener Str. 8",
     "sg:city":"Dorsten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118833245,
-    "wof:lastmodified":1449053323,
+    "wof:lastmodified":1466231731,
     "wof:name":"Markt-apotheke Marion Lukosch E. Kfr.",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.963805,51.659882,6.963805,51.659882],
+  "bbox": [
+    6.963805,
+    51.659882,
+    6.963805,
+    51.659882
+],
   "geometry": {"coordinates":[6.963805,51.659882],"type":"Point"}
 }

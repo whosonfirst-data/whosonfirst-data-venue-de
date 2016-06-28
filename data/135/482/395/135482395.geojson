@@ -2,13 +2,14 @@
   "id": 135482395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.180251,51.890945,10.180251,51.890945",
     "geom:latitude":51.890945,
     "geom:longitude":10.180251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jacobsonstr. 50",
     "sg:city":"Seesen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135482395,
-    "wof:lastmodified":1449022075,
+    "wof:lastmodified":1466230039,
     "wof:name":"Le Chat",
     "wof:parent_id":101809033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.180251,51.890945,10.180251,51.890945],
+  "bbox": [
+    10.180251,
+    51.890945,
+    10.180251,
+    51.890945
+],
   "geometry": {"coordinates":[10.180251,51.890945],"type":"Point"}
 }

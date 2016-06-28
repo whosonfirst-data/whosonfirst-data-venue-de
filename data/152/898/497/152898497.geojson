@@ -2,13 +2,14 @@
   "id": 152898497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.09743,53.620758,10.09743,53.620758",
     "geom:latitude":53.620758,
     "geom:longitude":10.09743,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am St\u00fchm-S\u00fcd 20",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899895,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152898497,
-    "wof:lastmodified":1449044190,
+    "wof:lastmodified":1466229368,
     "wof:name":"Peters Online Flohmarkt",
     "wof:parent_id":85899895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.09743,53.620758,10.09743,53.620758],
+  "bbox": [
+    10.09743,
+    53.620758,
+    10.09743,
+    53.620758
+],
   "geometry": {"coordinates":[10.09743,53.620758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119001523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.11574,51.421101,7.11574,51.421101",
     "geom:latitude":51.421101,
     "geom:longitude":7.11574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holteyer Str. 62",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794713,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85794713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119001523,
-    "wof:lastmodified":1449041412,
+    "wof:lastmodified":1466213164,
     "wof:name":"Egon Pabst Architekt",
     "wof:parent_id":85794713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.11574,51.421101,7.11574,51.421101],
+  "bbox": [
+    7.11574,
+    51.421101,
+    7.11574,
+    51.421101
+],
   "geometry": {"coordinates":[7.11574,51.421101],"type":"Point"}
 }

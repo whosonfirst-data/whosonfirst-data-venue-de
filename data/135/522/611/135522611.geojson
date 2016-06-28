@@ -2,13 +2,14 @@
   "id": 135522611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.081169,50.752228,7.081169,50.752228",
     "geom:latitude":50.752228,
     "geom:longitude":7.081169,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seehausstr. 64",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135522611,
-    "wof:lastmodified":1449022456,
+    "wof:lastmodified":1466233692,
     "wof:name":"G. Pl\u00fcck",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.081169,50.752228,7.081169,50.752228],
+  "bbox": [
+    7.081169,
+    50.752228,
+    7.081169,
+    50.752228
+],
   "geometry": {"coordinates":[7.081169,50.752228],"type":"Point"}
 }

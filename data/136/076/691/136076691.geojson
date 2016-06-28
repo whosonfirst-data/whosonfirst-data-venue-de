@@ -2,13 +2,14 @@
   "id": 136076691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.16024,50.754616,7.16024,50.754616",
     "geom:latitude":50.754616,
     "geom:longitude":7.16024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lnstra\u00dfe",
     "sg:city":"Sankt Augustin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795723,
+        85682513,
         85633111,
         101748605,
         102063683,
-        85682513
+        85795723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136076691,
-    "wof:lastmodified":1449075946,
+    "wof:lastmodified":1466215640,
     "wof:name":"Hublift Wa\u00dfer - Mit Sicherheit Hoch Hinaus",
     "wof:parent_id":85795723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.16024,50.754616,7.16024,50.754616],
+  "bbox": [
+    7.16024,
+    50.754616,
+    7.16024,
+    50.754616
+],
   "geometry": {"coordinates":[7.16024,50.754616],"type":"Point"}
 }

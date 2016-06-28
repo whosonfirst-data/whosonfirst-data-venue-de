@@ -2,13 +2,14 @@
   "id": 135328315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.061539,51.205528,9.061539,51.205528",
     "geom:latitude":51.205528,
     "geom:longitude":9.061539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 4",
     "sg:city":"Waldeck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135328315,
-    "wof:lastmodified":1449022802,
+    "wof:lastmodified":1466216196,
     "wof:name":"Willi Hankel",
     "wof:parent_id":101810109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.061539,51.205528,9.061539,51.205528],
+  "bbox": [
+    9.061539,
+    51.205528,
+    9.061539,
+    51.205528
+],
   "geometry": {"coordinates":[9.061539,51.205528],"type":"Point"}
 }

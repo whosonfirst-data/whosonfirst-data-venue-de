@@ -2,13 +2,14 @@
   "id": 135392605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.699489,50.589005,12.699489,50.589005",
     "geom:latitude":50.589005,
     "geom:longitude":12.699489,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1127:: 08271 Aue:: Germany.^^Postfach 10 028:: Altmarkt 6::",
     "sg:city":"Aue",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135392605,
-    "wof:lastmodified":1449023419,
+    "wof:lastmodified":1466222245,
     "wof:name":"Kreissparkasse Aue-schwarzenberg",
     "wof:parent_id":101841197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.699489,50.589005,12.699489,50.589005],
+  "bbox": [
+    12.699489,
+    50.589005,
+    12.699489,
+    50.589005
+],
   "geometry": {"coordinates":[12.699489,50.589005],"type":"Point"}
 }

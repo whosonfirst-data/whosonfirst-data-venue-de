@@ -2,13 +2,14 @@
   "id": 136233617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.486188,52.00153,8.486188,52.00153",
     "geom:latitude":52.00153,
     "geom:longitude":8.486188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilfriedstr. 39",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063869,
-        85633111,
         85682513,
-        85863233
+        85633111,
+        85863233,
+        102063869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136233617,
-    "wof:lastmodified":1449076290,
+    "wof:lastmodified":1466223212,
     "wof:name":"Lohoff",
     "wof:parent_id":85863233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.486188,52.00153,8.486188,52.00153],
+  "bbox": [
+    8.486188,
+    52.00153,
+    8.486188,
+    52.00153
+],
   "geometry": {"coordinates":[8.486188,52.00153],"type":"Point"}
 }

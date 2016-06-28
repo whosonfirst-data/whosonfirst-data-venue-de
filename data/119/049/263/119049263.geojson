@@ -2,13 +2,14 @@
   "id": 119049263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.005865,51.582886,7.005865,51.582886",
     "geom:latitude":51.582886,
     "geom:longitude":7.005865,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Allinghofstr. 38",
     "sg:city":"Gladbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795021,
+        85682513,
         85633111,
         101748747,
         102063831,
-        85682513
+        85795021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119049263,
-    "wof:lastmodified":1449042158,
+    "wof:lastmodified":1466215307,
     "wof:name":"Helmut H\u00f6ffelmann Architekt",
     "wof:parent_id":85795021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.005865,51.582886,7.005865,51.582886],
+  "bbox": [
+    7.005865,
+    51.582886,
+    7.005865,
+    51.582886
+],
   "geometry": {"coordinates":[7.005865,51.582886],"type":"Point"}
 }

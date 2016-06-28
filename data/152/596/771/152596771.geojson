@@ -2,13 +2,14 @@
   "id": 152596771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.079121,51.185337,7.079121,51.185337",
     "geom:latitude":51.185337,
     "geom:longitude":7.079121,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlagbaumer Str. 73",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862909,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85862909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152596771,
-    "wof:lastmodified":1449046670,
+    "wof:lastmodified":1466222421,
     "wof:name":"Kn\u00f6pke Gmbh",
     "wof:parent_id":85862909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.079121,51.185337,7.079121,51.185337],
+  "bbox": [
+    7.079121,
+    51.185337,
+    7.079121,
+    51.185337
+],
   "geometry": {"coordinates":[7.079121,51.185337],"type":"Point"}
 }

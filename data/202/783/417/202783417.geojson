@@ -2,13 +2,14 @@
   "id": 202783417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.30869,52.510326,13.30869,52.510326",
     "geom:latitude":52.510326,
     "geom:longitude":13.30869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 32",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202783417,
-    "wof:lastmodified":1449060173,
+    "wof:lastmodified":1466220940,
     "wof:name":"Peter Fischer Kunstmaler",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.30869,52.510326,13.30869,52.510326],
+  "bbox": [
+    13.30869,
+    52.510326,
+    13.30869,
+    52.510326
+],
   "geometry": {"coordinates":[13.30869,52.510326],"type":"Point"}
 }

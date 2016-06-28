@@ -2,13 +2,14 @@
   "id": 152625635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17197,48.709103,9.17197,48.709103",
     "geom:latitude":48.709103,
     "geom:longitude":9.17197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zettachring 8",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85862803
+        85633111,
+        85862803,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152625635,
-    "wof:lastmodified":1449048967,
+    "wof:lastmodified":1466223043,
     "wof:name":"Akomarket Pr Ges. F\u00fcr \u00d6ffentlichkeits-",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17197,48.709103,9.17197,48.709103],
+  "bbox": [
+    9.17197,
+    48.709103,
+    9.17197,
+    48.709103
+],
   "geometry": {"coordinates":[9.17197,48.709103],"type":"Point"}
 }

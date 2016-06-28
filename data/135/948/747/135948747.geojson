@@ -2,13 +2,14 @@
   "id": 135948747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.025205,51.055958,7.025205,51.055958",
     "geom:latitude":51.055958,
     "geom:longitude":7.025205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maybachstr. 33",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863017,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85863017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135948747,
-    "wof:lastmodified":1449023401,
+    "wof:lastmodified":1466244751,
     "wof:name":"Koopmann Beteiligungs-gmbh",
     "wof:parent_id":85863017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.025205,51.055958,7.025205,51.055958],
+  "bbox": [
+    7.025205,
+    51.055958,
+    7.025205,
+    51.055958
+],
   "geometry": {"coordinates":[7.025205,51.055958],"type":"Point"}
 }

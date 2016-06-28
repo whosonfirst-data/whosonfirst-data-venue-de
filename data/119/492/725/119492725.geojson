@@ -2,13 +2,14 @@
   "id": 119492725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.231312,52.5858,13.231312,52.5858",
     "geom:latitude":52.5858,
     "geom:longitude":13.231312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Habichtstr. 11-13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85900125
+        85633111,
+        85900125,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119492725,
-    "wof:lastmodified":1449040878,
+    "wof:lastmodified":1466243485,
     "wof:name":"Uwe H\u00fcgel Gmbh",
     "wof:parent_id":85900125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.231312,52.5858,13.231312,52.5858],
+  "bbox": [
+    13.231312,
+    52.5858,
+    13.231312,
+    52.5858
+],
   "geometry": {"coordinates":[13.231312,52.5858],"type":"Point"}
 }

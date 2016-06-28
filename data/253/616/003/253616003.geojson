@@ -2,13 +2,14 @@
   "id": 253616003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.749661,52.388504,9.749661,52.388504",
     "geom:latitude":52.388504,
     "geom:longitude":9.749661,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lister Meile 89",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253616003,
-    "wof:lastmodified":1449065005,
+    "wof:lastmodified":1466231801,
     "wof:name":"Billerbeck",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.749661,52.388504,9.749661,52.388504],
+  "bbox": [
+    9.749661,
+    52.388504,
+    9.749661,
+    52.388504
+],
   "geometry": {"coordinates":[9.749661,52.388504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152542389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.18656,51.180901,7.18656,51.180901",
     "geom:latitude":51.180901,
     "geom:longitude":7.18656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alleestr. 71",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862897,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152542389,
-    "wof:lastmodified":1449047884,
+    "wof:lastmodified":1466221175,
     "wof:name":"Emil M\u00fcller Beteiligungs-gmbh",
     "wof:parent_id":85862897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.18656,51.180901,7.18656,51.180901],
+  "bbox": [
+    7.18656,
+    51.180901,
+    7.18656,
+    51.180901
+],
   "geometry": {"coordinates":[7.18656,51.180901],"type":"Point"}
 }

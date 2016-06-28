@@ -2,13 +2,14 @@
   "id": 135438455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.094275,48.254829,10.094275,48.254829",
     "geom:latitude":48.254829,
     "geom:longitude":10.094275,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Memminger Str. 23a",
     "sg:city":"Bellenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135438455,
-    "wof:lastmodified":1449022035,
+    "wof:lastmodified":1466226161,
     "wof:name":"Sparkasse Illertissen",
     "wof:parent_id":101764339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.094275,48.254829,10.094275,48.254829],
+  "bbox": [
+    10.094275,
+    48.254829,
+    10.094275,
+    48.254829
+],
   "geometry": {"coordinates":[10.094275,48.254829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320494721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.532807,48.120857,11.532807,48.120857",
     "geom:latitude":48.120857,
     "geom:longitude":11.532807,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortlerstr. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320494721,
-    "wof:lastmodified":1449014552,
+    "wof:lastmodified":1466240809,
     "wof:name":"Martin Barthel Gmbh",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.532807,48.120857,11.532807,48.120857],
+  "bbox": [
+    11.532807,
+    48.120857,
+    11.532807,
+    48.120857
+],
   "geometry": {"coordinates":[11.532807,48.120857],"type":"Point"}
 }

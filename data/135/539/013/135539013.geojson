@@ -2,13 +2,14 @@
   "id": 135539013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.38966,52.488937,13.38966,52.488937",
     "geom:latitude":52.488937,
     "geom:longitude":13.38966,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nostitzstr. 30",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135539013,
-    "wof:lastmodified":1449024051,
+    "wof:lastmodified":1466235221,
     "wof:name":"H.h.f.f. Baumanagement Gmbh",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.38966,52.488937,13.38966,52.488937],
+  "bbox": [
+    13.38966,
+    52.488937,
+    13.38966,
+    52.488937
+],
   "geometry": {"coordinates":[13.38966,52.488937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119254979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.477294,52.479805,13.477294,52.479805",
     "geom:latitude":52.479805,
     "geom:longitude":13.477294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Galileistr. 26",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928789,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119254979,
-    "wof:lastmodified":1449042719,
+    "wof:lastmodified":1466234085,
     "wof:name":"Dr. B. Sahm",
     "wof:parent_id":85928789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.477294,52.479805,13.477294,52.479805],
+  "bbox": [
+    13.477294,
+    52.479805,
+    13.477294,
+    52.479805
+],
   "geometry": {"coordinates":[13.477294,52.479805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135397067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.186781,50.776829,7.186781,50.776829",
     "geom:latitude":50.776829,
     "geom:longitude":7.186781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markt 71",
     "sg:city":"St. Augustin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795723,
+        85682513,
         85633111,
         101748605,
         102063683,
-        85682513
+        85795723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135397067,
-    "wof:lastmodified":1449022200,
+    "wof:lastmodified":1466222598,
     "wof:name":"Kreissparkasse In Siegburg",
     "wof:parent_id":85795723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.186781,50.776829,7.186781,50.776829],
+  "bbox": [
+    7.186781,
+    50.776829,
+    7.186781,
+    50.776829
+],
   "geometry": {"coordinates":[7.186781,50.776829],"type":"Point"}
 }

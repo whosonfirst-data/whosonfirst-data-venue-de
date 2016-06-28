@@ -2,13 +2,14 @@
   "id": 119256941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.58462,52.58604,13.58462,52.58604",
     "geom:latitude":52.58604,
     "geom:longitude":13.58462,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenstr. 45",
     "sg:city":"Ahrensfelde",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899733,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119256941,
-    "wof:lastmodified":1449042875,
+    "wof:lastmodified":1466234298,
     "wof:name":"Dr. Med. August Fengler",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.58462,52.58604,13.58462,52.58604],
+  "bbox": [
+    13.58462,
+    52.58604,
+    13.58462,
+    52.58604
+],
   "geometry": {"coordinates":[13.58462,52.58604],"type":"Point"}
 }

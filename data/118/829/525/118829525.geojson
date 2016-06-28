@@ -2,13 +2,14 @@
   "id": 118829525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.443114,52.498253,13.443114,52.498253",
     "geom:latitude":52.498253,
     "geom:longitude":13.443114,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wrangelstr. 78",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928793,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118829525,
-    "wof:lastmodified":1449054450,
+    "wof:lastmodified":1466231514,
     "wof:name":"Lukas-apotheke Mamoun Tinawi E. K.",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.443114,52.498253,13.443114,52.498253],
+  "bbox": [
+    13.443114,
+    52.498253,
+    13.443114,
+    52.498253
+],
   "geometry": {"coordinates":[13.443114,52.498253],"type":"Point"}
 }

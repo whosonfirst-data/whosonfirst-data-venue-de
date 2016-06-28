@@ -2,13 +2,14 @@
   "id": 286422119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.201773,53.460278,10.201773,53.460278",
     "geom:latitude":53.460278,
     "geom:longitude":10.201773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuengammer Hausdeich 453",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":286422119,
-    "wof:lastmodified":1449015379,
+    "wof:lastmodified":1466228303,
     "wof:name":"Hermann Heitmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.201773,53.460278,10.201773,53.460278],
+  "bbox": [
+    10.201773,
+    53.460278,
+    10.201773,
+    53.460278
+],
   "geometry": {"coordinates":[10.201773,53.460278],"type":"Point"}
 }

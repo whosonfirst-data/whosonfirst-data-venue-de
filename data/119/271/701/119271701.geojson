@@ -2,13 +2,14 @@
   "id": 119271701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.477749,53.889275,11.477749,53.889275",
     "geom:latitude":53.889275,
     "geom:longitude":11.477749,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanenweg 18",
     "sg:city":"Wismar",
     "sg:classifiers":[],
@@ -25,14 +26,20 @@
     "wof:geomhash":"346509c7fca8e38cd3f4388a8ddd2281",
     "wof:hierarchy":[],
     "wof:id":119271701,
-    "wof:lastmodified":1449042244,
+    "wof:lastmodified":1466235712,
     "wof:name":"Hanspeter Wulf",
     "wof:parent_id":101818793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.477749,53.889275,11.477749,53.889275],
+  "bbox": [
+    11.477749,
+    53.889275,
+    11.477749,
+    53.889275
+],
   "geometry": {"coordinates":[11.477749,53.889275],"type":"Point"}
 }

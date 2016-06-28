@@ -2,13 +2,14 @@
   "id": 119257039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.373294,51.350956,12.373294,51.350956",
     "geom:latitude":51.350956,
     "geom:longitude":12.373294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfaffendorfer Str. 50",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119257039,
-    "wof:lastmodified":1449041559,
+    "wof:lastmodified":1466234310,
     "wof:name":"Dr. Med. Barbara Mittelst\u00e4dt",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.373294,51.350956,12.373294,51.350956],
+  "bbox": [
+    12.373294,
+    51.350956,
+    12.373294,
+    51.350956
+],
   "geometry": {"coordinates":[12.373294,51.350956],"type":"Point"}
 }

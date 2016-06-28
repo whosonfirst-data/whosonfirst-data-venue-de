@@ -2,13 +2,14 @@
   "id": 152659619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.119325,49.465874,11.119325,49.465874",
     "geom:latitude":49.465874,
     "geom:longitude":11.119325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steuerwald-Landmann-Str. 13",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900215,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152659619,
-    "wof:lastmodified":1449044800,
+    "wof:lastmodified":1466223767,
     "wof:name":"Innotec Verwaltungs-gmbh",
     "wof:parent_id":85900215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.119325,49.465874,11.119325,49.465874],
+  "bbox": [
+    11.119325,
+    49.465874,
+    11.119325,
+    49.465874
+],
   "geometry": {"coordinates":[11.119325,49.465874],"type":"Point"}
 }

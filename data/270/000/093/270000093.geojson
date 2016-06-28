@@ -2,13 +2,14 @@
   "id": 270000093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.375292,50.08276,8.375292,50.08276",
     "geom:latitude":50.08276,
     "geom:longitude":8.375292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf der Ahl 109",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270000093,
-    "wof:lastmodified":1449009019,
+    "wof:lastmodified":1466235284,
     "wof:name":"J\u00fcrgen Bauer",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.375292,50.08276,8.375292,50.08276],
+  "bbox": [
+    8.375292,
+    50.08276,
+    8.375292,
+    50.08276
+],
   "geometry": {"coordinates":[8.375292,50.08276],"type":"Point"}
 }

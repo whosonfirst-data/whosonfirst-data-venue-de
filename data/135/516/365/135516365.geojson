@@ -2,13 +2,14 @@
   "id": 135516365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.99851,49.457767,10.99851,49.457767",
     "geom:latitude":49.457767,
     "geom:longitude":10.99851,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fronm\u00fcllerstr. 42",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899305,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135516365,
-    "wof:lastmodified":1449021556,
+    "wof:lastmodified":1466233127,
     "wof:name":"Akin Bau Gmbh",
     "wof:parent_id":85899305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.99851,49.457767,10.99851,49.457767],
+  "bbox": [
+    10.99851,
+    49.457767,
+    10.99851,
+    49.457767
+],
   "geometry": {"coordinates":[10.99851,49.457767],"type":"Point"}
 }

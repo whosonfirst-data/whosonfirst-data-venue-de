@@ -2,13 +2,14 @@
   "id": 303431793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.477301,50.849705,12.477301,50.849705",
     "geom:latitude":50.849705,
     "geom:longitude":12.477301,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwigstr. 19",
     "sg:city":"Meerane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303431793,
-    "wof:lastmodified":1448998448,
+    "wof:lastmodified":1466235614,
     "wof:name":"Werner Schuhknecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.477301,50.849705,12.477301,50.849705],
+  "bbox": [
+    12.477301,
+    50.849705,
+    12.477301,
+    50.849705
+],
   "geometry": {"coordinates":[12.477301,50.849705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202810859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552017,52.048733,8.552017,52.048733",
     "geom:latitude":52.048733,
     "geom:longitude":8.552017,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Pfarracker 67",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202810859,
-    "wof:lastmodified":1449060859,
+    "wof:lastmodified":1466221420,
     "wof:name":"Max Ernst",
     "wof:parent_id":85794931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.552017,52.048733,8.552017,52.048733],
+  "bbox": [
+    8.552017,
+    52.048733,
+    8.552017,
+    52.048733
+],
   "geometry": {"coordinates":[8.552017,52.048733],"type":"Point"}
 }

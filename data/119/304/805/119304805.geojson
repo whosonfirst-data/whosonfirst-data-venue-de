@@ -2,13 +2,14 @@
   "id": 119304805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.488096,48.585903,13.488096,48.585903",
     "geom:latitude":48.585903,
     "geom:longitude":13.488096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Abteistr. 44",
     "sg:city":"Passau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119304805,
-    "wof:lastmodified":1449042850,
+    "wof:lastmodified":1466237585,
     "wof:name":"Ernst Schreck",
     "wof:parent_id":101748495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.488096,48.585903,13.488096,48.585903],
+  "bbox": [
+    13.488096,
+    48.585903,
+    13.488096,
+    48.585903
+],
   "geometry": {"coordinates":[13.488096,48.585903],"type":"Point"}
 }

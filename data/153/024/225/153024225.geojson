@@ -2,13 +2,14 @@
   "id": 153024225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.189395,54.334698,10.189395,54.334698",
     "geom:latitude":54.334698,
     "geom:longitude":10.189395,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holstent\u00f6rn 9",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899097,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153024225,
-    "wof:lastmodified":1449040549,
+    "wof:lastmodified":1466235116,
     "wof:name":"Lornsenschule Schleswig (gymnasium)",
     "wof:parent_id":85899097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.189395,54.334698,10.189395,54.334698],
+  "bbox": [
+    10.189395,
+    54.334698,
+    10.189395,
+    54.334698
+],
   "geometry": {"coordinates":[10.189395,54.334698],"type":"Point"}
 }

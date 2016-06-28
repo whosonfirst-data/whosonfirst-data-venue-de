@@ -2,13 +2,14 @@
   "id": 303735595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.97693,49.752201,9.97693,49.752201",
     "geom:latitude":49.752201,
     "geom:longitude":9.97693,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterh\u00e4user Str. 25",
     "sg:city":"W\u00fcrzburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303735595,
-    "wof:lastmodified":1449000511,
+    "wof:lastmodified":1466239918,
     "wof:name":"Schmitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.97693,49.752201,9.97693,49.752201],
+  "bbox": [
+    9.97693,
+    49.752201,
+    9.97693,
+    49.752201
+],
   "geometry": {"coordinates":[9.97693,49.752201],"type":"Point"}
 }

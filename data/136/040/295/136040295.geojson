@@ -2,13 +2,14 @@
   "id": 136040295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.510406,25.601,-80.510406,25.601",
     "geom:latitude":25.601,
     "geom:longitude":-80.510406,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"freeboxweg",
     "sg:city":"freeboxcity",
     "sg:classifiers":[],
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":136040295,
-    "wof:lastmodified":1449076236,
+    "wof:lastmodified":1466213961,
     "wof:name":"D-box - Crack",
     "wof:parent_id":85688651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.510406,25.601,-80.510406,25.601],
+  "bbox": [
+    -80.510406,
+    25.601,
+    -80.510406,
+    25.601
+],
   "geometry": {"coordinates":[-80.510406,25.601],"type":"Point"}
 }

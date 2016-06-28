@@ -2,13 +2,14 @@
   "id": 118700925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.866337,49.445595,11.866337,49.445595",
     "geom:latitude":49.445595,
     "geom:longitude":11.866337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 9",
     "sg:city":"Amberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118700925,
-    "wof:lastmodified":1449054425,
+    "wof:lastmodified":1466223978,
     "wof:name":"Die Johanniter",
     "wof:parent_id":101842175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.866337,49.445595,11.866337,49.445595],
+  "bbox": [
+    11.866337,
+    49.445595,
+    11.866337,
+    49.445595
+],
   "geometry": {"coordinates":[11.866337,49.445595],"type":"Point"}
 }

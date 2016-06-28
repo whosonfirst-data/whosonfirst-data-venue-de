@@ -2,13 +2,14 @@
   "id": 135404831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.939235,50.938419,6.939235,50.938419",
     "geom:latitude":50.938419,
     "geom:longitude":6.939235,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohenzollernring 31-35",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135404831,
-    "wof:lastmodified":1449023013,
+    "wof:lastmodified":1466223224,
     "wof:name":"K\u00f6lner Bank V.1867 Eg, Volksbank",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.939235,50.938419,6.939235,50.938419],
+  "bbox": [
+    6.939235,
+    50.938419,
+    6.939235,
+    50.938419
+],
   "geometry": {"coordinates":[6.939235,50.938419],"type":"Point"}
 }

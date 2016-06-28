@@ -2,13 +2,14 @@
   "id": 135709333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.00129,51.463791,12.00129,51.463791",
     "geom:latitude":51.463791,
     "geom:longitude":12.00129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nu\u00dfweg 14 a",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899983,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85899983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135709333,
-    "wof:lastmodified":1449021583,
+    "wof:lastmodified":1466242629,
     "wof:name":"Bau Atelier Halle Gmbh",
     "wof:parent_id":85899983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.00129,51.463791,12.00129,51.463791],
+  "bbox": [
+    12.00129,
+    51.463791,
+    12.00129,
+    51.463791
+],
   "geometry": {"coordinates":[12.00129,51.463791],"type":"Point"}
 }

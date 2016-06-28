@@ -2,13 +2,14 @@
   "id": 119262849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.587228,52.510452,13.587228,52.510452",
     "geom:latitude":52.510452,
     "geom:longitude":13.587228,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00e4dewalder Weg 57",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119262849,
-    "wof:lastmodified":1449042512,
+    "wof:lastmodified":1466234903,
     "wof:name":"Dr. Med. Horst M\u00fchlberg",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.587228,52.510452,13.587228,52.510452],
+  "bbox": [
+    13.587228,
+    52.510452,
+    13.587228,
+    52.510452
+],
   "geometry": {"coordinates":[13.587228,52.510452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119092787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.121994,49.445984,11.121994,49.445984",
     "geom:latitude":49.445984,
     "geom:longitude":11.121994,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Passauer Str. 15",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119092787,
-    "wof:lastmodified":1449043008,
+    "wof:lastmodified":1466219359,
     "wof:name":"Manfred Helm Architekt",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.121994,49.445984,11.121994,49.445984],
+  "bbox": [
+    11.121994,
+    49.445984,
+    11.121994,
+    49.445984
+],
   "geometry": {"coordinates":[11.121994,49.445984],"type":"Point"}
 }

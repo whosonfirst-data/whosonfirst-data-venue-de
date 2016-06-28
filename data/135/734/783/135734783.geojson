@@ -2,13 +2,14 @@
   "id": 135734783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.449246,49.480446,8.449246,49.480446",
     "geom:latitude":49.480446,
     "geom:longitude":8.449246,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 34",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135734783,
-    "wof:lastmodified":1449023628,
+    "wof:lastmodified":1466243162,
     "wof:name":"Andreas Krett",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.449246,49.480446,8.449246,49.480446],
+  "bbox": [
+    8.449246,
+    49.480446,
+    8.449246,
+    49.480446
+],
   "geometry": {"coordinates":[8.449246,49.480446],"type":"Point"}
 }

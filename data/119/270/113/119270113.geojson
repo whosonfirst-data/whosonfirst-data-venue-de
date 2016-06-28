@@ -2,13 +2,14 @@
   "id": 119270113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.448083,52.516205,13.448083,52.516205",
     "geom:latitude":52.516205,
     "geom:longitude":13.448083,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Allee 122",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899171,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119270113,
-    "wof:lastmodified":1449041303,
+    "wof:lastmodified":1466235600,
     "wof:name":"Dr. R. Seidner",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.448083,52.516205,13.448083,52.516205],
+  "bbox": [
+    13.448083,
+    52.516205,
+    13.448083,
+    52.516205
+],
   "geometry": {"coordinates":[13.448083,52.516205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135297669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.068194,50.774979,7.068194,50.774979",
     "geom:latitude":50.774979,
     "geom:longitude":7.068194,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorfstr. 22",
     "sg:city":"Niederkassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795017,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135297669,
-    "wof:lastmodified":1449022928,
+    "wof:lastmodified":1466213622,
     "wof:name":"M. Menden",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.068194,50.774979,7.068194,50.774979],
+  "bbox": [
+    7.068194,
+    50.774979,
+    7.068194,
+    50.774979
+],
   "geometry": {"coordinates":[7.068194,50.774979],"type":"Point"}
 }

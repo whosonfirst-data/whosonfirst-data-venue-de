@@ -2,13 +2,14 @@
   "id": 202604131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.666733,50.149811,8.666733,50.149811",
     "geom:latitude":50.149811,
     "geom:longitude":8.666733,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dehnhardtstr. 25",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202604131,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466217689,
     "wof:name":"Distrisan Gmbh",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.666733,50.149811,8.666733,50.149811],
+  "bbox": [
+    8.666733,
+    50.149811,
+    8.666733,
+    50.149811
+],
   "geometry": {"coordinates":[8.666733,50.149811],"type":"Point"}
 }

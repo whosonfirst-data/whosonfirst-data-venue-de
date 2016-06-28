@@ -2,13 +2,14 @@
   "id": 136118159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.377905,51.36388,12.377905,51.36388",
     "geom:latitude":51.36388,
     "geom:longitude":12.377905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcckertstr. 12",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136118159,
-    "wof:lastmodified":1449075978,
+    "wof:lastmodified":1466217506,
     "wof:name":"Sachverst\u00e4ndigenarbeit F\u00fcr Holzschutz",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.377905,51.36388,12.377905,51.36388],
+  "bbox": [
+    12.377905,
+    51.36388,
+    12.377905,
+    51.36388
+],
   "geometry": {"coordinates":[12.377905,51.36388],"type":"Point"}
 }

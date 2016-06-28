@@ -2,13 +2,14 @@
   "id": 118978357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.070218,53.608486,10.070218,53.608486",
     "geom:latitude":53.608486,
     "geom:longitude":10.070218,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steilshooper Allee 424",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900079,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118978357,
-    "wof:lastmodified":1449053963,
+    "wof:lastmodified":1466238827,
     "wof:name":"Atelier 70 Bautechnischer Entwurf Und Planungsring F\u00fcr",
     "wof:parent_id":85900079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.070218,53.608486,10.070218,53.608486],
+  "bbox": [
+    10.070218,
+    53.608486,
+    10.070218,
+    53.608486
+],
   "geometry": {"coordinates":[10.070218,53.608486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118721137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.98791,49.478249,10.98791,49.478249",
     "geom:latitude":49.478249,
     "geom:longitude":10.98791,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigstr. 76",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118721137,
-    "wof:lastmodified":1449054534,
+    "wof:lastmodified":1466225077,
     "wof:name":"J. Schwandt & I. Wongsurawat",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.98791,49.478249,10.98791,49.478249],
+  "bbox": [
+    10.98791,
+    49.478249,
+    10.98791,
+    49.478249
+],
   "geometry": {"coordinates":[10.98791,49.478249],"type":"Point"}
 }

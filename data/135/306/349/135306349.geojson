@@ -2,13 +2,14 @@
   "id": 135306349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.329534,48.878555,8.329534,48.878555",
     "geom:latitude":48.878555,
     "geom:longitude":8.329534,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neudorfstr. 68",
     "sg:city":"Malsch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135306349,
-    "wof:lastmodified":1449023861,
+    "wof:lastmodified":1466214314,
     "wof:name":"Paul Reichert",
     "wof:parent_id":101762025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.329534,48.878555,8.329534,48.878555],
+  "bbox": [
+    8.329534,
+    48.878555,
+    8.329534,
+    48.878555
+],
   "geometry": {"coordinates":[8.329534,48.878555],"type":"Point"}
 }

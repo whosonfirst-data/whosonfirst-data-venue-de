@@ -2,13 +2,14 @@
   "id": 152405195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.466253,52.517704,13.466253,52.517704",
     "geom:latitude":52.517704,
     "geom:longitude":13.466253,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4nschstr. 58",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899171,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152405195,
-    "wof:lastmodified":1449048536,
+    "wof:lastmodified":1466218245,
     "wof:name":"Rudolf Hoffmann Bestattungshaus Gmbh",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.466253,52.517704,13.466253,52.517704],
+  "bbox": [
+    13.466253,
+    52.517704,
+    13.466253,
+    52.517704
+],
   "geometry": {"coordinates":[13.466253,52.517704],"type":"Point"}
 }

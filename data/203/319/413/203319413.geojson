@@ -2,13 +2,14 @@
   "id": 203319413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.245145,48.775753,12.245145,48.775753",
     "geom:latitude":48.775753,
     "geom:longitude":12.245145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Petersberg 3",
     "sg:city":"Mallersdorf-Pfaffenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203319413,
-    "wof:lastmodified":1449025689,
+    "wof:lastmodified":1466219164,
     "wof:name":"Franz Volkmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.245145,48.775753,12.245145,48.775753],
+  "bbox": [
+    12.245145,
+    48.775753,
+    12.245145,
+    48.775753
+],
   "geometry": {"coordinates":[12.245145,48.775753],"type":"Point"}
 }

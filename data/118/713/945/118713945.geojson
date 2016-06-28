@@ -2,13 +2,14 @@
   "id": 118713945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.987826,53.554108,9.987826,53.554108",
     "geom:latitude":53.554108,
     "geom:longitude":9.987826,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr. 51",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899367,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118713945,
-    "wof:lastmodified":1449054417,
+    "wof:lastmodified":1466224670,
     "wof:name":"Hamburger Fachdienst F\u00fcr Berufsbegleitende Psychosoz.",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.987826,53.554108,9.987826,53.554108],
+  "bbox": [
+    9.987826,
+    53.554108,
+    9.987826,
+    53.554108
+],
   "geometry": {"coordinates":[9.987826,53.554108],"type":"Point"}
 }

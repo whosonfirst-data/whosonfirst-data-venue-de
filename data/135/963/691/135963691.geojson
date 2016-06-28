@@ -2,13 +2,14 @@
   "id": 135963691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.959537,53.639645,9.959537,53.639645",
     "geom:latitude":53.639645,
     "geom:longitude":9.959537,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sachsenweg 66",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899181,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135963691,
-    "wof:lastmodified":1449021285,
+    "wof:lastmodified":1466244832,
     "wof:name":"Sachsenweg 66 Beteiligungsges. Mbh",
     "wof:parent_id":85899181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.959537,53.639645,9.959537,53.639645],
+  "bbox": [
+    9.959537,
+    53.639645,
+    9.959537,
+    53.639645
+],
   "geometry": {"coordinates":[9.959537,53.639645],"type":"Point"}
 }

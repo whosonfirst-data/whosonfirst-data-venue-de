@@ -2,13 +2,14 @@
   "id": 303062741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.518751,48.092548,11.518751,48.092548",
     "geom:latitude":48.092548,
     "geom:longitude":11.518751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldafinger Str 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303062741,
-    "wof:lastmodified":1449000388,
+    "wof:lastmodified":1466226079,
     "wof:name":"Heinz Link",
     "wof:parent_id":85899853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.518751,48.092548,11.518751,48.092548],
+  "bbox": [
+    11.518751,
+    48.092548,
+    11.518751,
+    48.092548
+],
   "geometry": {"coordinates":[11.518751,48.092548],"type":"Point"}
 }

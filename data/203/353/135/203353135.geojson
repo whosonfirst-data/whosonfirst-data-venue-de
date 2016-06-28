@@ -2,13 +2,14 @@
   "id": 203353135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.335315,49.866257,8.335315,49.866257",
     "geom:latitude":49.866257,
     "geom:longitude":8.335315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 81",
     "sg:city":"Nierstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203353135,
-    "wof:lastmodified":1449025443,
+    "wof:lastmodified":1466219704,
     "wof:name":"Werner Klein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.335315,49.866257,8.335315,49.866257],
+  "bbox": [
+    8.335315,
+    49.866257,
+    8.335315,
+    49.866257
+],
   "geometry": {"coordinates":[8.335315,49.866257],"type":"Point"}
 }

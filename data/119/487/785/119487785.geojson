@@ -2,13 +2,14 @@
   "id": 119487785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.70748,51.419792,6.70748,51.419792",
     "geom:latitude":51.419792,
     "geom:longitude":6.70748,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Asterlager Str. 94b",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863035,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85863035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119487785,
-    "wof:lastmodified":1449041655,
+    "wof:lastmodified":1466243290,
     "wof:name":"Karl Michels",
     "wof:parent_id":85863035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.70748,51.419792,6.70748,51.419792],
+  "bbox": [
+    6.70748,
+    51.419792,
+    6.70748,
+    51.419792
+],
   "geometry": {"coordinates":[6.70748,51.419792],"type":"Point"}
 }

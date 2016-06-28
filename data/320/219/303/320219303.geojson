@@ -2,13 +2,14 @@
   "id": 320219303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.448215,48.808281,9.448215,48.808281",
     "geom:latitude":48.808281,
     "geom:longitude":9.448215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-En\u00dfle-Str. 66",
     "sg:city":"Remshalden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320219303,
-    "wof:lastmodified":1449014805,
+    "wof:lastmodified":1466237484,
     "wof:name":"Ernst Roos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.448215,48.808281,9.448215,48.808281],
+  "bbox": [
+    9.448215,
+    48.808281,
+    9.448215,
+    48.808281
+],
   "geometry": {"coordinates":[9.448215,48.808281],"type":"Point"}
 }

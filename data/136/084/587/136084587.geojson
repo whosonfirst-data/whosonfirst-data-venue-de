@@ -2,13 +2,14 @@
   "id": 136084587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.158447,51.151436,7.158447,51.151436",
     "geom:latitude":51.151436,
     "geom:longitude":7.158447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuwerk",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85862899
+        85633111,
+        85862899,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136084587,
-    "wof:lastmodified":1449075053,
+    "wof:lastmodified":1466216023,
     "wof:name":"Javo Productions",
     "wof:parent_id":85862899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.158447,51.151436,7.158447,51.151436],
+  "bbox": [
+    7.158447,
+    51.151436,
+    7.158447,
+    51.151436
+],
   "geometry": {"coordinates":[7.158447,51.151436],"type":"Point"}
 }

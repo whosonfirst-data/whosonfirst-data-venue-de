@@ -2,13 +2,14 @@
   "id": 119305111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.555183,47.57795,10.555183,47.57795",
     "geom:latitude":47.57795,
     "geom:longitude":10.555183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adolf-Haff-Weg 3",
     "sg:city":"Pfronten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119305111,
-    "wof:lastmodified":1449041229,
+    "wof:lastmodified":1466237926,
     "wof:name":"Erwin Eberle",
     "wof:parent_id":101788937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.555183,47.57795,10.555183,47.57795],
+  "bbox": [
+    10.555183,
+    47.57795,
+    10.555183,
+    47.57795
+],
   "geometry": {"coordinates":[10.555183,47.57795],"type":"Point"}
 }

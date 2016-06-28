@@ -2,13 +2,14 @@
   "id": 119143087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.614288,50.136566,8.614288,50.136566",
     "geom:latitude":50.136566,
     "geom:longitude":8.614288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Landmann-Str. 162",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119143087,
-    "wof:lastmodified":1449043061,
+    "wof:lastmodified":1466223469,
     "wof:name":"Ursula Braun Architektin",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.614288,50.136566,8.614288,50.136566],
+  "bbox": [
+    8.614288,
+    50.136566,
+    8.614288,
+    50.136566
+],
   "geometry": {"coordinates":[8.614288,50.136566],"type":"Point"}
 }

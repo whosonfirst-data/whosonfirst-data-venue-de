@@ -2,13 +2,14 @@
   "id": 270315825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591545,49.653591,7.591545,49.653591",
     "geom:latitude":49.653591,
     "geom:longitude":7.591545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 26",
     "sg:city":"Lauterecken",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270315825,
-    "wof:lastmodified":1449010995,
+    "wof:lastmodified":1466228803,
     "wof:name":"Peter Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591545,49.653591,7.591545,49.653591],
+  "bbox": [
+    7.591545,
+    49.653591,
+    7.591545,
+    49.653591
+],
   "geometry": {"coordinates":[7.591545,49.653591],"type":"Point"}
 }

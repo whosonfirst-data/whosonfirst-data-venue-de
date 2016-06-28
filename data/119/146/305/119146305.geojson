@@ -2,13 +2,14 @@
   "id": 119146305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.138022,51.281509,7.138022,51.281509",
     "geom:latitude":51.281509,
     "geom:longitude":7.138022,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westfalenweg 125",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862921,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85862921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119146305,
-    "wof:lastmodified":1449041920,
+    "wof:lastmodified":1466223781,
     "wof:name":"W. Kr\u00fcger-crusius Architekt",
     "wof:parent_id":85862921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.138022,51.281509,7.138022,51.281509],
+  "bbox": [
+    7.138022,
+    51.281509,
+    7.138022,
+    51.281509
+],
   "geometry": {"coordinates":[7.138022,51.281509],"type":"Point"}
 }

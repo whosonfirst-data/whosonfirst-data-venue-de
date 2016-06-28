@@ -2,13 +2,14 @@
   "id": 269900563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.973381,49.433575,10.973381,49.433575",
     "geom:latitude":49.433575,
     "geom:longitude":10.973381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stettiner Str. 5",
     "sg:city":"Oberasbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269900563,
-    "wof:lastmodified":1449037166,
+    "wof:lastmodified":1466230718,
     "wof:name":"Andre Albrecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.973381,49.433575,10.973381,49.433575],
+  "bbox": [
+    10.973381,
+    49.433575,
+    10.973381,
+    49.433575
+],
   "geometry": {"coordinates":[10.973381,49.433575],"type":"Point"}
 }

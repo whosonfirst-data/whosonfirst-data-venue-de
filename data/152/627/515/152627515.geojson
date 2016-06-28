@@ -2,13 +2,14 @@
   "id": 152627515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.752788,52.389709,9.752788,52.389709",
     "geom:latitude":52.389709,
     "geom:longitude":9.752788,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Podbielskistr. 16",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152627515,
-    "wof:lastmodified":1449048990,
+    "wof:lastmodified":1466223084,
     "wof:name":"Achtzehnte Dornr\u00f6schen Verm\u00f6gensverwaltungs Gmbh",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.752788,52.389709,9.752788,52.389709],
+  "bbox": [
+    9.752788,
+    52.389709,
+    9.752788,
+    52.389709
+],
   "geometry": {"coordinates":[9.752788,52.389709],"type":"Point"}
 }

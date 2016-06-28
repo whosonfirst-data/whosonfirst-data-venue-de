@@ -2,13 +2,14 @@
   "id": 119463897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.873844,53.06424,8.873844,53.06424",
     "geom:latitude":53.06424,
     "geom:longitude":8.873844,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Rosenberg 50",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795437,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119463897,
-    "wof:lastmodified":1449042736,
+    "wof:lastmodified":1466242979,
     "wof:name":"Automobile Fetter Gmbh",
     "wof:parent_id":85795437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.873844,53.06424,8.873844,53.06424],
+  "bbox": [
+    8.873844,
+    53.06424,
+    8.873844,
+    53.06424
+],
   "geometry": {"coordinates":[8.873844,53.06424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119508667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.364545,52.414692,13.364545,52.414692",
     "geom:latitude":52.414692,
     "geom:longitude":13.364545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienfelder Allee 135",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119508667,
-    "wof:lastmodified":1449042353,
+    "wof:lastmodified":1466243737,
     "wof:name":"B\u00f6hm & J\u00e4nchen B\u00e4ckerei- Betriebs-gmbh",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.364545,52.414692,13.364545,52.414692],
+  "bbox": [
+    13.364545,
+    52.414692,
+    13.364545,
+    52.414692
+],
   "geometry": {"coordinates":[13.364545,52.414692],"type":"Point"}
 }

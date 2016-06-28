@@ -2,13 +2,14 @@
   "id": 136114939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.313,49.429726,8.313,49.429726",
     "geom:latitude":49.429726,
     "geom:longitude":8.313,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedtsr.6",
     "sg:city":"Dannstadt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063479,
-        85633111,
         85682491,
-        85795945
+        85633111,
+        85795945,
+        102063479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136114939,
-    "wof:lastmodified":1449075474,
+    "wof:lastmodified":1466217369,
     "wof:name":"Renner Gmbh-vertrieb Von Laborbedarf",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.313,49.429726,8.313,49.429726],
+  "bbox": [
+    8.313,
+    49.429726,
+    8.313,
+    49.429726
+],
   "geometry": {"coordinates":[8.313,49.429726],"type":"Point"}
 }

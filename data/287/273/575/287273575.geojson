@@ -2,13 +2,14 @@
   "id": 287273575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.47351,52.42487,13.47351,52.42487",
     "geom:latitude":52.42487,
     "geom:longitude":13.47351,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wutzkyallee 52",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287273575,
-    "wof:lastmodified":1449001119,
+    "wof:lastmodified":1466232330,
     "wof:name":"Ernst Heidner",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.47351,52.42487,13.47351,52.42487],
+  "bbox": [
+    13.47351,
+    52.42487,
+    13.47351,
+    52.42487
+],
   "geometry": {"coordinates":[13.47351,52.42487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135335705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.377411,52.56818,13.377411,52.56818",
     "geom:latitude":52.56818,
     "geom:longitude":13.377411,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelbruchzeile 101-103",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905647,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135335705,
-    "wof:lastmodified":1449022998,
+    "wof:lastmodified":1466216821,
     "wof:name":"Modrow-brotfabrik Rudolf Und Horst Modrow Gmbh",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.377411,52.56818,13.377411,52.56818],
+  "bbox": [
+    13.377411,
+    52.56818,
+    13.377411,
+    52.56818
+],
   "geometry": {"coordinates":[13.377411,52.56818],"type":"Point"}
 }

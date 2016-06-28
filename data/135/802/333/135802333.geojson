@@ -2,13 +2,14 @@
   "id": 135802333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593288,52.096508,7.593288,52.096508",
     "geom:latitude":52.096508,
     "geom:longitude":7.593288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Emsdettener Str. 56",
     "sg:city":"Greven",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135802333,
-    "wof:lastmodified":1449023456,
+    "wof:lastmodified":1466244097,
     "wof:name":"Peter Bloom",
     "wof:parent_id":101807635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593288,52.096508,7.593288,52.096508],
+  "bbox": [
+    7.593288,
+    52.096508,
+    7.593288,
+    52.096508
+],
   "geometry": {"coordinates":[7.593288,52.096508],"type":"Point"}
 }

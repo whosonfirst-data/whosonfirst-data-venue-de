@@ -2,13 +2,14 @@
   "id": 119011981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.215669,48.760357,9.215669,48.760357",
     "geom:latitude":48.760357,
     "geom:longitude":9.215669,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosengartenstr. 86",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119011981,
-    "wof:lastmodified":1449043024,
+    "wof:lastmodified":1466219457,
     "wof:name":"Friedrich Belz Architekt",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.215669,48.760357,9.215669,48.760357],
+  "bbox": [
+    9.215669,
+    48.760357,
+    9.215669,
+    48.760357
+],
   "geometry": {"coordinates":[9.215669,48.760357],"type":"Point"}
 }

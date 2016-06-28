@@ -2,13 +2,14 @@
   "id": 118531509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.742696,51.090034,13.742696,51.090034",
     "geom:latitude":51.090034,
     "geom:longitude":13.742696,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerweg 23",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905669,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118531509,
-    "wof:lastmodified":1449053472,
+    "wof:lastmodified":1466214362,
     "wof:name":"Dresdner Abfallver- Wertungsges. Mbh",
     "wof:parent_id":85905669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.742696,51.090034,13.742696,51.090034],
+  "bbox": [
+    13.742696,
+    51.090034,
+    13.742696,
+    51.090034
+],
   "geometry": {"coordinates":[13.742696,51.090034],"type":"Point"}
 }

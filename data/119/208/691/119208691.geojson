@@ -2,13 +2,14 @@
   "id": 119208691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.025457,53.626133,10.025457,53.626133",
     "geom:latitude":53.626133,
     "geom:longitude":10.025457,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ratsm\u00fchlendamm 23",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898949,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119208691,
-    "wof:lastmodified":1449041151,
+    "wof:lastmodified":1466229527,
     "wof:name":"Hambg. \u00d6ffentl. B\u00fccherhallen B\u00fccherhalle Fuhlsb\u00fcttel",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.025457,53.626133,10.025457,53.626133],
+  "bbox": [
+    10.025457,
+    53.626133,
+    10.025457,
+    53.626133
+],
   "geometry": {"coordinates":[10.025457,53.626133],"type":"Point"}
 }

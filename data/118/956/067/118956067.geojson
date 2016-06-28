@@ -2,13 +2,14 @@
   "id": 118956067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.998776,49.40807,10.998776,49.40807",
     "geom:latitude":49.40807,
     "geom:longitude":10.998776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbering 22",
     "sg:city":"Stein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118956067,
-    "wof:lastmodified":1449053372,
+    "wof:lastmodified":1466238225,
     "wof:name":"Karl Walther",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.998776,49.40807,10.998776,49.40807],
+  "bbox": [
+    10.998776,
+    49.40807,
+    10.998776,
+    49.40807
+],
   "geometry": {"coordinates":[10.998776,49.40807],"type":"Point"}
 }

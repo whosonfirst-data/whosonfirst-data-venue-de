@@ -2,13 +2,14 @@
   "id": 286345977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.389801,39.918011,-75.389801,39.918011",
     "geom:latitude":39.918011,
     "geom:longitude":-75.389801,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richenberger Weg 5",
     "sg:city":"Kritzow",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286345977,
-    "wof:lastmodified":1449017864,
+    "wof:lastmodified":1466226560,
     "wof:name":"H. Rexin",
     "wof:parent_id":85806865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.389801,39.918011,-75.389801,39.918011],
-  "geometry": {"coordinates":[-75.389801,39.918011],"type":"Point"}
+  "bbox": [
+    -75.389801,
+    39.918011,
+    -75.389801,
+    39.918011
+],
+  "geometry": {"coordinates":[-75.38980100000001,39.918011],"type":"Point"}
 }

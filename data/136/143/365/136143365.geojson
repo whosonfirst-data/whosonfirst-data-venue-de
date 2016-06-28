@@ -2,13 +2,14 @@
   "id": 136143365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.039264,50.749668,7.039264,50.749668",
     "geom:latitude":50.749668,
     "geom:longitude":7.039264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schweidnitzerweg 6",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795017,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85795017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136143365,
-    "wof:lastmodified":1449076020,
+    "wof:lastmodified":1466218547,
     "wof:name":"W-d-k Veranstaltungen",
     "wof:parent_id":85795017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.039264,50.749668,7.039264,50.749668],
+  "bbox": [
+    7.039264,
+    50.749668,
+    7.039264,
+    50.749668
+],
   "geometry": {"coordinates":[7.039264,50.749668],"type":"Point"}
 }

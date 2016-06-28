@@ -2,13 +2,14 @@
   "id": 336927243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.941494,49.44379,10.941494,49.44379",
     "geom:latitude":49.44379,
     "geom:longitude":10.941494,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ammerndorfer Str. 20",
     "sg:city":"Zirndorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336927243,
-    "wof:lastmodified":1448997904,
+    "wof:lastmodified":1466239277,
     "wof:name":"Joseph Schwarz",
     "wof:parent_id":85899081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.941494,49.44379,10.941494,49.44379],
+  "bbox": [
+    10.941494,
+    49.44379,
+    10.941494,
+    49.44379
+],
   "geometry": {"coordinates":[10.941494,49.44379],"type":"Point"}
 }

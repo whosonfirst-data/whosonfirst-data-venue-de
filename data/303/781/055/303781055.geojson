@@ -2,13 +2,14 @@
   "id": 303781055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.641288,50.080231,8.641288,50.080231",
     "geom:latitude":50.080231,
     "geom:longitude":8.641288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Seliger-Str. 32",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303781055,
-    "wof:lastmodified":1448998573,
+    "wof:lastmodified":1466240288,
     "wof:name":"Erich Gehrmann",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.641288,50.080231,8.641288,50.080231],
+  "bbox": [
+    8.641288,
+    50.080231,
+    8.641288,
+    50.080231
+],
   "geometry": {"coordinates":[8.641288,50.080231],"type":"Point"}
 }

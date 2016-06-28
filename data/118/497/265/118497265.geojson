@@ -2,13 +2,14 @@
   "id": 118497265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.149875,49.430916,9.149875,49.430916",
     "geom:latitude":49.430916,
     "geom:longitude":9.149875,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Fahrenbach",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118497265,
-    "wof:lastmodified":1449054505,
+    "wof:lastmodified":1466218422,
     "wof:name":"Michael Rhein",
     "wof:parent_id":101814745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.149875,49.430916,9.149875,49.430916],
+  "bbox": [
+    9.149875,
+    49.430916,
+    9.149875,
+    49.430916
+],
   "geometry": {"coordinates":[9.149875,49.430916],"type":"Point"}
 }

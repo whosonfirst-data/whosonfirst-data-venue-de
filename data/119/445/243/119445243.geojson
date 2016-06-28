@@ -2,13 +2,14 @@
   "id": 119445243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.619312,52.366058,13.619312,52.366058",
     "geom:latitude":52.366058,
     "geom:longitude":13.619312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"August-Bebel-Allee 43-44",
     "sg:city":"Eichwalde",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063913,
-        85633111,
         85682553,
-        85907689
+        85633111,
+        85907689,
+        102063913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119445243,
-    "wof:lastmodified":1449041189,
+    "wof:lastmodified":1466242658,
     "wof:name":"Innenbaukunst Gmbh",
     "wof:parent_id":85907689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.619312,52.366058,13.619312,52.366058],
+  "bbox": [
+    13.619312,
+    52.366058,
+    13.619312,
+    52.366058
+],
   "geometry": {"coordinates":[13.619312,52.366058],"type":"Point"}
 }

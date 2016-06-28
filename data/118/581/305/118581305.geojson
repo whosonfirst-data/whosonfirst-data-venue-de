@@ -2,13 +2,14 @@
   "id": 118581305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.565207,49.128288,8.565207,49.128288",
     "geom:latitude":49.128288,
     "geom:longitude":8.565207,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Hertz-Str 10",
     "sg:city":"Bruchsal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118581305,
-    "wof:lastmodified":1449053443,
+    "wof:lastmodified":1466217220,
     "wof:name":"Raiffeisen Zentralgenossenschaft Eg",
     "wof:parent_id":101827589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.565207,49.128288,8.565207,49.128288],
+  "bbox": [
+    8.565207,
+    49.128288,
+    8.565207,
+    49.128288
+],
   "geometry": {"coordinates":[8.565207,49.128288],"type":"Point"}
 }

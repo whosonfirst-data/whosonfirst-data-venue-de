@@ -2,13 +2,14 @@
   "id": 202483191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.00152,47.630604,13.00152,47.630604",
     "geom:latitude":47.630604,
     "geom:longitude":13.00152,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maximilianstr. 13",
     "sg:city":"Berchtesgaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202483191,
-    "wof:lastmodified":1449062121,
+    "wof:lastmodified":1466215284,
     "wof:name":"M. Wagner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.00152,47.630604,13.00152,47.630604],
+  "bbox": [
+    13.00152,
+    47.630604,
+    13.00152,
+    47.630604
+],
   "geometry": {"coordinates":[13.00152,47.630604],"type":"Point"}
 }

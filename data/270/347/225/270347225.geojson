@@ -2,13 +2,14 @@
   "id": 270347225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.250351,49.520695,8.250351,49.520695",
     "geom:latitude":49.520695,
     "geom:longitude":8.250351,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wormser Str. 18",
     "sg:city":"Weisenheim am Sand",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270347225,
-    "wof:lastmodified":1449009814,
+    "wof:lastmodified":1466229627,
     "wof:name":"Event Factory E. Kfm.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.250351,49.520695,8.250351,49.520695],
+  "bbox": [
+    8.250351,
+    49.520695,
+    8.250351,
+    49.520695
+],
   "geometry": {"coordinates":[8.250351,49.520695],"type":"Point"}
 }

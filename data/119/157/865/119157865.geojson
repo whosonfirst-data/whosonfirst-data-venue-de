@@ -2,13 +2,14 @@
   "id": 119157865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.023201,50.968319,11.023201,50.968319",
     "geom:latitude":50.968319,
     "geom:longitude":11.023201,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kart\u00e4userstr. 28",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119157865,
-    "wof:lastmodified":1449043154,
+    "wof:lastmodified":1466224843,
     "wof:name":"Winkler Und Dehnel Architekten",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.023201,50.968319,11.023201,50.968319],
+  "bbox": [
+    11.023201,
+    50.968319,
+    11.023201,
+    50.968319
+],
   "geometry": {"coordinates":[11.023201,50.968319],"type":"Point"}
 }

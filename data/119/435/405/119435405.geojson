@@ -2,13 +2,14 @@
   "id": 119435405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.92688,53.069592,8.92688,53.069592",
     "geom:latitude":53.069592,
     "geom:longitude":8.92688,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Hallacker 125",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796293,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119435405,
-    "wof:lastmodified":1449043285,
+    "wof:lastmodified":1466242487,
     "wof:name":"Konzept Tischlerei Buscher",
     "wof:parent_id":85796293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.92688,53.069592,8.92688,53.069592],
+  "bbox": [
+    8.92688,
+    53.069592,
+    8.92688,
+    53.069592
+],
   "geometry": {"coordinates":[8.92688,53.069592],"type":"Point"}
 }

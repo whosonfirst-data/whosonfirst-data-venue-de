@@ -2,13 +2,14 @@
   "id": 135601591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.983137,49.412865,10.983137,49.412865",
     "geom:latitude":49.412865,
     "geom:longitude":10.983137,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstr. 10",
     "sg:city":"Oberasbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135601591,
-    "wof:lastmodified":1449022365,
+    "wof:lastmodified":1466239160,
     "wof:name":"Erwin Hellmuth",
     "wof:parent_id":101755919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.983137,49.412865,10.983137,49.412865],
+  "bbox": [
+    10.983137,
+    49.412865,
+    10.983137,
+    49.412865
+],
   "geometry": {"coordinates":[10.983137,49.412865],"type":"Point"}
 }

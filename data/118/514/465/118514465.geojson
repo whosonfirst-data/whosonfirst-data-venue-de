@@ -2,13 +2,14 @@
   "id": 118514465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.697979,50.116199,8.697979,50.116199",
     "geom:latitude":50.116199,
     "geom:longitude":8.697979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118514465,
-    "wof:lastmodified":1449053856,
+    "wof:lastmodified":1466213213,
     "wof:name":"Uwe\u00b4s Inlineskateschule",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.697979,50.116199,8.697979,50.116199],
+  "bbox": [
+    8.697979,
+    50.116199,
+    8.697979,
+    50.116199
+],
   "geometry": {"coordinates":[8.697979,50.116199],"type":"Point"}
 }

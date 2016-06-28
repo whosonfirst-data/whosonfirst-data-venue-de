@@ -2,13 +2,14 @@
   "id": 102602931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.325975,52.540977,13.325975,52.540977",
     "geom:latitude":52.540977,
     "geom:longitude":13.325975,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saatwinkler Damm 13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102602931,
-    "wof:lastmodified":1449068906,
+    "wof:lastmodified":1466213313,
     "wof:name":"K. Rogge Spezialbau Gmbh",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.325975,52.540977,13.325975,52.540977],
+  "bbox": [
+    13.325975,
+    52.540977,
+    13.325975,
+    52.540977
+],
   "geometry": {"coordinates":[13.325975,52.540977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303139421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564655,48.065464,8.564655,48.065464",
     "geom:latitude":48.065464,
     "geom:longitude":8.564655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbeisstr 41",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303139421,
-    "wof:lastmodified":1448998351,
+    "wof:lastmodified":1466227923,
     "wof:name":"Elmo Motion Control Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564655,48.065464,8.564655,48.065464],
+  "bbox": [
+    8.564655,
+    48.065464,
+    8.564655,
+    48.065464
+],
   "geometry": {"coordinates":[8.564655,48.065464],"type":"Point"}
 }

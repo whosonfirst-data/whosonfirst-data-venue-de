@@ -2,13 +2,14 @@
   "id": 119147829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.242458,48.753029,9.242458,48.753029",
     "geom:latitude":48.753029,
     "geom:longitude":9.242458,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lederbergweg 78",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796165,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119147829,
-    "wof:lastmodified":1449043243,
+    "wof:lastmodified":1466223926,
     "wof:name":"Walter Golembiewski Architekt",
     "wof:parent_id":85796165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.242458,48.753029,9.242458,48.753029],
+  "bbox": [
+    9.242458,
+    48.753029,
+    9.242458,
+    48.753029
+],
   "geometry": {"coordinates":[9.242458,48.753029],"type":"Point"}
 }

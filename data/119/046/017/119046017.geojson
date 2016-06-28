@@ -2,13 +2,14 @@
   "id": 119046017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.076364,50.755634,6.076364,50.755634",
     "geom:latitude":50.755634,
     "geom:longitude":6.076364,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maria-Theresia-Allee 62",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796521,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85796521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119046017,
-    "wof:lastmodified":1449042327,
+    "wof:lastmodified":1466215025,
     "wof:name":"Heinz Rohn Architekt",
     "wof:parent_id":85796521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.076364,50.755634,6.076364,50.755634],
+  "bbox": [
+    6.076364,
+    50.755634,
+    6.076364,
+    50.755634
+],
   "geometry": {"coordinates":[6.076364,50.755634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135969217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.034324,49.195995,7.034324,49.195995",
     "geom:latitude":49.195995,
     "geom:longitude":7.034324,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 23",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071609,
-        85633147,
         85683271,
-        85796413
+        85633147,
+        85796413,
+        102071609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135969217,
-    "wof:lastmodified":1449021709,
+    "wof:lastmodified":1466244807,
     "wof:name":"Burgard Gesch\u00e4ftsf\u00fchrungs Gmbh",
     "wof:parent_id":85796413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.034324,49.195995,7.034324,49.195995],
+  "bbox": [
+    7.034324,
+    49.195995,
+    7.034324,
+    49.195995
+],
   "geometry": {"coordinates":[7.034324,49.195995],"type":"Point"}
 }

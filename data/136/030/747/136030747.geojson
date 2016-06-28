@@ -2,13 +2,14 @@
   "id": 136030747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.22182,52.52631,13.22182,52.52631",
     "geom:latitude":52.52631,
     "geom:longitude":13.22182,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenweg 9 b",
     "sg:city":"Schwante",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899979,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499,
+        85899979,
         85900143
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136030747,
-    "wof:lastmodified":1449075398,
+    "wof:lastmodified":1466213507,
     "wof:name":"Berliner Sprachenschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.22182,52.52631,13.22182,52.52631],
+  "bbox": [
+    13.22182,
+    52.52631,
+    13.22182,
+    52.52631
+],
   "geometry": {"coordinates":[13.22182,52.52631],"type":"Point"}
 }

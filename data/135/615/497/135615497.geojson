@@ -2,13 +2,14 @@
   "id": 135615497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.835956,48.3424,10.835956,48.3424",
     "geom:latitude":48.3424,
     "geom:longitude":10.835956,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Radegundisstr. 99",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135615497,
-    "wof:lastmodified":1449021961,
+    "wof:lastmodified":1466239930,
     "wof:name":"E.-m. Olschewsky",
     "wof:parent_id":101756239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.835956,48.3424,10.835956,48.3424],
+  "bbox": [
+    10.835956,
+    48.3424,
+    10.835956,
+    48.3424
+],
   "geometry": {"coordinates":[10.835956,48.3424],"type":"Point"}
 }

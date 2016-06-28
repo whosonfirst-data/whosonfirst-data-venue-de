@@ -2,13 +2,14 @@
   "id": 202785299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.101002,48.86454,10.101002,48.86454",
     "geom:latitude":48.86454,
     "geom:longitude":10.101002,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schafgasse 26",
     "sg:city":"Aalen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202785299,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466220974,
     "wof:name":"Josef Knoblauch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.101002,48.86454,10.101002,48.86454],
+  "bbox": [
+    10.101002,
+    48.86454,
+    10.101002,
+    48.86454
+],
   "geometry": {"coordinates":[10.101002,48.86454],"type":"Point"}
 }

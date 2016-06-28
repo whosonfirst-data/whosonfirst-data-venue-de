@@ -2,13 +2,14 @@
   "id": 118686733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.950321,51.556301,6.950321,51.556301",
     "geom:latitude":51.556301,
     "geom:longitude":6.950321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Haarbach 69",
     "sg:city":"Gladbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795163,
+        85682513,
         85633111,
         101748747,
         102063831,
-        85682513
+        85795163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118686733,
-    "wof:lastmodified":1449054214,
+    "wof:lastmodified":1466223128,
     "wof:name":"Anke Matschulla Und Silvia Porsch",
     "wof:parent_id":85795163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.950321,51.556301,6.950321,51.556301],
+  "bbox": [
+    6.950321,
+    51.556301,
+    6.950321,
+    51.556301
+],
   "geometry": {"coordinates":[6.950321,51.556301],"type":"Point"}
 }

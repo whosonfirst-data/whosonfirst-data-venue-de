@@ -2,13 +2,14 @@
   "id": 135712961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.20577,51.216381,7.20577,51.216381",
     "geom:latitude":51.216381,
     "geom:longitude":7.20577,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Remscheider Str. 43",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796007,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135712961,
-    "wof:lastmodified":1449022303,
+    "wof:lastmodified":1466242786,
     "wof:name":"Schmidtmann Immobilien Gmbh",
     "wof:parent_id":85796007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.20577,51.216381,7.20577,51.216381],
+  "bbox": [
+    7.20577,
+    51.216381,
+    7.20577,
+    51.216381
+],
   "geometry": {"coordinates":[7.20577,51.216381],"type":"Point"}
 }

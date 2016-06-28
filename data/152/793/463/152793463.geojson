@@ -2,13 +2,14 @@
   "id": 152793463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.099998,19.35,-99.099998,19.35",
     "geom:latitude":19.35,
     "geom:longitude":-99.099998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenstrasse 15",
     "sg:city":"K\u00fcps",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85884005,
+        85686515,
         85633293,
         101991181,
         102073759,
-        85686515
+        85884005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152793463,
-    "wof:lastmodified":1449046844,
+    "wof:lastmodified":1466226893,
     "wof:name":"Dominik Janisch\u00b4s Homepage",
     "wof:parent_id":85884005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.099998,19.35,-99.099998,19.35],
+  "bbox": [
+    -99.099998,
+    19.35,
+    -99.099998,
+    19.35
+],
   "geometry": {"coordinates":[-99.099998,19.35],"type":"Point"}
 }

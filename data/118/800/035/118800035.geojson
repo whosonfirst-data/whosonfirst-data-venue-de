@@ -2,13 +2,14 @@
   "id": 118800035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.510147,52.292931,10.510147,52.292931",
     "geom:latitude":52.292931,
     "geom:longitude":10.510147,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ligusterweg 28",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905751,
+        85682555,
         85633111,
         101748797,
         102063903,
-        85682555
+        85905751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118800035,
-    "wof:lastmodified":1449053261,
+    "wof:lastmodified":1466229760,
     "wof:name":"Apotheke Am Schwarzen Berge Inh. Gabriele Pupkes E. K.",
     "wof:parent_id":85905751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.510147,52.292931,10.510147,52.292931],
+  "bbox": [
+    10.510147,
+    52.292931,
+    10.510147,
+    52.292931
+],
   "geometry": {"coordinates":[10.510147,52.292931],"type":"Point"}
 }

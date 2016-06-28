@@ -2,13 +2,14 @@
   "id": 135529813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.031785,52.444374,13.031785,52.444374",
     "geom:latitude":52.444374,
     "geom:longitude":13.031785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fontanestr. 3",
     "sg:city":"Neu Fahrland",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063931,
-        85633111,
         85682553,
-        85899693
+        85633111,
+        85899693,
+        102063931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135529813,
-    "wof:lastmodified":1449022336,
+    "wof:lastmodified":1466234357,
     "wof:name":"M. Smyreck",
     "wof:parent_id":85899693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.031785,52.444374,13.031785,52.444374],
+  "bbox": [
+    13.031785,
+    52.444374,
+    13.031785,
+    52.444374
+],
   "geometry": {"coordinates":[13.031785,52.444374],"type":"Point"}
 }

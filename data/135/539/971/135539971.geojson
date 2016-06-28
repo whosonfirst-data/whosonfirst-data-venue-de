@@ -2,13 +2,14 @@
   "id": 135539971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.197505,48.841778,9.197505,48.841778",
     "geom:latitude":48.841778,
     "geom:longitude":9.197505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirch\u00e4ckerstr. 20",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85796651
+        85633111,
+        85796651,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135539971,
-    "wof:lastmodified":1449024051,
+    "wof:lastmodified":1466235314,
     "wof:name":"Dodig Gmbh",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.197505,48.841778,9.197505,48.841778],
+  "bbox": [
+    9.197505,
+    48.841778,
+    9.197505,
+    48.841778
+],
   "geometry": {"coordinates":[9.197505,48.841778],"type":"Point"}
 }

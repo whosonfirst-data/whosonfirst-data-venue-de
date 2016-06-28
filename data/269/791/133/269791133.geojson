@@ -2,13 +2,14 @@
   "id": 269791133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.088682,49.728531,10.088682,49.728531",
     "geom:latitude":49.728531,
     "geom:longitude":10.088682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintere Gasse 2",
     "sg:city":"Biebelried",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269791133,
-    "wof:lastmodified":1449038271,
+    "wof:lastmodified":1466228237,
     "wof:name":"Werner Hager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.088682,49.728531,10.088682,49.728531],
+  "bbox": [
+    10.088682,
+    49.728531,
+    10.088682,
+    49.728531
+],
   "geometry": {"coordinates":[10.088682,49.728531],"type":"Point"}
 }

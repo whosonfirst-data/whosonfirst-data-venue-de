@@ -2,13 +2,14 @@
   "id": 119271115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57597,50.930527,11.57597,50.930527",
     "geom:latitude":50.930527,
     "geom:longitude":11.57597,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Semmelweisstr. 17",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119271115,
-    "wof:lastmodified":1449042238,
+    "wof:lastmodified":1466235674,
     "wof:name":"Georg Thiele",
     "wof:parent_id":101748613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57597,50.930527,11.57597,50.930527],
+  "bbox": [
+    11.57597,
+    50.930527,
+    11.57597,
+    50.930527
+],
   "geometry": {"coordinates":[11.57597,50.930527],"type":"Point"}
 }

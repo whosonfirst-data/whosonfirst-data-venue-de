@@ -2,13 +2,14 @@
   "id": 220036749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.36684,50.662159,10.36684,50.662159",
     "geom:latitude":50.662159,
     "geom:longitude":10.36684,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaffeegasse 4",
     "sg:city":"Wasungen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220036749,
-    "wof:lastmodified":1449074212,
+    "wof:lastmodified":1466215291,
     "wof:name":"Cafe Cabana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.36684,50.662159,10.36684,50.662159],
+  "bbox": [
+    10.36684,
+    50.662159,
+    10.36684,
+    50.662159
+],
   "geometry": {"coordinates":[10.36684,50.662159],"type":"Point"}
 }

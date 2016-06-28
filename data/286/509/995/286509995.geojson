@@ -2,13 +2,14 @@
   "id": 286509995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.663512,48.442799,9.663512,48.442799",
     "geom:latitude":48.442799,
     "geom:longitude":9.663512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstr. 10",
     "sg:city":"Sontheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286509995,
-    "wof:lastmodified":1449015282,
+    "wof:lastmodified":1466230362,
     "wof:name":"Alfred Brose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.663512,48.442799,9.663512,48.442799],
+  "bbox": [
+    9.663512,
+    48.442799,
+    9.663512,
+    48.442799
+],
   "geometry": {"coordinates":[9.663512,48.442799],"type":"Point"}
 }

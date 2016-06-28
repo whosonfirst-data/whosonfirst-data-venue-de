@@ -2,13 +2,14 @@
   "id": 269723033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.442625,49.309753,8.442625,49.309753",
     "geom:latitude":49.309753,
     "geom:longitude":8.442625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinh\u00e4user Str. 11",
     "sg:city":"Speyer",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269723033,
-    "wof:lastmodified":1449037548,
+    "wof:lastmodified":1466226549,
     "wof:name":"Udo Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.442625,49.309753,8.442625,49.309753],
+  "bbox": [
+    8.442625,
+    49.309753,
+    8.442625,
+    49.309753
+],
   "geometry": {"coordinates":[8.442625,49.309753],"type":"Point"}
 }

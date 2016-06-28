@@ -2,13 +2,14 @@
   "id": 135402493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.173114,51.326546,9.173114,51.326546",
     "geom:latitude":51.326546,
     "geom:longitude":9.173114,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 7",
     "sg:city":"Wolfhagen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135402493,
-    "wof:lastmodified":1449021974,
+    "wof:lastmodified":1466223043,
     "wof:name":"Kreissparkasse Wolfhagen",
     "wof:parent_id":101810211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.173114,51.326546,9.173114,51.326546],
+  "bbox": [
+    9.173114,
+    51.326546,
+    9.173114,
+    51.326546
+],
   "geometry": {"coordinates":[9.173114,51.326546],"type":"Point"}
 }

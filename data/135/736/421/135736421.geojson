@@ -2,13 +2,14 @@
   "id": 135736421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.451883,48.648571,9.451883,48.648571",
     "geom:latitude":48.648571,
     "geom:longitude":9.451883,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Eyth-Str. 31",
     "sg:city":"Kirchheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135736421,
-    "wof:lastmodified":1449023948,
+    "wof:lastmodified":1466243210,
     "wof:name":"Cabrio",
     "wof:parent_id":101763149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.451883,48.648571,9.451883,48.648571],
+  "bbox": [
+    9.451883,
+    48.648571,
+    9.451883,
+    48.648571
+],
   "geometry": {"coordinates":[9.451883,48.648571],"type":"Point"}
 }

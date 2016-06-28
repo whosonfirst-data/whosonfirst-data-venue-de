@@ -2,13 +2,14 @@
   "id": 270300251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.809932,50.986443,13.809932,50.986443",
     "geom:latitude":50.986443,
     "geom:longitude":13.809932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kap-herr-Weg 14",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270300251,
-    "wof:lastmodified":1449010029,
+    "wof:lastmodified":1466228422,
     "wof:name":"W.-d. Hartwig",
     "wof:parent_id":85899925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.809932,50.986443,13.809932,50.986443],
+  "bbox": [
+    13.809932,
+    50.986443,
+    13.809932,
+    50.986443
+],
   "geometry": {"coordinates":[13.809932,50.986443],"type":"Point"}
 }

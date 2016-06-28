@@ -2,13 +2,14 @@
   "id": 202479277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.306974,47.722122,10.306974,47.722122",
     "geom:latitude":47.722122,
     "geom:longitude":10.306974,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindauer Str. 27",
     "sg:city":"Kempten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202479277,
-    "wof:lastmodified":1449061822,
+    "wof:lastmodified":1466215211,
     "wof:name":"Saulich Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.306974,47.722122,10.306974,47.722122],
+  "bbox": [
+    10.306974,
+    47.722122,
+    10.306974,
+    47.722122
+],
   "geometry": {"coordinates":[10.306974,47.722122],"type":"Point"}
 }

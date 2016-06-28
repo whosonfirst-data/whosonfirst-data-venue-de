@@ -2,13 +2,14 @@
   "id": 135347747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.180288,47.988304,10.180288,47.988304",
     "geom:latitude":47.988304,
     "geom:longitude":10.180288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulmer Str. 20",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135347747,
-    "wof:lastmodified":1449022483,
+    "wof:lastmodified":1466217883,
     "wof:name":"Karl Standhartinger",
     "wof:parent_id":101828659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.180288,47.988304,10.180288,47.988304],
+  "bbox": [
+    10.180288,
+    47.988304,
+    10.180288,
+    47.988304
+],
   "geometry": {"coordinates":[10.180288,47.988304],"type":"Point"}
 }

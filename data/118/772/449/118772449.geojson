@@ -2,13 +2,14 @@
   "id": 118772449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.775444,51.127708,13.775444,51.127708",
     "geom:latitude":51.127708,
     "geom:longitude":13.775444,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grenzstr 2",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905671,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118772449,
-    "wof:lastmodified":1449053771,
+    "wof:lastmodified":1466228073,
     "wof:name":"Nehlsen Flugzeug-galvanik Dresden Gmbh & Co Kg",
     "wof:parent_id":85905671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.775444,51.127708,13.775444,51.127708],
+  "bbox": [
+    13.775444,
+    51.127708,
+    13.775444,
+    51.127708
+],
   "geometry": {"coordinates":[13.775444,51.127708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118731063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.58667,51.302849,6.58667,51.302849",
     "geom:latitude":51.302849,
     "geom:longitude":6.58667,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 116",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063769,
-        85633111,
         85682513,
-        85795809
+        85633111,
+        85795809,
+        102063769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118731063,
-    "wof:lastmodified":1449054388,
+    "wof:lastmodified":1466225638,
     "wof:name":"Medoc Meeske-seelhoff-kohnke",
     "wof:parent_id":85795809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.58667,51.302849,6.58667,51.302849],
+  "bbox": [
+    6.58667,
+    51.302849,
+    6.58667,
+    51.302849
+],
   "geometry": {"coordinates":[6.58667,51.302849],"type":"Point"}
 }

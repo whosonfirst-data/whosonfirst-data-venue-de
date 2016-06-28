@@ -2,13 +2,14 @@
   "id": 303469775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.303005,51.588116,10.303005,51.588116",
     "geom:latitude":51.588116,
     "geom:longitude":10.303005,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzberger Str. 51",
     "sg:city":"Rhumspringe",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303469775,
-    "wof:lastmodified":1449000630,
+    "wof:lastmodified":1466236188,
     "wof:name":"Andreas Diederich Masseur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.303005,51.588116,10.303005,51.588116],
+  "bbox": [
+    10.303005,
+    51.588116,
+    10.303005,
+    51.588116
+],
   "geometry": {"coordinates":[10.303005,51.588116],"type":"Point"}
 }

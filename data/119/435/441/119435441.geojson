@@ -2,13 +2,14 @@
   "id": 119435441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.998915,49.407539,10.998915,49.407539",
     "geom:latitude":49.407539,
     "geom:longitude":10.998915,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbering 18",
     "sg:city":"Stein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119435441,
-    "wof:lastmodified":1449043283,
+    "wof:lastmodified":1466242592,
     "wof:name":"Otto Sauber Gmbh",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.998915,49.407539,10.998915,49.407539],
+  "bbox": [
+    10.998915,
+    49.407539,
+    10.998915,
+    49.407539
+],
   "geometry": {"coordinates":[10.998915,49.407539],"type":"Point"}
 }

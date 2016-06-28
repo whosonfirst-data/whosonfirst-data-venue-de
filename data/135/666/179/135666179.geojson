@@ -2,13 +2,14 @@
   "id": 135666179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.100199,49.885105,12.100199,49.885105",
     "geom:latitude":49.885105,
     "geom:longitude":12.100199,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Freundl-Str. 20",
     "sg:city":"Friedenfels",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135666179,
-    "wof:lastmodified":1449022108,
+    "wof:lastmodified":1466241483,
     "wof:name":"Karl Zeh",
     "wof:parent_id":101825803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.100199,49.885105,12.100199,49.885105],
+  "bbox": [
+    12.100199,
+    49.885105,
+    12.100199,
+    49.885105
+],
   "geometry": {"coordinates":[12.100199,49.885105],"type":"Point"}
 }

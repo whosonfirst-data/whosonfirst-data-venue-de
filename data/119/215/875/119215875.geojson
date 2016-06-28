@@ -2,13 +2,14 @@
   "id": 119215875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.447854,48.143421,11.447854,48.143421",
     "geom:latitude":48.143421,
     "geom:longitude":11.447854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paosostr. 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215875,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466230241,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Hildegard",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.447854,48.143421,11.447854,48.143421],
+  "bbox": [
+    11.447854,
+    48.143421,
+    11.447854,
+    48.143421
+],
   "geometry": {"coordinates":[11.447854,48.143421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135502895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.594901,49.67662,8.594901,49.67662",
     "geom:latitude":49.67662,
     "geom:longitude":8.594901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 32 a",
     "sg:city":"Bensheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135502895,
-    "wof:lastmodified":1449022402,
+    "wof:lastmodified":1466231845,
     "wof:name":"Hack Gmbh",
     "wof:parent_id":101839873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.594901,49.67662,8.594901,49.67662],
+  "bbox": [
+    8.594901,
+    49.67662,
+    8.594901,
+    49.67662
+],
   "geometry": {"coordinates":[8.594901,49.67662],"type":"Point"}
 }

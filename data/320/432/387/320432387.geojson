@@ -2,13 +2,14 @@
   "id": 320432387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547444,51.996174,7.547444,51.996174",
     "geom:latitude":51.996174,
     "geom:longitude":7.547444,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fridericusstr. 14",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320432387,
-    "wof:lastmodified":1449011193,
+    "wof:lastmodified":1466240318,
     "wof:name":"Wolfgang Morsch Gmbh",
     "wof:parent_id":85863163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.547444,51.996174,7.547444,51.996174],
+  "bbox": [
+    7.547444,
+    51.996174,
+    7.547444,
+    51.996174
+],
   "geometry": {"coordinates":[7.547444,51.996174],"type":"Point"}
 }

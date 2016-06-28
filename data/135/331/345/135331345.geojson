@@ -2,13 +2,14 @@
   "id": 135331345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.986566,49.478973,10.986566,49.478973",
     "geom:latitude":49.478973,
     "geom:longitude":10.986566,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigstr. 56",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135331345,
-    "wof:lastmodified":1449022865,
+    "wof:lastmodified":1466216442,
     "wof:name":"Cadolzburger Landbrot- B\u00e4ckerei Gmbh",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.986566,49.478973,10.986566,49.478973],
+  "bbox": [
+    10.986566,
+    49.478973,
+    10.986566,
+    49.478973
+],
   "geometry": {"coordinates":[10.986566,49.478973],"type":"Point"}
 }

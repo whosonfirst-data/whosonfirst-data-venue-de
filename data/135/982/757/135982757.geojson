@@ -2,13 +2,14 @@
   "id": 135982757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.029966,49.419529,11.029966,49.419529",
     "geom:latitude":49.419529,
     "geom:longitude":11.029966,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuendettelsauer Str. 60",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135982757,
-    "wof:lastmodified":1449021486,
+    "wof:lastmodified":1466244894,
     "wof:name":"K. Pfister Beteiligungs Gmbh",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.029966,49.419529,11.029966,49.419529],
+  "bbox": [
+    11.029966,
+    49.419529,
+    11.029966,
+    49.419529
+],
   "geometry": {"coordinates":[11.029966,49.419529],"type":"Point"}
 }

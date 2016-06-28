@@ -2,13 +2,14 @@
   "id": 119040577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52219,49.00243,8.52219,49.00243",
     "geom:latitude":49.00243,
     "geom:longitude":8.52219,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstr. 23",
     "sg:city":"Pfinztal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119040577,
-    "wof:lastmodified":1449043491,
+    "wof:lastmodified":1466214531,
     "wof:name":"Hartmut Henschel Architekt",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52219,49.00243,8.52219,49.00243],
+  "bbox": [
+    8.52219,
+    49.00243,
+    8.52219,
+    49.00243
+],
   "geometry": {"coordinates":[8.52219,49.00243],"type":"Point"}
 }

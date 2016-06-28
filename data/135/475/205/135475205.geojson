@@ -2,13 +2,14 @@
   "id": 135475205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.984963,47.835178,12.984963,47.835178",
     "geom:latitude":47.835178,
     "geom:longitude":12.984963,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollh\u00e4uslstr. 5",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898485,
+        85681681,
         85632785,
         101754151,
         102049799,
-        85681681
+        85898485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135475205,
-    "wof:lastmodified":1449022253,
+    "wof:lastmodified":1466229314,
     "wof:name":"Bistro-pub Contact",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.984963,47.835178,12.984963,47.835178],
+  "bbox": [
+    12.984963,
+    47.835178,
+    12.984963,
+    47.835178
+],
   "geometry": {"coordinates":[12.984963,47.835178],"type":"Point"}
 }

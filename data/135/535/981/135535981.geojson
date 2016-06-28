@@ -2,13 +2,14 @@
   "id": 135535981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.308597,47.941643,10.308597,47.941643",
     "geom:latitude":47.941643,
     "geom:longitude":10.308597,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amiconistr. 9",
     "sg:city":"Ottobeuren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135535981,
-    "wof:lastmodified":1449021523,
+    "wof:lastmodified":1466234930,
     "wof:name":"Walter Henneke",
     "wof:parent_id":101787803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.308597,47.941643,10.308597,47.941643],
+  "bbox": [
+    10.308597,
+    47.941643,
+    10.308597,
+    47.941643
+],
   "geometry": {"coordinates":[10.308597,47.941643],"type":"Point"}
 }

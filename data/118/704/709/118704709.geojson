@@ -2,13 +2,14 @@
   "id": 118704709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.0257,48.211571,9.0257,48.211571",
     "geom:latitude":48.211571,
     "geom:longitude":9.0257,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 41",
     "sg:city":"Albstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118704709,
-    "wof:lastmodified":1449053512,
+    "wof:lastmodified":1466224187,
     "wof:name":"Ev. Sozialstation",
     "wof:parent_id":101764311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.0257,48.211571,9.0257,48.211571],
+  "bbox": [
+    9.0257,
+    48.211571,
+    9.0257,
+    48.211571
+],
   "geometry": {"coordinates":[9.0257,48.211571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118569297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.081198,50.744137,7.081198,50.744137",
     "geom:latitude":50.744137,
     "geom:longitude":7.081198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lievelingsweg 93-95",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118569297,
-    "wof:lastmodified":1449054473,
+    "wof:lastmodified":1466216452,
     "wof:name":"Wilhelm Robert Klein Gmbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.081198,50.744137,7.081198,50.744137],
+  "bbox": [
+    7.081198,
+    50.744137,
+    7.081198,
+    50.744137
+],
   "geometry": {"coordinates":[7.081198,50.744137],"type":"Point"}
 }

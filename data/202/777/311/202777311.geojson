@@ -2,13 +2,14 @@
   "id": 202777311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.803515,51.052155,13.803515,51.052155",
     "geom:latitude":51.052155,
     "geom:longitude":13.803515,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Loschwitzer Str. 50",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202777311,
-    "wof:lastmodified":1449061443,
+    "wof:lastmodified":1466220835,
     "wof:name":"Horst Eichler",
     "wof:parent_id":85900197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.803515,51.052155,13.803515,51.052155],
+  "bbox": [
+    13.803515,
+    51.052155,
+    13.803515,
+    51.052155
+],
   "geometry": {"coordinates":[13.803515,51.052155],"type":"Point"}
 }

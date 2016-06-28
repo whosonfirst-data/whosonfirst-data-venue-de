@@ -2,13 +2,14 @@
   "id": 135647295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.716874,53.134026,8.716874,53.134026",
     "geom:latitude":53.134026,
     "geom:longitude":8.716874,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beim Industriehafen 49",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794997,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135647295,
-    "wof:lastmodified":1449022447,
+    "wof:lastmodified":1466240908,
     "wof:name":"Bvg Thielen & Meyer Baustoffvertriebsgesellschaft",
     "wof:parent_id":85794997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.716874,53.134026,8.716874,53.134026],
+  "bbox": [
+    8.716874,
+    53.134026,
+    8.716874,
+    53.134026
+],
   "geometry": {"coordinates":[8.716874,53.134026],"type":"Point"}
 }

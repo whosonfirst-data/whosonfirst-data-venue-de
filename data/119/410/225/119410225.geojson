@@ -2,13 +2,14 @@
   "id": 119410225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.550777,48.112595,11.550777,48.112595",
     "geom:latitude":48.112595,
     "geom:longitude":11.550777,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenggrieser Str. 16",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900135,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119410225,
-    "wof:lastmodified":1449040916,
+    "wof:lastmodified":1466241787,
     "wof:name":"Gebr. Lechner Inh. Karl Ludwig Lechner",
     "wof:parent_id":85900135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.550777,48.112595,11.550777,48.112595],
+  "bbox": [
+    11.550777,
+    48.112595,
+    11.550777,
+    48.112595
+],
   "geometry": {"coordinates":[11.550777,48.112595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136091347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.435783,52.494404,13.435783,52.494404",
     "geom:latitude":52.494404,
     "geom:longitude":13.435783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Liegnitzer Str. 35",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928793,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136091347,
-    "wof:lastmodified":1449075027,
+    "wof:lastmodified":1466216340,
     "wof:name":"Knott-seewald-gbr Agentur F\u00fcr Geschichtsrecherche",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.435783,52.494404,13.435783,52.494404],
+  "bbox": [
+    13.435783,
+    52.494404,
+    13.435783,
+    52.494404
+],
   "geometry": {"coordinates":[13.435783,52.494404],"type":"Point"}
 }

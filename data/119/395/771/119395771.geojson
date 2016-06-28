@@ -2,13 +2,14 @@
   "id": 119395771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.414708,52.586403,13.414708,52.586403",
     "geom:latitude":52.586403,
     "geom:longitude":13.414708,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wackenbergstr. 61",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905647,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119395771,
-    "wof:lastmodified":1449043136,
+    "wof:lastmodified":1466241454,
     "wof:name":"Hoba Holzbearbeitung Und Montage Gmbh",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.414708,52.586403,13.414708,52.586403],
+  "bbox": [
+    13.414708,
+    52.586403,
+    13.414708,
+    52.586403
+],
   "geometry": {"coordinates":[13.414708,52.586403],"type":"Point"}
 }

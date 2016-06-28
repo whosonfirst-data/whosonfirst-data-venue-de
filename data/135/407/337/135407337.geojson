@@ -2,13 +2,14 @@
   "id": 135407337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171265,48.777122,9.171265,48.777122",
     "geom:latitude":48.777122,
     "geom:longitude":9.171265,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Firnhaberstr. 5a",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135407337,
-    "wof:lastmodified":1449022678,
+    "wof:lastmodified":1466223494,
     "wof:name":"Nationalbank Von Griechenland, Informationsb\u00fcro",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171265,48.777122,9.171265,48.777122],
+  "bbox": [
+    9.171265,
+    48.777122,
+    9.171265,
+    48.777122
+],
   "geometry": {"coordinates":[9.171265,48.777122],"type":"Point"}
 }

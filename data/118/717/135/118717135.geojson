@@ -2,13 +2,14 @@
   "id": 118717135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.207702,51.276375,7.207702,51.276375",
     "geom:latitude":51.276375,
     "geom:longitude":7.207702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bartholom\u00e4usstr. 5",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796189,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118717135,
-    "wof:lastmodified":1449053181,
+    "wof:lastmodified":1466224846,
     "wof:name":"Honigmann Mobile Pflege",
     "wof:parent_id":85796189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.207702,51.276375,7.207702,51.276375],
+  "bbox": [
+    7.207702,
+    51.276375,
+    7.207702,
+    51.276375
+],
   "geometry": {"coordinates":[7.207702,51.276375],"type":"Point"}
 }

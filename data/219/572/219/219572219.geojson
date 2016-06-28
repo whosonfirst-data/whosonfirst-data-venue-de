@@ -2,13 +2,14 @@
   "id": 219572219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.16911,48.776829,9.16911,48.776829",
     "geom:latitude":48.776829,
     "geom:longitude":9.16911,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz-Elsas-Str. 46-48",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219572219,
-    "wof:lastmodified":1449072559,
+    "wof:lastmodified":1466221853,
     "wof:name":"Volkshochschule Stuttgart",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.16911,48.776829,9.16911,48.776829],
+  "bbox": [
+    9.16911,
+    48.776829,
+    9.16911,
+    48.776829
+],
   "geometry": {"coordinates":[9.16911,48.776829],"type":"Point"}
 }

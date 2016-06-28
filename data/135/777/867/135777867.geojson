@@ -2,13 +2,14 @@
   "id": 135777867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.653282,49.883083,8.653282,49.883083",
     "geom:latitude":49.883083,
     "geom:longitude":8.653282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mollerstr. 28",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135777867,
-    "wof:lastmodified":1449022602,
+    "wof:lastmodified":1466243972,
     "wof:name":"C. Kaufmann",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.653282,49.883083,8.653282,49.883083],
+  "bbox": [
+    8.653282,
+    49.883083,
+    8.653282,
+    49.883083
+],
   "geometry": {"coordinates":[8.653282,49.883083],"type":"Point"}
 }

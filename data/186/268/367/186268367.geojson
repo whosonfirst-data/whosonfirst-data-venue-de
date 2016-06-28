@@ -2,13 +2,14 @@
   "id": 186268367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.99878,48.156544,11.99878,48.156544",
     "geom:latitude":48.156544,
     "geom:longitude":11.99878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 23",
     "sg:city":"Hohenlinden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186268367,
-    "wof:lastmodified":1449051907,
+    "wof:lastmodified":1466216021,
     "wof:name":"Hermann Und Robert Weinberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.99878,48.156544,11.99878,48.156544],
+  "bbox": [
+    11.99878,
+    48.156544,
+    11.99878,
+    48.156544
+],
   "geometry": {"coordinates":[11.99878,48.156544],"type":"Point"}
 }

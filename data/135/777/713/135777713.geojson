@@ -2,13 +2,14 @@
   "id": 135777713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.999481,47.631847,12.999481,47.631847",
     "geom:latitude":47.631847,
     "geom:longitude":12.999481,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Ganghofer-Str. 10",
     "sg:city":"Berchtesgaden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135777713,
-    "wof:lastmodified":1449022606,
+    "wof:lastmodified":1466243964,
     "wof:name":"Brunninger",
     "wof:parent_id":101788935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.999481,47.631847,12.999481,47.631847],
+  "bbox": [
+    12.999481,
+    47.631847,
+    12.999481,
+    47.631847
+],
   "geometry": {"coordinates":[12.999481,47.631847],"type":"Point"}
 }

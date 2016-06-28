@@ -2,13 +2,14 @@
   "id": 135593905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.357811,52.436356,13.357811,52.436356",
     "geom:latitude":52.436356,
     "geom:longitude":13.357811,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In den Neuen G\u00e4rten 37",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135593905,
-    "wof:lastmodified":1449023007,
+    "wof:lastmodified":1466238775,
     "wof:name":"Scheer Gasheizung-sanit\u00e4r Gmbh",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.357811,52.436356,13.357811,52.436356],
+  "bbox": [
+    13.357811,
+    52.436356,
+    13.357811,
+    52.436356
+],
   "geometry": {"coordinates":[13.357811,52.436356],"type":"Point"}
 }

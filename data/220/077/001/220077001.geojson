@@ -2,13 +2,14 @@
   "id": 220077001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.483193,52.293205,9.483193,52.293205",
     "geom:latitude":52.293205,
     "geom:longitude":9.483193,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Egestorfer Str. 111",
     "sg:city":"Barsinghausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220077001,
-    "wof:lastmodified":1449074161,
+    "wof:lastmodified":1466216080,
     "wof:name":"Drape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.483193,52.293205,9.483193,52.293205],
+  "bbox": [
+    9.483193,
+    52.293205,
+    9.483193,
+    52.293205
+],
   "geometry": {"coordinates":[9.483193,52.293205],"type":"Point"}
 }

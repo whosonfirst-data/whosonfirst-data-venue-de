@@ -2,13 +2,14 @@
   "id": 219772183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.689026,49.42688,8.689026,49.42688",
     "geom:latitude":49.42688,
     "geom:longitude":8.689026,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Handschuhsheimer Landstr. 100",
     "sg:city":"Heidelberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219772183,
-    "wof:lastmodified":1449071982,
+    "wof:lastmodified":1466225755,
     "wof:name":"Peter Wirth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.689026,49.42688,8.689026,49.42688],
+  "bbox": [
+    8.689026,
+    49.42688,
+    8.689026,
+    49.42688
+],
   "geometry": {"coordinates":[8.689026,49.42688],"type":"Point"}
 }

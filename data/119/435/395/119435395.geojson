@@ -2,13 +2,14 @@
   "id": 119435395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.960742,53.038601,8.960742,53.038601",
     "geom:latitude":53.038601,
     "geom:longitude":8.960742,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Damaschkestr. 5",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85795923
+        85633111,
+        85795923,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119435395,
-    "wof:lastmodified":1449043285,
+    "wof:lastmodified":1466242486,
     "wof:name":"Klau Mevert Tischlerei Gmbh",
     "wof:parent_id":85795923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.960742,53.038601,8.960742,53.038601],
+  "bbox": [
+    8.960742,
+    53.038601,
+    8.960742,
+    53.038601
+],
   "geometry": {"coordinates":[8.960742,53.038601],"type":"Point"}
 }

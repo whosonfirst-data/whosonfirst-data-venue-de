@@ -2,13 +2,14 @@
   "id": 320815023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.23006,49.870377,10.23006,49.870377",
     "geom:latitude":49.870377,
     "geom:longitude":10.23006,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In den B\u00f6den 55",
     "sg:city":"Volkach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320815023,
-    "wof:lastmodified":1449013072,
+    "wof:lastmodified":1466243227,
     "wof:name":"Edgar Lindner Elektroinstallation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.23006,49.870377,10.23006,49.870377],
+  "bbox": [
+    10.23006,
+    49.870377,
+    10.23006,
+    49.870377
+],
   "geometry": {"coordinates":[10.23006,49.870377],"type":"Point"}
 }

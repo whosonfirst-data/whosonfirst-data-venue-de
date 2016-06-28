@@ -2,13 +2,14 @@
   "id": 303220715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.896199,51.016083,6.896199,51.016083",
     "geom:latitude":51.016083,
     "geom:longitude":6.896199,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Butzheimer Str. 12",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303220715,
-    "wof:lastmodified":1449000479,
+    "wof:lastmodified":1466229949,
     "wof:name":"K. Steinhauer",
     "wof:parent_id":85795031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.896199,51.016083,6.896199,51.016083],
+  "bbox": [
+    6.896199,
+    51.016083,
+    6.896199,
+    51.016083
+],
   "geometry": {"coordinates":[6.896199,51.016083],"type":"Point"}
 }

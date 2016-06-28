@@ -2,13 +2,14 @@
   "id": 118668671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.225096,51.519814,7.225096,51.519814",
     "geom:latitude":51.519814,
     "geom:longitude":7.225096,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"V\u00f6destr. 141",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863239,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118668671,
-    "wof:lastmodified":1449054120,
+    "wof:lastmodified":1466222100,
     "wof:name":"Rudolf Heckert",
     "wof:parent_id":85863239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.225096,51.519814,7.225096,51.519814],
+  "bbox": [
+    7.225096,
+    51.519814,
+    7.225096,
+    51.519814
+],
   "geometry": {"coordinates":[7.225096,51.519814],"type":"Point"}
 }

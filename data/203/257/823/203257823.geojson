@@ -2,13 +2,14 @@
   "id": 203257823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.301373,52.514282,13.301373,52.514282",
     "geom:latitude":52.514282,
     "geom:longitude":13.301373,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Friedrich-Str. 88",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203257823,
-    "wof:lastmodified":1449025468,
+    "wof:lastmodified":1466218170,
     "wof:name":"Ernst Berg",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.301373,52.514282,13.301373,52.514282],
+  "bbox": [
+    13.301373,
+    52.514282,
+    13.301373,
+    52.514282
+],
   "geometry": {"coordinates":[13.301373,52.514282],"type":"Point"}
 }

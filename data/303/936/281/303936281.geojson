@@ -2,13 +2,14 @@
   "id": 303936281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.374479,52.524616,11.374479,52.524616",
     "geom:latitude":52.524616,
     "geom:longitude":11.374479,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weteritzer Landstr. 40",
     "sg:city":"Gardelegen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303936281,
-    "wof:lastmodified":1448998932,
+    "wof:lastmodified":1466241362,
     "wof:name":"Klinzmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.374479,52.524616,11.374479,52.524616],
+  "bbox": [
+    11.374479,
+    52.524616,
+    11.374479,
+    52.524616
+],
   "geometry": {"coordinates":[11.374479,52.524616],"type":"Point"}
 }

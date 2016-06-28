@@ -2,13 +2,14 @@
   "id": 152499491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.16631,54.099525,12.16631,54.099525",
     "geom:latitude":54.099525,
     "geom:longitude":12.16631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arpelweg 2",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899095,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152499491,
-    "wof:lastmodified":1449045183,
+    "wof:lastmodified":1466220220,
     "wof:name":"Kurt Welke Verwaltungs Gmbh",
     "wof:parent_id":85899095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.16631,54.099525,12.16631,54.099525],
+  "bbox": [
+    12.16631,
+    54.099525,
+    12.16631,
+    54.099525
+],
   "geometry": {"coordinates":[12.16631,54.099525],"type":"Point"}
 }

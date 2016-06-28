@@ -2,13 +2,14 @@
   "id": 303580477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.745297,52.835915,13.745297,52.835915",
     "geom:latitude":52.835915,
     "geom:longitude":13.745297,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 118",
     "sg:city":"Eberswalde",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303580477,
-    "wof:lastmodified":1448999765,
+    "wof:lastmodified":1466237826,
     "wof:name":"D. Witthuhn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.745297,52.835915,13.745297,52.835915],
+  "bbox": [
+    13.745297,
+    52.835915,
+    13.745297,
+    52.835915
+],
   "geometry": {"coordinates":[13.745297,52.835915],"type":"Point"}
 }

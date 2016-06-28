@@ -2,13 +2,14 @@
   "id": 135724547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.596282,52.535397,13.596282,52.535397",
     "geom:latitude":52.535397,
     "geom:longitude":13.596282,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Cottbusser Platz 34",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135724547,
-    "wof:lastmodified":1449023916,
+    "wof:lastmodified":1466242955,
     "wof:name":"Krone Geb\u00e4udemanagment Und Technologie Gmbh",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.596282,52.535397,13.596282,52.535397],
+  "bbox": [
+    13.596282,
+    52.535397,
+    13.596282,
+    52.535397
+],
   "geometry": {"coordinates":[13.596282,52.535397],"type":"Point"}
 }

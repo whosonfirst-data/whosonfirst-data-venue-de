@@ -2,13 +2,14 @@
   "id": 118940189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.447746,51.223816,6.447746,51.223816",
     "geom:latitude":51.223816,
     "geom:longitude":6.447746,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hackesstr. 1",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063743,
-        85633111,
         85682513,
-        85794883
+        85633111,
+        85794883,
+        102063743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118940189,
-    "wof:lastmodified":1449053489,
+    "wof:lastmodified":1466237424,
     "wof:name":"St. Vitus-apotheke",
     "wof:parent_id":85794883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.447746,51.223816,6.447746,51.223816],
+  "bbox": [
+    6.447746,
+    51.223816,
+    6.447746,
+    51.223816
+],
   "geometry": {"coordinates":[6.447746,51.223816],"type":"Point"}
 }

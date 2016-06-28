@@ -2,13 +2,14 @@
   "id": 152469781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.100234,50.732891,7.100234,50.732891",
     "geom:latitude":50.732891,
     "geom:longitude":7.100234,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Martinsplatz 2",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513,
+        85862983,
         85794887
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152469781,
-    "wof:lastmodified":1449049013,
+    "wof:lastmodified":1466219580,
     "wof:name":"Cmg Beteiligungsgesellschaft Mbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.100234,50.732891,7.100234,50.732891],
+  "bbox": [
+    7.100234,
+    50.732891,
+    7.100234,
+    50.732891
+],
   "geometry": {"coordinates":[7.100234,50.732891],"type":"Point"}
 }

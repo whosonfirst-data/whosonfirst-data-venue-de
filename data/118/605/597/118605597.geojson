@@ -2,13 +2,14 @@
   "id": 118605597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61322,52.056679,8.61322,52.056679",
     "geom:latitude":52.056679,
     "geom:longitude":8.61322,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Milser Str 37",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063891,
-        85633111,
         85682513,
-        85863215
+        85633111,
+        85863215,
+        102063891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118605597,
-    "wof:lastmodified":1449053834,
+    "wof:lastmodified":1466218525,
     "wof:name":"B & V K\u00e4lte-klimatechnik Gmbh & Co. Kg",
     "wof:parent_id":85863215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61322,52.056679,8.61322,52.056679],
+  "bbox": [
+    8.61322,
+    52.056679,
+    8.61322,
+    52.056679
+],
   "geometry": {"coordinates":[8.61322,52.056679],"type":"Point"}
 }

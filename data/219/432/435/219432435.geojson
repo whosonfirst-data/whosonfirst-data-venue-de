@@ -2,13 +2,14 @@
   "id": 219432435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.404623,48.431576,10.404623,48.431576",
     "geom:latitude":48.431576,
     "geom:longitude":10.404623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kochstr. 27",
     "sg:city":"Burgau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219432435,
-    "wof:lastmodified":1449070323,
+    "wof:lastmodified":1466219337,
     "wof:name":"Johann Riederle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.404623,48.431576,10.404623,48.431576],
+  "bbox": [
+    10.404623,
+    48.431576,
+    10.404623,
+    48.431576
+],
   "geometry": {"coordinates":[10.404623,48.431576],"type":"Point"}
 }

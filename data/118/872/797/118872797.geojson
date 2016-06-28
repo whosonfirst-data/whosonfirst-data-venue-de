@@ -2,13 +2,14 @@
   "id": 118872797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.807684,51.035072,13.807684,51.035072",
     "geom:latitude":51.035072,
     "geom:longitude":13.807684,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenberger Platz 5",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906347,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118872797,
-    "wof:lastmodified":1449053274,
+    "wof:lastmodified":1466234221,
     "wof:name":"Arnika-apotheke E. K.",
     "wof:parent_id":85906347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.807684,51.035072,13.807684,51.035072],
+  "bbox": [
+    13.807684,
+    51.035072,
+    13.807684,
+    51.035072
+],
   "geometry": {"coordinates":[13.807684,51.035072],"type":"Point"}
 }

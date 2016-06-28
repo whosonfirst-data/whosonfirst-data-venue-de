@@ -2,13 +2,14 @@
   "id": 135332445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.961651,50.946442,6.961651,50.946442",
     "geom:latitude":50.946442,
     "geom:longitude":6.961651,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Linde 14",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795597,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135332445,
-    "wof:lastmodified":1449022682,
+    "wof:lastmodified":1466216543,
     "wof:name":"D. Weiser",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.961651,50.946442,6.961651,50.946442],
+  "bbox": [
+    6.961651,
+    50.946442,
+    6.961651,
+    50.946442
+],
   "geometry": {"coordinates":[6.961651,50.946442],"type":"Point"}
 }

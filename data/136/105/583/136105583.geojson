@@ -2,13 +2,14 @@
   "id": 136105583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.872606,51.16428,6.872606,51.16428",
     "geom:latitude":51.16428,
     "geom:longitude":6.872606,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6rresstrasse 6",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85796647
+        85633111,
+        85796647,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136105583,
-    "wof:lastmodified":1449075420,
+    "wof:lastmodified":1466216976,
     "wof:name":"Photo Star",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.872606,51.16428,6.872606,51.16428],
+  "bbox": [
+    6.872606,
+    51.16428,
+    6.872606,
+    51.16428
+],
   "geometry": {"coordinates":[6.872606,51.16428],"type":"Point"}
 }

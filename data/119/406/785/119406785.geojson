@@ -2,13 +2,14 @@
   "id": 119406785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.240983,51.547234,7.240983,51.547234",
     "geom:latitude":51.547234,
     "geom:longitude":7.240983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Trimbuschhof 14",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863255,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119406785,
-    "wof:lastmodified":1449042275,
+    "wof:lastmodified":1466241557,
     "wof:name":"Schreinerei Belitz Gmbh",
     "wof:parent_id":85863255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.240983,51.547234,7.240983,51.547234],
+  "bbox": [
+    7.240983,
+    51.547234,
+    7.240983,
+    51.547234
+],
   "geometry": {"coordinates":[7.240983,51.547234],"type":"Point"}
 }

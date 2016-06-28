@@ -2,13 +2,14 @@
   "id": 253586903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.114529,48.919544,9.114529,48.919544",
     "geom:latitude":48.919544,
     "geom:longitude":9.114529,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 25",
     "sg:city":"Tamm",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253586903,
-    "wof:lastmodified":1449065436,
+    "wof:lastmodified":1466231113,
     "wof:name":"Karl Staiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.114529,48.919544,9.114529,48.919544],
+  "bbox": [
+    9.114529,
+    48.919544,
+    9.114529,
+    48.919544
+],
   "geometry": {"coordinates":[9.114529,48.919544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119449367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.394067,51.343594,12.394067,51.343594",
     "geom:latitude":51.343594,
     "geom:longitude":12.394067,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Erhard-Str. 37",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119449367,
-    "wof:lastmodified":1449043344,
+    "wof:lastmodified":1466242632,
     "wof:name":"Epak Entwicklungs- Und Produktionsges. F\u00fcr Automobil-",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.394067,51.343594,12.394067,51.343594],
+  "bbox": [
+    12.394067,
+    51.343594,
+    12.394067,
+    51.343594
+],
   "geometry": {"coordinates":[12.394067,51.343594],"type":"Point"}
 }

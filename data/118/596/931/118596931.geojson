@@ -2,13 +2,14 @@
   "id": 118596931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.520723,48.14526,11.520723,48.14526",
     "geom:latitude":48.14526,
     "geom:longitude":11.520723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Hale-Str. 36",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118596931,
-    "wof:lastmodified":1449053871,
+    "wof:lastmodified":1466218020,
     "wof:name":"Bayerische G\u00c4rtnereigen. Eg",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.520723,48.14526,11.520723,48.14526],
+  "bbox": [
+    11.520723,
+    48.14526,
+    11.520723,
+    48.14526
+],
   "geometry": {"coordinates":[11.520723,48.14526],"type":"Point"}
 }

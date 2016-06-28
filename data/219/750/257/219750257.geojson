@@ -2,13 +2,14 @@
   "id": 219750257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.568333,48.125454,11.568333,48.125454",
     "geom:latitude":48.125454,
     "geom:longitude":11.568333,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Palmstr. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219750257,
-    "wof:lastmodified":1449072523,
+    "wof:lastmodified":1466225299,
     "wof:name":"Paul Mariel",
     "wof:parent_id":85905609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.568333,48.125454,11.568333,48.125454],
+  "bbox": [
+    11.568333,
+    48.125454,
+    11.568333,
+    48.125454
+],
   "geometry": {"coordinates":[11.568333,48.125454],"type":"Point"}
 }

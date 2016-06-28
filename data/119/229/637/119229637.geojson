@@ -2,13 +2,14 @@
   "id": 119229637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.960168,50.82275,12.960168,50.82275",
     "geom:latitude":50.82275,
     "geom:longitude":12.960168,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Ziegler-Str. 3",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899045,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119229637,
-    "wof:lastmodified":1449042966,
+    "wof:lastmodified":1466231555,
     "wof:name":"Stadt- Und Bezirksbibliothek Hans Beimler",
     "wof:parent_id":85899045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.960168,50.82275,12.960168,50.82275],
+  "bbox": [
+    12.960168,
+    50.82275,
+    12.960168,
+    50.82275
+],
   "geometry": {"coordinates":[12.960168,50.82275],"type":"Point"}
 }

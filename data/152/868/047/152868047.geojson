@@ -2,13 +2,14 @@
   "id": 152868047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.578505,48.163979,11.578505,48.163979",
     "geom:latitude":48.163979,
     "geom:longitude":11.578505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Clemensstra\u00dfe 42",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152868047,
-    "wof:lastmodified":1449044505,
+    "wof:lastmodified":1466228633,
     "wof:name":"Kb",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.578505,48.163979,11.578505,48.163979],
+  "bbox": [
+    11.578505,
+    48.163979,
+    11.578505,
+    48.163979
+],
   "geometry": {"coordinates":[11.578505,48.163979],"type":"Point"}
 }

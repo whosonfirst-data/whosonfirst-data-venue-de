@@ -2,13 +2,14 @@
   "id": 135734227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.91381,50.794163,12.91381,50.794163",
     "geom:latitude":50.794163,
     "geom:longitude":12.91381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 38",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064213,
-        85633111,
         85682523,
-        85898991
+        85633111,
+        85898991,
+        102064213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135734227,
-    "wof:lastmodified":1449023627,
+    "wof:lastmodified":1466243195,
     "wof:name":"F.m. Friedrich Meinelt Mode-praxis Gmbh",
     "wof:parent_id":85898991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.91381,50.794163,12.91381,50.794163],
+  "bbox": [
+    12.91381,
+    50.794163,
+    12.91381,
+    50.794163
+],
   "geometry": {"coordinates":[12.91381,50.794163],"type":"Point"}
 }

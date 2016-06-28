@@ -2,13 +2,14 @@
   "id": 118520639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.409852,48.71616,11.409852,48.71616",
     "geom:latitude":48.71616,
     "geom:longitude":11.409852,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Krautgarten 26::",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900087,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85900087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118520639,
-    "wof:lastmodified":1449053605,
+    "wof:lastmodified":1466213635,
     "wof:name":"Hallmeier Weber/und Partner Gmbh",
     "wof:parent_id":85900087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.409852,48.71616,11.409852,48.71616],
+  "bbox": [
+    11.409852,
+    48.71616,
+    11.409852,
+    48.71616
+],
   "geometry": {"coordinates":[11.409852,48.71616],"type":"Point"}
 }

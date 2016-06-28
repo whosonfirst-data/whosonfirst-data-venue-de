@@ -2,13 +2,14 @@
   "id": 136203311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338618,49.884537,12.338618,49.884537",
     "geom:latitude":49.884537,
     "geom:longitude":12.338618,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleinklenauer Str. 6",
     "sg:city":"Tirschenreuth",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136203311,
-    "wof:lastmodified":1449075492,
+    "wof:lastmodified":1466235280,
     "wof:name":"Erwin Brader",
     "wof:parent_id":101825791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.338618,49.884537,12.338618,49.884537],
+  "bbox": [
+    12.338618,
+    49.884537,
+    12.338618,
+    49.884537
+],
   "geometry": {"coordinates":[12.338618,49.884537],"type":"Point"}
 }

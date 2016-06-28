@@ -2,13 +2,14 @@
   "id": 118948785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.511123,53.213051,8.511123,53.213051",
     "geom:latitude":53.213051,
     "geom:longitude":8.511123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rekumer Str. 20",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85796267
+        85633111,
+        85796267,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118948785,
-    "wof:lastmodified":1449054270,
+    "wof:lastmodified":1466237943,
     "wof:name":"Weser-apotheke",
     "wof:parent_id":85796267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.511123,53.213051,8.511123,53.213051],
+  "bbox": [
+    8.511123,
+    53.213051,
+    8.511123,
+    53.213051
+],
   "geometry": {"coordinates":[8.511123,53.213051],"type":"Point"}
 }

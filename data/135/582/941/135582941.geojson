@@ -2,13 +2,14 @@
   "id": 135582941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.643962,48.193962,11.643962,48.193962",
     "geom:latitude":48.193962,
     "geom:longitude":11.643962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 7",
     "sg:city":"Unterf\u00f6hring",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899173
+        85633111,
+        85899173,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135582941,
-    "wof:lastmodified":1449022636,
+    "wof:lastmodified":1466238193,
     "wof:name":"Franz Gillmeier",
     "wof:parent_id":85899173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.643962,48.193962,11.643962,48.193962],
+  "bbox": [
+    11.643962,
+    48.193962,
+    11.643962,
+    48.193962
+],
   "geometry": {"coordinates":[11.643962,48.193962],"type":"Point"}
 }

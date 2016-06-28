@@ -2,13 +2,14 @@
   "id": 119119645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.484971,48.083191,11.484971,48.083191",
     "geom:latitude":48.083191,
     "geom:longitude":11.484971,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchendorfer Str. 46",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899163
+        85633111,
+        85899163,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119119645,
-    "wof:lastmodified":1449042776,
+    "wof:lastmodified":1466221908,
     "wof:name":"Rob. Schlickewitz",
     "wof:parent_id":85899163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.484971,48.083191,11.484971,48.083191],
+  "bbox": [
+    11.484971,
+    48.083191,
+    11.484971,
+    48.083191
+],
   "geometry": {"coordinates":[11.484971,48.083191],"type":"Point"}
 }

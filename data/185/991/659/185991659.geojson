@@ -2,13 +2,14 @@
   "id": 185991659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.042355,48.206509,9.042355,48.206509",
     "geom:latitude":48.206509,
     "geom:longitude":9.042355,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlachthofstr. 48",
     "sg:city":"Albstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185991659,
-    "wof:lastmodified":1449007107,
+    "wof:lastmodified":1466217113,
     "wof:name":"Wohlgemuth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.042355,48.206509,9.042355,48.206509],
+  "bbox": [
+    9.042355,
+    48.206509,
+    9.042355,
+    48.206509
+],
   "geometry": {"coordinates":[9.042355,48.206509],"type":"Point"}
 }

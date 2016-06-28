@@ -2,13 +2,14 @@
   "id": 119514751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.028496,47.47089,11.028496,47.47089",
     "geom:latitude":47.47089,
     "geom:longitude":11.028496,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugspitzstr. 21",
     "sg:city":"Grainau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119514751,
-    "wof:lastmodified":1449042174,
+    "wof:lastmodified":1466243798,
     "wof:name":"Edmund Kaiser",
     "wof:parent_id":101788901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.028496,47.47089,11.028496,47.47089],
+  "bbox": [
+    11.028496,
+    47.47089,
+    11.028496,
+    47.47089
+],
   "geometry": {"coordinates":[11.028496,47.47089],"type":"Point"}
 }

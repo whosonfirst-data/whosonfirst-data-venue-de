@@ -2,13 +2,14 @@
   "id": 186101031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.78387,48.415054,9.78387,48.415054",
     "geom:latitude":48.415054,
     "geom:longitude":9.78387,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterhofweg 3",
     "sg:city":"Blaubeuren",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186101031,
-    "wof:lastmodified":1449051785,
+    "wof:lastmodified":1466214236,
     "wof:name":"Klosterkirche Blaubeuren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.78387,48.415054,9.78387,48.415054],
+  "bbox": [
+    9.78387,
+    48.415054,
+    9.78387,
+    48.415054
+],
   "geometry": {"coordinates":[9.78387,48.415054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135325745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.846273,51.051125,13.846273,51.051125",
     "geom:latitude":51.051125,
     "geom:longitude":13.846273,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6nnsdorfer Str. 1",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064219,
-        85633111,
         85682523,
-        85899955
+        85633111,
+        85899955,
+        102064219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135325745,
-    "wof:lastmodified":1449022192,
+    "wof:lastmodified":1466215991,
     "wof:name":"Werner Ringel",
     "wof:parent_id":85899955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.846273,51.051125,13.846273,51.051125],
+  "bbox": [
+    13.846273,
+    51.051125,
+    13.846273,
+    51.051125
+],
   "geometry": {"coordinates":[13.846273,51.051125],"type":"Point"}
 }

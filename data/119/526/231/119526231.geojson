@@ -2,13 +2,14 @@
   "id": 119526231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.003994,49.606251,11.003994,49.606251",
     "geom:latitude":49.606251,
     "geom:longitude":11.003994,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayreuther Str. 37",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119526231,
-    "wof:lastmodified":1449041593,
+    "wof:lastmodified":1466243898,
     "wof:name":"Georg Gulden",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.003994,49.606251,11.003994,49.606251],
+  "bbox": [
+    11.003994,
+    49.606251,
+    11.003994,
+    49.606251
+],
   "geometry": {"coordinates":[11.003994,49.606251],"type":"Point"}
 }

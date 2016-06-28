@@ -2,13 +2,14 @@
   "id": 135716789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.885274,50.833561,12.885274,50.833561",
     "geom:latitude":50.833561,
     "geom:longitude":12.885274,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolkenburger Str. 4",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135716789,
-    "wof:lastmodified":1449021408,
+    "wof:lastmodified":1466242826,
     "wof:name":"G\u00fcndel Bautr\u00e4ger Und Immobilien Gmbh",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.885274,50.833561,12.885274,50.833561],
+  "bbox": [
+    12.885274,
+    50.833561,
+    12.885274,
+    50.833561
+],
   "geometry": {"coordinates":[12.885274,50.833561],"type":"Point"}
 }

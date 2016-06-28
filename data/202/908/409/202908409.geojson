@@ -2,13 +2,14 @@
   "id": 202908409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.254854,49.010189,8.254854,49.010189",
     "geom:latitude":49.010189,
     "geom:longitude":8.254854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestr. 22",
     "sg:city":"Hagenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202908409,
-    "wof:lastmodified":1449061542,
+    "wof:lastmodified":1466223310,
     "wof:name":"B. Bisson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.254854,49.010189,8.254854,49.010189],
+  "bbox": [
+    8.254854,
+    49.010189,
+    8.254854,
+    49.010189
+],
   "geometry": {"coordinates":[8.254854,49.010189],"type":"Point"}
 }

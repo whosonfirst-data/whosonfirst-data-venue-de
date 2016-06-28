@@ -2,13 +2,14 @@
   "id": 202436995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.032082,50.981655,11.032082,50.981655",
     "geom:latitude":50.981655,
     "geom:longitude":11.032082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardtstr. 1",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202436995,
-    "wof:lastmodified":1449062407,
+    "wof:lastmodified":1466214436,
     "wof:name":"Zoo-hesse",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.032082,50.981655,11.032082,50.981655],
+  "bbox": [
+    11.032082,
+    50.981655,
+    11.032082,
+    50.981655
+],
   "geometry": {"coordinates":[11.032082,50.981655],"type":"Point"}
 }

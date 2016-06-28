@@ -2,13 +2,14 @@
   "id": 119142123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.845276,53.083858,8.845276,53.083858",
     "geom:latitude":53.083858,
     "geom:longitude":8.845276,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dijonstr. 4",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796219,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119142123,
-    "wof:lastmodified":1449042969,
+    "wof:lastmodified":1466223388,
     "wof:name":"Ulrich Loeper Architekt",
     "wof:parent_id":85796219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.845276,53.083858,8.845276,53.083858],
+  "bbox": [
+    8.845276,
+    53.083858,
+    8.845276,
+    53.083858
+],
   "geometry": {"coordinates":[8.845276,53.083858],"type":"Point"}
 }

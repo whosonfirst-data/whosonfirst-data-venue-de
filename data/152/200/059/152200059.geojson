@@ -2,13 +2,14 @@
   "id": 152200059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.46038,51.207413,10.46038,51.207413",
     "geom:latitude":51.207413,
     "geom:longitude":10.46038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untermarkt 24",
     "sg:city":"M\u00fchlhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152200059,
-    "wof:lastmodified":1449046158,
+    "wof:lastmodified":1466214061,
     "wof:name":"M. Burkhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.46038,51.207413,10.46038,51.207413],
+  "bbox": [
+    10.46038,
+    51.207413,
+    10.46038,
+    51.207413
+],
   "geometry": {"coordinates":[10.46038,51.207413],"type":"Point"}
 }

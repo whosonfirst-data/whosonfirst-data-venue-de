@@ -2,13 +2,14 @@
   "id": 152477545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.668906,53.847019,10.668906,53.847019",
     "geom:latitude":53.847019,
     "geom:longitude":10.668906,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geniner Str. 88-100",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899971,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85899971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152477545,
-    "wof:lastmodified":1449045104,
+    "wof:lastmodified":1466219747,
     "wof:name":"F. Erasmi & Vorbeck Gmbh & Co. Kg",
     "wof:parent_id":85899971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.668906,53.847019,10.668906,53.847019],
+  "bbox": [
+    10.668906,
+    53.847019,
+    10.668906,
+    53.847019
+],
   "geometry": {"coordinates":[10.668906,53.847019],"type":"Point"}
 }

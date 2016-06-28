@@ -2,13 +2,14 @@
   "id": 203204285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.946627,48.476925,8.946627,48.476925",
     "geom:latitude":48.476925,
     "geom:longitude":8.946627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Graf-Wolfegg-Str. 59",
     "sg:city":"Rottenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203204285,
-    "wof:lastmodified":1449026898,
+    "wof:lastmodified":1466217292,
     "wof:name":"Kurt Roggatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.946627,48.476925,8.946627,48.476925],
+  "bbox": [
+    8.946627,
+    48.476925,
+    8.946627,
+    48.476925
+],
   "geometry": {"coordinates":[8.946627,48.476925],"type":"Point"}
 }

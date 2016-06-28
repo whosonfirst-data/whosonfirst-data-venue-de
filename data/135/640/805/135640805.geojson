@@ -2,13 +2,14 @@
   "id": 135640805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.610645,49.818417,8.610645,49.818417",
     "geom:latitude":49.818417,
     "geom:longitude":8.610645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Benz-Str. 7",
     "sg:city":"Pfungstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135640805,
-    "wof:lastmodified":1449022320,
+    "wof:lastmodified":1466240776,
     "wof:name":"Melle Gmbh",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.610645,49.818417,8.610645,49.818417],
+  "bbox": [
+    8.610645,
+    49.818417,
+    8.610645,
+    49.818417
+],
   "geometry": {"coordinates":[8.610645,49.818417],"type":"Point"}
 }

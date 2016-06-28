@@ -2,13 +2,14 @@
   "id": 135644555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.674865,52.213848,11.674865,52.213848",
     "geom:latitude":52.213848,
     "geom:longitude":11.674865,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glindenberger Weg 5",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063887,
-        85633111,
         85682519,
-        85905701
+        85633111,
+        85905701,
+        102063887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135644555,
-    "wof:lastmodified":1449022739,
+    "wof:lastmodified":1466240834,
     "wof:name":"M\u00fchl Product Und Service Magdeburg Verwaltungs Gmbh",
     "wof:parent_id":85905701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.674865,52.213848,11.674865,52.213848],
+  "bbox": [
+    11.674865,
+    52.213848,
+    11.674865,
+    52.213848
+],
   "geometry": {"coordinates":[11.674865,52.213848],"type":"Point"}
 }

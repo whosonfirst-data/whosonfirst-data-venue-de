@@ -2,13 +2,14 @@
   "id": 236200903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.826193,53.094429,8.826193,53.094429",
     "geom:latitude":53.094429,
     "geom:longitude":8.826193,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrgerpark",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236200903,
-    "wof:lastmodified":1449002879,
+    "wof:lastmodified":1466222610,
     "wof:name":"D. Schierenbeck",
     "wof:parent_id":85796503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.826193,53.094429,8.826193,53.094429],
+  "bbox": [
+    8.826193,
+    53.094429,
+    8.826193,
+    53.094429
+],
   "geometry": {"coordinates":[8.826193,53.094429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118959821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.106487,49.441769,11.106487,49.441769",
     "geom:latitude":49.441769,
     "geom:longitude":11.106487,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensburger Str. 104",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900277,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118959821,
-    "wof:lastmodified":1449054413,
+    "wof:lastmodified":1466238291,
     "wof:name":"Hauptstelle Der Bundes- Anstalt F\u00fcr Arbeit",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.106487,49.441769,11.106487,49.441769],
+  "bbox": [
+    11.106487,
+    49.441769,
+    11.106487,
+    49.441769
+],
   "geometry": {"coordinates":[11.106487,49.441769],"type":"Point"}
 }

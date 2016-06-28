@@ -2,13 +2,14 @@
   "id": 119452675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.855121,51.064655,13.855121,51.064655",
     "geom:latitude":51.064655,
     "geom:longitude":13.855121,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidem\u00fchlweg 31",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906333,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119452675,
-    "wof:lastmodified":1449041439,
+    "wof:lastmodified":1466242725,
     "wof:name":"Tortechnik Heckner Gmbh",
     "wof:parent_id":85906333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.855121,51.064655,13.855121,51.064655],
+  "bbox": [
+    13.855121,
+    51.064655,
+    13.855121,
+    51.064655
+],
   "geometry": {"coordinates":[13.855121,51.064655],"type":"Point"}
 }

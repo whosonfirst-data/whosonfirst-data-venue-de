@@ -2,13 +2,14 @@
   "id": 136214295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.123146,49.810616,7.123146,49.810616",
     "geom:latitude":49.810616,
     "geom:longitude":7.123146,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 11a",
     "sg:city":"Morbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136214295,
-    "wof:lastmodified":1449076230,
+    "wof:lastmodified":1466222045,
     "wof:name":"H. Ternes",
     "wof:parent_id":101813569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.123146,49.810616,7.123146,49.810616],
+  "bbox": [
+    7.123146,
+    49.810616,
+    7.123146,
+    49.810616
+],
   "geometry": {"coordinates":[7.123146,49.810616],"type":"Point"}
 }

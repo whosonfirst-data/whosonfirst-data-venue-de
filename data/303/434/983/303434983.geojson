@@ -2,13 +2,14 @@
   "id": 303434983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.099604,50.768024,6.099604,50.768024",
     "geom:latitude":50.768024,
     "geom:longitude":6.099604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 17",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303434983,
-    "wof:lastmodified":1448998644,
+    "wof:lastmodified":1466235637,
     "wof:name":"Peter Houben",
     "wof:parent_id":85795007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.099604,50.768024,6.099604,50.768024],
+  "bbox": [
+    6.099604,
+    50.768024,
+    6.099604,
+    50.768024
+],
   "geometry": {"coordinates":[6.099604,50.768024],"type":"Point"}
 }

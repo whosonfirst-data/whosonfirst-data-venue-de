@@ -2,13 +2,14 @@
   "id": 152668257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802202,53.078766,8.802202,53.078766",
     "geom:latitude":53.078766,
     "geom:longitude":8.802202,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hutfilterstr. 9-13",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152668257,
-    "wof:lastmodified":1449047520,
+    "wof:lastmodified":1466223955,
     "wof:name":"Lug Lager-umschlag-gmbh",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.802202,53.078766,8.802202,53.078766],
+  "bbox": [
+    8.802202,
+    53.078766,
+    8.802202,
+    53.078766
+],
   "geometry": {"coordinates":[8.802202,53.078766],"type":"Point"}
 }

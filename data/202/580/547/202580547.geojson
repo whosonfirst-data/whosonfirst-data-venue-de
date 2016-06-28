@@ -2,13 +2,14 @@
   "id": 202580547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.029768,51.181416,7.029768,51.181416",
     "geom:latitude":51.181416,
     "geom:longitude":7.029768,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenhofer Str. 82",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202580547,
-    "wof:lastmodified":1449061799,
+    "wof:lastmodified":1466217257,
     "wof:name":"Scherder-tenthoff",
     "wof:parent_id":85796725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.029768,51.181416,7.029768,51.181416],
+  "bbox": [
+    7.029768,
+    51.181416,
+    7.029768,
+    51.181416
+],
   "geometry": {"coordinates":[7.029768,51.181416],"type":"Point"}
 }

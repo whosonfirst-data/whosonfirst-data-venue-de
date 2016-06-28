@@ -2,13 +2,14 @@
   "id": 135833419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.071065,49.512367,7.071065,49.512367",
     "geom:latitude":49.512367,
     "geom:longitude":7.071065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenstr. 12",
     "sg:city":"Oberthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135833419,
-    "wof:lastmodified":1449021375,
+    "wof:lastmodified":1466244212,
     "wof:name":"Johann Maldener",
     "wof:parent_id":101813005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.071065,49.512367,7.071065,49.512367],
+  "bbox": [
+    7.071065,
+    49.512367,
+    7.071065,
+    49.512367
+],
   "geometry": {"coordinates":[7.071065,49.512367],"type":"Point"}
 }

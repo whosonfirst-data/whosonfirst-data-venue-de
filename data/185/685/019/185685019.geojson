@@ -2,13 +2,14 @@
   "id": 185685019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.625137,49.57777,10.625137,49.57777",
     "geom:latitude":49.57777,
     "geom:longitude":10.625137,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Wei\u00dfen Marter 8",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185685019,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466213995,
     "wof:name":"Marion Kaplan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.625137,49.57777,10.625137,49.57777],
+  "bbox": [
+    10.625137,
+    49.57777,
+    10.625137,
+    49.57777
+],
   "geometry": {"coordinates":[10.625137,49.57777],"type":"Point"}
 }

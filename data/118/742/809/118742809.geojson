@@ -2,13 +2,14 @@
   "id": 118742809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.07602,49.368149,11.07602,49.368149",
     "geom:latitude":49.368149,
     "geom:longitude":11.07602,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kemptener Str. 32",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899283,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118742809,
-    "wof:lastmodified":1449053244,
+    "wof:lastmodified":1466226345,
     "wof:name":"Senioren-dienstleistungen Doris Schmitz",
     "wof:parent_id":85899283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.07602,49.368149,11.07602,49.368149],
+  "bbox": [
+    11.07602,
+    49.368149,
+    11.07602,
+    49.368149
+],
   "geometry": {"coordinates":[11.07602,49.368149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303358625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.93042,48.37244,10.93042,48.37244",
     "geom:latitude":48.37244,
     "geom:longitude":10.93042,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugspitzstr. 211a",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303358625,
-    "wof:lastmodified":1448999150,
+    "wof:lastmodified":1466233325,
     "wof:name":"R. Furmanek",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.93042,48.37244,10.93042,48.37244],
+  "bbox": [
+    10.93042,
+    48.37244,
+    10.93042,
+    48.37244
+],
   "geometry": {"coordinates":[10.93042,48.37244],"type":"Point"}
 }

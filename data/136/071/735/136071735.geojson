@@ -2,13 +2,14 @@
   "id": 136071735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.465867,51.31102,9.465867,51.31102",
     "geom:latitude":51.31102,
     "geom:longitude":9.465867,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedenstra\u00dfe 7",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906345,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136071735,
-    "wof:lastmodified":1449075759,
+    "wof:lastmodified":1466215439,
     "wof:name":"Hironimus - Jongleur",
     "wof:parent_id":85906345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.465867,51.31102,9.465867,51.31102],
+  "bbox": [
+    9.465867,
+    51.31102,
+    9.465867,
+    51.31102
+],
   "geometry": {"coordinates":[9.465867,51.31102],"type":"Point"}
 }

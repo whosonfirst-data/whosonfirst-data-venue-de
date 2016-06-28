@@ -2,13 +2,14 @@
   "id": 135602485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.916897,51.330914,6.916897,51.330914",
     "geom:latitude":51.330914,
     "geom:longitude":6.916897,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beuthener Str. 18a",
     "sg:city":"Ratingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796621,
+        85682513,
         85633111,
         101748709,
         102063761,
-        85682513
+        85796621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135602485,
-    "wof:lastmodified":1449022435,
+    "wof:lastmodified":1466239396,
     "wof:name":"Grothen & Hahlen",
     "wof:parent_id":85796621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.916897,51.330914,6.916897,51.330914],
+  "bbox": [
+    6.916897,
+    51.330914,
+    6.916897,
+    51.330914
+],
   "geometry": {"coordinates":[6.916897,51.330914],"type":"Point"}
 }

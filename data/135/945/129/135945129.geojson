@@ -2,13 +2,14 @@
   "id": 135945129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.84328,53.559975,9.84328,53.559975",
     "geom:latitude":53.559975,
     "geom:longitude":9.84328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammannweg 7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899299,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135945129,
-    "wof:lastmodified":1449021262,
+    "wof:lastmodified":1466244704,
     "wof:name":"Hamburger Tr\u00e4ger F\u00fcr Bauen Und Immobilien",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.84328,53.559975,9.84328,53.559975],
+  "bbox": [
+    9.84328,
+    53.559975,
+    9.84328,
+    53.559975
+],
   "geometry": {"coordinates":[9.84328,53.559975],"type":"Point"}
 }

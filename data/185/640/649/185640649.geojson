@@ -2,13 +2,14 @@
   "id": 185640649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.760402,49.116619,10.760402,49.116619",
     "geom:latitude":49.116619,
     "geom:longitude":10.760402,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hensoltstr. 39",
     "sg:city":"Gunzenhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185640649,
-    "wof:lastmodified":1449007316,
+    "wof:lastmodified":1466213527,
     "wof:name":"M. Winkler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.760402,49.116619,10.760402,49.116619],
+  "bbox": [
+    10.760402,
+    49.116619,
+    10.760402,
+    49.116619
+],
   "geometry": {"coordinates":[10.760402,49.116619],"type":"Point"}
 }

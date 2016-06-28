@@ -2,13 +2,14 @@
   "id": 119079221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.260904,48.815067,9.260904,48.815067",
     "geom:latitude":48.815067,
     "geom:longitude":9.260904,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erich-Herion-Str. 27",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119079221,
-    "wof:lastmodified":1449043067,
+    "wof:lastmodified":1466218120,
     "wof:name":"Kerler Ames\u00f6der Braun Architekten",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.260904,48.815067,9.260904,48.815067],
+  "bbox": [
+    9.260904,
+    48.815067,
+    9.260904,
+    48.815067
+],
   "geometry": {"coordinates":[9.260904,48.815067],"type":"Point"}
 }

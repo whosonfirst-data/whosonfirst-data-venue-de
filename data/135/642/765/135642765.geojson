@@ -2,13 +2,14 @@
   "id": 135642765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.951074,53.616512,9.951074,53.616512",
     "geom:latitude":53.616512,
     "geom:longitude":9.951074,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kollaustr. 212",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899181,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135642765,
-    "wof:lastmodified":1449021168,
+    "wof:lastmodified":1466240609,
     "wof:name":"Klar Und R\u00f6nnau Gmbh",
     "wof:parent_id":85899181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.951074,53.616512,9.951074,53.616512],
+  "bbox": [
+    9.951074,
+    53.616512,
+    9.951074,
+    53.616512
+],
   "geometry": {"coordinates":[9.951074,53.616512],"type":"Point"}
 }

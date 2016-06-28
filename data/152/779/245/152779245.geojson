@@ -2,13 +2,14 @@
   "id": 152779245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.26765,51.486118,7.26765,51.486118",
     "geom:latitude":51.486118,
     "geom:longitude":7.26765,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornharpenerstr. 111",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152779245,
-    "wof:lastmodified":1449045017,
+    "wof:lastmodified":1466226562,
     "wof:name":"Decora",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.26765,51.486118,7.26765,51.486118],
+  "bbox": [
+    7.26765,
+    51.486118,
+    7.26765,
+    51.486118
+],
   "geometry": {"coordinates":[7.26765,51.486118],"type":"Point"}
 }

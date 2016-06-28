@@ -2,13 +2,14 @@
   "id": 118526431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.504993,51.882397,8.504993,51.882397",
     "geom:latitude":51.882397,
     "geom:longitude":8.504993,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 25+27::",
     "sg:city":"Verl",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063877,
-        85633111,
         85682513,
-        85796759
+        85633111,
+        85796759,
+        102063877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118526431,
-    "wof:lastmodified":1449053578,
+    "wof:lastmodified":1466214052,
     "wof:name":"Verler Volksbank Eg",
     "wof:parent_id":85796759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.504993,51.882397,8.504993,51.882397],
+  "bbox": [
+    8.504993,
+    51.882397,
+    8.504993,
+    51.882397
+],
   "geometry": {"coordinates":[8.504993,51.882397],"type":"Point"}
 }

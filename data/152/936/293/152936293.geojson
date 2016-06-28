@@ -2,13 +2,14 @@
   "id": 152936293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.354321,48.877956,2.354321,48.877956",
     "geom:latitude":48.877956,
     "geom:longitude":2.354321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"95",
     "sg:city":"PARIS",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"75010",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873885,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152936293,
-    "wof:lastmodified":1449045847,
+    "wof:lastmodified":1466230271,
     "wof:name":"Sexe Bombe",
     "wof:parent_id":85873885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.354321,48.877956,2.354321,48.877956],
+  "bbox": [
+    2.354321,
+    48.877956,
+    2.354321,
+    48.877956
+],
   "geometry": {"coordinates":[2.354321,48.877956],"type":"Point"}
 }

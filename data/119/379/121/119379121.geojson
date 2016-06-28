@@ -2,13 +2,14 @@
   "id": 119379121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.649167,50.496181,12.649167,50.496181",
     "geom:latitude":50.496181,
     "geom:longitude":12.649167,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstr. 14a",
     "sg:city":"Sosa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119379121,
-    "wof:lastmodified":1449042407,
+    "wof:lastmodified":1466240995,
     "wof:name":"Thomas Unger",
     "wof:parent_id":101824621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.649167,50.496181,12.649167,50.496181],
+  "bbox": [
+    12.649167,
+    50.496181,
+    12.649167,
+    50.496181
+],
   "geometry": {"coordinates":[12.649167,50.496181],"type":"Point"}
 }

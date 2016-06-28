@@ -2,13 +2,14 @@
   "id": 119101901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580101,50.102352,8.580101,50.102352",
     "geom:latitude":50.102352,
     "geom:longitude":8.580101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-Blaum-Str. 18",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119101901,
-    "wof:lastmodified":1449042250,
+    "wof:lastmodified":1466220214,
     "wof:name":"Norbert Und Martina Hinz Architekten",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580101,50.102352,8.580101,50.102352],
+  "bbox": [
+    8.580101,
+    50.102352,
+    8.580101,
+    50.102352
+],
   "geometry": {"coordinates":[8.580101,50.102352],"type":"Point"}
 }

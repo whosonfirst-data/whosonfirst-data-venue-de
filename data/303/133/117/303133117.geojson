@@ -2,13 +2,14 @@
   "id": 303133117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.160645,49.738724,10.160645,49.738724",
     "geom:latitude":49.738724,
     "geom:longitude":10.160645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Innere Sulzfelder Str. 14",
     "sg:city":"Kitzingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303133117,
-    "wof:lastmodified":1449000140,
+    "wof:lastmodified":1466227774,
     "wof:name":"Wilhelm Meuschel Ohg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.160645,49.738724,10.160645,49.738724],
+  "bbox": [
+    10.160645,
+    49.738724,
+    10.160645,
+    49.738724
+],
   "geometry": {"coordinates":[10.160645,49.738724],"type":"Point"}
 }

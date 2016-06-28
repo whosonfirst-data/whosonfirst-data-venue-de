@@ -2,13 +2,14 @@
   "id": 136167215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.117,50.741451,7.117,50.741451",
     "geom:latitude":50.741451,
     "geom:longitude":7.117,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Konrad-Str. 40",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794887,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85794887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136167215,
-    "wof:lastmodified":1449075604,
+    "wof:lastmodified":1466219594,
     "wof:name":"Haas Schiffseignerin",
     "wof:parent_id":85794887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.117,50.741451,7.117,50.741451],
+  "bbox": [
+    7.117,
+    50.741451,
+    7.117,
+    50.741451
+],
   "geometry": {"coordinates":[7.117,50.741451],"type":"Point"}
 }

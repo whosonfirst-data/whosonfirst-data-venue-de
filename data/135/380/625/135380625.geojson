@@ -2,13 +2,14 @@
   "id": 135380625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.5176,51.025009,11.5176,51.025009",
     "geom:latitude":51.025009,
     "geom:longitude":11.5176,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 24",
     "sg:city":"Apolda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135380625,
-    "wof:lastmodified":1449022416,
+    "wof:lastmodified":1466221048,
     "wof:name":"Deutsche Kreditbank Ag",
     "wof:parent_id":101823283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.5176,51.025009,11.5176,51.025009],
+  "bbox": [
+    11.5176,
+    51.025009,
+    11.5176,
+    51.025009
+],
   "geometry": {"coordinates":[11.5176,51.025009],"type":"Point"}
 }

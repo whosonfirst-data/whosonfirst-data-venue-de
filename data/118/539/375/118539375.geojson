@@ -2,13 +2,14 @@
   "id": 118539375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.433026,52.420403,13.433026,52.420403",
     "geom:latitude":52.420403,
     "geom:longitude":13.433026,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An den Achterh\u00f6fen 23",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118539375,
-    "wof:lastmodified":1449054577,
+    "wof:lastmodified":1466214814,
     "wof:name":"Die-leidienstleistung F\u00fcr Den Umweltschutz",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.433026,52.420403,13.433026,52.420403],
+  "bbox": [
+    13.433026,
+    52.420403,
+    13.433026,
+    52.420403
+],
   "geometry": {"coordinates":[13.433026,52.420403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136040971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.646692,49.859013,8.646692,49.859013",
     "geom:latitude":49.859013,
     "geom:longitude":8.646692,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidelberger Str. 81c",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136040971,
-    "wof:lastmodified":1449076236,
+    "wof:lastmodified":1466213993,
     "wof:name":"Danyssnack Gmbh, Vertrieb Frischer Snackprodukte",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.646692,49.859013,8.646692,49.859013],
+  "bbox": [
+    8.646692,
+    49.859013,
+    8.646692,
+    49.859013
+],
   "geometry": {"coordinates":[8.646692,49.859013],"type":"Point"}
 }

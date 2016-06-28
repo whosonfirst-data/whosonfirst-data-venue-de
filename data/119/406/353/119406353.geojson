@@ -2,13 +2,14 @@
   "id": 119406353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.176517,51.551594,7.176517,51.551594",
     "geom:latitude":51.551594,
     "geom:longitude":7.176517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hertener Str. 61",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795037,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85795037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119406353,
-    "wof:lastmodified":1449042274,
+    "wof:lastmodified":1466241528,
     "wof:name":"Roland Brockmann",
     "wof:parent_id":85795037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.176517,51.551594,7.176517,51.551594],
+  "bbox": [
+    7.176517,
+    51.551594,
+    7.176517,
+    51.551594
+],
   "geometry": {"coordinates":[7.176517,51.551594],"type":"Point"}
 }

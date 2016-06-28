@@ -2,13 +2,14 @@
   "id": 236512663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.105812,53.540958,10.105812,53.540958",
     "geom:latitude":53.540958,
     "geom:longitude":10.105812,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Billstedter Platz 39k",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236512663,
-    "wof:lastmodified":1449004166,
+    "wof:lastmodified":1466228208,
     "wof:name":"Runners Point",
     "wof:parent_id":85900015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.105812,53.540958,10.105812,53.540958],
+  "bbox": [
+    10.105812,
+    53.540958,
+    10.105812,
+    53.540958
+],
   "geometry": {"coordinates":[10.105812,53.540958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135476237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.670453,48.134377,11.670453,48.134377",
     "geom:latitude":48.134377,
     "geom:longitude":11.670453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stahlgruberring 40",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899355,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135476237,
-    "wof:lastmodified":1449022214,
+    "wof:lastmodified":1466229420,
     "wof:name":"Club Moonlight",
     "wof:parent_id":85899355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.670453,48.134377,11.670453,48.134377],
+  "bbox": [
+    11.670453,
+    48.134377,
+    11.670453,
+    48.134377
+],
   "geometry": {"coordinates":[11.670453,48.134377],"type":"Point"}
 }

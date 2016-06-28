@@ -2,13 +2,14 @@
   "id": 135475109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.551923,47.729683,7.551923,47.729683",
     "geom:latitude":47.729683,
     "geom:longitude":7.551923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badstr. 15",
     "sg:city":"Bad Bellingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135475109,
-    "wof:lastmodified":1449022253,
+    "wof:lastmodified":1466229307,
     "wof:name":"Bio-bar",
     "wof:parent_id":101842599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.551923,47.729683,7.551923,47.729683],
+  "bbox": [
+    7.551923,
+    47.729683,
+    7.551923,
+    47.729683
+],
   "geometry": {"coordinates":[7.551923,47.729683],"type":"Point"}
 }

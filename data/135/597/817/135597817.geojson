@@ -2,13 +2,14 @@
   "id": 135597817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.331393,51.495571,7.331393,51.495571",
     "geom:latitude":51.495571,
     "geom:longitude":7.331393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctgendortmunder Hellweg 217",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796763,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85796763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135597817,
-    "wof:lastmodified":1449023947,
+    "wof:lastmodified":1466238968,
     "wof:name":"Ma-bo-la Maler-bodenbeschichtung-",
     "wof:parent_id":85796763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.331393,51.495571,7.331393,51.495571],
+  "bbox": [
+    7.331393,
+    51.495571,
+    7.331393,
+    51.495571
+],
   "geometry": {"coordinates":[7.331393,51.495571],"type":"Point"}
 }

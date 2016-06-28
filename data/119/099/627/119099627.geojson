@@ -2,13 +2,14 @@
   "id": 119099627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.942342,53.544521,9.942342,53.544521",
     "geom:latitude":53.544521,
     "geom:longitude":9.942342,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfe Elbstr. 164e",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119099627,
-    "wof:lastmodified":1449042621,
+    "wof:lastmodified":1466220014,
     "wof:name":"Moritz M\u00fcller Architekt",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.942342,53.544521,9.942342,53.544521],
+  "bbox": [
+    9.942342,
+    53.544521,
+    9.942342,
+    53.544521
+],
   "geometry": {"coordinates":[9.942342,53.544521],"type":"Point"}
 }

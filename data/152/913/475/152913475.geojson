@@ -2,13 +2,14 @@
   "id": 152913475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.966716,53.59499,9.966716,53.59499",
     "geom:latitude":53.59499,
     "geom:longitude":9.966716,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lokstedter Steindamm 39",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152913475,
-    "wof:lastmodified":1449046093,
+    "wof:lastmodified":1466229732,
     "wof:name":"Rancka-werbung Versandhaus F\u00fcr Kinderzugabeartikel",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.966716,53.59499,9.966716,53.59499],
+  "bbox": [
+    9.966716,
+    53.59499,
+    9.966716,
+    53.59499
+],
   "geometry": {"coordinates":[9.966716,53.59499],"type":"Point"}
 }

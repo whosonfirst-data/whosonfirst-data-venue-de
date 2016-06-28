@@ -2,13 +2,14 @@
   "id": 135544181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.15011,53.679348,10.15011,53.679348",
     "geom:latitude":53.679348,
     "geom:longitude":10.15011,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamburger Str. 91",
     "sg:city":"Ammersbek",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064053,
-        85633111,
         85682505,
-        85900253
+        85633111,
+        85900253,
+        102064053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135544181,
-    "wof:lastmodified":1449023987,
+    "wof:lastmodified":1466235594,
     "wof:name":"Harry Sch\u00f6niger Betonbohren-s\u00e4gen Gmbh",
     "wof:parent_id":85900253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.15011,53.679348,10.15011,53.679348],
+  "bbox": [
+    10.15011,
+    53.679348,
+    10.15011,
+    53.679348
+],
   "geometry": {"coordinates":[10.15011,53.679348],"type":"Point"}
 }

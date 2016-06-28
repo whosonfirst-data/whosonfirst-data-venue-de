@@ -2,13 +2,14 @@
   "id": 136019107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.237245,51.476528,7.237245,51.476528",
     "geom:latitude":51.476528,
     "geom:longitude":7.237245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenbochumer Str. 25",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136019107,
-    "wof:lastmodified":1449075685,
+    "wof:lastmodified":1466235037,
     "wof:name":"Karl-werner Hoppe",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.237245,51.476528,7.237245,51.476528],
+  "bbox": [
+    7.237245,
+    51.476528,
+    7.237245,
+    51.476528
+],
   "geometry": {"coordinates":[7.237245,51.476528],"type":"Point"}
 }

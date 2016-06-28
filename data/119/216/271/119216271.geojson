@@ -2,13 +2,14 @@
   "id": 119216271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.077081,50.974625,7.077081,50.974625",
     "geom:latitude":50.974625,
     "geom:longitude":7.077081,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thurner Str. 8",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795075,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119216271,
-    "wof:lastmodified":1449043227,
+    "wof:lastmodified":1466230278,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Josef",
     "wof:parent_id":85795075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.077081,50.974625,7.077081,50.974625],
+  "bbox": [
+    7.077081,
+    50.974625,
+    7.077081,
+    50.974625
+],
   "geometry": {"coordinates":[7.077081,50.974625],"type":"Point"}
 }

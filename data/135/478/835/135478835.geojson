@@ -2,13 +2,14 @@
   "id": 135478835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.147265,51.256802,7.147265,51.256802",
     "geom:latitude":51.256802,
     "geom:longitude":7.147265,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstr. 13",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135478835,
-    "wof:lastmodified":1449021074,
+    "wof:lastmodified":1466229692,
     "wof:name":"Maxim",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.147265,51.256802,7.147265,51.256802],
+  "bbox": [
+    7.147265,
+    51.256802,
+    7.147265,
+    51.256802
+],
   "geometry": {"coordinates":[7.147265,51.256802],"type":"Point"}
 }

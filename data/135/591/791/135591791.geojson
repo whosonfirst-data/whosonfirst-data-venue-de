@@ -2,13 +2,14 @@
   "id": 135591791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.896073,50.862854,12.896073,50.862854",
     "geom:latitude":50.862854,
     "geom:longitude":12.896073,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bornaer Str. 137",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899025,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135591791,
-    "wof:lastmodified":1449022629,
+    "wof:lastmodified":1466238629,
     "wof:name":"Ullrich Merkel",
     "wof:parent_id":85899025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.896073,50.862854,12.896073,50.862854],
+  "bbox": [
+    12.896073,
+    50.862854,
+    12.896073,
+    50.862854
+],
   "geometry": {"coordinates":[12.896073,50.862854],"type":"Point"}
 }

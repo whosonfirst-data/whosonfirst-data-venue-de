@@ -2,13 +2,14 @@
   "id": 102616145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.698325,52.467796,13.698325,52.467796",
     "geom:latitude":52.467796,
     "geom:longitude":13.698325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Sch\u00f6neiche",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899937
+        85633111,
+        85899937,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102616145,
-    "wof:lastmodified":1449069570,
+    "wof:lastmodified":1466213712,
     "wof:name":"Gefra Gmbh",
     "wof:parent_id":85899937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.698325,52.467796,13.698325,52.467796],
+  "bbox": [
+    13.698325,
+    52.467796,
+    13.698325,
+    52.467796
+],
   "geometry": {"coordinates":[13.698325,52.467796],"type":"Point"}
 }

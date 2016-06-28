@@ -2,13 +2,14 @@
   "id": 152485703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.76385,53.085945,8.76385,53.085945",
     "geom:latitude":53.085945,
     "geom:longitude":8.76385,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Woltmershauser Str. 442-444",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85796255
+        85633111,
+        85796255,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152485703,
-    "wof:lastmodified":1449047114,
+    "wof:lastmodified":1466219914,
     "wof:name":"H. D.tietjen Beteiligungs-gmbh",
     "wof:parent_id":85796255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.76385,53.085945,8.76385,53.085945],
+  "bbox": [
+    8.76385,
+    53.085945,
+    8.76385,
+    53.085945
+],
   "geometry": {"coordinates":[8.76385,53.085945],"type":"Point"}
 }

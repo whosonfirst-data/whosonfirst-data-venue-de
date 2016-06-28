@@ -2,13 +2,14 @@
   "id": 303871233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.409981,51.62286,7.409981,51.62286",
     "geom:latitude":51.62286,
     "geom:longitude":7.409981,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dortmunder Str. 120",
     "sg:city":"Waltrop",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303871233,
-    "wof:lastmodified":1448998920,
+    "wof:lastmodified":1466241128,
     "wof:name":"Egbert Rasche",
     "wof:parent_id":85795973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.409981,51.62286,7.409981,51.62286],
+  "bbox": [
+    7.409981,
+    51.62286,
+    7.409981,
+    51.62286
+],
   "geometry": {"coordinates":[7.409981,51.62286],"type":"Point"}
 }

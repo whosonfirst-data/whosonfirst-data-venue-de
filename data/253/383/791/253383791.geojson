@@ -2,13 +2,14 @@
   "id": 253383791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.054705,48.967945,12.054705,48.967945",
     "geom:latitude":48.967945,
     "geom:longitude":12.054705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jahnstr. 20",
     "sg:city":"Pentling",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253383791,
-    "wof:lastmodified":1449064081,
+    "wof:lastmodified":1466226589,
     "wof:name":"Johann Weitzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.054705,48.967945,12.054705,48.967945],
+  "bbox": [
+    12.054705,
+    48.967945,
+    12.054705,
+    48.967945
+],
   "geometry": {"coordinates":[12.054705,48.967945],"type":"Point"}
 }

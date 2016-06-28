@@ -2,13 +2,14 @@
   "id": 119211987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.571285,49.5429,8.571285,49.5429",
     "geom:latitude":49.5429,
     "geom:longitude":8.571285,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulthei\u00dfenstr. 14",
     "sg:city":"Viernheim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119211987,
-    "wof:lastmodified":1449041458,
+    "wof:lastmodified":1466229892,
     "wof:name":"Kath. Pfarrb\u00fccherei St. Michael",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.571285,49.5429,8.571285,49.5429],
+  "bbox": [
+    8.571285,
+    49.5429,
+    8.571285,
+    49.5429
+],
   "geometry": {"coordinates":[8.571285,49.5429],"type":"Point"}
 }

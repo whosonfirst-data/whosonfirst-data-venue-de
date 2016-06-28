@@ -2,13 +2,14 @@
   "id": 135568187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.545381,52.47422,10.545381,52.47422",
     "geom:latitude":52.47422,
     "geom:longitude":10.545381,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Limbergstr. 19",
     "sg:city":"Gifhorn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135568187,
-    "wof:lastmodified":1449020901,
+    "wof:lastmodified":1466237108,
     "wof:name":"Otto Wendt",
     "wof:parent_id":101819795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.545381,52.47422,10.545381,52.47422],
+  "bbox": [
+    10.545381,
+    52.47422,
+    10.545381,
+    52.47422
+],
   "geometry": {"coordinates":[10.545381,52.47422],"type":"Point"}
 }

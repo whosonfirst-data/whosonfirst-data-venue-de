@@ -2,13 +2,14 @@
   "id": 135303085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.969672,49.59594,10.969672,49.59594",
     "geom:latitude":49.59594,
     "geom:longitude":10.969672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steigerwaldallee 2",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135303085,
-    "wof:lastmodified":1449021018,
+    "wof:lastmodified":1466214056,
     "wof:name":"Norbert Schmitt",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.969672,49.59594,10.969672,49.59594],
+  "bbox": [
+    10.969672,
+    49.59594,
+    10.969672,
+    49.59594
+],
   "geometry": {"coordinates":[10.969672,49.59594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152964627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.715767,51.091438,13.715767,51.091438",
     "geom:latitude":51.091438,
     "geom:longitude":13.715767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"w. mann str.25",
     "sg:city":"dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900153,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152964627,
-    "wof:lastmodified":1449047783,
+    "wof:lastmodified":1466230967,
     "wof:name":"Thehotjeany",
     "wof:parent_id":85900153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.715767,51.091438,13.715767,51.091438],
+  "bbox": [
+    13.715767,
+    51.091438,
+    13.715767,
+    51.091438
+],
   "geometry": {"coordinates":[13.715767,51.091438],"type":"Point"}
 }

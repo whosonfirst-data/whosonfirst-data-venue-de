@@ -2,13 +2,14 @@
   "id": 119345951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.123005,47.728233,12.123005,47.728233",
     "geom:latitude":47.728233,
     "geom:longitude":12.123005,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nu\u00dfdorfer Str. 4",
     "sg:city":"Flintsbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119345951,
-    "wof:lastmodified":1449043322,
+    "wof:lastmodified":1466239730,
     "wof:name":"Josef Wieland",
     "wof:parent_id":101835181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.123005,47.728233,12.123005,47.728233],
+  "bbox": [
+    12.123005,
+    47.728233,
+    12.123005,
+    47.728233
+],
   "geometry": {"coordinates":[12.123005,47.728233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286660529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.32077,49.427261,8.32077,49.427261",
     "geom:latitude":49.427261,
     "geom:longitude":8.32077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viehbachweg 13",
     "sg:city":"Dannstadt-Schauernheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286660529,
-    "wof:lastmodified":1449017789,
+    "wof:lastmodified":1466234273,
     "wof:name":"Winkelmann",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.32077,49.427261,8.32077,49.427261],
+  "bbox": [
+    8.32077,
+    49.427261,
+    8.32077,
+    49.427261
+],
   "geometry": {"coordinates":[8.32077,49.427261],"type":"Point"}
 }

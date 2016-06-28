@@ -2,13 +2,14 @@
   "id": 135454755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.965215,51.658989,6.965215,51.658989",
     "geom:latitude":51.658989,
     "geom:longitude":6.965215,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 627:: 46256 Dorsten:: Germany.^^S\u00fcdwall 23-25::",
     "sg:city":"Dorsten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135454755,
-    "wof:lastmodified":1449023717,
+    "wof:lastmodified":1466227569,
     "wof:name":"Volksbank Dorsten Eg",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.965215,51.658989,6.965215,51.658989],
+  "bbox": [
+    6.965215,
+    51.658989,
+    6.965215,
+    51.658989
+],
   "geometry": {"coordinates":[6.965215,51.658989],"type":"Point"}
 }

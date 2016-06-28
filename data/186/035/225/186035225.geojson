@@ -2,13 +2,14 @@
   "id": 186035225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.782685,51.116192,13.782685,51.116192",
     "geom:latitude":51.116192,
     "geom:longitude":13.782685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boltenhagener Str. 20",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186035225,
-    "wof:lastmodified":1449052495,
+    "wof:lastmodified":1466213579,
     "wof:name":"Dr. R. Segor",
     "wof:parent_id":85899403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.782685,51.116192,13.782685,51.116192],
+  "bbox": [
+    13.782685,
+    51.116192,
+    13.782685,
+    51.116192
+],
   "geometry": {"coordinates":[13.782685,51.116192],"type":"Point"}
 }

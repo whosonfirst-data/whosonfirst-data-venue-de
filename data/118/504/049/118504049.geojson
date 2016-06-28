@@ -2,13 +2,14 @@
   "id": 118504049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.403656,48.602604,-93.403656,48.602604",
     "geom:latitude":48.602604,
     "geom:longitude":-93.403656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"international",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":118504049,
-    "wof:lastmodified":1449053383,
+    "wof:lastmodified":1466225167,
     "wof:name":"Allen",
     "wof:parent_id":85968309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.403656,48.602604,-93.403656,48.602604],
+  "bbox": [
+    -93.403656,
+    48.602604,
+    -93.403656,
+    48.602604
+],
   "geometry": {"coordinates":[-93.403656,48.602604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136188553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.811048,53.076984,8.811048,53.076984",
     "geom:latitude":53.076984,
     "geom:longitude":8.811048,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bischofsnadel 12",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136188553,
-    "wof:lastmodified":1449075568,
+    "wof:lastmodified":1466220581,
     "wof:name":"Blumen-l\u00fcst Inh. Rainer Hartmann",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.811048,53.076984,8.811048,53.076984],
+  "bbox": [
+    8.811048,
+    53.076984,
+    8.811048,
+    53.076984
+],
   "geometry": {"coordinates":[8.811048,53.076984],"type":"Point"}
 }

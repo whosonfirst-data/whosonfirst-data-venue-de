@@ -2,13 +2,14 @@
   "id": 135754653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.55584,51.496082,7.55584,51.496082",
     "geom:latitude":51.496082,
     "geom:longitude":7.55584,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00e4rtmannstr. 27",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794747,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85794747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135754653,
-    "wof:lastmodified":1449022981,
+    "wof:lastmodified":1466243617,
     "wof:name":"Tiroler Trachten-st\u00fcbchen Doris Dr\u00e4ger",
     "wof:parent_id":85794747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.55584,51.496082,7.55584,51.496082],
+  "bbox": [
+    7.55584,
+    51.496082,
+    7.55584,
+    51.496082
+],
   "geometry": {"coordinates":[7.55584,51.496082],"type":"Point"}
 }

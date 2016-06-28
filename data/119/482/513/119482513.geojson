@@ -2,13 +2,14 @@
   "id": 119482513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542104,52.008949,8.542104,52.008949",
     "geom:latitude":52.008949,
     "geom:longitude":8.542104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Detmolder Str. 112",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863223,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85863223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119482513,
-    "wof:lastmodified":1449041735,
+    "wof:lastmodified":1466243444,
     "wof:name":"Verleihnix & Verpackfix Inh. Michael Heinz K\u00fchl",
     "wof:parent_id":85863223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542104,52.008949,8.542104,52.008949],
+  "bbox": [
+    8.542104,
+    52.008949,
+    8.542104,
+    52.008949
+],
   "geometry": {"coordinates":[8.542104,52.008949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.39185,50.830494,12.39185,50.830494",
     "geom:latitude":50.830494,
     "geom:longitude":12.39185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstr. 5",
     "sg:city":"Crimmitschau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203100643,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466215513,
     "wof:name":"Armin Dietrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.39185,50.830494,12.39185,50.830494],
+  "bbox": [
+    12.39185,
+    50.830494,
+    12.39185,
+    50.830494
+],
   "geometry": {"coordinates":[12.39185,50.830494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303593163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.945556,50.854366,13.945556,50.854366",
     "geom:latitude":50.854366,
     "geom:longitude":13.945556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pirnaer Str. 3",
     "sg:city":"Bad Gottleuba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303593163,
-    "wof:lastmodified":1448999740,
+    "wof:lastmodified":1466237843,
     "wof:name":"Cad Doc Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.945556,50.854366,13.945556,50.854366],
+  "bbox": [
+    13.945556,
+    50.854366,
+    13.945556,
+    50.854366
+],
   "geometry": {"coordinates":[13.945556,50.854366],"type":"Point"}
 }

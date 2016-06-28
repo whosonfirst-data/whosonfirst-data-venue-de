@@ -2,13 +2,14 @@
   "id": 119385403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.035179,52.706928,11.035179,52.706928",
     "geom:latitude":52.706928,
     "geom:longitude":11.035179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 68",
     "sg:city":"Rohrberg",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119385403,
-    "wof:lastmodified":1449042442,
+    "wof:lastmodified":1466241015,
     "wof:name":"Walter Pieper",
     "wof:parent_id":85682519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.035179,52.706928,11.035179,52.706928],
+  "bbox": [
+    11.035179,
+    52.706928,
+    11.035179,
+    52.706928
+],
   "geometry": {"coordinates":[11.035179,52.706928],"type":"Point"}
 }

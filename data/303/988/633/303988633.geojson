@@ -2,13 +2,14 @@
   "id": 303988633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.743412,50.101341,8.743412,50.101341",
     "geom:latitude":50.101341,
     "geom:longitude":8.743412,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Offenbacher Landstr. 522",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303988633,
-    "wof:lastmodified":1448998962,
+    "wof:lastmodified":1466241868,
     "wof:name":"Reinhold Breidenbach",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.743412,50.101341,8.743412,50.101341],
+  "bbox": [
+    8.743412,
+    50.101341,
+    8.743412,
+    50.101341
+],
   "geometry": {"coordinates":[8.743412,50.101341],"type":"Point"}
 }

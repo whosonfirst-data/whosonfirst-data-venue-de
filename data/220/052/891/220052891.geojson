@@ -2,13 +2,14 @@
   "id": 220052891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.97668,49.513111,10.97668,49.513111",
     "geom:latitude":49.513111,
     "geom:longitude":10.97668,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Sachs-Str.",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220052891,
-    "wof:lastmodified":1449074383,
+    "wof:lastmodified":1466215611,
     "wof:name":"Cafe Hallenbad",
     "wof:parent_id":85900089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.97668,49.513111,10.97668,49.513111],
+  "bbox": [
+    10.97668,
+    49.513111,
+    10.97668,
+    49.513111
+],
   "geometry": {"coordinates":[10.97668,49.513111],"type":"Point"}
 }

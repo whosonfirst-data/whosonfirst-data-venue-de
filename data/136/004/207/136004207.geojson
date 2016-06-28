@@ -2,13 +2,14 @@
   "id": 136004207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633637,49.868462,8.633637,49.868462",
     "geom:latitude":49.868462,
     "geom:longitude":8.633637,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Allee 9",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136004207,
-    "wof:lastmodified":1449075396,
+    "wof:lastmodified":1466219004,
     "wof:name":"Engel Verm\u00f6gens- Verwaltungs Gmbh",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.633637,49.868462,8.633637,49.868462],
+  "bbox": [
+    8.633637,
+    49.868462,
+    8.633637,
+    49.868462
+],
   "geometry": {"coordinates":[8.633637,49.868462],"type":"Point"}
 }

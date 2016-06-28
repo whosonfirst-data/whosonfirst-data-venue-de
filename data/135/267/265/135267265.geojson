@@ -2,13 +2,14 @@
   "id": 135267265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.290995,49.936729,11.290995,49.936729",
     "geom:latitude":49.936729,
     "geom:longitude":11.290995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalplatz 3",
     "sg:city":"Hollfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135267265,
-    "wof:lastmodified":1449023728,
+    "wof:lastmodified":1466213286,
     "wof:name":"Hans Weber",
     "wof:parent_id":101825897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.290995,49.936729,11.290995,49.936729],
+  "bbox": [
+    11.290995,
+    49.936729,
+    11.290995,
+    49.936729
+],
   "geometry": {"coordinates":[11.290995,49.936729],"type":"Point"}
 }

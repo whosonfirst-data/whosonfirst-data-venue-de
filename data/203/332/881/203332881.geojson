@@ -2,13 +2,14 @@
   "id": 203332881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701012,53.192776,8.701012,53.192776",
     "geom:latitude":53.192776,
     "geom:longitude":8.701012,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Planck-Str. 16",
     "sg:city":"Ritterhude",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203332881,
-    "wof:lastmodified":1449026007,
+    "wof:lastmodified":1466219385,
     "wof:name":"W. Ellerhorst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701012,53.192776,8.701012,53.192776],
+  "bbox": [
+    8.701012,
+    53.192776,
+    8.701012,
+    53.192776
+],
   "geometry": {"coordinates":[8.701012,53.192776],"type":"Point"}
 }

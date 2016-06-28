@@ -2,13 +2,14 @@
   "id": 119060899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.673087,48.076927,11.673087,48.076927",
     "geom:latitude":48.076927,
     "geom:longitude":11.673087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spechtstr. 7 a",
     "sg:city":"Neubiberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119060899,
-    "wof:lastmodified":1449043293,
+    "wof:lastmodified":1466216426,
     "wof:name":"Ing. Grad. Helmut Jakob Architekt",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.673087,48.076927,11.673087,48.076927],
+  "bbox": [
+    11.673087,
+    48.076927,
+    11.673087,
+    48.076927
+],
   "geometry": {"coordinates":[11.673087,48.076927],"type":"Point"}
 }

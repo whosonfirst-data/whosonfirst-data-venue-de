@@ -2,13 +2,14 @@
   "id": 136186099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.923639,49.231384,6.923639,49.231384",
     "geom:latitude":49.231384,
     "geom:longitude":6.923639,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofsweg 1",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796213,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85796213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136186099,
-    "wof:lastmodified":1449075944,
+    "wof:lastmodified":1466220458,
     "wof:name":"Blumen Dittrich",
     "wof:parent_id":85796213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.923639,49.231384,6.923639,49.231384],
+  "bbox": [
+    6.923639,
+    49.231384,
+    6.923639,
+    49.231384
+],
   "geometry": {"coordinates":[6.923639,49.231384],"type":"Point"}
 }

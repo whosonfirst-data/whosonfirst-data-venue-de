@@ -2,13 +2,14 @@
   "id": 118866161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.594539,48.10405,11.594539,48.10405",
     "geom:latitude":48.10405,
     "geom:longitude":11.594539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharfreiterstr. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899199,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118866161,
-    "wof:lastmodified":1449053810,
+    "wof:lastmodified":1466233814,
     "wof:name":"Apotheke Am Perlacher Forst Apothekerin I. Mayer-zabel",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.594539,48.10405,11.594539,48.10405],
+  "bbox": [
+    11.594539,
+    48.10405,
+    11.594539,
+    48.10405
+],
   "geometry": {"coordinates":[11.594539,48.10405],"type":"Point"}
 }

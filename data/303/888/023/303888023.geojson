@@ -2,13 +2,14 @@
   "id": 303888023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.156355,48.847523,9.156355,48.847523",
     "geom:latitude":48.847523,
     "geom:longitude":9.156355,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freihofstr. 21",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303888023,
-    "wof:lastmodified":1448999646,
+    "wof:lastmodified":1466241213,
     "wof:name":"G. Wei\u00df",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.156355,48.847523,9.156355,48.847523],
+  "bbox": [
+    9.156355,
+    48.847523,
+    9.156355,
+    48.847523
+],
   "geometry": {"coordinates":[9.156355,48.847523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203252741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.348538,52.437428,13.348538,52.437428",
     "geom:latitude":52.437428,
     "geom:longitude":13.348538,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruchwitzstr. 23",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203252741,
-    "wof:lastmodified":1449025189,
+    "wof:lastmodified":1466218084,
     "wof:name":"Erich Milbrand",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.348538,52.437428,13.348538,52.437428],
+  "bbox": [
+    13.348538,
+    52.437428,
+    13.348538,
+    52.437428
+],
   "geometry": {"coordinates":[13.348538,52.437428],"type":"Point"}
 }

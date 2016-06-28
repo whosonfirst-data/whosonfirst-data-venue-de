@@ -2,13 +2,14 @@
   "id": 135870227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.113161,49.016632,12.113161,49.016632",
     "geom:latitude":49.016632,
     "geom:longitude":12.113161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adolf-Schmetzer-Str. 22",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135870227,
-    "wof:lastmodified":1449021794,
+    "wof:lastmodified":1466244373,
     "wof:name":"Bestattungen Friede",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.113161,49.016632,12.113161,49.016632],
+  "bbox": [
+    12.113161,
+    49.016632,
+    12.113161,
+    49.016632
+],
   "geometry": {"coordinates":[12.113161,49.016632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203261729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.448283,52.016407,8.448283,52.016407",
     "geom:latitude":52.016407,
     "geom:longitude":8.448283,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielefelder Str. 98",
     "sg:city":"Steinhagen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203261729,
-    "wof:lastmodified":1449024974,
+    "wof:lastmodified":1466218230,
     "wof:name":"Ernst Lahmann",
     "wof:parent_id":85863237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.448283,52.016407,8.448283,52.016407],
+  "bbox": [
+    8.448283,
+    52.016407,
+    8.448283,
+    52.016407
+],
   "geometry": {"coordinates":[8.448283,52.016407],"type":"Point"}
 }

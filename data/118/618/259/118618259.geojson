@@ -2,13 +2,14 @@
   "id": 118618259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.608065,49.809895,8.608065,49.809895",
     "geom:latitude":49.809895,
     "geom:longitude":8.608065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zu den Sportpl\u00e4tzen 33",
     "sg:city":"Pfungstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118618259,
-    "wof:lastmodified":1449054030,
+    "wof:lastmodified":1466219297,
     "wof:name":"Altenpflegeheim Der Inneren Mission",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.608065,49.809895,8.608065,49.809895],
+  "bbox": [
+    8.608065,
+    49.809895,
+    8.608065,
+    49.809895
+],
   "geometry": {"coordinates":[8.608065,49.809895],"type":"Point"}
 }

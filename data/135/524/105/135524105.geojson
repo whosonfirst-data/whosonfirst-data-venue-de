@@ -2,13 +2,14 @@
   "id": 135524105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.479709,47.669479,9.479709,47.669479",
     "geom:latitude":47.669479,
     "geom:longitude":9.479709,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Teuringer Str. 3",
     "sg:city":"Friedrichshafen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135524105,
-    "wof:lastmodified":1449020954,
+    "wof:lastmodified":1466233826,
     "wof:name":"H. Mayer",
     "wof:parent_id":101748469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.479709,47.669479,9.479709,47.669479],
+  "bbox": [
+    9.479709,
+    47.669479,
+    9.479709,
+    47.669479
+],
   "geometry": {"coordinates":[9.479709,47.669479],"type":"Point"}
 }

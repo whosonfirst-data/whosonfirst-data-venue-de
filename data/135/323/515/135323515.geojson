@@ -2,13 +2,14 @@
   "id": 135323515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.018536,49.586983,11.018536,49.586983",
     "geom:latitude":49.586983,
     "geom:longitude":11.018536,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schenkstr. 65",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135323515,
-    "wof:lastmodified":1449021264,
+    "wof:lastmodified":1466215809,
     "wof:name":"Walter Ernst",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.018536,49.586983,11.018536,49.586983],
+  "bbox": [
+    11.018536,
+    49.586983,
+    11.018536,
+    49.586983
+],
   "geometry": {"coordinates":[11.018536,49.586983],"type":"Point"}
 }

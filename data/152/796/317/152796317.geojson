@@ -2,13 +2,14 @@
   "id": 152796317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.773193,38.965488,-78.773193,38.965488",
     "geom:latitude":38.965488,
     "geom:longitude":-78.773193,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinweg 13",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":152796317,
-    "wof:lastmodified":1449046490,
+    "wof:lastmodified":1466226965,
     "wof:name":"Dt-center- Autoaufbereitung Vom Fachmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.773193,38.965488,-78.773193,38.965488],
-  "geometry": {"coordinates":[-78.773193,38.965488],"type":"Point"}
+  "bbox": [
+    -78.773193,
+    38.965488,
+    -78.773193,
+    38.965488
+],
+  "geometry": {"coordinates":[-78.77319300000001,38.965488],"type":"Point"}
 }

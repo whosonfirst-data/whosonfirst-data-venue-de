@@ -2,13 +2,14 @@
   "id": 270508577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.925258,49.892639,10.925258,49.892639",
     "geom:latitude":49.892639,
     "geom:longitude":10.925258,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hertzstr. 29a",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270508577,
-    "wof:lastmodified":1449010026,
+    "wof:lastmodified":1466233792,
     "wof:name":"Hermann Eitinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.925258,49.892639,10.925258,49.892639],
+  "bbox": [
+    10.925258,
+    49.892639,
+    10.925258,
+    49.892639
+],
   "geometry": {"coordinates":[10.925258,49.892639],"type":"Point"}
 }

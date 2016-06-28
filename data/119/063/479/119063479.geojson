@@ -2,13 +2,14 @@
   "id": 119063479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.098998,53.672604,10.098998,53.672604",
     "geom:latitude":53.672604,
     "geom:longitude":10.098998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Treudelberg 50a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900159,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119063479,
-    "wof:lastmodified":1449041083,
+    "wof:lastmodified":1466216699,
     "wof:name":"Jens-peter Hillmer Architekten",
     "wof:parent_id":85900159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.098998,53.672604,10.098998,53.672604],
+  "bbox": [
+    10.098998,
+    53.672604,
+    10.098998,
+    53.672604
+],
   "geometry": {"coordinates":[10.098998,53.672604],"type":"Point"}
 }

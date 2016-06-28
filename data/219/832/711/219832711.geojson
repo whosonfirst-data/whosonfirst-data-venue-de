@@ -2,13 +2,14 @@
   "id": 219832711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.179604,48.735321,9.179604,48.735321",
     "geom:latitude":48.735321,
     "geom:longitude":9.179604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hoffeldstr. 187",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219832711,
-    "wof:lastmodified":1449070386,
+    "wof:lastmodified":1466226974,
     "wof:name":"Rolf Ehmert",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.179604,48.735321,9.179604,48.735321],
+  "bbox": [
+    9.179604,
+    48.735321,
+    9.179604,
+    48.735321
+],
   "geometry": {"coordinates":[9.179604,48.735321],"type":"Point"}
 }

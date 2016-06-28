@@ -2,13 +2,14 @@
   "id": 202881649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.591164,48.222176,10.591164,48.222176",
     "geom:latitude":48.222176,
     "geom:longitude":10.591164,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 45",
     "sg:city":"Walkertshofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202881649,
-    "wof:lastmodified":1449061584,
+    "wof:lastmodified":1466222783,
     "wof:name":"Adam Egger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.591164,48.222176,10.591164,48.222176],
+  "bbox": [
+    10.591164,
+    48.222176,
+    10.591164,
+    48.222176
+],
   "geometry": {"coordinates":[10.591164,48.222176],"type":"Point"}
 }

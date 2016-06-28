@@ -2,13 +2,14 @@
   "id": 236273023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.961427,49.557991,10.961427,49.557991",
     "geom:latitude":49.557991,
     "geom:longitude":10.961427,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcttendorfer Str. 5",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236273023,
-    "wof:lastmodified":1449003348,
+    "wof:lastmodified":1466223930,
     "wof:name":"Andreas Ebersberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.961427,49.557991,10.961427,49.557991],
+  "bbox": [
+    10.961427,
+    49.557991,
+    10.961427,
+    49.557991
+],
   "geometry": {"coordinates":[10.961427,49.557991],"type":"Point"}
 }

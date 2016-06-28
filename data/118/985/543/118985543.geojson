@@ -2,13 +2,14 @@
   "id": 118985543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.558411,48.094231,11.558411,48.094231",
     "geom:latitude":48.094231,
     "geom:longitude":11.558411,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornblumenweg 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899261,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118985543,
-    "wof:lastmodified":1449053839,
+    "wof:lastmodified":1466239328,
     "wof:name":"Br\u00fcntrup Und Frick Architekten",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.558411,48.094231,11.558411,48.094231],
+  "bbox": [
+    11.558411,
+    48.094231,
+    11.558411,
+    48.094231
+],
   "geometry": {"coordinates":[11.558411,48.094231],"type":"Point"}
 }

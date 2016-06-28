@@ -2,13 +2,14 @@
   "id": 152238007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.808501,53.990776,10.808501,53.990776",
     "geom:latitude":53.990776,
     "geom:longitude":10.808501,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strandallee 81",
     "sg:city":"Timmendorfer Strand",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064093,
-        85633111,
         85682487,
-        85899923
+        85633111,
+        85899923,
+        102064093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152238007,
-    "wof:lastmodified":1449046038,
+    "wof:lastmodified":1466214844,
     "wof:name":"Modest\u00fcbchen Kirsch Und Nagel",
     "wof:parent_id":85899923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.808501,53.990776,10.808501,53.990776],
+  "bbox": [
+    10.808501,
+    53.990776,
+    10.808501,
+    53.990776
+],
   "geometry": {"coordinates":[10.808501,53.990776],"type":"Point"}
 }

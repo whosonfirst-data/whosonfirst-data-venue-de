@@ -2,13 +2,14 @@
   "id": 152758599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.078614,53.585049,10.078614,53.585049",
     "geom:latitude":53.585049,
     "geom:longitude":10.078614,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzm\u00fchlensr. 95",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899293,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152758599,
-    "wof:lastmodified":1449045701,
+    "wof:lastmodified":1466226069,
     "wof:name":"Bitwaves.de",
     "wof:parent_id":85899293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.078614,53.585049,10.078614,53.585049],
+  "bbox": [
+    10.078614,
+    53.585049,
+    10.078614,
+    53.585049
+],
   "geometry": {"coordinates":[10.078614,53.585049],"type":"Point"}
 }

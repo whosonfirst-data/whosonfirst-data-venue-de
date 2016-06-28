@@ -2,13 +2,14 @@
   "id": 135281009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.6659,51.059555,13.6659,51.059555",
     "geom:latitude":51.059555,
     "geom:longitude":13.6659,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Warthaer Str. 68",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899867,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135281009,
-    "wof:lastmodified":1449023555,
+    "wof:lastmodified":1466230677,
     "wof:name":"Joachim Winkler",
     "wof:parent_id":85899867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.6659,51.059555,13.6659,51.059555],
+  "bbox": [
+    13.6659,
+    51.059555,
+    13.6659,
+    51.059555
+],
   "geometry": {"coordinates":[13.6659,51.059555],"type":"Point"}
 }

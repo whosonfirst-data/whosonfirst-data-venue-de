@@ -2,13 +2,14 @@
   "id": 303514701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.779294,49.055332,11.779294,49.055332",
     "geom:latitude":49.055332,
     "geom:longitude":11.779294,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Josef-Schneider-Str. 3",
     "sg:city":"Hemau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303514701,
-    "wof:lastmodified":1448999349,
+    "wof:lastmodified":1466236761,
     "wof:name":"Gustav Reichenauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.779294,49.055332,11.779294,49.055332],
+  "bbox": [
+    11.779294,
+    49.055332,
+    11.779294,
+    49.055332
+],
   "geometry": {"coordinates":[11.779294,49.055332],"type":"Point"}
 }

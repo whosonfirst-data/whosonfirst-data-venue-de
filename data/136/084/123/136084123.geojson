@@ -2,13 +2,14 @@
   "id": 136084123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.610905,51.530376,7.610905,51.530376",
     "geom:latitude":51.530376,
     "geom:longitude":7.610905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcbenkamp 35",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796731,
+        85682513,
         85633111,
         101748733,
         102063823,
-        85682513
+        85796731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136084123,
-    "wof:lastmodified":1449075052,
+    "wof:lastmodified":1466216000,
     "wof:name":"Iws-service",
     "wof:parent_id":85796731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.610905,51.530376,7.610905,51.530376],
+  "bbox": [
+    7.610905,
+    51.530376,
+    7.610905,
+    51.530376
+],
   "geometry": {"coordinates":[7.610905,51.530376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135432033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.952528,49.050117,7.952528,49.050117",
     "geom:latitude":49.050117,
     "geom:longitude":7.952528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlsruher Str. 1",
     "sg:city":"Schweigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135432033,
-    "wof:lastmodified":1449020924,
+    "wof:lastmodified":1466225563,
     "wof:name":"Raiffeisenmarkt",
     "wof:parent_id":101761061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.952528,49.050117,7.952528,49.050117],
+  "bbox": [
+    7.952528,
+    49.050117,
+    7.952528,
+    49.050117
+],
   "geometry": {"coordinates":[7.952528,49.050117],"type":"Point"}
 }

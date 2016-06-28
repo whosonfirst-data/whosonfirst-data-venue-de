@@ -2,13 +2,14 @@
   "id": 118596423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.980035,51.047916,6.980035,51.047916",
     "geom:latitude":51.047916,
     "geom:longitude":6.980035,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Von-Ketteler-Str. 111-113",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795003,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85795003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118596423,
-    "wof:lastmodified":1449053870,
+    "wof:lastmodified":1466217990,
     "wof:name":"Stuettgen Frischm\u00c4rkte Gmbh",
     "wof:parent_id":85795003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.980035,51.047916,6.980035,51.047916],
+  "bbox": [
+    6.980035,
+    51.047916,
+    6.980035,
+    51.047916
+],
   "geometry": {"coordinates":[6.980035,51.047916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136244785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.988851,52.410442,12.988851,52.410442",
     "geom:latitude":52.410442,
     "geom:longitude":12.988851,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichenring 49",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899131,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85899131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136244785,
-    "wof:lastmodified":1449075444,
+    "wof:lastmodified":1466223900,
     "wof:name":"Pflanzen Zauber",
     "wof:parent_id":85899131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.988851,52.410442,12.988851,52.410442],
+  "bbox": [
+    12.988851,
+    52.410442,
+    12.988851,
+    52.410442
+],
   "geometry": {"coordinates":[12.988851,52.410442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119087123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.904435,53.590916,9.904435,53.590916",
     "geom:latitude":53.590916,
     "geom:longitude":9.904435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schnackenburgallee 149c",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899471,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119087123,
-    "wof:lastmodified":1449042061,
+    "wof:lastmodified":1466218868,
     "wof:name":"Lange Und Partner Gmbh",
     "wof:parent_id":85899471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.904435,53.590916,9.904435,53.590916],
+  "bbox": [
+    9.904435,
+    53.590916,
+    9.904435,
+    53.590916
+],
   "geometry": {"coordinates":[9.904435,53.590916],"type":"Point"}
 }

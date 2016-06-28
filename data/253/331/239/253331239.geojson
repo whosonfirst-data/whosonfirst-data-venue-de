@@ -2,13 +2,14 @@
   "id": 253331239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.164563,51.622299,7.164563,51.622299",
     "geom:latitude":51.622299,
     "geom:longitude":7.164563,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landwehr 50",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253331239,
-    "wof:lastmodified":1449064604,
+    "wof:lastmodified":1466225468,
     "wof:name":"Johann Bergel",
     "wof:parent_id":85795495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.164563,51.622299,7.164563,51.622299],
+  "bbox": [
+    7.164563,
+    51.622299,
+    7.164563,
+    51.622299
+],
   "geometry": {"coordinates":[7.164563,51.622299],"type":"Point"}
 }

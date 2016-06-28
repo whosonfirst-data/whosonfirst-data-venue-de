@@ -2,13 +2,14 @@
   "id": 169747331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.009586,52.836666,9.009586,52.836666",
     "geom:latitude":52.836666,
     "geom:longitude":9.009586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstr. 1",
     "sg:city":"Bruchhausen-Vilsen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169747331,
-    "wof:lastmodified":1449033290,
+    "wof:lastmodified":1466213353,
     "wof:name":"Johannhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.009586,52.836666,9.009586,52.836666],
+  "bbox": [
+    9.009586,
+    52.836666,
+    9.009586,
+    52.836666
+],
   "geometry": {"coordinates":[9.009586,52.836666],"type":"Point"}
 }

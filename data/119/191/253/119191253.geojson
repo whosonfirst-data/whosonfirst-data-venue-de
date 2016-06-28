@@ -2,13 +2,14 @@
   "id": 119191253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.635797,52.126431,11.635797,52.126431",
     "geom:latitude":52.126431,
     "geom:longitude":11.635797,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Domplatz 6-9",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119191253,
-    "wof:lastmodified":1449042463,
+    "wof:lastmodified":1466227976,
     "wof:name":"Archiv Des Landtags Von Sachsen-anhalt",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.635797,52.126431,11.635797,52.126431],
+  "bbox": [
+    11.635797,
+    52.126431,
+    11.635797,
+    52.126431
+],
   "geometry": {"coordinates":[11.635797,52.126431],"type":"Point"}
 }

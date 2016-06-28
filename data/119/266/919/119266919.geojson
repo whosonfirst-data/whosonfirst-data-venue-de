@@ -2,13 +2,14 @@
   "id": 119266919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.532512,52.347664,14.532512,52.347664",
     "geom:latitude":52.347664,
     "geom:longitude":14.532512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luisenstr. 28",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119266919,
-    "wof:lastmodified":1449040971,
+    "wof:lastmodified":1466235283,
     "wof:name":"Dr. Med. Peter Wolkowitz",
     "wof:parent_id":101748801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.532512,52.347664,14.532512,52.347664],
+  "bbox": [
+    14.532512,
+    52.347664,
+    14.532512,
+    52.347664
+],
   "geometry": {"coordinates":[14.532512,52.347664],"type":"Point"}
 }

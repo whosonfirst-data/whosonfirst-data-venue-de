@@ -2,13 +2,14 @@
   "id": 119091041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.403954,49.463421,8.403954,49.463421",
     "geom:latitude":49.463421,
     "geom:longitude":8.403954,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-L\u00f6ns-Weg 23",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862839,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85862839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119091041,
-    "wof:lastmodified":1449041112,
+    "wof:lastmodified":1466219201,
     "wof:name":"M. Ilk Architekten",
     "wof:parent_id":85862839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.403954,49.463421,8.403954,49.463421],
+  "bbox": [
+    8.403954,
+    49.463421,
+    8.403954,
+    49.463421
+],
   "geometry": {"coordinates":[8.403954,49.463421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303461133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.139286,53.623589,10.139286,53.623589",
     "geom:latitude":53.623589,
     "geom:longitude":10.139286,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Falkenburger Ring 24",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303461133,
-    "wof:lastmodified":1448999040,
+    "wof:lastmodified":1466235787,
     "wof:name":"Georg P\u00f6hler",
     "wof:parent_id":85898999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.139286,53.623589,10.139286,53.623589],
+  "bbox": [
+    10.139286,
+    53.623589,
+    10.139286,
+    53.623589
+],
   "geometry": {"coordinates":[10.139286,53.623589],"type":"Point"}
 }

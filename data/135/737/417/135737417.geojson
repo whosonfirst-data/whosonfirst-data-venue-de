@@ -2,13 +2,14 @@
   "id": 135737417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.883915,51.503014,6.883915,51.503014",
     "geom:latitude":51.503014,
     "geom:longitude":6.883915,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kettelerstr. 1a",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863073,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135737417,
-    "wof:lastmodified":1449021664,
+    "wof:lastmodified":1466243350,
     "wof:name":"E. N. Berg Mode- Und Bekleidungshaus",
     "wof:parent_id":85863073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.883915,51.503014,6.883915,51.503014],
+  "bbox": [
+    6.883915,
+    51.503014,
+    6.883915,
+    51.503014
+],
   "geometry": {"coordinates":[6.883915,51.503014],"type":"Point"}
 }

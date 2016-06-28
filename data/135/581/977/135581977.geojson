@@ -2,13 +2,14 @@
   "id": 135581977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.703518,49.894375,11.703518,49.894375",
     "geom:latitude":49.894375,
     "geom:longitude":11.703518,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchenweg 17",
     "sg:city":"Seybothenreuth",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135581977,
-    "wof:lastmodified":1449021623,
+    "wof:lastmodified":1466238211,
     "wof:name":"Baumann",
     "wof:parent_id":101825861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.703518,49.894375,11.703518,49.894375],
+  "bbox": [
+    11.703518,
+    49.894375,
+    11.703518,
+    49.894375
+],
   "geometry": {"coordinates":[11.703518,49.894375],"type":"Point"}
 }

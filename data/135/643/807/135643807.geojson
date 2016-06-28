@@ -2,13 +2,14 @@
   "id": 135643807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.478346,52.410217,13.478346,52.410217",
     "geom:latitude":52.410217,
     "geom:longitude":13.478346,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00df-Ziethener Chaussee 126",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899061,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135643807,
-    "wof:lastmodified":1449023607,
+    "wof:lastmodified":1466240793,
     "wof:name":"Rufena Transport Und Handels Gmbh",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.478346,52.410217,13.478346,52.410217],
+  "bbox": [
+    13.478346,
+    52.410217,
+    13.478346,
+    52.410217
+],
   "geometry": {"coordinates":[13.478346,52.410217],"type":"Point"}
 }

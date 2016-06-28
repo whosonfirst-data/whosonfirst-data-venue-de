@@ -2,13 +2,14 @@
   "id": 118969343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.586104,48.158939,11.586104,48.158939",
     "geom:latitude":48.158939,
     "geom:longitude":11.586104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nikolaistr. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118969343,
-    "wof:lastmodified":1449053483,
+    "wof:lastmodified":1466238423,
     "wof:name":"A. Hild Architekt",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.586104,48.158939,11.586104,48.158939],
+  "bbox": [
+    11.586104,
+    48.158939,
+    11.586104,
+    48.158939
+],
   "geometry": {"coordinates":[11.586104,48.158939],"type":"Point"}
 }

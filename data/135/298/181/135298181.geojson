@@ -2,13 +2,14 @@
   "id": 135298181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.848668,50.994587,13.848668,50.994587",
     "geom:latitude":50.994587,
     "geom:longitude":13.848668,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Schule 1",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906337,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135298181,
-    "wof:lastmodified":1449021824,
+    "wof:lastmodified":1466213661,
     "wof:name":"M. Thomas",
     "wof:parent_id":85906337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.848668,50.994587,13.848668,50.994587],
+  "bbox": [
+    13.848668,
+    50.994587,
+    13.848668,
+    50.994587
+],
   "geometry": {"coordinates":[13.848668,50.994587],"type":"Point"}
 }

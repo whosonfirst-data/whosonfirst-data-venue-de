@@ -2,13 +2,14 @@
   "id": 135842105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.905547,50.425621,10.905547,50.425621",
     "geom:latitude":50.425621,
     "geom:longitude":10.905547,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wallgasse 2",
     "sg:city":"Eisfeld",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135842105,
-    "wof:lastmodified":1449021216,
+    "wof:lastmodified":1466244259,
     "wof:name":"Werner Held",
     "wof:parent_id":101824477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.905547,50.425621,10.905547,50.425621],
+  "bbox": [
+    10.905547,
+    50.425621,
+    10.905547,
+    50.425621
+],
   "geometry": {"coordinates":[10.905547,50.425621],"type":"Point"}
 }

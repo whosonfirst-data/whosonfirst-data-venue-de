@@ -2,13 +2,14 @@
   "id": 118614251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.016741,50.375397,8.016741,50.375397",
     "geom:latitude":50.375397,
     "geom:longitude":8.016741,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Christiansweg 29",
     "sg:city":"Diez",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862831,
+        85682531,
         85633111,
         101840081,
         102063643,
-        85682531
+        85862831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118614251,
-    "wof:lastmodified":1449054592,
+    "wof:lastmodified":1466219072,
     "wof:name":"Alten- Und Pflegeheim Der Arbeiterwohlfahrt",
     "wof:parent_id":85862831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.016741,50.375397,8.016741,50.375397],
+  "bbox": [
+    8.016741,
+    50.375397,
+    8.016741,
+    50.375397
+],
   "geometry": {"coordinates":[8.016741,50.375397],"type":"Point"}
 }

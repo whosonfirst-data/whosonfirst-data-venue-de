@@ -2,13 +2,14 @@
   "id": 185810791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.503917,52.440182,13.503917,52.440182",
     "geom:latitude":52.440182,
     "geom:longitude":13.503917,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haeckelstr. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185810791,
-    "wof:lastmodified":1449007084,
+    "wof:lastmodified":1466215219,
     "wof:name":"Regine Schwieger",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.503917,52.440182,13.503917,52.440182],
+  "bbox": [
+    13.503917,
+    52.440182,
+    13.503917,
+    52.440182
+],
   "geometry": {"coordinates":[13.503917,52.440182],"type":"Point"}
 }

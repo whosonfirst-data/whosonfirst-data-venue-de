@@ -2,13 +2,14 @@
   "id": 118622427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.700613,47.566425,10.700613,47.566425",
     "geom:latitude":47.566425,
     "geom:longitude":10.700613,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 4",
     "sg:city":"F\u00fcssen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118622427,
-    "wof:lastmodified":1449054301,
+    "wof:lastmodified":1466219549,
     "wof:name":"B\u00fcrgerspital F\u00fcssen",
     "wof:parent_id":101788941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.700613,47.566425,10.700613,47.566425],
+  "bbox": [
+    10.700613,
+    47.566425,
+    10.700613,
+    47.566425
+],
   "geometry": {"coordinates":[10.700613,47.566425],"type":"Point"}
 }

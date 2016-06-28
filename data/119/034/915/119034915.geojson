@@ -2,13 +2,14 @@
   "id": 119034915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.950648,51.654324,6.950648,51.654324",
     "geom:latitude":51.654324,
     "geom:longitude":6.950648,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaggenbahn 51",
     "sg:city":"Dorsten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119034915,
-    "wof:lastmodified":1449041140,
+    "wof:lastmodified":1466213993,
     "wof:name":"Hans Wellner",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.950648,51.654324,6.950648,51.654324],
+  "bbox": [
+    6.950648,
+    51.654324,
+    6.950648,
+    51.654324
+],
   "geometry": {"coordinates":[6.950648,51.654324],"type":"Point"}
 }

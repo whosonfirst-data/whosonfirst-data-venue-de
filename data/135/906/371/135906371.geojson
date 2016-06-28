@@ -2,13 +2,14 @@
   "id": 135906371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.256469,48.782459,9.256469,48.782459",
     "geom:latitude":48.782459,
     "geom:longitude":9.256469,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Str\u00fcmpfelbacher Str. 52",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796165,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135906371,
-    "wof:lastmodified":1449022148,
+    "wof:lastmodified":1466244539,
     "wof:name":"Rothenbacher Beteiligungs Gmbh",
     "wof:parent_id":85796165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.256469,48.782459,9.256469,48.782459],
+  "bbox": [
+    9.256469,
+    48.782459,
+    9.256469,
+    48.782459
+],
   "geometry": {"coordinates":[9.256469,48.782459],"type":"Point"}
 }

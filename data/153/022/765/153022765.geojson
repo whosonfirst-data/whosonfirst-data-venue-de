@@ -2,13 +2,14 @@
   "id": 153022765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.079079,30.71312,-85.079079,30.71312",
     "geom:latitude":30.71312,
     "geom:longitude":-85.079079,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedl\u00e4nder Weg 19",
     "sg:city":"sdfgsd",
     "sg:classifiers":[],
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":153022765,
-    "wof:lastmodified":1449040487,
+    "wof:lastmodified":1466234866,
     "wof:name":"Hainberg-gymnasium G\u00f6ttingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.079079,30.71312,-85.079079,30.71312],
-  "geometry": {"coordinates":[-85.079079,30.71312],"type":"Point"}
+  "bbox": [
+    -85.079079,
+    30.71312,
+    -85.079079,
+    30.71312
+],
+  "geometry": {"coordinates":[-85.07907899999999,30.71312],"type":"Point"}
 }

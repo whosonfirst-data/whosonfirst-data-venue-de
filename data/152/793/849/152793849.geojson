@@ -2,13 +2,14 @@
   "id": 152793849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.653464,51.029926,13.653464,51.029926",
     "geom:latitude":51.029926,
     "geom:longitude":13.653464,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenweg 1",
     "sg:city":"Pesterwitz",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064217,
-        85633111,
         85682523,
-        85898959
+        85633111,
+        85898959,
+        102064217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152793849,
-    "wof:lastmodified":1449046842,
+    "wof:lastmodified":1466226904,
     "wof:name":"Dosenbier - Die S\u00fcffigste Band Der Welt!",
     "wof:parent_id":85898959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.653464,51.029926,13.653464,51.029926],
+  "bbox": [
+    13.653464,
+    51.029926,
+    13.653464,
+    51.029926
+],
   "geometry": {"coordinates":[13.653464,51.029926],"type":"Point"}
 }

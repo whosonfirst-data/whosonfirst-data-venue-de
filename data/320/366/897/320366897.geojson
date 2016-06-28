@@ -2,13 +2,14 @@
   "id": 320366897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.619984,48.603252,11.619984,48.603252",
     "geom:latitude":48.603252,
     "geom:longitude":11.619984,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Felsl-Str. 9",
     "sg:city":"Wolnzach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320366897,
-    "wof:lastmodified":1449013984,
+    "wof:lastmodified":1466239873,
     "wof:name":"Peter Bausch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.619984,48.603252,11.619984,48.603252],
+  "bbox": [
+    11.619984,
+    48.603252,
+    11.619984,
+    48.603252
+],
   "geometry": {"coordinates":[11.619984,48.603252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119274209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.773631,51.012836,13.773631,51.012836",
     "geom:latitude":51.012836,
     "geom:longitude":13.773631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz-Busch-Str. 5",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899525,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119274209,
-    "wof:lastmodified":1449041171,
+    "wof:lastmodified":1466235947,
     "wof:name":"Rolf-peter Arlt",
     "wof:parent_id":85899525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.773631,51.012836,13.773631,51.012836],
+  "bbox": [
+    13.773631,
+    51.012836,
+    13.773631,
+    51.012836
+],
   "geometry": {"coordinates":[13.773631,51.012836],"type":"Point"}
 }

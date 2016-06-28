@@ -2,13 +2,14 @@
   "id": 119266987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.558881,52.514599,13.558881,52.514599",
     "geom:latitude":52.514599,
     "geom:longitude":13.558881,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerstenweg 9",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900265,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119266987,
-    "wof:lastmodified":1449040968,
+    "wof:lastmodified":1466235290,
     "wof:name":"Dr. Med. R. Groch",
     "wof:parent_id":85900265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.558881,52.514599,13.558881,52.514599],
+  "bbox": [
+    13.558881,
+    52.514599,
+    13.558881,
+    52.514599
+],
   "geometry": {"coordinates":[13.558881,52.514599],"type":"Point"}
 }

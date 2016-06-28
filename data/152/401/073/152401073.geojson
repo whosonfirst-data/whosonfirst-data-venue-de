@@ -2,13 +2,14 @@
   "id": 152401073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542953,52.033855,8.542953,52.033855",
     "geom:latitude":52.033855,
     "geom:longitude":8.542953,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beckhausstr. 3/5",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152401073,
-    "wof:lastmodified":1449048232,
+    "wof:lastmodified":1466218178,
     "wof:name":"Krero Gmbh",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542953,52.033855,8.542953,52.033855],
+  "bbox": [
+    8.542953,
+    52.033855,
+    8.542953,
+    52.033855
+],
   "geometry": {"coordinates":[8.542953,52.033855],"type":"Point"}
 }

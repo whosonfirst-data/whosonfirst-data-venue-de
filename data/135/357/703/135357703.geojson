@@ -2,13 +2,14 @@
   "id": 135357703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.727974,48.2705,7.727974,48.2705",
     "geom:latitude":48.2705,
     "geom:longitude":7.727974,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Friedrich-Str. 27",
     "sg:city":"Rust",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135357703,
-    "wof:lastmodified":1449023638,
+    "wof:lastmodified":1466218771,
     "wof:name":"Albert Bohn",
     "wof:parent_id":101763095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.727974,48.2705,7.727974,48.2705],
+  "bbox": [
+    7.727974,
+    48.2705,
+    7.727974,
+    48.2705
+],
   "geometry": {"coordinates":[7.727974,48.2705],"type":"Point"}
 }

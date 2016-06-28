@@ -2,13 +2,14 @@
   "id": 152506887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.479145,48.175652,11.479145,48.175652",
     "geom:latitude":48.175652,
     "geom:longitude":11.479145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grovestr. 6",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900179,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152506887,
-    "wof:lastmodified":1449044397,
+    "wof:lastmodified":1466220382,
     "wof:name":"M\u00fcller Holding Gmbh",
     "wof:parent_id":85900179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.479145,48.175652,11.479145,48.175652],
+  "bbox": [
+    11.479145,
+    48.175652,
+    11.479145,
+    48.175652
+],
   "geometry": {"coordinates":[11.479145,48.175652],"type":"Point"}
 }

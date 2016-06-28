@@ -2,13 +2,14 @@
   "id": 119254497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.576561,52.15049,11.576561,52.15049",
     "geom:latitude":52.15049,
     "geom:longitude":11.576561,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Olvenstedter Chaussee 137",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899865,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119254497,
-    "wof:lastmodified":1449042721,
+    "wof:lastmodified":1466234040,
     "wof:name":"Christel Lehmann",
     "wof:parent_id":85899865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.576561,52.15049,11.576561,52.15049],
+  "bbox": [
+    11.576561,
+    52.15049,
+    11.576561,
+    52.15049
+],
   "geometry": {"coordinates":[11.576561,52.15049],"type":"Point"}
 }

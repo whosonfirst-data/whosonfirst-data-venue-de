@@ -2,13 +2,14 @@
   "id": 303395719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.96015,53.632786,9.96015,53.632786",
     "geom:latitude":53.632786,
     "geom:longitude":9.96015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Habichthorst 12",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303395719,
-    "wof:lastmodified":1449000200,
+    "wof:lastmodified":1466234305,
     "wof:name":"Klaus Gruber Gmbh",
     "wof:parent_id":85899181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.96015,53.632786,9.96015,53.632786],
+  "bbox": [
+    9.96015,
+    53.632786,
+    9.96015,
+    53.632786
+],
   "geometry": {"coordinates":[9.96015,53.632786],"type":"Point"}
 }

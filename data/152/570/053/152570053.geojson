@@ -2,13 +2,14 @@
   "id": 152570053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.819988,53.072529,8.819988,53.072529",
     "geom:latitude":53.072529,
     "geom:longitude":8.819988,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostertorsteinweg 78",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152570053,
-    "wof:lastmodified":1449047036,
+    "wof:lastmodified":1466221816,
     "wof:name":"Kostmann Gmbh",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.819988,53.072529,8.819988,53.072529],
+  "bbox": [
+    8.819988,
+    53.072529,
+    8.819988,
+    53.072529
+],
   "geometry": {"coordinates":[8.819988,53.072529],"type":"Point"}
 }

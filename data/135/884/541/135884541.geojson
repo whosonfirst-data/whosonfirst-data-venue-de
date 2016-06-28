@@ -2,13 +2,14 @@
   "id": 135884541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.985997,51.043312,6.985997,51.043312",
     "geom:latitude":51.043312,
     "geom:longitude":6.985997,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Overfeldweg 36",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795003,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85795003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135884541,
-    "wof:lastmodified":1449023439,
+    "wof:lastmodified":1466244317,
     "wof:name":"Eisenhandel K\u00fcppersteg Bruchh\u00e4user Gmbh",
     "wof:parent_id":85795003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.985997,51.043312,6.985997,51.043312],
+  "bbox": [
+    6.985997,
+    51.043312,
+    6.985997,
+    51.043312
+],
   "geometry": {"coordinates":[6.985997,51.043312],"type":"Point"}
 }

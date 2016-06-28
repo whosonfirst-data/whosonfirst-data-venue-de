@@ -2,13 +2,14 @@
   "id": 102738405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.048129,51.033775,7.048129,51.033775",
     "geom:latitude":51.033775,
     "geom:longitude":7.048129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796391,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85796391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102738405,
-    "wof:lastmodified":1449069567,
+    "wof:lastmodified":1466217519,
     "wof:name":"Bestattungshaus Friedrich Leverkusen",
     "wof:parent_id":85796391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.048129,51.033775,7.048129,51.033775],
+  "bbox": [
+    7.048129,
+    51.033775,
+    7.048129,
+    51.033775
+],
   "geometry": {"coordinates":[7.048129,51.033775],"type":"Point"}
 }

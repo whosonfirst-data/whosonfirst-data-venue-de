@@ -2,13 +2,14 @@
   "id": 119154347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.67494,51.951149,7.67494,51.951149",
     "geom:latitude":51.951149,
     "geom:longitude":7.67494,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Anzengruber-Weg 7",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796477,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85796477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119154347,
-    "wof:lastmodified":1449043567,
+    "wof:lastmodified":1466224518,
     "wof:name":"Wilfried Klenter Architekt",
     "wof:parent_id":85796477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.67494,51.951149,7.67494,51.951149],
+  "bbox": [
+    7.67494,
+    51.951149,
+    7.67494,
+    51.951149
+],
   "geometry": {"coordinates":[7.67494,51.951149],"type":"Point"}
 }

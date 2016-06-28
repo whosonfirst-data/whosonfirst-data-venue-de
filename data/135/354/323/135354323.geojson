@@ -2,13 +2,14 @@
   "id": 135354323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083945,48.805099,9.083945,48.805099",
     "geom:latitude":48.805099,
     "geom:longitude":9.083945,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laichlestr. 25",
     "sg:city":"Gerlingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135354323,
-    "wof:lastmodified":1449023660,
+    "wof:lastmodified":1466218452,
     "wof:name":"Manfred G\u00e4rtner Gmbh",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083945,48.805099,9.083945,48.805099],
+  "bbox": [
+    9.083945,
+    48.805099,
+    9.083945,
+    48.805099
+],
   "geometry": {"coordinates":[9.083945,48.805099],"type":"Point"}
 }

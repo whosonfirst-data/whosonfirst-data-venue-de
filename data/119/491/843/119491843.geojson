@@ -2,13 +2,14 @@
   "id": 119491843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.378136,52.467876,13.378136,52.467876",
     "geom:latitude":52.467876,
     "geom:longitude":13.378136,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Manteuffelstr.",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119491843,
-    "wof:lastmodified":1449040836,
+    "wof:lastmodified":1466243505,
     "wof:name":"Hermann Weigmann",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.378136,52.467876,13.378136,52.467876],
+  "bbox": [
+    13.378136,
+    52.467876,
+    13.378136,
+    52.467876
+],
   "geometry": {"coordinates":[13.378136,52.467876],"type":"Point"}
 }

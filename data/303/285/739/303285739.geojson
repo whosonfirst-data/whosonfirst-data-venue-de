@@ -2,13 +2,14 @@
   "id": 303285739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.336236,52.430943,13.336236,52.430943",
     "geom:latitude":52.430943,
     "geom:longitude":13.336236,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Wilhelm-Str. 20-22",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303285739,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1466231534,
     "wof:name":"Gerhard Beist Ohg",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.336236,52.430943,13.336236,52.430943],
+  "bbox": [
+    13.336236,
+    52.430943,
+    13.336236,
+    52.430943
+],
   "geometry": {"coordinates":[13.336236,52.430943],"type":"Point"}
 }

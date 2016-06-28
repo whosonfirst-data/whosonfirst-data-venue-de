@@ -2,13 +2,14 @@
   "id": 119486777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.333102,48.728275,9.333102,48.728275",
     "geom:latitude":48.728275,
     "geom:longitude":9.333102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Plochinger Str. 160",
     "sg:city":"Esslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119486777,
-    "wof:lastmodified":1449042342,
+    "wof:lastmodified":1466243380,
     "wof:name":"Hermann Richter",
     "wof:parent_id":101748503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.333102,48.728275,9.333102,48.728275],
+  "bbox": [
+    9.333102,
+    48.728275,
+    9.333102,
+    48.728275
+],
   "geometry": {"coordinates":[9.333102,48.728275],"type":"Point"}
 }

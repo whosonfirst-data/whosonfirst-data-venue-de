@@ -2,13 +2,14 @@
   "id": 119333459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.691213,50.121941,8.691213,50.121941",
     "geom:latitude":50.121941,
     "geom:longitude":8.691213,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merianstr. 53",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119333459,
-    "wof:lastmodified":1449043358,
+    "wof:lastmodified":1466239175,
     "wof:name":"Herbert Friedrich",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.691213,50.121941,8.691213,50.121941],
+  "bbox": [
+    8.691213,
+    50.121941,
+    8.691213,
+    50.121941
+],
   "geometry": {"coordinates":[8.691213,50.121941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152797407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.331142,48.868942,2.331142,48.868942",
     "geom:latitude":48.868942,
     "geom:longitude":2.331142,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"10 rue de la paix",
     "sg:city":"PARIS",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"75002",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152797407,
-    "wof:lastmodified":1449048465,
+    "wof:lastmodified":1466226995,
     "wof:name":"D\u00e9veloppement Des Ressources Humaines Assist\u00e9 Par http://ww",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.331142,48.868942,2.331142,48.868942],
+  "bbox": [
+    2.331142,
+    48.868942,
+    2.331142,
+    48.868942
+],
   "geometry": {"coordinates":[2.331142,48.868942],"type":"Point"}
 }

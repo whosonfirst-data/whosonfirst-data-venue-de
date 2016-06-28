@@ -2,13 +2,14 @@
   "id": 135896453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.561366,48.139668,11.561366,48.139668",
     "geom:latitude":48.139668,
     "geom:longitude":11.561366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135896453,
-    "wof:lastmodified":1449022102,
+    "wof:lastmodified":1466244484,
     "wof:name":"Kosina Beteiligungs Gmbh",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.561366,48.139668,11.561366,48.139668],
+  "bbox": [
+    11.561366,
+    48.139668,
+    11.561366,
+    48.139668
+],
   "geometry": {"coordinates":[11.561366,48.139668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320430007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.33569,50.057041,8.33569,50.057041",
     "geom:latitude":50.057041,
     "geom:longitude":8.33569,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borsigstr. 7",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320430007,
-    "wof:lastmodified":1449013643,
+    "wof:lastmodified":1466240271,
     "wof:name":"R & D Systems Gmbh",
     "wof:parent_id":85795955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.33569,50.057041,8.33569,50.057041],
+  "bbox": [
+    8.33569,
+    50.057041,
+    8.33569,
+    50.057041
+],
   "geometry": {"coordinates":[8.33569,50.057041],"type":"Point"}
 }

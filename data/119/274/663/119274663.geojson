@@ -2,13 +2,14 @@
   "id": 119274663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.35707,51.272614,12.35707,51.272614",
     "geom:latitude":51.272614,
     "geom:longitude":12.35707,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eulenbergallee 23",
     "sg:city":"Markkleeberg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85899485
+        85633111,
+        85899485,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119274663,
-    "wof:lastmodified":1449041170,
+    "wof:lastmodified":1466235977,
     "wof:name":"Ursula Jendryschik",
     "wof:parent_id":85899485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.35707,51.272614,12.35707,51.272614],
+  "bbox": [
+    12.35707,
+    51.272614,
+    12.35707,
+    51.272614
+],
   "geometry": {"coordinates":[12.35707,51.272614],"type":"Point"}
 }

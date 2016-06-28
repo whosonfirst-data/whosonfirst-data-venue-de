@@ -2,13 +2,14 @@
   "id": 102605585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.110558,51.569866,8.110558,51.569866",
     "geom:latitude":51.569866,
     "geom:longitude":8.110558,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grandweg 25",
     "sg:city":"Soest",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102605585,
-    "wof:lastmodified":1449068936,
+    "wof:lastmodified":1466213398,
     "wof:name":"Tauschring Soest",
     "wof:parent_id":101810239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.110558,51.569866,8.110558,51.569866],
+  "bbox": [
+    8.110558,
+    51.569866,
+    8.110558,
+    51.569866
+],
   "geometry": {"coordinates":[8.110558,51.569866],"type":"Point"}
 }

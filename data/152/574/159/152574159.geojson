@@ -2,13 +2,14 @@
   "id": 152574159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025705,50.974773,11.025705,50.974773",
     "geom:latitude":50.974773,
     "geom:longitude":11.025705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischmarkt 2",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152574159,
-    "wof:lastmodified":1449044256,
+    "wof:lastmodified":1466221923,
     "wof:name":"Conti-consult Bau-planungsgesellschaft Mbh",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025705,50.974773,11.025705,50.974773],
+  "bbox": [
+    11.025705,
+    50.974773,
+    11.025705,
+    50.974773
+],
   "geometry": {"coordinates":[11.025705,50.974773],"type":"Point"}
 }

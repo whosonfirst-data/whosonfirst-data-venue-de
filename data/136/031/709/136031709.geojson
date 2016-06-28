@@ -2,13 +2,14 @@
   "id": 136031709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.577878,49.428616,8.577878,49.428616",
     "geom:latitude":49.428616,
     "geom:longitude":8.577878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grenhofer Weg",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136031709,
-    "wof:lastmodified":1449075407,
+    "wof:lastmodified":1466213551,
     "wof:name":"Bildhauerei Mayer Sohn",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.577878,49.428616,8.577878,49.428616],
+  "bbox": [
+    8.577878,
+    49.428616,
+    8.577878,
+    49.428616
+],
   "geometry": {"coordinates":[8.577878,49.428616],"type":"Point"}
 }

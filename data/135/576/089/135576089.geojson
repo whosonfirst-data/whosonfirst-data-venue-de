@@ -2,13 +2,14 @@
   "id": 135576089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.634511,51.458118,6.634511,51.458118",
     "geom:latitude":51.458118,
     "geom:longitude":6.634511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Baerler Str. 62",
     "sg:city":"Moers",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796617,
+        85682513,
         85633111,
         101748759,
         102063833,
-        85682513
+        85796617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135576089,
-    "wof:lastmodified":1449023330,
+    "wof:lastmodified":1466237631,
     "wof:name":"Verklinkerung Angenendt Gmbh",
     "wof:parent_id":85796617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.634511,51.458118,6.634511,51.458118],
+  "bbox": [
+    6.634511,
+    51.458118,
+    6.634511,
+    51.458118
+],
   "geometry": {"coordinates":[6.634511,51.458118],"type":"Point"}
 }

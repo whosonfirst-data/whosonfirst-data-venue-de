@@ -2,13 +2,14 @@
   "id": 303753003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.053702,51.578526,7.053702,51.578526",
     "geom:latitude":51.578526,
     "geom:longitude":7.053702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ophofstr. 2",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303753003,
-    "wof:lastmodified":1448998410,
+    "wof:lastmodified":1466240063,
     "wof:name":"Heinz Riedel Masseur",
     "wof:parent_id":85863127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.053702,51.578526,7.053702,51.578526],
+  "bbox": [
+    7.053702,
+    51.578526,
+    7.053702,
+    51.578526
+],
   "geometry": {"coordinates":[7.053702,51.578526],"type":"Point"}
 }

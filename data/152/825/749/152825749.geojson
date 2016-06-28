@@ -2,13 +2,14 @@
   "id": 152825749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.289319,51.47464,7.289319,51.47464",
     "geom:latitude":51.47464,
     "geom:longitude":7.289319,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestra\u00dfe 42",
     "sg:city":"44894 Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796719,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152825749,
-    "wof:lastmodified":1449044474,
+    "wof:lastmodified":1466227647,
     "wof:name":"Foto, Zubeh\u00f6r, Service, Kameras, Video U.m.",
     "wof:parent_id":85796719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.289319,51.47464,7.289319,51.47464],
+  "bbox": [
+    7.289319,
+    51.47464,
+    7.289319,
+    51.47464
+],
   "geometry": {"coordinates":[7.289319,51.47464],"type":"Point"}
 }

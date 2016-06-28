@@ -2,13 +2,14 @@
   "id": 119497979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.473065,51.227757,6.473065,51.227757",
     "geom:latitude":51.227757,
     "geom:longitude":6.473065,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krahnendonk 73",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063773,
-        85633111,
         85682513,
-        85796043
+        85633111,
+        85796043,
+        102063773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119497979,
-    "wof:lastmodified":1449043530,
+    "wof:lastmodified":1466243584,
     "wof:name":"Albert Walbergs",
     "wof:parent_id":85796043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.473065,51.227757,6.473065,51.227757],
+  "bbox": [
+    6.473065,
+    51.227757,
+    6.473065,
+    51.227757
+],
   "geometry": {"coordinates":[6.473065,51.227757],"type":"Point"}
 }

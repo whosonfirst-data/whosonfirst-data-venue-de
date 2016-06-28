@@ -2,13 +2,14 @@
   "id": 135427321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.16038,48.728409,8.16038,48.728409",
     "geom:latitude":48.728409,
     "geom:longitude":8.16038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 110110:: 76487 Baden-Baden-Steinbach:: Germany.^^Steinbacher Str 61::",
     "sg:city":"Baden-Baden-Steinbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135427321,
-    "wof:lastmodified":1449021913,
+    "wof:lastmodified":1466225161,
     "wof:name":"Raiffeisenbank Steinbach Eg",
     "wof:parent_id":101748507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.16038,48.728409,8.16038,48.728409],
+  "bbox": [
+    8.16038,
+    48.728409,
+    8.16038,
+    48.728409
+],
   "geometry": {"coordinates":[8.16038,48.728409],"type":"Point"}
 }

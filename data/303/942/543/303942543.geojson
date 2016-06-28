@@ -2,13 +2,14 @@
   "id": 303942543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.231337,50.045631,10.231337,50.045631",
     "geom:latitude":50.045631,
     "geom:longitude":10.231337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zehntstr. 20",
     "sg:city":"Schweinfurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303942543,
-    "wof:lastmodified":1448999234,
+    "wof:lastmodified":1466241541,
     "wof:name":"Linea Nova",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.231337,50.045631,10.231337,50.045631],
+  "bbox": [
+    10.231337,
+    50.045631,
+    10.231337,
+    50.045631
+],
   "geometry": {"coordinates":[10.231337,50.045631],"type":"Point"}
 }

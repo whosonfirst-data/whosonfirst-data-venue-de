@@ -2,13 +2,14 @@
   "id": 135903435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.660269,47.604046,7.660269,47.604046",
     "geom:latitude":47.604046,
     "geom:longitude":7.660269,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeppelinstr. 25",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135903435,
-    "wof:lastmodified":1449021175,
+    "wof:lastmodified":1466244544,
     "wof:name":"Peetz Gmbh",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.660269,47.604046,7.660269,47.604046],
+  "bbox": [
+    7.660269,
+    47.604046,
+    7.660269,
+    47.604046
+],
   "geometry": {"coordinates":[7.660269,47.604046],"type":"Point"}
 }

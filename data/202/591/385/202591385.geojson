@@ -2,13 +2,14 @@
   "id": 202591385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.723378,49.671093,10.723378,49.671093",
     "geom:latitude":49.671093,
     "geom:longitude":10.723378,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 24",
     "sg:city":"Uehlfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202591385,
-    "wof:lastmodified":1449061470,
+    "wof:lastmodified":1466217469,
     "wof:name":"Walter Prechtel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.723378,49.671093,10.723378,49.671093],
+  "bbox": [
+    10.723378,
+    49.671093,
+    10.723378,
+    49.671093
+],
   "geometry": {"coordinates":[10.723378,49.671093],"type":"Point"}
 }

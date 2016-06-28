@@ -2,13 +2,14 @@
   "id": 253610935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.341127,49.624722,12.341127,49.624722",
     "geom:latitude":49.624722,
     "geom:longitude":12.341127,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 42",
     "sg:city":"Vohenstrau\u00df",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253610935,
-    "wof:lastmodified":1449065760,
+    "wof:lastmodified":1466231675,
     "wof:name":"Beates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.341127,49.624722,12.341127,49.624722],
+  "bbox": [
+    12.341127,
+    49.624722,
+    12.341127,
+    49.624722
+],
   "geometry": {"coordinates":[12.341127,49.624722],"type":"Point"}
 }

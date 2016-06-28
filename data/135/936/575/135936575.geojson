@@ -2,13 +2,14 @@
   "id": 135936575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.45204,52.449612,13.45204,52.449612",
     "geom:latitude":52.449612,
     "geom:longitude":13.45204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Havermannstr. 123",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899061,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135936575,
-    "wof:lastmodified":1449022010,
+    "wof:lastmodified":1466244689,
     "wof:name":"Haema Holding Ag",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.45204,52.449612,13.45204,52.449612],
+  "bbox": [
+    13.45204,
+    52.449612,
+    13.45204,
+    52.449612
+],
   "geometry": {"coordinates":[13.45204,52.449612],"type":"Point"}
 }

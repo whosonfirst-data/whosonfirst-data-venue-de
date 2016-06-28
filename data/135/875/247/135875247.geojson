@@ -2,13 +2,14 @@
   "id": 135875247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.59023,48.166618,11.59023,48.166618",
     "geom:latitude":48.166618,
     "geom:longitude":11.59023,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ungererstr. 75",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135875247,
-    "wof:lastmodified":1449023244,
+    "wof:lastmodified":1466244402,
     "wof:name":"A. Und J. Lasselsberger Deutschland Gmbh",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.59023,48.166618,11.59023,48.166618],
+  "bbox": [
+    11.59023,
+    48.166618,
+    11.59023,
+    48.166618
+],
   "geometry": {"coordinates":[11.59023,48.166618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135500075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.27264,50.560848,7.27264,50.560848",
     "geom:latitude":50.560848,
     "geom:longitude":7.27264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Quellenstr. 20",
     "sg:city":"Remagen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135500075,
-    "wof:lastmodified":1449021746,
+    "wof:lastmodified":1466231589,
     "wof:name":"Walter Weber",
     "wof:parent_id":85682491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.27264,50.560848,7.27264,50.560848],
+  "bbox": [
+    7.27264,
+    50.560848,
+    7.27264,
+    50.560848
+],
   "geometry": {"coordinates":[7.27264,50.560848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118523279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.1048,50.742554,7.1048,50.742554",
     "geom:latitude":50.742554,
     "geom:longitude":7.1048,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosental 102::",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118523279,
-    "wof:lastmodified":1449053958,
+    "wof:lastmodified":1466213824,
     "wof:name":"Pandion Ges Fuer Projektentwicklung U Vermoegsanlage Mbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.1048,50.742554,7.1048,50.742554],
+  "bbox": [
+    7.1048,
+    50.742554,
+    7.1048,
+    50.742554
+],
   "geometry": {"coordinates":[7.1048,50.742554],"type":"Point"}
 }

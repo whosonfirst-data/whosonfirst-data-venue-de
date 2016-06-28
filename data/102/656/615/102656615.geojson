@@ -2,13 +2,14 @@
   "id": 102656615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.548393,48.253658,11.548393,48.253658",
     "geom:latitude":48.253658,
     "geom:longitude":11.548393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Margarethen-Str. 12-16",
     "sg:city":"Oberschlei\u00dfheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905625,
+        85682571,
         85633111,
         101785323,
         102063273,
-        85682571
+        85905625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102656615,
-    "wof:lastmodified":1449069340,
+    "wof:lastmodified":1466214968,
     "wof:name":"Eckhard R\u00f6sner",
     "wof:parent_id":85905625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.548393,48.253658,11.548393,48.253658],
+  "bbox": [
+    11.548393,
+    48.253658,
+    11.548393,
+    48.253658
+],
   "geometry": {"coordinates":[11.548393,48.253658],"type":"Point"}
 }

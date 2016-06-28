@@ -2,13 +2,14 @@
   "id": 119218425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.655038,50.142776,8.655038,50.142776",
     "geom:latitude":50.142776,
     "geom:longitude":8.655038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pflugstr. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119218425,
-    "wof:lastmodified":1449042569,
+    "wof:lastmodified":1466230488,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek Sta. Familia",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.655038,50.142776,8.655038,50.142776],
+  "bbox": [
+    8.655038,
+    50.142776,
+    8.655038,
+    50.142776
+],
   "geometry": {"coordinates":[8.655038,50.142776],"type":"Point"}
 }

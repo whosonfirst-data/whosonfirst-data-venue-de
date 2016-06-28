@@ -2,13 +2,14 @@
   "id": 136001771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.199689,51.183754,7.199689,51.183754",
     "geom:latitude":51.183754,
     "geom:longitude":7.199689,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haddenbacher Str. 64",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862897,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136001771,
-    "wof:lastmodified":1449075210,
+    "wof:lastmodified":1466213217,
     "wof:name":"Liesendahl Gmbh",
     "wof:parent_id":85862897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.199689,51.183754,7.199689,51.183754],
+  "bbox": [
+    7.199689,
+    51.183754,
+    7.199689,
+    51.183754
+],
   "geometry": {"coordinates":[7.199689,51.183754],"type":"Point"}
 }

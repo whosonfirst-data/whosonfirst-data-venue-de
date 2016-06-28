@@ -2,13 +2,14 @@
   "id": 102588029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.700023,53.919983,10.700023,53.919983",
     "geom:latitude":53.919983,
     "geom:longitude":10.700023,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4hnchenstr 84",
     "sg:city":"Dietersdorf",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064123,
-        85633111,
         85682517,
-        85905709
+        85633111,
+        85905709,
+        102064123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102588029,
-    "wof:lastmodified":1449069712,
+    "wof:lastmodified":1466234508,
     "wof:name":"Vario-masten Gmbh",
     "wof:parent_id":85905709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.700023,53.919983,10.700023,53.919983],
+  "bbox": [
+    10.700023,
+    53.919983,
+    10.700023,
+    53.919983
+],
   "geometry": {"coordinates":[10.700023,53.919983],"type":"Point"}
 }

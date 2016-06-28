@@ -2,13 +2,14 @@
   "id": 152274927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.0058,51.064037,7.0058,51.064037",
     "geom:latitude":51.064037,
     "geom:longitude":7.0058,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Humboldtstr. 20",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796193,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85796193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152274927,
-    "wof:lastmodified":1449044875,
+    "wof:lastmodified":1466215598,
     "wof:name":"H. Hastenrath",
     "wof:parent_id":85796193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.0058,51.064037,7.0058,51.064037],
+  "bbox": [
+    7.0058,
+    51.064037,
+    7.0058,
+    51.064037
+],
   "geometry": {"coordinates":[7.0058,51.064037],"type":"Point"}
 }

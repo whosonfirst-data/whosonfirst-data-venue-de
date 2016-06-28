@@ -2,13 +2,14 @@
   "id": 119384587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.151159,49.529251,11.151159,49.529251",
     "geom:latitude":49.529251,
     "geom:longitude":11.151159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 93",
     "sg:city":"Heroldsberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063513,
-        85633111,
         85682571,
-        85899057
+        85633111,
+        85899057,
+        102063513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119384587,
-    "wof:lastmodified":1449041179,
+    "wof:lastmodified":1466240965,
     "wof:name":"Walter Ackermann",
     "wof:parent_id":85899057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.151159,49.529251,11.151159,49.529251],
+  "bbox": [
+    11.151159,
+    49.529251,
+    11.151159,
+    49.529251
+],
   "geometry": {"coordinates":[11.151159,49.529251],"type":"Point"}
 }

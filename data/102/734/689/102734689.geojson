@@ -2,13 +2,14 @@
   "id": 102734689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.839755,51.092934,6.839755,51.092934",
     "geom:latitude":51.092934,
     "geom:longitude":6.839755,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Dormagen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,10 +17,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063761,
-        85633111,
         85682513,
-        85796175
+        85633111,
+        85796175,
+        102063761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":102734689,
-    "wof:lastmodified":1449069872,
+    "wof:lastmodified":1466217267,
     "wof:name":"Kosmetik",
     "wof:parent_id":85796175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.839755,51.092934,6.839755,51.092934],
+  "bbox": [
+    6.839755,
+    51.092934,
+    6.839755,
+    51.092934
+],
   "geometry": {"coordinates":[6.839755,51.092934],"type":"Point"}
 }

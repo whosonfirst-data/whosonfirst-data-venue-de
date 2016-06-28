@@ -2,13 +2,14 @@
   "id": 135657565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.099789,49.3577,7.099789,49.3577",
     "geom:latitude":49.3577,
     "geom:longitude":7.099789,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogelstr. 27",
     "sg:city":"Schiffweiler",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135657565,
-    "wof:lastmodified":1449021330,
+    "wof:lastmodified":1466241163,
     "wof:name":"Fritz Ackermann",
     "wof:parent_id":101826723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.099789,49.3577,7.099789,49.3577],
+  "bbox": [
+    7.099789,
+    49.3577,
+    7.099789,
+    49.3577
+],
   "geometry": {"coordinates":[7.099789,49.3577],"type":"Point"}
 }

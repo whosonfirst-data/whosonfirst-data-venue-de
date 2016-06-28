@@ -2,13 +2,14 @@
   "id": 135536317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.053449,48.879005,10.053449,48.879005",
     "geom:latitude":48.879005,
     "geom:longitude":10.053449,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Abt-Johannes-Str. 22",
     "sg:city":"Aalen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135536317,
-    "wof:lastmodified":1449022825,
+    "wof:lastmodified":1466234967,
     "wof:name":"Werner S\u00fcpple",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.053449,48.879005,10.053449,48.879005],
+  "bbox": [
+    10.053449,
+    48.879005,
+    10.053449,
+    48.879005
+],
   "geometry": {"coordinates":[10.053449,48.879005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119079671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.840182,53.57225,9.840182,53.57225",
     "geom:latitude":53.57225,
     "geom:longitude":9.840182,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Isfeld 6 b",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899299,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119079671,
-    "wof:lastmodified":1449043068,
+    "wof:lastmodified":1466218162,
     "wof:name":"Klaus Behring Architekt",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.840182,53.57225,9.840182,53.57225],
+  "bbox": [
+    9.840182,
+    53.57225,
+    9.840182,
+    53.57225
+],
   "geometry": {"coordinates":[9.840182,53.57225],"type":"Point"}
 }

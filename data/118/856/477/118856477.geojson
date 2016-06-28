@@ -2,13 +2,14 @@
   "id": 118856477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.198517,51.267509,7.198517,51.267509",
     "geom:latitude":51.267509,
     "geom:longitude":7.198517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbeschulstr. 24",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795025,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85795025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118856477,
-    "wof:lastmodified":1449053550,
+    "wof:lastmodified":1466233195,
     "wof:name":"Zeughaus Apotheke Andreas Berghaus E. Kfm.",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.198517,51.267509,7.198517,51.267509],
+  "bbox": [
+    7.198517,
+    51.267509,
+    7.198517,
+    51.267509
+],
   "geometry": {"coordinates":[7.198517,51.267509],"type":"Point"}
 }

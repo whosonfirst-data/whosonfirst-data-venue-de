@@ -2,13 +2,14 @@
   "id": 269610445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.003517,48.890209,9.003517,48.890209",
     "geom:latitude":48.890209,
     "geom:longitude":9.003517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sickentaler H\u00f6fe 5",
     "sg:city":"Eberdingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269610445,
-    "wof:lastmodified":1449038908,
+    "wof:lastmodified":1466223816,
     "wof:name":"Reinhard Merkle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.003517,48.890209,9.003517,48.890209],
+  "bbox": [
+    9.003517,
+    48.890209,
+    9.003517,
+    48.890209
+],
   "geometry": {"coordinates":[9.003517,48.890209],"type":"Point"}
 }

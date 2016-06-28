@@ -2,13 +2,14 @@
   "id": 186609777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.899123,49.899506,10.899123,49.899506",
     "geom:latitude":49.899506,
     "geom:longitude":10.899123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwigstr. 25",
     "sg:city":"Bamberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186609777,
-    "wof:lastmodified":1449051381,
+    "wof:lastmodified":1466220091,
     "wof:name":"Stefan Fichtel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.899123,49.899506,10.899123,49.899506],
+  "bbox": [
+    10.899123,
+    49.899506,
+    10.899123,
+    49.899506
+],
   "geometry": {"coordinates":[10.899123,49.899506],"type":"Point"}
 }

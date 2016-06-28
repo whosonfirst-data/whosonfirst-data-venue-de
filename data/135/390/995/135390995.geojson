@@ -2,13 +2,14 @@
   "id": 135390995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.576752,38.098591,-87.576752,38.098591",
     "geom:latitude":38.098591,
     "geom:longitude":-87.576752,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1641:: 63236 Neu-Isenburg:: Germany.^^Flughafenstr 21::",
     "sg:city":"Neu-Isenburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135390995,
-    "wof:lastmodified":1449024022,
+    "wof:lastmodified":1466222103,
     "wof:name":"Kasinostrabe Immobilien Gmbh & Co Kg",
     "wof:parent_id":85942145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.576752,38.098591,-87.576752,38.098591],
+  "bbox": [
+    -87.576752,
+    38.098591,
+    -87.576752,
+    38.098591
+],
   "geometry": {"coordinates":[-87.576752,38.098591],"type":"Point"}
 }

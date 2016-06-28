@@ -2,13 +2,14 @@
   "id": 118742773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.937884,51.443279,11.937884,51.443279",
     "geom:latitude":51.443279,
     "geom:longitude":11.937884,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbruchweg 5",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905695,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85905695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118742773,
-    "wof:lastmodified":1449053243,
+    "wof:lastmodified":1466226342,
     "wof:name":"Senioren- Und Hauswirt- Schaftliche Betreuung",
     "wof:parent_id":85905695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.937884,51.443279,11.937884,51.443279],
+  "bbox": [
+    11.937884,
+    51.443279,
+    11.937884,
+    51.443279
+],
   "geometry": {"coordinates":[11.937884,51.443279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286943477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.792983,51.05389,13.792983,51.05389",
     "geom:latitude":51.05389,
     "geom:longitude":13.792983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Loschwitzer Str. 17",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286943477,
-    "wof:lastmodified":1449015955,
+    "wof:lastmodified":1466239289,
     "wof:name":"Martin Waldmann",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.792983,51.05389,13.792983,51.05389],
+  "bbox": [
+    13.792983,
+    51.05389,
+    13.792983,
+    51.05389
+],
   "geometry": {"coordinates":[13.792983,51.05389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135407407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.992445,53.553345,9.992445,53.553345",
     "geom:latitude":53.553345,
     "geom:longitude":9.992445,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 110161:: 17041 Neubrandenburg:: Germany.^^Platanenstr 11::",
     "sg:city":"Neubrandenburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135407407,
-    "wof:lastmodified":1449022678,
+    "wof:lastmodified":1466223502,
     "wof:name":"Neue Leben Holding Ag",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.992445,53.553345,9.992445,53.553345],
+  "bbox": [
+    9.992445,
+    53.553345,
+    9.992445,
+    53.553345
+],
   "geometry": {"coordinates":[9.992445,53.553345],"type":"Point"}
 }

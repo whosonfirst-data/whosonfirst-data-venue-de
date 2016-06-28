@@ -2,13 +2,14 @@
   "id": 118724419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654602,47.553776,7.654602,47.553776",
     "geom:latitude":47.553776,
     "geom:longitude":7.654602,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Basler Str. 42",
     "sg:city":"Grenzach-Wyhlen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85799839,
+        85682361,
         85633051,
         101914099,
         102062971,
-        85682361
+        85799839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118724419,
-    "wof:lastmodified":1449054494,
+    "wof:lastmodified":1466225252,
     "wof:name":"Kirchliche Sozialstation E. V.",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.654602,47.553776,7.654602,47.553776],
+  "bbox": [
+    7.654602,
+    47.553776,
+    7.654602,
+    47.553776
+],
   "geometry": {"coordinates":[7.654602,47.553776],"type":"Point"}
 }

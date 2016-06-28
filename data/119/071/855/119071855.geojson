@@ -2,13 +2,14 @@
   "id": 119071855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.023641,51.536362,7.023641,51.536362",
     "geom:latitude":51.536362,
     "geom:longitude":7.023641,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmalhorststr. 8",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794823,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119071855,
-    "wof:lastmodified":1449042548,
+    "wof:lastmodified":1466217460,
     "wof:name":"J\u00fcrgen Sch\u00e4fer Architekt",
     "wof:parent_id":85794823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.023641,51.536362,7.023641,51.536362],
+  "bbox": [
+    7.023641,
+    51.536362,
+    7.023641,
+    51.536362
+],
   "geometry": {"coordinates":[7.023641,51.536362],"type":"Point"}
 }

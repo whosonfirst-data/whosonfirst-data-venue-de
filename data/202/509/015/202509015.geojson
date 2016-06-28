@@ -2,13 +2,14 @@
   "id": 202509015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.927878,47.973316,8.927878,47.973316",
     "geom:latitude":47.973316,
     "geom:longitude":8.927878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Me\u00dfkircher Str. 10",
     "sg:city":"Neuhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202509015,
-    "wof:lastmodified":1449060198,
+    "wof:lastmodified":1466215801,
     "wof:name":"R. Drumm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.927878,47.973316,8.927878,47.973316],
+  "bbox": [
+    8.927878,
+    47.973316,
+    8.927878,
+    47.973316
+],
   "geometry": {"coordinates":[8.927878,47.973316],"type":"Point"}
 }

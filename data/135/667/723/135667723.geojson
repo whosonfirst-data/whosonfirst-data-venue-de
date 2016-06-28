@@ -2,13 +2,14 @@
   "id": 135667723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.147184,49.975182,9.147184,49.975182",
     "geom:latitude":49.975182,
     "geom:longitude":9.147184,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badergasse 4",
     "sg:city":"Aschaffenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135667723,
-    "wof:lastmodified":1449022979,
+    "wof:lastmodified":1466241483,
     "wof:name":"Ludwig Jordan",
     "wof:parent_id":101748567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.147184,49.975182,9.147184,49.975182],
+  "bbox": [
+    9.147184,
+    49.975182,
+    9.147184,
+    49.975182
+],
   "geometry": {"coordinates":[9.147184,49.975182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119237635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.888649,51.503132,6.888649,51.503132",
     "geom:latitude":51.503132,
     "geom:longitude":6.888649,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westf\u00e4lische Str. 17",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863073,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119237635,
-    "wof:lastmodified":1449040947,
+    "wof:lastmodified":1466232382,
     "wof:name":"Stadtb\u00fccherei Osterfeld",
     "wof:parent_id":85863073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.888649,51.503132,6.888649,51.503132],
+  "bbox": [
+    6.888649,
+    51.503132,
+    6.888649,
+    51.503132
+],
   "geometry": {"coordinates":[6.888649,51.503132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119338327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.092409,51.030506,7.092409,51.030506",
     "geom:latitude":51.030506,
     "geom:longitude":7.092409,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uppersberg 31",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063721,
-        85633111,
         85682513,
-        85795509
+        85633111,
+        85795509,
+        102063721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119338327,
-    "wof:lastmodified":1449041699,
+    "wof:lastmodified":1466239278,
     "wof:name":"J. Bach",
     "wof:parent_id":85795509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.092409,51.030506,7.092409,51.030506],
+  "bbox": [
+    7.092409,
+    51.030506,
+    7.092409,
+    51.030506
+],
   "geometry": {"coordinates":[7.092409,51.030506],"type":"Point"}
 }

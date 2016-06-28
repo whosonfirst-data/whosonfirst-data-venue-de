@@ -2,13 +2,14 @@
   "id": 118891475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.905196,50.824898,12.905196,50.824898",
     "geom:latitude":50.824898,
     "geom:longitude":12.905196,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goethestr. 5 a",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118891475,
-    "wof:lastmodified":1449054014,
+    "wof:lastmodified":1466235715,
     "wof:name":"Goethe-apotheke Inh. Ingeborg Kirchberg",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.905196,50.824898,12.905196,50.824898],
+  "bbox": [
+    12.905196,
+    50.824898,
+    12.905196,
+    50.824898
+],
   "geometry": {"coordinates":[12.905196,50.824898],"type":"Point"}
 }

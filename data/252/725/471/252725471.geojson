@@ -2,13 +2,14 @@
   "id": 252725471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.037138,48.424629,9.037138,48.424629",
     "geom:latitude":48.424629,
     "geom:longitude":9.037138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlstr. 25",
     "sg:city":"Ofterdingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252725471,
-    "wof:lastmodified":1449005688,
+    "wof:lastmodified":1466219424,
     "wof:name":"Hans Albrecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.037138,48.424629,9.037138,48.424629],
+  "bbox": [
+    9.037138,
+    48.424629,
+    9.037138,
+    48.424629
+],
   "geometry": {"coordinates":[9.037138,48.424629],"type":"Point"}
 }

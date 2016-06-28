@@ -2,13 +2,14 @@
   "id": 135635299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.748421,53.116318,8.748421,53.116318",
     "geom:latitude":53.116318,
     "geom:longitude":8.748421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kap-Horn-Str. 3",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85795819
+        85633111,
+        85795819,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135635299,
-    "wof:lastmodified":1449022316,
+    "wof:lastmodified":1466240539,
     "wof:name":"Miba Mineralien Und Bauhandel Gmbh & Co. Kg",
     "wof:parent_id":85795819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.748421,53.116318,8.748421,53.116318],
+  "bbox": [
+    8.748421,
+    53.116318,
+    8.748421,
+    53.116318
+],
   "geometry": {"coordinates":[8.748421,53.116318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152732743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.064161,50.759174,6.064161,50.759174",
     "geom:latitude":50.759174,
     "geom:longitude":6.064161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctticher Str. 181a",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796521,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85796521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152732743,
-    "wof:lastmodified":1449049042,
+    "wof:lastmodified":1466225426,
     "wof:name":"Hubert Versie",
     "wof:parent_id":85796521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.064161,50.759174,6.064161,50.759174],
+  "bbox": [
+    6.064161,
+    50.759174,
+    6.064161,
+    50.759174
+],
   "geometry": {"coordinates":[6.064161,50.759174],"type":"Point"}
 }

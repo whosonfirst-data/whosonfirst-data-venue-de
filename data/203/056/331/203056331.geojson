@@ -2,13 +2,14 @@
   "id": 203056331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.526413,53.923141,9.526413,53.923141",
     "geom:latitude":53.923141,
     "geom:longitude":9.526413,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 35",
     "sg:city":"Itzehoe",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203056331,
-    "wof:lastmodified":1449025442,
+    "wof:lastmodified":1466214747,
     "wof:name":"Hans Bartels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.526413,53.923141,9.526413,53.923141],
+  "bbox": [
+    9.526413,
+    53.923141,
+    9.526413,
+    53.923141
+],
   "geometry": {"coordinates":[9.526413,53.923141],"type":"Point"}
 }

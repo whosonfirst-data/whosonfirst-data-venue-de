@@ -2,13 +2,14 @@
   "id": 102711721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.642225,48.796036,12.642225,48.796036",
     "geom:latitude":48.796036,
     "geom:longitude":12.642225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Oberschneiding",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102711721,
-    "wof:lastmodified":1449069732,
+    "wof:lastmodified":1466216478,
     "wof:name":"Hafner",
     "wof:parent_id":101783289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.642225,48.796036,12.642225,48.796036],
+  "bbox": [
+    12.642225,
+    48.796036,
+    12.642225,
+    48.796036
+],
   "geometry": {"coordinates":[12.642225,48.796036],"type":"Point"}
 }

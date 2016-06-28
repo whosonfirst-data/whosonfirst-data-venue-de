@@ -2,13 +2,14 @@
   "id": 153009565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.038527,49.414249,11.038527,49.414249",
     "geom:latitude":49.414249,
     "geom:longitude":11.038527,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Salvador-Allende-Str. 34",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153009565,
-    "wof:lastmodified":1449040816,
+    "wof:lastmodified":1466221319,
     "wof:name":"Zentrum F\u00fcr Energetische Behandlung",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.038527,49.414249,11.038527,49.414249],
+  "bbox": [
+    11.038527,
+    49.414249,
+    11.038527,
+    49.414249
+],
   "geometry": {"coordinates":[11.038527,49.414249],"type":"Point"}
 }

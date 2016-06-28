@@ -2,13 +2,14 @@
   "id": 135668515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.58728,52.067318,8.58728,52.067318",
     "geom:latitude":52.067318,
     "geom:longitude":8.58728,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafenheider Str. 90",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795989,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85795989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135668515,
-    "wof:lastmodified":1449023103,
+    "wof:lastmodified":1466241749,
     "wof:name":"Manfred Winter",
     "wof:parent_id":85795989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.58728,52.067318,8.58728,52.067318],
+  "bbox": [
+    8.58728,
+    52.067318,
+    8.58728,
+    52.067318
+],
   "geometry": {"coordinates":[8.58728,52.067318],"type":"Point"}
 }

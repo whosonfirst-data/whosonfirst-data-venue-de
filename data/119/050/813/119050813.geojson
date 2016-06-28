@@ -2,13 +2,14 @@
   "id": 119050813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.802574,51.228542,6.802574,51.228542",
     "geom:latitude":51.228542,
     "geom:longitude":6.802574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstr. 85",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119050813,
-    "wof:lastmodified":1449042316,
+    "wof:lastmodified":1466215460,
     "wof:name":"Helmut St\u00f6rmann Architekt",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.802574,51.228542,6.802574,51.228542],
+  "bbox": [
+    6.802574,
+    51.228542,
+    6.802574,
+    51.228542
+],
   "geometry": {"coordinates":[6.802574,51.228542],"type":"Point"}
 }

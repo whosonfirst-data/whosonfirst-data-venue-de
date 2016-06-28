@@ -2,13 +2,14 @@
   "id": 135533377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.526367,51.477276,7.526367,51.477276",
     "geom:latitude":51.477276,
     "geom:longitude":7.526367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisvogelweg 1",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85794879
+        85633111,
+        85794879,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135533377,
-    "wof:lastmodified":1449020946,
+    "wof:lastmodified":1466234673,
     "wof:name":"Risch Bauges. Mbh",
     "wof:parent_id":85794879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.526367,51.477276,7.526367,51.477276],
+  "bbox": [
+    7.526367,
+    51.477276,
+    7.526367,
+    51.477276
+],
   "geometry": {"coordinates":[7.526367,51.477276],"type":"Point"}
 }

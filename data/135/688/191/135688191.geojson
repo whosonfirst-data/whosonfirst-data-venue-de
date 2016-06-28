@@ -2,13 +2,14 @@
   "id": 135688191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.092991,51.507999,7.092991,51.507999",
     "geom:latitude":51.507999,
     "geom:longitude":7.092991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Husemannstr. 71",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794991,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135688191,
-    "wof:lastmodified":1449022127,
+    "wof:lastmodified":1466242087,
     "wof:name":"Kw Interieur Objekteinrichtung Gmbh",
     "wof:parent_id":85794991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.092991,51.507999,7.092991,51.507999],
+  "bbox": [
+    7.092991,
+    51.507999,
+    7.092991,
+    51.507999
+],
   "geometry": {"coordinates":[7.092991,51.507999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202481623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.469224,48.588406,10.469224,48.588406",
     "geom:latitude":48.588406,
     "geom:longitude":10.469224,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hildegardstr. 20",
     "sg:city":"Dillingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202481623,
-    "wof:lastmodified":1449062336,
+    "wof:lastmodified":1466215255,
     "wof:name":"M. Kreiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.469224,48.588406,10.469224,48.588406],
+  "bbox": [
+    10.469224,
+    48.588406,
+    10.469224,
+    48.588406
+],
   "geometry": {"coordinates":[10.469224,48.588406],"type":"Point"}
 }

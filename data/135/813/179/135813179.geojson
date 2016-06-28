@@ -2,13 +2,14 @@
   "id": 135813179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.520923,52.008495,8.520923,52.008495",
     "geom:latitude":52.008495,
     "geom:longitude":8.520923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Quellenhofweg 25",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863223,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85863223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135813179,
-    "wof:lastmodified":1449021774,
+    "wof:lastmodified":1466244149,
     "wof:name":"Psycho-soz. Beratungsstelle Des. Sozialdienstes D. Vba",
     "wof:parent_id":85863223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.520923,52.008495,8.520923,52.008495],
+  "bbox": [
+    8.520923,
+    52.008495,
+    8.520923,
+    52.008495
+],
   "geometry": {"coordinates":[8.520923,52.008495],"type":"Point"}
 }

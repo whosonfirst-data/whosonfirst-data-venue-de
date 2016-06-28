@@ -2,13 +2,14 @@
   "id": 136205629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.732744,48.110149,11.732744,48.110149",
     "geom:latitude":48.110149,
     "geom:longitude":11.732744,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leibstr. 29",
     "sg:city":"Haar",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899729
+        85633111,
+        85899729,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136205629,
-    "wof:lastmodified":1449075703,
+    "wof:lastmodified":1466221501,
     "wof:name":"Franz Billmeier",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.732744,48.110149,11.732744,48.110149],
+  "bbox": [
+    11.732744,
+    48.110149,
+    11.732744,
+    48.110149
+],
   "geometry": {"coordinates":[11.732744,48.110149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287161351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.086593,48.45319,9.086593,48.45319",
     "geom:latitude":48.45319,
     "geom:longitude":9.086593,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 1",
     "sg:city":"Gomaringen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":287161351,
-    "wof:lastmodified":1449001020,
+    "wof:lastmodified":1466229411,
     "wof:name":"Andreas Schweitzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.086593,48.45319,9.086593,48.45319],
+  "bbox": [
+    9.086593,
+    48.45319,
+    9.086593,
+    48.45319
+],
   "geometry": {"coordinates":[9.086593,48.45319],"type":"Point"}
 }

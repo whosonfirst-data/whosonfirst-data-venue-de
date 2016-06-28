@@ -2,13 +2,14 @@
   "id": 135830923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.785098,51.685753,10.785098,51.685753",
     "geom:latitude":51.685753,
     "geom:longitude":10.785098,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasselfelder Str. 6",
     "sg:city":"Trautenstein",
     "sg:classifiers":[],
@@ -34,14 +35,20 @@
         }
     ],
     "wof:id":135830923,
-    "wof:lastmodified":1449021626,
+    "wof:lastmodified":1466244242,
     "wof:name":"Heinz Uhlemann",
     "wof:parent_id":85682519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.785098,51.685753,10.785098,51.685753],
+  "bbox": [
+    10.785098,
+    51.685753,
+    10.785098,
+    51.685753
+],
   "geometry": {"coordinates":[10.785098,51.685753],"type":"Point"}
 }

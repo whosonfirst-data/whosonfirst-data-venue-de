@@ -2,13 +2,14 @@
   "id": 119196203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.86183,51.014336,13.86183,51.014336",
     "geom:latitude":51.014336,
     "geom:longitude":13.86183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laubegaster Str. 21",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906337,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119196203,
-    "wof:lastmodified":1449041406,
+    "wof:lastmodified":1466228434,
     "wof:name":"Christian Augustin",
     "wof:parent_id":85906337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.86183,51.014336,13.86183,51.014336],
+  "bbox": [
+    13.86183,
+    51.014336,
+    13.86183,
+    51.014336
+],
   "geometry": {"coordinates":[13.86183,51.014336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186123227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.523723,48.714191,9.523723,48.714191",
     "geom:latitude":48.714191,
     "geom:longitude":9.523723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 1",
     "sg:city":"Ebersbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186123227,
-    "wof:lastmodified":1449051179,
+    "wof:lastmodified":1466214461,
     "wof:name":"Museum Ebersbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.523723,48.714191,9.523723,48.714191],
+  "bbox": [
+    9.523723,
+    48.714191,
+    9.523723,
+    48.714191
+],
   "geometry": {"coordinates":[9.523723,48.714191],"type":"Point"}
 }

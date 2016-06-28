@@ -2,13 +2,14 @@
   "id": 152953755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.399811,34.072922,-118.399811,34.072922",
     "geom:latitude":34.072922,
     "geom:longitude":-118.399811,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"1126-312 S. Federal Hwy",
     "sg:city":"Beverly Hills",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"33316",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885653,
+        85688637,
         85633793,
         85923701,
         102086957,
-        85688637
+        85885653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152953755,
-    "wof:lastmodified":1449047483,
+    "wof:lastmodified":1466230676,
     "wof:name":"Studbase",
     "wof:parent_id":85885653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.399811,34.072922,-118.399811,34.072922],
+  "bbox": [
+    -118.399811,
+    34.072922,
+    -118.399811,
+    34.072922
+],
   "geometry": {"coordinates":[-118.399811,34.072922],"type":"Point"}
 }

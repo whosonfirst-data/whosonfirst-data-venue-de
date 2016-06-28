@@ -2,13 +2,14 @@
   "id": 219588475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.46905,48.145493,11.46905,48.145493",
     "geom:latitude":48.145493,
     "geom:longitude":11.46905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsberger Str. 463",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219588475,
-    "wof:lastmodified":1449073236,
+    "wof:lastmodified":1466222180,
     "wof:name":"Hotel Imperial",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.46905,48.145493,11.46905,48.145493],
+  "bbox": [
+    11.46905,
+    48.145493,
+    11.46905,
+    48.145493
+],
   "geometry": {"coordinates":[11.46905,48.145493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118856081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.765542,52.065079,10.765542,52.065079",
     "geom:latitude":52.065079,
     "geom:longitude":10.765542,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ganterplatz 1 a",
     "sg:city":"Winnigstedt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118856081,
-    "wof:lastmodified":1449053551,
+    "wof:lastmodified":1466233170,
     "wof:name":"Winnigstedter Apotheke",
     "wof:parent_id":101909611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.765542,52.065079,10.765542,52.065079],
+  "bbox": [
+    10.765542,
+    52.065079,
+    10.765542,
+    52.065079
+],
   "geometry": {"coordinates":[10.765542,52.065079],"type":"Point"}
 }

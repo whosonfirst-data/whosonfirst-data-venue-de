@@ -2,13 +2,14 @@
   "id": 152549435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.859995,51.237213,6.859995,51.237213",
     "geom:latitude":51.237213,
     "geom:longitude":6.859995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neunzigstr. 3",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795051,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152549435,
-    "wof:lastmodified":1449045573,
+    "wof:lastmodified":1466221330,
     "wof:name":"Joma Holding Gmbh",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.859995,51.237213,6.859995,51.237213],
+  "bbox": [
+    6.859995,
+    51.237213,
+    6.859995,
+    51.237213
+],
   "geometry": {"coordinates":[6.859995,51.237213],"type":"Point"}
 }

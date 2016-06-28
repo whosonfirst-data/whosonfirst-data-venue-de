@@ -2,13 +2,14 @@
   "id": 118814717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.897505,53.54628,9.897505,53.54628",
     "geom:latitude":53.54628,
     "geom:longitude":9.897505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elbchaussee 210",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900129,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118814717,
-    "wof:lastmodified":1449053394,
+    "wof:lastmodified":1466230639,
     "wof:name":"Fischer Consultin Gmbh",
     "wof:parent_id":85900129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.897505,53.54628,9.897505,53.54628],
+  "bbox": [
+    9.897505,
+    53.54628,
+    9.897505,
+    53.54628
+],
   "geometry": {"coordinates":[9.897505,53.54628],"type":"Point"}
 }

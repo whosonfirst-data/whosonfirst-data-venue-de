@@ -2,13 +2,14 @@
   "id": 119528119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.310036,48.972443,8.310036,48.972443",
     "geom:latitude":48.972443,
     "geom:longitude":8.310036,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlsruher Str. 16",
     "sg:city":"Rheinstetten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119528119,
-    "wof:lastmodified":1449041502,
+    "wof:lastmodified":1466243922,
     "wof:name":"Gerhard Merklinger",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.310036,48.972443,8.310036,48.972443],
+  "bbox": [
+    8.310036,
+    48.972443,
+    8.310036,
+    48.972443
+],
   "geometry": {"coordinates":[8.310036,48.972443],"type":"Point"}
 }

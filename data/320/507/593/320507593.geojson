@@ -2,13 +2,14 @@
   "id": 320507593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.05672,49.016556,12.05672,49.016556",
     "geom:latitude":49.016556,
     "geom:longitude":12.05672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinkelstr. 1",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320507593,
-    "wof:lastmodified":1449013175,
+    "wof:lastmodified":1466241092,
     "wof:name":"E.on Bayern Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.05672,49.016556,12.05672,49.016556],
+  "bbox": [
+    12.05672,
+    49.016556,
+    12.05672,
+    49.016556
+],
   "geometry": {"coordinates":[12.05672,49.016556],"type":"Point"}
 }

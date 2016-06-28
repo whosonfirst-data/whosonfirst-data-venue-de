@@ -2,13 +2,14 @@
   "id": 185609995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.054021,48.799202,9.054021,48.799202",
     "geom:latitude":48.799202,
     "geom:longitude":9.054021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Schaffert-Str. 12",
     "sg:city":"Gerlingen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185609995,
-    "wof:lastmodified":1449007208,
+    "wof:lastmodified":1466213232,
     "wof:name":"M. Kleinfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.054021,48.799202,9.054021,48.799202],
+  "bbox": [
+    9.054021,
+    48.799202,
+    9.054021,
+    48.799202
+],
   "geometry": {"coordinates":[9.054021,48.799202],"type":"Point"}
 }

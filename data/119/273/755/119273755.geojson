@@ -2,13 +2,14 @@
   "id": 119273755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.473198,52.535149,13.473198,52.535149",
     "geom:latitude":52.535149,
     "geom:longitude":13.473198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wei\u00dfenseer Weg 87",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928747,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119273755,
-    "wof:lastmodified":1449042218,
+    "wof:lastmodified":1466235899,
     "wof:name":"Prof. Dr. Med. R. Baumgarten",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.473198,52.535149,13.473198,52.535149],
+  "bbox": [
+    13.473198,
+    52.535149,
+    13.473198,
+    52.535149
+],
   "geometry": {"coordinates":[13.473198,52.535149],"type":"Point"}
 }

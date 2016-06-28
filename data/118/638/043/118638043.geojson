@@ -2,13 +2,14 @@
   "id": 118638043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.713087,51.050056,13.713087,51.050056",
     "geom:latitude":51.050056,
     "geom:longitude":13.713087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6btauer Str. 31",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905665,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118638043,
-    "wof:lastmodified":1449053220,
+    "wof:lastmodified":1466220415,
     "wof:name":"Seniorenheim L\u00f6btau",
     "wof:parent_id":85905665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.713087,51.050056,13.713087,51.050056],
+  "bbox": [
+    13.713087,
+    51.050056,
+    13.713087,
+    51.050056
+],
   "geometry": {"coordinates":[13.713087,51.050056],"type":"Point"}
 }

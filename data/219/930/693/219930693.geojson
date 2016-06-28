@@ -2,13 +2,14 @@
   "id": 219930693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.023168,50.979527,11.023168,50.979527",
     "geom:latitude":50.979527,
     "geom:longitude":11.023168,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Andreasstr. 25",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219930693,
-    "wof:lastmodified":1449071523,
+    "wof:lastmodified":1466229002,
     "wof:name":"Hans-j\u00fcrgen Thierfelder",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.023168,50.979527,11.023168,50.979527],
+  "bbox": [
+    11.023168,
+    50.979527,
+    11.023168,
+    50.979527
+],
   "geometry": {"coordinates":[11.023168,50.979527],"type":"Point"}
 }

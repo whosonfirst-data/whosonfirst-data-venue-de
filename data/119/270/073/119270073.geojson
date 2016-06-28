@@ -2,13 +2,14 @@
   "id": 119270073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.593768,52.460735,13.593768,52.460735",
     "geom:latitude":52.460735,
     "geom:longitude":13.593768,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elseneck 8",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900261,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119270073,
-    "wof:lastmodified":1449041299,
+    "wof:lastmodified":1466235595,
     "wof:name":"Dr. Peter Lommatzsch",
     "wof:parent_id":85900261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.593768,52.460735,13.593768,52.460735],
+  "bbox": [
+    13.593768,
+    52.460735,
+    13.593768,
+    52.460735
+],
   "geometry": {"coordinates":[13.593768,52.460735],"type":"Point"}
 }

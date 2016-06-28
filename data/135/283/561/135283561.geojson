@@ -2,13 +2,14 @@
   "id": 135283561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.027152,48.2673,13.027152,48.2673",
     "geom:latitude":48.2673,
     "geom:longitude":13.027152,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchner Str. 3",
     "sg:city":"Simbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135283561,
-    "wof:lastmodified":1449021905,
+    "wof:lastmodified":1466233309,
     "wof:name":"Josef Ruhstorfer",
     "wof:parent_id":101834011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.027152,48.2673,13.027152,48.2673],
+  "bbox": [
+    13.027152,
+    48.2673,
+    13.027152,
+    48.2673
+],
   "geometry": {"coordinates":[13.027152,48.2673],"type":"Point"}
 }

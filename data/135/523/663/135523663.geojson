@@ -2,13 +2,14 @@
   "id": 135523663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.134501,51.175751,7.134501,51.175751",
     "geom:latitude":51.175751,
     "geom:longitude":7.134501,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sudberger Str. 6",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063751,
-        85633111,
         85682513,
-        85796027
+        85633111,
+        85796027,
+        102063751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135523663,
-    "wof:lastmodified":1449022753,
+    "wof:lastmodified":1466233788,
     "wof:name":"G\u00fcnter Kamp",
     "wof:parent_id":85796027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.134501,51.175751,7.134501,51.175751],
+  "bbox": [
+    7.134501,
+    51.175751,
+    7.134501,
+    51.175751
+],
   "geometry": {"coordinates":[7.134501,51.175751],"type":"Point"}
 }

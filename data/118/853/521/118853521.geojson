@@ -2,13 +2,14 @@
   "id": 118853521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.16157,51.459141,7.16157,51.459141",
     "geom:latitude":51.459141,
     "geom:longitude":7.16157,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6ntroper Str. 70",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796583,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85796583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118853521,
-    "wof:lastmodified":1449053706,
+    "wof:lastmodified":1466233001,
     "wof:name":"S\u00fcdpark-apotheke Inh. Thomas Koch",
     "wof:parent_id":85796583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.16157,51.459141,7.16157,51.459141],
+  "bbox": [
+    7.16157,
+    51.459141,
+    7.16157,
+    51.459141
+],
   "geometry": {"coordinates":[7.16157,51.459141],"type":"Point"}
 }

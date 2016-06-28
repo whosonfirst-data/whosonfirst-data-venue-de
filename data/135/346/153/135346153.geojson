@@ -2,13 +2,14 @@
   "id": 135346153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.006515,48.788815,9.006515,48.788815",
     "geom:latitude":48.788815,
     "geom:longitude":9.006515,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Schmincke-Str. 31",
     "sg:city":"Leonberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135346153,
-    "wof:lastmodified":1449020966,
+    "wof:lastmodified":1466217732,
     "wof:name":"Horst Marquart",
     "wof:parent_id":101755901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.006515,48.788815,9.006515,48.788815],
+  "bbox": [
+    9.006515,
+    48.788815,
+    9.006515,
+    48.788815
+],
   "geometry": {"coordinates":[9.006515,48.788815],"type":"Point"}
 }

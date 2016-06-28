@@ -2,13 +2,14 @@
   "id": 118788785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124919,49.468262,11.124919,49.468262",
     "geom:latitude":49.468262,
     "geom:longitude":11.124919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grimmstr. 13",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118788785,
-    "wof:lastmodified":1449053879,
+    "wof:lastmodified":1466229092,
     "wof:name":"Peter Meyer",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124919,49.468262,11.124919,49.468262],
+  "bbox": [
+    11.124919,
+    49.468262,
+    11.124919,
+    49.468262
+],
   "geometry": {"coordinates":[11.124919,49.468262],"type":"Point"}
 }

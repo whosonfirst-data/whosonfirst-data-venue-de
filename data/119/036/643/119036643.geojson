@@ -2,13 +2,14 @@
   "id": 119036643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.894579,53.548828,9.894579,53.548828",
     "geom:latitude":53.548828,
     "geom:longitude":9.894579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elbbl\u00f6cken 1d",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900129,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119036643,
-    "wof:lastmodified":1449041396,
+    "wof:lastmodified":1466214166,
     "wof:name":"Hans-joachim H\u00f6chst Ingenieur",
     "wof:parent_id":85900129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.894579,53.548828,9.894579,53.548828],
+  "bbox": [
+    9.894579,
+    53.548828,
+    9.894579,
+    53.548828
+],
   "geometry": {"coordinates":[9.894579,53.548828],"type":"Point"}
 }

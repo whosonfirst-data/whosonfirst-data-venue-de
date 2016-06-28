@@ -2,13 +2,14 @@
   "id": 102616143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.422775,49.450947,8.422775,49.450947",
     "geom:latitude":49.450947,
     "geom:longitude":8.422775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In der M\u00f6rschgewanne 3",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102616143,
-    "wof:lastmodified":1449069571,
+    "wof:lastmodified":1466213712,
     "wof:name":"B\u00fcro Und Raumdesign",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.422775,49.450947,8.422775,49.450947],
+  "bbox": [
+    8.422775,
+    49.450947,
+    8.422775,
+    49.450947
+],
   "geometry": {"coordinates":[8.422775,49.450947],"type":"Point"}
 }

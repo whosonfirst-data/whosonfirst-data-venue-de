@@ -2,13 +2,14 @@
   "id": 118939103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.433452,48.259567,11.433452,48.259567",
     "geom:latitude":48.259567,
     "geom:longitude":11.433452,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augsburger Str. 11",
     "sg:city":"Dachau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118939103,
-    "wof:lastmodified":1449053568,
+    "wof:lastmodified":1466237380,
     "wof:name":"St. Jakobs-apotheke",
     "wof:parent_id":101785371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.433452,48.259567,11.433452,48.259567],
+  "bbox": [
+    11.433452,
+    48.259567,
+    11.433452,
+    48.259567
+],
   "geometry": {"coordinates":[11.433452,48.259567],"type":"Point"}
 }

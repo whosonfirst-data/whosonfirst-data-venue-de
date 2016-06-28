@@ -2,13 +2,14 @@
   "id": 119521025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.099027,49.372753,11.099027,49.372753",
     "geom:latitude":49.372753,
     "geom:longitude":11.099027,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Worzeldorfer Hauptstr. 2",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900263,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119521025,
-    "wof:lastmodified":1449043431,
+    "wof:lastmodified":1466243893,
     "wof:name":"Franz Eder",
     "wof:parent_id":85900263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.099027,49.372753,11.099027,49.372753],
+  "bbox": [
+    11.099027,
+    49.372753,
+    11.099027,
+    49.372753
+],
   "geometry": {"coordinates":[11.099027,49.372753],"type":"Point"}
 }

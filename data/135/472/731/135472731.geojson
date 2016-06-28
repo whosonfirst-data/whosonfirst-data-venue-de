@@ -2,13 +2,14 @@
   "id": 135472731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74901,50.269325,8.74901,50.269325",
     "geom:latitude":50.269325,
     "geom:longitude":8.74901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rodheimer Str 1",
     "sg:city":"W\u00f6llstadt",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135472731,
-    "wof:lastmodified":1449021237,
+    "wof:lastmodified":1466229084,
     "wof:name":"Etiscan Gmbh",
     "wof:parent_id":85682531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74901,50.269325,8.74901,50.269325],
+  "bbox": [
+    8.74901,
+    50.269325,
+    8.74901,
+    50.269325
+],
   "geometry": {"coordinates":[8.74901,50.269325],"type":"Point"}
 }

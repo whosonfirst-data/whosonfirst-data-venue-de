@@ -2,13 +2,14 @@
   "id": 119499569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.535306,50.824684,12.535306,50.824684",
     "geom:latitude":50.824684,
     "geom:longitude":12.535306,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auestr. 26",
     "sg:city":"Glauchau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119499569,
-    "wof:lastmodified":1449041322,
+    "wof:lastmodified":1466243634,
     "wof:name":"Andreas Kroll",
     "wof:parent_id":101841231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.535306,50.824684,12.535306,50.824684],
+  "bbox": [
+    12.535306,
+    50.824684,
+    12.535306,
+    50.824684
+],
   "geometry": {"coordinates":[12.535306,50.824684],"type":"Point"}
 }

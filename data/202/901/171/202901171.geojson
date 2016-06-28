@@ -2,13 +2,14 @@
   "id": 202901171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.345198,49.793152,10.345198,49.793152",
     "geom:latitude":49.793152,
     "geom:longitude":10.345198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rehh\u00e4usergasse 6",
     "sg:city":"Wiesentheid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202901171,
-    "wof:lastmodified":1449061180,
+    "wof:lastmodified":1466223157,
     "wof:name":"Anton Maurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.345198,49.793152,10.345198,49.793152],
+  "bbox": [
+    10.345198,
+    49.793152,
+    10.345198,
+    49.793152
+],
   "geometry": {"coordinates":[10.345198,49.793152],"type":"Point"}
 }

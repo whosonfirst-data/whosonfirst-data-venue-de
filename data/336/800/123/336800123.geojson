@@ -2,13 +2,14 @@
   "id": 336800123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.976943,48.949173,12.976943,48.949173",
     "geom:latitude":48.949173,
     "geom:longitude":12.976943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlen-Siedlung 18",
     "sg:city":"Grafling",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":336800123,
-    "wof:lastmodified":1448997013,
+    "wof:lastmodified":1466237511,
     "wof:name":"E. Roth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.976943,48.949173,12.976943,48.949173],
+  "bbox": [
+    12.976943,
+    48.949173,
+    12.976943,
+    48.949173
+],
   "geometry": {"coordinates":[12.976943,48.949173],"type":"Point"}
 }

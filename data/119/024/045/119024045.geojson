@@ -2,13 +2,14 @@
   "id": 119024045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.91798,51.437397,6.91798,51.437397",
     "geom:latitude":51.437397,
     "geom:longitude":6.91798,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schieferbank 18",
     "sg:city":"M\u00fclheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863063,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85863063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119024045,
-    "wof:lastmodified":1449042113,
+    "wof:lastmodified":1466234896,
     "wof:name":"Gustav Berkermann Gmbh",
     "wof:parent_id":85863063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.91798,51.437397,6.91798,51.437397],
+  "bbox": [
+    6.91798,
+    51.437397,
+    6.91798,
+    51.437397
+],
   "geometry": {"coordinates":[6.91798,51.437397],"type":"Point"}
 }

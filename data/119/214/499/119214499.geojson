@@ -2,13 +2,14 @@
   "id": 119214499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.225238,51.529228,7.225238,51.529228",
     "geom:latitude":51.529228,
     "geom:longitude":7.225238,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6lkeskampring 40",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863257,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85863257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119214499,
-    "wof:lastmodified":1449043479,
+    "wof:lastmodified":1466230119,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek Marien-hospital",
     "wof:parent_id":85863257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.225238,51.529228,7.225238,51.529228],
+  "bbox": [
+    7.225238,
+    51.529228,
+    7.225238,
+    51.529228
+],
   "geometry": {"coordinates":[7.225238,51.529228],"type":"Point"}
 }

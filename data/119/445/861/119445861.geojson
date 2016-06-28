@@ -2,13 +2,14 @@
   "id": 119445861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.452641,52.470325,13.452641,52.470325",
     "geom:latitude":52.470325,
     "geom:longitude":13.452641,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niemetzstr. 32",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899583,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119445861,
-    "wof:lastmodified":1449041191,
+    "wof:lastmodified":1466242675,
     "wof:name":"Asrin Gmbh",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.452641,52.470325,13.452641,52.470325],
+  "bbox": [
+    13.452641,
+    52.470325,
+    13.452641,
+    52.470325
+],
   "geometry": {"coordinates":[13.452641,52.470325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118772635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.497247,51.989998,8.497247,51.989998",
     "geom:latitude":51.989998,
     "geom:longitude":8.497247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Pre\u00dfwerk 9",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063869,
-        85633111,
         85682513,
-        85863233
+        85633111,
+        85863233,
+        102063869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118772635,
-    "wof:lastmodified":1449053770,
+    "wof:lastmodified":1466228086,
     "wof:name":"Rhoba-chemie Gmbh",
     "wof:parent_id":85863233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.497247,51.989998,8.497247,51.989998],
+  "bbox": [
+    8.497247,
+    51.989998,
+    8.497247,
+    51.989998
+],
   "geometry": {"coordinates":[8.497247,51.989998],"type":"Point"}
 }

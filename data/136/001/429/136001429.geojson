@@ -2,13 +2,14 @@
   "id": 136001429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.375289,48.12249,11.375289,48.12249",
     "geom:latitude":48.12249,
     "geom:longitude":11.375289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fichtenstr. 51",
     "sg:city":"Germering",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063271,
-        85633111,
         85682571,
-        85899165
+        85633111,
+        85899165,
+        102063271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136001429,
-    "wof:lastmodified":1449075211,
+    "wof:lastmodified":1466213202,
     "wof:name":"Bib Bauberatungs- Und Immobilienbeteiligungs Ag",
     "wof:parent_id":85899165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.375289,48.12249,11.375289,48.12249],
+  "bbox": [
+    11.375289,
+    48.12249,
+    11.375289,
+    48.12249
+],
   "geometry": {"coordinates":[11.375289,48.12249],"type":"Point"}
 }

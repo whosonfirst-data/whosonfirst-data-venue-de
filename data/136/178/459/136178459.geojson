@@ -2,13 +2,14 @@
   "id": 136178459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.861819,51.511234,6.861819,51.511234",
     "geom:latitude":51.511234,
     "geom:longitude":6.861819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vestische Str. 199",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795151,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85795151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136178459,
-    "wof:lastmodified":1449075877,
+    "wof:lastmodified":1466220089,
     "wof:name":"Alb. T\u00fcmmers",
     "wof:parent_id":85795151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.861819,51.511234,6.861819,51.511234],
+  "bbox": [
+    6.861819,
+    51.511234,
+    6.861819,
+    51.511234
+],
   "geometry": {"coordinates":[6.861819,51.511234],"type":"Point"}
 }

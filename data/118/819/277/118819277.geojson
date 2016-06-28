@@ -2,13 +2,14 @@
   "id": 118819277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.449933,52.47406,13.449933,52.47406",
     "geom:latitude":52.47406,
     "geom:longitude":13.449933,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schudomastr. 46",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899583,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118819277,
-    "wof:lastmodified":1449053472,
+    "wof:lastmodified":1466230906,
     "wof:name":"Hindenburg-apotheke Inh. Manutschehr Ghaeni E. K.",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.449933,52.47406,13.449933,52.47406],
+  "bbox": [
+    13.449933,
+    52.47406,
+    13.449933,
+    52.47406
+],
   "geometry": {"coordinates":[13.449933,52.47406],"type":"Point"}
 }

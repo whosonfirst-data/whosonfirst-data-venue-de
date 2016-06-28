@@ -2,13 +2,14 @@
   "id": 135345009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.043219,49.513805,11.043219,49.513805",
     "geom:latitude":49.513805,
     "geom:longitude":11.043219,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosfeldweg 1",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063461,
-        85633111,
         85682571,
-        85899425
+        85633111,
+        85899425,
+        102063461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135345009,
-    "wof:lastmodified":1449023772,
+    "wof:lastmodified":1466217625,
     "wof:name":"Harald Witte",
     "wof:parent_id":85899425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.043219,49.513805,11.043219,49.513805],
+  "bbox": [
+    11.043219,
+    49.513805,
+    11.043219,
+    49.513805
+],
   "geometry": {"coordinates":[11.043219,49.513805],"type":"Point"}
 }

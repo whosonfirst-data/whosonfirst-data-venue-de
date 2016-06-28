@@ -2,13 +2,14 @@
   "id": 119224389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.579947,48.149323,11.579947,48.149323",
     "geom:latitude":48.149323,
     "geom:longitude":11.579947,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schellingstr. 4",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905601,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119224389,
-    "wof:lastmodified":1449042830,
+    "wof:lastmodified":1466231070,
     "wof:name":"Lehrst\u00fchle F\u00fcr Experimentalphysik",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.579947,48.149323,11.579947,48.149323],
+  "bbox": [
+    11.579947,
+    48.149323,
+    11.579947,
+    48.149323
+],
   "geometry": {"coordinates":[11.579947,48.149323],"type":"Point"}
 }

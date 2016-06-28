@@ -2,13 +2,14 @@
   "id": 135530565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429457,52.079906,8.429457,52.079906",
     "geom:latitude":52.079906,
     "geom:longitude":8.429457,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelstr. 39",
     "sg:city":"Werther",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063877,
-        85633111,
         85682513,
-        85795063
+        85633111,
+        85795063,
+        102063877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135530565,
-    "wof:lastmodified":1449022620,
+    "wof:lastmodified":1466234425,
     "wof:name":"Melzig Gmbh",
     "wof:parent_id":85795063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.429457,52.079906,8.429457,52.079906],
+  "bbox": [
+    8.429457,
+    52.079906,
+    8.429457,
+    52.079906
+],
   "geometry": {"coordinates":[8.429457,52.079906],"type":"Point"}
 }

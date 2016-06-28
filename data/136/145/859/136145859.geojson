@@ -2,13 +2,14 @@
   "id": 136145859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.960272,49.519226,10.960272,49.519226",
     "geom:latitude":49.519226,
     "geom:longitude":10.960272,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zaunk\u00f6nigweg 18",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900183,
+        85682571,
         85633111,
         101748545,
         102063487,
-        85682571
+        85900183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136145859,
-    "wof:lastmodified":1449075293,
+    "wof:lastmodified":1466218649,
     "wof:name":"Webdesigner-franken",
     "wof:parent_id":85900183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.960272,49.519226,10.960272,49.519226],
+  "bbox": [
+    10.960272,
+    49.519226,
+    10.960272,
+    49.519226
+],
   "geometry": {"coordinates":[10.960272,49.519226],"type":"Point"}
 }

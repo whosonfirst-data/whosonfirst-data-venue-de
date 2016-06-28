@@ -2,13 +2,14 @@
   "id": 152325589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.355171,49.53574,8.355171,49.53574",
     "geom:latitude":49.53574,
     "geom:longitude":8.355171,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanalstr. 5",
     "sg:city":"Frankenthal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152325589,
-    "wof:lastmodified":1449046124,
+    "wof:lastmodified":1466216683,
     "wof:name":"Ifg Ingenieurgesellschaft F\u00fcr Geb\u00e4udetechnik Gmbh & Co. Kg",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.355171,49.53574,8.355171,49.53574],
+  "bbox": [
+    8.355171,
+    49.53574,
+    8.355171,
+    49.53574
+],
   "geometry": {"coordinates":[8.355171,49.53574],"type":"Point"}
 }

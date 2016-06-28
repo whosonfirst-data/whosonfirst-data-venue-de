@@ -2,13 +2,14 @@
   "id": 135542199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.609545,48.145664,11.609545,48.145664",
     "geom:latitude":48.145664,
     "geom:longitude":11.609545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laplacestr. 32",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135542199,
-    "wof:lastmodified":1449023353,
+    "wof:lastmodified":1466235432,
     "wof:name":"Massiv-wohnbau Gmbh",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.609545,48.145664,11.609545,48.145664],
+  "bbox": [
+    11.609545,
+    48.145664,
+    11.609545,
+    48.145664
+],
   "geometry": {"coordinates":[11.609545,48.145664],"type":"Point"}
 }

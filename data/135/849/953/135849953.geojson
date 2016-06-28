@@ -2,13 +2,14 @@
   "id": 135849953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.773466,51.058048,13.773466,51.058048",
     "geom:latitude":51.058048,
     "geom:longitude":13.773466,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfotenhauerstr. 71",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905667,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135849953,
-    "wof:lastmodified":1449021536,
+    "wof:lastmodified":1466244299,
     "wof:name":"Antea-bestattungen Dresden Gmbh",
     "wof:parent_id":85905667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.773466,51.058048,13.773466,51.058048],
+  "bbox": [
+    13.773466,
+    51.058048,
+    13.773466,
+    51.058048
+],
   "geometry": {"coordinates":[13.773466,51.058048],"type":"Point"}
 }

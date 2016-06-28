@@ -2,13 +2,14 @@
   "id": 236611905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.451703,48.643047,9.451703,48.643047",
     "geom:latitude":48.643047,
     "geom:longitude":9.451703,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dettinger Str. 60",
     "sg:city":"Kirchheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236611905,
-    "wof:lastmodified":1449004404,
+    "wof:lastmodified":1466230069,
     "wof:name":"Werner Hund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.451703,48.643047,9.451703,48.643047],
+  "bbox": [
+    9.451703,
+    48.643047,
+    9.451703,
+    48.643047
+],
   "geometry": {"coordinates":[9.451703,48.643047],"type":"Point"}
 }

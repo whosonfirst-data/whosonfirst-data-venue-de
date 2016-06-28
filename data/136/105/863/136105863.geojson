@@ -2,13 +2,14 @@
   "id": 136105863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.988363,53.517025,9.988363,53.517025",
     "geom:latitude":53.517025,
     "geom:longitude":9.988363,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogelh\u00fcttendeich 62",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899967,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136105863,
-    "wof:lastmodified":1449075419,
+    "wof:lastmodified":1466216989,
     "wof:name":"Pianola - Das Etwas Andere Lokal",
     "wof:parent_id":85899967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.988363,53.517025,9.988363,53.517025],
+  "bbox": [
+    9.988363,
+    53.517025,
+    9.988363,
+    53.517025
+],
   "geometry": {"coordinates":[9.988363,53.517025],"type":"Point"}
 }

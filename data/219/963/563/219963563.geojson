@@ -2,13 +2,14 @@
   "id": 219963563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151776,48.772774,9.151776,48.772774",
     "geom:latitude":48.772774,
     "geom:longitude":9.151776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulusstr. 5",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219963563,
-    "wof:lastmodified":1449070723,
+    "wof:lastmodified":1466229653,
     "wof:name":"Walter Fink",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.151776,48.772774,9.151776,48.772774],
+  "bbox": [
+    9.151776,
+    48.772774,
+    9.151776,
+    48.772774
+],
   "geometry": {"coordinates":[9.151776,48.772774],"type":"Point"}
 }

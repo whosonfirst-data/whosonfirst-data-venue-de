@@ -2,13 +2,14 @@
   "id": 203052817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.862475,50.818695,12.862475,50.818695",
     "geom:latitude":50.818695,
     "geom:longitude":12.862475,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bessemerstr. 2",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203052817,
-    "wof:lastmodified":1449025768,
+    "wof:lastmodified":1466214685,
     "wof:name":"H. Winkler",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.862475,50.818695,12.862475,50.818695],
+  "bbox": [
+    12.862475,
+    50.818695,
+    12.862475,
+    50.818695
+],
   "geometry": {"coordinates":[12.862475,50.818695],"type":"Point"}
 }

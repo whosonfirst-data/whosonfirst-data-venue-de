@@ -2,13 +2,14 @@
   "id": 118668997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.382569,51.352924,12.382569,51.352924",
     "geom:latitude":51.352924,
     "geom:longitude":12.382569,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Roscherstr. 31",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118668997,
-    "wof:lastmodified":1449054119,
+    "wof:lastmodified":1466222117,
     "wof:name":"Sekund\u00e4rrohstofferfassung Leipzig",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.382569,51.352924,12.382569,51.352924],
+  "bbox": [
+    12.382569,
+    51.352924,
+    12.382569,
+    51.352924
+],
   "geometry": {"coordinates":[12.382569,51.352924],"type":"Point"}
 }

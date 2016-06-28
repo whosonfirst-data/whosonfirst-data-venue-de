@@ -2,13 +2,14 @@
   "id": 118815239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.480726,52.022141,8.480726,52.022141",
     "geom:latitude":52.022141,
     "geom:longitude":8.480726,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornberger Str. 274",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063877,
-        85633111,
         85682513,
-        85863237
+        85633111,
+        85863237,
+        102063877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118815239,
-    "wof:lastmodified":1449053826,
+    "wof:lastmodified":1466230674,
     "wof:name":"Forst-apotheke Sabine Korn",
     "wof:parent_id":85863237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.480726,52.022141,8.480726,52.022141],
+  "bbox": [
+    8.480726,
+    52.022141,
+    8.480726,
+    52.022141
+],
   "geometry": {"coordinates":[8.480726,52.022141],"type":"Point"}
 }

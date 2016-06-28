@@ -2,13 +2,14 @@
   "id": 219180121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.117492,53.648849,10.117492,53.648849",
     "geom:latitude":53.648849,
     "geom:longitude":10.117492,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berner Weg 34 a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219180121,
-    "wof:lastmodified":1449070514,
+    "wof:lastmodified":1466214753,
     "wof:name":"Werner Wittenburg Gmbh",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.117492,53.648849,10.117492,53.648849],
+  "bbox": [
+    10.117492,
+    53.648849,
+    10.117492,
+    53.648849
+],
   "geometry": {"coordinates":[10.117492,53.648849],"type":"Point"}
 }

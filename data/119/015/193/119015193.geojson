@@ -2,13 +2,14 @@
   "id": 119015193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.750897,50.10051,8.750897,50.10051",
     "geom:latitude":50.10051,
     "geom:longitude":8.750897,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geleitsstr. 114",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119015193,
-    "wof:lastmodified":1449041414,
+    "wof:lastmodified":1466225043,
     "wof:name":"G. Weiglein Und H. Backenstrass",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.750897,50.10051,8.750897,50.10051],
+  "bbox": [
+    8.750897,
+    50.10051,
+    8.750897,
+    50.10051
+],
   "geometry": {"coordinates":[8.750897,50.10051],"type":"Point"}
 }

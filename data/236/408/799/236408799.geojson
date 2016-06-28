@@ -2,13 +2,14 @@
   "id": 236408799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.975994,47.842205,12.975994,47.842205",
     "geom:latitude":47.842205,
     "geom:longitude":12.975994,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchener Str. 23",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236408799,
-    "wof:lastmodified":1449001983,
+    "wof:lastmodified":1466226318,
     "wof:name":"M. Brandner",
     "wof:parent_id":85898485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.975994,47.842205,12.975994,47.842205],
+  "bbox": [
+    12.975994,
+    47.842205,
+    12.975994,
+    47.842205
+],
   "geometry": {"coordinates":[12.975994,47.842205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186630017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.570955,50.708805,10.570955,50.708805",
     "geom:latitude":50.708805,
     "geom:longitude":10.570955,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hallenburgstr. 34",
     "sg:city":"Steinbach-Hallenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186630017,
-    "wof:lastmodified":1449051354,
+    "wof:lastmodified":1466220470,
     "wof:name":"Timo Schwarz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.570955,50.708805,10.570955,50.708805],
+  "bbox": [
+    10.570955,
+    50.708805,
+    10.570955,
+    50.708805
+],
   "geometry": {"coordinates":[10.570955,50.708805],"type":"Point"}
 }

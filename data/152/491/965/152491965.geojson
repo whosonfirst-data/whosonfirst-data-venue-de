@@ -2,13 +2,14 @@
   "id": 152491965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.386015,50.06562,8.386015,50.06562",
     "geom:latitude":50.06562,
     "geom:longitude":8.386015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannes-Gutenberg-Str. 3-5",
     "sg:city":"Hofheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865111,
+        85682531,
         85633111,
         101748579,
         102063579,
-        85682531
+        85865111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152491965,
-    "wof:lastmodified":1449044212,
+    "wof:lastmodified":1466220061,
     "wof:name":"H\u00fcbner Beteiligungs Gmbh & Co. Hofheim Kg",
     "wof:parent_id":85865111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.386015,50.06562,8.386015,50.06562],
+  "bbox": [
+    8.386015,
+    50.06562,
+    8.386015,
+    50.06562
+],
   "geometry": {"coordinates":[8.386015,50.06562],"type":"Point"}
 }

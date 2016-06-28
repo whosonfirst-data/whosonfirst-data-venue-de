@@ -2,13 +2,14 @@
   "id": 135818879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.4009,51.266464,6.4009,51.266464",
     "geom:latitude":51.266464,
     "geom:longitude":6.4009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sittarder Str. 65",
     "sg:city":"Viersen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796257,
+        85682513,
         85633111,
         101748689,
         102063773,
-        85682513
+        85796257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135818879,
-    "wof:lastmodified":1449022490,
+    "wof:lastmodified":1466244205,
     "wof:name":"Stru Tauchunternehmen Gmbh",
     "wof:parent_id":85796257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.4009,51.266464,6.4009,51.266464],
+  "bbox": [
+    6.4009,
+    51.266464,
+    6.4009,
+    51.266464
+],
   "geometry": {"coordinates":[6.4009,51.266464],"type":"Point"}
 }

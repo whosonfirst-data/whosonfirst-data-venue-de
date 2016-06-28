@@ -2,13 +2,14 @@
   "id": 135920155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.616414,49.813526,8.616414,49.813526",
     "geom:latitude":49.813526,
     "geom:longitude":8.616414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstr. 4-6",
     "sg:city":"Pfungstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135920155,
-    "wof:lastmodified":1449023343,
+    "wof:lastmodified":1466244773,
     "wof:name":"Egana Europe Holdings Gmbh",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.616414,49.813526,8.616414,49.813526],
+  "bbox": [
+    8.616414,
+    49.813526,
+    8.616414,
+    49.813526
+],
   "geometry": {"coordinates":[8.616414,49.813526],"type":"Point"}
 }

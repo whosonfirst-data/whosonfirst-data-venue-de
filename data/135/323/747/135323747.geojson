@@ -2,13 +2,14 @@
   "id": 135323747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.280826,50.567272,7.280826,50.567272",
     "geom:latitude":50.567272,
     "geom:longitude":7.280826,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hundelsgasse 12",
     "sg:city":"Linz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135323747,
-    "wof:lastmodified":1449021263,
+    "wof:lastmodified":1466215831,
     "wof:name":"Walter Leber",
     "wof:parent_id":101756455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.280826,50.567272,7.280826,50.567272],
+  "bbox": [
+    7.280826,
+    50.567272,
+    7.280826,
+    50.567272
+],
   "geometry": {"coordinates":[7.280826,50.567272],"type":"Point"}
 }

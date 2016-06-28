@@ -2,13 +2,14 @@
   "id": 235984301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.434942,52.489292,13.434942,52.489292",
     "geom:latitude":52.489292,
     "geom:longitude":13.434942,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfl\u00fcgerstr. 29",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235984301,
-    "wof:lastmodified":1449008436,
+    "wof:lastmodified":1466218499,
     "wof:name":"Peter Bolle",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.434942,52.489292,13.434942,52.489292],
+  "bbox": [
+    13.434942,
+    52.489292,
+    13.434942,
+    52.489292
+],
   "geometry": {"coordinates":[13.434942,52.489292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152923521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.559782,48.12587,11.559782,48.12587",
     "geom:latitude":48.12587,
     "geom:longitude":11.559782,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapuzinerstr. 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900137,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152923521,
-    "wof:lastmodified":1449048763,
+    "wof:lastmodified":1466229977,
     "wof:name":"Rolfing European Rolfing Association Era E.v.",
     "wof:parent_id":85900137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.559782,48.12587,11.559782,48.12587],
+  "bbox": [
+    11.559782,
+    48.12587,
+    11.559782,
+    48.12587
+],
   "geometry": {"coordinates":[11.559782,48.12587],"type":"Point"}
 }

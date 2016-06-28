@@ -2,13 +2,14 @@
   "id": 135720485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.055716,51.062523,7.055716,51.062523",
     "geom:latitude":51.062523,
     "geom:longitude":7.055716,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Kirchfeld 34",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794891,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85794891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135720485,
-    "wof:lastmodified":1449021704,
+    "wof:lastmodified":1466242875,
     "wof:name":"Kraemer Projekt Gmbh",
     "wof:parent_id":85794891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.055716,51.062523,7.055716,51.062523],
+  "bbox": [
+    7.055716,
+    51.062523,
+    7.055716,
+    51.062523
+],
   "geometry": {"coordinates":[7.055716,51.062523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220003135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.415624,51.359207,12.415624,51.359207",
     "geom:latitude":51.359207,
     "geom:longitude":12.415624,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ossietzkystr. 13",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220003135,
-    "wof:lastmodified":1449074820,
+    "wof:lastmodified":1466214663,
     "wof:name":"Billard-cafe",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.415624,51.359207,12.415624,51.359207],
+  "bbox": [
+    12.415624,
+    51.359207,
+    12.415624,
+    51.359207
+],
   "geometry": {"coordinates":[12.415624,51.359207],"type":"Point"}
 }

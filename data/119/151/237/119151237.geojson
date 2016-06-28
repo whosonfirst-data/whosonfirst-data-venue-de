@@ -2,13 +2,14 @@
   "id": 119151237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.240689,52.510242,13.240689,52.510242",
     "geom:latitude":52.510242,
     "geom:longitude":13.240689,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flatowallee 21",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899899,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119151237,
-    "wof:lastmodified":1449040900,
+    "wof:lastmodified":1466224243,
     "wof:name":"Werner Heinrich Architekt",
     "wof:parent_id":85899899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.240689,52.510242,13.240689,52.510242],
+  "bbox": [
+    13.240689,
+    52.510242,
+    13.240689,
+    52.510242
+],
   "geometry": {"coordinates":[13.240689,52.510242],"type":"Point"}
 }

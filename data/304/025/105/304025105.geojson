@@ -2,13 +2,14 @@
   "id": 304025105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.184672,49.908031,12.184672,49.908031",
     "geom:latitude":49.908031,
     "geom:longitude":12.184672,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tannweg 1",
     "sg:city":"Wiesau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304025105,
-    "wof:lastmodified":1449044074,
+    "wof:lastmodified":1466231448,
     "wof:name":"Willi Zwack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.184672,49.908031,12.184672,49.908031],
+  "bbox": [
+    12.184672,
+    49.908031,
+    12.184672,
+    49.908031
+],
   "geometry": {"coordinates":[12.184672,49.908031],"type":"Point"}
 }

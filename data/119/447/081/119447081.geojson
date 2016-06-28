@@ -2,13 +2,14 @@
   "id": 119447081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.44264,51.331348,12.44264,51.331348",
     "geom:latitude":51.331348,
     "geom:longitude":12.44264,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Platanenstr. 19",
     "sg:city":"M\u00f6lkau",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"04457",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900289,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119447081,
-    "wof:lastmodified":1449042744,
+    "wof:lastmodified":1466242577,
     "wof:name":"Reichardt",
     "wof:parent_id":85900289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.44264,51.331348,12.44264,51.331348],
+  "bbox": [
+    12.44264,
+    51.331348,
+    12.44264,
+    51.331348
+],
   "geometry": {"coordinates":[12.44264,51.331348],"type":"Point"}
 }

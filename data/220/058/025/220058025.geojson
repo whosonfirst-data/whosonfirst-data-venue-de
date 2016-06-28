@@ -2,13 +2,14 @@
   "id": 220058025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.049232,51.090454,7.049232,51.090454",
     "geom:latitude":51.090454,
     "geom:longitude":7.049232,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burscheider Str. 312",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220058025,
-    "wof:lastmodified":1449074153,
+    "wof:lastmodified":1466215709,
     "wof:name":"Wolfgang Schmitz",
     "wof:parent_id":85796233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.049232,51.090454,7.049232,51.090454],
+  "bbox": [
+    7.049232,
+    51.090454,
+    7.049232,
+    51.090454
+],
   "geometry": {"coordinates":[7.049232,51.090454],"type":"Point"}
 }

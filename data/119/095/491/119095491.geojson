@@ -2,13 +2,14 @@
   "id": 119095491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.891186,53.451443,9.891186,53.451443",
     "geom:latitude":53.451443,
     "geom:longitude":9.891186,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rehwechsel 6b",
     "sg:city":"Rosengarten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898951,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119095491,
-    "wof:lastmodified":1449042186,
+    "wof:lastmodified":1466219603,
     "wof:name":"Martens Und Sternkopf Architekten",
     "wof:parent_id":85898951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.891186,53.451443,9.891186,53.451443],
+  "bbox": [
+    9.891186,
+    53.451443,
+    9.891186,
+    53.451443
+],
   "geometry": {"coordinates":[9.891186,53.451443],"type":"Point"}
 }

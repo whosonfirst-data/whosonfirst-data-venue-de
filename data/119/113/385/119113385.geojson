@@ -2,13 +2,14 @@
   "id": 119113385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.47535,48.154766,11.47535,48.154766",
     "geom:latitude":48.154766,
     "geom:longitude":11.47535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaspar-Kerll-Str. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571,
+        85899883,
         85899851
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119113385,
-    "wof:lastmodified":1449043310,
+    "wof:lastmodified":1466221331,
     "wof:name":"Pr\u00fcckl Und Pramann Architekten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.47535,48.154766,11.47535,48.154766],
+  "bbox": [
+    11.47535,
+    48.154766,
+    11.47535,
+    48.154766
+],
   "geometry": {"coordinates":[11.47535,48.154766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135574801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.579845,48.12167,11.579845,48.12167",
     "geom:latitude":48.12167,
     "geom:longitude":11.579845,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Taubenstr. 7",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905611,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135574801,
-    "wof:lastmodified":1449020964,
+    "wof:lastmodified":1466237548,
     "wof:name":"Panos Bauunternehmen Gmbh",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.579845,48.12167,11.579845,48.12167],
+  "bbox": [
+    11.579845,
+    48.12167,
+    11.579845,
+    48.12167
+],
   "geometry": {"coordinates":[11.579845,48.12167],"type":"Point"}
 }

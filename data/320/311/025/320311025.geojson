@@ -2,13 +2,14 @@
   "id": 320311025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.569449,51.015469,7.569449,51.015469",
     "geom:latitude":51.015469,
     "geom:longitude":7.569449,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Breckow-Allee 20",
     "sg:city":"Gummersbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320311025,
-    "wof:lastmodified":1449012141,
+    "wof:lastmodified":1466238925,
     "wof:name":"Kreiskrankenhaus Gummersbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.569449,51.015469,7.569449,51.015469],
+  "bbox": [
+    7.569449,
+    51.015469,
+    7.569449,
+    51.015469
+],
   "geometry": {"coordinates":[7.569449,51.015469],"type":"Point"}
 }

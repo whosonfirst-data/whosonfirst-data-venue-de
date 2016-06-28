@@ -2,13 +2,14 @@
   "id": 119363207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.0557,51.556713,10.0557,51.556713",
     "geom:latitude":51.556713,
     "geom:longitude":10.0557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorf 12",
     "sg:city":"Waake",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119363207,
-    "wof:lastmodified":1449043215,
+    "wof:lastmodified":1466240483,
     "wof:name":"O. Schmidt",
     "wof:parent_id":101810185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.0557,51.556713,10.0557,51.556713],
+  "bbox": [
+    10.0557,
+    51.556713,
+    10.0557,
+    51.556713
+],
   "geometry": {"coordinates":[10.0557,51.556713],"type":"Point"}
 }

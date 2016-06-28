@@ -2,13 +2,14 @@
   "id": 119419921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.949078,50.998199,10.949078,50.998199",
     "geom:latitude":50.998199,
     "geom:longitude":10.949078,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vor dem Dorf 7",
     "sg:city":"Salomonsborn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899993,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119419921,
-    "wof:lastmodified":1449043518,
+    "wof:lastmodified":1466242166,
     "wof:name":"Janus Fenster- Und T\u00fcrenbau Gmbh",
     "wof:parent_id":85899993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.949078,50.998199,10.949078,50.998199],
+  "bbox": [
+    10.949078,
+    50.998199,
+    10.949078,
+    50.998199
+],
   "geometry": {"coordinates":[10.949078,50.998199],"type":"Point"}
 }

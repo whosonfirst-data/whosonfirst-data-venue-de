@@ -2,13 +2,14 @@
   "id": 303632611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.102177,47.872555,12.102177,47.872555",
     "geom:latitude":47.872555,
     "geom:longitude":12.102177,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spielhahnstr. 5",
     "sg:city":"Rosenheim",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303632611,
-    "wof:lastmodified":1448999679,
+    "wof:lastmodified":1466238379,
     "wof:name":"Iso-san Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.102177,47.872555,12.102177,47.872555],
+  "bbox": [
+    12.102177,
+    47.872555,
+    12.102177,
+    47.872555
+],
   "geometry": {"coordinates":[12.102177,47.872555],"type":"Point"}
 }

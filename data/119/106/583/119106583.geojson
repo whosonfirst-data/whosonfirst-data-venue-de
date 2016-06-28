@@ -2,13 +2,14 @@
   "id": 119106583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.608993,48.073147,11.608993,48.073147",
     "geom:latitude":48.073147,
     "geom:longitude":11.608993,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oskar-von-Miller-Str. 11",
     "sg:city":"Unterhaching",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899707,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119106583,
-    "wof:lastmodified":1449040850,
+    "wof:lastmodified":1466220644,
     "wof:name":"Peter Bergler Architekt",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.608993,48.073147,11.608993,48.073147],
+  "bbox": [
+    11.608993,
+    48.073147,
+    11.608993,
+    48.073147
+],
   "geometry": {"coordinates":[11.608993,48.073147],"type":"Point"}
 }

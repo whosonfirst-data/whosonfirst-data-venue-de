@@ -2,13 +2,14 @@
   "id": 118734683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.101627,49.471088,11.101627,49.471088",
     "geom:latitude":49.471088,
     "geom:longitude":11.101627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00c4u\u00dfere Bayreuther Str. 95",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899287,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118734683,
-    "wof:lastmodified":1449054370,
+    "wof:lastmodified":1466225856,
     "wof:name":"Peter Rolka",
     "wof:parent_id":85899287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.101627,49.471088,11.101627,49.471088],
+  "bbox": [
+    11.101627,
+    49.471088,
+    11.101627,
+    49.471088
+],
   "geometry": {"coordinates":[11.101627,49.471088],"type":"Point"}
 }

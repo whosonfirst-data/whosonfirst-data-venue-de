@@ -2,13 +2,14 @@
   "id": 135302471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.145673,48.815125,8.145673,48.815125",
     "geom:latitude":48.815125,
     "geom:longitude":8.145673,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benazetstr. 5",
     "sg:city":"Iffezheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135302471,
-    "wof:lastmodified":1449022030,
+    "wof:lastmodified":1466214008,
     "wof:name":"N. Kronimus",
     "wof:parent_id":101761905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.145673,48.815125,8.145673,48.815125],
+  "bbox": [
+    8.145673,
+    48.815125,
+    8.145673,
+    48.815125
+],
   "geometry": {"coordinates":[8.145673,48.815125],"type":"Point"}
 }

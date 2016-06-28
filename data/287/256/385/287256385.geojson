@@ -2,13 +2,14 @@
   "id": 287256385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.380356,52.458679,13.380356,52.458679",
     "geom:latitude":52.458679,
     "geom:longitude":13.380356,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Wilhelm-Str. 25",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287256385,
-    "wof:lastmodified":1449001348,
+    "wof:lastmodified":1466231832,
     "wof:name":"Anne Posch",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.380356,52.458679,13.380356,52.458679],
+  "bbox": [
+    13.380356,
+    52.458679,
+    13.380356,
+    52.458679
+],
   "geometry": {"coordinates":[13.380356,52.458679],"type":"Point"}
 }

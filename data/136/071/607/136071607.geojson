@@ -2,13 +2,14 @@
   "id": 136071607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.014729,51.494663,7.014729,51.494663",
     "geom:latitude":51.494663,
     "geom:longitude":7.014729,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"WAISENSTRASSE 59",
     "sg:city":"ESSEN",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796063,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85796063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136071607,
-    "wof:lastmodified":1449075750,
+    "wof:lastmodified":1466215433,
     "wof:name":"Hilfe F\u00dcr Computeranf\u00e4nger",
     "wof:parent_id":85796063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.014729,51.494663,7.014729,51.494663],
+  "bbox": [
+    7.014729,
+    51.494663,
+    7.014729,
+    51.494663
+],
   "geometry": {"coordinates":[7.014729,51.494663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135444909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.384235,54.097317,13.384235,54.097317",
     "geom:latitude":54.097317,
     "geom:longitude":13.384235,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 3262:: 17462 Greifswald:: Germany.^^An der Sparkasse 1::",
     "sg:city":"Greifswald",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135444909,
-    "wof:lastmodified":1449023598,
+    "wof:lastmodified":1466226719,
     "wof:name":"Sparkasse Vorpommern",
     "wof:parent_id":101748863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.384235,54.097317,13.384235,54.097317],
+  "bbox": [
+    13.384235,
+    54.097317,
+    13.384235,
+    54.097317
+],
   "geometry": {"coordinates":[13.384235,54.097317],"type":"Point"}
 }

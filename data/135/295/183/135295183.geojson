@@ -2,13 +2,14 @@
   "id": 135295183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.442393,51.335369,9.442393,51.335369",
     "geom:latitude":51.335369,
     "geom:longitude":9.442393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolfhager Str. 367",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900201,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85900201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135295183,
-    "wof:lastmodified":1449022221,
+    "wof:lastmodified":1466213414,
     "wof:name":"Lecker B\u00e4cker",
     "wof:parent_id":85900201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.442393,51.335369,9.442393,51.335369],
+  "bbox": [
+    9.442393,
+    51.335369,
+    9.442393,
+    51.335369
+],
   "geometry": {"coordinates":[9.442393,51.335369],"type":"Point"}
 }

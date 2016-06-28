@@ -2,13 +2,14 @@
   "id": 203203007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.035793,48.536533,8.035793,48.536533",
     "geom:latitude":48.536533,
     "geom:longitude":8.035793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Renchtalstr. 36",
     "sg:city":"Oberkirch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203203007,
-    "wof:lastmodified":1449025754,
+    "wof:lastmodified":1466217271,
     "wof:name":"Kurt Kopka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.035793,48.536533,8.035793,48.536533],
+  "bbox": [
+    8.035793,
+    48.536533,
+    8.035793,
+    48.536533
+],
   "geometry": {"coordinates":[8.035793,48.536533],"type":"Point"}
 }

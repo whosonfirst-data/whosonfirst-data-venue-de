@@ -2,13 +2,14 @@
   "id": 186138421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.879355,48.049637,10.879355,48.049637",
     "geom:latitude":48.049637,
     "geom:longitude":10.879355,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Von-Helfensteingasse 426",
     "sg:city":"Landsberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186138421,
-    "wof:lastmodified":1449051149,
+    "wof:lastmodified":1466214632,
     "wof:name":"Neues Stadtmuseum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.879355,48.049637,10.879355,48.049637],
+  "bbox": [
+    10.879355,
+    48.049637,
+    10.879355,
+    48.049637
+],
   "geometry": {"coordinates":[10.879355,48.049637],"type":"Point"}
 }

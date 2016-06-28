@@ -2,13 +2,14 @@
   "id": 119086871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.654293,51.067795,13.654293,51.067795",
     "geom:latitude":51.067795,
     "geom:longitude":13.654293,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merbitzer Str. 69",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899867,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119086871,
-    "wof:lastmodified":1449042670,
+    "wof:lastmodified":1466218842,
     "wof:name":"L. Gloger Architekt",
     "wof:parent_id":85899867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.654293,51.067795,13.654293,51.067795],
+  "bbox": [
+    13.654293,
+    51.067795,
+    13.654293,
+    51.067795
+],
   "geometry": {"coordinates":[13.654293,51.067795],"type":"Point"}
 }

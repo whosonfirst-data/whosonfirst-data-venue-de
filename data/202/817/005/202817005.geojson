@@ -2,13 +2,14 @@
   "id": 202817005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.588789,48.139664,11.588789,48.139664",
     "geom:latitude":48.139664,
     "geom:longitude":11.588789,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thierschplatz 3",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202817005,
-    "wof:lastmodified":1449062170,
+    "wof:lastmodified":1466221533,
     "wof:name":"W. M. Weber Kunstmaler",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.588789,48.139664,11.588789,48.139664],
+  "bbox": [
+    11.588789,
+    48.139664,
+    11.588789,
+    48.139664
+],
   "geometry": {"coordinates":[11.588789,48.139664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320038493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.008754,51.45974,12.008754,51.45974",
     "geom:latitude":51.45974,
     "geom:longitude":12.008754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Chaussee 95",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320038493,
-    "wof:lastmodified":1449013655,
+    "wof:lastmodified":1466234257,
     "wof:name":"Klaus Jacobs",
     "wof:parent_id":85899071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.008754,51.45974,12.008754,51.45974],
+  "bbox": [
+    12.008754,
+    51.45974,
+    12.008754,
+    51.45974
+],
   "geometry": {"coordinates":[12.008754,51.45974],"type":"Point"}
 }

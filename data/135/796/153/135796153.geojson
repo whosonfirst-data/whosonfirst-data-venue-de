@@ -2,13 +2,14 @@
   "id": 135796153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.240144,51.4907,7.240144,51.4907",
     "geom:latitude":51.4907,
     "geom:longitude":7.240144,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Castroper Str. 181",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135796153,
-    "wof:lastmodified":1449022445,
+    "wof:lastmodified":1466244182,
     "wof:name":"Van Haren",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.240144,51.4907,7.240144,51.4907],
+  "bbox": [
+    7.240144,
+    51.4907,
+    7.240144,
+    51.4907
+],
   "geometry": {"coordinates":[7.240144,51.4907],"type":"Point"}
 }

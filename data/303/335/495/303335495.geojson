@@ -2,13 +2,14 @@
   "id": 303335495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.703563,50.114731,8.703563,50.114731",
     "geom:latitude":50.114731,
     "geom:longitude":8.703563,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Tiergarten 40",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303335495,
-    "wof:lastmodified":1448999730,
+    "wof:lastmodified":1466232802,
     "wof:name":"Gunther Frenzel",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.703563,50.114731,8.703563,50.114731],
+  "bbox": [
+    8.703563,
+    50.114731,
+    8.703563,
+    50.114731
+],
   "geometry": {"coordinates":[8.703563,50.114731],"type":"Point"}
 }

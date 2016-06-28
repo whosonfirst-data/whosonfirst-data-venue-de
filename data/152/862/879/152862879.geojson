@@ -2,13 +2,14 @@
   "id": 152862879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.085,51.446316,7.085,51.446316",
     "geom:latitude":51.446316,
     "geom:longitude":7.085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuholland",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795485,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152862879,
-    "wof:lastmodified":1449049004,
+    "wof:lastmodified":1466228512,
     "wof:name":"Judo-club-essen.de",
     "wof:parent_id":85795485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.085,51.446316,7.085,51.446316],
+  "bbox": [
+    7.085,
+    51.446316,
+    7.085,
+    51.446316
+],
   "geometry": {"coordinates":[7.085,51.446316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269489795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.878731,48.420979,10.878731,48.420979",
     "geom:latitude":48.420979,
     "geom:longitude":10.878731,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augsburger Str. 27",
     "sg:city":"Gersthofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269489795,
-    "wof:lastmodified":1449037445,
+    "wof:lastmodified":1466221044,
     "wof:name":"Michael Biber",
     "wof:parent_id":85899157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.878731,48.420979,10.878731,48.420979],
+  "bbox": [
+    10.878731,
+    48.420979,
+    10.878731,
+    48.420979
+],
   "geometry": {"coordinates":[10.878731,48.420979],"type":"Point"}
 }

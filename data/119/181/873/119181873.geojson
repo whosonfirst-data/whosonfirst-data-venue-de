@@ -2,13 +2,14 @@
   "id": 119181873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.791903,51.031277,13.791903,51.031277",
     "geom:latitude":51.031277,
     "geom:longitude":13.791903,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulberndorfer Weg 1",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900051,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119181873,
-    "wof:lastmodified":1449042481,
+    "wof:lastmodified":1466227108,
     "wof:name":"Ingenieurb\u00fcro Dr. G\u00fcnter Kunze",
     "wof:parent_id":85900051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.791903,51.031277,13.791903,51.031277],
+  "bbox": [
+    13.791903,
+    51.031277,
+    13.791903,
+    51.031277
+],
   "geometry": {"coordinates":[13.791903,51.031277],"type":"Point"}
 }

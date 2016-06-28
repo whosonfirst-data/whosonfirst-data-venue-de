@@ -2,13 +2,14 @@
   "id": 118568153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.865437,53.958588,10.865437,53.958588",
     "geom:latitude":53.958588,
     "geom:longitude":10.865437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogteistr 7",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064089,
-        85633111,
         85682517,
-        85899961
+        85633111,
+        85899961,
+        102064089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118568153,
-    "wof:lastmodified":1449053112,
+    "wof:lastmodified":1466216378,
     "wof:name":"Schmidt",
     "wof:parent_id":85899961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.865437,53.958588,10.865437,53.958588],
+  "bbox": [
+    10.865437,
+    53.958588,
+    10.865437,
+    53.958588
+],
   "geometry": {"coordinates":[10.865437,53.958588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119247031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.400386,51.301136,12.400386,51.301136",
     "geom:latitude":51.301136,
     "geom:longitude":12.400386,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannes-R.-Becher-Str. 22",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119247031,
-    "wof:lastmodified":1449042417,
+    "wof:lastmodified":1466233298,
     "wof:name":"Zweigbibliothek S\u00fcd",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.400386,51.301136,12.400386,51.301136],
+  "bbox": [
+    12.400386,
+    51.301136,
+    12.400386,
+    51.301136
+],
   "geometry": {"coordinates":[12.400386,51.301136],"type":"Point"}
 }

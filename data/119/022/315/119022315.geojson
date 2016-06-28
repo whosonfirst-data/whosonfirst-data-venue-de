@@ -2,13 +2,14 @@
   "id": 119022315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.587707,51.338852,6.587707,51.338852",
     "geom:latitude":51.338852,
     "geom:longitude":6.587707,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uerdinger Str. 244",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795791,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119022315,
-    "wof:lastmodified":1449041669,
+    "wof:lastmodified":1466234583,
     "wof:name":"Gielen & Partner Architekten",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.587707,51.338852,6.587707,51.338852],
+  "bbox": [
+    6.587707,
+    51.338852,
+    6.587707,
+    51.338852
+],
   "geometry": {"coordinates":[6.587707,51.338852],"type":"Point"}
 }

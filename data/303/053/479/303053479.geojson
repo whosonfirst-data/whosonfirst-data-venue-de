@@ -2,13 +2,14 @@
   "id": 303053479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.533313,52.261105,10.533313,52.261105",
     "geom:latitude":52.261105,
     "geom:longitude":10.533313,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leonhardstr. 2",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303053479,
-    "wof:lastmodified":1448998576,
+    "wof:lastmodified":1466225856,
     "wof:name":"Dr. Isabelle E. Thormann",
     "wof:parent_id":85898957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.533313,52.261105,10.533313,52.261105],
+  "bbox": [
+    10.533313,
+    52.261105,
+    10.533313,
+    52.261105
+],
   "geometry": {"coordinates":[10.533313,52.261105],"type":"Point"}
 }

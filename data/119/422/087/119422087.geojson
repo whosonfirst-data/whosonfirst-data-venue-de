@@ -2,13 +2,14 @@
   "id": 119422087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532377,49.409992,8.532377,49.409992",
     "geom:latitude":49.409992,
     "geom:longitude":8.532377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luftschiffring 13",
     "sg:city":"Br\u00fchl",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119422087,
-    "wof:lastmodified":1449041043,
+    "wof:lastmodified":1466242217,
     "wof:name":"Storf Gmbh",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532377,49.409992,8.532377,49.409992],
+  "bbox": [
+    8.532377,
+    49.409992,
+    8.532377,
+    49.409992
+],
   "geometry": {"coordinates":[8.532377,49.409992],"type":"Point"}
 }

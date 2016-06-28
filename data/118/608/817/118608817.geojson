@@ -2,13 +2,14 @@
   "id": 118608817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.562647,48.873363,12.562647,48.873363",
     "geom:latitude":48.873363,
     "geom:longitude":12.562647,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Adlhoch-Str 22",
     "sg:city":"Straubing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118608817,
-    "wof:lastmodified":1449053735,
+    "wof:lastmodified":1466218739,
     "wof:name":"Anton Thanner",
     "wof:parent_id":101783029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.562647,48.873363,12.562647,48.873363],
+  "bbox": [
+    12.562647,
+    48.873363,
+    12.562647,
+    48.873363
+],
   "geometry": {"coordinates":[12.562647,48.873363],"type":"Point"}
 }

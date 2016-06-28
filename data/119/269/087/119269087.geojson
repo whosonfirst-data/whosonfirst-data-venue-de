@@ -2,13 +2,14 @@
   "id": 119269087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.968548,51.459591,11.968548,51.459591",
     "geom:latitude":51.459591,
     "geom:longitude":11.968548,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amselweg 31",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905699,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85905699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119269087,
-    "wof:lastmodified":1449042541,
+    "wof:lastmodified":1466235498,
     "wof:name":"Dr. Med. Volker Hofmann",
     "wof:parent_id":85905699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.968548,51.459591,11.968548,51.459591],
+  "bbox": [
+    11.968548,
+    51.459591,
+    11.968548,
+    51.459591
+],
   "geometry": {"coordinates":[11.968548,51.459591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136081055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.73115,51.079174,13.73115,51.079174",
     "geom:latitude":51.079174,
     "geom:longitude":13.73115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinb\u00f6hlaer Stra\u00dfe 5a",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905669,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136081055,
-    "wof:lastmodified":1449075301,
+    "wof:lastmodified":1466215848,
     "wof:name":"Ingenieurb\u00fcro Barsch & Bergmann Gmbh",
     "wof:parent_id":85905669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.73115,51.079174,13.73115,51.079174],
+  "bbox": [
+    13.73115,
+    51.079174,
+    13.73115,
+    51.079174
+],
   "geometry": {"coordinates":[13.73115,51.079174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135370599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53312,52.022991,8.53312,52.022991",
     "geom:latitude":52.022991,
     "geom:longitude":8.53312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 100546:: 33505 Bielefeld:: Germany.^^J\u00f6llenbacker Str 123::",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135370599,
-    "wof:lastmodified":1449022654,
+    "wof:lastmodified":1466220032,
     "wof:name":"Baugenossenschaft Freie Scholle Eg",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53312,52.022991,8.53312,52.022991],
+  "bbox": [
+    8.53312,
+    52.022991,
+    8.53312,
+    52.022991
+],
   "geometry": {"coordinates":[8.53312,52.022991],"type":"Point"}
 }

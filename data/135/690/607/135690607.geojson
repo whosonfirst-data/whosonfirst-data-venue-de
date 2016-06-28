@@ -2,13 +2,14 @@
   "id": 135690607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.998832,52.423534,12.998832,52.423534",
     "geom:latitude":52.423534,
     "geom:longitude":12.998832,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hugstr. 33",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063931,
-        85633111,
         85682553,
-        85899027
+        85633111,
+        85899027,
+        102063931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135690607,
-    "wof:lastmodified":1449022607,
+    "wof:lastmodified":1466242158,
     "wof:name":"Bvb Bautr\u00e4ger Gmbh",
     "wof:parent_id":85899027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.998832,52.423534,12.998832,52.423534],
+  "bbox": [
+    12.998832,
+    52.423534,
+    12.998832,
+    52.423534
+],
   "geometry": {"coordinates":[12.998832,52.423534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119036479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.899774,48.310902,10.899774,48.310902",
     "geom:latitude":48.310902,
     "geom:longitude":10.899774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-H\u00f6rmann-Str. 26",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063283,
-        85633111,
         85682571,
-        85900053
+        85633111,
+        85900053,
+        102063283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119036479,
-    "wof:lastmodified":1449041396,
+    "wof:lastmodified":1466214152,
     "wof:name":"Hans-joachim Behrendt Architekt",
     "wof:parent_id":85900053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.899774,48.310902,10.899774,48.310902],
+  "bbox": [
+    10.899774,
+    48.310902,
+    10.899774,
+    48.310902
+],
   "geometry": {"coordinates":[10.899774,48.310902],"type":"Point"}
 }

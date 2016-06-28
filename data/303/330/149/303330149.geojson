@@ -2,13 +2,14 @@
   "id": 303330149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177279,48.856953,9.177279,48.856953",
     "geom:latitude":48.856953,
     "geom:longitude":9.177279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stammheimer Str. 52",
     "sg:city":"Kornwestheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303330149,
-    "wof:lastmodified":1448999336,
+    "wof:lastmodified":1466232663,
     "wof:name":"Friebe",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.177279,48.856953,9.177279,48.856953],
+  "bbox": [
+    9.177279,
+    48.856953,
+    9.177279,
+    48.856953
+],
   "geometry": {"coordinates":[9.177279,48.856953],"type":"Point"}
 }

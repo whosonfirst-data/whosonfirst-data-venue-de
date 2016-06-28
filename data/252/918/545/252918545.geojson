@@ -2,13 +2,14 @@
   "id": 252918545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.697121,52.678375,10.697121,52.678375",
     "geom:latitude":52.678375,
     "geom:longitude":10.697121,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 6",
     "sg:city":"Wittingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252918545,
-    "wof:lastmodified":1449006131,
+    "wof:lastmodified":1466223073,
     "wof:name":"Heinrich Kahle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.697121,52.678375,10.697121,52.678375],
+  "bbox": [
+    10.697121,
+    52.678375,
+    10.697121,
+    52.678375
+],
   "geometry": {"coordinates":[10.697121,52.678375],"type":"Point"}
 }

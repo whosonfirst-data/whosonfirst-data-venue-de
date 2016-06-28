@@ -2,13 +2,14 @@
   "id": 320489787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.847499,50.990273,13.847499,50.990273",
     "geom:latitude":50.990273,
     "geom:longitude":13.847499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fritz Schreiter Str. 31",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320489787,
-    "wof:lastmodified":1449013310,
+    "wof:lastmodified":1466240742,
     "wof:name":"Elbtalwerk Gmbh",
     "wof:parent_id":85900283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.847499,50.990273,13.847499,50.990273],
+  "bbox": [
+    13.847499,
+    50.990273,
+    13.847499,
+    50.990273
+],
   "geometry": {"coordinates":[13.847499,50.990273],"type":"Point"}
 }

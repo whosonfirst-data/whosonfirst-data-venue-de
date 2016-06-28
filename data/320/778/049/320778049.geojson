@@ -2,13 +2,14 @@
   "id": 320778049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.277919,50.189972,11.277919,50.189972",
     "geom:latitude":50.189972,
     "geom:longitude":11.277919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 11",
     "sg:city":"K\u00fcps",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320778049,
-    "wof:lastmodified":1449011331,
+    "wof:lastmodified":1466243022,
     "wof:name":"Hermann Krause",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.277919,50.189972,11.277919,50.189972],
+  "bbox": [
+    11.277919,
+    50.189972,
+    11.277919,
+    50.189972
+],
   "geometry": {"coordinates":[11.277919,50.189972],"type":"Point"}
 }

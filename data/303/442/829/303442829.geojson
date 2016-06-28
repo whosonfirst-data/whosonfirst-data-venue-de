@@ -2,13 +2,14 @@
   "id": 303442829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.078375,51.460999,7.078375,51.460999",
     "geom:latitude":51.460999,
     "geom:longitude":7.078375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krayer Str. 168",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303442829,
-    "wof:lastmodified":1448999193,
+    "wof:lastmodified":1466235740,
     "wof:name":"Paul Hansbuer",
     "wof:parent_id":85865109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.078375,51.460999,7.078375,51.460999],
+  "bbox": [
+    7.078375,
+    51.460999,
+    7.078375,
+    51.460999
+],
   "geometry": {"coordinates":[7.078375,51.460999],"type":"Point"}
 }

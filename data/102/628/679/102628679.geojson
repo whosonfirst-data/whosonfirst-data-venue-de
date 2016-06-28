@@ -2,13 +2,14 @@
   "id": 102628679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.459528,51.214809,6.459528,51.214809",
     "geom:latitude":51.214809,
     "geom:longitude":6.459528,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6ttgerstr. 7 A",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795179,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85795179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102628679,
-    "wof:lastmodified":1449069717,
+    "wof:lastmodified":1466214029,
     "wof:name":"Ck Chemie Gmbh Service F\u00dcr Roh- Und Kunststoffe",
     "wof:parent_id":85795179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.459528,51.214809,6.459528,51.214809],
+  "bbox": [
+    6.459528,
+    51.214809,
+    6.459528,
+    51.214809
+],
   "geometry": {"coordinates":[6.459528,51.214809],"type":"Point"}
 }

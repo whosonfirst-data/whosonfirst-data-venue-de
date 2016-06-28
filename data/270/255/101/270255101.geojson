@@ -2,13 +2,14 @@
   "id": 270255101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.475015,48.3759,12.475015,48.3759",
     "geom:latitude":48.3759,
     "geom:longitude":12.475015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feichten",
     "sg:city":"Neumarkt-Sankt Veit",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270255101,
-    "wof:lastmodified":1449009740,
+    "wof:lastmodified":1466227328,
     "wof:name":"L. Scheidhammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.475015,48.3759,12.475015,48.3759],
+  "bbox": [
+    12.475015,
+    48.3759,
+    12.475015,
+    48.3759
+],
   "geometry": {"coordinates":[12.475015,48.3759],"type":"Point"}
 }

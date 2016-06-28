@@ -2,13 +2,14 @@
   "id": 102758915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.491951,34.011318,-118.491951,34.011318",
     "geom:latitude":34.011318,
     "geom:longitude":-118.491951,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867341,
+        85688637,
         85633793,
         85923517,
         102086957,
-        85688637
+        85867341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102758915,
-    "wof:lastmodified":1449068509,
+    "wof:lastmodified":1466218752,
     "wof:name":"Dr. Schuhmann Gruppe - Steuerberatung",
     "wof:parent_id":85867341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.491951,34.011318,-118.491951,34.011318],
+  "bbox": [
+    -118.491951,
+    34.011318,
+    -118.491951,
+    34.011318
+],
   "geometry": {"coordinates":[-118.491951,34.011318],"type":"Point"}
 }

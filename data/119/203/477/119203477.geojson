@@ -2,13 +2,14 @@
   "id": 119203477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562458,51.377197,9.562458,51.377197",
     "geom:latitude":51.377197,
     "geom:longitude":9.562458,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pommernstr. 3",
     "sg:city":"Staufenberg",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063811,
-        85633111,
         85682531,
-        85905687
+        85633111,
+        85905687,
+        102063811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119203477,
-    "wof:lastmodified":1449042007,
+    "wof:lastmodified":1466229083,
     "wof:name":"Gemeindeb\u00fccherei Speele Dorfgemeinschaftshaus",
     "wof:parent_id":85905687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.562458,51.377197,9.562458,51.377197],
+  "bbox": [
+    9.562458,
+    51.377197,
+    9.562458,
+    51.377197
+],
   "geometry": {"coordinates":[9.562458,51.377197],"type":"Point"}
 }

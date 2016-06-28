@@ -2,13 +2,14 @@
   "id": 135831693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.0134,51.358055,12.0134,51.358055",
     "geom:latitude":51.358055,
     "geom:longitude":12.0134,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amtsh\u00e4user 13",
     "sg:city":"Merseburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135831693,
-    "wof:lastmodified":1449022788,
+    "wof:lastmodified":1466244223,
     "wof:name":"Herbert Kummer",
     "wof:parent_id":101841333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.0134,51.358055,12.0134,51.358055],
+  "bbox": [
+    12.0134,
+    51.358055,
+    12.0134,
+    51.358055
+],
   "geometry": {"coordinates":[12.0134,51.358055],"type":"Point"}
 }

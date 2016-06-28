@@ -2,13 +2,14 @@
   "id": 303063905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.67359,49.55822,8.67359,49.55822",
     "geom:latitude":49.55822,
     "geom:longitude":8.67359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheffelstr. 2",
     "sg:city":"Weinheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303063905,
-    "wof:lastmodified":1448998331,
+    "wof:lastmodified":1466226108,
     "wof:name":"G. Keller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.67359,49.55822,8.67359,49.55822],
+  "bbox": [
+    8.67359,
+    49.55822,
+    8.67359,
+    49.55822
+],
   "geometry": {"coordinates":[8.67359,49.55822],"type":"Point"}
 }

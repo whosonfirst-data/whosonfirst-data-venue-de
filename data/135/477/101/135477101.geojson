@@ -2,13 +2,14 @@
   "id": 135477101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.604773,48.130562,11.604773,48.130562",
     "geom:latitude":48.130562,
     "geom:longitude":11.604773,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breisacher Str. 19",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905613,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135477101,
-    "wof:lastmodified":1449021493,
+    "wof:lastmodified":1466229501,
     "wof:name":"Escobar",
     "wof:parent_id":85905613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.604773,48.130562,11.604773,48.130562],
+  "bbox": [
+    11.604773,
+    48.130562,
+    11.604773,
+    48.130562
+],
   "geometry": {"coordinates":[11.604773,48.130562],"type":"Point"}
 }

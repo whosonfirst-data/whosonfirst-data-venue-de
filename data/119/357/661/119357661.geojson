@@ -2,13 +2,14 @@
   "id": 119357661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.503532,51.491711,7.503532,51.491711",
     "geom:latitude":51.491711,
     "geom:longitude":7.503532,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6rder Burgstr. 15",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795033,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119357661,
-    "wof:lastmodified":1449043210,
+    "wof:lastmodified":1466240315,
     "wof:name":"M. Kletschka",
     "wof:parent_id":85795033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.503532,51.491711,7.503532,51.491711],
+  "bbox": [
+    7.503532,
+    51.491711,
+    7.503532,
+    51.491711
+],
   "geometry": {"coordinates":[7.503532,51.491711],"type":"Point"}
 }

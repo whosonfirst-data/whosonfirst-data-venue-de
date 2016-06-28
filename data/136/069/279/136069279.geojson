@@ -2,13 +2,14 @@
   "id": 136069279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534516,50.551018,8.534516,50.551018",
     "geom:latitude":50.551018,
     "geom:longitude":8.534516,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Gei\u00dfler 8",
     "sg:city":"Wetzlar",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796463,
+        85682531,
         85633111,
         101748599,
         102063675,
-        85682531
+        85796463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136069279,
-    "wof:lastmodified":1449075763,
+    "wof:lastmodified":1466215328,
     "wof:name":"G\u00fcnter Daeumer - Rundfunk- Und Fernsehtechniker",
     "wof:parent_id":85796463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534516,50.551018,8.534516,50.551018],
+  "bbox": [
+    8.534516,
+    50.551018,
+    8.534516,
+    50.551018
+],
   "geometry": {"coordinates":[8.534516,50.551018],"type":"Point"}
 }

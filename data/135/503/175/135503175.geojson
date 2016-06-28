@@ -2,13 +2,14 @@
   "id": 135503175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.574676,52.397839,13.574676,52.397839",
     "geom:latitude":52.397839,
     "geom:longitude":13.574676,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waltersdorfer Str. 26-27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900229,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135503175,
-    "wof:lastmodified":1449023994,
+    "wof:lastmodified":1466231870,
     "wof:name":"Klaus Kr\u00fcger",
     "wof:parent_id":85900229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.574676,52.397839,13.574676,52.397839],
+  "bbox": [
+    13.574676,
+    52.397839,
+    13.574676,
+    52.397839
+],
   "geometry": {"coordinates":[13.574676,52.397839],"type":"Point"}
 }

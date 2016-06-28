@@ -2,13 +2,14 @@
   "id": 152678443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.453277,49.494419,8.453277,49.494419",
     "geom:latitude":49.494419,
     "geom:longitude":8.453277,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Verl\u00e4ngerte Jungbuschstr. 2-6",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795247,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152678443,
-    "wof:lastmodified":1449046536,
+    "wof:lastmodified":1466224183,
     "wof:name":"Rainer A. Wagenmann Verwaltungs- Gmbh",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.453277,49.494419,8.453277,49.494419],
+  "bbox": [
+    8.453277,
+    49.494419,
+    8.453277,
+    49.494419
+],
   "geometry": {"coordinates":[8.453277,49.494419],"type":"Point"}
 }

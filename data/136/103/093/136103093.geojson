@@ -2,13 +2,14 @@
   "id": 136103093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.515154,48.198547,11.515154,48.198547",
     "geom:latitude":48.198547,
     "geom:longitude":11.515154,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schneegl\u00f6ckchenstr. 74b",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899559,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136103093,
-    "wof:lastmodified":1449075740,
+    "wof:lastmodified":1466216885,
     "wof:name":"Pc - Service Im M\u00fcnchner Norden",
     "wof:parent_id":85899559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.515154,48.198547,11.515154,48.198547],
+  "bbox": [
+    11.515154,
+    48.198547,
+    11.515154,
+    48.198547
+],
   "geometry": {"coordinates":[11.515154,48.198547],"type":"Point"}
 }

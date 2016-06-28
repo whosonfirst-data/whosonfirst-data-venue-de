@@ -2,13 +2,14 @@
   "id": 153000303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80334,49.98505,8.80334,49.98505",
     "geom:latitude":49.98505,
     "geom:longitude":8.80334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Messenh\u00e4userstr",
     "sg:city":"R\u00f6dermark",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":153000303,
-    "wof:lastmodified":1449040401,
+    "wof:lastmodified":1466213170,
     "wof:name":"Wohneigentum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80334,49.98505,8.80334,49.98505],
+  "bbox": [
+    8.80334,
+    49.98505,
+    8.80334,
+    49.98505
+],
   "geometry": {"coordinates":[8.80334,49.98505],"type":"Point"}
 }

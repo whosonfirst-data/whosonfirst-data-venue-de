@@ -2,13 +2,14 @@
   "id": 252726243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.205044,50.721706,7.205044,50.721706",
     "geom:latitude":50.721706,
     "geom:longitude":7.205044,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Markgrafenstr. 1",
     "sg:city":"K\u00f6nigswinter",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252726243,
-    "wof:lastmodified":1449006135,
+    "wof:lastmodified":1466219442,
     "wof:name":"Hans Baum",
     "wof:parent_id":85862977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.205044,50.721706,7.205044,50.721706],
+  "bbox": [
+    7.205044,
+    50.721706,
+    7.205044,
+    50.721706
+],
   "geometry": {"coordinates":[7.205044,50.721706],"type":"Point"}
 }

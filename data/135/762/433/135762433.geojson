@@ -2,13 +2,14 @@
   "id": 135762433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.089236,50.776375,6.089236,50.776375",
     "geom:latitude":50.776375,
     "geom:longitude":6.089236,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Peterstr. 15",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862969,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513,
+        85862969,
         85795007
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135762433,
-    "wof:lastmodified":1449023135,
+    "wof:lastmodified":1466243682,
     "wof:name":"Braut-salon Divina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.089236,50.776375,6.089236,50.776375],
+  "bbox": [
+    6.089236,
+    50.776375,
+    6.089236,
+    50.776375
+],
   "geometry": {"coordinates":[6.089236,50.776375],"type":"Point"}
 }

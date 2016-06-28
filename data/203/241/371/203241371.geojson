@@ -2,13 +2,14 @@
   "id": 203241371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.179239,49.619125,9.179239,49.619125",
     "geom:latitude":49.619125,
     "geom:longitude":9.179239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 31",
     "sg:city":"Kirchzell",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203241371,
-    "wof:lastmodified":1449026835,
+    "wof:lastmodified":1466217896,
     "wof:name":"Emil Grimm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.179239,49.619125,9.179239,49.619125],
+  "bbox": [
+    9.179239,
+    49.619125,
+    9.179239,
+    49.619125
+],
   "geometry": {"coordinates":[9.179239,49.619125],"type":"Point"}
 }

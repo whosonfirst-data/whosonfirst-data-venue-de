@@ -2,13 +2,14 @@
   "id": 253004001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.028863,53.179508,9.028863,53.179508",
     "geom:latitude":53.179508,
     "geom:longitude":9.028863,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmalenbecker Str. 1",
     "sg:city":"Grasberg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253004001,
-    "wof:lastmodified":1449063904,
+    "wof:lastmodified":1466219529,
     "wof:name":"Heinrich Wacker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.028863,53.179508,9.028863,53.179508],
+  "bbox": [
+    9.028863,
+    53.179508,
+    9.028863,
+    53.179508
+],
   "geometry": {"coordinates":[9.028863,53.179508],"type":"Point"}
 }

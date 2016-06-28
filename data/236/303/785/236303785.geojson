@@ -2,13 +2,14 @@
   "id": 236303785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.878038,48.42662,10.878038,48.42662",
     "geom:latitude":48.42662,
     "geom:longitude":10.878038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 12",
     "sg:city":"Gersthofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236303785,
-    "wof:lastmodified":1449001705,
+    "wof:lastmodified":1466224461,
     "wof:name":"Anton Steiner",
     "wof:parent_id":85899157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.878038,48.42662,10.878038,48.42662],
+  "bbox": [
+    10.878038,
+    48.42662,
+    10.878038,
+    48.42662
+],
   "geometry": {"coordinates":[10.878038,48.42662],"type":"Point"}
 }

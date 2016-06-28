@@ -2,13 +2,14 @@
   "id": 320491403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.044654,49.316719,11.044654,49.316719",
     "geom:latitude":49.316719,
     "geom:longitude":11.044654,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Vogelherd 17",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320491403,
-    "wof:lastmodified":1449011199,
+    "wof:lastmodified":1466240776,
     "wof:name":"Georg Hofmann",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.044654,49.316719,11.044654,49.316719],
+  "bbox": [
+    11.044654,
+    49.316719,
+    11.044654,
+    49.316719
+],
   "geometry": {"coordinates":[11.044654,49.316719],"type":"Point"}
 }

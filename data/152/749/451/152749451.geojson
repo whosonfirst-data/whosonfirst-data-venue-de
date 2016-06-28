@@ -2,13 +2,14 @@
   "id": 152749451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.056073,51.466438,7.056073,51.466438",
     "geom:latitude":51.466438,
     "geom:longitude":7.056073,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Schacht Hubert 7",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865109,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85865109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152749451,
-    "wof:lastmodified":1449045617,
+    "wof:lastmodified":1466225833,
     "wof:name":"Art Glass Colori",
     "wof:parent_id":85865109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.056073,51.466438,7.056073,51.466438],
+  "bbox": [
+    7.056073,
+    51.466438,
+    7.056073,
+    51.466438
+],
   "geometry": {"coordinates":[7.056073,51.466438],"type":"Point"}
 }

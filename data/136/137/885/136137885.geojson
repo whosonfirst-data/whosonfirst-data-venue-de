@@ -2,13 +2,14 @@
   "id": 136137885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110964,54.089085,12.110964,54.089085",
     "geom:latitude":54.089085,
     "geom:longitude":12.110964,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gellertstrasse 13",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905731,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136137885,
-    "wof:lastmodified":1449076080,
+    "wof:lastmodified":1466218300,
     "wof:name":"Tischlerei Pingel Jr. Gmbh",
     "wof:parent_id":85905731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.110964,54.089085,12.110964,54.089085],
+  "bbox": [
+    12.110964,
+    54.089085,
+    12.110964,
+    54.089085
+],
   "geometry": {"coordinates":[12.110964,54.089085],"type":"Point"}
 }

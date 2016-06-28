@@ -2,13 +2,14 @@
   "id": 236239205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.467115,49.911884,11.467115,49.911884",
     "geom:latitude":49.911884,
     "geom:longitude":11.467115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayreuther Str. 4",
     "sg:city":"Mistelgau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236239205,
-    "wof:lastmodified":1449001913,
+    "wof:lastmodified":1466223308,
     "wof:name":"Alfred Hofmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.467115,49.911884,11.467115,49.911884],
+  "bbox": [
+    11.467115,
+    49.911884,
+    11.467115,
+    49.911884
+],
   "geometry": {"coordinates":[11.467115,49.911884],"type":"Point"}
 }

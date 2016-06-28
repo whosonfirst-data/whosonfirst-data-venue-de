@@ -2,13 +2,14 @@
   "id": 202736849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.503254,51.32542,9.503254,51.32542",
     "geom:latitude":51.32542,
     "geom:longitude":9.503254,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westring 68",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202736849,
-    "wof:lastmodified":1449062605,
+    "wof:lastmodified":1466220105,
     "wof:name":"B. Spitzenberg",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.503254,51.32542,9.503254,51.32542],
+  "bbox": [
+    9.503254,
+    51.32542,
+    9.503254,
+    51.32542
+],
   "geometry": {"coordinates":[9.503254,51.32542],"type":"Point"}
 }

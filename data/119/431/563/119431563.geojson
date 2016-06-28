@@ -2,13 +2,14 @@
   "id": 119431563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.504857,48.004101,10.504857,48.004101",
     "geom:latitude":48.004101,
     "geom:longitude":10.504857,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mindelheimer Str. 11",
     "sg:city":"Dirlewang",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119431563,
-    "wof:lastmodified":1449041192,
+    "wof:lastmodified":1466242415,
     "wof:name":"Deuring",
     "wof:parent_id":101786531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.504857,48.004101,10.504857,48.004101],
+  "bbox": [
+    10.504857,
+    48.004101,
+    10.504857,
+    48.004101
+],
   "geometry": {"coordinates":[10.504857,48.004101],"type":"Point"}
 }

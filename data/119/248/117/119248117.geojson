@@ -2,13 +2,14 @@
   "id": 119248117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.004069,50.038815,12.004069,50.038815",
     "geom:latitude":50.038815,
     "geom:longitude":12.004069,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalhof 1-2",
     "sg:city":"Wunsiedel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119248117,
-    "wof:lastmodified":1449042310,
+    "wof:lastmodified":1466233395,
     "wof:name":"Fichtelgebirgs-museum",
     "wof:parent_id":101826007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.004069,50.038815,12.004069,50.038815],
+  "bbox": [
+    12.004069,
+    50.038815,
+    12.004069,
+    50.038815
+],
   "geometry": {"coordinates":[12.004069,50.038815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202800083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.99468,50.58147,11.99468,50.58147",
     "geom:latitude":50.58147,
     "geom:longitude":11.99468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lutherstr. 1",
     "sg:city":"Pausa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202800083,
-    "wof:lastmodified":1449060314,
+    "wof:lastmodified":1466221237,
     "wof:name":"Kohlehandel Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.99468,50.58147,11.99468,50.58147],
+  "bbox": [
+    11.99468,
+    50.58147,
+    11.99468,
+    50.58147
+],
   "geometry": {"coordinates":[11.99468,50.58147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136147343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.573988,48.195957,11.573988,48.195957",
     "geom:latitude":48.195957,
     "geom:longitude":11.573988,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bischoffstr. 4",
     "sg:city":"Munich",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905617,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136147343,
-    "wof:lastmodified":1449076119,
+    "wof:lastmodified":1466218711,
     "wof:name":"Welcome To Hog Munich-chapter Germany",
     "wof:parent_id":85905617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.573988,48.195957,11.573988,48.195957],
+  "bbox": [
+    11.573988,
+    48.195957,
+    11.573988,
+    48.195957
+],
   "geometry": {"coordinates":[11.573988,48.195957],"type":"Point"}
 }

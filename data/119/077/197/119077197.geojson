@@ -2,13 +2,14 @@
   "id": 119077197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.08918,51.237854,7.08918,51.237854",
     "geom:latitude":51.237854,
     "geom:longitude":7.08918,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arndtstr. 26",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796377,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119077197,
-    "wof:lastmodified":1449041241,
+    "wof:lastmodified":1466217922,
     "wof:name":"Karl-heinz Harguth Architekt",
     "wof:parent_id":85796377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.08918,51.237854,7.08918,51.237854],
+  "bbox": [
+    7.08918,
+    51.237854,
+    7.08918,
+    51.237854
+],
   "geometry": {"coordinates":[7.08918,51.237854],"type":"Point"}
 }

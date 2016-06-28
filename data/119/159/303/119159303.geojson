@@ -2,13 +2,14 @@
   "id": 119159303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.301003,52.441071,13.301003,52.441071",
     "geom:latitude":52.441071,
     "geom:longitude":13.301003,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stubenrauchstr. 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900017,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119159303,
-    "wof:lastmodified":1449041159,
+    "wof:lastmodified":1466224984,
     "wof:name":"Wolfgang Gurski Architekt",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.301003,52.441071,13.301003,52.441071],
+  "bbox": [
+    13.301003,
+    52.441071,
+    13.301003,
+    52.441071
+],
   "geometry": {"coordinates":[13.301003,52.441071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135759885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05176,52.844601,8.05176,52.844601",
     "geom:latitude":52.844601,
     "geom:longitude":8.05176,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 60",
     "sg:city":"Cloppenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135759885,
-    "wof:lastmodified":1449024031,
+    "wof:lastmodified":1466243663,
     "wof:name":"Wilhelm Schwarte",
     "wof:parent_id":101808035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.05176,52.844601,8.05176,52.844601],
+  "bbox": [
+    8.05176,
+    52.844601,
+    8.05176,
+    52.844601
+],
   "geometry": {"coordinates":[8.05176,52.844601],"type":"Point"}
 }

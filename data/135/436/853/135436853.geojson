@@ -2,13 +2,14 @@
   "id": 135436853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.003876,50.039314,12.003876,50.039314",
     "geom:latitude":50.039314,
     "geom:longitude":12.003876,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Sand-Str. 6",
     "sg:city":"Wunsiedel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135436853,
-    "wof:lastmodified":1449023714,
+    "wof:lastmodified":1466226021,
     "wof:name":"Sparkasse Fichtelgebirge",
     "wof:parent_id":101826007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.003876,50.039314,12.003876,50.039314],
+  "bbox": [
+    12.003876,
+    50.039314,
+    12.003876,
+    50.039314
+],
   "geometry": {"coordinates":[12.003876,50.039314],"type":"Point"}
 }

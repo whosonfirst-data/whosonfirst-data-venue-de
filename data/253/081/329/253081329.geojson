@@ -2,13 +2,14 @@
   "id": 253081329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.041475,52.449371,10.041475,52.449371",
     "geom:latitude":52.449371,
     "geom:longitude":10.041475,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wollenweberstr. 10",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253081329,
-    "wof:lastmodified":1449063738,
+    "wof:lastmodified":1466220935,
     "wof:name":"Andreas Westendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.041475,52.449371,10.041475,52.449371],
+  "bbox": [
+    10.041475,
+    52.449371,
+    10.041475,
+    52.449371
+],
   "geometry": {"coordinates":[10.041475,52.449371],"type":"Point"}
 }

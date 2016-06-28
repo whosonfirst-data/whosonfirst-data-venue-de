@@ -2,13 +2,14 @@
   "id": 118565087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638247,50.119324,8.638247,50.119324",
     "geom:latitude":50.119324,
     "geom:longitude":8.638247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Solmsstr 4",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795985,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118565087,
-    "wof:lastmodified":1449054424,
+    "wof:lastmodified":1466216170,
     "wof:name":"Change Communication Gmbh",
     "wof:parent_id":85795985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638247,50.119324,8.638247,50.119324],
+  "bbox": [
+    8.638247,
+    50.119324,
+    8.638247,
+    50.119324
+],
   "geometry": {"coordinates":[8.638247,50.119324],"type":"Point"}
 }

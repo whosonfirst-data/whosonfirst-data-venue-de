@@ -2,13 +2,14 @@
   "id": 135757347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.003952,49.547932,12.003952,49.547932",
     "geom:latitude":49.547932,
     "geom:longitude":12.003952,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wernberger Str. 2",
     "sg:city":"Schnaittenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135757347,
-    "wof:lastmodified":1449022709,
+    "wof:lastmodified":1466243510,
     "wof:name":"Andreas Engelhart",
     "wof:parent_id":101826937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.003952,49.547932,12.003952,49.547932],
+  "bbox": [
+    12.003952,
+    49.547932,
+    12.003952,
+    49.547932
+],
   "geometry": {"coordinates":[12.003952,49.547932],"type":"Point"}
 }

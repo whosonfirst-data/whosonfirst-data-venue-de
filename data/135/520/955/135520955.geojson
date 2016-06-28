@@ -2,13 +2,14 @@
   "id": 135520955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.082456,48.449245,10.082456,48.449245",
     "geom:latitude":48.449245,
     "geom:longitude":10.082456,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klostersteige 41",
     "sg:city":"Elchingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135520955,
-    "wof:lastmodified":1449021998,
+    "wof:lastmodified":1466233540,
     "wof:name":"E. Langner",
     "wof:parent_id":101842071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.082456,48.449245,10.082456,48.449245],
+  "bbox": [
+    10.082456,
+    48.449245,
+    10.082456,
+    48.449245
+],
   "geometry": {"coordinates":[10.082456,48.449245],"type":"Point"}
 }

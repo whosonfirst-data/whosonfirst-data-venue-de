@@ -2,13 +2,14 @@
   "id": 303303613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.111902,47.789394,12.111902,47.789394",
     "geom:latitude":47.789394,
     "geom:longitude":12.111902,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sudelfeldstr. 6",
     "sg:city":"Raubling",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303303613,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1466231983,
     "wof:name":"Alexander Bierlmaier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.111902,47.789394,12.111902,47.789394],
+  "bbox": [
+    12.111902,
+    47.789394,
+    12.111902,
+    47.789394
+],
   "geometry": {"coordinates":[12.111902,47.789394],"type":"Point"}
 }

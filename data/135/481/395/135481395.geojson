@@ -2,13 +2,14 @@
   "id": 135481395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.168614,51.407906,7.168614,51.407906",
     "geom:latitude":51.407906,
     "geom:longitude":7.168614,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Schamberg 12",
     "sg:city":"Hattingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795613
+        85633111,
+        85795613,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135481395,
-    "wof:lastmodified":1449023628,
+    "wof:lastmodified":1466229936,
     "wof:name":"T. I. E. Gmbh",
     "wof:parent_id":85795613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.168614,51.407906,7.168614,51.407906],
+  "bbox": [
+    7.168614,
+    51.407906,
+    7.168614,
+    51.407906
+],
   "geometry": {"coordinates":[7.168614,51.407906],"type":"Point"}
 }

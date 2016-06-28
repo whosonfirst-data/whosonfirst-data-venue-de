@@ -2,13 +2,14 @@
   "id": 118748091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.042391,53.580418,10.042391,53.580418",
     "geom:latitude":53.580418,
     "geom:longitude":10.042391,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Barmbeker Markt 34",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118748091,
-    "wof:lastmodified":1449054198,
+    "wof:lastmodified":1466226647,
     "wof:name":"Thomas Battling",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.042391,53.580418,10.042391,53.580418],
+  "bbox": [
+    10.042391,
+    53.580418,
+    10.042391,
+    53.580418
+],
   "geometry": {"coordinates":[10.042391,53.580418],"type":"Point"}
 }

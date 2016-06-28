@@ -2,13 +2,14 @@
   "id": 119033411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246203,51.577457,7.246203,51.577457",
     "geom:latitude":51.577457,
     "geom:longitude":7.246203,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Merveldtstr. 95",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
-        85795583
+        85633111,
+        85795583,
+        102063831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119033411,
-    "wof:lastmodified":1449041358,
+    "wof:lastmodified":1466213852,
     "wof:name":"Hans M\u00f6ckel Architekt",
     "wof:parent_id":85795583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246203,51.577457,7.246203,51.577457],
+  "bbox": [
+    7.246203,
+    51.577457,
+    7.246203,
+    51.577457
+],
   "geometry": {"coordinates":[7.246203,51.577457],"type":"Point"}
 }

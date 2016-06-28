@@ -2,13 +2,14 @@
   "id": 135802147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.092013,53.673298,10.092013,53.673298",
     "geom:latitude":53.673298,
     "geom:longitude":10.092013,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lemsahler Landstr. 56-58",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900157,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135802147,
-    "wof:lastmodified":1449023457,
+    "wof:lastmodified":1466244086,
     "wof:name":"Barbara Lohmann Mode Und Design Gmbh",
     "wof:parent_id":85900157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.092013,53.673298,10.092013,53.673298],
+  "bbox": [
+    10.092013,
+    53.673298,
+    10.092013,
+    53.673298
+],
   "geometry": {"coordinates":[10.092013,53.673298],"type":"Point"}
 }

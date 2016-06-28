@@ -2,13 +2,14 @@
   "id": 152217683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.763315,50.104973,8.763315,50.104973",
     "geom:latitude":50.104973,
     "geom:longitude":8.763315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Str. 13-15",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152217683,
-    "wof:lastmodified":1449048642,
+    "wof:lastmodified":1466214425,
     "wof:name":"Trendy One E. K.",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.763315,50.104973,8.763315,50.104973],
+  "bbox": [
+    8.763315,
+    50.104973,
+    8.763315,
+    50.104973
+],
   "geometry": {"coordinates":[8.763315,50.104973],"type":"Point"}
 }

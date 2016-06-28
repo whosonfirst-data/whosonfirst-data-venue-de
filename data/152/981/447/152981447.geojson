@@ -2,13 +2,14 @@
   "id": 152981447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.357408,52.523563,13.357408,52.523563",
     "geom:latitude":52.523563,
     "geom:longitude":13.357408,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"alt moabit 127",
     "sg:city":"berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152981447,
-    "wof:lastmodified":1449048977,
+    "wof:lastmodified":1466231355,
     "wof:name":"Watamu Design",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.357408,52.523563,13.357408,52.523563],
+  "bbox": [
+    13.357408,
+    52.523563,
+    13.357408,
+    52.523563
+],
   "geometry": {"coordinates":[13.357408,52.523563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303361771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.419035,49.497894,8.419035,49.497894",
     "geom:latitude":49.497894,
     "geom:longitude":8.419035,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Bosch-Str. 221",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303361771,
-    "wof:lastmodified":1448999899,
+    "wof:lastmodified":1466233401,
     "wof:name":"M. Nestler",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.419035,49.497894,8.419035,49.497894],
+  "bbox": [
+    8.419035,
+    49.497894,
+    8.419035,
+    49.497894
+],
   "geometry": {"coordinates":[8.419035,49.497894],"type":"Point"}
 }

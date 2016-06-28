@@ -2,13 +2,14 @@
   "id": 253435123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557268,51.485668,7.557268,51.485668",
     "geom:latitude":51.485668,
     "geom:longitude":7.557268,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boberstr. 3",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253435123,
-    "wof:lastmodified":1449065511,
+    "wof:lastmodified":1466227711,
     "wof:name":"R. Wilhelm",
     "wof:parent_id":85794747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.557268,51.485668,7.557268,51.485668],
+  "bbox": [
+    7.557268,
+    51.485668,
+    7.557268,
+    51.485668
+],
   "geometry": {"coordinates":[7.557268,51.485668],"type":"Point"}
 }

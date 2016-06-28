@@ -2,13 +2,14 @@
   "id": 118971447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.698908,51.185932,6.698908,51.185932",
     "geom:latitude":51.185932,
     "geom:longitude":6.698908,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6rikestr. 18",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862935,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85862935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118971447,
-    "wof:lastmodified":1449053863,
+    "wof:lastmodified":1466238510,
     "wof:name":"Albert Sch\u00f6nauer Architekt",
     "wof:parent_id":85862935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.698908,51.185932,6.698908,51.185932],
+  "bbox": [
+    6.698908,
+    51.185932,
+    6.698908,
+    51.185932
+],
   "geometry": {"coordinates":[6.698908,51.185932],"type":"Point"}
 }

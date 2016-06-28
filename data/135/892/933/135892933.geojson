@@ -2,13 +2,14 @@
   "id": 135892933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625318,53.050068,8.625318,53.050068",
     "geom:latitude":53.050068,
     "geom:longitude":8.625318,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Str. 1 a",
     "sg:city":"Delmenhorst",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063971,
-        85633111,
         85682555,
-        85796553
+        85633111,
+        85796553,
+        102063971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135892933,
-    "wof:lastmodified":1449021422,
+    "wof:lastmodified":1466244517,
     "wof:name":"I.f. Industrie-finanz Ag & Co. Zweite",
     "wof:parent_id":85796553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625318,53.050068,8.625318,53.050068],
+  "bbox": [
+    8.625318,
+    53.050068,
+    8.625318,
+    53.050068
+],
   "geometry": {"coordinates":[8.625318,53.050068],"type":"Point"}
 }

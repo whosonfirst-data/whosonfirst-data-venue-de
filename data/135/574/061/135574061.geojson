@@ -2,13 +2,14 @@
   "id": 135574061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.601587,49.811092,8.601587,49.811092",
     "geom:latitude":49.811092,
     "geom:longitude":8.601587,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstr. 1",
     "sg:city":"Pfungstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135574061,
-    "wof:lastmodified":1449020963,
+    "wof:lastmodified":1466237484,
     "wof:name":"Lr & Z Bau Gmbh",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.601587,49.811092,8.601587,49.811092],
+  "bbox": [
+    8.601587,
+    49.811092,
+    8.601587,
+    49.811092
+],
   "geometry": {"coordinates":[8.601587,49.811092],"type":"Point"}
 }

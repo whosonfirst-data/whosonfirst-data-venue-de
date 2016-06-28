@@ -2,13 +2,14 @@
   "id": 118498281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.33632,51.440079,7.33632,51.440079",
     "geom:latitude":51.440079,
     "geom:longitude":7.33632,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Witten",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794853,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118498281,
-    "wof:lastmodified":1449054217,
+    "wof:lastmodified":1466218895,
     "wof:name":"Cl Instruments Medizintechnik Und Edv-consulting Gmbh",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.33632,51.440079,7.33632,51.440079],
+  "bbox": [
+    7.33632,
+    51.440079,
+    7.33632,
+    51.440079
+],
   "geometry": {"coordinates":[7.33632,51.440079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203060067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.952146,50.151939,11.952146,50.151939",
     "geom:latitude":50.151939,
     "geom:longitude":11.952146,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Badersbrunnen 4",
     "sg:city":"Kirchenlamitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203060067,
-    "wof:lastmodified":1449026688,
+    "wof:lastmodified":1466214808,
     "wof:name":"Adolf Reinel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.952146,50.151939,11.952146,50.151939],
+  "bbox": [
+    11.952146,
+    50.151939,
+    11.952146,
+    50.151939
+],
   "geometry": {"coordinates":[11.952146,50.151939],"type":"Point"}
 }

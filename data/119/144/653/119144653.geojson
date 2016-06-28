@@ -2,13 +2,14 @@
   "id": 119144653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.150349,53.605038,10.150349,53.605038",
     "geom:latitude":53.605038,
     "geom:longitude":10.150349,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boytinstr. 25",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899149,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119144653,
-    "wof:lastmodified":1449042829,
+    "wof:lastmodified":1466223622,
     "wof:name":"Vereinigung Freischaffender Architekten Deutschlands Vfa",
     "wof:parent_id":85899149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.150349,53.605038,10.150349,53.605038],
+  "bbox": [
+    10.150349,
+    53.605038,
+    10.150349,
+    53.605038
+],
   "geometry": {"coordinates":[10.150349,53.605038],"type":"Point"}
 }

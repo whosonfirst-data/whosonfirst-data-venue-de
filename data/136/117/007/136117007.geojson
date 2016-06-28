@@ -2,13 +2,14 @@
   "id": 136117007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551128,49.405327,8.551128,49.405327",
     "geom:latitude":49.405327,
     "geom:longitude":8.551128,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kastanienweg",
     "sg:city":"Schwetzingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136117007,
-    "wof:lastmodified":1449075835,
+    "wof:lastmodified":1466217459,
     "wof:name":"Roswitha Goos - Chansons\u00e4ngerin Und Schauspielerin",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551128,49.405327,8.551128,49.405327],
+  "bbox": [
+    8.551128,
+    49.405327,
+    8.551128,
+    49.405327
+],
   "geometry": {"coordinates":[8.551128,49.405327],"type":"Point"}
 }

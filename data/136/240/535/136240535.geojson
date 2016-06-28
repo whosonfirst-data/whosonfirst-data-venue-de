@@ -2,13 +2,14 @@
   "id": 136240535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.52599,48.149784,11.52599,48.149784",
     "geom:latitude":48.149784,
     "geom:longitude":11.52599,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stupfstr. 19",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136240535,
-    "wof:lastmodified":1449075036,
+    "wof:lastmodified":1466223636,
     "wof:name":"Monas",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.52599,48.149784,11.52599,48.149784],
+  "bbox": [
+    11.52599,
+    48.149784,
+    11.52599,
+    48.149784
+],
   "geometry": {"coordinates":[11.52599,48.149784],"type":"Point"}
 }

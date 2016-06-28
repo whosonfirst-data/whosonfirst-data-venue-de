@@ -2,13 +2,14 @@
   "id": 118921765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.138375,50.761147,6.138375,50.761147",
     "geom:latitude":50.761147,
     "geom:longitude":6.138375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trierer Str. 337",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795229,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85795229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118921765,
-    "wof:lastmodified":1449054046,
+    "wof:lastmodified":1466236804,
     "wof:name":"Paracelsus-apotheke Inh. Ulrich Pfennig",
     "wof:parent_id":85795229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.138375,50.761147,6.138375,50.761147],
+  "bbox": [
+    6.138375,
+    50.761147,
+    6.138375,
+    50.761147
+],
   "geometry": {"coordinates":[6.138375,50.761147],"type":"Point"}
 }

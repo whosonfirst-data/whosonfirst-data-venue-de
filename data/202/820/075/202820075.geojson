@@ -2,13 +2,14 @@
   "id": 202820075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.645123,50.962929,13.645123,50.962929",
     "geom:latitude":50.962929,
     "geom:longitude":13.645123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oststr. 15",
     "sg:city":"Rabenau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202820075,
-    "wof:lastmodified":1449061432,
+    "wof:lastmodified":1466221594,
     "wof:name":"Walter Einert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.645123,50.962929,13.645123,50.962929],
+  "bbox": [
+    13.645123,
+    50.962929,
+    13.645123,
+    50.962929
+],
   "geometry": {"coordinates":[13.645123,50.962929],"type":"Point"}
 }

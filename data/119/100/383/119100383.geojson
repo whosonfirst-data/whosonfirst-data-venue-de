@@ -2,13 +2,14 @@
   "id": 119100383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.09633,49.466209,11.09633,49.466209",
     "geom:latitude":49.466209,
     "geom:longitude":11.09633,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Virchowstr. 3",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119100383,
-    "wof:lastmodified":1449042839,
+    "wof:lastmodified":1466220093,
     "wof:name":"Nikola Kalimann Architekt",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.09633,49.466209,11.09633,49.466209],
+  "bbox": [
+    11.09633,
+    49.466209,
+    11.09633,
+    49.466209
+],
   "geometry": {"coordinates":[11.09633,49.466209],"type":"Point"}
 }

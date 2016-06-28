@@ -2,13 +2,14 @@
   "id": 119033225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.895963,50.96376,6.895963,50.96376",
     "geom:latitude":50.96376,
     "geom:longitude":6.895963,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Fliederbusch 27",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795883,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119033225,
-    "wof:lastmodified":1449041360,
+    "wof:lastmodified":1466213831,
     "wof:name":"Hans L\u00f6he Architekt",
     "wof:parent_id":85795883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.895963,50.96376,6.895963,50.96376],
+  "bbox": [
+    6.895963,
+    50.96376,
+    6.895963,
+    50.96376
+],
   "geometry": {"coordinates":[6.895963,50.96376],"type":"Point"}
 }

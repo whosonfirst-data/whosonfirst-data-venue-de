@@ -2,13 +2,14 @@
   "id": 135911397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.132522,51.464787,7.132522,51.464787",
     "geom:latitude":51.464787,
     "geom:longitude":7.132522,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlaraffiastr. 1",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063787,
-        85633111,
         85682513,
-        85796509
+        85633111,
+        85796509,
+        102063787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135911397,
-    "wof:lastmodified":1449023520,
+    "wof:lastmodified":1466244768,
     "wof:name":"Torex Laufenberg Health Care Holdings Gmbh",
     "wof:parent_id":85796509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.132522,51.464787,7.132522,51.464787],
+  "bbox": [
+    7.132522,
+    51.464787,
+    7.132522,
+    51.464787
+],
   "geometry": {"coordinates":[7.132522,51.464787],"type":"Point"}
 }

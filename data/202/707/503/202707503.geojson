@@ -2,13 +2,14 @@
   "id": 202707503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.286375,52.642044,13.286375,52.642044",
     "geom:latitude":52.642044,
     "geom:longitude":13.286375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gollanczstr. 55",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202707503,
-    "wof:lastmodified":1449062265,
+    "wof:lastmodified":1466219556,
     "wof:name":"Podzuweit",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.286375,52.642044,13.286375,52.642044],
+  "bbox": [
+    13.286375,
+    52.642044,
+    13.286375,
+    52.642044
+],
   "geometry": {"coordinates":[13.286375,52.642044],"type":"Point"}
 }

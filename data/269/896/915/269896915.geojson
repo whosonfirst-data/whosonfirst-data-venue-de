@@ -2,13 +2,14 @@
   "id": 269896915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155219,51.64056,7.155219,51.64056",
     "geom:latitude":51.64056,
     "geom:longitude":7.155219,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bockholter Str. 509",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269896915,
-    "wof:lastmodified":1449037020,
+    "wof:lastmodified":1466230629,
     "wof:name":"Wilhelm Schmickmann",
     "wof:parent_id":85795495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155219,51.64056,7.155219,51.64056],
+  "bbox": [
+    7.155219,
+    51.64056,
+    7.155219,
+    51.64056
+],
   "geometry": {"coordinates":[7.155219,51.64056],"type":"Point"}
 }

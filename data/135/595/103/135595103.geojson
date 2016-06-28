@@ -2,13 +2,14 @@
   "id": 135595103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.209601,47.559341,10.209601,47.559341",
     "geom:latitude":47.559341,
     "geom:longitude":10.209601,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Engelfeld 13",
     "sg:city":"Immenstadt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135595103,
-    "wof:lastmodified":1449023709,
+    "wof:lastmodified":1466239013,
     "wof:name":"Wagner Markisen Gmbh",
     "wof:parent_id":101765173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.209601,47.559341,10.209601,47.559341],
+  "bbox": [
+    10.209601,
+    47.559341,
+    10.209601,
+    47.559341
+],
   "geometry": {"coordinates":[10.209601,47.559341],"type":"Point"}
 }

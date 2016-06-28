@@ -2,13 +2,14 @@
   "id": 118977357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.519005,48.075588,11.519005,48.075588",
     "geom:latitude":48.075588,
     "geom:longitude":11.519005,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stridbeckstr. 7",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900073,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118977357,
-    "wof:lastmodified":1449054589,
+    "wof:lastmodified":1466238971,
     "wof:name":"Arnim Mayer-voigt Architekt",
     "wof:parent_id":85900073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.519005,48.075588,11.519005,48.075588],
+  "bbox": [
+    11.519005,
+    48.075588,
+    11.519005,
+    48.075588
+],
   "geometry": {"coordinates":[11.519005,48.075588],"type":"Point"}
 }

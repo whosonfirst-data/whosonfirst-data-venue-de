@@ -2,13 +2,14 @@
   "id": 152621545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.024644,51.150688,7.024644,51.150688",
     "geom:latitude":51.150688,
     "geom:longitude":7.024644,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6hdorfer Str. 180",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85796789
+        85633111,
+        85796789,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152621545,
-    "wof:lastmodified":1449048369,
+    "wof:lastmodified":1466222960,
     "wof:name":"Ps Shop Kfz-bedarf Verwaltungs- Gmbh",
     "wof:parent_id":85796789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.024644,51.150688,7.024644,51.150688],
+  "bbox": [
+    7.024644,
+    51.150688,
+    7.024644,
+    51.150688
+],
   "geometry": {"coordinates":[7.024644,51.150688],"type":"Point"}
 }

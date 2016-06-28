@@ -2,13 +2,14 @@
   "id": 119257899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.809464,51.035011,13.809464,51.035011",
     "geom:latitude":51.035011,
     "geom:longitude":13.809464,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlbacher Str. 3",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906347,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119257899,
-    "wof:lastmodified":1449041560,
+    "wof:lastmodified":1466234410,
     "wof:name":"Dr. Med. D. Neumann-oellerking",
     "wof:parent_id":85906347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.809464,51.035011,13.809464,51.035011],
+  "bbox": [
+    13.809464,
+    51.035011,
+    13.809464,
+    51.035011
+],
   "geometry": {"coordinates":[13.809464,51.035011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152761705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.067315,51.156162,7.067315,51.156162",
     "geom:latitude":51.156162,
     "geom:longitude":7.067315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelpilghauser Weg 13",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795521,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85795521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152761705,
-    "wof:lastmodified":1449047819,
+    "wof:lastmodified":1466226142,
     "wof:name":"Bruchhaus Aggregate Und Anlasser",
     "wof:parent_id":85795521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.067315,51.156162,7.067315,51.156162],
+  "bbox": [
+    7.067315,
+    51.156162,
+    7.067315,
+    51.156162
+],
   "geometry": {"coordinates":[7.067315,51.156162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135915781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.543465,51.445141,7.543465,51.445141",
     "geom:latitude":51.445141,
     "geom:longitude":7.543465,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzener Weg 93",
     "sg:city":"Schwerte",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795555,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135915781,
-    "wof:lastmodified":1449023953,
+    "wof:lastmodified":1466244614,
     "wof:name":"Zimmermann Beteiligungs Gmbh",
     "wof:parent_id":85795555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.543465,51.445141,7.543465,51.445141],
+  "bbox": [
+    7.543465,
+    51.445141,
+    7.543465,
+    51.445141
+],
   "geometry": {"coordinates":[7.543465,51.445141],"type":"Point"}
 }

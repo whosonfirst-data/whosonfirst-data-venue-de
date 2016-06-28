@@ -2,13 +2,14 @@
   "id": 152203521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548793,52.057693,8.548793,52.057693",
     "geom:latitude":52.057693,
     "geom:longitude":8.548793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westerfeldstr. 22",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794931,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85794931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152203521,
-    "wof:lastmodified":1449046369,
+    "wof:lastmodified":1466214133,
     "wof:name":"Michael Malucke",
     "wof:parent_id":85794931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548793,52.057693,8.548793,52.057693],
+  "bbox": [
+    8.548793,
+    52.057693,
+    8.548793,
+    52.057693
+],
   "geometry": {"coordinates":[8.548793,52.057693],"type":"Point"}
 }

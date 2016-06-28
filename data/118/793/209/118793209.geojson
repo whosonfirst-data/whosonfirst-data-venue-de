@@ -2,13 +2,14 @@
   "id": 118793209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.408091,48.998947,8.408091,48.998947",
     "geom:latitude":48.998947,
     "geom:longitude":8.408091,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 70",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118793209,
-    "wof:lastmodified":1449053923,
+    "wof:lastmodified":1466229374,
     "wof:name":"Adler Apotheke Inhaber Ute Kr\u00e4tschmer E. K.",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.408091,48.998947,8.408091,48.998947],
+  "bbox": [
+    8.408091,
+    48.998947,
+    8.408091,
+    48.998947
+],
   "geometry": {"coordinates":[8.408091,48.998947],"type":"Point"}
 }

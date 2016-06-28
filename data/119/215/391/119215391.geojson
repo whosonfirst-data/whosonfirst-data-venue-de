@@ -2,13 +2,14 @@
   "id": 119215391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.102883,50.953499,7.102883,50.953499",
     "geom:latitude":50.953499,
     "geom:longitude":7.102883,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In der Auen 59",
     "sg:city":"Bergisch Gladbach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794941,
+        85682513,
         85633111,
         101748647,
         102063727,
-        85682513
+        85794941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215391,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466230201,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Elisabeth In Der Auen",
     "wof:parent_id":85794941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.102883,50.953499,7.102883,50.953499],
+  "bbox": [
+    7.102883,
+    50.953499,
+    7.102883,
+    50.953499
+],
   "geometry": {"coordinates":[7.102883,50.953499],"type":"Point"}
 }

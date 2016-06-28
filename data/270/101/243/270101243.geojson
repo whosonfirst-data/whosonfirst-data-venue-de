@@ -2,13 +2,14 @@
   "id": 270101243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.531447,49.417191,8.531447,49.417191",
     "geom:latitude":49.417191,
     "geom:longitude":8.531447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wei\u00dfenseeweg 11",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270101243,
-    "wof:lastmodified":1449009932,
+    "wof:lastmodified":1466223751,
     "wof:name":"Wolfgang Fabian",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.531447,49.417191,8.531447,49.417191],
+  "bbox": [
+    8.531447,
+    49.417191,
+    8.531447,
+    49.417191
+],
   "geometry": {"coordinates":[8.531447,49.417191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202711285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.25766,51.624989,11.25766,51.624989",
     "geom:latitude":51.624989,
     "geom:longitude":11.25766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 24 a",
     "sg:city":"Molmerswende",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202711285,
-    "wof:lastmodified":1449062199,
+    "wof:lastmodified":1466219631,
     "wof:name":"Heino Koschitzki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.25766,51.624989,11.25766,51.624989],
+  "bbox": [
+    11.25766,
+    51.624989,
+    11.25766,
+    51.624989
+],
   "geometry": {"coordinates":[11.25766,51.624989],"type":"Point"}
 }

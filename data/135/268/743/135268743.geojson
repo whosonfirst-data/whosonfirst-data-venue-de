@@ -2,13 +2,14 @@
   "id": 135268743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.29588,51.288891,7.29588,51.288891",
     "geom:latitude":51.288891,
     "geom:longitude":7.29588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 43",
     "sg:city":"Schwelm",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796243,
+        85682513,
         85633111,
         101756009,
         102063779,
-        85682513
+        85796243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135268743,
-    "wof:lastmodified":1449022731,
+    "wof:lastmodified":1466213679,
     "wof:name":"Harry Kaiser",
     "wof:parent_id":85796243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.29588,51.288891,7.29588,51.288891],
+  "bbox": [
+    7.29588,
+    51.288891,
+    7.29588,
+    51.288891
+],
   "geometry": {"coordinates":[7.29588,51.288891],"type":"Point"}
 }

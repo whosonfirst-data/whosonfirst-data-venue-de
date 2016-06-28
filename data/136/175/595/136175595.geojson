@@ -2,13 +2,14 @@
   "id": 136175595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.616923,52.112919,11.616923,52.112919",
     "geom:latitude":52.112919,
     "geom:longitude":11.616923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Fuchsberg 8",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136175595,
-    "wof:lastmodified":1449075849,
+    "wof:lastmodified":1466219955,
     "wof:name":"Lekhabu Deutschland Gmbh",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.616923,52.112919,11.616923,52.112919],
+  "bbox": [
+    11.616923,
+    52.112919,
+    11.616923,
+    52.112919
+],
   "geometry": {"coordinates":[11.616923,52.112919],"type":"Point"}
 }

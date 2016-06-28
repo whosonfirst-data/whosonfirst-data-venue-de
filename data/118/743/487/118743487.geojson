@@ -2,13 +2,14 @@
   "id": 118743487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.345878,51.674362,12.345878,51.674362",
     "geom:latitude":51.674362,
     "geom:longitude":12.345878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nauendorfer Str. 6",
     "sg:city":"Muldenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118743487,
-    "wof:lastmodified":1449054523,
+    "wof:lastmodified":1466226381,
     "wof:name":"Silvia Apel",
     "wof:parent_id":101821115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.345878,51.674362,12.345878,51.674362],
+  "bbox": [
+    12.345878,
+    51.674362,
+    12.345878,
+    51.674362
+],
   "geometry": {"coordinates":[12.345878,51.674362],"type":"Point"}
 }

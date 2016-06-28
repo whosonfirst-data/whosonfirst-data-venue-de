@@ -2,13 +2,14 @@
   "id": 202729997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.581593,50.096542,11.581593,50.096542",
     "geom:latitude":50.096542,
     "geom:longitude":11.581593,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 28",
     "sg:city":"Neuenmarkt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202729997,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466219979,
     "wof:name":"A. Heller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.581593,50.096542,11.581593,50.096542],
+  "bbox": [
+    11.581593,
+    50.096542,
+    11.581593,
+    50.096542
+],
   "geometry": {"coordinates":[11.581593,50.096542],"type":"Point"}
 }

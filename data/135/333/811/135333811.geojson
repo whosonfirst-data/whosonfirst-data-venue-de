@@ -2,13 +2,14 @@
   "id": 135333811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.976159,52.378586,9.976159,52.378586",
     "geom:latitude":52.378586,
     "geom:longitude":9.976159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgdorfer Str. 20",
     "sg:city":"Lehrte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135333811,
-    "wof:lastmodified":1449023790,
+    "wof:lastmodified":1466216658,
     "wof:name":"Horst Isensee",
     "wof:parent_id":101807699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.976159,52.378586,9.976159,52.378586],
+  "bbox": [
+    9.976159,
+    52.378586,
+    9.976159,
+    52.378586
+],
   "geometry": {"coordinates":[9.976159,52.378586],"type":"Point"}
 }

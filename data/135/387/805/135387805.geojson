@@ -2,13 +2,14 @@
   "id": 135387805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.458295,51.516617,7.458295,51.516617",
     "geom:latitude":51.516617,
     "geom:longitude":7.458295,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 040345:: 10062 Berlin:: Germany.^^Charlottenstr 33/33a::",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795745,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135387805,
-    "wof:lastmodified":1449023601,
+    "wof:lastmodified":1466221803,
     "wof:name":"Gev Gesellschaft F\u00fcr Energie-und Versorgungswerte Mbh",
     "wof:parent_id":85795745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.458295,51.516617,7.458295,51.516617],
+  "bbox": [
+    7.458295,
+    51.516617,
+    7.458295,
+    51.516617
+],
   "geometry": {"coordinates":[7.458295,51.516617],"type":"Point"}
 }

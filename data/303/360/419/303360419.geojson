@@ -2,13 +2,14 @@
   "id": 303360419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.209422,53.508011,10.209422,53.508011",
     "geom:latitude":53.508011,
     "geom:longitude":10.209422,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-Adams-Platz 9",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303360419,
-    "wof:lastmodified":1449000005,
+    "wof:lastmodified":1466233369,
     "wof:name":"Lothar Schlagowski",
     "wof:parent_id":85899271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.209422,53.508011,10.209422,53.508011],
+  "bbox": [
+    10.209422,
+    53.508011,
+    10.209422,
+    53.508011
+],
   "geometry": {"coordinates":[10.209422,53.508011],"type":"Point"}
 }

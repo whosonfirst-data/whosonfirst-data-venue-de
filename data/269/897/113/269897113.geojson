@@ -2,13 +2,14 @@
   "id": 269897113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.149307,43.36776,-86.149307,43.36776",
     "geom:latitude":43.36776,
     "geom:longitude":-86.149307,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreeker Fladder 42",
     "sg:city":"Dreeker Fladder",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269897113,
-    "wof:lastmodified":1449038468,
+    "wof:lastmodified":1466230634,
     "wof:name":"Wilhelm Schmidt",
     "wof:parent_id":85850205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.149307,43.36776,-86.149307,43.36776],
-  "geometry": {"coordinates":[-86.149307,43.36776],"type":"Point"}
+  "bbox": [
+    -86.149307,
+    43.36776,
+    -86.149307,
+    43.36776
+],
+  "geometry": {"coordinates":[-86.14930699999999,43.36776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136014367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.615871,52.131187,11.615871,52.131187",
     "geom:latitude":52.131187,
     "geom:longitude":11.615871,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maxim-Gorki-Str. 31-37",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136014367,
-    "wof:lastmodified":1449075551,
+    "wof:lastmodified":1466234059,
     "wof:name":"Dyckerhoff Transport- Beton Elbe Gmbh",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.615871,52.131187,11.615871,52.131187],
+  "bbox": [
+    11.615871,
+    52.131187,
+    11.615871,
+    52.131187
+],
   "geometry": {"coordinates":[11.615871,52.131187],"type":"Point"}
 }

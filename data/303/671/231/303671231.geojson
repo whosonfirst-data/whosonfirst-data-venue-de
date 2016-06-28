@@ -2,13 +2,14 @@
   "id": 303671231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.037924,50.723263,7.037924,50.723263",
     "geom:latitude":50.723263,
     "geom:longitude":7.037924,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dompfaffenweg 15",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303671231,
-    "wof:lastmodified":1448998674,
+    "wof:lastmodified":1466238912,
     "wof:name":"Fabian",
     "wof:parent_id":85795871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.037924,50.723263,7.037924,50.723263],
+  "bbox": [
+    7.037924,
+    50.723263,
+    7.037924,
+    50.723263
+],
   "geometry": {"coordinates":[7.037924,50.723263],"type":"Point"}
 }

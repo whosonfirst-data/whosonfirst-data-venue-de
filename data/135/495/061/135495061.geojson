@@ -2,13 +2,14 @@
   "id": 135495061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110289,47.791679,12.110289,47.791679",
     "geom:latitude":47.791679,
     "geom:longitude":12.110289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayernstr. 2",
     "sg:city":"Raubling",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135495061,
-    "wof:lastmodified":1449022347,
+    "wof:lastmodified":1466231166,
     "wof:name":"Josef Hellmanns",
     "wof:parent_id":101787737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.110289,47.791679,12.110289,47.791679],
+  "bbox": [
+    12.110289,
+    47.791679,
+    12.110289,
+    47.791679
+],
   "geometry": {"coordinates":[12.110289,47.791679],"type":"Point"}
 }

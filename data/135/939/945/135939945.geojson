@@ -2,13 +2,14 @@
   "id": 135939945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.803983,53.080769,8.803983,53.080769",
     "geom:latitude":53.080769,
     "geom:longitude":8.803983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrgermeister-Smidt-Str. 69",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135939945,
-    "wof:lastmodified":1449021899,
+    "wof:lastmodified":1466244718,
     "wof:name":"Bongartz Bau- Und Verwaltungs-gmbh",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.803983,53.080769,8.803983,53.080769],
+  "bbox": [
+    8.803983,
+    53.080769,
+    8.803983,
+    53.080769
+],
   "geometry": {"coordinates":[8.803983,53.080769],"type":"Point"}
 }

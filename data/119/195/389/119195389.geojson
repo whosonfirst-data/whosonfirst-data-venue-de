@@ -2,13 +2,14 @@
   "id": 119195389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.823945,48.378078,10.823945,48.378078",
     "geom:latitude":48.378078,
     "geom:longitude":10.823945,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kobelstr. 68",
     "sg:city":"Neus\u00e4\u00df",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900099,
+        85682571,
         85633111,
         101755891,
         102063311,
-        85682571
+        85900099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119195389,
-    "wof:lastmodified":1449042637,
+    "wof:lastmodified":1466228370,
     "wof:name":"B\u00fccherei St. Raphael Steppach",
     "wof:parent_id":85900099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.823945,48.378078,10.823945,48.378078],
+  "bbox": [
+    10.823945,
+    48.378078,
+    10.823945,
+    48.378078
+],
   "geometry": {"coordinates":[10.823945,48.378078],"type":"Point"}
 }

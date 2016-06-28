@@ -2,13 +2,14 @@
   "id": 118645099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.682281,48.075722,11.682281,48.075722",
     "geom:latitude":48.075722,
     "geom:longitude":11.682281,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albrecht-D\u00fcrer-Str. 27",
     "sg:city":"Neubiberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118645099,
-    "wof:lastmodified":1449053291,
+    "wof:lastmodified":1466220824,
     "wof:name":"Wilhelm-h\u00f6gner-haus",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.682281,48.075722,11.682281,48.075722],
+  "bbox": [
+    11.682281,
+    48.075722,
+    11.682281,
+    48.075722
+],
   "geometry": {"coordinates":[11.682281,48.075722],"type":"Point"}
 }

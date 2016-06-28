@@ -2,13 +2,14 @@
   "id": 269554255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.002575,51.161251,7.002575,51.161251",
     "geom:latitude":51.161251,
     "geom:longitude":7.002575,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00fcsseldorfer Str. 15",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269554255,
-    "wof:lastmodified":1449036642,
+    "wof:lastmodified":1466222515,
     "wof:name":"Pari",
     "wof:parent_id":85796405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.002575,51.161251,7.002575,51.161251],
+  "bbox": [
+    7.002575,
+    51.161251,
+    7.002575,
+    51.161251
+],
   "geometry": {"coordinates":[7.002575,51.161251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320135065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.599382,50.875675,12.599382,50.875675",
     "geom:latitude":50.875675,
     "geom:longitude":12.599382,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenburger Str. 36",
     "sg:city":"Waldenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320135065,
-    "wof:lastmodified":1449012709,
+    "wof:lastmodified":1466236244,
     "wof:name":"Eiscafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.599382,50.875675,12.599382,50.875675],
+  "bbox": [
+    12.599382,
+    50.875675,
+    12.599382,
+    50.875675
+],
   "geometry": {"coordinates":[12.599382,50.875675],"type":"Point"}
 }

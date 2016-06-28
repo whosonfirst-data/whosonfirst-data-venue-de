@@ -2,13 +2,14 @@
   "id": 219420741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.202591,40.014359,-77.202591,40.014359",
     "geom:latitude":40.014359,
     "geom:longitude":-77.202591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ueckerm\u00fcnder Str. 20a",
     "sg:city":"Hoppenwalde",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219420741,
-    "wof:lastmodified":1449072081,
+    "wof:lastmodified":1466219133,
     "wof:name":"Jens Freese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.202591,40.014359,-77.202591,40.014359],
+  "bbox": [
+    -77.202591,
+    40.014359,
+    -77.202591,
+    40.014359
+],
   "geometry": {"coordinates":[-77.202591,40.014359],"type":"Point"}
 }

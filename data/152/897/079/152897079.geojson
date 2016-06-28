@@ -2,13 +2,14 @@
   "id": 152897079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.651919,51.08284,13.651919,51.08284",
     "geom:latitude":51.08284,
     "geom:longitude":13.651919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meissner Landstr. 130",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900101,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152897079,
-    "wof:lastmodified":1449048169,
+    "wof:lastmodified":1466229324,
     "wof:name":"Pension Hamann Dresden",
     "wof:parent_id":85900101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.651919,51.08284,13.651919,51.08284],
+  "bbox": [
+    13.651919,
+    51.08284,
+    13.651919,
+    51.08284
+],
   "geometry": {"coordinates":[13.651919,51.08284],"type":"Point"}
 }

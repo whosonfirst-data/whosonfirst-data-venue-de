@@ -2,13 +2,14 @@
   "id": 135820843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.485655,51.31374,9.485655,51.31374",
     "geom:latitude":51.31374,
     "geom:longitude":9.485655,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karth\u00e4userstr. 5a",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135820843,
-    "wof:lastmodified":1449022579,
+    "wof:lastmodified":1466244020,
     "wof:name":"Notarkammer Kassel",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.485655,51.31374,9.485655,51.31374],
+  "bbox": [
+    9.485655,
+    51.31374,
+    9.485655,
+    51.31374
+],
   "geometry": {"coordinates":[9.485655,51.31374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203099811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.521821,48.288933,10.521821,48.288933",
     "geom:latitude":48.288933,
     "geom:longitude":10.521821,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlesierstr. 9",
     "sg:city":"Ziemetshausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203099811,
-    "wof:lastmodified":1449026213,
+    "wof:lastmodified":1466215498,
     "wof:name":"Anton Wiedemann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.521821,48.288933,10.521821,48.288933],
+  "bbox": [
+    10.521821,
+    48.288933,
+    10.521821,
+    48.288933
+],
   "geometry": {"coordinates":[10.521821,48.288933],"type":"Point"}
 }

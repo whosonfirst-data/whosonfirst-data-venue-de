@@ -2,13 +2,14 @@
   "id": 118863287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.217469,48.802559,9.217469,48.802559",
     "geom:latitude":48.802559,
     "geom:longitude":9.217469,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 11",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118863287,
-    "wof:lastmodified":1449054107,
+    "wof:lastmodified":1466233628,
     "wof:name":"Apotheke Am Bahnhof",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.217469,48.802559,9.217469,48.802559],
+  "bbox": [
+    9.217469,
+    48.802559,
+    9.217469,
+    48.802559
+],
   "geometry": {"coordinates":[9.217469,48.802559],"type":"Point"}
 }

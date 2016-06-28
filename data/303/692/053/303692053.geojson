@@ -2,13 +2,14 @@
   "id": 303692053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.497767,48.124428,11.497767,48.124428",
     "geom:latitude":48.124428,
     "geom:longitude":11.497767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maenherstr. 25",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303692053,
-    "wof:lastmodified":1448998760,
+    "wof:lastmodified":1466239234,
     "wof:name":"Paul Bauer",
     "wof:parent_id":85899373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.497767,48.124428,11.497767,48.124428],
+  "bbox": [
+    11.497767,
+    48.124428,
+    11.497767,
+    48.124428
+],
   "geometry": {"coordinates":[11.497767,48.124428],"type":"Point"}
 }

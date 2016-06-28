@@ -2,13 +2,14 @@
   "id": 286590063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57519,49.959522,11.57519,49.959522",
     "geom:latitude":49.959522,
     "geom:longitude":11.57519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parsifalstr. 18",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286590063,
-    "wof:lastmodified":1449016946,
+    "wof:lastmodified":1466232380,
     "wof:name":"Flugdienst Bayreuth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57519,49.959522,11.57519,49.959522],
+  "bbox": [
+    11.57519,
+    49.959522,
+    11.57519,
+    49.959522
+],
   "geometry": {"coordinates":[11.57519,49.959522],"type":"Point"}
 }

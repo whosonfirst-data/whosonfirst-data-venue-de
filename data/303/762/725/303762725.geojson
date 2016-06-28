@@ -2,13 +2,14 @@
   "id": 303762725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.536469,48.178246,11.536469,48.178246",
     "geom:latitude":48.178246,
     "geom:longitude":11.536469,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riesstr 17",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303762725,
-    "wof:lastmodified":1448999843,
+    "wof:lastmodified":1466240227,
     "wof:name":"Gmx Gmbh",
     "wof:parent_id":85899191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.536469,48.178246,11.536469,48.178246],
+  "bbox": [
+    11.536469,
+    48.178246,
+    11.536469,
+    48.178246
+],
   "geometry": {"coordinates":[11.536469,48.178246],"type":"Point"}
 }

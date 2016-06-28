@@ -2,13 +2,14 @@
   "id": 118766753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.269994,51.152027,7.269994,51.152027",
     "geom:latitude":51.152027,
     "geom:longitude":7.269994,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Weidenbroich 9",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85794913
+        85633111,
+        85794913,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118766753,
-    "wof:lastmodified":1449053128,
+    "wof:lastmodified":1466227728,
     "wof:name":"Kld Gmbh",
     "wof:parent_id":85794913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.269994,51.152027,7.269994,51.152027],
+  "bbox": [
+    7.269994,
+    51.152027,
+    7.269994,
+    51.152027
+],
   "geometry": {"coordinates":[7.269994,51.152027],"type":"Point"}
 }

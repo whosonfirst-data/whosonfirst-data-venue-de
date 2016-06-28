@@ -2,13 +2,14 @@
   "id": 320505005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.301315,52.630325,13.301315,52.630325",
     "geom:latitude":52.630325,
     "geom:longitude":13.301315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walporzheimer Str. 8",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320505005,
-    "wof:lastmodified":1449014367,
+    "wof:lastmodified":1466241170,
     "wof:name":"Hostess Agency Gmbh",
     "wof:parent_id":85907699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.301315,52.630325,13.301315,52.630325],
+  "bbox": [
+    13.301315,
+    52.630325,
+    13.301315,
+    52.630325
+],
   "geometry": {"coordinates":[13.301315,52.630325],"type":"Point"}
 }

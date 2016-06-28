@@ -2,13 +2,14 @@
   "id": 202557955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.192473,51.453163,7.192473,51.453163",
     "geom:latitude":51.453163,
     "geom:longitude":7.192473,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hattinger Str. 359",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202557955,
-    "wof:lastmodified":1449061906,
+    "wof:lastmodified":1466216780,
     "wof:name":"Art Of Beauty",
     "wof:parent_id":85863241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.192473,51.453163,7.192473,51.453163],
+  "bbox": [
+    7.192473,
+    51.453163,
+    7.192473,
+    51.453163
+],
   "geometry": {"coordinates":[7.192473,51.453163],"type":"Point"}
 }

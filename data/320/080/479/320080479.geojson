@@ -2,13 +2,14 @@
   "id": 320080479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.095249,49.042068,9.095249,49.042068",
     "geom:latitude":49.042068,
     "geom:longitude":9.095249,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 4",
     "sg:city":"B\u00f6nnigheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320080479,
-    "wof:lastmodified":1449014863,
+    "wof:lastmodified":1466235229,
     "wof:name":"Studio Philipp Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.095249,49.042068,9.095249,49.042068],
+  "bbox": [
+    9.095249,
+    49.042068,
+    9.095249,
+    49.042068
+],
   "geometry": {"coordinates":[9.095249,49.042068],"type":"Point"}
 }

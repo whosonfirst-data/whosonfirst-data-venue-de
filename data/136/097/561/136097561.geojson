@@ -2,13 +2,14 @@
   "id": 136097561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.496803,51.19524,6.496803,51.19524",
     "geom:latitude":51.19524,
     "geom:longitude":6.496803,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gilleshuette",
     "sg:city":"Korschenbroich",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795867,
+        85682513,
         85633111,
         101810017,
         102063757,
-        85682513
+        85795867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136097561,
-    "wof:lastmodified":1449075437,
+    "wof:lastmodified":1466216650,
     "wof:name":"Newtelligence - Software Engineering",
     "wof:parent_id":85795867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.496803,51.19524,6.496803,51.19524],
+  "bbox": [
+    6.496803,
+    51.19524,
+    6.496803,
+    51.19524
+],
   "geometry": {"coordinates":[6.496803,51.19524],"type":"Point"}
 }

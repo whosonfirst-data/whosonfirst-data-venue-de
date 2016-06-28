@@ -2,13 +2,14 @@
   "id": 119355461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.337711,51.336838,12.337711,51.336838",
     "geom:latitude":51.336838,
     "geom:longitude":12.337711,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kuhturmstr. 14",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119355461,
-    "wof:lastmodified":1449041529,
+    "wof:lastmodified":1466240175,
     "wof:name":"Langer & Kr\u00fcger",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.337711,51.336838,12.337711,51.336838],
+  "bbox": [
+    12.337711,
+    51.336838,
+    12.337711,
+    51.336838
+],
   "geometry": {"coordinates":[12.337711,51.336838],"type":"Point"}
 }

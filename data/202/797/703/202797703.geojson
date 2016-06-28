@@ -2,13 +2,14 @@
   "id": 202797703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.52544,52.344475,14.52544,52.344475",
     "geom:latitude":52.344475,
     "geom:longitude":14.52544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"August-Bebel-Str. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202797703,
-    "wof:lastmodified":1449062398,
+    "wof:lastmodified":1466221197,
     "wof:name":"Kohlehandel Frankfurt Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.52544,52.344475,14.52544,52.344475],
+  "bbox": [
+    14.52544,
+    52.344475,
+    14.52544,
+    52.344475
+],
   "geometry": {"coordinates":[14.52544,52.344475],"type":"Point"}
 }

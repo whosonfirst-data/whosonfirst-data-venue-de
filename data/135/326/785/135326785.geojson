@@ -2,13 +2,14 @@
   "id": 135326785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.202351,49.909149,8.202351,49.909149",
     "geom:latitude":49.909149,
     "geom:longitude":8.202351,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pariser Str. 103",
     "sg:city":"Nieder-Olm",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135326785,
-    "wof:lastmodified":1449022287,
+    "wof:lastmodified":1466216062,
     "wof:name":"Wilfried Post",
     "wof:parent_id":101813513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.202351,49.909149,8.202351,49.909149],
+  "bbox": [
+    8.202351,
+    49.909149,
+    8.202351,
+    49.909149
+],
   "geometry": {"coordinates":[8.202351,49.909149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135328591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.458738,48.990974,8.458738,48.990974",
     "geom:latitude":48.990974,
     "geom:longitude":8.458738,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westmarkstr. 38",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135328591,
-    "wof:lastmodified":1449022799,
+    "wof:lastmodified":1466216216,
     "wof:name":"Willi Ott",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.458738,48.990974,8.458738,48.990974],
+  "bbox": [
+    8.458738,
+    48.990974,
+    8.458738,
+    48.990974
+],
   "geometry": {"coordinates":[8.458738,48.990974],"type":"Point"}
 }

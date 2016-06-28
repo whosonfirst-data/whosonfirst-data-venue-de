@@ -2,13 +2,14 @@
   "id": 118740199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.469845,49.276955,8.469845,49.276955",
     "geom:latitude":49.276955,
     "geom:longitude":8.469845,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleiststr. 13",
     "sg:city":"Oberhausen-Rheinhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118740199,
-    "wof:lastmodified":1449053775,
+    "wof:lastmodified":1466226174,
     "wof:name":"Regio",
     "wof:parent_id":101914213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.469845,49.276955,8.469845,49.276955],
+  "bbox": [
+    8.469845,
+    49.276955,
+    8.469845,
+    49.276955
+],
   "geometry": {"coordinates":[8.469845,49.276955],"type":"Point"}
 }

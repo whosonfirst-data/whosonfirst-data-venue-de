@@ -2,13 +2,14 @@
   "id": 320363333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.468529,48.660004,11.468529,48.660004",
     "geom:latitude":48.660004,
     "geom:longitude":11.468529,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Graben 1",
     "sg:city":"Reichertshofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320363333,
-    "wof:lastmodified":1449014513,
+    "wof:lastmodified":1466239691,
     "wof:name":"Otto Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.468529,48.660004,11.468529,48.660004],
+  "bbox": [
+    11.468529,
+    48.660004,
+    11.468529,
+    48.660004
+],
   "geometry": {"coordinates":[11.468529,48.660004],"type":"Point"}
 }

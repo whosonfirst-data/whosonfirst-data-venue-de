@@ -2,13 +2,14 @@
   "id": 118604845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.85077,50.898678,10.85077,50.898678",
     "geom:latitude":50.898678,
     "geom:longitude":10.85077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenstr 6",
     "sg:city":"Wandersleben",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118604845,
-    "wof:lastmodified":1449054383,
+    "wof:lastmodified":1466218479,
     "wof:name":"Konrad Beck",
     "wof:parent_id":101824051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.85077,50.898678,10.85077,50.898678],
+  "bbox": [
+    10.85077,
+    50.898678,
+    10.85077,
+    50.898678
+],
   "geometry": {"coordinates":[10.85077,50.898678],"type":"Point"}
 }

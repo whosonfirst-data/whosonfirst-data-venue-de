@@ -2,13 +2,14 @@
   "id": 152970495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.667558,47.621407,7.667558,47.621407",
     "geom:latitude":47.621407,
     "geom:longitude":7.667558,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bl\u00fccherstrasse 20a",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152970495,
-    "wof:lastmodified":1449048828,
+    "wof:lastmodified":1466231104,
     "wof:name":"Us Car Club American Street Runners",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.667558,47.621407,7.667558,47.621407],
+  "bbox": [
+    7.667558,
+    47.621407,
+    7.667558,
+    47.621407
+],
   "geometry": {"coordinates":[7.667558,47.621407],"type":"Point"}
 }

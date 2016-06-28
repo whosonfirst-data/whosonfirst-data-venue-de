@@ -2,13 +2,14 @@
   "id": 135597623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.632733,47.592739,7.632733,47.592739",
     "geom:latitude":47.592739,
     "geom:longitude":7.632733,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterdorfstr. 45",
     "sg:city":"Weil am Rhein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135597623,
-    "wof:lastmodified":1449023945,
+    "wof:lastmodified":1466238953,
     "wof:name":"Wilhelm Strunk",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.632733,47.592739,7.632733,47.592739],
+  "bbox": [
+    7.632733,
+    47.592739,
+    7.632733,
+    47.592739
+],
   "geometry": {"coordinates":[7.632733,47.592739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136142135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.598315,52.519264,13.598315,52.519264",
     "geom:latitude":52.519264,
     "geom:longitude":13.598315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wernerstr. 53",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136142135,
-    "wof:lastmodified":1449075960,
+    "wof:lastmodified":1466218488,
     "wof:name":"Virago Site F\u00fcr Fans Der Xv535",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.598315,52.519264,13.598315,52.519264],
+  "bbox": [
+    13.598315,
+    52.519264,
+    13.598315,
+    52.519264
+],
   "geometry": {"coordinates":[13.598315,52.519264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135654141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.07524,48.970444,9.07524,48.970444",
     "geom:latitude":48.970444,
     "geom:longitude":9.07524,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Metterzimmerer Str. 11",
     "sg:city":"Sachsenheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135654141,
-    "wof:lastmodified":1449022019,
+    "wof:lastmodified":1466241128,
     "wof:name":"Bernhard Sinnl",
     "wof:parent_id":101760649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.07524,48.970444,9.07524,48.970444],
+  "bbox": [
+    9.07524,
+    48.970444,
+    9.07524,
+    48.970444
+],
   "geometry": {"coordinates":[9.07524,48.970444],"type":"Point"}
 }

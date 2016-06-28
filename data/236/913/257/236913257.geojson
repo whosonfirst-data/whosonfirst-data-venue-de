@@ -2,13 +2,14 @@
   "id": 236913257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.121781,53.642593,10.121781,53.642593",
     "geom:latitude":53.642593,
     "geom:longitude":10.121781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alter Berner Weg 42",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236913257,
-    "wof:lastmodified":1449002824,
+    "wof:lastmodified":1466235596,
     "wof:name":"Werner Kaiser",
     "wof:parent_id":85898999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.121781,53.642593,10.121781,53.642593],
+  "bbox": [
+    10.121781,
+    53.642593,
+    10.121781,
+    53.642593
+],
   "geometry": {"coordinates":[10.121781,53.642593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136057409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.194732,54.324223,10.194732,54.324223",
     "geom:latitude":54.324223,
     "geom:longitude":10.194732,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Raisdorfer Str. 15",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899765,
+        85682517,
         85633111,
         101756545,
         102064127,
-        85682517
+        85899765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136057409,
-    "wof:lastmodified":1449075562,
+    "wof:lastmodified":1466214781,
     "wof:name":"Eshopz.de - Shopping Leicht Gemacht.",
     "wof:parent_id":85899765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.194732,54.324223,10.194732,54.324223],
+  "bbox": [
+    10.194732,
+    54.324223,
+    10.194732,
+    54.324223
+],
   "geometry": {"coordinates":[10.194732,54.324223],"type":"Point"}
 }

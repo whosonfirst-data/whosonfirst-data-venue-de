@@ -2,13 +2,14 @@
   "id": 152141277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.9716,50.768314,12.9716,50.768314",
     "geom:latitude":50.768314,
     "geom:longitude":12.9716,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seydelstr. 5",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064213,
-        85633111,
         85682523,
-        85899099
+        85633111,
+        85899099,
+        102064213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152141277,
-    "wof:lastmodified":1449045926,
+    "wof:lastmodified":1466230614,
     "wof:name":"Gemeinn\u00fctzige Wohnungsbauge- Nossenschaft Einsiedel Eg",
     "wof:parent_id":85899099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.9716,50.768314,12.9716,50.768314],
+  "bbox": [
+    12.9716,
+    50.768314,
+    12.9716,
+    50.768314
+],
   "geometry": {"coordinates":[12.9716,50.768314],"type":"Point"}
 }

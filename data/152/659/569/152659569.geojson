@@ -2,13 +2,14 @@
   "id": 152659569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.178,48.775639,9.178,48.775639",
     "geom:latitude":48.775639,
     "geom:longitude":9.178,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 7",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152659569,
-    "wof:lastmodified":1449044807,
+    "wof:lastmodified":1466223764,
     "wof:name":"Ingrid Mayer Gmbh",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.178,48.775639,9.178,48.775639],
+  "bbox": [
+    9.178,
+    48.775639,
+    9.178,
+    48.775639
+],
   "geometry": {"coordinates":[9.178,48.775639],"type":"Point"}
 }

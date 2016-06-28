@@ -2,13 +2,14 @@
   "id": 135776555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.458596,49.277924,11.458596,49.277924",
     "geom:latitude":49.277924,
     "geom:longitude":11.458596,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viehmarkt 3",
     "sg:city":"Neumarkt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135776555,
-    "wof:lastmodified":1449021649,
+    "wof:lastmodified":1466243919,
     "wof:name":"Andreas Klintzsch",
     "wof:parent_id":101782055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.458596,49.277924,11.458596,49.277924],
+  "bbox": [
+    11.458596,
+    49.277924,
+    11.458596,
+    49.277924
+],
   "geometry": {"coordinates":[11.458596,49.277924],"type":"Point"}
 }

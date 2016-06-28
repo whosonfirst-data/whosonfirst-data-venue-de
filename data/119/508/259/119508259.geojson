@@ -2,13 +2,14 @@
   "id": 119508259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557003,51.493313,7.557003,51.493313",
     "geom:latitude":51.493313,
     "geom:longitude":7.557003,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6ln-Berliner-Str. 20",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794747,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85794747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119508259,
-    "wof:lastmodified":1449042350,
+    "wof:lastmodified":1466243711,
     "wof:name":"B\u00e4ckerei Westermann Gmbh",
     "wof:parent_id":85794747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.557003,51.493313,7.557003,51.493313],
+  "bbox": [
+    7.557003,
+    51.493313,
+    7.557003,
+    51.493313
+],
   "geometry": {"coordinates":[7.557003,51.493313],"type":"Point"}
 }

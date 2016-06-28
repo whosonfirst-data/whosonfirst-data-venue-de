@@ -2,13 +2,14 @@
   "id": 119527769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.94466,49.484905,10.94466,49.484905",
     "geom:latitude":49.484905,
     "geom:longitude":10.94466,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fcrzburger Str. 499",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898973,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85898973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119527769,
-    "wof:lastmodified":1449042945,
+    "wof:lastmodified":1466243971,
     "wof:name":"Gerhard Gr\u00e4f",
     "wof:parent_id":85898973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.94466,49.484905,10.94466,49.484905],
+  "bbox": [
+    10.94466,
+    49.484905,
+    10.94466,
+    49.484905
+],
   "geometry": {"coordinates":[10.94466,49.484905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303775835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.120959,47.852592,12.120959,47.852592",
     "geom:latitude":47.852592,
     "geom:longitude":12.120959,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 6",
     "sg:city":"Rosenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303775835,
-    "wof:lastmodified":1448999925,
+    "wof:lastmodified":1466240339,
     "wof:name":"Alfred Baum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.120959,47.852592,12.120959,47.852592],
+  "bbox": [
+    12.120959,
+    47.852592,
+    12.120959,
+    47.852592
+],
   "geometry": {"coordinates":[12.120959,47.852592],"type":"Point"}
 }

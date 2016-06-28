@@ -2,13 +2,14 @@
   "id": 119330943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.077535,49.121975,10.077535,49.121975",
     "geom:latitude":49.121975,
     "geom:longitude":10.077535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schollenberg 7",
     "sg:city":"Crailsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119330943,
-    "wof:lastmodified":1449042171,
+    "wof:lastmodified":1466239013,
     "wof:name":"Heinz Vogel",
     "wof:parent_id":101760911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.077535,49.121975,10.077535,49.121975],
+  "bbox": [
+    10.077535,
+    49.121975,
+    10.077535,
+    49.121975
+],
   "geometry": {"coordinates":[10.077535,49.121975],"type":"Point"}
 }

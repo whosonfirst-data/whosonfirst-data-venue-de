@@ -2,13 +2,14 @@
   "id": 135848231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.90627,52.532509,13.90627,52.532509",
     "geom:latitude":52.532509,
     "geom:longitude":13.90627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstra\u00dfe 15",
     "sg:city":"Rehfelde",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135848231,
-    "wof:lastmodified":1449021407,
+    "wof:lastmodified":1466244269,
     "wof:name":"Bestattungen Marunde",
     "wof:parent_id":101819923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.90627,52.532509,13.90627,52.532509],
+  "bbox": [
+    13.90627,
+    52.532509,
+    13.90627,
+    52.532509
+],
   "geometry": {"coordinates":[13.90627,52.532509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336825555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.140182,49.683655,12.140182,49.683655",
     "geom:latitude":49.683655,
     "geom:longitude":12.140182,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfreimterstr. 6",
     "sg:city":"Weiden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336825555,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466237706,
     "wof:name":"Fred Weidlich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.140182,49.683655,12.140182,49.683655],
+  "bbox": [
+    12.140182,
+    49.683655,
+    12.140182,
+    49.683655
+],
   "geometry": {"coordinates":[12.140182,49.683655],"type":"Point"}
 }

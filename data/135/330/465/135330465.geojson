@@ -2,13 +2,14 @@
   "id": 135330465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.490256,51.151497,13.490256,51.151497",
     "geom:latitude":51.151497,
     "geom:longitude":13.490256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dresdner Str. 80",
     "sg:city":"Mei\u00dfen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135330465,
-    "wof:lastmodified":1449022518,
+    "wof:lastmodified":1466216373,
     "wof:name":"Wolfgang Spindler",
     "wof:parent_id":101822929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.490256,51.151497,13.490256,51.151497],
+  "bbox": [
+    13.490256,
+    51.151497,
+    13.490256,
+    51.151497
+],
   "geometry": {"coordinates":[13.490256,51.151497],"type":"Point"}
 }

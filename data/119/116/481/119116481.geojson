@@ -2,13 +2,14 @@
   "id": 119116481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.395929,51.301052,12.395929,51.301052",
     "geom:latitude":51.301052,
     "geom:longitude":12.395929,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zwickauer Str. 136",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119116481,
-    "wof:lastmodified":1449041217,
+    "wof:lastmodified":1466221626,
     "wof:name":"Reiner Fink Architekt",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.395929,51.301052,12.395929,51.301052],
+  "bbox": [
+    12.395929,
+    51.301052,
+    12.395929,
+    51.301052
+],
   "geometry": {"coordinates":[12.395929,51.301052],"type":"Point"}
 }

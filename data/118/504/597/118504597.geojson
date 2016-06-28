@@ -2,13 +2,14 @@
   "id": 118504597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.957204,51.420593,6.957204,51.420593",
     "geom:latitude":51.420593,
     "geom:longitude":6.957204,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Essen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,10 +17,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063777,
-        85633111,
         85682513,
-        85863055
+        85633111,
+        85863055,
+        102063777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":118504597,
-    "wof:lastmodified":1449053384,
+    "wof:lastmodified":1466225203,
     "wof:name":"Gudrun Weerasinghe\u00b4s Gallery !",
     "wof:parent_id":85863055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.957204,51.420593,6.957204,51.420593],
+  "bbox": [
+    6.957204,
+    51.420593,
+    6.957204,
+    51.420593
+],
   "geometry": {"coordinates":[6.957204,51.420593],"type":"Point"}
 }

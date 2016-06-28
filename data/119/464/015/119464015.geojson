@@ -2,13 +2,14 @@
   "id": 119464015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.978439,53.042706,8.978439,53.042706",
     "geom:latitude":53.042706,
     "geom:longitude":8.978439,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oskar-Schulze-Str. 4",
     "sg:city":"Achim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85795923
+        85633111,
+        85795923,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119464015,
-    "wof:lastmodified":1449041506,
+    "wof:lastmodified":1466243063,
     "wof:name":"Hanse Bikes Gmbh",
     "wof:parent_id":85795923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.978439,53.042706,8.978439,53.042706],
+  "bbox": [
+    8.978439,
+    53.042706,
+    8.978439,
+    53.042706
+],
   "geometry": {"coordinates":[8.978439,53.042706],"type":"Point"}
 }

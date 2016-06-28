@@ -2,13 +2,14 @@
   "id": 135483493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.865787,48.362797,10.865787,48.362797",
     "geom:latitude":48.362797,
     "geom:longitude":10.865787,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtberger Str 15",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135483493,
-    "wof:lastmodified":1449023377,
+    "wof:lastmodified":1466230150,
     "wof:name":"Lindner Schaumstoffe E.k. Inhaber Gerd Stiegler",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.865787,48.362797,10.865787,48.362797],
+  "bbox": [
+    10.865787,
+    48.362797,
+    10.865787,
+    48.362797
+],
   "geometry": {"coordinates":[10.865787,48.362797],"type":"Point"}
 }

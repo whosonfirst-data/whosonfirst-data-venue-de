@@ -2,13 +2,14 @@
   "id": 136030717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.335303,52.414623,13.335303,52.414623",
     "geom:latitude":52.414623,
     "geom:longitude":13.335303,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lermooser Weg 34",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136030717,
-    "wof:lastmodified":1449075398,
+    "wof:lastmodified":1466213505,
     "wof:name":"Berlin-incomming",
     "wof:parent_id":101748799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.335303,52.414623,13.335303,52.414623],
+  "bbox": [
+    13.335303,
+    52.414623,
+    13.335303,
+    52.414623
+],
   "geometry": {"coordinates":[13.335303,52.414623],"type":"Point"}
 }

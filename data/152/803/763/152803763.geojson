@@ -2,13 +2,14 @@
   "id": 152803763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.686806,51.10569,13.686806,51.10569",
     "geom:latitude":51.10569,
     "geom:longitude":13.686806,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstr. 9",
     "sg:city":"Radebeul",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900101,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152803763,
-    "wof:lastmodified":1449048945,
+    "wof:lastmodified":1466227136,
     "wof:name":"Elektrotechnik Link & St\u00f6cklein, Hausger\u00e4tedienst",
     "wof:parent_id":85900101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.686806,51.10569,13.686806,51.10569],
+  "bbox": [
+    13.686806,
+    51.10569,
+    13.686806,
+    51.10569
+],
   "geometry": {"coordinates":[13.686806,51.10569],"type":"Point"}
 }

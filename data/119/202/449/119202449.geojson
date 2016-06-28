@@ -2,13 +2,14 @@
   "id": 119202449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.075579,54.281063,10.075579,54.281063",
     "geom:latitude":54.281063,
     "geom:longitude":10.075579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Olendieksbarg 12-14",
     "sg:city":"Molfsee",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899259,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119202449,
-    "wof:lastmodified":1449043187,
+    "wof:lastmodified":1466228997,
     "wof:name":"Gemeindeb\u00fccherei Molfsee",
     "wof:parent_id":85899259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.075579,54.281063,10.075579,54.281063],
+  "bbox": [
+    10.075579,
+    54.281063,
+    10.075579,
+    54.281063
+],
   "geometry": {"coordinates":[10.075579,54.281063],"type":"Point"}
 }

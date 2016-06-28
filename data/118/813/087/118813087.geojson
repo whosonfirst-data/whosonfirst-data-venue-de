@@ -2,13 +2,14 @@
   "id": 118813087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.028233,49.200287,7.028233,49.200287",
     "geom:latitude":49.200287,
     "geom:longitude":7.028233,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saargem\u00fcnder Str. 165",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071609,
-        85633147,
         85683271,
-        85796413
+        85633147,
+        85796413,
+        102071609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118813087,
-    "wof:lastmodified":1449053508,
+    "wof:lastmodified":1466230529,
     "wof:name":"Einhorn-apotheke",
     "wof:parent_id":85796413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.028233,49.200287,7.028233,49.200287],
+  "bbox": [
+    7.028233,
+    49.200287,
+    7.028233,
+    49.200287
+],
   "geometry": {"coordinates":[7.028233,49.200287],"type":"Point"}
 }

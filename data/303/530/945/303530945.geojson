@@ -2,13 +2,14 @@
   "id": 303530945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.339498,49.62598,12.339498,49.62598",
     "geom:latitude":49.62598,
     "geom:longitude":12.339498,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Asylstr. 4",
     "sg:city":"Vohenstrau\u00df",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303530945,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466237152,
     "wof:name":"Pokorny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.339498,49.62598,12.339498,49.62598],
+  "bbox": [
+    12.339498,
+    49.62598,
+    12.339498,
+    49.62598
+],
   "geometry": {"coordinates":[12.339498,49.62598],"type":"Point"}
 }

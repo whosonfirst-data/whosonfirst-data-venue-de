@@ -2,13 +2,14 @@
   "id": 118890913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.693419,51.197544,6.693419,51.197544",
     "geom:latitude":51.197544,
     "geom:longitude":6.693419,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberstr. 131",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118890913,
-    "wof:lastmodified":1449053460,
+    "wof:lastmodified":1466235381,
     "wof:name":"Glocken-apotheke",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.693419,51.197544,6.693419,51.197544],
+  "bbox": [
+    6.693419,
+    51.197544,
+    6.693419,
+    51.197544
+],
   "geometry": {"coordinates":[6.693419,51.197544],"type":"Point"}
 }

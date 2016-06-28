@@ -2,13 +2,14 @@
   "id": 118543081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.921513,53.494949,9.921513,53.494949",
     "geom:latitude":53.494949,
     "geom:longitude":9.921513,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorburger Elbdeich 273",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899345,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118543081,
-    "wof:lastmodified":1449053416,
+    "wof:lastmodified":1466215009,
     "wof:name":"Chr. Rathjen Lohnpackerei Und Sortierarbeiten Gmbh",
     "wof:parent_id":85899345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.921513,53.494949,9.921513,53.494949],
+  "bbox": [
+    9.921513,
+    53.494949,
+    9.921513,
+    53.494949
+],
   "geometry": {"coordinates":[9.921513,53.494949],"type":"Point"}
 }

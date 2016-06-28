@@ -2,13 +2,14 @@
   "id": 152638117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.222745,48.802704,9.222745,48.802704",
     "geom:latitude":48.802704,
     "geom:longitude":9.222745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wildunger Str. 27",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152638117,
-    "wof:lastmodified":1449044554,
+    "wof:lastmodified":1466223293,
     "wof:name":"Cocox Holding Und Verwaltungs Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.222745,48.802704,9.222745,48.802704],
+  "bbox": [
+    9.222745,
+    48.802704,
+    9.222745,
+    48.802704
+],
   "geometry": {"coordinates":[9.222745,48.802704],"type":"Point"}
 }

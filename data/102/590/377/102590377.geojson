@@ -2,13 +2,14 @@
   "id": 102590377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.082488,54.102757,12.082488,54.102757",
     "geom:latitude":54.102757,
     "geom:longitude":12.082488,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eikbomweg 21 b",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899039,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85899039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102590377,
-    "wof:lastmodified":1449069180,
+    "wof:lastmodified":1466234670,
     "wof:name":"Edv B\u00fcro Bau Nord Gmbh",
     "wof:parent_id":85899039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.082488,54.102757,12.082488,54.102757],
+  "bbox": [
+    12.082488,
+    54.102757,
+    12.082488,
+    54.102757
+],
   "geometry": {"coordinates":[12.082488,54.102757],"type":"Point"}
 }

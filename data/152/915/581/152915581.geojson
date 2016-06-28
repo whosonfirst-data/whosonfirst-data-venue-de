@@ -2,13 +2,14 @@
   "id": 152915581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.198943,51.323261,6.198943,51.323261",
     "geom:latitude":51.323261,
     "geom:longitude":6.198943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karlstr. 6",
     "sg:city":"Nettetal",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063773,
-        85633111,
         85682513,
-        85797647
+        85633111,
+        85797647,
+        102063773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152915581,
-    "wof:lastmodified":1449048861,
+    "wof:lastmodified":1466229783,
     "wof:name":"Rechtsanwaltskanzlei Heymann-heymann",
     "wof:parent_id":85797647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.198943,51.323261,6.198943,51.323261],
+  "bbox": [
+    6.198943,
+    51.323261,
+    6.198943,
+    51.323261
+],
   "geometry": {"coordinates":[6.198943,51.323261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119008349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.711161,52.394188,10.711161,52.394188",
     "geom:latitude":52.394188,
     "geom:longitude":10.711161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kohlland 2",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063921,
-        85633111,
         85682555,
-        85907707
+        85633111,
+        85907707,
+        102063921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119008349,
-    "wof:lastmodified":1449041614,
+    "wof:lastmodified":1466218496,
     "wof:name":"Florian Thamm Architekt",
     "wof:parent_id":85907707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.711161,52.394188,10.711161,52.394188],
+  "bbox": [
+    10.711161,
+    52.394188,
+    10.711161,
+    52.394188
+],
   "geometry": {"coordinates":[10.711161,52.394188],"type":"Point"}
 }

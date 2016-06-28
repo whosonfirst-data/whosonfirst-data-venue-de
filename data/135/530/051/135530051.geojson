@@ -2,13 +2,14 @@
   "id": 135530051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.510355,48.131557,11.510355,48.131557",
     "geom:latitude":48.131557,
     "geom:longitude":11.510355,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Justinus-Kerner-Str. 29",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135530051,
-    "wof:lastmodified":1449022620,
+    "wof:lastmodified":1466234382,
     "wof:name":"Mapla Bau Gmbh",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.510355,48.131557,11.510355,48.131557],
+  "bbox": [
+    11.510355,
+    48.131557,
+    11.510355,
+    48.131557
+],
   "geometry": {"coordinates":[11.510355,48.131557],"type":"Point"}
 }

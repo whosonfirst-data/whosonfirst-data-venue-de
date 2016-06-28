@@ -2,13 +2,14 @@
   "id": 320459123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.110085,50.958805,7.110085,50.958805",
     "geom:latitude":50.958805,
     "geom:longitude":7.110085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Fischweiher 11",
     "sg:city":"Bergisch Gladbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320459123,
-    "wof:lastmodified":1449012787,
+    "wof:lastmodified":1466240620,
     "wof:name":"Heimedical Gmbh",
     "wof:parent_id":85794941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.110085,50.958805,7.110085,50.958805],
+  "bbox": [
+    7.110085,
+    50.958805,
+    7.110085,
+    50.958805
+],
   "geometry": {"coordinates":[7.110085,50.958805],"type":"Point"}
 }

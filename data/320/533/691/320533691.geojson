@@ -2,13 +2,14 @@
   "id": 320533691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.110227,49.443241,11.110227,49.443241",
     "geom:latitude":49.443241,
     "geom:longitude":11.110227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neumarkter Str. 18",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320533691,
-    "wof:lastmodified":1449011214,
+    "wof:lastmodified":1466241190,
     "wof:name":"Messebau F\u00f6rster Inh. G\u00fcnter F\u00f6rster",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.110227,49.443241,11.110227,49.443241],
+  "bbox": [
+    11.110227,
+    49.443241,
+    11.110227,
+    49.443241
+],
   "geometry": {"coordinates":[11.110227,49.443241],"type":"Point"}
 }

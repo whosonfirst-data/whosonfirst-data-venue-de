@@ -2,13 +2,14 @@
   "id": 118541865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.492222,48.765205,11.492222,48.765205",
     "geom:latitude":48.765205,
     "geom:longitude":11.492222,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Mailinger Bach",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899153,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118541865,
-    "wof:lastmodified":1449053302,
+    "wof:lastmodified":1466214945,
     "wof:name":"Utw Planungs- Bau- Und Besitz- Gesellschaft F\u00fcr Umwelttechn.",
     "wof:parent_id":85899153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.492222,48.765205,11.492222,48.765205],
+  "bbox": [
+    11.492222,
+    48.765205,
+    11.492222,
+    48.765205
+],
   "geometry": {"coordinates":[11.492222,48.765205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135668065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.126356,48.429714,10.126356,48.429714",
     "geom:latitude":48.429714,
     "geom:longitude":10.126356,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Landstr. 9",
     "sg:city":"Nersingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135668065,
-    "wof:lastmodified":1449023105,
+    "wof:lastmodified":1466241724,
     "wof:name":"M. Miller",
     "wof:parent_id":101762899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.126356,48.429714,10.126356,48.429714],
+  "bbox": [
+    10.126356,
+    48.429714,
+    10.126356,
+    48.429714
+],
   "geometry": {"coordinates":[10.126356,48.429714],"type":"Point"}
 }

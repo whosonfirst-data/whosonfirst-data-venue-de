@@ -2,13 +2,14 @@
   "id": 152393129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.091117,52.983425,10.091117,52.983425",
     "geom:latitude":52.983425,
     "geom:longitude":10.091117,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uelzener Str. 8",
     "sg:city":"Munster",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152393129,
-    "wof:lastmodified":1449045756,
+    "wof:lastmodified":1466218024,
     "wof:name":"Wilhelm Schenk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.091117,52.983425,10.091117,52.983425],
+  "bbox": [
+    10.091117,
+    52.983425,
+    10.091117,
+    52.983425
+],
   "geometry": {"coordinates":[10.091117,52.983425],"type":"Point"}
 }

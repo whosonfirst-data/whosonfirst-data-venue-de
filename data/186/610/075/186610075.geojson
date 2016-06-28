@@ -2,13 +2,14 @@
   "id": 186610075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.009932,51.456989,7.009932,51.456989",
     "geom:latitude":51.456989,
     "geom:longitude":7.009932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brandstr. 27",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186610075,
-    "wof:lastmodified":1449052990,
+    "wof:lastmodified":1466220096,
     "wof:name":"Strickzentrum Hayn",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.009932,51.456989,7.009932,51.456989],
+  "bbox": [
+    7.009932,
+    51.456989,
+    7.009932,
+    51.456989
+],
   "geometry": {"coordinates":[7.009932,51.456989],"type":"Point"}
 }

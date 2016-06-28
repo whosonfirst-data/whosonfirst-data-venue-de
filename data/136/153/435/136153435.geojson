@@ -2,13 +2,14 @@
   "id": 136153435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.699103,51.041794,13.699103,51.041794",
     "geom:latitude":51.041794,
     "geom:longitude":13.699103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcnaustrasse 13",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136153435,
-    "wof:lastmodified":1449075847,
+    "wof:lastmodified":1466218969,
     "wof:name":"Wohnungsnet-dresden",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.699103,51.041794,13.699103,51.041794],
+  "bbox": [
+    13.699103,
+    51.041794,
+    13.699103,
+    51.041794
+],
   "geometry": {"coordinates":[13.699103,51.041794],"type":"Point"}
 }

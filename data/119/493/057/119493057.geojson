@@ -2,13 +2,14 @@
   "id": 119493057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.40043,51.494381,7.40043,51.494381",
     "geom:latitude":51.494381,
     "geom:longitude":7.40043,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wittener Str. 51",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063803,
-        85633111,
         85682513,
-        85796185
+        85633111,
+        85796185,
+        102063803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119493057,
-    "wof:lastmodified":1449041624,
+    "wof:lastmodified":1466243512,
     "wof:name":"Service Center Braune Gmbh",
     "wof:parent_id":85796185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.40043,51.494381,7.40043,51.494381],
+  "bbox": [
+    7.40043,
+    51.494381,
+    7.40043,
+    51.494381
+],
   "geometry": {"coordinates":[7.40043,51.494381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135661561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.494828,51.338516,9.494828,51.338516",
     "geom:latitude":51.338516,
     "geom:longitude":9.494828,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fiedlerstr. 208",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906343,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135661561,
-    "wof:lastmodified":1449023685,
+    "wof:lastmodified":1466241202,
     "wof:name":"Heinrich Reinke & Sohn",
     "wof:parent_id":85906343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.494828,51.338516,9.494828,51.338516],
+  "bbox": [
+    9.494828,
+    51.338516,
+    9.494828,
+    51.338516
+],
   "geometry": {"coordinates":[9.494828,51.338516],"type":"Point"}
 }

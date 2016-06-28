@@ -2,13 +2,14 @@
   "id": 135535693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.516989,48.038593,11.516989,48.038593",
     "geom:latitude":48.038593,
     "geom:longitude":11.516989,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gasteig 9 a",
     "sg:city":"Gr\u00fcnwald",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85900207
+        85633111,
+        85900207,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135535693,
-    "wof:lastmodified":1449021517,
+    "wof:lastmodified":1466234898,
     "wof:name":"Villenbau F. Xeller Gmbh",
     "wof:parent_id":85900207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.516989,48.038593,11.516989,48.038593],
+  "bbox": [
+    11.516989,
+    48.038593,
+    11.516989,
+    48.038593
+],
   "geometry": {"coordinates":[11.516989,48.038593],"type":"Point"}
 }

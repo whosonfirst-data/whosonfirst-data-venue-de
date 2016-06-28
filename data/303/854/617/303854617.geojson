@@ -2,13 +2,14 @@
   "id": 303854617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.19444,49.730259,10.19444,49.730259",
     "geom:latitude":49.730259,
     "geom:longitude":10.19444,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Planck-Str. 1",
     "sg:city":"Kitzingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303854617,
-    "wof:lastmodified":1449000474,
+    "wof:lastmodified":1466240771,
     "wof:name":"Bono",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.19444,49.730259,10.19444,49.730259],
+  "bbox": [
+    10.19444,
+    49.730259,
+    10.19444,
+    49.730259
+],
   "geometry": {"coordinates":[10.19444,49.730259],"type":"Point"}
 }

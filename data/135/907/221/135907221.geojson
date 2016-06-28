@@ -2,13 +2,14 @@
   "id": 135907221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.936659,53.551624,9.936659,53.551624",
     "geom:latitude":53.551624,
     "geom:longitude":9.936659,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Brauer-Allee 50",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135907221,
-    "wof:lastmodified":1449023773,
+    "wof:lastmodified":1466244540,
     "wof:name":"Sca Beteiligungen Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.936659,53.551624,9.936659,53.551624],
+  "bbox": [
+    9.936659,
+    53.551624,
+    9.936659,
+    53.551624
+],
   "geometry": {"coordinates":[9.936659,53.551624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135542767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.028011,50.999641,11.028011,50.999641",
     "geom:latitude":50.999641,
     "geom:longitude":11.028011,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oststr. 3",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900121,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85900121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135542767,
-    "wof:lastmodified":1449023353,
+    "wof:lastmodified":1466235477,
     "wof:name":"Contrust Immobilien Gmbh & Co. Kg",
     "wof:parent_id":85900121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.028011,50.999641,11.028011,50.999641],
+  "bbox": [
+    11.028011,
+    50.999641,
+    11.028011,
+    50.999641
+],
   "geometry": {"coordinates":[11.028011,50.999641],"type":"Point"}
 }

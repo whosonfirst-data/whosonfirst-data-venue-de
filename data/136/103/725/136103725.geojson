@@ -2,13 +2,14 @@
   "id": 136103725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.864919,48.361851,10.864919,48.361851",
     "geom:latitude":48.361851,
     "geom:longitude":10.864919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6belstr. 19",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136103725,
-    "wof:lastmodified":1449075740,
+    "wof:lastmodified":1466216911,
     "wof:name":"Pension Abba",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.864919,48.361851,10.864919,48.361851],
+  "bbox": [
+    10.864919,
+    48.361851,
+    10.864919,
+    48.361851
+],
   "geometry": {"coordinates":[10.864919,48.361851],"type":"Point"}
 }

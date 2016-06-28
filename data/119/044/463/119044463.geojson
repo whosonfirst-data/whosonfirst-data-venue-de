@@ -2,13 +2,14 @@
   "id": 119044463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.697463,51.196026,6.697463,51.196026",
     "geom:latitude":51.196026,
     "geom:longitude":6.697463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trankgasse 4",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119044463,
-    "wof:lastmodified":1449042231,
+    "wof:lastmodified":1466214873,
     "wof:name":"Heinz Gilges Architekt",
     "wof:parent_id":85796071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.697463,51.196026,6.697463,51.196026],
+  "bbox": [
+    6.697463,
+    51.196026,
+    6.697463,
+    51.196026
+],
   "geometry": {"coordinates":[6.697463,51.196026],"type":"Point"}
 }

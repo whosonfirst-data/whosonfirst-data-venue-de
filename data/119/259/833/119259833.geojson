@@ -2,13 +2,14 @@
   "id": 119259833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.412519,52.545872,13.412519,52.545872",
     "geom:latitude":52.545872,
     "geom:longitude":13.412519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nhauser Allee 129",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119259833,
-    "wof:lastmodified":1449041417,
+    "wof:lastmodified":1466234609,
     "wof:name":"Dr. Med. Georgi Wassilew",
     "wof:parent_id":101748799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.412519,52.545872,13.412519,52.545872],
+  "bbox": [
+    13.412519,
+    52.545872,
+    13.412519,
+    52.545872
+],
   "geometry": {"coordinates":[13.412519,52.545872],"type":"Point"}
 }

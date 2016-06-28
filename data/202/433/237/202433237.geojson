@@ -2,13 +2,14 @@
   "id": 202433237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.108059,54.328049,10.108059,54.328049",
     "geom:latitude":54.328049,
     "geom:longitude":10.108059,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sedanstr. 9a",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202433237,
-    "wof:lastmodified":1449060398,
+    "wof:lastmodified":1466214363,
     "wof:name":"D. Stammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.108059,54.328049,10.108059,54.328049],
+  "bbox": [
+    10.108059,
+    54.328049,
+    10.108059,
+    54.328049
+],
   "geometry": {"coordinates":[10.108059,54.328049],"type":"Point"}
 }

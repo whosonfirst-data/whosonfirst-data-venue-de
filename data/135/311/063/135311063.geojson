@@ -2,13 +2,14 @@
   "id": 135311063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.374122,49.780655,8.374122,49.780655",
     "geom:latitude":49.780655,
     "geom:longitude":8.374122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 11",
     "sg:city":"Gimbsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135311063,
-    "wof:lastmodified":1449021685,
+    "wof:lastmodified":1466214724,
     "wof:name":"Reuter",
     "wof:parent_id":101813145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.374122,49.780655,8.374122,49.780655],
+  "bbox": [
+    8.374122,
+    49.780655,
+    8.374122,
+    49.780655
+],
   "geometry": {"coordinates":[8.374122,49.780655],"type":"Point"}
 }

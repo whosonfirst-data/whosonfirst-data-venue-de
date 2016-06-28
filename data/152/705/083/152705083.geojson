@@ -2,13 +2,14 @@
   "id": 152705083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802705,53.073139,8.802705,53.073139",
     "geom:latitude":53.073139,
     "geom:longitude":8.802705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrlichkeit 4",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152705083,
-    "wof:lastmodified":1449048925,
+    "wof:lastmodified":1466224758,
     "wof:name":"Gebr\u00fcder Krose Gmbh",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.802705,53.073139,8.802705,53.073139],
+  "bbox": [
+    8.802705,
+    53.073139,
+    8.802705,
+    53.073139
+],
   "geometry": {"coordinates":[8.802705,53.073139],"type":"Point"}
 }

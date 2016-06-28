@@ -2,13 +2,14 @@
   "id": 118628623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.003453,50.841522,10.003453,50.841522",
     "geom:latitude":50.841522,
     "geom:longitude":10.003453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im K\u00fcchgarten 1",
     "sg:city":"Philippsthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118628623,
-    "wof:lastmodified":1449054291,
+    "wof:lastmodified":1466219900,
     "wof:name":"Haus Kreuzberg",
     "wof:parent_id":101811049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.003453,50.841522,10.003453,50.841522],
+  "bbox": [
+    10.003453,
+    50.841522,
+    10.003453,
+    50.841522
+],
   "geometry": {"coordinates":[10.003453,50.841522],"type":"Point"}
 }

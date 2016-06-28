@@ -2,13 +2,14 @@
   "id": 135645761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.628804,47.865608,12.628804,47.865608",
     "geom:latitude":47.865608,
     "geom:longitude":12.628804,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenzeile 7",
     "sg:city":"Traunstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135645761,
-    "wof:lastmodified":1449021303,
+    "wof:lastmodified":1466240855,
     "wof:name":"Max Furtmayr",
     "wof:parent_id":101787767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.628804,47.865608,12.628804,47.865608],
+  "bbox": [
+    12.628804,
+    47.865608,
+    12.628804,
+    47.865608
+],
   "geometry": {"coordinates":[12.628804,47.865608],"type":"Point"}
 }

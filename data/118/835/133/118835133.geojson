@@ -2,13 +2,14 @@
   "id": 118835133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.521468,48.177891,11.521468,48.177891",
     "geom:latitude":48.177891,
     "geom:longitude":11.521468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldmochinger Str. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899265,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118835133,
-    "wof:lastmodified":1449053346,
+    "wof:lastmodified":1466231848,
     "wof:name":"Moosacher-apotheke",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.521468,48.177891,11.521468,48.177891],
+  "bbox": [
+    11.521468,
+    48.177891,
+    11.521468,
+    48.177891
+],
   "geometry": {"coordinates":[11.521468,48.177891],"type":"Point"}
 }

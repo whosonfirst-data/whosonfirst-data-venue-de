@@ -2,13 +2,14 @@
   "id": 320240615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.024535,49.542156,11.024535,49.542156",
     "geom:latitude":49.542156,
     "geom:longitude":11.024535,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Weichselgarten 30",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320240615,
-    "wof:lastmodified":1449011629,
+    "wof:lastmodified":1466237859,
     "wof:name":"Baxter Deutschland Gmbh",
     "wof:parent_id":85905637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.024535,49.542156,11.024535,49.542156],
+  "bbox": [
+    11.024535,
+    49.542156,
+    11.024535,
+    49.542156
+],
   "geometry": {"coordinates":[11.024535,49.542156],"type":"Point"}
 }

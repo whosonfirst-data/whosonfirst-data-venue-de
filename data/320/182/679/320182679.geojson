@@ -2,13 +2,14 @@
   "id": 320182679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.83571,52.513569,11.83571,52.513569",
     "geom:latitude":52.513569,
     "geom:longitude":11.83571,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 82",
     "sg:city":"Bellingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320182679,
-    "wof:lastmodified":1449013624,
+    "wof:lastmodified":1466237001,
     "wof:name":"Horst Wiesner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.83571,52.513569,11.83571,52.513569],
+  "bbox": [
+    11.83571,
+    52.513569,
+    11.83571,
+    52.513569
+],
   "geometry": {"coordinates":[11.83571,52.513569],"type":"Point"}
 }

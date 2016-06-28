@@ -2,13 +2,14 @@
   "id": 135347843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.587278,52.136745,11.587278,52.136745",
     "geom:latitude":52.136745,
     "geom:longitude":11.587278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Trappenweg 25",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135347843,
-    "wof:lastmodified":1449022482,
+    "wof:lastmodified":1466217890,
     "wof:name":"Karl-heinz Kalisch",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.587278,52.136745,11.587278,52.136745],
+  "bbox": [
+    11.587278,
+    52.136745,
+    11.587278,
+    52.136745
+],
   "geometry": {"coordinates":[11.587278,52.136745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135749951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.517411,49.759251,9.517411,49.759251",
     "geom:latitude":49.759251,
     "geom:longitude":9.517411,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausgasse 2",
     "sg:city":"Wertheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135749951,
-    "wof:lastmodified":1449021873,
+    "wof:lastmodified":1466243669,
     "wof:name":"Paletti",
     "wof:parent_id":101913675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.517411,49.759251,9.517411,49.759251],
+  "bbox": [
+    9.517411,
+    49.759251,
+    9.517411,
+    49.759251
+],
   "geometry": {"coordinates":[9.517411,49.759251],"type":"Point"}
 }

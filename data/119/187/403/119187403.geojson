@@ -2,13 +2,14 @@
   "id": 119187403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.132816,54.333763,10.132816,54.333763",
     "geom:latitude":54.333763,
     "geom:longitude":10.132816,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holtenauer Str. 67",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899179,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119187403,
-    "wof:lastmodified":1449041225,
+    "wof:lastmodified":1466227603,
     "wof:name":"Sci Ingenieurdienstleist. F\u00fcr Energie- Und Verkehrs-",
     "wof:parent_id":85899179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.132816,54.333763,10.132816,54.333763],
+  "bbox": [
+    10.132816,
+    54.333763,
+    10.132816,
+    54.333763
+],
   "geometry": {"coordinates":[10.132816,54.333763],"type":"Point"}
 }

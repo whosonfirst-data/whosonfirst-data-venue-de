@@ -2,13 +2,14 @@
   "id": 119340685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.503145,48.13203,11.503145,48.13203",
     "geom:latitude":48.13203,
     "geom:longitude":11.503145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrstenrieder Str. 95",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899373,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119340685,
-    "wof:lastmodified":1449042896,
+    "wof:lastmodified":1466239422,
     "wof:name":"J. Und U. Kumpf",
     "wof:parent_id":85899373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.503145,48.13203,11.503145,48.13203],
+  "bbox": [
+    11.503145,
+    48.13203,
+    11.503145,
+    48.13203
+],
   "geometry": {"coordinates":[11.503145,48.13203],"type":"Point"}
 }

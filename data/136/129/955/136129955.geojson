@@ -2,13 +2,14 @@
   "id": 136129955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.883901,48.419792,10.883901,48.419792",
     "geom:latitude":48.419792,
     "geom:longitude":10.883901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenstrasse 11",
     "sg:city":"Gersthofen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899157,
+        85682571,
         85633111,
         101755889,
         102063311,
-        85682571
+        85899157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136129955,
-    "wof:lastmodified":1449075971,
+    "wof:lastmodified":1466217978,
     "wof:name":"Steingr\u00e4ber Vermietung",
     "wof:parent_id":85899157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.883901,48.419792,10.883901,48.419792],
+  "bbox": [
+    10.883901,
+    48.419792,
+    10.883901,
+    48.419792
+],
   "geometry": {"coordinates":[10.883901,48.419792],"type":"Point"}
 }

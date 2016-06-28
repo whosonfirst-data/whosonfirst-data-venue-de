@@ -2,13 +2,14 @@
   "id": 119510795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.047107,49.367142,11.047107,49.367142",
     "geom:latitude":49.367142,
     "geom:longitude":11.047107,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Katzwanger Hauptstr. 133",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905633,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85905633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119510795,
-    "wof:lastmodified":1449042450,
+    "wof:lastmodified":1466243880,
     "wof:name":"Der B\u00e4cker Feihl Gmbh",
     "wof:parent_id":85905633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.047107,49.367142,11.047107,49.367142],
+  "bbox": [
+    11.047107,
+    49.367142,
+    11.047107,
+    49.367142
+],
   "geometry": {"coordinates":[11.047107,49.367142],"type":"Point"}
 }

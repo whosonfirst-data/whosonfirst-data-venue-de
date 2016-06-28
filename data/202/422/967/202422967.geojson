@@ -2,13 +2,14 @@
   "id": 202422967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.40125,50.43829,7.40125,50.43829",
     "geom:latitude":50.43829,
     "geom:longitude":7.40125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Bahnhof",
     "sg:city":"Andernach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202422967,
-    "wof:lastmodified":1449060286,
+    "wof:lastmodified":1466214169,
     "wof:name":"Witt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.40125,50.43829,7.40125,50.43829],
+  "bbox": [
+    7.40125,
+    50.43829,
+    7.40125,
+    50.43829
+],
   "geometry": {"coordinates":[7.40125,50.43829],"type":"Point"}
 }

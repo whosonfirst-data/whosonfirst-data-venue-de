@@ -2,13 +2,14 @@
   "id": 119156961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.121915,48.834641,9.121915,48.834641",
     "geom:latitude":48.834641,
     "geom:longitude":9.121915,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumhardtweg 1/5",
     "sg:city":"Korntal-M\u00fcnchingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119156961,
-    "wof:lastmodified":1449041349,
+    "wof:lastmodified":1466224759,
     "wof:name":"Willibald Duder Architekt",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.121915,48.834641,9.121915,48.834641],
+  "bbox": [
+    9.121915,
+    48.834641,
+    9.121915,
+    48.834641
+],
   "geometry": {"coordinates":[9.121915,48.834641],"type":"Point"}
 }

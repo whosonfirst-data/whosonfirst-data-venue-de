@@ -2,13 +2,14 @@
   "id": 102609687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533324,52.022835,8.533324,52.022835",
     "geom:latitude":52.022835,
     "geom:longitude":8.533324,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102609687,
-    "wof:lastmodified":1449068667,
+    "wof:lastmodified":1466213523,
     "wof:name":"Creos - Lernumgebung, Lernoberfl\u00e4che, Lernkonzepte",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533324,52.022835,8.533324,52.022835],
+  "bbox": [
+    8.533324,
+    52.022835,
+    8.533324,
+    52.022835
+],
   "geometry": {"coordinates":[8.533324,52.022835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119155355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.477768,48.129269,11.477768,48.129269",
     "geom:latitude":48.129269,
     "geom:longitude":11.477768,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Senftenauerstr. 144",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899017,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119155355,
-    "wof:lastmodified":1449043037,
+    "wof:lastmodified":1466224610,
     "wof:name":"Wilhelm Koch Architekt",
     "wof:parent_id":85899017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.477768,48.129269,11.477768,48.129269],
+  "bbox": [
+    11.477768,
+    48.129269,
+    11.477768,
+    48.129269
+],
   "geometry": {"coordinates":[11.477768,48.129269],"type":"Point"}
 }

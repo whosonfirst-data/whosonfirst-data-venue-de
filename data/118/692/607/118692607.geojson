@@ -2,13 +2,14 @@
   "id": 118692607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.13075,51.277687,7.13075,51.277687",
     "geom:latitude":51.277687,
     "geom:longitude":7.13075,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Bredtchen 27",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862921,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85862921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118692607,
-    "wof:lastmodified":1449053521,
+    "wof:lastmodified":1466223492,
     "wof:name":"B\u00e4rbel Busch",
     "wof:parent_id":85862921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.13075,51.277687,7.13075,51.277687],
+  "bbox": [
+    7.13075,
+    51.277687,
+    7.13075,
+    51.277687
+],
   "geometry": {"coordinates":[7.13075,51.277687],"type":"Point"}
 }

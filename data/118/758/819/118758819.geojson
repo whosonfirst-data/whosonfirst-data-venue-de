@@ -2,13 +2,14 @@
   "id": 118758819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.910188,50.945347,6.910188,50.945347",
     "geom:latitude":50.945347,
     "geom:longitude":6.910188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinsbergstr. 190",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795883,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118758819,
-    "wof:lastmodified":1449053569,
+    "wof:lastmodified":1466227272,
     "wof:name":"Josef Schiffer",
     "wof:parent_id":85795883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.910188,50.945347,6.910188,50.945347],
+  "bbox": [
+    6.910188,
+    50.945347,
+    6.910188,
+    50.945347
+],
   "geometry": {"coordinates":[6.910188,50.945347],"type":"Point"}
 }

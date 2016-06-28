@@ -2,13 +2,14 @@
   "id": 135808473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534708,48.944069,8.534708,48.944069",
     "geom:latitude":48.944069,
     "geom:longitude":8.534708,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bockstalstr. 78",
     "sg:city":"Karlsbad",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
-        85796593
+        85633111,
+        85796593,
+        102063403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135808473,
-    "wof:lastmodified":1449021127,
+    "wof:lastmodified":1466244115,
     "wof:name":"Ecotec Wirtschaftliche Technologien Gmbh",
     "wof:parent_id":85796593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534708,48.944069,8.534708,48.944069],
+  "bbox": [
+    8.534708,
+    48.944069,
+    8.534708,
+    48.944069
+],
   "geometry": {"coordinates":[8.534708,48.944069],"type":"Point"}
 }

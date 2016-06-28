@@ -2,13 +2,14 @@
   "id": 135516913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.899195,53.442894,9.899195,53.442894",
     "geom:latitude":53.442894,
     "geom:longitude":9.899195,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ehestorfer Dorfstr. 15",
     "sg:city":"Rosengarten",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064053,
-        85633111,
         85682505,
-        85898971
+        85633111,
+        85898971,
+        102064053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135516913,
-    "wof:lastmodified":1449021556,
+    "wof:lastmodified":1466233186,
     "wof:name":"Arno P. Girgsdies",
     "wof:parent_id":85898971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.899195,53.442894,9.899195,53.442894],
+  "bbox": [
+    9.899195,
+    53.442894,
+    9.899195,
+    53.442894
+],
   "geometry": {"coordinates":[9.899195,53.442894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135353893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.048044,49.018364,12.048044,49.018364",
     "geom:latitude":49.018364,
     "geom:longitude":12.048044,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Killermannstr. 31",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135353893,
-    "wof:lastmodified":1449021882,
+    "wof:lastmodified":1466218411,
     "wof:name":"Franz Klein",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.048044,49.018364,12.048044,49.018364],
+  "bbox": [
+    12.048044,
+    49.018364,
+    12.048044,
+    49.018364
+],
   "geometry": {"coordinates":[12.048044,49.018364],"type":"Point"}
 }

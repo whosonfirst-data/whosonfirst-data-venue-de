@@ -2,13 +2,14 @@
   "id": 286675151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.842001,48.628586,9.842001,48.628586",
     "geom:latitude":48.628586,
     "geom:longitude":9.842001,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidenheimer Str. 92",
     "sg:city":"Geislingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286675151,
-    "wof:lastmodified":1449016691,
+    "wof:lastmodified":1466234664,
     "wof:name":"Bernhard Und Peter Schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.842001,48.628586,9.842001,48.628586],
+  "bbox": [
+    9.842001,
+    48.628586,
+    9.842001,
+    48.628586
+],
   "geometry": {"coordinates":[9.842001,48.628586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135709355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.629312,50.082817,8.629312,50.082817",
     "geom:latitude":50.082817,
     "geom:longitude":8.629312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyoner Str. 14",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135709355,
-    "wof:lastmodified":1449021578,
+    "wof:lastmodified":1466242688,
     "wof:name":"Baukon Bautr\u00e4ger Gmbh",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.629312,50.082817,8.629312,50.082817],
+  "bbox": [
+    8.629312,
+    50.082817,
+    8.629312,
+    50.082817
+],
   "geometry": {"coordinates":[8.629312,50.082817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102626205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.251635,51.193138,7.251635,51.193138",
     "geom:latitude":51.193138,
     "geom:longitude":7.251635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlachthofstr 1",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102626205,
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466213959,
     "wof:name":"Wortmann Verpackungen Gmbh & Co Kg",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.251635,51.193138,7.251635,51.193138],
+  "bbox": [
+    7.251635,
+    51.193138,
+    7.251635,
+    51.193138
+],
   "geometry": {"coordinates":[7.251635,51.193138],"type":"Point"}
 }

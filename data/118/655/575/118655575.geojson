@@ -2,13 +2,14 @@
   "id": 118655575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.69623,53.922474,10.69623,53.922474",
     "geom:latitude":53.922474,
     "geom:longitude":10.69623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfer Krug 1",
     "sg:city":"Bad Schwartau",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064123,
-        85633111,
         85682517,
-        85905709
+        85633111,
+        85905709,
+        102064123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118655575,
-    "wof:lastmodified":1449053957,
+    "wof:lastmodified":1466221381,
     "wof:name":"Diakonische Heime",
     "wof:parent_id":85905709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.69623,53.922474,10.69623,53.922474],
+  "bbox": [
+    10.69623,
+    53.922474,
+    10.69623,
+    53.922474
+],
   "geometry": {"coordinates":[10.69623,53.922474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152905359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.06675,25.99711,-100.06675,25.99711",
     "geom:latitude":25.99711,
     "geom:longitude":-100.06675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"street",
     "sg:city":"town",
     "sg:classifiers":[],
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":152905359,
-    "wof:lastmodified":1449046110,
+    "wof:lastmodified":1466229552,
     "wof:name":"Prestigious Titles Superstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.06675,25.99711,-100.06675,25.99711],
+  "bbox": [
+    -100.06675,
+    25.99711,
+    -100.06675,
+    25.99711
+],
   "geometry": {"coordinates":[-100.06675,25.99711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135518709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.899014,53.474537,9.899014,53.474537",
     "geom:latitude":53.474537,
     "geom:longitude":9.899014,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dubbenwinkel 7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899721,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135518709,
-    "wof:lastmodified":1449022715,
+    "wof:lastmodified":1466233338,
     "wof:name":"Bbg Betonbohr Celle Gmbh",
     "wof:parent_id":85899721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.899014,53.474537,9.899014,53.474537],
+  "bbox": [
+    9.899014,
+    53.474537,
+    9.899014,
+    53.474537
+],
   "geometry": {"coordinates":[9.899014,53.474537],"type":"Point"}
 }

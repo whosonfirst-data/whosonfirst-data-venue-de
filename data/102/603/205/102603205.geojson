@@ -2,13 +2,14 @@
   "id": 102603205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.130854,53.579319,10.130854,53.579319",
     "geom:latitude":53.579319,
     "geom:longitude":10.130854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kelloggstrasse 35",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900147,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102603205,
-    "wof:lastmodified":1449069789,
+    "wof:lastmodified":1466213325,
     "wof:name":"Krohn Gmbh - Fenster, T\u00fcren, Holz, Tischler",
     "wof:parent_id":85900147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.130854,53.579319,10.130854,53.579319],
+  "bbox": [
+    10.130854,
+    53.579319,
+    10.130854,
+    53.579319
+],
   "geometry": {"coordinates":[10.130854,53.579319],"type":"Point"}
 }

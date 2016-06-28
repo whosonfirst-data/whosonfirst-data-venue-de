@@ -2,13 +2,14 @@
   "id": 236903719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.550125,52.870056,10.550125,52.870056",
     "geom:latitude":52.870056,
     "geom:longitude":10.550125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 14",
     "sg:city":"Stadensen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236903719,
-    "wof:lastmodified":1449001824,
+    "wof:lastmodified":1466235465,
     "wof:name":"Gerhard Meinecke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.550125,52.870056,10.550125,52.870056],
+  "bbox": [
+    10.550125,
+    52.870056,
+    10.550125,
+    52.870056
+],
   "geometry": {"coordinates":[10.550125,52.870056],"type":"Point"}
 }

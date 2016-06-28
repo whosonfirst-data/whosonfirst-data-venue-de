@@ -2,13 +2,14 @@
   "id": 152962433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.310339,52.493912,10.310339,52.493912",
     "geom:latitude":52.493912,
     "geom:longitude":10.310339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Appelweg 4",
     "sg:city":"Meinersen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":152962433,
-    "wof:lastmodified":1449047019,
+    "wof:lastmodified":1466230906,
     "wof:name":"Testut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.310339,52.493912,10.310339,52.493912],
+  "bbox": [
+    10.310339,
+    52.493912,
+    10.310339,
+    52.493912
+],
   "geometry": {"coordinates":[10.310339,52.493912],"type":"Point"}
 }

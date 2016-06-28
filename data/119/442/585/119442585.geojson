@@ -2,13 +2,14 @@
   "id": 119442585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.649785,49.948086,8.649785,49.948086",
     "geom:latitude":49.948086,
     "geom:longitude":8.649785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestr. 10",
     "sg:city":"Erzhausen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063543,
-        85633111,
         85682531,
-        85796779
+        85633111,
+        85796779,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119442585,
-    "wof:lastmodified":1449041994,
+    "wof:lastmodified":1466242569,
     "wof:name":"Sch\u00fctz K\u00fchlraumt\u00fcren Gmbh",
     "wof:parent_id":85796779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.649785,49.948086,8.649785,49.948086],
+  "bbox": [
+    8.649785,
+    49.948086,
+    8.649785,
+    49.948086
+],
   "geometry": {"coordinates":[8.649785,49.948086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303503413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119631,48.722343,9.119631,48.722343",
     "geom:latitude":48.722343,
     "geom:longitude":9.119631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"He\u00dfbr\u00fchlstr. 69",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303503413,
-    "wof:lastmodified":1449000573,
+    "wof:lastmodified":1466236772,
     "wof:name":"Berliner Union Gmbh",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.119631,48.722343,9.119631,48.722343],
+  "bbox": [
+    9.119631,
+    48.722343,
+    9.119631,
+    48.722343
+],
   "geometry": {"coordinates":[9.119631,48.722343],"type":"Point"}
 }

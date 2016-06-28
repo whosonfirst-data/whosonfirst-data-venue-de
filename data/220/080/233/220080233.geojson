@@ -2,13 +2,14 @@
   "id": 220080233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.05355,51.18787,10.05355,51.18787",
     "geom:latitude":51.18787,
     "geom:longitude":10.05355,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forstgasse 6",
     "sg:city":"Eschwege",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220080233,
-    "wof:lastmodified":1449074856,
+    "wof:lastmodified":1466216141,
     "wof:name":"Cafe Pustekuchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.05355,51.18787,10.05355,51.18787],
+  "bbox": [
+    10.05355,
+    51.18787,
+    10.05355,
+    51.18787
+],
   "geometry": {"coordinates":[10.05355,51.18787],"type":"Point"}
 }

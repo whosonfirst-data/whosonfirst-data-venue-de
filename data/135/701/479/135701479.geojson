@@ -2,13 +2,14 @@
   "id": 135701479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.896263,48.376148,10.896263,48.376148",
     "geom:latitude":48.376148,
     "geom:longitude":10.896263,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuchswinkel 5",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899507,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135701479,
-    "wof:lastmodified":1449023394,
+    "wof:lastmodified":1466242521,
     "wof:name":"Wohnbau Dr. Teschemacher Gmbh",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.896263,48.376148,10.896263,48.376148],
+  "bbox": [
+    10.896263,
+    48.376148,
+    10.896263,
+    48.376148
+],
   "geometry": {"coordinates":[10.896263,48.376148],"type":"Point"}
 }

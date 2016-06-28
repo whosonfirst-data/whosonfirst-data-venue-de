@@ -2,13 +2,14 @@
   "id": 135830211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.246124,51.572582,9.246124,51.572582",
     "geom:latitude":51.572582,
     "geom:longitude":9.246124,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchne 209",
     "sg:city":"Borgentreich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135830211,
-    "wof:lastmodified":1449021623,
+    "wof:lastmodified":1466244436,
     "wof:name":"Heinrich Krull",
     "wof:parent_id":101810263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.246124,51.572582,9.246124,51.572582],
+  "bbox": [
+    9.246124,
+    51.572582,
+    9.246124,
+    51.572582
+],
   "geometry": {"coordinates":[9.246124,51.572582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303905181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.450399,50.719784,12.450399,50.719784",
     "geom:latitude":50.719784,
     "geom:longitude":12.450399,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienthaler Str. 166",
     "sg:city":"Zwickau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303905181,
-    "wof:lastmodified":1448999073,
+    "wof:lastmodified":1466241244,
     "wof:name":"M. Pirgl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.450399,50.719784,12.450399,50.719784],
+  "bbox": [
+    12.450399,
+    50.719784,
+    12.450399,
+    50.719784
+],
   "geometry": {"coordinates":[12.450399,50.719784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304012421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.006327,49.597023,11.006327,49.597023",
     "geom:latitude":49.597023,
     "geom:longitude":11.006327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Universit\u00e4tsstr. 11",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304012421,
-    "wof:lastmodified":1449044102,
+    "wof:lastmodified":1466231142,
     "wof:name":"Uniladen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.006327,49.597023,11.006327,49.597023],
+  "bbox": [
+    11.006327,
+    49.597023,
+    11.006327,
+    49.597023
+],
   "geometry": {"coordinates":[11.006327,49.597023],"type":"Point"}
 }

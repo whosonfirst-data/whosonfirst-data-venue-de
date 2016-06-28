@@ -2,13 +2,14 @@
   "id": 152900345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.964276,51.470963,11.964276,51.470963",
     "geom:latitude":51.470963,
     "geom:longitude":11.964276,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwigstrasse 20",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519,
+        85906335,
         85905699
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152900345,
-    "wof:lastmodified":1449046304,
+    "wof:lastmodified":1466229417,
     "wof:name":"Photovoltaik Solartechnik Von Pusch & Co. Elektro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.964276,51.470963,11.964276,51.470963],
+  "bbox": [
+    11.964276,
+    51.470963,
+    11.964276,
+    51.470963
+],
   "geometry": {"coordinates":[11.964276,51.470963],"type":"Point"}
 }

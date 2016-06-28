@@ -2,13 +2,14 @@
   "id": 102728237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.96617,51.659088,6.96617,51.659088",
     "geom:latitude":51.659088,
     "geom:longitude":6.96617,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Dorsten",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102728237,
-    "wof:lastmodified":1449068356,
+    "wof:lastmodified":1466216943,
     "wof:name":"Ab-detective Condor Gmbh Agentur F\u00fcr Beweissicherung",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.96617,51.659088,6.96617,51.659088],
+  "bbox": [
+    6.96617,
+    51.659088,
+    6.96617,
+    51.659088
+],
   "geometry": {"coordinates":[6.96617,51.659088],"type":"Point"}
 }

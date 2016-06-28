@@ -2,13 +2,14 @@
   "id": 135439805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.66409,47.612579,7.66409,47.612579",
     "geom:latitude":47.612579,
     "geom:longitude":7.66409,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6rrach",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135439805,
-    "wof:lastmodified":1449021842,
+    "wof:lastmodified":1466226287,
     "wof:name":"Sparkasse L\u00f6rrach-rheinfelden",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.66409,47.612579,7.66409,47.612579],
+  "bbox": [
+    7.66409,
+    47.612579,
+    7.66409,
+    47.612579
+],
   "geometry": {"coordinates":[7.66409,47.612579],"type":"Point"}
 }

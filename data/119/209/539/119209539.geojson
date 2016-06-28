@@ -2,13 +2,14 @@
   "id": 119209539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.410644,49.010967,8.410644,49.010967",
     "geom:latitude":49.010967,
     "geom:longitude":8.410644,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Englerstr. 7",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
-        85862807
+        85633111,
+        85862807,
+        102063403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119209539,
-    "wof:lastmodified":1449043249,
+    "wof:lastmodified":1466229623,
     "wof:name":"Institut F\u00fcr Baugeschichte Der Univesit\u00e4t Karlsruhe",
     "wof:parent_id":85862807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.410644,49.010967,8.410644,49.010967],
+  "bbox": [
+    8.410644,
+    49.010967,
+    8.410644,
+    49.010967
+],
   "geometry": {"coordinates":[8.410644,49.010967],"type":"Point"}
 }

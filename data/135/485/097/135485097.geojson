@@ -2,13 +2,14 @@
   "id": 135485097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.923755,51.178242,6.923755,51.178242",
     "geom:latitude":51.178242,
     "geom:longitude":6.923755,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Lersch-Str. 13",
     "sg:city":"Hilden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063759,
-        85633111,
         85682513,
-        85796647
+        85633111,
+        85796647,
+        102063759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135485097,
-    "wof:lastmodified":1449022865,
+    "wof:lastmodified":1466230299,
     "wof:name":"Tfm F\u00fcgner Kunststoff Und Metallbau Fertigungs- Und",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.923755,51.178242,6.923755,51.178242],
+  "bbox": [
+    6.923755,
+    51.178242,
+    6.923755,
+    51.178242
+],
   "geometry": {"coordinates":[6.923755,51.178242],"type":"Point"}
 }

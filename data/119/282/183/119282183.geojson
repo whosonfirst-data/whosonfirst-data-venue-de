@@ -2,13 +2,14 @@
   "id": 119282183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.506943,51.349995,7.506943,51.349995",
     "geom:latitude":51.349995,
     "geom:longitude":7.506943,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf dem K\u00e4mpchen 15",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795169,
+        85682513,
         85633111,
         101748679,
         102063767,
-        85682513
+        85795169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119282183,
-    "wof:lastmodified":1449042531,
+    "wof:lastmodified":1466236510,
     "wof:name":"Sabahn Brillen Design Gmbh",
     "wof:parent_id":85795169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.506943,51.349995,7.506943,51.349995],
+  "bbox": [
+    7.506943,
+    51.349995,
+    7.506943,
+    51.349995
+],
   "geometry": {"coordinates":[7.506943,51.349995],"type":"Point"}
 }

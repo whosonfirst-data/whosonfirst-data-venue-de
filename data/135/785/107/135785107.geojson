@@ -2,13 +2,14 @@
   "id": 135785107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.35596,50.649937,11.35596,50.649937",
     "geom:latitude":50.649937,
     "geom:longitude":11.35596,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedensstr. 21",
     "sg:city":"Saalfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135785107,
-    "wof:lastmodified":1449023496,
+    "wof:lastmodified":1466243978,
     "wof:name":"Hermann Schiffel",
     "wof:parent_id":101824577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.35596,50.649937,11.35596,50.649937],
+  "bbox": [
+    11.35596,
+    50.649937,
+    11.35596,
+    50.649937
+],
   "geometry": {"coordinates":[11.35596,50.649937],"type":"Point"}
 }

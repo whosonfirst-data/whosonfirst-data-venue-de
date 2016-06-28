@@ -2,13 +2,14 @@
   "id": 153015607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.508476,38.562378,-78.508476,38.562378",
     "geom:latitude":38.562378,
     "geom:longitude":-78.508476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hummelsbuetteler Steindamm 71",
     "sg:city":"22851",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084929,
-        85633793,
         85688747,
-        85856999
+        85633793,
+        85856999,
+        102084929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":153015607,
-    "wof:lastmodified":1449040448,
+    "wof:lastmodified":1466233199,
     "wof:name":"European Surgical Institute (esi) - Ethicon Endo-surgery",
     "wof:parent_id":85856999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.508476,38.562378,-78.508476,38.562378],
+  "bbox": [
+    -78.508476,
+    38.562378,
+    -78.508476,
+    38.562378
+],
   "geometry": {"coordinates":[-78.508476,38.562378],"type":"Point"}
 }

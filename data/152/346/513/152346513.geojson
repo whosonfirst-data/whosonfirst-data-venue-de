@@ -2,13 +2,14 @@
   "id": 152346513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.180123,51.26651,7.180123,51.26651",
     "geom:latitude":51.26651,
     "geom:longitude":7.180123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Br\u00f6gel 17-21",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796715,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152346513,
-    "wof:lastmodified":1449044263,
+    "wof:lastmodified":1466217131,
     "wof:name":"Qualifizierungszentrum Im Bergischen Land Bergmann -",
     "wof:parent_id":85796715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.180123,51.26651,7.180123,51.26651],
+  "bbox": [
+    7.180123,
+    51.26651,
+    7.180123,
+    51.26651
+],
   "geometry": {"coordinates":[7.180123,51.26651],"type":"Point"}
 }

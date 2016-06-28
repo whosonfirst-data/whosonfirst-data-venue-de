@@ -2,13 +2,14 @@
   "id": 135816461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.194556,51.270515,7.194556,51.270515",
     "geom:latitude":51.270515,
     "geom:longitude":7.194556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernhard-Letterhaus-Str. 11",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795025,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85795025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135816461,
-    "wof:lastmodified":1449022776,
+    "wof:lastmodified":1466244198,
     "wof:name":"Sozialberatungsstelle Caritassekretariat",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.194556,51.270515,7.194556,51.270515],
+  "bbox": [
+    7.194556,
+    51.270515,
+    7.194556,
+    51.270515
+],
   "geometry": {"coordinates":[7.194556,51.270515],"type":"Point"}
 }

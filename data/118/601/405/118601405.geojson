@@ -2,13 +2,14 @@
   "id": 118601405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025176,48.701401,11.025176,48.701401",
     "geom:latitude":48.701401,
     "geom:longitude":11.025176,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr 32",
     "sg:city":"Burgheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118601405,
-    "wof:lastmodified":1449053770,
+    "wof:lastmodified":1466218272,
     "wof:name":"Hermann Sefranek Gmbh & Co Kg",
     "wof:parent_id":101783015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025176,48.701401,11.025176,48.701401],
+  "bbox": [
+    11.025176,
+    48.701401,
+    11.025176,
+    48.701401
+],
   "geometry": {"coordinates":[11.025176,48.701401],"type":"Point"}
 }

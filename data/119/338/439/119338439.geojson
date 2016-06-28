@@ -2,13 +2,14 @@
   "id": 119338439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.305082,51.277576,7.305082,51.277576",
     "geom:latitude":51.277576,
     "geom:longitude":7.305082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterberger Str. 65",
     "sg:city":"Schwelm",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794889
+        85633111,
+        85794889,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119338439,
-    "wof:lastmodified":1449041700,
+    "wof:lastmodified":1466239288,
     "wof:name":"J. Beule Inh. A. Blau Und A. Ortega",
     "wof:parent_id":85794889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.305082,51.277576,7.305082,51.277576],
+  "bbox": [
+    7.305082,
+    51.277576,
+    7.305082,
+    51.277576
+],
   "geometry": {"coordinates":[7.305082,51.277576],"type":"Point"}
 }

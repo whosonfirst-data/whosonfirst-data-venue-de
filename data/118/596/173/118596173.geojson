@@ -2,13 +2,14 @@
   "id": 118596173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64867,51.923138,7.64867,51.923138",
     "geom:latitude":51.923138,
     "geom:longitude":7.64867,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kesselerwg. 10",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863197,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85863197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118596173,
-    "wof:lastmodified":1449053871,
+    "wof:lastmodified":1466217973,
     "wof:name":"Mfl M\u00dcnster Fruit Logistics Gmbh",
     "wof:parent_id":85863197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.64867,51.923138,7.64867,51.923138],
+  "bbox": [
+    7.64867,
+    51.923138,
+    7.64867,
+    51.923138
+],
   "geometry": {"coordinates":[7.64867,51.923138],"type":"Point"}
 }

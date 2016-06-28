@@ -2,13 +2,14 @@
   "id": 186610903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.124783,48.778416,9.124783,48.778416",
     "geom:latitude":48.778416,
     "geom:longitude":9.124783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eltinger Str. 1",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186610903,
-    "wof:lastmodified":1449052986,
+    "wof:lastmodified":1466220113,
     "wof:name":"Steinle Gmbh",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.124783,48.778416,9.124783,48.778416],
+  "bbox": [
+    9.124783,
+    48.778416,
+    9.124783,
+    48.778416
+],
   "geometry": {"coordinates":[9.124783,48.778416],"type":"Point"}
 }

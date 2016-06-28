@@ -2,13 +2,14 @@
   "id": 135696553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.609049,49.474361,8.609049,49.474361",
     "geom:latitude":49.474361,
     "geom:longitude":8.609049,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neue Anlage 8",
     "sg:city":"Ladenburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862825,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85862825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135696553,
-    "wof:lastmodified":1449021218,
+    "wof:lastmodified":1466242295,
     "wof:name":"Mayer",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.609049,49.474361,8.609049,49.474361],
+  "bbox": [
+    8.609049,
+    49.474361,
+    8.609049,
+    49.474361
+],
   "geometry": {"coordinates":[8.609049,49.474361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119472367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575402,50.349617,7.575402,50.349617",
     "geom:latitude":50.349617,
     "geom:longitude":7.575402,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcberlingsweg 47 A",
     "sg:city":"Koblenz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119472367,
-    "wof:lastmodified":1449041058,
+    "wof:lastmodified":1466243007,
     "wof:name":"Hans Singelnstein",
     "wof:parent_id":101751761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575402,50.349617,7.575402,50.349617],
+  "bbox": [
+    7.575402,
+    50.349617,
+    7.575402,
+    50.349617
+],
   "geometry": {"coordinates":[7.575402,50.349617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119037317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.43898,51.340221,9.43898,51.340221",
     "geom:latitude":51.340221,
     "geom:longitude":9.43898,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lilienweg 13 B",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900201,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85900201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119037317,
-    "wof:lastmodified":1449043577,
+    "wof:lastmodified":1466214234,
     "wof:name":"Hans-j\u00fcrgen Fuchs Architekt",
     "wof:parent_id":85900201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.43898,51.340221,9.43898,51.340221],
+  "bbox": [
+    9.43898,
+    51.340221,
+    9.43898,
+    51.340221
+],
   "geometry": {"coordinates":[9.43898,51.340221],"type":"Point"}
 }

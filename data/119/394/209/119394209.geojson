@@ -2,13 +2,14 @@
   "id": 119394209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.186049,51.454796,7.186049,51.454796",
     "geom:latitude":51.454796,
     "geom:longitude":7.186049,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elsa-Br\u00e4ndstr\u00f6m-Str. 56 a",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863241,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85863241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119394209,
-    "wof:lastmodified":1449041337,
+    "wof:lastmodified":1466241249,
     "wof:name":"Fensterbau Schlick Rohmann-schlick Gmbh",
     "wof:parent_id":85863241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.186049,51.454796,7.186049,51.454796],
+  "bbox": [
+    7.186049,
+    51.454796,
+    7.186049,
+    51.454796
+],
   "geometry": {"coordinates":[7.186049,51.454796],"type":"Point"}
 }

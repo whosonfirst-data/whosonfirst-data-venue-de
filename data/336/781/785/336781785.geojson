@@ -2,13 +2,14 @@
   "id": 336781785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.90646,50.834503,12.90646,50.834503",
     "geom:latitude":50.834503,
     "geom:longitude":12.90646,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walter-Oertel-Str.",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336781785,
-    "wof:lastmodified":1448997155,
+    "wof:lastmodified":1466237134,
     "wof:name":"C. Strohbach",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.90646,50.834503,12.90646,50.834503],
+  "bbox": [
+    12.90646,
+    50.834503,
+    12.90646,
+    50.834503
+],
   "geometry": {"coordinates":[12.90646,50.834503],"type":"Point"}
 }

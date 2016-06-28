@@ -2,13 +2,14 @@
   "id": 303970623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.604331,48.953014,10.604331,48.953014",
     "geom:latitude":48.953014,
     "geom:longitude":10.604331,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofgasse 1",
     "sg:city":"Oettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303970623,
-    "wof:lastmodified":1449000524,
+    "wof:lastmodified":1466241803,
     "wof:name":"Norbert Fleck Masseur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.604331,48.953014,10.604331,48.953014],
+  "bbox": [
+    10.604331,
+    48.953014,
+    10.604331,
+    48.953014
+],
   "geometry": {"coordinates":[10.604331,48.953014],"type":"Point"}
 }

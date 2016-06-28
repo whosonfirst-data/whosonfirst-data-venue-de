@@ -2,13 +2,14 @@
   "id": 202604993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.426812,51.348515,7.426812,51.348515",
     "geom:latitude":51.348515,
     "geom:longitude":7.426812,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 110",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202604993,
-    "wof:lastmodified":1449062352,
+    "wof:lastmodified":1466217703,
     "wof:name":"Andreas Brauerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.426812,51.348515,7.426812,51.348515],
+  "bbox": [
+    7.426812,
+    51.348515,
+    7.426812,
+    51.348515
+],
   "geometry": {"coordinates":[7.426812,51.348515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135440561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.422638,31.812515,-106.422638,31.812515",
     "geom:latitude":31.812515,
     "geom:longitude":-106.422638,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 32",
     "sg:city":"Faulbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893655,
+        85688753,
         85633793,
         101724863,
         102085989,
-        85688753
+        85893655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135440561,
-    "wof:lastmodified":1449022070,
+    "wof:lastmodified":1466226348,
     "wof:name":"Sparkasse Miltenberg-obernburg",
     "wof:parent_id":85893655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.422638,31.812515,-106.422638,31.812515],
-  "geometry": {"coordinates":[-106.422638,31.812515],"type":"Point"}
+  "bbox": [
+    -106.422638,
+    31.812515,
+    -106.422638,
+    31.812515
+],
+  "geometry": {"coordinates":[-106.42263800000001,31.812515],"type":"Point"}
 }

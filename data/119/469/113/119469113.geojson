@@ -2,13 +2,14 @@
   "id": 119469113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.653085,48.07048,11.653085,48.07048",
     "geom:latitude":48.07048,
     "geom:longitude":11.653085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haidgraben 9 A",
     "sg:city":"Ottobrunn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899707,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119469113,
-    "wof:lastmodified":1449043581,
+    "wof:lastmodified":1466243046,
     "wof:name":"E-sixt Ag",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.653085,48.07048,11.653085,48.07048],
+  "bbox": [
+    11.653085,
+    48.07048,
+    11.653085,
+    48.07048
+],
   "geometry": {"coordinates":[11.653085,48.07048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135328775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.000433,50.910686,8.000433,50.910686",
     "geom:latitude":50.910686,
     "geom:longitude":8.000433,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Sammetshain 55",
     "sg:city":"Siegen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135328775,
-    "wof:lastmodified":1449022798,
+    "wof:lastmodified":1466216230,
     "wof:name":"Willi Spies",
     "wof:parent_id":101748643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.000433,50.910686,8.000433,50.910686],
+  "bbox": [
+    8.000433,
+    50.910686,
+    8.000433,
+    50.910686
+],
   "geometry": {"coordinates":[8.000433,50.910686],"type":"Point"}
 }

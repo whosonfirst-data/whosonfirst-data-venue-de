@@ -2,13 +2,14 @@
   "id": 220135245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.040354,51.184101,7.040354,51.184101",
     "geom:latitude":51.184101,
     "geom:longitude":7.040354,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"P\u00fctzgasse 8",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220135245,
-    "wof:lastmodified":1449074343,
+    "wof:lastmodified":1466217161,
     "wof:name":"Christas Cafe",
     "wof:parent_id":85796725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.040354,51.184101,7.040354,51.184101],
+  "bbox": [
+    7.040354,
+    51.184101,
+    7.040354,
+    51.184101
+],
   "geometry": {"coordinates":[7.040354,51.184101],"type":"Point"}
 }

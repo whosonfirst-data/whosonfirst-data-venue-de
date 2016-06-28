@@ -2,13 +2,14 @@
   "id": 320164265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.222472,48.298771,8.222472,48.298771",
     "geom:latitude":48.298771,
     "geom:longitude":8.222472,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 28",
     "sg:city":"Wolfach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320164265,
-    "wof:lastmodified":1449011691,
+    "wof:lastmodified":1466236865,
     "wof:name":"Zauberberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.222472,48.298771,8.222472,48.298771],
+  "bbox": [
+    8.222472,
+    48.298771,
+    8.222472,
+    48.298771
+],
   "geometry": {"coordinates":[8.222472,48.298771],"type":"Point"}
 }

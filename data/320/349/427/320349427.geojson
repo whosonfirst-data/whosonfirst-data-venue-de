@@ -2,13 +2,14 @@
   "id": 320349427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.428031,51.320801,12.428031,51.320801",
     "geom:latitude":51.320801,
     "geom:longitude":12.428031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sommerfelder Str. 48",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320349427,
-    "wof:lastmodified":1449012695,
+    "wof:lastmodified":1466239505,
     "wof:name":"M. Orbe",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.428031,51.320801,12.428031,51.320801],
+  "bbox": [
+    12.428031,
+    51.320801,
+    12.428031,
+    51.320801
+],
   "geometry": {"coordinates":[12.428031,51.320801],"type":"Point"}
 }

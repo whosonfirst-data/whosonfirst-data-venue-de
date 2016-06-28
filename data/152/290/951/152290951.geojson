@@ -2,13 +2,14 @@
   "id": 152290951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.061571,49.480286,11.061571,49.480286",
     "geom:latitude":49.480286,
     "geom:longitude":11.061571,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmshavener Str. 15",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063513,
-        85633111,
         85682571,
-        85900139
+        85633111,
+        85900139,
+        102063513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152290951,
-    "wof:lastmodified":1449046297,
+    "wof:lastmodified":1466215964,
     "wof:name":"Pritzl-reinigung",
     "wof:parent_id":85900139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.061571,49.480286,11.061571,49.480286],
+  "bbox": [
+    11.061571,
+    49.480286,
+    11.061571,
+    49.480286
+],
   "geometry": {"coordinates":[11.061571,49.480286],"type":"Point"}
 }

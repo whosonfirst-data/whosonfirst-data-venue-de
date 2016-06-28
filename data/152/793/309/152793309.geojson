@@ -2,13 +2,14 @@
   "id": 152793309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.976025,50.906624,6.976025,50.906624",
     "geom:latitude":50.906624,
     "geom:longitude":6.976025,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altburger Strasse 338",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794761,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85794761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152793309,
-    "wof:lastmodified":1449046840,
+    "wof:lastmodified":1466226889,
     "wof:name":"Domains Domains Domains",
     "wof:parent_id":85794761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.976025,50.906624,6.976025,50.906624],
+  "bbox": [
+    6.976025,
+    50.906624,
+    6.976025,
+    50.906624
+],
   "geometry": {"coordinates":[6.976025,50.906624],"type":"Point"}
 }

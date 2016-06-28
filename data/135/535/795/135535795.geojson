@@ -2,13 +2,14 @@
   "id": 135535795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539452,49.481014,8.539452,49.481014",
     "geom:latitude":49.481014,
     "geom:longitude":8.539452,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Schaff-Weg 10",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862825,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85862825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135535795,
-    "wof:lastmodified":1449021522,
+    "wof:lastmodified":1466234908,
     "wof:name":"W. Baranek",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539452,49.481014,8.539452,49.481014],
+  "bbox": [
+    8.539452,
+    49.481014,
+    8.539452,
+    49.481014
+],
   "geometry": {"coordinates":[8.539452,49.481014],"type":"Point"}
 }

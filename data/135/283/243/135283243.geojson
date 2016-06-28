@@ -2,13 +2,14 @@
   "id": 135283243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.04338,48.290501,11.04338,48.290501",
     "geom:latitude":48.290501,
     "geom:longitude":11.04338,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachernstr. 1",
     "sg:city":"Ried",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135283243,
-    "wof:lastmodified":1449021902,
+    "wof:lastmodified":1466233287,
     "wof:name":"Josef Moser",
     "wof:parent_id":101785499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.04338,48.290501,11.04338,48.290501],
+  "bbox": [
+    11.04338,
+    48.290501,
+    11.04338,
+    48.290501
+],
   "geometry": {"coordinates":[11.04338,48.290501],"type":"Point"}
 }

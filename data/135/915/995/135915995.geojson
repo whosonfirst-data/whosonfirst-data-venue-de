@@ -2,13 +2,14 @@
   "id": 135915995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.850662,51.21426,6.850662,51.21426",
     "geom:latitude":51.21426,
     "geom:longitude":6.850662,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Plauener Str. 7",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795323,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135915995,
-    "wof:lastmodified":1449023955,
+    "wof:lastmodified":1466244625,
     "wof:name":"Blitz Container- Und Entsorgungsdienst Gmbh",
     "wof:parent_id":85795323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.850662,51.21426,6.850662,51.21426],
+  "bbox": [
+    6.850662,
+    51.21426,
+    6.850662,
+    51.21426
+],
   "geometry": {"coordinates":[6.850662,51.21426],"type":"Point"}
 }

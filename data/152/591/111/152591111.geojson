@@ -2,13 +2,14 @@
   "id": 152591111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.361811,51.365326,12.361811,51.365326",
     "geom:latitude":51.365326,
     "geom:longitude":12.361811,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Magdeburger Str. 25",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905685,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152591111,
-    "wof:lastmodified":1449046777,
+    "wof:lastmodified":1466222303,
     "wof:name":"Heide Haus Verwaltungsges. Mbh",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.361811,51.365326,12.361811,51.365326],
+  "bbox": [
+    12.361811,
+    51.365326,
+    12.361811,
+    51.365326
+],
   "geometry": {"coordinates":[12.361811,51.365326],"type":"Point"}
 }

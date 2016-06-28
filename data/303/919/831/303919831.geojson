@@ -2,13 +2,14 @@
   "id": 303919831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.130513,47.85627,12.130513,47.85627",
     "geom:latitude":47.85627,
     "geom:longitude":12.130513,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4rberstr. 6",
     "sg:city":"Rosenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303919831,
-    "wof:lastmodified":1448999966,
+    "wof:lastmodified":1466241486,
     "wof:name":"J. Elsner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.130513,47.85627,12.130513,47.85627],
+  "bbox": [
+    12.130513,
+    47.85627,
+    12.130513,
+    47.85627
+],
   "geometry": {"coordinates":[12.130513,47.85627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135295035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.459692,48.16486,11.459692,48.16486",
     "geom:latitude":48.16486,
     "geom:longitude":11.459692,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Verdistr. 140",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899907,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135295035,
-    "wof:lastmodified":1449022222,
+    "wof:lastmodified":1466213402,
     "wof:name":"Landvogt Backspezialit\u00e4ten Gmbh",
     "wof:parent_id":85899907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.459692,48.16486,11.459692,48.16486],
+  "bbox": [
+    11.459692,
+    48.16486,
+    11.459692,
+    48.16486
+],
   "geometry": {"coordinates":[11.459692,48.16486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135292255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.625357,50.504189,10.625357,50.504189",
     "geom:latitude":50.504189,
     "geom:longitude":10.625357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lengfelder Str. 12",
     "sg:city":"Themar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135292255,
-    "wof:lastmodified":1449021256,
+    "wof:lastmodified":1466213158,
     "wof:name":"Klaus Steitz",
     "wof:parent_id":101824483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.625357,50.504189,10.625357,50.504189],
+  "bbox": [
+    10.625357,
+    50.504189,
+    10.625357,
+    50.504189
+],
   "geometry": {"coordinates":[10.625357,50.504189],"type":"Point"}
 }

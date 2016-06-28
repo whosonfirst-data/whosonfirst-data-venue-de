@@ -2,13 +2,14 @@
   "id": 136179011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56319,52.023254,8.56319,52.023254",
     "geom:latitude":52.023254,
     "geom:longitude":8.56319,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heeper Str. 178",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796357,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136179011,
-    "wof:lastmodified":1449076134,
+    "wof:lastmodified":1466220119,
     "wof:name":"Alte Blumenstube Inh. Ernst Ludwig S\u00f6lter",
     "wof:parent_id":85796357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.56319,52.023254,8.56319,52.023254],
+  "bbox": [
+    8.56319,
+    52.023254,
+    8.56319,
+    52.023254
+],
   "geometry": {"coordinates":[8.56319,52.023254],"type":"Point"}
 }

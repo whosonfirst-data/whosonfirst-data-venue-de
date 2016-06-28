@@ -2,13 +2,14 @@
   "id": 220061789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.158158,47.839203,11.158158,47.839203",
     "geom:latitude":47.839203,
     "geom:longitude":11.158158,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Betberg 41",
     "sg:city":"Weilheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220061789,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466215783,
     "wof:name":"Alfred Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.158158,47.839203,11.158158,47.839203],
+  "bbox": [
+    11.158158,
+    47.839203,
+    11.158158,
+    47.839203
+],
   "geometry": {"coordinates":[11.158158,47.839203],"type":"Point"}
 }

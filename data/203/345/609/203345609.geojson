@@ -2,13 +2,14 @@
   "id": 203345609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.448619,48.341415,10.448619,48.341415",
     "geom:latitude":48.341415,
     "geom:longitude":10.448619,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 21",
     "sg:city":"Burtenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203345609,
-    "wof:lastmodified":1449026717,
+    "wof:lastmodified":1466219590,
     "wof:name":"Fritz Seitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.448619,48.341415,10.448619,48.341415],
+  "bbox": [
+    10.448619,
+    48.341415,
+    10.448619,
+    48.341415
+],
   "geometry": {"coordinates":[10.448619,48.341415],"type":"Point"}
 }

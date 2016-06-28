@@ -2,13 +2,14 @@
   "id": 220070279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.089998,49.512135,7.089998,49.512135",
     "geom:latitude":49.512135,
     "geom:longitude":7.089998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr. 39",
     "sg:city":"Oberthal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220070279,
-    "wof:lastmodified":1449074411,
+    "wof:lastmodified":1466215948,
     "wof:name":"Johann Meisberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.089998,49.512135,7.089998,49.512135],
+  "bbox": [
+    7.089998,
+    49.512135,
+    7.089998,
+    49.512135
+],
   "geometry": {"coordinates":[7.089998,49.512135],"type":"Point"}
 }

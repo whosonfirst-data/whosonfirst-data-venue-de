@@ -2,13 +2,14 @@
   "id": 320544175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.01761,48.389065,10.01761,48.389065",
     "geom:latitude":48.389065,
     "geom:longitude":10.01761,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeppelinstr 5/3",
     "sg:city":"Neu-Ulm",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320544175,
-    "wof:lastmodified":1449014962,
+    "wof:lastmodified":1466241229,
     "wof:name":"Reimer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.01761,48.389065,10.01761,48.389065],
+  "bbox": [
+    10.01761,
+    48.389065,
+    10.01761,
+    48.389065
+],
   "geometry": {"coordinates":[10.01761,48.389065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202832041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.44229,51.709122,8.44229,51.709122",
     "geom:latitude":51.709122,
     "geom:longitude":8.44229,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Nordfeld 1",
     "sg:city":"Lippstadt",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202832041,
-    "wof:lastmodified":1449060118,
+    "wof:lastmodified":1466221828,
     "wof:name":"Werner Kemper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.44229,51.709122,8.44229,51.709122],
+  "bbox": [
+    8.44229,
+    51.709122,
+    8.44229,
+    51.709122
+],
   "geometry": {"coordinates":[8.44229,51.709122],"type":"Point"}
 }

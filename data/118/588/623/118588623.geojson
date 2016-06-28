@@ -2,13 +2,14 @@
   "id": 118588623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.016129,31.17429,-91.016129,31.17429",
     "geom:latitude":31.17429,
     "geom:longitude":-91.016129,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwigshof 14",
     "sg:city":"Ranis",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":118588623,
-    "wof:lastmodified":1449054281,
+    "wof:lastmodified":1466217601,
     "wof:name":"Agrarproduktion Eg Lindstedt",
     "wof:parent_id":85688579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.016129,31.17429,-91.016129,31.17429],
-  "geometry": {"coordinates":[-91.016129,31.17429],"type":"Point"}
+  "bbox": [
+    -91.016129,
+    31.17429,
+    -91.016129,
+    31.17429
+],
+  "geometry": {"coordinates":[-91.01612900000001,31.17429],"type":"Point"}
 }

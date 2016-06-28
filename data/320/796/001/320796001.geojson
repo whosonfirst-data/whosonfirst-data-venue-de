@@ -2,13 +2,14 @@
   "id": 320796001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.36225,52.48056,13.36225,52.48056",
     "geom:latitude":52.48056,
     "geom:longitude":13.36225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gustav-M\u00fcller-Str. 20",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320796001,
-    "wof:lastmodified":1449013020,
+    "wof:lastmodified":1466243076,
     "wof:name":"Dieter Pullwitt",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.36225,52.48056,13.36225,52.48056],
+  "bbox": [
+    13.36225,
+    52.48056,
+    13.36225,
+    52.48056
+],
   "geometry": {"coordinates":[13.36225,52.48056],"type":"Point"}
 }

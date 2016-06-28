@@ -2,13 +2,14 @@
   "id": 135426217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.007588,49.921417,9.007588,49.921417",
     "geom:latitude":49.921417,
     "geom:longitude":9.007588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 9:: 64847 Schaafheim:: Germany.^^Wilhelm-Leuschner Str 12-14::",
     "sg:city":"Schaafheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135426217,
-    "wof:lastmodified":1449021629,
+    "wof:lastmodified":1466225061,
     "wof:name":"Raiffeisenbank Schaafheim Eg",
     "wof:parent_id":101813401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.007588,49.921417,9.007588,49.921417],
+  "bbox": [
+    9.007588,
+    49.921417,
+    9.007588,
+    49.921417
+],
   "geometry": {"coordinates":[9.007588,49.921417],"type":"Point"}
 }

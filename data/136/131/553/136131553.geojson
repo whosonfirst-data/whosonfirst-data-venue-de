@@ -2,13 +2,14 @@
   "id": 136131553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.017922,51.58173,7.017922,51.58173",
     "geom:latitude":51.58173,
     "geom:longitude":7.017922,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Honigmannstr.21",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795021,
+        85682513,
         85633111,
         101748747,
         102063831,
-        85682513
+        85795021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136131553,
-    "wof:lastmodified":1449075284,
+    "wof:lastmodified":1466218050,
     "wof:name":"Stupido\u00b4s Homepage",
     "wof:parent_id":85795021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.017922,51.58173,7.017922,51.58173],
+  "bbox": [
+    7.017922,
+    51.58173,
+    7.017922,
+    51.58173
+],
   "geometry": {"coordinates":[7.017922,51.58173],"type":"Point"}
 }

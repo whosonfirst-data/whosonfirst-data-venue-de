@@ -2,13 +2,14 @@
   "id": 152449727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.191357,48.782349,9.191357,48.782349",
     "geom:latitude":48.782349,
     "geom:longitude":9.191357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werastr. 45",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567,
+        85795269,
         85795273
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152449727,
-    "wof:lastmodified":1449048579,
+    "wof:lastmodified":1466219125,
     "wof:name":"C. U. M. Kunz Bestattungs - Unternehmen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.191357,48.782349,9.191357,48.782349],
+  "bbox": [
+    9.191357,
+    48.782349,
+    9.191357,
+    48.782349
+],
   "geometry": {"coordinates":[9.191357,48.782349],"type":"Point"}
 }

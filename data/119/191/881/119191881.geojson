@@ -2,13 +2,14 @@
   "id": 119191881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.023221,50.977585,11.023221,50.977585",
     "geom:latitude":50.977585,
     "geom:longitude":11.023221,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Domplatz 37",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119191881,
-    "wof:lastmodified":1449042462,
+    "wof:lastmodified":1466228056,
     "wof:name":"Bezirksgericht Erfurt",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.023221,50.977585,11.023221,50.977585],
+  "bbox": [
+    11.023221,
+    50.977585,
+    11.023221,
+    50.977585
+],
   "geometry": {"coordinates":[11.023221,50.977585],"type":"Point"}
 }

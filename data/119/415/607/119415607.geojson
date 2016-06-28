@@ -2,13 +2,14 @@
   "id": 119415607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.46869,51.585369,7.46869,51.585369",
     "geom:latitude":51.585369,
     "geom:longitude":7.46869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Evinger Str. 680",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063823,
-        85633111,
         85682513,
-        85794947
+        85633111,
+        85794947,
+        102063823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119415607,
-    "wof:lastmodified":1449042789,
+    "wof:lastmodified":1466242039,
     "wof:name":"J. Bentzien",
     "wof:parent_id":85794947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.46869,51.585369,7.46869,51.585369],
+  "bbox": [
+    7.46869,
+    51.585369,
+    7.46869,
+    51.585369
+],
   "geometry": {"coordinates":[7.46869,51.585369],"type":"Point"}
 }

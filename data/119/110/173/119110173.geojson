@@ -2,13 +2,14 @@
   "id": 119110173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.604219,48.724056,9.604219,48.724056",
     "geom:latitude":48.724056,
     "geom:longitude":9.604219,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4ndelstr. 16",
     "sg:city":"Wangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119110173,
-    "wof:lastmodified":1449041659,
+    "wof:lastmodified":1466221004,
     "wof:name":"Peter Wolf Architekt",
     "wof:parent_id":101761757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.604219,48.724056,9.604219,48.724056],
+  "bbox": [
+    9.604219,
+    48.724056,
+    9.604219,
+    48.724056
+],
   "geometry": {"coordinates":[9.604219,48.724056],"type":"Point"}
 }

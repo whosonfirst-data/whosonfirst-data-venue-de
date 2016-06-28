@@ -2,13 +2,14 @@
   "id": 219725777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.006339,50.399868,10.006339,50.399868",
     "geom:latitude":50.399868,
     "geom:longitude":10.006339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstr. 17",
     "sg:city":"Bischofsheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219725777,
-    "wof:lastmodified":1449071253,
+    "wof:lastmodified":1466224822,
     "wof:name":"Oskar Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.006339,50.399868,10.006339,50.399868],
+  "bbox": [
+    10.006339,
+    50.399868,
+    10.006339,
+    50.399868
+],
   "geometry": {"coordinates":[10.006339,50.399868],"type":"Point"}
 }

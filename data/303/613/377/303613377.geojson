@@ -2,13 +2,14 @@
   "id": 303613377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.640436,49.915615,8.640436,49.915615",
     "geom:latitude":49.915615,
     "geom:longitude":8.640436,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ottoweg 2",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303613377,
-    "wof:lastmodified":1448999257,
+    "wof:lastmodified":1466238168,
     "wof:name":"Hofmann Gmbh",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.640436,49.915615,8.640436,49.915615],
+  "bbox": [
+    8.640436,
+    49.915615,
+    8.640436,
+    49.915615
+],
   "geometry": {"coordinates":[8.640436,49.915615],"type":"Point"}
 }

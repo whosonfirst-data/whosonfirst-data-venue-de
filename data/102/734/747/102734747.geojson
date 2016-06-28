@@ -2,13 +2,14 @@
   "id": 102734747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.066178,51.400074,7.066178,51.400074",
     "geom:latitude":51.400074,
     "geom:longitude":7.066178,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lelei 23",
     "sg:city":"Essen-Heisingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795403,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102734747,
-    "wof:lastmodified":1449069867,
+    "wof:lastmodified":1466217271,
     "wof:name":"Massage Zum Wohlf\u00fchlen Mzw (essen) Karl-heinz Remscheidt",
     "wof:parent_id":85795403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.066178,51.400074,7.066178,51.400074],
+  "bbox": [
+    7.066178,
+    51.400074,
+    7.066178,
+    51.400074
+],
   "geometry": {"coordinates":[7.066178,51.400074],"type":"Point"}
 }

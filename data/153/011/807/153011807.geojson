@@ -2,13 +2,14 @@
   "id": 153011807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.39081,51.257301,6.39081,51.257301",
     "geom:latitude":51.257301,
     "geom:longitude":6.39081,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rektorattsr. 61",
     "sg:city":"Viersen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796257,
+        85682513,
         85633111,
         101748689,
         102063773,
-        85682513
+        85796257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153011807,
-    "wof:lastmodified":1449040730,
+    "wof:lastmodified":1466224952,
     "wof:name":"[ckm]community- Und Clanpage",
     "wof:parent_id":85796257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.39081,51.257301,6.39081,51.257301],
+  "bbox": [
+    6.39081,
+    51.257301,
+    6.39081,
+    51.257301
+],
   "geometry": {"coordinates":[6.39081,51.257301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119023187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.13002,49.41798,11.13002,49.41798",
     "geom:latitude":49.41798,
     "geom:longitude":11.13002,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thomas-Mann-Str. 13 f",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899611,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119023187,
-    "wof:lastmodified":1449043271,
+    "wof:lastmodified":1466234750,
     "wof:name":"Gottlieb Neidig Architekt",
     "wof:parent_id":85899611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.13002,49.41798,11.13002,49.41798],
+  "bbox": [
+    11.13002,
+    49.41798,
+    11.13002,
+    49.41798
+],
   "geometry": {"coordinates":[11.13002,49.41798],"type":"Point"}
 }

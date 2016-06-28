@@ -2,13 +2,14 @@
   "id": 136204027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.80352,50.80109,12.80352,50.80109",
     "geom:latitude":50.80109,
     "geom:longitude":12.80352,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofer Str. 74",
     "sg:city":"Mittelbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136204027,
-    "wof:lastmodified":1449076303,
+    "wof:lastmodified":1466221421,
     "wof:name":"F. Naumann",
     "wof:parent_id":101748601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.80352,50.80109,12.80352,50.80109],
+  "bbox": [
+    12.80352,
+    50.80109,
+    12.80352,
+    50.80109
+],
   "geometry": {"coordinates":[12.80352,50.80109],"type":"Point"}
 }

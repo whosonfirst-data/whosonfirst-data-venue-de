@@ -2,13 +2,14 @@
   "id": 119490907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.213151,51.569496,7.213151,51.569496",
     "geom:latitude":51.569496,
     "geom:longitude":7.213151,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 8",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863207,
+        85682513,
         85633111,
         101748751,
         102063831,
-        85682513
+        85863207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119490907,
-    "wof:lastmodified":1449043262,
+    "wof:lastmodified":1466243505,
     "wof:name":"Mib Autoaufbereitung Und Reinigungsmittelvertrieb E. K.",
     "wof:parent_id":85863207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.213151,51.569496,7.213151,51.569496],
+  "bbox": [
+    7.213151,
+    51.569496,
+    7.213151,
+    51.569496
+],
   "geometry": {"coordinates":[7.213151,51.569496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152384295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.578785,51.443504,10.578785,51.443504",
     "geom:latitude":51.443504,
     "geom:longitude":10.578785,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorf Nr. 3",
     "sg:city":"Wipperdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152384295,
-    "wof:lastmodified":1449044879,
+    "wof:lastmodified":1466217876,
     "wof:name":"Otto Bender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.578785,51.443504,10.578785,51.443504],
+  "bbox": [
+    10.578785,
+    51.443504,
+    10.578785,
+    51.443504
+],
   "geometry": {"coordinates":[10.578785,51.443504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135793255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.313623,51.552391,7.313623,51.552391",
     "geom:latitude":51.552391,
     "geom:longitude":7.313623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Markt 7",
     "sg:city":"Castrop-Rauxel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795539,
+        85682513,
         85633111,
         101748745,
         102063831,
-        85682513
+        85795539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135793255,
-    "wof:lastmodified":1449022668,
+    "wof:lastmodified":1466244065,
     "wof:name":"Ruess Chem. Reinigung",
     "wof:parent_id":85795539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.313623,51.552391,7.313623,51.552391],
+  "bbox": [
+    7.313623,
+    51.552391,
+    7.313623,
+    51.552391
+],
   "geometry": {"coordinates":[7.313623,51.552391],"type":"Point"}
 }

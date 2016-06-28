@@ -2,13 +2,14 @@
   "id": 119261803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.465333,52.48447,13.465333,52.48447",
     "geom:latitude":52.48447,
     "geom:longitude":13.465333,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rethelstr. 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928789,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119261803,
-    "wof:lastmodified":1449040923,
+    "wof:lastmodified":1466234803,
     "wof:name":"Dr. Med. Heide Rumsch",
     "wof:parent_id":85928789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.465333,52.48447,13.465333,52.48447],
+  "bbox": [
+    13.465333,
+    52.48447,
+    13.465333,
+    52.48447
+],
   "geometry": {"coordinates":[13.465333,52.48447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269679337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.160625,50.165825,10.160625,50.165825",
     "geom:latitude":50.165825,
     "geom:longitude":10.160625,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Domstr. 7",
     "sg:city":"Oerlenbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269679337,
-    "wof:lastmodified":1449037672,
+    "wof:lastmodified":1466225435,
     "wof:name":"Siegfried Brand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.160625,50.165825,10.160625,50.165825],
+  "bbox": [
+    10.160625,
+    50.165825,
+    10.160625,
+    50.165825
+],
   "geometry": {"coordinates":[10.160625,50.165825],"type":"Point"}
 }

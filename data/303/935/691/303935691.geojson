@@ -2,13 +2,14 @@
   "id": 303935691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.109583,51.258415,7.109583,51.258415",
     "geom:latitude":51.258415,
     "geom:longitude":7.109583,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Hausmann-Ring 108",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303935691,
-    "wof:lastmodified":1449000123,
+    "wof:lastmodified":1466241582,
     "wof:name":"Klick",
     "wof:parent_id":85796377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.109583,51.258415,7.109583,51.258415],
+  "bbox": [
+    7.109583,
+    51.258415,
+    7.109583,
+    51.258415
+],
   "geometry": {"coordinates":[7.109583,51.258415],"type":"Point"}
 }

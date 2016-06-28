@@ -2,13 +2,14 @@
   "id": 119455871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.597962,51.228546,6.597962,51.228546",
     "geom:latitude":51.228546,
     "geom:longitude":6.597962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Flachsbleiche 14",
     "sg:city":"Kaarst",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063757,
-        85633111,
         85682513,
-        85796081
+        85633111,
+        85796081,
+        102063757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119455871,
-    "wof:lastmodified":1449043086,
+    "wof:lastmodified":1466242694,
     "wof:name":"Dietmar Brucks Telekopierer",
     "wof:parent_id":85796081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.597962,51.228546,6.597962,51.228546],
+  "bbox": [
+    6.597962,
+    51.228546,
+    6.597962,
+    51.228546
+],
   "geometry": {"coordinates":[6.597962,51.228546],"type":"Point"}
 }

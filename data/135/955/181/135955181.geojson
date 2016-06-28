@@ -2,13 +2,14 @@
   "id": 135955181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.774393,53.0229,8.774393,53.0229",
     "geom:latitude":53.0229,
     "geom:longitude":8.774393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werner-von-Siemens-Str. 10",
     "sg:city":"Stuhr",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063967,
-        85633111,
         85682555,
-        85862859
+        85633111,
+        85862859,
+        102063967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135955181,
-    "wof:lastmodified":1449023091,
+    "wof:lastmodified":1466244515,
     "wof:name":"Strohbach & Krey Beteiligungs- Gmbh",
     "wof:parent_id":85862859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.774393,53.0229,8.774393,53.0229],
+  "bbox": [
+    8.774393,
+    53.0229,
+    8.774393,
+    53.0229
+],
   "geometry": {"coordinates":[8.774393,53.0229],"type":"Point"}
 }

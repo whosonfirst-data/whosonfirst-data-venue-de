@@ -2,13 +2,14 @@
   "id": 119099605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58718,51.990742,7.58718,51.990742",
     "geom:latitude":51.990742,
     "geom:longitude":7.58718,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Papenbusch 63",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795673,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119099605,
-    "wof:lastmodified":1449042621,
+    "wof:lastmodified":1466220011,
     "wof:name":"Monika W\u00e4chter Architektin",
     "wof:parent_id":85795673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58718,51.990742,7.58718,51.990742],
+  "bbox": [
+    7.58718,
+    51.990742,
+    7.58718,
+    51.990742
+],
   "geometry": {"coordinates":[7.58718,51.990742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152830321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-155.993973,20.71015,-155.993973,20.71015",
     "geom:latitude":20.71015,
     "geom:longitude":-155.993973,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H.-P.-Str.6",
     "sg:city":"Kaki",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085577,
-        85633793,
         85688671,
-        85890143
+        85633793,
+        85890143,
+        102085577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152830321,
-    "wof:lastmodified":1449045281,
+    "wof:lastmodified":1466227758,
     "wof:name":"Gay-und-das-ist-gut-so",
     "wof:parent_id":85890143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-155.993973,20.71015,-155.993973,20.71015],
-  "geometry": {"coordinates":[-155.993973,20.71015],"type":"Point"}
+  "bbox": [
+    -155.993973,
+    20.71015,
+    -155.993973,
+    20.71015
+],
+  "geometry": {"coordinates":[-155.99397300000001,20.71015],"type":"Point"}
 }

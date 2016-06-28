@@ -2,13 +2,14 @@
   "id": 269960001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.47435,48.44202,10.47435,48.44202",
     "geom:latitude":48.44202,
     "geom:longitude":10.47435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freybergerhof 1",
     "sg:city":"Haldenwang",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":269960001,
-    "wof:lastmodified":1449037913,
+    "wof:lastmodified":1466232181,
     "wof:name":"Wolfgang Burkhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.47435,48.44202,10.47435,48.44202],
+  "bbox": [
+    10.47435,
+    48.44202,
+    10.47435,
+    48.44202
+],
   "geometry": {"coordinates":[10.47435,48.44202],"type":"Point"}
 }

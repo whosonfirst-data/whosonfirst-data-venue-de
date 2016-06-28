@@ -2,13 +2,14 @@
   "id": 135696131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.686795,53.865211,10.686795,53.865211",
     "geom:latitude":53.865211,
     "geom:longitude":10.686795,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigstr. 95",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899971,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85899971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135696131,
-    "wof:lastmodified":1449021219,
+    "wof:lastmodified":1466242415,
     "wof:name":"Lbc Langmaak Bau Consult Und Baubetreuungs Gmbh",
     "wof:parent_id":85899971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.686795,53.865211,10.686795,53.865211],
+  "bbox": [
+    10.686795,
+    53.865211,
+    10.686795,
+    53.865211
+],
   "geometry": {"coordinates":[10.686795,53.865211],"type":"Point"}
 }

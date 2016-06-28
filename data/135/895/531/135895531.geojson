@@ -2,13 +2,14 @@
   "id": 135895531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.781633,51.219406,6.781633,51.219406",
     "geom:latitude":51.219406,
     "geom:longitude":6.781633,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Allee 59",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135895531,
-    "wof:lastmodified":1449022279,
+    "wof:lastmodified":1466244502,
     "wof:name":"Kers Beteiligungs Gmbh C.o. Bdo Binder Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.781633,51.219406,6.781633,51.219406],
+  "bbox": [
+    6.781633,
+    51.219406,
+    6.781633,
+    51.219406
+],
   "geometry": {"coordinates":[6.781633,51.219406],"type":"Point"}
 }

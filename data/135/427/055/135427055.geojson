@@ -2,13 +2,14 @@
   "id": 135427055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21917,48.741909,9.21917,48.741909",
     "geom:latitude":48.741909,
     "geom:longitude":9.21917,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"70619",
     "sg:city":"Stuttgart-Sillenbach",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85862803
+        85633111,
+        85862803,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135427055,
-    "wof:lastmodified":1449021918,
+    "wof:lastmodified":1466225135,
     "wof:name":"Raiffeisenbank Sillenbuch Eg",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21917,48.741909,9.21917,48.741909],
+  "bbox": [
+    9.21917,
+    48.741909,
+    9.21917,
+    48.741909
+],
   "geometry": {"coordinates":[9.21917,48.741909],"type":"Point"}
 }

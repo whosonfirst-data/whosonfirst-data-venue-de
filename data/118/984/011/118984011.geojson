@@ -2,13 +2,14 @@
   "id": 118984011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.592,48.128277,11.592,48.128277",
     "geom:latitude":48.128277,
     "geom:longitude":11.592,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gallmayerstr. 13",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905611,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118984011,
-    "wof:lastmodified":1449053942,
+    "wof:lastmodified":1466239212,
     "wof:name":"Bhagwandas Chellaney Architekt",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.592,48.128277,11.592,48.128277],
+  "bbox": [
+    11.592,
+    48.128277,
+    11.592,
+    48.128277
+],
   "geometry": {"coordinates":[11.592,48.128277],"type":"Point"}
 }

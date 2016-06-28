@@ -2,13 +2,14 @@
   "id": 118811029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39719,49.097416,8.39719,49.097416",
     "geom:latitude":49.097416,
     "geom:longitude":8.39719,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardtstr. 15",
     "sg:city":"Eggenstein-Leopoldshafen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
-        85862811
+        85633111,
+        85862811,
+        102063403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118811029,
-    "wof:lastmodified":1449053823,
+    "wof:lastmodified":1466230398,
     "wof:name":"Curie-apotheke",
     "wof:parent_id":85862811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39719,49.097416,8.39719,49.097416],
+  "bbox": [
+    8.39719,
+    49.097416,
+    8.39719,
+    49.097416
+],
   "geometry": {"coordinates":[8.39719,49.097416],"type":"Point"}
 }

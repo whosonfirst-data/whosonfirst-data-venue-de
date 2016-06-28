@@ -2,13 +2,14 @@
   "id": 203337777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.732763,48.37529,9.732763,48.37529",
     "geom:latitude":48.37529,
     "geom:longitude":9.732763,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschgasse 3",
     "sg:city":"Schelklingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203337777,
-    "wof:lastmodified":1449025807,
+    "wof:lastmodified":1466219460,
     "wof:name":"Fritz Aigner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.732763,48.37529,9.732763,48.37529],
+  "bbox": [
+    9.732763,
+    48.37529,
+    9.732763,
+    48.37529
+],
   "geometry": {"coordinates":[9.732763,48.37529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135876675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623731,51.942825,7.623731,51.942825",
     "geom:latitude":51.942825,
     "geom:longitude":7.623731,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammer Str. 147",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795293,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135876675,
-    "wof:lastmodified":1449021588,
+    "wof:lastmodified":1466244435,
     "wof:name":"Angelventure Beteiligungs- Gesellschaft Mbh",
     "wof:parent_id":85795293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.623731,51.942825,7.623731,51.942825],
+  "bbox": [
+    7.623731,
+    51.942825,
+    7.623731,
+    51.942825
+],
   "geometry": {"coordinates":[7.623731,51.942825],"type":"Point"}
 }

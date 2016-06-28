@@ -2,13 +2,14 @@
   "id": 135346945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.602986,48.651512,12.602986,48.651512",
     "geom:latitude":48.651512,
     "geom:longitude":12.602986,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gottfriedinger Str. 3",
     "sg:city":"Mamming",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135346945,
-    "wof:lastmodified":1449020966,
+    "wof:lastmodified":1466217814,
     "wof:name":"Josef Moser",
     "wof:parent_id":101783017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.602986,48.651512,12.602986,48.651512],
+  "bbox": [
+    12.602986,
+    48.651512,
+    12.602986,
+    48.651512
+],
   "geometry": {"coordinates":[12.602986,48.651512],"type":"Point"}
 }

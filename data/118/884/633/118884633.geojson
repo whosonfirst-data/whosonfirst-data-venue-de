@@ -2,13 +2,14 @@
   "id": 118884633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.453927,52.429394,13.453927,52.429394",
     "geom:latitude":52.429394,
     "geom:longitude":13.453927,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannisthaler Chaussee 321",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899215,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118884633,
-    "wof:lastmodified":1449054289,
+    "wof:lastmodified":1466234984,
     "wof:name":"Elch-apotheke Inh. Olaf Beck E. K.",
     "wof:parent_id":85899215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.453927,52.429394,13.453927,52.429394],
+  "bbox": [
+    13.453927,
+    52.429394,
+    13.453927,
+    52.429394
+],
   "geometry": {"coordinates":[13.453927,52.429394],"type":"Point"}
 }

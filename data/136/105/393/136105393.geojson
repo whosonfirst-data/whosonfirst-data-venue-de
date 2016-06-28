@@ -2,13 +2,14 @@
   "id": 136105393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.606875,48.079533,11.606875,48.079533",
     "geom:latitude":48.079533,
     "geom:longitude":11.606875,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstrasse 27",
     "sg:city":"Unterhaching",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899707,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136105393,
-    "wof:lastmodified":1449075419,
+    "wof:lastmodified":1466216971,
     "wof:name":"Philotech Gmbh",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.606875,48.079533,11.606875,48.079533],
+  "bbox": [
+    11.606875,
+    48.079533,
+    11.606875,
+    48.079533
+],
   "geometry": {"coordinates":[11.606875,48.079533],"type":"Point"}
 }

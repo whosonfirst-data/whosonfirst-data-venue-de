@@ -2,13 +2,14 @@
   "id": 119330323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.015266,50.865913,13.015266,50.865913",
     "geom:latitude":50.865913,
     "geom:longitude":13.015266,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstr. 7",
     "sg:city":"Niederwiesa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119330323,
-    "wof:lastmodified":1449042171,
+    "wof:lastmodified":1466238969,
     "wof:name":"Heinz Lohse",
     "wof:parent_id":101823131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.015266,50.865913,13.015266,50.865913],
+  "bbox": [
+    13.015266,
+    50.865913,
+    13.015266,
+    50.865913
+],
   "geometry": {"coordinates":[13.015266,50.865913],"type":"Point"}
 }

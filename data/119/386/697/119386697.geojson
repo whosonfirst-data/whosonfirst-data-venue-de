@@ -2,13 +2,14 @@
   "id": 119386697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.634705,51.456253,12.634705,51.456253",
     "geom:latitude":51.456253,
     "geom:longitude":12.634705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 8",
     "sg:city":"Eilenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119386697,
-    "wof:lastmodified":1449042247,
+    "wof:lastmodified":1466241191,
     "wof:name":"Werner Kunze",
     "wof:parent_id":101822363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.634705,51.456253,12.634705,51.456253],
+  "bbox": [
+    12.634705,
+    51.456253,
+    12.634705,
+    51.456253
+],
   "geometry": {"coordinates":[12.634705,51.456253],"type":"Point"}
 }

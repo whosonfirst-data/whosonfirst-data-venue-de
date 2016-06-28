@@ -2,13 +2,14 @@
   "id": 135714151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.071818,49.377449,11.071818,49.377449",
     "geom:latitude":49.377449,
     "geom:longitude":11.071818,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dompfaffweg 10",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063461,
-        85633111,
         85682571,
-        85899903
+        85633111,
+        85899903,
+        102063461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135714151,
-    "wof:lastmodified":1449022501,
+    "wof:lastmodified":1466242724,
     "wof:name":"Eureal Grundst\u00fccksges. Mbh",
     "wof:parent_id":85899903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.071818,49.377449,11.071818,49.377449],
+  "bbox": [
+    11.071818,
+    49.377449,
+    11.071818,
+    49.377449
+],
   "geometry": {"coordinates":[11.071818,49.377449],"type":"Point"}
 }

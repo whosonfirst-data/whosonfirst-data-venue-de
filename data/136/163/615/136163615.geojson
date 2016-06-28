@@ -2,13 +2,14 @@
   "id": 136163615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.565343,48.136467,11.565343,48.136467",
     "geom:latitude":48.136467,
     "geom:longitude":11.565343,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenstr. 19",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905607,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136163615,
-    "wof:lastmodified":1449076250,
+    "wof:lastmodified":1466219426,
     "wof:name":"Forum F. Naturheilkunde, Psychotherapie U. Esoterik",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.565343,48.136467,11.565343,48.136467],
+  "bbox": [
+    11.565343,
+    48.136467,
+    11.565343,
+    48.136467
+],
   "geometry": {"coordinates":[11.565343,48.136467],"type":"Point"}
 }

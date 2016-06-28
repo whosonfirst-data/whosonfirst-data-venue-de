@@ -2,13 +2,14 @@
   "id": 269628441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.016811,49.630596,11.016811,49.630596",
     "geom:latitude":49.630596,
     "geom:longitude":11.016811,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scherleshofer Str. 23",
     "sg:city":"Bubenreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269628441,
-    "wof:lastmodified":1449038380,
+    "wof:lastmodified":1466224250,
     "wof:name":"Richard Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.016811,49.630596,11.016811,49.630596],
+  "bbox": [
+    11.016811,
+    49.630596,
+    11.016811,
+    49.630596
+],
   "geometry": {"coordinates":[11.016811,49.630596],"type":"Point"}
 }

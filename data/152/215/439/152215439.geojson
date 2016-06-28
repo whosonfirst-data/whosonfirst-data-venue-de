@@ -2,13 +2,14 @@
   "id": 152215439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.088727,54.311153,13.088727,54.311153",
     "geom:latitude":54.311153,
     "geom:longitude":13.088727,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuer Markt 16",
     "sg:city":"Stralsund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152215439,
-    "wof:lastmodified":1449048115,
+    "wof:lastmodified":1466214379,
     "wof:name":"St. Abraham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.088727,54.311153,13.088727,54.311153],
+  "bbox": [
+    13.088727,
+    54.311153,
+    13.088727,
+    54.311153
+],
   "geometry": {"coordinates":[13.088727,54.311153],"type":"Point"}
 }

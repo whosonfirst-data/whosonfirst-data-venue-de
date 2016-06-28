@@ -2,13 +2,14 @@
   "id": 152475969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.77325,53.016201,8.77325,53.016201",
     "geom:latitude":53.016201,
     "geom:longitude":8.77325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 8",
     "sg:city":"Stuhr",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063967,
-        85633111,
         85682555,
-        85862859
+        85633111,
+        85862859,
+        102063967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152475969,
-    "wof:lastmodified":1449046230,
+    "wof:lastmodified":1466219709,
     "wof:name":"Emontage Verwaltungsges. Mbh",
     "wof:parent_id":85862859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.77325,53.016201,8.77325,53.016201],
+  "bbox": [
+    8.77325,
+    53.016201,
+    8.77325,
+    53.016201
+],
   "geometry": {"coordinates":[8.77325,53.016201],"type":"Point"}
 }

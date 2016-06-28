@@ -2,13 +2,14 @@
   "id": 118601357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.827965,51.472244,6.827965,51.472244",
     "geom:latitude":51.472244,
     "geom:longitude":6.827965,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Joachim-Balcke-Str",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863081,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118601357,
-    "wof:lastmodified":1449053769,
+    "wof:lastmodified":1466218270,
     "wof:name":"Balcke-d\u00fcrr Gmbh",
     "wof:parent_id":85863081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.827965,51.472244,6.827965,51.472244],
+  "bbox": [
+    6.827965,
+    51.472244,
+    6.827965,
+    51.472244
+],
   "geometry": {"coordinates":[6.827965,51.472244],"type":"Point"}
 }

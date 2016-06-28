@@ -2,13 +2,14 @@
   "id": 119056065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.140817,49.472004,11.140817,49.472004",
     "geom:latitude":49.472004,
     "geom:longitude":11.140817,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstegenstr. 118",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900011,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119056065,
-    "wof:lastmodified":1449041535,
+    "wof:lastmodified":1466215961,
     "wof:name":"Hofmockel Und Nickel Architekten",
     "wof:parent_id":85900011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.140817,49.472004,11.140817,49.472004],
+  "bbox": [
+    11.140817,
+    49.472004,
+    11.140817,
+    49.472004
+],
   "geometry": {"coordinates":[11.140817,49.472004],"type":"Point"}
 }

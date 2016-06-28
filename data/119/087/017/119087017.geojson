@@ -2,13 +2,14 @@
   "id": 119087017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.960112,50.975212,6.960112,50.975212",
     "geom:latitude":50.975212,
     "geom:longitude":6.960112,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niehler Str. 312",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862995,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85862995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119087017,
-    "wof:lastmodified":1449042064,
+    "wof:lastmodified":1466218856,
     "wof:name":"L. Walter Architekt",
     "wof:parent_id":85862995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.960112,50.975212,6.960112,50.975212],
+  "bbox": [
+    6.960112,
+    50.975212,
+    6.960112,
+    50.975212
+],
   "geometry": {"coordinates":[6.960112,50.975212],"type":"Point"}
 }

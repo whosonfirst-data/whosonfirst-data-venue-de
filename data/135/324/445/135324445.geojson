@@ -2,13 +2,14 @@
   "id": 135324445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.61843,51.388149,13.61843,51.388149",
     "geom:latitude":51.388149,
     "geom:longitude":13.61843,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 11",
     "sg:city":"Hirschfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135324445,
-    "wof:lastmodified":1449022778,
+    "wof:lastmodified":1466215882,
     "wof:name":"Walter Wiesenberg",
     "wof:parent_id":101822433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.61843,51.388149,13.61843,51.388149],
+  "bbox": [
+    13.61843,
+    51.388149,
+    13.61843,
+    51.388149
+],
   "geometry": {"coordinates":[13.61843,51.388149],"type":"Point"}
 }

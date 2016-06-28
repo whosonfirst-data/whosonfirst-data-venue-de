@@ -2,13 +2,14 @@
   "id": 202898023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.335254,50.92054,13.335254,50.92054",
     "geom:latitude":50.92054,
     "geom:longitude":13.335254,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstr. 14",
     "sg:city":"Freiberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202898023,
-    "wof:lastmodified":1449060057,
+    "wof:lastmodified":1466223095,
     "wof:name":"Andreas Adam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.335254,50.92054,13.335254,50.92054],
+  "bbox": [
+    13.335254,
+    50.92054,
+    13.335254,
+    50.92054
+],
   "geometry": {"coordinates":[13.335254,50.92054],"type":"Point"}
 }

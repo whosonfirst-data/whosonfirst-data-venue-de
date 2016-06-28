@@ -2,13 +2,14 @@
   "id": 119360923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.67111,48.573471,13.67111,48.573471",
     "geom:latitude":48.573471,
     "geom:longitude":13.67111,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4mmersdorf",
     "sg:city":"Untergriesbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119360923,
-    "wof:lastmodified":1449042891,
+    "wof:lastmodified":1466240348,
     "wof:name":"Max Bieringer",
     "wof:parent_id":101784365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.67111,48.573471,13.67111,48.573471],
+  "bbox": [
+    13.67111,
+    48.573471,
+    13.67111,
+    48.573471
+],
   "geometry": {"coordinates":[13.67111,48.573471],"type":"Point"}
 }

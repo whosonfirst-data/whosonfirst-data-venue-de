@@ -2,13 +2,14 @@
   "id": 303606169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.701271,51.053665,11.701271,51.053665",
     "geom:latitude":51.053665,
     "geom:longitude":11.701271,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Bender-Str. 24",
     "sg:city":"Camburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303606169,
-    "wof:lastmodified":1448998498,
+    "wof:lastmodified":1466238044,
     "wof:name":"Johannes Herzog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.701271,51.053665,11.701271,51.053665],
+  "bbox": [
+    11.701271,
+    51.053665,
+    11.701271,
+    51.053665
+],
   "geometry": {"coordinates":[11.701271,51.053665],"type":"Point"}
 }

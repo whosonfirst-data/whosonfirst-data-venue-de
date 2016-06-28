@@ -2,13 +2,14 @@
   "id": 119083827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.925543,51.535976,6.925543,51.535976",
     "geom:latitude":51.535976,
     "geom:longitude":6.925543,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lortzingstr. 2",
     "sg:city":"Bottrop",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795255,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85795255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119083827,
-    "wof:lastmodified":1449042092,
+    "wof:lastmodified":1466218549,
     "wof:name":"Knauf Und Hodyas",
     "wof:parent_id":85795255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.925543,51.535976,6.925543,51.535976],
+  "bbox": [
+    6.925543,
+    51.535976,
+    6.925543,
+    51.535976
+],
   "geometry": {"coordinates":[6.925543,51.535976],"type":"Point"}
 }

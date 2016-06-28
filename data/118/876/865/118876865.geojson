@@ -2,13 +2,14 @@
   "id": 118876865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.109604,49.002533,12.109604,49.002533",
     "geom:latitude":49.002533,
     "geom:longitude":12.109604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermann-Geib-Str. 67",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118876865,
-    "wof:lastmodified":1449053427,
+    "wof:lastmodified":1466234490,
     "wof:name":"Brahms-apotheke",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.109604,49.002533,12.109604,49.002533],
+  "bbox": [
+    12.109604,
+    49.002533,
+    12.109604,
+    49.002533
+],
   "geometry": {"coordinates":[12.109604,49.002533],"type":"Point"}
 }

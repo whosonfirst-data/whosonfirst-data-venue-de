@@ -2,13 +2,14 @@
   "id": 202793651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.300869,52.509655,13.300869,52.509655",
     "geom:latitude":52.509655,
     "geom:longitude":13.300869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schillerstr. 64",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202793651,
-    "wof:lastmodified":1449061503,
+    "wof:lastmodified":1466221130,
     "wof:name":"Klaus Peter Brauer",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.300869,52.509655,13.300869,52.509655],
+  "bbox": [
+    13.300869,
+    52.509655,
+    13.300869,
+    52.509655
+],
   "geometry": {"coordinates":[13.300869,52.509655],"type":"Point"}
 }

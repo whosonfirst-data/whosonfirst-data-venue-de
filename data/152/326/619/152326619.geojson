@@ -2,13 +2,14 @@
   "id": 152326619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.98072,51.483971,11.98072,51.483971",
     "geom:latitude":51.483971,
     "geom:longitude":11.98072,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Magdeburger Str. 38",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152326619,
-    "wof:lastmodified":1449046277,
+    "wof:lastmodified":1466216705,
     "wof:name":"Prowa Black & Veatch Gmbh Ndl. Ingenierub\u00fcro Halle",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.98072,51.483971,11.98072,51.483971],
+  "bbox": [
+    11.98072,
+    51.483971,
+    11.98072,
+    51.483971
+],
   "geometry": {"coordinates":[11.98072,51.483971],"type":"Point"}
 }

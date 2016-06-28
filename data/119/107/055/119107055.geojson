@@ -2,13 +2,14 @@
   "id": 119107055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.215447,50.090755,8.215447,50.090755",
     "geom:latitude":50.090755,
     "geom:longitude":8.215447,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarstr. 64",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119107055,
-    "wof:lastmodified":1449040890,
+    "wof:lastmodified":1466220690,
     "wof:name":"Peter Esche Architekt",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.215447,50.090755,8.215447,50.090755],
+  "bbox": [
+    8.215447,
+    50.090755,
+    8.215447,
+    50.090755
+],
   "geometry": {"coordinates":[8.215447,50.090755],"type":"Point"}
 }

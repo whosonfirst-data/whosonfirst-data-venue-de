@@ -2,13 +2,14 @@
   "id": 185875599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.696061,51.05389,12.696061,51.05389",
     "geom:latitude":51.05389,
     "geom:longitude":12.696061,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Katharinenstr. 18",
     "sg:city":"Geithain",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185875599,
-    "wof:lastmodified":1449007797,
+    "wof:lastmodified":1466215827,
     "wof:name":"S. Rabe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.696061,51.05389,12.696061,51.05389],
+  "bbox": [
+    12.696061,
+    51.05389,
+    12.696061,
+    51.05389
+],
   "geometry": {"coordinates":[12.696061,51.05389],"type":"Point"}
 }

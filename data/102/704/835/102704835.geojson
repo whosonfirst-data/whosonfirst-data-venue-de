@@ -2,13 +2,14 @@
   "id": 102704835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.334445,49.022121,8.334445,49.022121",
     "geom:latitude":49.022121,
     "geom:longitude":8.334445,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wikingerstr. 13",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795951,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102704835,
-    "wof:lastmodified":1449068413,
+    "wof:lastmodified":1466216284,
     "wof:name":"Bruker Meerestechnik Gmbh",
     "wof:parent_id":85795951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.334445,49.022121,8.334445,49.022121],
+  "bbox": [
+    8.334445,
+    49.022121,
+    8.334445,
+    49.022121
+],
   "geometry": {"coordinates":[8.334445,49.022121],"type":"Point"}
 }

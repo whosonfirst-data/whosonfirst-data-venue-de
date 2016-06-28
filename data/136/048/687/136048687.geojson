@@ -2,13 +2,14 @@
   "id": 136048687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.331569,52.529697,13.331569,52.529697",
     "geom:latitude":52.529697,
     "geom:longitude":13.331569,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldstr. 14",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136048687,
-    "wof:lastmodified":1449075371,
+    "wof:lastmodified":1466214359,
     "wof:name":"Dipl.-ing. O. Mizrak Antennentechnik",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.331569,52.529697,13.331569,52.529697],
+  "bbox": [
+    13.331569,
+    52.529697,
+    13.331569,
+    52.529697
+],
   "geometry": {"coordinates":[13.331569,52.529697],"type":"Point"}
 }

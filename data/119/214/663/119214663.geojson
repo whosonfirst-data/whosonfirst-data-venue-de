@@ -2,13 +2,14 @@
   "id": 119214663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.903492,50.829475,6.903492,50.829475",
     "geom:latitude":50.829475,
     "geom:longitude":6.903492,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Fetten-Platz 21",
     "sg:city":"Br\u00fchl",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796051,
+        85682513,
         85633111,
         101811067,
         102063709,
-        85682513
+        85796051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119214663,
-    "wof:lastmodified":1449043478,
+    "wof:lastmodified":1466230130,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St Margareta",
     "wof:parent_id":85796051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.903492,50.829475,6.903492,50.829475],
+  "bbox": [
+    6.903492,
+    50.829475,
+    6.903492,
+    50.829475
+],
   "geometry": {"coordinates":[6.903492,50.829475],"type":"Point"}
 }

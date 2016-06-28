@@ -2,13 +2,14 @@
   "id": 152828269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.792434,50.978897,13.792434,50.978897",
     "geom:latitude":50.978897,
     "geom:longitude":13.792434,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sobirgauer Weg 4",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064217,
-        85633111,
         85682523,
-        85899349
+        85633111,
+        85899349,
+        102064217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152828269,
-    "wof:lastmodified":1449046646,
+    "wof:lastmodified":1466227706,
     "wof:name":"Friedrich Huber Aeronova Gmbh & Co.",
     "wof:parent_id":85899349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.792434,50.978897,13.792434,50.978897],
+  "bbox": [
+    13.792434,
+    50.978897,
+    13.792434,
+    50.978897
+],
   "geometry": {"coordinates":[13.792434,50.978897],"type":"Point"}
 }

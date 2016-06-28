@@ -2,13 +2,14 @@
   "id": 118860175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.454421,52.447857,13.454421,52.447857",
     "geom:latitude":52.447857,
     "geom:longitude":13.454421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buschkrugallee 179",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899061,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118860175,
-    "wof:lastmodified":1449053764,
+    "wof:lastmodified":1466233431,
     "wof:name":"Albrecht-d\u00fcrer-apotheke P\u00e4chter Eingetragener Kaufmann",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.454421,52.447857,13.454421,52.447857],
+  "bbox": [
+    13.454421,
+    52.447857,
+    13.454421,
+    52.447857
+],
   "geometry": {"coordinates":[13.454421,52.447857],"type":"Point"}
 }

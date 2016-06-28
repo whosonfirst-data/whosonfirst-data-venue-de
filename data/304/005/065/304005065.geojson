@@ -2,13 +2,14 @@
   "id": 304005065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.793433,50.75885,13.793433,50.75885",
     "geom:latitude":50.75885,
     "geom:longitude":13.793433,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Sieber-Str. 1",
     "sg:city":"Geising",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304005065,
-    "wof:lastmodified":1449044121,
+    "wof:lastmodified":1466230975,
     "wof:name":"R. Rauscher J. Graf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.793433,50.75885,13.793433,50.75885],
+  "bbox": [
+    13.793433,
+    50.75885,
+    13.793433,
+    50.75885
+],
   "geometry": {"coordinates":[13.793433,50.75885],"type":"Point"}
 }

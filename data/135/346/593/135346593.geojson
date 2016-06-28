@@ -2,13 +2,14 @@
   "id": 135346593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.363043,51.443104,7.363043,51.443104",
     "geom:latitude":51.443104,
     "geom:longitude":7.363043,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Annenstr. 68",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794743,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135346593,
-    "wof:lastmodified":1449020967,
+    "wof:lastmodified":1466217776,
     "wof:name":"J. Weidler",
     "wof:parent_id":85794743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.363043,51.443104,7.363043,51.443104],
+  "bbox": [
+    7.363043,
+    51.443104,
+    7.363043,
+    51.443104
+],
   "geometry": {"coordinates":[7.363043,51.443104],"type":"Point"}
 }

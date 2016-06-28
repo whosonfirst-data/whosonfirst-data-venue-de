@@ -2,13 +2,14 @@
   "id": 119036877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.899902,53.091137,8.899902,53.091137",
     "geom:latitude":53.091137,
     "geom:longitude":8.899902,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Achterdiek 68C",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796057,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119036877,
-    "wof:lastmodified":1449041397,
+    "wof:lastmodified":1466214192,
     "wof:name":"Hans-joachim Schulz-hoesen Architekt",
     "wof:parent_id":85796057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.899902,53.091137,8.899902,53.091137],
+  "bbox": [
+    8.899902,
+    53.091137,
+    8.899902,
+    53.091137
+],
   "geometry": {"coordinates":[8.899902,53.091137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202861825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.60332,48.108307,11.60332,48.108307",
     "geom:latitude":48.108307,
     "geom:longitude":11.60332,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Chiemgaustr. 142",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202861825,
-    "wof:lastmodified":1449062624,
+    "wof:lastmodified":1466222418,
     "wof:name":"Ursula Zeidler",
     "wof:parent_id":85899199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.60332,48.108307,11.60332,48.108307],
+  "bbox": [
+    11.60332,
+    48.108307,
+    11.60332,
+    48.108307
+],
   "geometry": {"coordinates":[11.60332,48.108307],"type":"Point"}
 }

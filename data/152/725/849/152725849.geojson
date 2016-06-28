@@ -2,13 +2,14 @@
   "id": 152725849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.595656,48.261261,11.595656,48.261261",
     "geom:latitude":48.261261,
     "geom:longitude":11.595656,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Lehner-Str. 9",
     "sg:city":"Unterschlei\u00dfheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063273,
-        85633111,
         85682571,
-        85899747
+        85633111,
+        85899747,
+        102063273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152725849,
-    "wof:lastmodified":1449045416,
+    "wof:lastmodified":1466225266,
     "wof:name":"Dahmit Betonwerke Gmbh & Co. Kg",
     "wof:parent_id":85899747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.595656,48.261261,11.595656,48.261261],
+  "bbox": [
+    11.595656,
+    48.261261,
+    11.595656,
+    48.261261
+],
   "geometry": {"coordinates":[11.595656,48.261261],"type":"Point"}
 }

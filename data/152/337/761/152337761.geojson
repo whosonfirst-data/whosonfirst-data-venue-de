@@ -2,13 +2,14 @@
   "id": 152337761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.804315,53.081886,8.804315,53.081886",
     "geom:latitude":53.081886,
     "geom:longitude":8.804315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrescarpe 121",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796503,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152337761,
-    "wof:lastmodified":1449046469,
+    "wof:lastmodified":1466216950,
     "wof:name":"Ani-avati Verein F\u00fcr Suchtherapie E. V.",
     "wof:parent_id":85796503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.804315,53.081886,8.804315,53.081886],
+  "bbox": [
+    8.804315,
+    53.081886,
+    8.804315,
+    53.081886
+],
   "geometry": {"coordinates":[8.804315,53.081886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118917473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.158839,51.531734,7.158839,51.531734",
     "geom:latitude":51.531734,
     "geom:longitude":7.158839,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 244",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796687,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85796687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118917473,
-    "wof:lastmodified":1449054359,
+    "wof:lastmodified":1466236591,
     "wof:name":"Moritz-apotheke",
     "wof:parent_id":85796687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.158839,51.531734,7.158839,51.531734],
+  "bbox": [
+    7.158839,
+    51.531734,
+    7.158839,
+    51.531734
+],
   "geometry": {"coordinates":[7.158839,51.531734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135657557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.879566,49.559959,10.879566,49.559959",
     "geom:latitude":49.559959,
     "geom:longitude":10.879566,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-Dassler-Str. 30",
     "sg:city":"Herzogenaurach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135657557,
-    "wof:lastmodified":1449021329,
+    "wof:lastmodified":1466241239,
     "wof:name":"Fritsch & Welker",
     "wof:parent_id":101826949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.879566,49.559959,10.879566,49.559959],
+  "bbox": [
+    10.879566,
+    49.559959,
+    10.879566,
+    49.559959
+],
   "geometry": {"coordinates":[10.879566,49.559959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136068077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.787619,51.047779,13.787619,51.047779",
     "geom:latitude":51.047779,
     "geom:longitude":13.787619,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemannenstra\u00dfe 35",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900115,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136068077,
-    "wof:lastmodified":1449075596,
+    "wof:lastmodified":1466215261,
     "wof:name":"Fritsche - Bau",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.787619,51.047779,13.787619,51.047779],
+  "bbox": [
+    13.787619,
+    51.047779,
+    13.787619,
+    51.047779
+],
   "geometry": {"coordinates":[13.787619,51.047779],"type":"Point"}
 }

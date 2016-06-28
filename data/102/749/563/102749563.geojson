@@ -2,13 +2,14 @@
   "id": 102749563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.206018,52.547104,13.206018,52.547104",
     "geom:latitude":52.547104,
     "geom:longitude":13.206018,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jagowstr. 20",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899797
+        85633111,
+        85899797,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102749563,
-    "wof:lastmodified":1449068464,
+    "wof:lastmodified":1466218229,
     "wof:name":"Fuhl & Hornung Nachfolger E.k.",
     "wof:parent_id":85899797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.206018,52.547104,13.206018,52.547104],
+  "bbox": [
+    13.206018,
+    52.547104,
+    13.206018,
+    52.547104
+],
   "geometry": {"coordinates":[13.206018,52.547104],"type":"Point"}
 }

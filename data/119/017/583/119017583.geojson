@@ -2,13 +2,14 @@
   "id": 119017583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.648692,47.555599,7.648692,47.555599",
     "geom:latitude":47.555599,
     "geom:longitude":7.648692,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hornrain 4",
     "sg:city":"Grenzach-Wyhlen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85799839,
+        85682361,
         85633051,
         101914099,
         102062971,
-        85682361
+        85799839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119017583,
-    "wof:lastmodified":1449042262,
+    "wof:lastmodified":1466230825,
     "wof:name":"Gerd Issler Architekt",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.648692,47.555599,7.648692,47.555599],
+  "bbox": [
+    7.648692,
+    47.555599,
+    7.648692,
+    47.555599
+],
   "geometry": {"coordinates":[7.648692,47.555599],"type":"Point"}
 }

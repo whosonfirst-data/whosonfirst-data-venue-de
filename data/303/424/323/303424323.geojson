@@ -2,13 +2,14 @@
   "id": 303424323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.081478,50.201344,10.081478,50.201344",
     "geom:latitude":50.201344,
     "geom:longitude":10.081478,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapellenpfad 3",
     "sg:city":"Bad Kissingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303424323,
-    "wof:lastmodified":1449000412,
+    "wof:lastmodified":1466235102,
     "wof:name":"Gottfried Mehnert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.081478,50.201344,10.081478,50.201344],
+  "bbox": [
+    10.081478,
+    50.201344,
+    10.081478,
+    50.201344
+],
   "geometry": {"coordinates":[10.081478,50.201344],"type":"Point"}
 }

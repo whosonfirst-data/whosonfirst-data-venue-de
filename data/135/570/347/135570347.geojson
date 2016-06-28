@@ -2,13 +2,14 @@
   "id": 135570347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527463,49.489445,8.527463,49.489445",
     "geom:latitude":49.489445,
     "geom:longitude":8.527463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanenstr. 40",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135570347,
-    "wof:lastmodified":1449022812,
+    "wof:lastmodified":1466237263,
     "wof:name":"Bludau Bau Gmbh",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527463,49.489445,8.527463,49.489445],
+  "bbox": [
+    8.527463,
+    49.489445,
+    8.527463,
+    49.489445
+],
   "geometry": {"coordinates":[8.527463,49.489445],"type":"Point"}
 }

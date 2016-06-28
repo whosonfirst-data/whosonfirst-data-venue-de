@@ -2,13 +2,14 @@
   "id": 135661029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.983497,49.603554,10.983497,49.603554",
     "geom:latitude":49.603554,
     "geom:longitude":10.983497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hutstr. 4",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135661029,
-    "wof:lastmodified":1449023680,
+    "wof:lastmodified":1466241257,
     "wof:name":"Hans-dieter Mehl",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.983497,49.603554,10.983497,49.603554],
+  "bbox": [
+    10.983497,
+    49.603554,
+    10.983497,
+    49.603554
+],
   "geometry": {"coordinates":[10.983497,49.603554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135538951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.80667,52.483601,9.80667,52.483601",
     "geom:latitude":52.483601,
     "geom:longitude":9.80667,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenstr. 1",
     "sg:city":"Isernhagen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85899219
+        85633111,
+        85899219,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135538951,
-    "wof:lastmodified":1449021362,
+    "wof:lastmodified":1466235215,
     "wof:name":"Arcus Bauplanungs Und Consulting Gmbh",
     "wof:parent_id":85899219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.80667,52.483601,9.80667,52.483601],
+  "bbox": [
+    9.80667,
+    52.483601,
+    9.80667,
+    52.483601
+],
   "geometry": {"coordinates":[9.80667,52.483601],"type":"Point"}
 }

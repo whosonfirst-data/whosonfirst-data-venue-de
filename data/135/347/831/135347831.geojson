@@ -2,13 +2,14 @@
   "id": 135347831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.600762,52.115906,11.600762,52.115906",
     "geom:latitude":52.115906,
     "geom:longitude":11.600762,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolfenb\u00fctteler Str. 18",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900243,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85900243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135347831,
-    "wof:lastmodified":1449022483,
+    "wof:lastmodified":1466217889,
     "wof:name":"Karl-heinz Herdzin",
     "wof:parent_id":85900243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.600762,52.115906,11.600762,52.115906],
+  "bbox": [
+    11.600762,
+    52.115906,
+    11.600762,
+    52.115906
+],
   "geometry": {"coordinates":[11.600762,52.115906],"type":"Point"}
 }

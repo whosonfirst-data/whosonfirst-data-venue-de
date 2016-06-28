@@ -2,13 +2,14 @@
   "id": 136181301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.123365,48.496258,10.123365,48.496258",
     "geom:latitude":48.496258,
     "geom:longitude":10.123365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 28",
     "sg:city":"Langenau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136181301,
-    "wof:lastmodified":1449075712,
+    "wof:lastmodified":1466220219,
     "wof:name":"Armin Dedlmar",
     "wof:parent_id":101762993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.123365,48.496258,10.123365,48.496258],
+  "bbox": [
+    10.123365,
+    48.496258,
+    10.123365,
+    48.496258
+],
   "geometry": {"coordinates":[10.123365,48.496258],"type":"Point"}
 }

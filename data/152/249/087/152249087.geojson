@@ -2,13 +2,14 @@
   "id": 152249087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.686313,53.865742,10.686313,53.865742",
     "geom:latitude":53.865742,
     "geom:longitude":10.686313,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wahmstr. 17",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905713,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85905713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152249087,
-    "wof:lastmodified":1449044536,
+    "wof:lastmodified":1466215078,
     "wof:name":"Hanssen Verwaltungs Gmbh",
     "wof:parent_id":85905713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.686313,53.865742,10.686313,53.865742],
+  "bbox": [
+    10.686313,
+    53.865742,
+    10.686313,
+    53.865742
+],
   "geometry": {"coordinates":[10.686313,53.865742],"type":"Point"}
 }

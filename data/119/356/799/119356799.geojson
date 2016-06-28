@@ -2,13 +2,14 @@
   "id": 119356799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.831505,49.315628,12.831505,49.315628",
     "geom:latitude":49.315628,
     "geom:longitude":12.831505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glaserstr. 63",
     "sg:city":"Furth im Wald",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119356799,
-    "wof:lastmodified":1449043038,
+    "wof:lastmodified":1466240316,
     "wof:name":"Ludwig Sporer",
     "wof:parent_id":101780741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.831505,49.315628,12.831505,49.315628],
+  "bbox": [
+    12.831505,
+    49.315628,
+    12.831505,
+    49.315628
+],
   "geometry": {"coordinates":[12.831505,49.315628],"type":"Point"}
 }

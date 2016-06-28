@@ -2,13 +2,14 @@
   "id": 135970337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.606808,50.12674,8.606808,50.12674",
     "geom:latitude":50.12674,
     "geom:longitude":8.606808,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6delheimer Bahnweg 31",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795985,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135970337,
-    "wof:lastmodified":1449023933,
+    "wof:lastmodified":1466244814,
     "wof:name":"Connex Stadtverkehr Gmbh",
     "wof:parent_id":85795985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.606808,50.12674,8.606808,50.12674],
+  "bbox": [
+    8.606808,
+    50.12674,
+    8.606808,
+    50.12674
+],
   "geometry": {"coordinates":[8.606808,50.12674],"type":"Point"}
 }

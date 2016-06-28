@@ -2,13 +2,14 @@
   "id": 118997633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.808087,51.061066,13.808087,51.061066",
     "geom:latitude":51.061066,
     "geom:longitude":13.808087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schevenstr. 12c",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900197,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118997633,
-    "wof:lastmodified":1449054315,
+    "wof:lastmodified":1466239803,
     "wof:name":"Dr. Lutz Heubaum",
     "wof:parent_id":85900197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.808087,51.061066,13.808087,51.061066],
+  "bbox": [
+    13.808087,
+    51.061066,
+    13.808087,
+    51.061066
+],
   "geometry": {"coordinates":[13.808087,51.061066],"type":"Point"}
 }

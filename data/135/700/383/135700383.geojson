@@ -2,13 +2,14 @@
   "id": 135700383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593779,47.630119,7.593779,47.630119",
     "geom:latitude":47.630119,
     "geom:longitude":7.593779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Kander 8",
     "sg:city":"Eimeldingen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135700383,
-    "wof:lastmodified":1449023742,
+    "wof:lastmodified":1466242350,
     "wof:name":"Tri-plan Immobilien Gmbh",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593779,47.630119,7.593779,47.630119],
+  "bbox": [
+    7.593779,
+    47.630119,
+    7.593779,
+    47.630119
+],
   "geometry": {"coordinates":[7.593779,47.630119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235969601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.983525,53.584484,9.983525,53.584484",
     "geom:latitude":53.584484,
     "geom:longitude":9.983525,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hegestr. 29",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235969601,
-    "wof:lastmodified":1449008336,
+    "wof:lastmodified":1466218216,
     "wof:name":"Petit Cafe",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.983525,53.584484,9.983525,53.584484],
+  "bbox": [
+    9.983525,
+    53.584484,
+    9.983525,
+    53.584484
+],
   "geometry": {"coordinates":[9.983525,53.584484],"type":"Point"}
 }

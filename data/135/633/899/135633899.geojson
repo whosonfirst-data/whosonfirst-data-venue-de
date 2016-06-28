@@ -2,13 +2,14 @@
   "id": 135633899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.658666,50.155476,8.658666,50.155476",
     "geom:latitude":50.155476,
     "geom:longitude":8.658666,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschersheimer Landstr. 526",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135633899,
-    "wof:lastmodified":1449023963,
+    "wof:lastmodified":1466240372,
     "wof:name":"Holzverbau O. H. Sch\u00e4fer Gmbh",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.658666,50.155476,8.658666,50.155476],
+  "bbox": [
+    8.658666,
+    50.155476,
+    8.658666,
+    50.155476
+],
   "geometry": {"coordinates":[8.658666,50.155476],"type":"Point"}
 }

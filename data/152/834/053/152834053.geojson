@@ -2,13 +2,14 @@
   "id": 152834053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.013256,49.528732,11.013256,49.528732",
     "geom:latitude":49.528732,
     "geom:longitude":11.013256,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tabakfeldstra\u00dfe 7",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063513,
-        85633111,
         85682571,
-        85905637
+        85633111,
+        85905637,
+        102063513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152834053,
-    "wof:lastmodified":1449044730,
+    "wof:lastmodified":1466227840,
     "wof:name":"Hermann Stapfer - Heizungsbau",
     "wof:parent_id":85905637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.013256,49.528732,11.013256,49.528732],
+  "bbox": [
+    11.013256,
+    49.528732,
+    11.013256,
+    49.528732
+],
   "geometry": {"coordinates":[11.013256,49.528732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135799361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.2821,51.321178,7.2821,51.321178",
     "geom:latitude":51.321178,
     "geom:longitude":7.2821,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stefansbecke 43",
     "sg:city":"Sprockh\u00f6vel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85796401
+        85633111,
+        85796401,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135799361,
-    "wof:lastmodified":1449024000,
+    "wof:lastmodified":1466244103,
     "wof:name":"Pepin Produktions-gmbh",
     "wof:parent_id":85796401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.2821,51.321178,7.2821,51.321178],
+  "bbox": [
+    7.2821,
+    51.321178,
+    7.2821,
+    51.321178
+],
   "geometry": {"coordinates":[7.2821,51.321178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136053557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.131386,52.447807,13.131386,52.447807",
     "geom:latitude":52.447807,
     "geom:longitude":13.131386,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Setheweg 9",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899317,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136053557,
-    "wof:lastmodified":1449075155,
+    "wof:lastmodified":1466214586,
     "wof:name":"Edv-zubeh\u00f6r Von Ingrid Erteld",
     "wof:parent_id":85899317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.131386,52.447807,13.131386,52.447807],
+  "bbox": [
+    13.131386,
+    52.447807,
+    13.131386,
+    52.447807
+],
   "geometry": {"coordinates":[13.131386,52.447807],"type":"Point"}
 }

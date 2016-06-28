@@ -2,13 +2,14 @@
   "id": 320198747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.721025,50.562279,12.721025,50.562279",
     "geom:latitude":50.562279,
     "geom:longitude":12.721025,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bockauer Str. 43",
     "sg:city":"Lauter",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320198747,
-    "wof:lastmodified":1449012629,
+    "wof:lastmodified":1466237422,
     "wof:name":"Paul Richter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.721025,50.562279,12.721025,50.562279],
+  "bbox": [
+    12.721025,
+    50.562279,
+    12.721025,
+    50.562279
+],
   "geometry": {"coordinates":[12.721025,50.562279],"type":"Point"}
 }

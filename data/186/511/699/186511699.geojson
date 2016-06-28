@@ -2,13 +2,14 @@
   "id": 186511699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.553247,47.810429,7.553247,47.810429",
     "geom:latitude":47.810429,
     "geom:longitude":7.553247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Hahn-Str. 5",
     "sg:city":"Neuenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186511699,
-    "wof:lastmodified":1449051610,
+    "wof:lastmodified":1466218660,
     "wof:name":"I. Egelhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.553247,47.810429,7.553247,47.810429],
+  "bbox": [
+    7.553247,
+    47.810429,
+    7.553247,
+    47.810429
+],
   "geometry": {"coordinates":[7.553247,47.810429],"type":"Point"}
 }

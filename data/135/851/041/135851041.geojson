@@ -2,13 +2,14 @@
   "id": 135851041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.052893,52.400928,13.052893,52.400928",
     "geom:latitude":52.400928,
     "geom:longitude":13.052893,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstr. 16",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928775,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85928775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135851041,
-    "wof:lastmodified":1449022990,
+    "wof:lastmodified":1466244291,
     "wof:name":"Berolina Bestattungsinstitut",
     "wof:parent_id":85928775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.052893,52.400928,13.052893,52.400928],
+  "bbox": [
+    13.052893,
+    52.400928,
+    13.052893,
+    52.400928
+],
   "geometry": {"coordinates":[13.052893,52.400928],"type":"Point"}
 }

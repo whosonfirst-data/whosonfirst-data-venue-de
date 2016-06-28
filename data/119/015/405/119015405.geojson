@@ -2,13 +2,14 @@
   "id": 119015405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.177719,51.512688,7.177719,51.512688",
     "geom:latitude":51.512688,
     "geom:longitude":7.177719,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Wagner-Str. 17",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795147,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85795147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119015405,
-    "wof:lastmodified":1449041415,
+    "wof:lastmodified":1466225060,
     "wof:name":"Gabriele Leschner Architektin",
     "wof:parent_id":85795147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.177719,51.512688,7.177719,51.512688],
+  "bbox": [
+    7.177719,
+    51.512688,
+    7.177719,
+    51.512688
+],
   "geometry": {"coordinates":[7.177719,51.512688],"type":"Point"}
 }

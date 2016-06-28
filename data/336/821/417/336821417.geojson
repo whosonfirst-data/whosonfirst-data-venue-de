@@ -2,13 +2,14 @@
   "id": 336821417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.465675,52.531155,13.465675,52.531155",
     "geom:latitude":52.531155,
     "geom:longitude":13.465675,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsberger Allee 151",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336821417,
-    "wof:lastmodified":1448997530,
+    "wof:lastmodified":1466237850,
     "wof:name":"Frank Schmidt",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.465675,52.531155,13.465675,52.531155],
+  "bbox": [
+    13.465675,
+    52.531155,
+    13.465675,
+    52.531155
+],
   "geometry": {"coordinates":[13.465675,52.531155],"type":"Point"}
 }

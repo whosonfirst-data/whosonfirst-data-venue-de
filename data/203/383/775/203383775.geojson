@@ -2,13 +2,14 @@
   "id": 203383775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.256652,47.440109,11.256652,47.440109",
     "geom:latitude":47.440109,
     "geom:longitude":11.256652,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schachenweg 1",
     "sg:city":"Mittenwald",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203383775,
-    "wof:lastmodified":1449025733,
+    "wof:lastmodified":1466220203,
     "wof:name":"Hermann Seitz Architekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.256652,47.440109,11.256652,47.440109],
+  "bbox": [
+    11.256652,
+    47.440109,
+    11.256652,
+    47.440109
+],
   "geometry": {"coordinates":[11.256652,47.440109],"type":"Point"}
 }

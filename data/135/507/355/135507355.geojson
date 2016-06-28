@@ -2,13 +2,14 @@
   "id": 135507355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.808833,48.568565,7.808833,48.568565",
     "geom:latitude":48.568565,
     "geom:longitude":7.808833,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hildebrandstr. 6",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897709,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135507355,
-    "wof:lastmodified":1449022568,
+    "wof:lastmodified":1466232278,
     "wof:name":"Industrial Project Organizatio Handelsges. F\u00fcr Anlagentechnik",
     "wof:parent_id":85897709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.808833,48.568565,7.808833,48.568565],
+  "bbox": [
+    7.808833,
+    48.568565,
+    7.808833,
+    48.568565
+],
   "geometry": {"coordinates":[7.808833,48.568565],"type":"Point"}
 }

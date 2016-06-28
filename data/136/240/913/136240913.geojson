@@ -2,13 +2,14 @@
   "id": 136240913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.96627,49.505711,10.96627,49.505711",
     "geom:latitude":49.505711,
     "geom:longitude":10.96627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vacher Str. 454",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900089,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85900089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136240913,
-    "wof:lastmodified":1449075037,
+    "wof:lastmodified":1466223664,
     "wof:name":"Mv Christgau",
     "wof:parent_id":85900089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.96627,49.505711,10.96627,49.505711],
+  "bbox": [
+    10.96627,
+    49.505711,
+    10.96627,
+    49.505711
+],
   "geometry": {"coordinates":[10.96627,49.505711],"type":"Point"}
 }

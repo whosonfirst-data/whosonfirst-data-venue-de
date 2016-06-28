@@ -2,13 +2,14 @@
   "id": 102647065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.663931,51.013802,13.663931,51.013802",
     "geom:latitude":51.013802,
     "geom:longitude":13.663931,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Freital",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899205,
+        85682523,
         85633111,
         101755983,
         102064217,
-        85682523
+        85899205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102647065,
-    "wof:lastmodified":1449068915,
+    "wof:lastmodified":1466214578,
     "wof:name":"Siegfried Zimmer",
     "wof:parent_id":85899205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.663931,51.013802,13.663931,51.013802],
+  "bbox": [
+    13.663931,
+    51.013802,
+    13.663931,
+    51.013802
+],
   "geometry": {"coordinates":[13.663931,51.013802],"type":"Point"}
 }

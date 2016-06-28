@@ -2,13 +2,14 @@
   "id": 152600033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.309111,51.489021,7.309111,51.489021",
     "geom:latitude":51.489021,
     "geom:longitude":7.309111,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreyenfeldstr. 60",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865101,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85865101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152600033,
-    "wof:lastmodified":1449044727,
+    "wof:lastmodified":1466222492,
     "wof:name":"Meures Beteiligungs Gmbh",
     "wof:parent_id":85865101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.309111,51.489021,7.309111,51.489021],
+  "bbox": [
+    7.309111,
+    51.489021,
+    7.309111,
+    51.489021
+],
   "geometry": {"coordinates":[7.309111,51.489021],"type":"Point"}
 }

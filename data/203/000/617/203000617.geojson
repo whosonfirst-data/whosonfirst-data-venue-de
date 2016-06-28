@@ -2,13 +2,14 @@
   "id": 203000617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.581038,51.964577,10.581038,51.964577",
     "geom:latitude":51.964577,
     "geom:longitude":10.581038,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siedlerstr. 41",
     "sg:city":"Vienenburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203000617,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466235158,
     "wof:name":"Fritz Michels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.581038,51.964577,10.581038,51.964577],
+  "bbox": [
+    10.581038,
+    51.964577,
+    10.581038,
+    51.964577
+],
   "geometry": {"coordinates":[10.581038,51.964577],"type":"Point"}
 }

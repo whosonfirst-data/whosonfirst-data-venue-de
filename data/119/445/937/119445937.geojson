@@ -2,13 +2,14 @@
   "id": 119445937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.427948,52.587986,13.427948,52.587986",
     "geom:latitude":52.587986,
     "geom:longitude":13.427948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blankenburger Str. 149 A",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905647,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119445937,
-    "wof:lastmodified":1449041189,
+    "wof:lastmodified":1466242618,
     "wof:name":"Thomas Haske",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.427948,52.587986,13.427948,52.587986],
+  "bbox": [
+    13.427948,
+    52.587986,
+    13.427948,
+    52.587986
+],
   "geometry": {"coordinates":[13.427948,52.587986],"type":"Point"}
 }

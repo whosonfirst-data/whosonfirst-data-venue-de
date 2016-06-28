@@ -2,13 +2,14 @@
   "id": 135969263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.092976,49.45816,11.092976,49.45816",
     "geom:latitude":49.45816,
     "geom:longitude":11.092976,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sulzbacher Str. 29",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135969263,
-    "wof:lastmodified":1449021709,
+    "wof:lastmodified":1466244812,
     "wof:name":"Business Angel Club Gmbh",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.092976,49.45816,11.092976,49.45816],
+  "bbox": [
+    11.092976,
+    49.45816,
+    11.092976,
+    49.45816
+],
   "geometry": {"coordinates":[11.092976,49.45816],"type":"Point"}
 }

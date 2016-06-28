@@ -2,13 +2,14 @@
   "id": 135778173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.042382,51.45298,7.042382,51.45298",
     "geom:latitude":51.45298,
     "geom:longitude":7.042382,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanenbuschstr. 163",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796467,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85796467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135778173,
-    "wof:lastmodified":1449021029,
+    "wof:lastmodified":1466243939,
     "wof:name":"Christian Geuting",
     "wof:parent_id":85796467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.042382,51.45298,7.042382,51.45298],
+  "bbox": [
+    7.042382,
+    51.45298,
+    7.042382,
+    51.45298
+],
   "geometry": {"coordinates":[7.042382,51.45298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118876101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.939267,50.93404,6.939267,50.93404",
     "geom:latitude":50.93404,
     "geom:longitude":6.939267,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohenstaufenring 59",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795773,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118876101,
-    "wof:lastmodified":1449053429,
+    "wof:lastmodified":1466234439,
     "wof:name":"Birken-apotheke Erik Tenberken",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.939267,50.93404,6.939267,50.93404],
+  "bbox": [
+    6.939267,
+    50.93404,
+    6.939267,
+    50.93404
+],
   "geometry": {"coordinates":[6.939267,50.93404],"type":"Point"}
 }

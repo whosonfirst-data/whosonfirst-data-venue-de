@@ -2,13 +2,14 @@
   "id": 202483607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.199437,52.523071,13.199437,52.523071",
     "geom:latitude":52.523071,
     "geom:longitude":13.199437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wei\u00dfenburger Str. 20",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202483607,
-    "wof:lastmodified":1449062118,
+    "wof:lastmodified":1466215291,
     "wof:name":"Marcus Deutschmann",
     "wof:parent_id":85900245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.199437,52.523071,13.199437,52.523071],
+  "bbox": [
+    13.199437,
+    52.523071,
+    13.199437,
+    52.523071
+],
   "geometry": {"coordinates":[13.199437,52.523071],"type":"Point"}
 }

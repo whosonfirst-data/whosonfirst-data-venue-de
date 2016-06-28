@@ -2,13 +2,14 @@
   "id": 135993037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.286482,51.289124,7.286482,51.289124",
     "geom:latitude":51.289124,
     "geom:longitude":7.286482,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstr. 24a",
     "sg:city":"Schwelm",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796243,
+        85682513,
         85633111,
         101756009,
         102063779,
-        85682513
+        85796243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135993037,
-    "wof:lastmodified":1449022356,
+    "wof:lastmodified":1466244911,
     "wof:name":"Schaumburg & Sieper Verwaltungsges. Mbh",
     "wof:parent_id":85796243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.286482,51.289124,7.286482,51.289124],
+  "bbox": [
+    7.286482,
+    51.289124,
+    7.286482,
+    51.289124
+],
   "geometry": {"coordinates":[7.286482,51.289124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202411199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633019,48.169678,8.633019,48.169678",
     "geom:latitude":48.169678,
     "geom:longitude":8.633019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Balinger Str. 8",
     "sg:city":"Rottweil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202411199,
-    "wof:lastmodified":1449060216,
+    "wof:lastmodified":1466213972,
     "wof:name":"Werner Zink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.633019,48.169678,8.633019,48.169678],
+  "bbox": [
+    8.633019,
+    48.169678,
+    8.633019,
+    48.169678
+],
   "geometry": {"coordinates":[8.633019,48.169678],"type":"Point"}
 }

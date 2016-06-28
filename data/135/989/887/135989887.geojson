@@ -2,13 +2,14 @@
   "id": 135989887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.175726,48.773079,9.175726,48.773079",
     "geom:latitude":48.773079,
     "geom:longitude":9.175726,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eberhardstr. 69-71",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135989887,
-    "wof:lastmodified":1449023214,
+    "wof:lastmodified":1466244909,
     "wof:name":"Paul Und Gerhard Koch Verwaltungsges. Mbh",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.175726,48.773079,9.175726,48.773079],
+  "bbox": [
+    9.175726,
+    48.773079,
+    9.175726,
+    48.773079
+],
   "geometry": {"coordinates":[9.175726,48.773079],"type":"Point"}
 }

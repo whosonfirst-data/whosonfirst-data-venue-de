@@ -2,13 +2,14 @@
   "id": 219613251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.489165,49.495785,8.489165,49.495785",
     "geom:latitude":49.495785,
     "geom:longitude":8.489165,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ku\u00dfmaulstr. 16",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219613251,
-    "wof:lastmodified":1449072035,
+    "wof:lastmodified":1466222643,
     "wof:name":"Frank Ewald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.489165,49.495785,8.489165,49.495785],
+  "bbox": [
+    8.489165,
+    49.495785,
+    8.489165,
+    49.495785
+],
   "geometry": {"coordinates":[8.489165,49.495785],"type":"Point"}
 }

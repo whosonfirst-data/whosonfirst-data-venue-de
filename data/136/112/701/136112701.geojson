@@ -2,13 +2,14 @@
   "id": 136112701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.802766,51.047756,13.802766,51.047756",
     "geom:latitude":51.047756,
     "geom:longitude":13.802766,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niederwaldstra\u00dfe 23",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899013,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136112701,
-    "wof:lastmodified":1449075507,
+    "wof:lastmodified":1466217288,
     "wof:name":"Rechstanwaltskanzlei Dr. Jur Vera Scherz",
     "wof:parent_id":85899013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.802766,51.047756,13.802766,51.047756],
+  "bbox": [
+    13.802766,
+    51.047756,
+    13.802766,
+    51.047756
+],
   "geometry": {"coordinates":[13.802766,51.047756],"type":"Point"}
 }

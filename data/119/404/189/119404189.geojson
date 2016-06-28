@@ -2,13 +2,14 @@
   "id": 119404189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.002576,51.479733,7.002576,51.479733",
     "geom:latitude":51.479733,
     "geom:longitude":7.002576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gladbecker Str. 283",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794919,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85794919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119404189,
-    "wof:lastmodified":1449042655,
+    "wof:lastmodified":1466241662,
     "wof:name":"Kurt Quandt",
     "wof:parent_id":85794919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.002576,51.479733,7.002576,51.479733],
+  "bbox": [
+    7.002576,
+    51.479733,
+    7.002576,
+    51.479733
+],
   "geometry": {"coordinates":[7.002576,51.479733],"type":"Point"}
 }

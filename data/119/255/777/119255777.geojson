@@ -2,13 +2,14 @@
   "id": 119255777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.509446,52.604301,12.509446,52.604301",
     "geom:latitude":52.604301,
     "geom:longitude":12.509446,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuer Weg 16",
     "sg:city":"Nennhausen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119255777,
-    "wof:lastmodified":1449042029,
+    "wof:lastmodified":1466234164,
     "wof:name":"Dr. Hannelore Dietrich",
     "wof:parent_id":101816481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.509446,52.604301,12.509446,52.604301],
+  "bbox": [
+    12.509446,
+    52.604301,
+    12.509446,
+    52.604301
+],
   "geometry": {"coordinates":[12.509446,52.604301],"type":"Point"}
 }

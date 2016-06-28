@@ -2,13 +2,14 @@
   "id": 119418329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.9801,52.115891,9.9801,52.115891",
     "geom:latitude":52.115891,
     "geom:longitude":9.9801,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dom\u00e4nenstr. 46 b",
     "sg:city":"Hildesheim",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063895,
-        85633111,
         85682555,
-        85900181
+        85633111,
+        85900181,
+        102063895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119418329,
-    "wof:lastmodified":1449042919,
+    "wof:lastmodified":1466242111,
     "wof:name":"Tas Tischlerei-ausbau- Sanierungs Gmbh",
     "wof:parent_id":85900181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.9801,52.115891,9.9801,52.115891],
+  "bbox": [
+    9.9801,
+    52.115891,
+    9.9801,
+    52.115891
+],
   "geometry": {"coordinates":[9.9801,52.115891],"type":"Point"}
 }

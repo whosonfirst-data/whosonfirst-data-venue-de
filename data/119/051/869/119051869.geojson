@@ -2,13 +2,14 @@
   "id": 119051869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.368418,51.515812,7.368418,51.515812",
     "geom:latitude":51.515812,
     "geom:longitude":7.368418,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osulfweg 37",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795691,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85795691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119051869,
-    "wof:lastmodified":1449042506,
+    "wof:lastmodified":1466215575,
     "wof:name":"Herbert Goosmann Architekt",
     "wof:parent_id":85795691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.368418,51.515812,7.368418,51.515812],
+  "bbox": [
+    7.368418,
+    51.515812,
+    7.368418,
+    51.515812
+],
   "geometry": {"coordinates":[7.368418,51.515812],"type":"Point"}
 }

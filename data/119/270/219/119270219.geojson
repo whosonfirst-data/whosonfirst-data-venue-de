@@ -2,13 +2,14 @@
   "id": 119270219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.472905,52.611286,13.472905,52.611286",
     "geom:latitude":52.611286,
     "geom:longitude":13.472905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Florastr. 18",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119270219,
-    "wof:lastmodified":1449041303,
+    "wof:lastmodified":1466235612,
     "wof:name":"Dr. Sabine Pohl",
     "wof:parent_id":101748799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.472905,52.611286,13.472905,52.611286],
+  "bbox": [
+    13.472905,
+    52.611286,
+    13.472905,
+    52.611286
+],
   "geometry": {"coordinates":[13.472905,52.611286],"type":"Point"}
 }

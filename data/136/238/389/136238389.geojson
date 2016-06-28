@@ -2,13 +2,14 @@
   "id": 136238389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.596756,51.340897,6.596756,51.340897",
     "geom:latitude":51.340897,
     "geom:longitude":6.596756,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uerdinger Str. 348",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795791,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136238389,
-    "wof:lastmodified":1449075417,
+    "wof:lastmodified":1466223493,
     "wof:name":"Maria Haase",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.596756,51.340897,6.596756,51.340897],
+  "bbox": [
+    6.596756,
+    51.340897,
+    6.596756,
+    51.340897
+],
   "geometry": {"coordinates":[6.596756,51.340897],"type":"Point"}
 }

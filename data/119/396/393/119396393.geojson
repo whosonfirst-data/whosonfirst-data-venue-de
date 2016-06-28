@@ -2,13 +2,14 @@
   "id": 119396393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60135,51.931072,7.60135,51.931072",
     "geom:latitude":51.931072,
     "geom:longitude":7.60135,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borkstr. 1",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795293,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119396393,
-    "wof:lastmodified":1449042632,
+    "wof:lastmodified":1466241384,
     "wof:name":"Rolladen-n\u00fcsing Gmbh",
     "wof:parent_id":85795293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60135,51.931072,7.60135,51.931072],
+  "bbox": [
+    7.60135,
+    51.931072,
+    7.60135,
+    51.931072
+],
   "geometry": {"coordinates":[7.60135,51.931072],"type":"Point"}
 }

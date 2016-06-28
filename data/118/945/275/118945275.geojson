@@ -2,13 +2,14 @@
   "id": 118945275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.669321,50.0993,8.669321,50.0993",
     "geom:latitude":50.0993,
     "geom:longitude":8.669321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stresemannallee 11",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,12 +19,12 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
+        85633111,
         85796369,
-        85796305,
-        101913837
+        102063589,
+        101913837,
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118945275,
-    "wof:lastmodified":1449053265,
+    "wof:lastmodified":1466237608,
     "wof:name":"S\u00fcd-apotheke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.669321,50.0993,8.669321,50.0993],
+  "bbox": [
+    8.669321,
+    50.0993,
+    8.669321,
+    50.0993
+],
   "geometry": {"coordinates":[8.669321,50.0993],"type":"Point"}
 }

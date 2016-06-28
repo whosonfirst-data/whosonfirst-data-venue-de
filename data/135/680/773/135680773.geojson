@@ -2,13 +2,14 @@
   "id": 135680773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.122043,49.02636,12.122043,49.02636",
     "geom:latitude":49.02636,
     "geom:longitude":12.122043,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Innstr. 13-15",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135680773,
-    "wof:lastmodified":1449023114,
+    "wof:lastmodified":1466241967,
     "wof:name":"Walk & Berger Gmbh",
     "wof:parent_id":101748525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.122043,49.02636,12.122043,49.02636],
+  "bbox": [
+    12.122043,
+    49.02636,
+    12.122043,
+    49.02636
+],
   "geometry": {"coordinates":[12.122043,49.02636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119199261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.570138,48.146648,11.570138,48.146648",
     "geom:latitude":48.146648,
     "geom:longitude":11.570138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Barer Str. 23",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905601,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119199261,
-    "wof:lastmodified":1449041114,
+    "wof:lastmodified":1466228707,
     "wof:name":"Fakult\u00e4ten F\u00fcr Mathematik Bibliothek",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.570138,48.146648,11.570138,48.146648],
+  "bbox": [
+    11.570138,
+    48.146648,
+    11.570138,
+    48.146648
+],
   "geometry": {"coordinates":[11.570138,48.146648],"type":"Point"}
 }

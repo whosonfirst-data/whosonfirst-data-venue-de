@@ -2,13 +2,14 @@
   "id": 119237561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.177106,50.700893,6.177106,50.700893",
     "geom:latitude":50.700893,
     "geom:longitude":6.177106,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf der Kier 52",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85796671
+        85633111,
+        85796671,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119237561,
-    "wof:lastmodified":1449040948,
+    "wof:lastmodified":1466232375,
     "wof:name":"Stadtb\u00fccherei Nebenstelle Walheim",
     "wof:parent_id":85796671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.177106,50.700893,6.177106,50.700893],
+  "bbox": [
+    6.177106,
+    50.700893,
+    6.177106,
+    50.700893
+],
   "geometry": {"coordinates":[6.177106,50.700893],"type":"Point"}
 }

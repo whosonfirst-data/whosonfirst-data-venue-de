@@ -2,13 +2,14 @@
   "id": 136164541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.521481,52.275864,10.521481,52.275864",
     "geom:latitude":52.275864,
     "geom:longitude":10.521481,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamburgerstr. 283",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905763,
+        85682555,
         85633111,
         101748797,
         102063903,
-        85682555
+        85905763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136164541,
-    "wof:lastmodified":1449075068,
+    "wof:lastmodified":1466219473,
     "wof:name":"Mandala Internet, Edv-service Gmbh",
     "wof:parent_id":85905763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.521481,52.275864,10.521481,52.275864],
+  "bbox": [
+    10.521481,
+    52.275864,
+    10.521481,
+    52.275864
+],
   "geometry": {"coordinates":[10.521481,52.275864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136241493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.152858,51.512581,7.152858,51.512581",
     "geom:latitude":51.512581,
     "geom:longitude":7.152858,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westfalenstr. 3",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795595,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85795595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136241493,
-    "wof:lastmodified":1449076247,
+    "wof:lastmodified":1466223708,
     "wof:name":"Ninas Blumenstube",
     "wof:parent_id":85795595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.152858,51.512581,7.152858,51.512581],
+  "bbox": [
+    7.152858,
+    51.512581,
+    7.152858,
+    51.512581
+],
   "geometry": {"coordinates":[7.152858,51.512581],"type":"Point"}
 }

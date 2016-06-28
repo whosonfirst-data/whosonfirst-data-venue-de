@@ -2,13 +2,14 @@
   "id": 118681141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.114539,49.462414,11.114539,49.462414",
     "geom:latitude":49.462414,
     "geom:longitude":11.114539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00c4u\u00dfere Sulzbacher Str. 88",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900215,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118681141,
-    "wof:lastmodified":1449054023,
+    "wof:lastmodified":1466222796,
     "wof:name":"Allgemeine H\u00e4usliche Senioren- U. Krankenbetreuung",
     "wof:parent_id":85900215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.114539,49.462414,11.114539,49.462414],
+  "bbox": [
+    11.114539,
+    49.462414,
+    11.114539,
+    49.462414
+],
   "geometry": {"coordinates":[11.114539,49.462414],"type":"Point"}
 }

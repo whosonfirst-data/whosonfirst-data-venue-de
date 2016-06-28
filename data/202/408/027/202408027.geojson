@@ -2,13 +2,14 @@
   "id": 202408027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.768637,49.859966,6.768637,49.859966",
     "geom:latitude":49.859966,
     "geom:longitude":6.768637,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenbachstr. 1",
     "sg:city":"F\u00f6hren",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202408027,
-    "wof:lastmodified":1449060414,
+    "wof:lastmodified":1466213915,
     "wof:name":"Werner Commes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.768637,49.859966,6.768637,49.859966],
+  "bbox": [
+    6.768637,
+    49.859966,
+    6.768637,
+    49.859966
+],
   "geometry": {"coordinates":[6.768637,49.859966],"type":"Point"}
 }

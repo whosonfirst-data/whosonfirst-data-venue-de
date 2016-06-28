@@ -2,13 +2,14 @@
   "id": 118544339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579721,49.5481,8.579721,49.5481",
     "geom:latitude":49.5481,
     "geom:longitude":8.579721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfer Stellweg 23",
     "sg:city":"Viernheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063473,
-        85633111,
         85682567,
-        85796549
+        85633111,
+        85796549,
+        102063473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118544339,
-    "wof:lastmodified":1449054535,
+    "wof:lastmodified":1466215085,
     "wof:name":"Koch-glitsch Gmbh",
     "wof:parent_id":85796549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.579721,49.5481,8.579721,49.5481],
+  "bbox": [
+    8.579721,
+    49.5481,
+    8.579721,
+    49.5481
+],
   "geometry": {"coordinates":[8.579721,49.5481],"type":"Point"}
 }

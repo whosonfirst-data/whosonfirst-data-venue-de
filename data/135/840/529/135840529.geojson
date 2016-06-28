@@ -2,13 +2,14 @@
   "id": 135840529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.839694,51.131226,13.839694,51.131226",
     "geom:latitude":51.131226,
     "geom:longitude":13.839694,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedeg\u00e4\u00dfchen 1",
     "sg:city":"Langebr\u00fcck",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064219,
-        85633111,
         85682523,
-        85900031
+        85633111,
+        85900031,
+        102064219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135840529,
-    "wof:lastmodified":1449023345,
+    "wof:lastmodified":1466244273,
     "wof:name":"Siegfried Trepte",
     "wof:parent_id":85900031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.839694,51.131226,13.839694,51.131226],
+  "bbox": [
+    13.839694,
+    51.131226,
+    13.839694,
+    51.131226
+],
   "geometry": {"coordinates":[13.839694,51.131226],"type":"Point"}
 }

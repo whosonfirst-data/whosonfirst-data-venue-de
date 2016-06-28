@@ -2,13 +2,14 @@
   "id": 135926927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.467597,51.303249,9.467597,51.303249",
     "geom:latitude":51.303249,
     "geom:longitude":9.467597,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windm\u00fchlenstr. 4",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906345,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135926927,
-    "wof:lastmodified":1449022061,
+    "wof:lastmodified":1466244668,
     "wof:name":"Nrs Stra\u00dfenbaumaterial Recycling Und Steinbruchbetr.",
     "wof:parent_id":85906345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.467597,51.303249,9.467597,51.303249],
+  "bbox": [
+    9.467597,
+    51.303249,
+    9.467597,
+    51.303249
+],
   "geometry": {"coordinates":[9.467597,51.303249],"type":"Point"}
 }

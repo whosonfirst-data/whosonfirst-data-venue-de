@@ -2,13 +2,14 @@
   "id": 118725735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.19938,51.178391,7.19938,51.178391",
     "geom:latitude":51.178391,
     "geom:longitude":7.19938,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 150",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862893,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85862893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118725735,
-    "wof:lastmodified":1449053487,
+    "wof:lastmodified":1466225332,
     "wof:name":"Krankenpflege Sieper U. Juling",
     "wof:parent_id":85862893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.19938,51.178391,7.19938,51.178391],
+  "bbox": [
+    7.19938,
+    51.178391,
+    7.19938,
+    51.178391
+],
   "geometry": {"coordinates":[7.19938,51.178391],"type":"Point"}
 }

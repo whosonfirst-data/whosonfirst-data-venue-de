@@ -2,13 +2,14 @@
   "id": 135904237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.099138,54.306061,10.099138,54.306061",
     "geom:latitude":54.306061,
     "geom:longitude":10.099138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4rtnerstr. 47",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899259,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135904237,
-    "wof:lastmodified":1449024059,
+    "wof:lastmodified":1466244537,
     "wof:name":"Possel & Koselowske Holding Gmbh",
     "wof:parent_id":85899259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.099138,54.306061,10.099138,54.306061],
+  "bbox": [
+    10.099138,
+    54.306061,
+    10.099138,
+    54.306061
+],
   "geometry": {"coordinates":[10.099138,54.306061],"type":"Point"}
 }

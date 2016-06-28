@@ -2,13 +2,14 @@
   "id": 119345903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.115084,48.082924,11.115084,48.082924",
     "geom:latitude":48.082924,
     "geom:longitude":11.115084,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zankenhauser Str. 28 a",
     "sg:city":"Eching",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119345903,
-    "wof:lastmodified":1449043322,
+    "wof:lastmodified":1466239860,
     "wof:name":"Josef Wagner",
     "wof:parent_id":101786575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.115084,48.082924,11.115084,48.082924],
+  "bbox": [
+    11.115084,
+    48.082924,
+    11.115084,
+    48.082924
+],
   "geometry": {"coordinates":[11.115084,48.082924],"type":"Point"}
 }

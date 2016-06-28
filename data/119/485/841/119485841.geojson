@@ -2,13 +2,14 @@
   "id": 119485841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.499468,50.722656,12.499468,50.722656",
     "geom:latitude":50.722656,
     "geom:longitude":12.499468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 12-18",
     "sg:city":"Zwickau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119485841,
-    "wof:lastmodified":1449042477,
+    "wof:lastmodified":1466243389,
     "wof:name":"Gerhard Gatzke",
     "wof:parent_id":101748603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.499468,50.722656,12.499468,50.722656],
+  "bbox": [
+    12.499468,
+    50.722656,
+    12.499468,
+    50.722656
+],
   "geometry": {"coordinates":[12.499468,50.722656],"type":"Point"}
 }

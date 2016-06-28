@@ -2,13 +2,14 @@
   "id": 102602621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.073913,52.405891,13.073913,52.405891",
     "geom:latitude":52.405891,
     "geom:longitude":13.073913,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Strasse 31",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898995,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85898995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102602621,
-    "wof:lastmodified":1449068907,
+    "wof:lastmodified":1466213307,
     "wof:name":"Institut F\u00fcr Ganzheitskosmetik",
     "wof:parent_id":85898995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.073913,52.405891,13.073913,52.405891],
+  "bbox": [
+    13.073913,
+    52.405891,
+    13.073913,
+    52.405891
+],
   "geometry": {"coordinates":[13.073913,52.405891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270160535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.845923,48.304707,11.845923,48.304707",
     "geom:latitude":48.304707,
     "geom:longitude":11.845923,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erdingermoos Str. 4",
     "sg:city":"Oberding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270160535,
-    "wof:lastmodified":1449010681,
+    "wof:lastmodified":1466225118,
     "wof:name":"Anton Stemmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.845923,48.304707,11.845923,48.304707],
+  "bbox": [
+    11.845923,
+    48.304707,
+    11.845923,
+    48.304707
+],
   "geometry": {"coordinates":[11.845923,48.304707],"type":"Point"}
 }

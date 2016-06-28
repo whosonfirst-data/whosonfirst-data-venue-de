@@ -2,13 +2,14 @@
   "id": 119258733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.500611,52.64222,13.500611,52.64222",
     "geom:latitude":52.64222,
     "geom:longitude":13.500611,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Viereckweg 34",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907701,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85907701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119258733,
-    "wof:lastmodified":1449042947,
+    "wof:lastmodified":1466234500,
     "wof:name":"Dr. Med. Ekkehard Sielaff",
     "wof:parent_id":85907701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.500611,52.64222,13.500611,52.64222],
+  "bbox": [
+    13.500611,
+    52.64222,
+    13.500611,
+    52.64222
+],
   "geometry": {"coordinates":[13.500611,52.64222],"type":"Point"}
 }

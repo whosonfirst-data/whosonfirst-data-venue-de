@@ -2,13 +2,14 @@
   "id": 135945647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.621691,50.120731,8.621691,50.120731",
     "geom:latitude":50.120731,
     "geom:longitude":8.621691,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Landmann-Str. 389",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795985,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135945647,
-    "wof:lastmodified":1449021262,
+    "wof:lastmodified":1466244728,
     "wof:name":"Heinrich Baumann Gesch\u00e4ftsf\u00fchrungs- Gmbh",
     "wof:parent_id":85795985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.621691,50.120731,8.621691,50.120731],
+  "bbox": [
+    8.621691,
+    50.120731,
+    8.621691,
+    50.120731
+],
   "geometry": {"coordinates":[8.621691,50.120731],"type":"Point"}
 }

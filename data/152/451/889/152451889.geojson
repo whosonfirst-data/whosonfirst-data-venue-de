@@ -2,13 +2,14 @@
   "id": 152451889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.154366,49.67841,12.154366,49.67841",
     "geom:latitude":49.67841,
     "geom:longitude":12.154366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sintzelstr. 12",
     "sg:city":"Weiden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152451889,
-    "wof:lastmodified":1449046326,
+    "wof:lastmodified":1466219180,
     "wof:name":"Johann Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.154366,49.67841,12.154366,49.67841],
+  "bbox": [
+    12.154366,
+    49.67841,
+    12.154366,
+    49.67841
+],
   "geometry": {"coordinates":[12.154366,49.67841],"type":"Point"}
 }

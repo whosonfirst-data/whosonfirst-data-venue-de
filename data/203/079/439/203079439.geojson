@@ -2,13 +2,14 @@
   "id": 203079439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.47353,48.860584,10.47353,48.860584",
     "geom:latitude":48.860584,
     "geom:longitude":10.47353,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Silcherstr. 27",
     "sg:city":"N\u00f6rdlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203079439,
-    "wof:lastmodified":1449026530,
+    "wof:lastmodified":1466215149,
     "wof:name":"Alfred Nogger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.47353,48.860584,10.47353,48.860584],
+  "bbox": [
+    10.47353,
+    48.860584,
+    10.47353,
+    48.860584
+],
   "geometry": {"coordinates":[10.47353,48.860584],"type":"Point"}
 }

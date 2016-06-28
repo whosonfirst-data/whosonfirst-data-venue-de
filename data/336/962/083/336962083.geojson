@@ -2,13 +2,14 @@
   "id": 336962083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.633493,48.095264,11.633493,48.095264",
     "geom:latitude":48.095264,
     "geom:longitude":11.633493,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolframstr. 3",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336962083,
-    "wof:lastmodified":1448997575,
+    "wof:lastmodified":1466239575,
     "wof:name":"Ludwig Buchner",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.633493,48.095264,11.633493,48.095264],
+  "bbox": [
+    11.633493,
+    48.095264,
+    11.633493,
+    48.095264
+],
   "geometry": {"coordinates":[11.633493,48.095264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219760115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21052,49.91119,9.21052,49.91119",
     "geom:latitude":49.91119,
     "geom:longitude":9.21052,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenburgstr. 47",
     "sg:city":"Leidersbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219760115,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466225512,
     "wof:name":"Peter Hein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21052,49.91119,9.21052,49.91119],
+  "bbox": [
+    9.21052,
+    49.91119,
+    9.21052,
+    49.91119
+],
   "geometry": {"coordinates":[9.21052,49.91119],"type":"Point"}
 }

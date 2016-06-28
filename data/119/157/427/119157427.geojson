@@ -2,13 +2,14 @@
   "id": 119157427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.289819,51.244343,7.289819,51.244343",
     "geom:latitude":51.244343,
     "geom:longitude":7.289819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hausfeld 43",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794889
+        85633111,
+        85794889,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119157427,
-    "wof:lastmodified":1449043151,
+    "wof:lastmodified":1466224795,
     "wof:name":"Winfried Bode Architekt",
     "wof:parent_id":85794889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.289819,51.244343,7.289819,51.244343],
+  "bbox": [
+    7.289819,
+    51.244343,
+    7.289819,
+    51.244343
+],
   "geometry": {"coordinates":[7.289819,51.244343],"type":"Point"}
 }

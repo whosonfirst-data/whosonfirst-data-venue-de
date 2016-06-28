@@ -2,13 +2,14 @@
   "id": 270235103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.967143,48.58437,10.967143,48.58437",
     "geom:latitude":48.58437,
     "geom:longitude":10.967143,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeller Str. 18",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270235103,
-    "wof:lastmodified":1449009060,
+    "wof:lastmodified":1466226853,
     "wof:name":"Johann Gerhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.967143,48.58437,10.967143,48.58437],
+  "bbox": [
+    10.967143,
+    48.58437,
+    10.967143,
+    48.58437
+],
   "geometry": {"coordinates":[10.967143,48.58437],"type":"Point"}
 }

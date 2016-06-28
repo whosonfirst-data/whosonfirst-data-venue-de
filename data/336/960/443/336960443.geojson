@@ -2,13 +2,14 @@
   "id": 336960443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.361711,51.341225,12.361711,51.341225",
     "geom:latitude":51.341225,
     "geom:longitude":12.361711,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elsterstr. 49",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336960443,
-    "wof:lastmodified":1448997704,
+    "wof:lastmodified":1466239682,
     "wof:name":"Lothar Honer",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.361711,51.341225,12.361711,51.341225],
+  "bbox": [
+    12.361711,
+    51.341225,
+    12.361711,
+    51.341225
+],
   "geometry": {"coordinates":[12.361711,51.341225],"type":"Point"}
 }

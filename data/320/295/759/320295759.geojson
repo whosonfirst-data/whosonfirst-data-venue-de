@@ -2,13 +2,14 @@
   "id": 320295759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.895222,48.286068,11.895222,48.286068",
     "geom:latitude":48.286068,
     "geom:longitude":11.895222,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Koch-Str. 12",
     "sg:city":"Erding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320295759,
-    "wof:lastmodified":1449012785,
+    "wof:lastmodified":1466238903,
     "wof:name":"Georg Bucher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.895222,48.286068,11.895222,48.286068],
+  "bbox": [
+    11.895222,
+    48.286068,
+    11.895222,
+    48.286068
+],
   "geometry": {"coordinates":[11.895222,48.286068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269540725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.489628,52.512295,13.489628,52.512295",
     "geom:latitude":52.512295,
     "geom:longitude":13.489628,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Allee 193",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269540725,
-    "wof:lastmodified":1449037100,
+    "wof:lastmodified":1466222207,
     "wof:name":"Monika Boos",
     "wof:parent_id":85899981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.489628,52.512295,13.489628,52.512295],
+  "bbox": [
+    13.489628,
+    52.512295,
+    13.489628,
+    52.512295
+],
   "geometry": {"coordinates":[13.489628,52.512295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119028207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.366529,51.444244,7.366529,51.444244",
     "geom:latitude":51.444244,
     "geom:longitude":7.366529,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Annenstr. 102",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794743,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119028207,
-    "wof:lastmodified":1449042291,
+    "wof:lastmodified":1466213353,
     "wof:name":"G\u00fcrb\u00fcz Tursun Architekt",
     "wof:parent_id":85794743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.366529,51.444244,7.366529,51.444244],
+  "bbox": [
+    7.366529,
+    51.444244,
+    7.366529,
+    51.444244
+],
   "geometry": {"coordinates":[7.366529,51.444244],"type":"Point"}
 }

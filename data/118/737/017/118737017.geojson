@@ -2,13 +2,14 @@
   "id": 118737017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.507047,49.506958,8.507047,49.506958",
     "geom:latitude":49.506958,
     "geom:longitude":8.507047,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rollb\u00fchlstr. 85",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795279,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85795279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118737017,
-    "wof:lastmodified":1449053460,
+    "wof:lastmodified":1466225988,
     "wof:name":"Pflegedienst Provita Juliane Fatokun",
     "wof:parent_id":85795279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.507047,49.506958,8.507047,49.506958],
+  "bbox": [
+    8.507047,
+    49.506958,
+    8.507047,
+    49.506958
+],
   "geometry": {"coordinates":[8.507047,49.506958],"type":"Point"}
 }

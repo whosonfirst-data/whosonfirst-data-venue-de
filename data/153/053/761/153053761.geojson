@@ -2,13 +2,14 @@
   "id": 153053761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.90909,53.10495,8.90909,53.10495",
     "geom:latitude":53.10495,
     "geom:longitude":8.90909,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotbuchenweg 12",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796293,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153053761,
-    "wof:lastmodified":1449040421,
+    "wof:lastmodified":1466213686,
     "wof:name":"Acana Pet Food Gmbh & Co. Kg",
     "wof:parent_id":85796293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.90909,53.10495,8.90909,53.10495],
+  "bbox": [
+    8.90909,
+    53.10495,
+    8.90909,
+    53.10495
+],
   "geometry": {"coordinates":[8.90909,53.10495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119355191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.400345,47.771725,10.400345,47.771725",
     "geom:latitude":47.771725,
     "geom:longitude":10.400345,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcnzacher Str. 15",
     "sg:city":"Wildpoldsried",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119355191,
-    "wof:lastmodified":1449041528,
+    "wof:lastmodified":1466240235,
     "wof:name":"L. Pfefferle",
     "wof:parent_id":101787527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.400345,47.771725,10.400345,47.771725],
+  "bbox": [
+    10.400345,
+    47.771725,
+    10.400345,
+    47.771725
+],
   "geometry": {"coordinates":[10.400345,47.771725],"type":"Point"}
 }

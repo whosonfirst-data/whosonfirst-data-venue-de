@@ -2,13 +2,14 @@
   "id": 202567593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.390357,48.199753,10.390357,48.199753",
     "geom:latitude":48.199753,
     "geom:longitude":10.390357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Raiffeisenstr 12",
     "sg:city":"Aletshausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202567593,
-    "wof:lastmodified":1449062666,
+    "wof:lastmodified":1466216989,
     "wof:name":"Gutmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.390357,48.199753,10.390357,48.199753],
+  "bbox": [
+    10.390357,
+    48.199753,
+    10.390357,
+    48.199753
+],
   "geometry": {"coordinates":[10.390357,48.199753],"type":"Point"}
 }

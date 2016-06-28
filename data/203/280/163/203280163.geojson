@@ -2,13 +2,14 @@
   "id": 203280163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529223,50.131138,8.529223,50.131138",
     "geom:latitude":50.131138,
     "geom:longitude":8.529223,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnstr. 3",
     "sg:city":"Sulzbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203280163,
-    "wof:lastmodified":1449025860,
+    "wof:lastmodified":1466218531,
     "wof:name":"Ewald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529223,50.131138,8.529223,50.131138],
+  "bbox": [
+    8.529223,
+    50.131138,
+    8.529223,
+    50.131138
+],
   "geometry": {"coordinates":[8.529223,50.131138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135608759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.853338,50.976997,6.853338,50.976997",
     "geom:latitude":50.976997,
     "geom:longitude":6.853338,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Venloer Str. 1275",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794901,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85794901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135608759,
-    "wof:lastmodified":1449022297,
+    "wof:lastmodified":1466239554,
     "wof:name":"Gebr. Finger Gmbh",
     "wof:parent_id":85794901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.853338,50.976997,6.853338,50.976997],
+  "bbox": [
+    6.853338,
+    50.976997,
+    6.853338,
+    50.976997
+],
   "geometry": {"coordinates":[6.853338,50.976997],"type":"Point"}
 }

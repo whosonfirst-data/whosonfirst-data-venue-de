@@ -2,13 +2,14 @@
   "id": 119496135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.421876,49.490925,8.421876,49.490925",
     "geom:latitude":49.490925,
     "geom:longitude":8.421876,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benzstr. 1",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795247,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119496135,
-    "wof:lastmodified":1449043118,
+    "wof:lastmodified":1466243516,
     "wof:name":"A. Lanzet",
     "wof:parent_id":85795247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.421876,49.490925,8.421876,49.490925],
+  "bbox": [
+    8.421876,
+    49.490925,
+    8.421876,
+    49.490925
+],
   "geometry": {"coordinates":[8.421876,49.490925],"type":"Point"}
 }

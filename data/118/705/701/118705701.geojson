@@ -2,13 +2,14 @@
   "id": 118705701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.009792,51.460941,7.009792,51.460941",
     "geom:latitude":51.460941,
     "geom:longitude":7.009792,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Ebert-Str. 73",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118705701,
-    "wof:lastmodified":1449054547,
+    "wof:lastmodified":1466224250,
     "wof:name":"Freie Alten- Und Krankenpflege E. V.",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.009792,51.460941,7.009792,51.460941],
+  "bbox": [
+    7.009792,
+    51.460941,
+    7.009792,
+    51.460941
+],
   "geometry": {"coordinates":[7.009792,51.460941],"type":"Point"}
 }

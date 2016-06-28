@@ -2,13 +2,14 @@
   "id": 135770825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.621712,53.17173,8.621712,53.17173",
     "geom:latitude":53.17173,
     "geom:longitude":8.621712,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sagerstr. 5",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795367,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135770825,
-    "wof:lastmodified":1449024042,
+    "wof:lastmodified":1466243674,
     "wof:name":"Irene Ledermoden Gmbh",
     "wof:parent_id":85795367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.621712,53.17173,8.621712,53.17173],
+  "bbox": [
+    8.621712,
+    53.17173,
+    8.621712,
+    53.17173
+],
   "geometry": {"coordinates":[8.621712,53.17173],"type":"Point"}
 }

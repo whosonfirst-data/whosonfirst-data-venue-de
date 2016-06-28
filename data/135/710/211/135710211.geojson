@@ -2,13 +2,14 @@
   "id": 135710211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.999439,51.110569,6.999439,51.110569",
     "geom:latitude":51.110569,
     "geom:longitude":6.999439,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Adler 3a",
     "sg:city":"Leichlingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063727,
-        85633111,
         85682513,
-        85862913
+        85633111,
+        85862913,
+        102063727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135710211,
-    "wof:lastmodified":1449021178,
+    "wof:lastmodified":1466242725,
     "wof:name":"Adrion Grundst\u00fccksges. Mbh & Co. Kg",
     "wof:parent_id":85862913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.999439,51.110569,6.999439,51.110569],
+  "bbox": [
+    6.999439,
+    51.110569,
+    6.999439,
+    51.110569
+],
   "geometry": {"coordinates":[6.999439,51.110569],"type":"Point"}
 }

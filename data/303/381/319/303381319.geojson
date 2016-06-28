@@ -2,13 +2,14 @@
   "id": 303381319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.956685,48.349075,10.956685,48.349075",
     "geom:latitude":48.349075,
     "geom:longitude":10.956685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thomas-Mann-Str. 12",
     "sg:city":"Friedberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303381319,
-    "wof:lastmodified":1448998318,
+    "wof:lastmodified":1466233916,
     "wof:name":"Werner Hammer",
     "wof:parent_id":85899301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.956685,48.349075,10.956685,48.349075],
+  "bbox": [
+    10.956685,
+    48.349075,
+    10.956685,
+    48.349075
+],
   "geometry": {"coordinates":[10.956685,48.349075],"type":"Point"}
 }

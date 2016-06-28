@@ -2,13 +2,14 @@
   "id": 203363311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.602475,48.208187,11.602475,48.208187",
     "geom:latitude":48.208187,
     "geom:longitude":11.602475,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boris-Blacher-Str. 17",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203363311,
-    "wof:lastmodified":1449026637,
+    "wof:lastmodified":1466219865,
     "wof:name":"G. Sedlmaier",
     "wof:parent_id":85899173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.602475,48.208187,11.602475,48.208187],
+  "bbox": [
+    11.602475,
+    48.208187,
+    11.602475,
+    48.208187
+],
   "geometry": {"coordinates":[11.602475,48.208187],"type":"Point"}
 }

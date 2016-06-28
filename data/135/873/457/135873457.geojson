@@ -2,13 +2,14 @@
   "id": 135873457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.999933,49.236881,6.999933,49.236881",
     "geom:latitude":49.236881,
     "geom:longitude":6.999933,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenstr. 22",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135873457,
-    "wof:lastmodified":1449021612,
+    "wof:lastmodified":1466244395,
     "wof:name":"Saarbr\u00fccker Bestattungs- Dienst Gmbh",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.999933,49.236881,6.999933,49.236881],
+  "bbox": [
+    6.999933,
+    49.236881,
+    6.999933,
+    49.236881
+],
   "geometry": {"coordinates":[6.999933,49.236881],"type":"Point"}
 }

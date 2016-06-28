@@ -2,13 +2,14 @@
   "id": 119179353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.150696,50.743603,7.150696,50.743603",
     "geom:latitude":50.743603,
     "geom:longitude":7.150696,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karmeliterstr. 1",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796247,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85796247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119179353,
-    "wof:lastmodified":1449043256,
+    "wof:lastmodified":1466226891,
     "wof:name":"Architekten Fischer Von Kietzell Partnerschaft",
     "wof:parent_id":85796247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.150696,50.743603,7.150696,50.743603],
+  "bbox": [
+    7.150696,
+    50.743603,
+    7.150696,
+    50.743603
+],
   "geometry": {"coordinates":[7.150696,50.743603],"type":"Point"}
 }

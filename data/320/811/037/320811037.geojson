@@ -2,13 +2,14 @@
   "id": 320811037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.358521,41.141499,-73.358521,41.141499",
     "geom:latitude":41.141499,
     "geom:longitude":-73.358521,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdstr. 31",
     "sg:city":"Pratau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320811037,
-    "wof:lastmodified":1449013060,
+    "wof:lastmodified":1466243260,
     "wof:name":"Metallbau Und Fassadensanierung",
     "wof:parent_id":85847197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.358521,41.141499,-73.358521,41.141499],
+  "bbox": [
+    -73.358521,
+    41.141499,
+    -73.358521,
+    41.141499
+],
   "geometry": {"coordinates":[-73.358521,41.141499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153035935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.903924,51.038975,6.903924,51.038975",
     "geom:latitude":51.038975,
     "geom:longitude":6.903924,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arenzhofstr 10",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795655,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153035935,
-    "wof:lastmodified":1449040729,
+    "wof:lastmodified":1466213293,
     "wof:name":"Biosolutions Ingenieurgesellschaft Mbh",
     "wof:parent_id":85795655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.903924,51.038975,6.903924,51.038975],
+  "bbox": [
+    6.903924,
+    51.038975,
+    6.903924,
+    51.038975
+],
   "geometry": {"coordinates":[6.903924,51.038975],"type":"Point"}
 }

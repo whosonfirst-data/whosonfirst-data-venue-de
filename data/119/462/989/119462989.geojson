@@ -2,13 +2,14 @@
   "id": 119462989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.93586,53.073193,8.93586,53.073193",
     "geom:latitude":53.073193,
     "geom:longitude":8.93586,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osterholzer Landstr. 106",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796293,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119462989,
-    "wof:lastmodified":1449043459,
+    "wof:lastmodified":1466242953,
     "wof:name":"Lm Afroshop Gmbh",
     "wof:parent_id":85796293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.93586,53.073193,8.93586,53.073193],
+  "bbox": [
+    8.93586,
+    53.073193,
+    8.93586,
+    53.073193
+],
   "geometry": {"coordinates":[8.93586,53.073193],"type":"Point"}
 }

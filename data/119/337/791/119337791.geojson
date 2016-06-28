@@ -2,13 +2,14 @@
   "id": 119337791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.646125,48.401096,9.646125,48.401096",
     "geom:latitude":48.401096,
     "geom:longitude":9.646125,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Bebel-Str. 10",
     "sg:city":"Schelklingen",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119337791,
-    "wof:lastmodified":1449042086,
+    "wof:lastmodified":1466239243,
     "wof:name":"Hugo Heuschmid",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.646125,48.401096,9.646125,48.401096],
+  "bbox": [
+    9.646125,
+    48.401096,
+    9.646125,
+    48.401096
+],
   "geometry": {"coordinates":[9.646125,48.401096],"type":"Point"}
 }

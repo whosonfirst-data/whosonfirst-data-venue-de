@@ -2,13 +2,14 @@
   "id": 119429591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.069401,49.220337,7.069401,49.220337",
     "geom:latitude":49.220337,
     "geom:longitude":7.069401,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 17",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794945,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85794945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119429591,
-    "wof:lastmodified":1449043416,
+    "wof:lastmodified":1466242497,
     "wof:name":"Fritz W\u00f6ffler",
     "wof:parent_id":85794945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.069401,49.220337,7.069401,49.220337],
+  "bbox": [
+    7.069401,
+    49.220337,
+    7.069401,
+    49.220337
+],
   "geometry": {"coordinates":[7.069401,49.220337],"type":"Point"}
 }

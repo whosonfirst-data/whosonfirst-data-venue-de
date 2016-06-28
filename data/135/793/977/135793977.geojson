@@ -2,13 +2,14 @@
   "id": 135793977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.090623,48.583,11.090623,48.583",
     "geom:latitude":48.583,
     "geom:longitude":11.090623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchenweg 1",
     "sg:city":"P\u00f6ttmes",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135793977,
-    "wof:lastmodified":1449022669,
+    "wof:lastmodified":1466244187,
     "wof:name":"Schmidt",
     "wof:parent_id":101784175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.090623,48.583,11.090623,48.583],
+  "bbox": [
+    11.090623,
+    48.583,
+    11.090623,
+    48.583
+],
   "geometry": {"coordinates":[11.090623,48.583],"type":"Point"}
 }

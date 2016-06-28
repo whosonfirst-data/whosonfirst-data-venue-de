@@ -2,13 +2,14 @@
   "id": 152956061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.253787,51.19471,7.253787,51.19471",
     "geom:latitude":51.19471,
     "geom:longitude":7.253787,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctringhauser Str. 13/15",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152956061,
-    "wof:lastmodified":1449045094,
+    "wof:lastmodified":1466230733,
     "wof:name":"Sws - Salomon Webmaster Service - Die 2. -",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.253787,51.19471,7.253787,51.19471],
+  "bbox": [
+    7.253787,
+    51.19471,
+    7.253787,
+    51.19471
+],
   "geometry": {"coordinates":[7.253787,51.19471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118514599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.51629,52.49947,13.51629,52.49947",
     "geom:latitude":52.49947,
     "geom:longitude":13.51629,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Berlin",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898993,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85898993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118514599,
-    "wof:lastmodified":1449053856,
+    "wof:lastmodified":1466213223,
     "wof:name":"Www.tauchshop.com",
     "wof:parent_id":85898993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.51629,52.49947,13.51629,52.49947],
+  "bbox": [
+    13.51629,
+    52.49947,
+    13.51629,
+    52.49947
+],
   "geometry": {"coordinates":[13.51629,52.49947],"type":"Point"}
 }

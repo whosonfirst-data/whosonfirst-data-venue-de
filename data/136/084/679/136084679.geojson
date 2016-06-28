@@ -2,13 +2,14 @@
   "id": 136084679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.317771,48.874065,2.317771,48.874065",
     "geom:latitude":48.874065,
     "geom:longitude":2.317771,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"30 rue Cambaceres",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"75008",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136084679,
-    "wof:lastmodified":1449075053,
+    "wof:lastmodified":1466216028,
     "wof:name":"Jeanpierredanel.com",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.317771,48.874065,2.317771,48.874065],
+  "bbox": [
+    2.317771,
+    48.874065,
+    2.317771,
+    48.874065
+],
   "geometry": {"coordinates":[2.317771,48.874065],"type":"Point"}
 }

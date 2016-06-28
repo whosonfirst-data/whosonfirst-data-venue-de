@@ -2,13 +2,14 @@
   "id": 118626425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.404032,51.328175,12.404032,51.328175",
     "geom:latitude":51.328175,
     "geom:longitude":12.404032,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riebeckstr. 37",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899109,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118626425,
-    "wof:lastmodified":1449054538,
+    "wof:lastmodified":1466219790,
     "wof:name":"Feierabendheim",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.404032,51.328175,12.404032,51.328175],
+  "bbox": [
+    12.404032,
+    51.328175,
+    12.404032,
+    51.328175
+],
   "geometry": {"coordinates":[12.404032,51.328175],"type":"Point"}
 }

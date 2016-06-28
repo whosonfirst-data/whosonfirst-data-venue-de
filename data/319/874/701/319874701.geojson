@@ -2,13 +2,14 @@
   "id": 319874701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.539104,52.526501,13.539104,52.526501",
     "geom:latitude":52.526501,
     "geom:longitude":13.539104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Helene-Weigel-Platz 3",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":319874701,
-    "wof:lastmodified":1449024841,
+    "wof:lastmodified":1466233726,
     "wof:name":"Kaufcenter",
     "wof:parent_id":85905651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.539104,52.526501,13.539104,52.526501],
+  "bbox": [
+    13.539104,
+    52.526501,
+    13.539104,
+    52.526501
+],
   "geometry": {"coordinates":[13.539104,52.526501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118649271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.103031,49.328873,12.103031,49.328873",
     "geom:latitude":49.328873,
     "geom:longitude":12.103031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenhartstr. 2",
     "sg:city":"Schwandorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118649271,
-    "wof:lastmodified":1449054096,
+    "wof:lastmodified":1466221063,
     "wof:name":"Marienheim",
     "wof:parent_id":101780749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.103031,49.328873,12.103031,49.328873],
+  "bbox": [
+    12.103031,
+    49.328873,
+    12.103031,
+    49.328873
+],
   "geometry": {"coordinates":[12.103031,49.328873],"type":"Point"}
 }

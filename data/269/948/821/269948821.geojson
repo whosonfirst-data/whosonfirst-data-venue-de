@@ -2,13 +2,14 @@
   "id": 269948821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.441011,51.312443,9.441011,51.312443",
     "geom:latitude":51.312443,
     "geom:longitude":9.441011,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrich-Naumann-Str. 9",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269948821,
-    "wof:lastmodified":1449038336,
+    "wof:lastmodified":1466231896,
     "wof:name":"G. Aschenbrenner",
     "wof:parent_id":85905691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.441011,51.312443,9.441011,51.312443],
+  "bbox": [
+    9.441011,
+    51.312443,
+    9.441011,
+    51.312443
+],
   "geometry": {"coordinates":[9.441011,51.312443],"type":"Point"}
 }

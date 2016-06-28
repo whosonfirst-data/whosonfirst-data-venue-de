@@ -2,13 +2,14 @@
   "id": 135924167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.094631,51.168594,7.094631,51.168594",
     "geom:latitude":51.168594,
     "geom:longitude":7.094631,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Felder Str. 66-68",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85795697
+        85633111,
+        85795697,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135924167,
-    "wof:lastmodified":1449021844,
+    "wof:lastmodified":1466244611,
     "wof:name":"Karl Peters Beteiligungs-gmbh",
     "wof:parent_id":85795697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.094631,51.168594,7.094631,51.168594],
+  "bbox": [
+    7.094631,
+    51.168594,
+    7.094631,
+    51.168594
+],
   "geometry": {"coordinates":[7.094631,51.168594],"type":"Point"}
 }

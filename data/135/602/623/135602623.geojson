@@ -2,13 +2,14 @@
   "id": 135602623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.119668,50.818378,7.119668,50.818378",
     "geom:latitude":50.818378,
     "geom:longitude":7.119668,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Godesberger Str. 26",
     "sg:city":"Troisdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135602623,
-    "wof:lastmodified":1449022434,
+    "wof:lastmodified":1466239402,
     "wof:name":"H. Beyer",
     "wof:parent_id":101748607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.119668,50.818378,7.119668,50.818378],
+  "bbox": [
+    7.119668,
+    50.818378,
+    7.119668,
+    50.818378
+],
   "geometry": {"coordinates":[7.119668,50.818378],"type":"Point"}
 }

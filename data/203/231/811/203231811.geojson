@@ -2,13 +2,14 @@
   "id": 203231811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.199924,52.22031,11.199924,52.22031",
     "geom:latitude":52.22031,
     "geom:longitude":11.199924,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 62",
     "sg:city":"Eimersleben",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203231811,
-    "wof:lastmodified":1449025899,
+    "wof:lastmodified":1466217740,
     "wof:name":"Martin Strentz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.199924,52.22031,11.199924,52.22031],
+  "bbox": [
+    11.199924,
+    52.22031,
+    11.199924,
+    52.22031
+],
   "geometry": {"coordinates":[11.199924,52.22031],"type":"Point"}
 }

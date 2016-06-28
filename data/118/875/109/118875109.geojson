@@ -2,13 +2,14 @@
   "id": 118875109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.112108,49.195457,8.112108,49.195457",
     "geom:latitude":49.195457,
     "geom:longitude":8.112108,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstr. 108",
     "sg:city":"Landau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118875109,
-    "wof:lastmodified":1449054186,
+    "wof:lastmodified":1466234378,
     "wof:name":"Beethoven-apotheke",
     "wof:parent_id":101760711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.112108,49.195457,8.112108,49.195457],
+  "bbox": [
+    8.112108,
+    49.195457,
+    8.112108,
+    49.195457
+],
   "geometry": {"coordinates":[8.112108,49.195457],"type":"Point"}
 }

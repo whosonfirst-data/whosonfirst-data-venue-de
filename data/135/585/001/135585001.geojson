@@ -2,13 +2,14 @@
   "id": 135585001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627317,50.386879,7.627317,50.386879",
     "geom:latitude":50.386879,
     "geom:longitude":7.627317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Deutschherrenstr. 81 b",
     "sg:city":"Vallendar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135585001,
-    "wof:lastmodified":1449023016,
+    "wof:lastmodified":1466238109,
     "wof:name":"Karl Friedrich",
     "wof:parent_id":101756431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627317,50.386879,7.627317,50.386879],
+  "bbox": [
+    7.627317,
+    50.386879,
+    7.627317,
+    50.386879
+],
   "geometry": {"coordinates":[7.627317,50.386879],"type":"Point"}
 }

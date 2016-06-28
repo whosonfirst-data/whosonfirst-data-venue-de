@@ -2,13 +2,14 @@
   "id": 119111735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.29774,52.511211,13.29774,52.511211",
     "geom:latitude":52.511211,
     "geom:longitude":13.29774,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 67",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900231,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119111735,
-    "wof:lastmodified":1449043595,
+    "wof:lastmodified":1466221155,
     "wof:name":"Prof. Dr. Hardt-waltherr H\u00e4mer Architekt",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.29774,52.511211,13.29774,52.511211],
+  "bbox": [
+    13.29774,
+    52.511211,
+    13.29774,
+    52.511211
+],
   "geometry": {"coordinates":[13.29774,52.511211],"type":"Point"}
 }

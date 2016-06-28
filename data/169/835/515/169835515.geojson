@@ -2,13 +2,14 @@
   "id": 169835515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.230386,52.317745,10.230386,52.317745",
     "geom:latitude":52.317745,
     "geom:longitude":10.230386,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 12",
     "sg:city":"Peine",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169835515,
-    "wof:lastmodified":1449033159,
+    "wof:lastmodified":1466214043,
     "wof:name":"Kutzsche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.230386,52.317745,10.230386,52.317745],
+  "bbox": [
+    10.230386,
+    52.317745,
+    10.230386,
+    52.317745
+],
   "geometry": {"coordinates":[10.230386,52.317745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203179987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.040348,49.911205,8.040348,49.911205",
     "geom:latitude":49.911205,
     "geom:longitude":8.040348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstr. 12",
     "sg:city":"Nieder-Hilbersheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203179987,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466216883,
     "wof:name":"Karl Scherer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.040348,49.911205,8.040348,49.911205],
+  "bbox": [
+    8.040348,
+    49.911205,
+    8.040348,
+    49.911205
+],
   "geometry": {"coordinates":[8.040348,49.911205],"type":"Point"}
 }

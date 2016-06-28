@@ -2,13 +2,14 @@
   "id": 186533389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.573555,52.286182,10.573555,52.286182",
     "geom:latitude":52.286182,
     "geom:longitude":10.573555,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hungerkamp 4b",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186533389,
-    "wof:lastmodified":1449050212,
+    "wof:lastmodified":1466218927,
     "wof:name":"Secret Service Bernd Weferling",
     "wof:parent_id":85899947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.573555,52.286182,10.573555,52.286182],
+  "bbox": [
+    10.573555,
+    52.286182,
+    10.573555,
+    52.286182
+],
   "geometry": {"coordinates":[10.573555,52.286182],"type":"Point"}
 }

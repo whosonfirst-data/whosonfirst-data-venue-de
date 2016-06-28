@@ -2,13 +2,14 @@
   "id": 119526855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.839051,49.408123,8.839051,49.408123",
     "geom:latitude":49.408123,
     "geom:longitude":8.839051,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 2",
     "sg:city":"Neckarsteinach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119526855,
-    "wof:lastmodified":1449041594,
+    "wof:lastmodified":1466243916,
     "wof:name":"Georg Steigleder",
     "wof:parent_id":101815701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.839051,49.408123,8.839051,49.408123],
+  "bbox": [
+    8.839051,
+    49.408123,
+    8.839051,
+    49.408123
+],
   "geometry": {"coordinates":[8.839051,49.408123],"type":"Point"}
 }

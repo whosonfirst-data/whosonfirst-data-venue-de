@@ -2,13 +2,14 @@
   "id": 119005005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.635846,48.151192,11.635846,48.151192",
     "geom:latitude":48.151192,
     "geom:longitude":11.635846,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Zuckmayer-Str. 13",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899143,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119005005,
-    "wof:lastmodified":1449043324,
+    "wof:lastmodified":1466214101,
     "wof:name":"Ernst Myrenne Architekt",
     "wof:parent_id":85899143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.635846,48.151192,11.635846,48.151192],
+  "bbox": [
+    11.635846,
+    48.151192,
+    11.635846,
+    48.151192
+],
   "geometry": {"coordinates":[11.635846,48.151192],"type":"Point"}
 }

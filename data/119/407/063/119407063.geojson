@@ -2,13 +2,14 @@
   "id": 119407063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.156397,51.553238,7.156397,51.553238",
     "geom:latitude":51.553238,
     "geom:longitude":7.156397,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohewardstr. 348b",
     "sg:city":"Herten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795037,
+        85682513,
         85633111,
         101748711,
         102063797,
-        85682513
+        85795037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119407063,
-    "wof:lastmodified":1449042328,
+    "wof:lastmodified":1466241574,
     "wof:name":"Schreinerei Knoop Gmbh",
     "wof:parent_id":85795037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.156397,51.553238,7.156397,51.553238],
+  "bbox": [
+    7.156397,
+    51.553238,
+    7.156397,
+    51.553238
+],
   "geometry": {"coordinates":[7.156397,51.553238],"type":"Point"}
 }

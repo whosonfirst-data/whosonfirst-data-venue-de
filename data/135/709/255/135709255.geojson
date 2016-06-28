@@ -2,13 +2,14 @@
   "id": 135709255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.441956,51.180634,6.441956,51.180634",
     "geom:latitude":51.180634,
     "geom:longitude":6.441956,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Wagner-Str. 88a",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795431,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85795431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135709255,
-    "wof:lastmodified":1449021577,
+    "wof:lastmodified":1466242684,
     "wof:name":"2 Plus Projekt 11 Gmbh",
     "wof:parent_id":85795431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.441956,51.180634,6.441956,51.180634],
+  "bbox": [
+    6.441956,
+    51.180634,
+    6.441956,
+    51.180634
+],
   "geometry": {"coordinates":[6.441956,51.180634],"type":"Point"}
 }

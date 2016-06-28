@@ -2,13 +2,14 @@
   "id": 136200047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.678542,51.043667,13.678542,51.043667",
     "geom:latitude":51.043667,
     "geom:longitude":13.678542,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amalie-Dietrich-Platz 3",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136200047,
-    "wof:lastmodified":1449075451,
+    "wof:lastmodified":1466221197,
     "wof:name":"E. Richter",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.678542,51.043667,13.678542,51.043667],
+  "bbox": [
+    13.678542,
+    51.043667,
+    13.678542,
+    51.043667
+],
   "geometry": {"coordinates":[13.678542,51.043667],"type":"Point"}
 }

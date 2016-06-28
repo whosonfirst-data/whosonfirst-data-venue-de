@@ -2,13 +2,14 @@
   "id": 135654947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.732517,50.107262,8.732517,50.107262",
     "geom:latitude":50.107262,
     "geom:longitude":8.732517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strahlenbergerstr. 123",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135654947,
-    "wof:lastmodified":1449022020,
+    "wof:lastmodified":1466240998,
     "wof:name":"Dbm Dogiel Bau Montage F\u00fcr Fertigteile Gmbh",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.732517,50.107262,8.732517,50.107262],
+  "bbox": [
+    8.732517,
+    50.107262,
+    8.732517,
+    50.107262
+],
   "geometry": {"coordinates":[8.732517,50.107262],"type":"Point"}
 }

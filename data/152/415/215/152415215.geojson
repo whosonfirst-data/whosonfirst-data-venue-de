@@ -2,13 +2,14 @@
   "id": 152415215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.92734,51.478638,6.92734,51.478638",
     "geom:latitude":51.478638,
     "geom:longitude":6.92734,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reuenberg 47b",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863111,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85863111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152415215,
-    "wof:lastmodified":1449047631,
+    "wof:lastmodified":1466218450,
     "wof:name":"Clemens Leggewie",
     "wof:parent_id":85863111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.92734,51.478638,6.92734,51.478638],
+  "bbox": [
+    6.92734,
+    51.478638,
+    6.92734,
+    51.478638
+],
   "geometry": {"coordinates":[6.92734,51.478638],"type":"Point"}
 }

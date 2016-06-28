@@ -2,13 +2,14 @@
   "id": 118656119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.412478,48.768005,11.412478,48.768005",
     "geom:latitude":48.768005,
     "geom:longitude":11.412478,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Westliche Ringstr. 5",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900055,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85900055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118656119,
-    "wof:lastmodified":1449054058,
+    "wof:lastmodified":1466221413,
     "wof:name":"Ev. Alten- Und Pflegeheim Bienengarten",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.412478,48.768005,11.412478,48.768005],
+  "bbox": [
+    11.412478,
+    48.768005,
+    11.412478,
+    48.768005
+],
   "geometry": {"coordinates":[11.412478,48.768005],"type":"Point"}
 }

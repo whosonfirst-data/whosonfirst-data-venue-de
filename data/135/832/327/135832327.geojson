@@ -2,13 +2,14 @@
   "id": 135832327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.325878,52.054058,10.325878,52.054058",
     "geom:latitude":52.054058,
     "geom:longitude":10.325878,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6lle 1",
     "sg:city":"Haverlah",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135832327,
-    "wof:lastmodified":1449020992,
+    "wof:lastmodified":1466244223,
     "wof:name":"Hermann Wolf",
     "wof:parent_id":101821171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.325878,52.054058,10.325878,52.054058],
+  "bbox": [
+    10.325878,
+    52.054058,
+    10.325878,
+    52.054058
+],
   "geometry": {"coordinates":[10.325878,52.054058],"type":"Point"}
 }

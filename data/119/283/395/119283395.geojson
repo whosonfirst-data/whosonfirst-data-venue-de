@@ -2,13 +2,14 @@
   "id": 119283395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.056188,52.400665,13.056188,52.400665",
     "geom:latitude":52.400665,
     "geom:longitude":13.056188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brandenburger Str. 47a",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928783,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85928783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119283395,
-    "wof:lastmodified":1449041562,
+    "wof:lastmodified":1466236787,
     "wof:name":"Fielmann Fielmann Gmbh & Co.",
     "wof:parent_id":85928783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.056188,52.400665,13.056188,52.400665],
+  "bbox": [
+    13.056188,
+    52.400665,
+    13.056188,
+    52.400665
+],
   "geometry": {"coordinates":[13.056188,52.400665],"type":"Point"}
 }

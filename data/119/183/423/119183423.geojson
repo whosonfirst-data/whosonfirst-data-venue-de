@@ -2,13 +2,14 @@
   "id": 119183423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.623061,48.061123,11.623061,48.061123",
     "geom:latitude":48.061123,
     "geom:longitude":11.623061,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafstr. 1",
     "sg:city":"Unterhaching",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119183423,
-    "wof:lastmodified":1449042276,
+    "wof:lastmodified":1466227253,
     "wof:name":"Roman Hopfinger Architekt",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.623061,48.061123,11.623061,48.061123],
+  "bbox": [
+    11.623061,
+    48.061123,
+    11.623061,
+    48.061123
+],
   "geometry": {"coordinates":[11.623061,48.061123],"type":"Point"}
 }

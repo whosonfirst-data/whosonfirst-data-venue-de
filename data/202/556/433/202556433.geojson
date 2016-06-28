@@ -2,13 +2,14 @@
   "id": 202556433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.434305,50.980801,12.434305,50.980801",
     "geom:latitude":50.980801,
     "geom:longitude":12.434305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Teichpromenade",
     "sg:city":"Altenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202556433,
-    "wof:lastmodified":1449060744,
+    "wof:lastmodified":1466216749,
     "wof:name":"Inselzoo Altenburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.434305,50.980801,12.434305,50.980801],
+  "bbox": [
+    12.434305,
+    50.980801,
+    12.434305,
+    50.980801
+],
   "geometry": {"coordinates":[12.434305,50.980801],"type":"Point"}
 }

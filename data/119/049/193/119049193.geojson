@@ -2,13 +2,14 @@
   "id": 119049193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.490756,48.139072,11.490756,48.139072",
     "geom:latitude":48.139072,
     "geom:longitude":11.490756,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geyerspergerstr. 22",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119049193,
-    "wof:lastmodified":1449042152,
+    "wof:lastmodified":1466215300,
     "wof:name":"Helmut Hoffmann Architekt",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.490756,48.139072,11.490756,48.139072],
+  "bbox": [
+    11.490756,
+    48.139072,
+    11.490756,
+    48.139072
+],
   "geometry": {"coordinates":[11.490756,48.139072],"type":"Point"}
 }

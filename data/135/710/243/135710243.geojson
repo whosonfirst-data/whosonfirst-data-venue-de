@@ -2,13 +2,14 @@
   "id": 135710243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.472794,48.168716,11.472794,48.168716",
     "geom:latitude":48.168716,
     "geom:longitude":11.472794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heerstr. 43 a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899851,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135710243,
-    "wof:lastmodified":1449021179,
+    "wof:lastmodified":1466242727,
     "wof:name":"Batarilo Wohnbau Gmbh",
     "wof:parent_id":85899851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.472794,48.168716,11.472794,48.168716],
+  "bbox": [
+    11.472794,
+    48.168716,
+    11.472794,
+    48.168716
+],
   "geometry": {"coordinates":[11.472794,48.168716],"type":"Point"}
 }

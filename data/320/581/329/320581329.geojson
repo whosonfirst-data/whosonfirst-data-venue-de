@@ -2,13 +2,14 @@
   "id": 320581329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.499232,49.460617,8.499232,49.460617",
     "geom:latitude":49.460617,
     "geom:longitude":8.499232,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfingstweidstr. 13",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320581329,
-    "wof:lastmodified":1449012044,
+    "wof:lastmodified":1466241695,
     "wof:name":"Wilhelm Westermann",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.499232,49.460617,8.499232,49.460617],
+  "bbox": [
+    8.499232,
+    49.460617,
+    8.499232,
+    49.460617
+],
   "geometry": {"coordinates":[8.499232,49.460617],"type":"Point"}
 }

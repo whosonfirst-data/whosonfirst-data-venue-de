@@ -2,13 +2,14 @@
   "id": 135579351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.775118,51.045433,13.775118,51.045433",
     "geom:latitude":51.045433,
     "geom:longitude":13.775118,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borsbergstr. 14",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900115,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85900115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135579351,
-    "wof:lastmodified":1449021970,
+    "wof:lastmodified":1466238016,
     "wof:name":"B & Ass E. K.",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.775118,51.045433,13.775118,51.045433],
+  "bbox": [
+    13.775118,
+    51.045433,
+    13.775118,
+    51.045433
+],
   "geometry": {"coordinates":[13.775118,51.045433],"type":"Point"}
 }

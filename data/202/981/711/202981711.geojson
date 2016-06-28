@@ -2,13 +2,14 @@
   "id": 202981711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.149739,48.532291,12.149739,48.532291",
     "geom:latitude":48.532291,
     "geom:longitude":12.149739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreifaltigkeitsplatz 3",
     "sg:city":"Landshut",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202981711,
-    "wof:lastmodified":1449062702,
+    "wof:lastmodified":1466235352,
     "wof:name":"Fackelmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.149739,48.532291,12.149739,48.532291],
+  "bbox": [
+    12.149739,
+    48.532291,
+    12.149739,
+    48.532291
+],
   "geometry": {"coordinates":[12.149739,48.532291],"type":"Point"}
 }

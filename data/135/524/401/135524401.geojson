@@ -2,13 +2,14 @@
   "id": 135524401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.281599,49.98444,8.281599,49.98444",
     "geom:latitude":49.98444,
     "geom:longitude":8.281599,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fliednerstr. 4",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135524401,
-    "wof:lastmodified":1449020955,
+    "wof:lastmodified":1466233851,
     "wof:name":"Hammer",
     "wof:parent_id":101748569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.281599,49.98444,8.281599,49.98444],
+  "bbox": [
+    8.281599,
+    49.98444,
+    8.281599,
+    49.98444
+],
   "geometry": {"coordinates":[8.281599,49.98444],"type":"Point"}
 }

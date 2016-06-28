@@ -2,13 +2,14 @@
   "id": 320365031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.521272,49.670887,6.521272,49.670887",
     "geom:latitude":49.670887,
     "geom:longitude":6.521272,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mannebacher Str. 17a",
     "sg:city":"Tawern",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320365031,
-    "wof:lastmodified":1449011857,
+    "wof:lastmodified":1466239702,
     "wof:name":"P. Schmitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.521272,49.670887,6.521272,49.670887],
+  "bbox": [
+    6.521272,
+    49.670887,
+    6.521272,
+    49.670887
+],
   "geometry": {"coordinates":[6.521272,49.670887],"type":"Point"}
 }

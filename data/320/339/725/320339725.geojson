@@ -2,13 +2,14 @@
   "id": 320339725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.269498,51.462898,12.269498,51.462898",
     "geom:latitude":51.462898,
     "geom:longitude":12.269498,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Str. 19",
     "sg:city":"Zwochau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320339725,
-    "wof:lastmodified":1449012918,
+    "wof:lastmodified":1466239517,
     "wof:name":"Klaus Karbe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.269498,51.462898,12.269498,51.462898],
+  "bbox": [
+    12.269498,
+    51.462898,
+    12.269498,
+    51.462898
+],
   "geometry": {"coordinates":[12.269498,51.462898],"type":"Point"}
 }

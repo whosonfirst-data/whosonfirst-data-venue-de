@@ -2,13 +2,14 @@
   "id": 136163885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.731071,33.607121,-117.731071,33.607121",
     "geom:latitude":33.607121,
     "geom:longitude":-117.731071,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Baumannplatz",
     "sg:city":"Weiden i.d.Opf.",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85886241,
+        85688637,
         85633793,
         85923169,
         102080847,
-        85688637
+        85886241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136163885,
-    "wof:lastmodified":1449076253,
+    "wof:lastmodified":1466219442,
     "wof:name":"Hls Weiden-almesbach",
     "wof:parent_id":85886241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.731071,33.607121,-117.731071,33.607121],
+  "bbox": [
+    -117.731071,
+    33.607121,
+    -117.731071,
+    33.607121
+],
   "geometry": {"coordinates":[-117.731071,33.607121],"type":"Point"}
 }

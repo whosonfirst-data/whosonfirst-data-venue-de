@@ -2,13 +2,14 @@
   "id": 303077551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.659499,49.535912,8.659499,49.535912",
     "geom:latitude":49.535912,
     "geom:longitude":8.659499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdliche Bergstr. 18",
     "sg:city":"Weinheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303077551,
-    "wof:lastmodified":1448998506,
+    "wof:lastmodified":1466226433,
     "wof:name":"Hugo Klinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.659499,49.535912,8.659499,49.535912],
+  "bbox": [
+    8.659499,
+    49.535912,
+    8.659499,
+    49.535912
+],
   "geometry": {"coordinates":[8.659499,49.535912],"type":"Point"}
 }

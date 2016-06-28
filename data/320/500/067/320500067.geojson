@@ -2,13 +2,14 @@
   "id": 320500067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.738449,51.178722,7.738449,51.178722",
     "geom:latitude":51.178722,
     "geom:longitude":7.738449,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcdenscheider Str. 28",
     "sg:city":"Herscheid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320500067,
-    "wof:lastmodified":1449012191,
+    "wof:lastmodified":1466240885,
     "wof:name":"Gemeinschaftshalle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.738449,51.178722,7.738449,51.178722],
+  "bbox": [
+    7.738449,
+    51.178722,
+    7.738449,
+    51.178722
+],
   "geometry": {"coordinates":[7.738449,51.178722],"type":"Point"}
 }

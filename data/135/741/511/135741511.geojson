@@ -2,13 +2,14 @@
   "id": 135741511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.277676,47.408489,10.277676,47.408489",
     "geom:latitude":47.408489,
     "geom:longitude":10.277676,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 4",
     "sg:city":"Oberstdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135741511,
-    "wof:lastmodified":1449021149,
+    "wof:lastmodified":1466243416,
     "wof:name":"Hoyer",
     "wof:parent_id":101826681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.277676,47.408489,10.277676,47.408489],
+  "bbox": [
+    10.277676,
+    47.408489,
+    10.277676,
+    47.408489
+],
   "geometry": {"coordinates":[10.277676,47.408489],"type":"Point"}
 }

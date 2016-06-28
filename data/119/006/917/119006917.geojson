@@ -2,13 +2,14 @@
   "id": 119006917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.513487,52.025028,8.513487,52.025028",
     "geom:latitude":52.025028,
     "geom:longitude":8.513487,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wertherstr. 99 d",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119006917,
-    "wof:lastmodified":1449042984,
+    "wof:lastmodified":1466214533,
     "wof:name":"Evelyn Spilker Innenarchitektin",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.513487,52.025028,8.513487,52.025028],
+  "bbox": [
+    8.513487,
+    52.025028,
+    8.513487,
+    52.025028
+],
   "geometry": {"coordinates":[8.513487,52.025028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320482483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.046031,51.549931,12.046031,51.549931",
     "geom:latitude":51.549931,
     "geom:longitude":12.046031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeppelin-Ring 6",
     "sg:city":"Oppin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320482483,
-    "wof:lastmodified":1449012599,
+    "wof:lastmodified":1466240812,
     "wof:name":"Liebig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.046031,51.549931,12.046031,51.549931],
+  "bbox": [
+    12.046031,
+    51.549931,
+    12.046031,
+    51.549931
+],
   "geometry": {"coordinates":[12.046031,51.549931],"type":"Point"}
 }

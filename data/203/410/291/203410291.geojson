@@ -2,13 +2,14 @@
   "id": 203410291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.068912,49.469707,11.068912,49.469707",
     "geom:latitude":49.469707,
     "geom:longitude":11.068912,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nordring 3",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203410291,
-    "wof:lastmodified":1449024968,
+    "wof:lastmodified":1466220684,
     "wof:name":"Gottlieb Eigl",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.068912,49.469707,11.068912,49.469707],
+  "bbox": [
+    11.068912,
+    49.469707,
+    11.068912,
+    49.469707
+],
   "geometry": {"coordinates":[11.068912,49.469707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118974657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.194111,48.766514,9.194111,48.766514",
     "geom:latitude":48.766514,
     "geom:longitude":9.194111,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard-Wagner-Str. 89",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118974657,
-    "wof:lastmodified":1449054364,
+    "wof:lastmodified":1466238707,
     "wof:name":"Anke Lohmiller Architektin",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.194111,48.766514,9.194111,48.766514],
+  "bbox": [
+    9.194111,
+    48.766514,
+    9.194111,
+    48.766514
+],
   "geometry": {"coordinates":[9.194111,48.766514],"type":"Point"}
 }

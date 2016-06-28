@@ -2,13 +2,14 @@
   "id": 152708621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.609126,48.148312,11.609126,48.148312",
     "geom:latitude":48.148312,
     "geom:longitude":11.609126,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehrlestr. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152708621,
-    "wof:lastmodified":1449045032,
+    "wof:lastmodified":1466224856,
     "wof:name":"Lantano Bodenspeicher Gmbh & Co. Kg",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.609126,48.148312,11.609126,48.148312],
+  "bbox": [
+    11.609126,
+    48.148312,
+    11.609126,
+    48.148312
+],
   "geometry": {"coordinates":[11.609126,48.148312],"type":"Point"}
 }

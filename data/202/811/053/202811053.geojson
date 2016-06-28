@@ -2,13 +2,14 @@
   "id": 202811053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.629994,50.753197,12.629994,50.753197",
     "geom:latitude":50.753197,
     "geom:longitude":12.629994,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr. 11",
     "sg:city":"Lichtenstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202811053,
-    "wof:lastmodified":1449061350,
+    "wof:lastmodified":1466221423,
     "wof:name":"Martin Schmiedel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.629994,50.753197,12.629994,50.753197],
+  "bbox": [
+    12.629994,
+    50.753197,
+    12.629994,
+    50.753197
+],
   "geometry": {"coordinates":[12.629994,50.753197],"type":"Point"}
 }

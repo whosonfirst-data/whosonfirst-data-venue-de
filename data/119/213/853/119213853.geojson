@@ -2,13 +2,14 @@
   "id": 119213853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.12479,51.446018,7.12479,51.446018",
     "geom:latitude":51.446018,
     "geom:longitude":7.12479,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schultenweg 135",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063787,
-        85633111,
         85682513,
-        85796509
+        85633111,
+        85796509,
+        102063787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119213853,
-    "wof:lastmodified":1449040909,
+    "wof:lastmodified":1466230064,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek Heilige Dreifaltigkeit",
     "wof:parent_id":85796509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.12479,51.446018,7.12479,51.446018],
+  "bbox": [
+    7.12479,
+    51.446018,
+    7.12479,
+    51.446018
+],
   "geometry": {"coordinates":[7.12479,51.446018],"type":"Point"}
 }

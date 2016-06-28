@@ -2,13 +2,14 @@
   "id": 136199119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.650555,50.450199,11.650555,50.450199",
     "geom:latitude":50.450199,
     "geom:longitude":11.650555,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langer Weg 9",
     "sg:city":"Lobenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136199119,
-    "wof:lastmodified":1449075034,
+    "wof:lastmodified":1466221136,
     "wof:name":"E. Barth",
     "wof:parent_id":101824565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.650555,50.450199,11.650555,50.450199],
+  "bbox": [
+    11.650555,
+    50.450199,
+    11.650555,
+    50.450199
+],
   "geometry": {"coordinates":[11.650555,50.450199],"type":"Point"}
 }

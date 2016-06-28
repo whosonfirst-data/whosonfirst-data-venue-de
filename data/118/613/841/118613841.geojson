@@ -2,13 +2,14 @@
   "id": 118613841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.128453,50.752598,7.128453,50.752598",
     "geom:latitude":50.752598,
     "geom:longitude":7.128453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adelheidisstr. 10",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063661,
-        85633111,
         85682513,
-        85796655
+        85633111,
+        85796655,
+        102063661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118613841,
-    "wof:lastmodified":1449053794,
+    "wof:lastmodified":1466235222,
     "wof:name":"Adelheidis-stift",
     "wof:parent_id":85796655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.128453,50.752598,7.128453,50.752598],
+  "bbox": [
+    7.128453,
+    50.752598,
+    7.128453,
+    50.752598
+],
   "geometry": {"coordinates":[7.128453,50.752598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270421043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.835587,49.308884,12.835587,49.308884",
     "geom:latitude":49.308884,
     "geom:longitude":12.835587,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeppelinstr. 12",
     "sg:city":"Weilheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270421043,
-    "wof:lastmodified":1449010219,
+    "wof:lastmodified":1466231585,
     "wof:name":"Georg Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.835587,49.308884,12.835587,49.308884],
+  "bbox": [
+    12.835587,
+    49.308884,
+    12.835587,
+    49.308884
+],
   "geometry": {"coordinates":[12.835587,49.308884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119258497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.453662,52.542271,13.453662,52.542271",
     "geom:latitude":52.542271,
     "geom:longitude":13.453662,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Michelangelostr. 95",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928747,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119258497,
-    "wof:lastmodified":1449042953,
+    "wof:lastmodified":1466234473,
     "wof:name":"Dr. Med. Dorothea Kramm",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.453662,52.542271,13.453662,52.542271],
+  "bbox": [
+    13.453662,
+    52.542271,
+    13.453662,
+    52.542271
+],
   "geometry": {"coordinates":[13.453662,52.542271],"type":"Point"}
 }

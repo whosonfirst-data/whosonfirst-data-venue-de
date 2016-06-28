@@ -2,13 +2,14 @@
   "id": 303446795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.009298,48.398666,10.009298,48.398666",
     "geom:latitude":48.398666,
     "geom:longitude":10.009298,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Offenhauser Str. 11",
     "sg:city":"Neu-Ulm",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303446795,
-    "wof:lastmodified":1449000358,
+    "wof:lastmodified":1466235480,
     "wof:name":"Bernd Hagenmaier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.009298,48.398666,10.009298,48.398666],
+  "bbox": [
+    10.009298,
+    48.398666,
+    10.009298,
+    48.398666
+],
   "geometry": {"coordinates":[10.009298,48.398666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119162411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.006127,49.649761,11.006127,49.649761",
     "geom:latitude":49.649761,
     "geom:longitude":11.006127,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Anger 9",
     "sg:city":"M\u00f6hrendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119162411,
-    "wof:lastmodified":1449043138,
+    "wof:lastmodified":1466225255,
     "wof:name":"Wolfhardt Haselmann",
     "wof:parent_id":101826971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.006127,49.649761,11.006127,49.649761],
+  "bbox": [
+    11.006127,
+    49.649761,
+    11.006127,
+    49.649761
+],
   "geometry": {"coordinates":[11.006127,49.649761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118608611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.476255,48.264542,11.476255,48.264542",
     "geom:latitude":48.264542,
     "geom:longitude":11.476255,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str 12",
     "sg:city":"Dachau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118608611,
-    "wof:lastmodified":1449053735,
+    "wof:lastmodified":1466218727,
     "wof:name":"Studio B Andreas Beck",
     "wof:parent_id":101785371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.476255,48.264542,11.476255,48.264542],
+  "bbox": [
+    11.476255,
+    48.264542,
+    11.476255,
+    48.264542
+],
   "geometry": {"coordinates":[11.476255,48.264542],"type":"Point"}
 }

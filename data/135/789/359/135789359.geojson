@@ -2,13 +2,14 @@
   "id": 135789359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.929441,50.016006,10.929441,50.016006",
     "geom:latitude":50.016006,
     "geom:longitude":10.929441,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bamberger Str. 20",
     "sg:city":"Zapfendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135789359,
-    "wof:lastmodified":1449022376,
+    "wof:lastmodified":1466244023,
     "wof:name":"M. Schmitt",
     "wof:parent_id":101825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.929441,50.016006,10.929441,50.016006],
+  "bbox": [
+    10.929441,
+    50.016006,
+    10.929441,
+    50.016006
+],
   "geometry": {"coordinates":[10.929441,50.016006],"type":"Point"}
 }

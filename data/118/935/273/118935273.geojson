@@ -2,13 +2,14 @@
   "id": 118935273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.372942,52.04657,10.372942,52.04657",
     "geom:latitude":52.04657,
     "geom:longitude":10.372942,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bohlweg 6",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899203,
+        85682555,
         85633111,
         101748779,
         102063885,
-        85682555
+        85899203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118935273,
-    "wof:lastmodified":1449054309,
+    "wof:lastmodified":1466237194,
     "wof:name":"Sieversche Apotheke",
     "wof:parent_id":85899203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.372942,52.04657,10.372942,52.04657],
+  "bbox": [
+    10.372942,
+    52.04657,
+    10.372942,
+    52.04657
+],
   "geometry": {"coordinates":[10.372942,52.04657],"type":"Point"}
 }

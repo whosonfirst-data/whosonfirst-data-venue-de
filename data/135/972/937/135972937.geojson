@@ -2,13 +2,14 @@
   "id": 135972937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.75578,51.501522,6.75578,51.501522",
     "geom:latitude":51.501522,
     "geom:longitude":6.75578,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser-Wilhelm-Str. 297",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796431,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85796431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135972937,
-    "wof:lastmodified":1449022526,
+    "wof:lastmodified":1466244855,
     "wof:name":"Elektro Dicksen Gmbh",
     "wof:parent_id":85796431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.75578,51.501522,6.75578,51.501522],
+  "bbox": [
+    6.75578,
+    51.501522,
+    6.75578,
+    51.501522
+],
   "geometry": {"coordinates":[6.75578,51.501522],"type":"Point"}
 }

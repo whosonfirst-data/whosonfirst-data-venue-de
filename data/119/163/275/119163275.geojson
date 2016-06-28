@@ -2,13 +2,14 @@
   "id": 119163275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.053109,53.609772,10.053109,53.609772",
     "geom:latitude":53.609772,
     "geom:longitude":10.053109,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcndgensstr. 18",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898949,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119163275,
-    "wof:lastmodified":1449043505,
+    "wof:lastmodified":1466225327,
     "wof:name":"Zwo.k Architekten",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.053109,53.609772,10.053109,53.609772],
+  "bbox": [
+    10.053109,
+    53.609772,
+    10.053109,
+    53.609772
+],
   "geometry": {"coordinates":[10.053109,53.609772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269592349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.159279,48.777267,9.159279,48.777267",
     "geom:latitude":48.777267,
     "geom:longitude":9.159279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Senefelderstr. 71 b",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269592349,
-    "wof:lastmodified":1449037508,
+    "wof:lastmodified":1466223400,
     "wof:name":"T. Ernst",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.159279,48.777267,9.159279,48.777267],
+  "bbox": [
+    9.159279,
+    48.777267,
+    9.159279,
+    48.777267
+],
   "geometry": {"coordinates":[9.159279,48.777267],"type":"Point"}
 }

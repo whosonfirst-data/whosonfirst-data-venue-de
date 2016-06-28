@@ -2,13 +2,14 @@
   "id": 286990581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545278,48.062115,8.545278,48.062115",
     "geom:latitude":48.062115,
     "geom:longitude":8.545278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstattstr. 24",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286990581,
-    "wof:lastmodified":1449017156,
+    "wof:lastmodified":1466239949,
     "wof:name":"Werner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545278,48.062115,8.545278,48.062115],
+  "bbox": [
+    8.545278,
+    48.062115,
+    8.545278,
+    48.062115
+],
   "geometry": {"coordinates":[8.545278,48.062115],"type":"Point"}
 }

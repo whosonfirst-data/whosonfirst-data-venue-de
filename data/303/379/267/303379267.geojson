@@ -2,13 +2,14 @@
   "id": 303379267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.486579,52.308037,10.486579,52.308037",
     "geom:latitude":52.308037,
     "geom:longitude":10.486579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waller Weg 93",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303379267,
-    "wof:lastmodified":1448999545,
+    "wof:lastmodified":1466233859,
     "wof:name":"W. Schuetz",
     "wof:parent_id":85905767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.486579,52.308037,10.486579,52.308037],
+  "bbox": [
+    10.486579,
+    52.308037,
+    10.486579,
+    52.308037
+],
   "geometry": {"coordinates":[10.486579,52.308037],"type":"Point"}
 }

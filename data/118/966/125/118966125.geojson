@@ -2,13 +2,14 @@
   "id": 118966125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.65399,51.025776,13.65399,51.025776",
     "geom:latitude":51.025776,
     "geom:longitude":13.65399,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergblick 4",
     "sg:city":"Pesterwitz",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064217,
-        85633111,
         85682523,
-        85898959
+        85633111,
+        85898959,
+        102064217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118966125,
-    "wof:lastmodified":1449053162,
+    "wof:lastmodified":1466238343,
     "wof:name":"Lutz Grohmann Garten- Und Landschafts-",
     "wof:parent_id":85898959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.65399,51.025776,13.65399,51.025776],
+  "bbox": [
+    13.65399,
+    51.025776,
+    13.65399,
+    51.025776
+],
   "geometry": {"coordinates":[13.65399,51.025776],"type":"Point"}
 }

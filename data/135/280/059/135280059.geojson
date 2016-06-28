@@ -2,13 +2,14 @@
   "id": 135280059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.570783,48.882385,12.570783,48.882385",
     "geom:latitude":48.882385,
     "geom:longitude":12.570783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fraunhoferstr. 3",
     "sg:city":"Straubing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135280059,
-    "wof:lastmodified":1449022499,
+    "wof:lastmodified":1466225362,
     "wof:name":"J. Steinleitner",
     "wof:parent_id":101783029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.570783,48.882385,12.570783,48.882385],
+  "bbox": [
+    12.570783,
+    48.882385,
+    12.570783,
+    48.882385
+],
   "geometry": {"coordinates":[12.570783,48.882385],"type":"Point"}
 }

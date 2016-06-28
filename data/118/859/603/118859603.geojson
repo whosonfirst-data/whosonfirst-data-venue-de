@@ -2,13 +2,14 @@
   "id": 118859603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.396857,49.049328,8.396857,49.049328",
     "geom:latitude":49.049328,
     "geom:longitude":8.396857,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Donauschwabenstr. 20",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
-        85862811
+        85633111,
+        85862811,
+        102063403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118859603,
-    "wof:lastmodified":1449054148,
+    "wof:lastmodified":1466233392,
     "wof:name":"Ahorn-apotheke Elisabeth K\u00f6hler E. K.",
     "wof:parent_id":85862811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.396857,49.049328,8.396857,49.049328],
+  "bbox": [
+    8.396857,
+    49.049328,
+    8.396857,
+    49.049328
+],
   "geometry": {"coordinates":[8.396857,49.049328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303109853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.159,49.745548,10.159,49.745548",
     "geom:latitude":49.745548,
     "geom:longitude":10.159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mainstockheimer Str. 19",
     "sg:city":"Kitzingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303109853,
-    "wof:lastmodified":1448998964,
+    "wof:lastmodified":1466227214,
     "wof:name":"Hans R\u00d6ser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.159,49.745548,10.159,49.745548],
+  "bbox": [
+    10.159,
+    49.745548,
+    10.159,
+    49.745548
+],
   "geometry": {"coordinates":[10.159,49.745548],"type":"Point"}
 }

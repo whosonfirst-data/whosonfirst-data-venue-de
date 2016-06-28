@@ -2,13 +2,14 @@
   "id": 270017169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.552532,48.147839,11.552532,48.147839",
     "geom:latitude":48.147839,
     "geom:longitude":11.552532,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pappenheimstr. 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270017169,
-    "wof:lastmodified":1449009943,
+    "wof:lastmodified":1466221764,
     "wof:name":"Ludwig Segenschmid",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.552532,48.147839,11.552532,48.147839],
+  "bbox": [
+    11.552532,
+    48.147839,
+    11.552532,
+    48.147839
+],
   "geometry": {"coordinates":[11.552532,48.147839],"type":"Point"}
 }

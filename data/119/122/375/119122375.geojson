@@ -2,13 +2,14 @@
   "id": 119122375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.064336,51.408657,7.064336,51.408657",
     "geom:latitude":51.408657,
     "geom:longitude":7.064336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostpreu\u00dfenstr. 41A",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795403,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119122375,
-    "wof:lastmodified":1449042372,
+    "wof:lastmodified":1466222076,
     "wof:name":"Rolf Butenberg Architekt",
     "wof:parent_id":85795403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.064336,51.408657,7.064336,51.408657],
+  "bbox": [
+    7.064336,
+    51.408657,
+    7.064336,
+    51.408657
+],
   "geometry": {"coordinates":[7.064336,51.408657],"type":"Point"}
 }

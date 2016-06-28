@@ -2,13 +2,14 @@
   "id": 303568333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.378442,52.505386,13.378442,52.505386",
     "geom:latitude":52.505386,
     "geom:longitude":13.378442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernburger Str. 10",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303568333,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466237491,
     "wof:name":"Synanon International E. V.",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.378442,52.505386,13.378442,52.505386],
+  "bbox": [
+    13.378442,
+    52.505386,
+    13.378442,
+    52.505386
+],
   "geometry": {"coordinates":[13.378442,52.505386],"type":"Point"}
 }

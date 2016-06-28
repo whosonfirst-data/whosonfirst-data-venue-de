@@ -2,13 +2,14 @@
   "id": 303510301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.709541,51.991413,7.709541,51.991413",
     "geom:latitude":51.991413,
     "geom:longitude":7.709541,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lammerbach 4",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303510301,
-    "wof:lastmodified":1448999592,
+    "wof:lastmodified":1466236849,
     "wof:name":"Barbara Krug Hebamme",
     "wof:parent_id":85795427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.709541,51.991413,7.709541,51.991413],
+  "bbox": [
+    7.709541,
+    51.991413,
+    7.709541,
+    51.991413
+],
   "geometry": {"coordinates":[7.709541,51.991413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119282921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.199973,51.226444,7.199973,51.226444",
     "geom:latitude":51.226444,
     "geom:longitude":7.199973,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcttringhauser Str. 13",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796007,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119282921,
-    "wof:lastmodified":1449042535,
+    "wof:lastmodified":1466236560,
     "wof:name":"B\u00fcchner Gmbh Brillen",
     "wof:parent_id":85796007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.199973,51.226444,7.199973,51.226444],
+  "bbox": [
+    7.199973,
+    51.226444,
+    7.199973,
+    51.226444
+],
   "geometry": {"coordinates":[7.199973,51.226444],"type":"Point"}
 }

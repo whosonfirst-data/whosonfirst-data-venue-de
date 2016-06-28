@@ -2,13 +2,14 @@
   "id": 252917003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.74531,49.508564,9.74531,49.508564",
     "geom:latitude":49.508564,
     "geom:longitude":9.74531,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str 17",
     "sg:city":"Zimmern",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252917003,
-    "wof:lastmodified":1449006369,
+    "wof:lastmodified":1466223043,
     "wof:name":"Serapid Deutschland Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.74531,49.508564,9.74531,49.508564],
+  "bbox": [
+    9.74531,
+    49.508564,
+    9.74531,
+    49.508564
+],
   "geometry": {"coordinates":[9.74531,49.508564],"type":"Point"}
 }

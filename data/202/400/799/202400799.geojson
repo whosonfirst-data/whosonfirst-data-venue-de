@@ -2,13 +2,14 @@
   "id": 202400799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.937043,48.475414,8.937043,48.475414",
     "geom:latitude":48.475414,
     "geom:longitude":8.937043,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterw\u00e4sser 18",
     "sg:city":"Rottenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202400799,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466213784,
     "wof:name":"Walter Edelmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.937043,48.475414,8.937043,48.475414],
+  "bbox": [
+    8.937043,
+    48.475414,
+    8.937043,
+    48.475414
+],
   "geometry": {"coordinates":[8.937043,48.475414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136123483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.369389,52.065861,9.369389,52.065861",
     "geom:latitude":52.065861,
     "geom:longitude":9.369389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stettiner Str.6",
     "sg:city":"Hameln",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":136123483,
-    "wof:lastmodified":1449075283,
+    "wof:lastmodified":1466217713,
     "wof:name":"Sg-servicegroup",
     "wof:parent_id":85682555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.369389,52.065861,9.369389,52.065861],
+  "bbox": [
+    9.369389,
+    52.065861,
+    9.369389,
+    52.065861
+],
   "geometry": {"coordinates":[9.369389,52.065861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119524301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.974017,50.986309,12.974017,50.986309",
     "geom:latitude":50.986309,
     "geom:longitude":12.974017,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rochlitzer Str. 80",
     "sg:city":"Mittweida",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119524301,
-    "wof:lastmodified":1449040864,
+    "wof:lastmodified":1466243715,
     "wof:name":"G. Blochberger",
     "wof:parent_id":101841281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.974017,50.986309,12.974017,50.986309],
+  "bbox": [
+    12.974017,
+    50.986309,
+    12.974017,
+    50.986309
+],
   "geometry": {"coordinates":[12.974017,50.986309],"type":"Point"}
 }

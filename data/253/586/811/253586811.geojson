@@ -2,13 +2,14 @@
   "id": 253586811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.88019,48.782429,12.88019,48.782429",
     "geom:latitude":48.782429,
     "geom:longitude":12.88019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Deggendorfer Str. 21",
     "sg:city":"Plattling",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253586811,
-    "wof:lastmodified":1449065437,
+    "wof:lastmodified":1466231111,
     "wof:name":"A. Eigner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.88019,48.782429,12.88019,48.782429],
+  "bbox": [
+    12.88019,
+    48.782429,
+    12.88019,
+    48.782429
+],
   "geometry": {"coordinates":[12.88019,48.782429],"type":"Point"}
 }

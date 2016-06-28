@@ -2,13 +2,14 @@
   "id": 304026245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.4955,51.317989,9.4955,51.317989",
     "geom:latitude":51.317989,
     "geom:longitude":9.4955,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spohrstr. 9",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":304026245,
-    "wof:lastmodified":1449043943,
+    "wof:lastmodified":1466231475,
     "wof:name":"Wohnen Und Ideen",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.4955,51.317989,9.4955,51.317989],
+  "bbox": [
+    9.4955,
+    51.317989,
+    9.4955,
+    51.317989
+],
   "geometry": {"coordinates":[9.4955,51.317989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135306755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62507,50.37075,7.62507,50.37075",
     "geom:latitude":50.37075,
     "geom:longitude":7.62507,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arenberger Str. 157",
     "sg:city":"Koblenz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135306755,
-    "wof:lastmodified":1449023862,
+    "wof:lastmodified":1466214352,
     "wof:name":"Peter Dietz",
     "wof:parent_id":101751761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62507,50.37075,7.62507,50.37075],
+  "bbox": [
+    7.62507,
+    50.37075,
+    7.62507,
+    50.37075
+],
   "geometry": {"coordinates":[7.62507,50.37075],"type":"Point"}
 }

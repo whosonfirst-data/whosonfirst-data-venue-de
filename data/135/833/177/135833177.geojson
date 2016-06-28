@@ -2,13 +2,14 @@
   "id": 135833177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.685001,48.765614,11.685001,48.765614",
     "geom:latitude":48.765614,
     "geom:longitude":11.685001,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00f6hrer Str. 13",
     "sg:city":"M\u00fcnchsm\u00fcnster",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135833177,
-    "wof:lastmodified":1449021374,
+    "wof:lastmodified":1466244211,
     "wof:name":"Johann Bauer",
     "wof:parent_id":101782997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.685001,48.765614,11.685001,48.765614],
+  "bbox": [
+    11.685001,
+    48.765614,
+    11.685001,
+    48.765614
+],
   "geometry": {"coordinates":[11.685001,48.765614],"type":"Point"}
 }

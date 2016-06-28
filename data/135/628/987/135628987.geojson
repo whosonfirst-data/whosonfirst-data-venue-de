@@ -2,13 +2,14 @@
   "id": 135628987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.00074,52.423111,13.00074,52.423111",
     "geom:latitude":52.423111,
     "geom:longitude":13.00074,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der B 273 (Marquardter Chaussee)",
     "sg:city":"Potsdam-Bornim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063931,
-        85633111,
         85682553,
-        85899027
+        85633111,
+        85899027,
+        102063931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135628987,
-    "wof:lastmodified":1449023445,
+    "wof:lastmodified":1466240479,
     "wof:name":"Mgm Recycling Gmbh",
     "wof:parent_id":85899027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.00074,52.423111,13.00074,52.423111],
+  "bbox": [
+    13.00074,
+    52.423111,
+    13.00074,
+    52.423111
+],
   "geometry": {"coordinates":[13.00074,52.423111],"type":"Point"}
 }

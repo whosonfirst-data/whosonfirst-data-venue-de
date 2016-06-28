@@ -2,13 +2,14 @@
   "id": 135521255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.101926,52.397148,13.101926,52.397148",
     "geom:latitude":52.397148,
     "geom:longitude":13.101926,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Semmelweisstr. 45",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899365,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85899365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135521255,
-    "wof:lastmodified":1449023849,
+    "wof:lastmodified":1466233573,
     "wof:name":"Emso M\u00e4rkische Sozialbauten Gmbh",
     "wof:parent_id":85899365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.101926,52.397148,13.101926,52.397148],
+  "bbox": [
+    13.101926,
+    52.397148,
+    13.101926,
+    52.397148
+],
   "geometry": {"coordinates":[13.101926,52.397148],"type":"Point"}
 }

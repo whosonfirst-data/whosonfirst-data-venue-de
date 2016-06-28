@@ -2,13 +2,14 @@
   "id": 270441163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.353918,49.045734,11.353918,49.045734",
     "geom:latitude":49.045734,
     "geom:longitude":11.353918,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 22",
     "sg:city":"Greding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270441163,
-    "wof:lastmodified":1449008839,
+    "wof:lastmodified":1466232140,
     "wof:name":"Albert Benz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.353918,49.045734,11.353918,49.045734],
+  "bbox": [
+    11.353918,
+    49.045734,
+    11.353918,
+    49.045734
+],
   "geometry": {"coordinates":[11.353918,49.045734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320228381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.034781,49.428783,11.034781,49.428783",
     "geom:latitude":49.428783,
     "geom:longitude":11.034781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dieselstr. 55",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320228381,
-    "wof:lastmodified":1449012437,
+    "wof:lastmodified":1466237816,
     "wof:name":"Thyssen Krupp Materials Ag",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.034781,49.428783,11.034781,49.428783],
+  "bbox": [
+    11.034781,
+    49.428783,
+    11.034781,
+    49.428783
+],
   "geometry": {"coordinates":[11.034781,49.428783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152464611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.124819,53.643822,10.124819,53.643822",
     "geom:latitude":53.643822,
     "geom:longitude":10.124819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meiendorfer M\u00fchlenweg 21",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898999,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152464611,
-    "wof:lastmodified":1449045547,
+    "wof:lastmodified":1466219463,
     "wof:name":"Beteiligungsges. Medikal Med. San. Sonderanf.-gmbh",
     "wof:parent_id":85898999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.124819,53.643822,10.124819,53.643822],
+  "bbox": [
+    10.124819,
+    53.643822,
+    10.124819,
+    53.643822
+],
   "geometry": {"coordinates":[10.124819,53.643822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119220797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616034,51.499046,7.616034,51.499046",
     "geom:latitude":51.499046,
     "geom:longitude":7.616034,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 51",
     "sg:city":"Holzwickede",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796735,
+        85682513,
         85633111,
         101756023,
         102063823,
-        85682513
+        85796735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119220797,
-    "wof:lastmodified":1449043463,
+    "wof:lastmodified":1466230716,
     "wof:name":"Kath. \u00f6ffentliche B\u00fccherei",
     "wof:parent_id":85796735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.616034,51.499046,7.616034,51.499046],
+  "bbox": [
+    7.616034,
+    51.499046,
+    7.616034,
+    51.499046
+],
   "geometry": {"coordinates":[7.616034,51.499046],"type":"Point"}
 }

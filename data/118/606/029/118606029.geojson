@@ -2,13 +2,14 @@
   "id": 118606029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.606925,50.893639,11.606925,50.893639",
     "geom:latitude":50.893639,
     "geom:longitude":11.606925,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Struvestr 2",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118606029,
-    "wof:lastmodified":1449053360,
+    "wof:lastmodified":1466218551,
     "wof:name":"Karl-heinz Wehr",
     "wof:parent_id":101748613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.606925,50.893639,11.606925,50.893639],
+  "bbox": [
+    11.606925,
+    50.893639,
+    11.606925,
+    50.893639
+],
   "geometry": {"coordinates":[11.606925,50.893639],"type":"Point"}
 }

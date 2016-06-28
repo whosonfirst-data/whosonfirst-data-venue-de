@@ -2,13 +2,14 @@
   "id": 119256841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.978759,51.494614,11.978759,51.494614",
     "geom:latitude":51.494614,
     "geom:longitude":11.978759,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wielandstr. 4",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119256841,
-    "wof:lastmodified":1449042875,
+    "wof:lastmodified":1466234287,
     "wof:name":"Dr. Med. Annette F\u00fcrst",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.978759,51.494614,11.978759,51.494614],
+  "bbox": [
+    11.978759,
+    51.494614,
+    11.978759,
+    51.494614
+],
   "geometry": {"coordinates":[11.978759,51.494614],"type":"Point"}
 }

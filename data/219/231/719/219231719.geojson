@@ -2,13 +2,14 @@
   "id": 219231719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154158,51.224125,7.154158,51.224125",
     "geom:latitude":51.224125,
     "geom:longitude":7.154158,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6rresweg 64",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219231719,
-    "wof:lastmodified":1449072188,
+    "wof:lastmodified":1466215688,
     "wof:name":"Hans Kray",
     "wof:parent_id":85796159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154158,51.224125,7.154158,51.224125],
+  "bbox": [
+    7.154158,
+    51.224125,
+    7.154158,
+    51.224125
+],
   "geometry": {"coordinates":[7.154158,51.224125],"type":"Point"}
 }

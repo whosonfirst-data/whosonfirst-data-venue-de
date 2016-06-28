@@ -2,13 +2,14 @@
   "id": 202379657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.59712,52.098549,11.59712,52.098549",
     "geom:latitude":52.098549,
     "geom:longitude":11.59712,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Blankenburger Str. 1",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202379657,
-    "wof:lastmodified":1449061590,
+    "wof:lastmodified":1466213405,
     "wof:name":"Uwe Hartmann",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.59712,52.098549,11.59712,52.098549],
+  "bbox": [
+    11.59712,
+    52.098549,
+    11.59712,
+    52.098549
+],
   "geometry": {"coordinates":[11.59712,52.098549],"type":"Point"}
 }

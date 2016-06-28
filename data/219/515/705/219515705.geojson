@@ -2,13 +2,14 @@
   "id": 219515705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.287251,52.433002,13.287251,52.433002",
     "geom:latitude":52.433002,
     "geom:longitude":13.287251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 50",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219515705,
-    "wof:lastmodified":1449071213,
+    "wof:lastmodified":1466220780,
     "wof:name":"Karl Wetzstein Gmbh",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.287251,52.433002,13.287251,52.433002],
+  "bbox": [
+    13.287251,
+    52.433002,
+    13.287251,
+    52.433002
+],
   "geometry": {"coordinates":[13.287251,52.433002],"type":"Point"}
 }

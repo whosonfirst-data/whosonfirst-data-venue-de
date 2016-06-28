@@ -2,13 +2,14 @@
   "id": 286372291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.582798,48.884483,12.582798,48.884483",
     "geom:latitude":48.884483,
     "geom:longitude":12.582798,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulgasse 25",
     "sg:city":"Straubing",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286372291,
-    "wof:lastmodified":1449016985,
+    "wof:lastmodified":1466227155,
     "wof:name":"Hans Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.582798,48.884483,12.582798,48.884483],
+  "bbox": [
+    12.582798,
+    48.884483,
+    12.582798,
+    48.884483
+],
   "geometry": {"coordinates":[12.582798,48.884483],"type":"Point"}
 }

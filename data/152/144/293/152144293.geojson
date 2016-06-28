@@ -2,13 +2,14 @@
   "id": 152144293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.531334,48.080254,11.531334,48.080254",
     "geom:latitude":48.080254,
     "geom:longitude":11.531334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Irmgardstr. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900073,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152144293,
-    "wof:lastmodified":1449047680,
+    "wof:lastmodified":1466233577,
     "wof:name":"Zf Baumanagement Consulting Gmbh",
     "wof:parent_id":85900073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.531334,48.080254,11.531334,48.080254],
+  "bbox": [
+    11.531334,
+    48.080254,
+    11.531334,
+    48.080254
+],
   "geometry": {"coordinates":[11.531334,48.080254],"type":"Point"}
 }

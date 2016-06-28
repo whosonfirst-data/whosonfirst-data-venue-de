@@ -2,13 +2,14 @@
   "id": 119209981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.323587,52.512856,13.323587,52.512856",
     "geom:latitude":52.512856,
     "geom:longitude":13.323587,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stra\u00dfe des 17. Juni 150-52",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928741,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119209981,
-    "wof:lastmodified":1449043249,
+    "wof:lastmodified":1466229679,
     "wof:name":"Institut F\u00fcr Modellstatik Der Tu",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.323587,52.512856,13.323587,52.512856],
+  "bbox": [
+    13.323587,
+    52.512856,
+    13.323587,
+    52.512856
+],
   "geometry": {"coordinates":[13.323587,52.512856],"type":"Point"}
 }

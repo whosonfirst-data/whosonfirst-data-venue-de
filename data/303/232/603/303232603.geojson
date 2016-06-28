@@ -2,13 +2,14 @@
   "id": 303232603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.884326,49.066505,11.884326,49.066505",
     "geom:latitude":49.066505,
     "geom:longitude":11.884326,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beratzhausener Str. 5",
     "sg:city":"Laaber",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303232603,
-    "wof:lastmodified":1448998906,
+    "wof:lastmodified":1466230243,
     "wof:name":"L. Wankel Drogerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.884326,49.066505,11.884326,49.066505],
+  "bbox": [
+    11.884326,
+    49.066505,
+    11.884326,
+    49.066505
+],
   "geometry": {"coordinates":[11.884326,49.066505],"type":"Point"}
 }

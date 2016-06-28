@@ -2,13 +2,14 @@
   "id": 119256577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.654868,51.029995,13.654868,51.029995",
     "geom:latitude":51.029995,
     "geom:longitude":13.654868,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichenweg 5",
     "sg:city":"Pesterwitz",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064217,
-        85633111,
         85682523,
-        85898959
+        85633111,
+        85898959,
+        102064217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119256577,
-    "wof:lastmodified":1449042877,
+    "wof:lastmodified":1466234252,
     "wof:name":"Dr. Med. Almut Cubeus",
     "wof:parent_id":85898959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.654868,51.029995,13.654868,51.029995],
+  "bbox": [
+    13.654868,
+    51.029995,
+    13.654868,
+    51.029995
+],
   "geometry": {"coordinates":[13.654868,51.029995],"type":"Point"}
 }

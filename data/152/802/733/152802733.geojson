@@ -2,13 +2,14 @@
   "id": 152802733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.981745,51.033192,6.981745,51.033192",
     "geom:latitude":51.033192,
     "geom:longitude":6.981745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nieerfeld Str.8",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863021,
+        85682513,
         85633111,
         101748641,
         102063715,
-        85682513
+        85863021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152802733,
-    "wof:lastmodified":1449048054,
+    "wof:lastmodified":1466227112,
     "wof:name":"El Ni\u00f1o",
     "wof:parent_id":85863021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.981745,51.033192,6.981745,51.033192],
+  "bbox": [
+    6.981745,
+    51.033192,
+    6.981745,
+    51.033192
+],
   "geometry": {"coordinates":[6.981745,51.033192],"type":"Point"}
 }

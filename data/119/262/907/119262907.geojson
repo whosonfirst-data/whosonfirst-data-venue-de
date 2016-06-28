@@ -2,13 +2,14 @@
   "id": 119262907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.965879,51.455643,11.965879,51.455643",
     "geom:latitude":51.455643,
     "geom:longitude":11.965879,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fliederweg 25",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905695,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85905695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119262907,
-    "wof:lastmodified":1449042515,
+    "wof:lastmodified":1466234910,
     "wof:name":"Dr. Med. Horst Waller",
     "wof:parent_id":85905695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.965879,51.455643,11.965879,51.455643],
+  "bbox": [
+    11.965879,
+    51.455643,
+    11.965879,
+    51.455643
+],
   "geometry": {"coordinates":[11.965879,51.455643],"type":"Point"}
 }

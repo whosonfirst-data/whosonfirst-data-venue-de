@@ -2,13 +2,14 @@
   "id": 252730259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.42396,53.891628,10.42396,53.891628",
     "geom:latitude":53.891628,
     "geom:longitude":10.42396,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stubber Dorfstr. 20",
     "sg:city":"Neueng\u00f6rs",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252730259,
-    "wof:lastmodified":1449006346,
+    "wof:lastmodified":1466219518,
     "wof:name":"Hans Borgert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.42396,53.891628,10.42396,53.891628],
+  "bbox": [
+    10.42396,
+    53.891628,
+    10.42396,
+    53.891628
+],
   "geometry": {"coordinates":[10.42396,53.891628],"type":"Point"}
 }

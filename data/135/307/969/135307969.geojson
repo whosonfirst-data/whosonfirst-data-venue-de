@@ -2,13 +2,14 @@
   "id": 135307969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.457857,51.308201,12.457857,51.308201",
     "geom:latitude":51.308201,
     "geom:longitude":12.457857,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grenzstr. 4-6",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900289,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135307969,
-    "wof:lastmodified":1449021776,
+    "wof:lastmodified":1466214447,
     "wof:name":"Pgh B\u00e4ckerei- Und Konditorenhandwerk Holzhausen",
     "wof:parent_id":85900289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.457857,51.308201,12.457857,51.308201],
+  "bbox": [
+    12.457857,
+    51.308201,
+    12.457857,
+    51.308201
+],
   "geometry": {"coordinates":[12.457857,51.308201],"type":"Point"}
 }

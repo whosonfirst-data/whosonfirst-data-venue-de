@@ -2,13 +2,14 @@
   "id": 136180025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.001849,51.554935,7.001849,51.554935",
     "geom:latitude":51.554935,
     "geom:longitude":7.001849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Horster Str. 208",
     "sg:city":"Gladbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795021,
+        85682513,
         85633111,
         101748747,
         102063831,
-        85682513
+        85795021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136180025,
-    "wof:lastmodified":1449074978,
+    "wof:lastmodified":1466220165,
     "wof:name":"Anke Dornebusch",
     "wof:parent_id":85795021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.001849,51.554935,7.001849,51.554935],
+  "bbox": [
+    7.001849,
+    51.554935,
+    7.001849,
+    51.554935
+],
   "geometry": {"coordinates":[7.001849,51.554935],"type":"Point"}
 }

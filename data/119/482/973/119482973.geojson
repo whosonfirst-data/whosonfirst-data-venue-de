@@ -2,13 +2,14 @@
   "id": 119482973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.396799,49.524841,8.396799,49.524841",
     "geom:latitude":49.524841,
     "geom:longitude":8.396799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Edigheimer Str. 149",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119482973,
-    "wof:lastmodified":1449041736,
+    "wof:lastmodified":1466243457,
     "wof:name":"Ttc Fahrschule Gmbh",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.396799,49.524841,8.396799,49.524841],
+  "bbox": [
+    8.396799,
+    49.524841,
+    8.396799,
+    49.524841
+],
   "geometry": {"coordinates":[8.396799,49.524841],"type":"Point"}
 }

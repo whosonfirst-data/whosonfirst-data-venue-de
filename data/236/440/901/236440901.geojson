@@ -2,13 +2,14 @@
   "id": 236440901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.465465,49.498619,8.465465,49.498619",
     "geom:latitude":49.498619,
     "geom:longitude":8.465465,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Diesterwegstr. 8",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236440901,
-    "wof:lastmodified":1449002687,
+    "wof:lastmodified":1466226918,
     "wof:name":"Neumann",
     "wof:parent_id":85796039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.465465,49.498619,8.465465,49.498619],
+  "bbox": [
+    8.465465,
+    49.498619,
+    8.465465,
+    49.498619
+],
   "geometry": {"coordinates":[8.465465,49.498619],"type":"Point"}
 }

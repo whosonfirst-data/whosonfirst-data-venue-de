@@ -2,13 +2,14 @@
   "id": 135729875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.639002,51.44149,6.639002,51.44149",
     "geom:latitude":51.44149,
     "geom:longitude":6.639002,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstr. 103",
     "sg:city":"Moers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135729875,
-    "wof:lastmodified":1449022540,
+    "wof:lastmodified":1466243181,
     "wof:name":"Wohnbau",
     "wof:parent_id":101748759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.639002,51.44149,6.639002,51.44149],
+  "bbox": [
+    6.639002,
+    51.44149,
+    6.639002,
+    51.44149
+],
   "geometry": {"coordinates":[6.639002,51.44149],"type":"Point"}
 }

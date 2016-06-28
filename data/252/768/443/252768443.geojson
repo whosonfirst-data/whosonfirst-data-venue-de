@@ -2,13 +2,14 @@
   "id": 252768443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.451262,53.458679,9.451262,53.458679",
     "geom:latitude":53.458679,
     "geom:longitude":9.451262,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hollenbecker Str. 9",
     "sg:city":"Bargstedt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252768443,
-    "wof:lastmodified":1449005827,
+    "wof:lastmodified":1466220239,
     "wof:name":"Hans Rathjens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.451262,53.458679,9.451262,53.458679],
+  "bbox": [
+    9.451262,
+    53.458679,
+    9.451262,
+    53.458679
+],
   "geometry": {"coordinates":[9.451262,53.458679],"type":"Point"}
 }

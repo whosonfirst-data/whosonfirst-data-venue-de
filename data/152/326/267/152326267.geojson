@@ -2,13 +2,14 @@
   "id": 152326267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60487,47.612598,7.60487,47.612598",
     "geom:latitude":47.612598,
     "geom:longitude":7.60487,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heldelinger Str. 58",
     "sg:city":"Weil am Rhein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152326267,
-    "wof:lastmodified":1449046277,
+    "wof:lastmodified":1466216698,
     "wof:name":"Mitroba Gmbh",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60487,47.612598,7.60487,47.612598],
+  "bbox": [
+    7.60487,
+    47.612598,
+    7.60487,
+    47.612598
+],
   "geometry": {"coordinates":[7.60487,47.612598],"type":"Point"}
 }

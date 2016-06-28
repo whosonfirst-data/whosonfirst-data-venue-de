@@ -2,13 +2,14 @@
   "id": 119384493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.643156,52.399925,9.643156,52.399925",
     "geom:latitude":52.399925,
     "geom:longitude":9.643156,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelweg 5",
     "sg:city":"Seelze",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85905781
+        85633111,
+        85905781,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119384493,
-    "wof:lastmodified":1449041178,
+    "wof:lastmodified":1466240957,
     "wof:name":"Waldemar J\u00e4kel",
     "wof:parent_id":85905781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.643156,52.399925,9.643156,52.399925],
+  "bbox": [
+    9.643156,
+    52.399925,
+    9.643156,
+    52.399925
+],
   "geometry": {"coordinates":[9.643156,52.399925],"type":"Point"}
 }

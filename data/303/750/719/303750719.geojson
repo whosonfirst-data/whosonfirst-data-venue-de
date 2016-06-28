@@ -2,13 +2,14 @@
   "id": 303750719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.02164,49.963829,8.02164,49.963829",
     "geom:latitude":49.963829,
     "geom:longitude":8.02164,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Planck-Str. 2-4",
     "sg:city":"Gau-Algesheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303750719,
-    "wof:lastmodified":1448999596,
+    "wof:lastmodified":1466240050,
     "wof:name":"Hissenauer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.02164,49.963829,8.02164,49.963829],
+  "bbox": [
+    8.02164,
+    49.963829,
+    8.02164,
+    49.963829
+],
   "geometry": {"coordinates":[8.02164,49.963829],"type":"Point"}
 }

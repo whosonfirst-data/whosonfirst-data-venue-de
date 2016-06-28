@@ -2,13 +2,14 @@
   "id": 220086221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.355563,48.880756,12.355563,48.880756",
     "geom:latitude":48.880756,
     "geom:longitude":12.355563,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 14",
     "sg:city":"S\u00fcnching",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220086221,
-    "wof:lastmodified":1449074594,
+    "wof:lastmodified":1466216251,
     "wof:name":"Hans Sirch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.355563,48.880756,12.355563,48.880756],
+  "bbox": [
+    12.355563,
+    48.880756,
+    12.355563,
+    48.880756
+],
   "geometry": {"coordinates":[12.355563,48.880756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185756691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.729874,32.191959,-110.729874,32.191959",
     "geom:latitude":32.191959,
     "geom:longitude":-110.729874,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrgerplatz 8",
     "sg:city":"Garching",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185756691,
-    "wof:lastmodified":1449007572,
+    "wof:lastmodified":1466214695,
     "wof:name":"P. Zahlecker",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.729874,32.191959,-110.729874,32.191959],
+  "bbox": [
+    -110.729874,
+    32.191959,
+    -110.729874,
+    32.191959
+],
   "geometry": {"coordinates":[-110.729874,32.191959],"type":"Point"}
 }

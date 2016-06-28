@@ -2,13 +2,14 @@
   "id": 118856787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.479288,49.544411,8.479288,49.544411",
     "geom:latitude":49.544411,
     "geom:longitude":8.479288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Memeler Str. 13",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795279,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85795279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118856787,
-    "wof:lastmodified":1449053551,
+    "wof:lastmodified":1466233219,
     "wof:name":"Abtei-apotheke Hanns-rudolf Gugel",
     "wof:parent_id":85795279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.479288,49.544411,8.479288,49.544411],
+  "bbox": [
+    8.479288,
+    49.544411,
+    8.479288,
+    49.544411
+],
   "geometry": {"coordinates":[8.479288,49.544411],"type":"Point"}
 }

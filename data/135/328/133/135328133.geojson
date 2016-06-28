@@ -2,13 +2,14 @@
   "id": 135328133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.203588,52.328491,10.203588,52.328491",
     "geom:latitude":52.328491,
     "geom:longitude":10.203588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6belstr. 29",
     "sg:city":"Peine",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135328133,
-    "wof:lastmodified":1449022799,
+    "wof:lastmodified":1466216177,
     "wof:name":"Willi Balkenholl",
     "wof:parent_id":101807589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.203588,52.328491,10.203588,52.328491],
+  "bbox": [
+    10.203588,
+    52.328491,
+    10.203588,
+    52.328491
+],
   "geometry": {"coordinates":[10.203588,52.328491],"type":"Point"}
 }

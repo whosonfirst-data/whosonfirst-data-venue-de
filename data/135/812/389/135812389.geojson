@@ -2,13 +2,14 @@
   "id": 135812389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.575544,48.159451,11.575544,48.159451",
     "geom:latitude":48.159451,
     "geom:longitude":11.575544,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurf\u00fcrstenstr. 34",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135812389,
-    "wof:lastmodified":1449021057,
+    "wof:lastmodified":1466243952,
     "wof:name":"Blaues Kreuz Beratungsstelle",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.575544,48.159451,11.575544,48.159451],
+  "bbox": [
+    11.575544,
+    48.159451,
+    11.575544,
+    48.159451
+],
   "geometry": {"coordinates":[11.575544,48.159451],"type":"Point"}
 }

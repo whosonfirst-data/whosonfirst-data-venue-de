@@ -2,13 +2,14 @@
   "id": 135543919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.358445,52.501106,13.358445,52.501106",
     "geom:latitude":52.501106,
     "geom:longitude":13.358445,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurf\u00fcrstenstr. 79",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135543919,
-    "wof:lastmodified":1449021566,
+    "wof:lastmodified":1466235572,
     "wof:name":"Rudolf H\u00f6fler Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.358445,52.501106,13.358445,52.501106],
+  "bbox": [
+    13.358445,
+    52.501106,
+    13.358445,
+    52.501106
+],
   "geometry": {"coordinates":[13.358445,52.501106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135318205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.480262,50.755001,10.480262,50.755001",
     "geom:latitude":50.755001,
     "geom:longitude":10.480262,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 11",
     "sg:city":"Floh-Seligenthal",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135318205,
-    "wof:lastmodified":1449021656,
+    "wof:lastmodified":1466215346,
     "wof:name":"Thomas Endter",
     "wof:parent_id":101823097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.480262,50.755001,10.480262,50.755001],
+  "bbox": [
+    10.480262,
+    50.755001,
+    10.480262,
+    50.755001
+],
   "geometry": {"coordinates":[10.480262,50.755001],"type":"Point"}
 }

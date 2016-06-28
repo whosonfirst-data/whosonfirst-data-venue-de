@@ -2,13 +2,14 @@
   "id": 119284305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650009,50.144417,8.650009,50.144417",
     "geom:latitude":50.144417,
     "geom:longitude":8.650009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ginnheimer Hohl 10",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796311,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119284305,
-    "wof:lastmodified":1449042514,
+    "wof:lastmodified":1466236594,
     "wof:name":"Optik Studio H\u00f6ntsch Gmbh Augenoptiker",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650009,50.144417,8.650009,50.144417],
+  "bbox": [
+    8.650009,
+    50.144417,
+    8.650009,
+    50.144417
+],
   "geometry": {"coordinates":[8.650009,50.144417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135526763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.264494,51.187611,7.264494,51.187611",
     "geom:latitude":51.187611,
     "geom:longitude":7.264494,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geschwister-Scholl-Str. 9",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795863,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85795863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135526763,
-    "wof:lastmodified":1449021938,
+    "wof:lastmodified":1466234056,
     "wof:name":"Immobau Gmbh",
     "wof:parent_id":85795863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.264494,51.187611,7.264494,51.187611],
+  "bbox": [
+    7.264494,
+    51.187611,
+    7.264494,
+    51.187611
+],
   "geometry": {"coordinates":[7.264494,51.187611],"type":"Point"}
 }

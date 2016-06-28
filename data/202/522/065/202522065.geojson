@@ -2,13 +2,14 @@
   "id": 202522065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.354345,50.849007,7.354345,50.849007",
     "geom:latitude":50.849007,
     "geom:longitude":7.354345,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 74",
     "sg:city":"Neunkirchen-Seelscheid",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202522065,
-    "wof:lastmodified":1449061337,
+    "wof:lastmodified":1466216070,
     "wof:name":"Stephanie Schmitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.354345,50.849007,7.354345,50.849007],
+  "bbox": [
+    7.354345,
+    50.849007,
+    7.354345,
+    50.849007
+],
   "geometry": {"coordinates":[7.354345,50.849007],"type":"Point"}
 }

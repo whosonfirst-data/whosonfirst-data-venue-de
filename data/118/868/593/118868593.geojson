@@ -2,13 +2,14 @@
   "id": 118868593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.292392,52.457916,13.292392,52.457916",
     "geom:latitude":52.457916,
     "geom:longitude":13.292392,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigin-Luise-Str. 38",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900017,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118868593,
-    "wof:lastmodified":1449053201,
+    "wof:lastmodified":1466233967,
     "wof:name":"Apotheke Dahlem-dorf",
     "wof:parent_id":85900017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.292392,52.457916,13.292392,52.457916],
+  "bbox": [
+    13.292392,
+    52.457916,
+    13.292392,
+    52.457916
+],
   "geometry": {"coordinates":[13.292392,52.457916],"type":"Point"}
 }

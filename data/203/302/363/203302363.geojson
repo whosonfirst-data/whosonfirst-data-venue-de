@@ -2,13 +2,14 @@
   "id": 203302363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.105551,49.143436,9.105551,49.143436",
     "geom:latitude":49.143436,
     "geom:longitude":9.105551,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6thestr. 48",
     "sg:city":"Leingarten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203302363,
-    "wof:lastmodified":1449025553,
+    "wof:lastmodified":1466218895,
     "wof:name":"Samuel Bruckner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.105551,49.143436,9.105551,49.143436],
+  "bbox": [
+    9.105551,
+    49.143436,
+    9.105551,
+    49.143436
+],
   "geometry": {"coordinates":[9.105551,49.143436],"type":"Point"}
 }

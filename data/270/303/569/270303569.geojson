@@ -2,13 +2,14 @@
   "id": 270303569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.801423,49.338612,8.801423,49.338612",
     "geom:latitude":49.338612,
     "geom:longitude":8.801423,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sinsheimer Str. 15",
     "sg:city":"Mauer",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270303569,
-    "wof:lastmodified":1449008682,
+    "wof:lastmodified":1466228500,
     "wof:name":"Werner Gutruf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.801423,49.338612,8.801423,49.338612],
+  "bbox": [
+    8.801423,
+    49.338612,
+    8.801423,
+    49.338612
+],
   "geometry": {"coordinates":[8.801423,49.338612],"type":"Point"}
 }

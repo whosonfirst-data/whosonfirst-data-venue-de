@@ -2,13 +2,14 @@
   "id": 186521655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.020443,51.459694,7.020443,51.459694",
     "geom:latitude":51.459694,
     "geom:longitude":7.020443,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00f6llingstr. 88",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186521655,
-    "wof:lastmodified":1449052908,
+    "wof:lastmodified":1466218779,
     "wof:name":"M. Rohrschneider",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.020443,51.459694,7.020443,51.459694],
+  "bbox": [
+    7.020443,
+    51.459694,
+    7.020443,
+    51.459694
+],
   "geometry": {"coordinates":[7.020443,51.459694],"type":"Point"}
 }

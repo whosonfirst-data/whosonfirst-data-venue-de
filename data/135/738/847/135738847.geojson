@@ -2,13 +2,14 @@
   "id": 135738847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.074875,49.456959,11.074875,49.456959",
     "geom:latitude":49.456959,
     "geom:longitude":11.074875,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstr. 17",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899227,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135738847,
-    "wof:lastmodified":1449023208,
+    "wof:lastmodified":1466243417,
     "wof:name":"Gertrud Kre\u00df-ahrens",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.074875,49.456959,11.074875,49.456959],
+  "bbox": [
+    11.074875,
+    49.456959,
+    11.074875,
+    49.456959
+],
   "geometry": {"coordinates":[11.074875,49.456959],"type":"Point"}
 }

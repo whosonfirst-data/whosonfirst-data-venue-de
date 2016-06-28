@@ -2,13 +2,14 @@
   "id": 119271273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.522692,52.659187,13.522692,52.659187",
     "geom:latitude":52.659187,
     "geom:longitude":13.522692,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Pieck-Str. 53",
     "sg:city":"Zepernick",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907701,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85907701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119271273,
-    "wof:lastmodified":1449042238,
+    "wof:lastmodified":1466235686,
     "wof:name":"Gisela Rudolph",
     "wof:parent_id":85907701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.522692,52.659187,13.522692,52.659187],
+  "bbox": [
+    13.522692,
+    52.659187,
+    13.522692,
+    52.659187
+],
   "geometry": {"coordinates":[13.522692,52.659187],"type":"Point"}
 }

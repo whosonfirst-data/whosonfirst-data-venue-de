@@ -2,13 +2,14 @@
   "id": 135646981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.966727,49.238613,6.966727,49.238613",
     "geom:latitude":49.238613,
     "geom:longitude":6.966727,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Rotfeld 11",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795927,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85795927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135646981,
-    "wof:lastmodified":1449020900,
+    "wof:lastmodified":1466240803,
     "wof:name":"Pro-part Klein Gmbh",
     "wof:parent_id":85795927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.966727,49.238613,6.966727,49.238613],
+  "bbox": [
+    6.966727,
+    49.238613,
+    6.966727,
+    49.238613
+],
   "geometry": {"coordinates":[6.966727,49.238613],"type":"Point"}
 }

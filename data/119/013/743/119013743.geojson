@@ -2,13 +2,14 @@
   "id": 119013743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.672797,52.359104,9.672797,52.359104",
     "geom:latitude":52.359104,
     "geom:longitude":9.672797,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Salzhemmendorfer Str. 5",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899413,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119013743,
-    "wof:lastmodified":1449042697,
+    "wof:lastmodified":1466224555,
     "wof:name":"Fritz Klebe Architekt",
     "wof:parent_id":85899413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.672797,52.359104,9.672797,52.359104],
+  "bbox": [
+    9.672797,
+    52.359104,
+    9.672797,
+    52.359104
+],
   "geometry": {"coordinates":[9.672797,52.359104],"type":"Point"}
 }

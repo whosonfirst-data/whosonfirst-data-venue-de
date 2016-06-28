@@ -2,13 +2,14 @@
   "id": 118638673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.345099,50.308174,12.345099,50.308174",
     "geom:latitude":50.308174,
     "geom:longitude":12.345099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Adam-Friedrich-Z\u00fcrner-Str. 17",
     "sg:city":"Markneukirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118638673,
-    "wof:lastmodified":1449053220,
+    "wof:lastmodified":1466220451,
     "wof:name":"Seniorenheim",
     "wof:parent_id":101824543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.345099,50.308174,12.345099,50.308174],
+  "bbox": [
+    12.345099,
+    50.308174,
+    12.345099,
+    50.308174
+],
   "geometry": {"coordinates":[12.345099,50.308174],"type":"Point"}
 }

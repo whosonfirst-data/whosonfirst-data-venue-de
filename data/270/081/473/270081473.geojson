@@ -2,13 +2,14 @@
   "id": 270081473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.016003,53.576843,10.016003,53.576843",
     "geom:latitude":53.576843,
     "geom:longitude":10.016003,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schenkendorfstr. 15",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270081473,
-    "wof:lastmodified":1449009372,
+    "wof:lastmodified":1466223288,
     "wof:name":"Tom St\u00f6lting",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.016003,53.576843,10.016003,53.576843],
+  "bbox": [
+    10.016003,
+    53.576843,
+    10.016003,
+    53.576843
+],
   "geometry": {"coordinates":[10.016003,53.576843],"type":"Point"}
 }

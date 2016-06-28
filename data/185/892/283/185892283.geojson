@@ -2,13 +2,14 @@
   "id": 185892283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.9545,53.463753,9.9545,53.463753",
     "geom:latitude":53.463753,
     "geom:longitude":9.9545,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heimfelder Str. 54",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185892283,
-    "wof:lastmodified":1449006843,
+    "wof:lastmodified":1466216046,
     "wof:name":"Sabine Worch",
     "wof:parent_id":85899035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.9545,53.463753,9.9545,53.463753],
+  "bbox": [
+    9.9545,
+    53.463753,
+    9.9545,
+    53.463753
+],
   "geometry": {"coordinates":[9.9545,53.463753],"type":"Point"}
 }

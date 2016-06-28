@@ -2,13 +2,14 @@
   "id": 135917979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.057899,53.595882,10.057899,53.595882",
     "geom:latitude":53.595882,
     "geom:longitude":10.057899,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-Helbing-Str. 12",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135917979,
-    "wof:lastmodified":1449023612,
+    "wof:lastmodified":1466244636,
     "wof:name":"Beteiligungsgesell. Dentaha Greve Mbh",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.057899,53.595882,10.057899,53.595882],
+  "bbox": [
+    10.057899,
+    53.595882,
+    10.057899,
+    53.595882
+],
   "geometry": {"coordinates":[10.057899,53.595882],"type":"Point"}
 }

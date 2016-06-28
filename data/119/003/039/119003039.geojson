@@ -2,13 +2,14 @@
   "id": 119003039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.41114,52.393291,13.41114,52.393291",
     "geom:latitude":52.393291,
     "geom:longitude":13.41114,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alt-Lichtenrade 93b",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119003039,
-    "wof:lastmodified":1449043329,
+    "wof:lastmodified":1466213408,
     "wof:name":"Erhard Wilde Architekt",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.41114,52.393291,13.41114,52.393291],
+  "bbox": [
+    13.41114,
+    52.393291,
+    13.41114,
+    52.393291
+],
   "geometry": {"coordinates":[13.41114,52.393291],"type":"Point"}
 }

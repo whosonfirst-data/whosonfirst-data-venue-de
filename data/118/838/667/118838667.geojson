@@ -2,13 +2,14 @@
   "id": 118838667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.099892,50.72736,7.099892,50.72736",
     "geom:latitude":50.72736,
     "geom:longitude":7.099892,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bonner Talweg 16",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118838667,
-    "wof:lastmodified":1449053313,
+    "wof:lastmodified":1466232079,
     "wof:name":"Petrus-apotheke Elke Bieber E. Kfr.",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.099892,50.72736,7.099892,50.72736],
+  "bbox": [
+    7.099892,
+    50.72736,
+    7.099892,
+    50.72736
+],
   "geometry": {"coordinates":[7.099892,50.72736],"type":"Point"}
 }

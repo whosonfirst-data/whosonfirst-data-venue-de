@@ -2,13 +2,14 @@
   "id": 118533323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.730612,50.827499,10.730612,50.827499",
     "geom:latitude":50.827499,
     "geom:longitude":10.730612,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 2a",
     "sg:city":"Ohrdruf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118533323,
-    "wof:lastmodified":1449053128,
+    "wof:lastmodified":1466214468,
     "wof:name":"Container Alt",
     "wof:parent_id":101823217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.730612,50.827499,10.730612,50.827499],
+  "bbox": [
+    10.730612,
+    50.827499,
+    10.730612,
+    50.827499
+],
   "geometry": {"coordinates":[10.730612,50.827499],"type":"Point"}
 }

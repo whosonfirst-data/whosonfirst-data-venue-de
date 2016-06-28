@@ -2,13 +2,14 @@
   "id": 136160585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.261905,51.449871,7.261905,51.449871",
     "geom:latitude":51.449871,
     "geom:longitude":7.261905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buscheyplatz 13",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063787,
-        85633111,
         85682513,
-        85795715
+        85633111,
+        85795715,
+        102063787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136160585,
-    "wof:lastmodified":1449076044,
+    "wof:lastmodified":1466219295,
     "wof:name":"Institut Fuer Angewandte Innovationsforschung (iai) E.v.",
     "wof:parent_id":85795715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.261905,51.449871,7.261905,51.449871],
+  "bbox": [
+    7.261905,
+    51.449871,
+    7.261905,
+    51.449871
+],
   "geometry": {"coordinates":[7.261905,51.449871],"type":"Point"}
 }

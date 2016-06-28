@@ -2,13 +2,14 @@
   "id": 253045895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.377325,52.437557,13.377325,52.437557",
     "geom:latitude":52.437557,
     "geom:longitude":13.377325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lankwitzer Str 36-37",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253045895,
-    "wof:lastmodified":1449065428,
+    "wof:lastmodified":1466220234,
     "wof:name":"Max Auer",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.377325,52.437557,13.377325,52.437557],
+  "bbox": [
+    13.377325,
+    52.437557,
+    13.377325,
+    52.437557
+],
   "geometry": {"coordinates":[13.377325,52.437557],"type":"Point"}
 }

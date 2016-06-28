@@ -2,13 +2,14 @@
   "id": 135542725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.600728,52.115566,11.600728,52.115566",
     "geom:latitude":52.115566,
     "geom:longitude":11.600728,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolfenb\u00fctteler Str. 16",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899185,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135542725,
-    "wof:lastmodified":1449023353,
+    "wof:lastmodified":1466235472,
     "wof:name":"Simon Bautr\u00e4ger Gmbh",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.600728,52.115566,11.600728,52.115566],
+  "bbox": [
+    11.600728,
+    52.115566,
+    11.600728,
+    52.115566
+],
   "geometry": {"coordinates":[11.600728,52.115566],"type":"Point"}
 }

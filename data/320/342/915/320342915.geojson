@@ -2,13 +2,14 @@
   "id": 320342915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.30188,47.968456,11.30188,47.968456",
     "geom:latitude":47.968456,
     "geom:longitude":11.30188,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rettungsstation im Badegebiet \u00b4Paradies\u00b4",
     "sg:city":"P\u00f6cking",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320342915,
-    "wof:lastmodified":1449014696,
+    "wof:lastmodified":1466239575,
     "wof:name":"Deutsche Lebens-rettungs-gesellschaft(dlrg) P\u00f6ckingstarnberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.30188,47.968456,11.30188,47.968456],
+  "bbox": [
+    11.30188,
+    47.968456,
+    11.30188,
+    47.968456
+],
   "geometry": {"coordinates":[11.30188,47.968456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118603991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.489371,48.142136,11.489371,48.142136",
     "geom:latitude":48.142136,
     "geom:longitude":11.489371,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rappstr 18",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118603991,
-    "wof:lastmodified":1449054338,
+    "wof:lastmodified":1466218430,
     "wof:name":"Toshiba Klimager\u00e4te, Edv-klima Und Sonderanlagen Friess Gmbh",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.489371,48.142136,11.489371,48.142136],
+  "bbox": [
+    11.489371,
+    48.142136,
+    11.489371,
+    48.142136
+],
   "geometry": {"coordinates":[11.489371,48.142136],"type":"Point"}
 }

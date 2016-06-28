@@ -2,13 +2,14 @@
   "id": 303540225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.36819,48.172951,11.36819,48.172951",
     "geom:latitude":48.172951,
     "geom:longitude":11.36819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benzstr. 32",
     "sg:city":"Puchheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303540225,
-    "wof:lastmodified":1448999083,
+    "wof:lastmodified":1466237081,
     "wof:name":"Westend-anzeiger",
     "wof:parent_id":85899549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.36819,48.172951,11.36819,48.172951],
+  "bbox": [
+    11.36819,
+    48.172951,
+    11.36819,
+    48.172951
+],
   "geometry": {"coordinates":[11.36819,48.172951],"type":"Point"}
 }

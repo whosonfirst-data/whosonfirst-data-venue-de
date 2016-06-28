@@ -2,13 +2,14 @@
   "id": 135408099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.470517,49.487797,8.470517,49.487797",
     "geom:latitude":49.487797,
     "geom:longitude":8.470517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Q4",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135408099,
-    "wof:lastmodified":1449021358,
+    "wof:lastmodified":1466223569,
     "wof:name":"Noris Bank",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.470517,49.487797,8.470517,49.487797],
+  "bbox": [
+    8.470517,
+    49.487797,
+    8.470517,
+    49.487797
+],
   "geometry": {"coordinates":[8.470517,49.487797],"type":"Point"}
 }

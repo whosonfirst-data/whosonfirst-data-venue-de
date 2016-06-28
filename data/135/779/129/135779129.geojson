@@ -2,13 +2,14 @@
   "id": 135779129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.430364,51.398708,7.430364,51.398708",
     "geom:latitude":51.398708,
     "geom:longitude":7.430364,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 17",
     "sg:city":"Herdecke",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063767,
-        85633111,
         85682513,
-        85796663
+        85633111,
+        85796663,
+        102063767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135779129,
-    "wof:lastmodified":1449021441,
+    "wof:lastmodified":1466243936,
     "wof:name":"Dirk Kalh\u00f6fer",
     "wof:parent_id":85796663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.430364,51.398708,7.430364,51.398708],
+  "bbox": [
+    7.430364,
+    51.398708,
+    7.430364,
+    51.398708
+],
   "geometry": {"coordinates":[7.430364,51.398708],"type":"Point"}
 }

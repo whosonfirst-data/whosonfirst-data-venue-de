@@ -2,13 +2,14 @@
   "id": 152922397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.2986,51.477596,7.2986,51.477596",
     "geom:latitude":51.477596,
     "geom:longitude":7.2986,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Coloniastrasse 24",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865101,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85865101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152922397,
-    "wof:lastmodified":1449044717,
+    "wof:lastmodified":1466229953,
     "wof:name":"Ritter Apparatebau Gmbh",
     "wof:parent_id":85865101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.2986,51.477596,7.2986,51.477596],
+  "bbox": [
+    7.2986,
+    51.477596,
+    7.2986,
+    51.477596
+],
   "geometry": {"coordinates":[7.2986,51.477596],"type":"Point"}
 }

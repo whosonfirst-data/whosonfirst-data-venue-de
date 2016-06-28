@@ -2,13 +2,14 @@
   "id": 219988289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.152209,51.538525,7.152209,51.538525",
     "geom:latitude":51.538525,
     "geom:longitude":7.152209,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6ckstr. 94",
     "sg:city":"Herne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219988289,
-    "wof:lastmodified":1449071618,
+    "wof:lastmodified":1466230140,
     "wof:name":"Werner Liebel",
     "wof:parent_id":85796687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.152209,51.538525,7.152209,51.538525],
+  "bbox": [
+    7.152209,
+    51.538525,
+    7.152209,
+    51.538525
+],
   "geometry": {"coordinates":[7.152209,51.538525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102698641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.98721,51.03373,6.98721,51.03373",
     "geom:latitude":51.03373,
     "geom:longitude":6.98721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863021,
+        85682513,
         85633111,
         101748641,
         102063715,
-        85682513
+        85863021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102698641,
-    "wof:lastmodified":1449070045,
+    "wof:lastmodified":1466216075,
     "wof:name":"Medienfachb\u00fcro -stadt Leverkusen -",
     "wof:parent_id":85863021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.98721,51.03373,6.98721,51.03373],
+  "bbox": [
+    6.98721,
+    51.03373,
+    6.98721,
+    51.03373
+],
   "geometry": {"coordinates":[6.98721,51.03373],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202512749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.789797,49.213531,10.789797,49.213531",
     "geom:latitude":49.213531,
     "geom:longitude":10.789797,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenbachstr. 19",
     "sg:city":"Mitteleschenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202512749,
-    "wof:lastmodified":1449061946,
+    "wof:lastmodified":1466215877,
     "wof:name":"Regina Zottmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.789797,49.213531,10.789797,49.213531],
+  "bbox": [
+    10.789797,
+    49.213531,
+    10.789797,
+    49.213531
+],
   "geometry": {"coordinates":[10.789797,49.213531],"type":"Point"}
 }

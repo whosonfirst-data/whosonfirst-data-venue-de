@@ -2,13 +2,14 @@
   "id": 203098793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.875066,47.819057,10.875066,47.819057",
     "geom:latitude":47.819057,
     "geom:longitude":10.875066,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tegelbergstr. 12",
     "sg:city":"Altenstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203098793,
-    "wof:lastmodified":1449026669,
+    "wof:lastmodified":1466215481,
     "wof:name":"Anton Schropp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.875066,47.819057,10.875066,47.819057],
+  "bbox": [
+    10.875066,
+    47.819057,
+    10.875066,
+    47.819057
+],
   "geometry": {"coordinates":[10.875066,47.819057],"type":"Point"}
 }

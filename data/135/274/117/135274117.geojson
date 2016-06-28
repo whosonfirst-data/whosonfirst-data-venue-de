@@ -2,13 +2,14 @@
   "id": 135274117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.482511,49.458183,8.482511,49.458183",
     "geom:latitude":49.458183,
     "geom:longitude":8.482511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rottfeldstr. 55",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135274117,
-    "wof:lastmodified":1449021354,
+    "wof:lastmodified":1466219098,
     "wof:name":"Herbert Hohstadt",
     "wof:parent_id":101748549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.482511,49.458183,8.482511,49.458183],
+  "bbox": [
+    8.482511,
+    49.458183,
+    8.482511,
+    49.458183
+],
   "geometry": {"coordinates":[8.482511,49.458183],"type":"Point"}
 }

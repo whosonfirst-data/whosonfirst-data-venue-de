@@ -2,13 +2,14 @@
   "id": 119400703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.351591,49.902306,10.351591,49.902306",
     "geom:latitude":49.902306,
     "geom:longitude":10.351591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steingrabenstr. 30",
     "sg:city":"Gerolzhofen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119400703,
-    "wof:lastmodified":1449041104,
+    "wof:lastmodified":1466241566,
     "wof:name":"Gerhard Markert",
     "wof:parent_id":101825921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.351591,49.902306,10.351591,49.902306],
+  "bbox": [
+    10.351591,
+    49.902306,
+    10.351591,
+    49.902306
+],
   "geometry": {"coordinates":[10.351591,49.902306],"type":"Point"}
 }

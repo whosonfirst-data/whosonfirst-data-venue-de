@@ -2,13 +2,14 @@
   "id": 135757255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.141099,54.087757,12.141099,54.087757",
     "geom:latitude":54.087757,
     "geom:longitude":12.141099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinstr. 10",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905721,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135757255,
-    "wof:lastmodified":1449022708,
+    "wof:lastmodified":1466243506,
     "wof:name":"\u00dcbergr\u00f6\u00dfenzentrum M-v Majarow",
     "wof:parent_id":85905721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.141099,54.087757,12.141099,54.087757],
+  "bbox": [
+    12.141099,
+    54.087757,
+    12.141099,
+    54.087757
+],
   "geometry": {"coordinates":[12.141099,54.087757],"type":"Point"}
 }

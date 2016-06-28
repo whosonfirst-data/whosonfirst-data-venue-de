@@ -2,13 +2,14 @@
   "id": 119188717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.392414,52.49696,13.392414,52.49696",
     "geom:latitude":52.49696,
     "geom:longitude":13.392414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bl\u00fccherplatz 1",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119188717,
-    "wof:lastmodified":1449042158,
+    "wof:lastmodified":1466227731,
     "wof:name":"Amerika-gedenkbibliothek",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.392414,52.49696,13.392414,52.49696],
+  "bbox": [
+    13.392414,
+    52.49696,
+    13.392414,
+    52.49696
+],
   "geometry": {"coordinates":[13.392414,52.49696],"type":"Point"}
 }

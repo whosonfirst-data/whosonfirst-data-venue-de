@@ -2,13 +2,14 @@
   "id": 270118023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.935266,49.689453,10.935266,49.689453",
     "geom:latitude":49.689453,
     "geom:longitude":10.935266,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sperberweg 10",
     "sg:city":"Hemhofen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270118023,
-    "wof:lastmodified":1449010602,
+    "wof:lastmodified":1466224152,
     "wof:name":"Heinrich Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.935266,49.689453,10.935266,49.689453],
+  "bbox": [
+    10.935266,
+    49.689453,
+    10.935266,
+    49.689453
+],
   "geometry": {"coordinates":[10.935266,49.689453],"type":"Point"}
 }

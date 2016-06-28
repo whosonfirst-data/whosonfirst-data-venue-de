@@ -2,13 +2,14 @@
   "id": 135713213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.589033,52.509251,13.589033,52.509251",
     "geom:latitude":52.509251,
     "geom:longitude":13.589033,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterberger Weg 68",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905659,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135713213,
-    "wof:lastmodified":1449023718,
+    "wof:lastmodified":1466242722,
     "wof:name":"Wgeg Wohnwelt-grundst\u00fccks- Entwicklungs Gmbh",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.589033,52.509251,13.589033,52.509251],
+  "bbox": [
+    13.589033,
+    52.509251,
+    13.589033,
+    52.509251
+],
   "geometry": {"coordinates":[13.589033,52.509251],"type":"Point"}
 }

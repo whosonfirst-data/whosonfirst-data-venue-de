@@ -2,13 +2,14 @@
   "id": 135696295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.121468,51.416553,7.121468,51.416553",
     "geom:latitude":51.416553,
     "geom:longitude":7.121468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Kieskamp 4",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794713,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85794713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135696295,
-    "wof:lastmodified":1449021218,
+    "wof:lastmodified":1466242266,
     "wof:name":"Lt-bautr\u00e4gergesellschaft Mbh",
     "wof:parent_id":85794713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.121468,51.416553,7.121468,51.416553],
+  "bbox": [
+    7.121468,
+    51.416553,
+    7.121468,
+    51.416553
+],
   "geometry": {"coordinates":[7.121468,51.416553],"type":"Point"}
 }

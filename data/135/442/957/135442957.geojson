@@ -2,13 +2,14 @@
   "id": 135442957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.586645,49.035423,11.586645,49.035423",
     "geom:latitude":49.035423,
     "geom:longitude":11.586645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 9",
     "sg:city":"Dietfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135442957,
-    "wof:lastmodified":1449022339,
+    "wof:lastmodified":1466226556,
     "wof:name":"Sparkasse Riedenburg",
     "wof:parent_id":101782081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.586645,49.035423,11.586645,49.035423],
+  "bbox": [
+    11.586645,
+    49.035423,
+    11.586645,
+    49.035423
+],
   "geometry": {"coordinates":[11.586645,49.035423],"type":"Point"}
 }

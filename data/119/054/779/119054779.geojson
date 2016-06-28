@@ -2,13 +2,14 @@
   "id": 119054779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025705,49.581455,11.025705,49.581455",
     "geom:latitude":49.581455,
     "geom:longitude":11.025705,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigsberger Str. 1",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119054779,
-    "wof:lastmodified":1449042088,
+    "wof:lastmodified":1466215836,
     "wof:name":"Hermann Pastor",
     "wof:parent_id":101748551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025705,49.581455,11.025705,49.581455],
+  "bbox": [
+    11.025705,
+    49.581455,
+    11.025705,
+    49.581455
+],
   "geometry": {"coordinates":[11.025705,49.581455],"type":"Point"}
 }

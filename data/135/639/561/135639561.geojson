@@ -2,13 +2,14 @@
   "id": 135639561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.657904,51.980095,8.657904,51.980095",
     "geom:latitude":51.980095,
     "geom:longitude":8.657904,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bolh\u00f6ferweg 52",
     "sg:city":"Leopoldsh\u00f6he",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063883,
-        85633111,
         85682513,
-        85794861
+        85633111,
+        85794861,
+        102063883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135639561,
-    "wof:lastmodified":1449023974,
+    "wof:lastmodified":1466240643,
     "wof:name":"E & C Baustoff & Handels Gmbh",
     "wof:parent_id":85794861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.657904,51.980095,8.657904,51.980095],
+  "bbox": [
+    8.657904,
+    51.980095,
+    8.657904,
+    51.980095
+],
   "geometry": {"coordinates":[8.657904,51.980095],"type":"Point"}
 }

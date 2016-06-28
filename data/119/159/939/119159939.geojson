@@ -2,13 +2,14 @@
   "id": 119159939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.522138,48.061317,11.522138,48.061317",
     "geom:latitude":48.061317,
     "geom:longitude":11.522138,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenweg 4",
     "sg:city":"Pullach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900073,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119159939,
-    "wof:lastmodified":1449041160,
+    "wof:lastmodified":1466225041,
     "wof:name":"Wolfgang Klemm Architekt",
     "wof:parent_id":85900073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.522138,48.061317,11.522138,48.061317],
+  "bbox": [
+    11.522138,
+    48.061317,
+    11.522138,
+    48.061317
+],
   "geometry": {"coordinates":[11.522138,48.061317],"type":"Point"}
 }

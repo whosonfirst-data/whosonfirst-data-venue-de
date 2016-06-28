@@ -2,13 +2,14 @@
   "id": 303470981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.228522,52.223915,10.228522,52.223915",
     "geom:latitude":52.223915,
     "geom:longitude":10.228522,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bierstr. 11 A",
     "sg:city":"Lahstedt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303470981,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1466235978,
     "wof:name":"Karl Geffers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.228522,52.223915,10.228522,52.223915],
+  "bbox": [
+    10.228522,
+    52.223915,
+    10.228522,
+    52.223915
+],
   "geometry": {"coordinates":[10.228522,52.223915],"type":"Point"}
 }

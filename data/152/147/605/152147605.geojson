@@ -2,13 +2,14 @@
   "id": 152147605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.439591,51.421623,7.439591,51.421623",
     "geom:latitude":51.421623,
     "geom:longitude":7.439591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gahlenfeldstr. 23",
     "sg:city":"Herdecke",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795459,
+        85682513,
         85633111,
         101914223,
         102063779,
-        85682513
+        85795459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152147605,
-    "wof:lastmodified":1449048421,
+    "wof:lastmodified":1466234463,
     "wof:name":"Friedrich W. Vaerst Wohnungsbau Gmbh",
     "wof:parent_id":85795459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.439591,51.421623,7.439591,51.421623],
+  "bbox": [
+    7.439591,
+    51.421623,
+    7.439591,
+    51.421623
+],
   "geometry": {"coordinates":[7.439591,51.421623],"type":"Point"}
 }

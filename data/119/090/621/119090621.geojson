@@ -2,13 +2,14 @@
   "id": 119090621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.252805,48.804348,9.252805,48.804348",
     "geom:latitude":48.804348,
     "geom:longitude":9.252805,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sechselberger Str. 8",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119090621,
-    "wof:lastmodified":1449042961,
+    "wof:lastmodified":1466219165,
     "wof:name":"M. A. Aichele Architekt",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.252805,48.804348,9.252805,48.804348],
+  "bbox": [
+    9.252805,
+    48.804348,
+    9.252805,
+    48.804348
+],
   "geometry": {"coordinates":[9.252805,48.804348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286416679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.883347,48.346619,10.883347,48.346619",
     "geom:latitude":48.346619,
     "geom:longitude":10.883347,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ohmstr. 1",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286416679,
-    "wof:lastmodified":1449016513,
+    "wof:lastmodified":1466228172,
     "wof:name":"Schuster Kg",
     "wof:parent_id":85899931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.883347,48.346619,10.883347,48.346619],
+  "bbox": [
+    10.883347,
+    48.346619,
+    10.883347,
+    48.346619
+],
   "geometry": {"coordinates":[10.883347,48.346619],"type":"Point"}
 }

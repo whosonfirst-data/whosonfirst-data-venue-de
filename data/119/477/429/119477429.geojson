@@ -2,13 +2,14 @@
   "id": 119477429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.054909,50.780151,6.054909,50.780151",
     "geom:latitude":50.780151,
     "geom:longitude":6.054909,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf der H\u00f6rn 46",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862965,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513
+        85862965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119477429,
-    "wof:lastmodified":1449041280,
+    "wof:lastmodified":1466243254,
     "wof:name":"Roswitha R\u00f6tters",
     "wof:parent_id":85862965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.054909,50.780151,6.054909,50.780151],
+  "bbox": [
+    6.054909,
+    50.780151,
+    6.054909,
+    50.780151
+],
   "geometry": {"coordinates":[6.054909,50.780151],"type":"Point"}
 }

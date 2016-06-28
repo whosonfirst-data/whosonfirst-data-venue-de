@@ -2,13 +2,14 @@
   "id": 119087815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.014868,53.583221,10.014868,53.583221",
     "geom:latitude":53.583221,
     "geom:longitude":10.014868,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forsmannstr. 14 B",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119087815,
-    "wof:lastmodified":1449042064,
+    "wof:lastmodified":1466218935,
     "wof:name":"Liebsch Und Rintz Architekten",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.014868,53.583221,10.014868,53.583221],
+  "bbox": [
+    10.014868,
+    53.583221,
+    10.014868,
+    53.583221
+],
   "geometry": {"coordinates":[10.014868,53.583221],"type":"Point"}
 }

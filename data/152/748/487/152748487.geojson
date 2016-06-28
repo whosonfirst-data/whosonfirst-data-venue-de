@@ -2,13 +2,14 @@
   "id": 152748487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.500217,51.318501,9.500217,51.318501",
     "geom:latitude":51.318501,
     "geom:longitude":9.500217,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere K\u00f6nigsstra\u00dfe 81",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152748487,
-    "wof:lastmodified":1449047766,
+    "wof:lastmodified":1466225809,
     "wof:name":"Applied Systems Software Und Systeme Gmbh",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.500217,51.318501,9.500217,51.318501],
+  "bbox": [
+    9.500217,
+    51.318501,
+    9.500217,
+    51.318501
+],
   "geometry": {"coordinates":[9.500217,51.318501],"type":"Point"}
 }

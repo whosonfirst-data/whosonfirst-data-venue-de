@@ -2,13 +2,14 @@
   "id": 136199271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.239104,50.080196,8.239104,50.080196",
     "geom:latitude":50.080196,
     "geom:longitude":8.239104,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstr. 34",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136199271,
-    "wof:lastmodified":1449075034,
+    "wof:lastmodified":1466221146,
     "wof:name":"E. Dommershausen",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.239104,50.080196,8.239104,50.080196],
+  "bbox": [
+    8.239104,
+    50.080196,
+    8.239104,
+    50.080196
+],
   "geometry": {"coordinates":[8.239104,50.080196],"type":"Point"}
 }

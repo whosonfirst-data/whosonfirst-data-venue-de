@@ -2,13 +2,14 @@
   "id": 269903645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.055985,54.135529,12.055985,54.135529",
     "geom:latitude":54.135529,
     "geom:longitude":12.055985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Helsinkier Str. 28",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269903645,
-    "wof:lastmodified":1449036286,
+    "wof:lastmodified":1466230793,
     "wof:name":"Armin M\u00fcnch",
     "wof:parent_id":85899577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.055985,54.135529,12.055985,54.135529],
+  "bbox": [
+    12.055985,
+    54.135529,
+    12.055985,
+    54.135529
+],
   "geometry": {"coordinates":[12.055985,54.135529],"type":"Point"}
 }

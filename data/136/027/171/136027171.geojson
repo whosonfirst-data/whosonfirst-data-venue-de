@@ -2,13 +2,14 @@
   "id": 136027171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.466982,51.317348,9.466982,51.317348",
     "geom:latitude":51.317348,
     "geom:longitude":9.466982,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Doernbergstrasse 11",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905689,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85905689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136027171,
-    "wof:lastmodified":1449075152,
+    "wof:lastmodified":1466213365,
     "wof:name":"Artefaktur",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.466982,51.317348,9.466982,51.317348],
+  "bbox": [
+    9.466982,
+    51.317348,
+    9.466982,
+    51.317348
+],
   "geometry": {"coordinates":[9.466982,51.317348],"type":"Point"}
 }

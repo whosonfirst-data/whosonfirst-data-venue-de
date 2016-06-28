@@ -2,13 +2,14 @@
   "id": 119500035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.033641,50.132168,10.033641,50.132168",
     "geom:latitude":50.132168,
     "geom:longitude":10.033641,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 17",
     "sg:city":"Sulzthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119500035,
-    "wof:lastmodified":1449041463,
+    "wof:lastmodified":1466243518,
     "wof:name":"Anton Hesselbach",
     "wof:parent_id":101907259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.033641,50.132168,10.033641,50.132168],
+  "bbox": [
+    10.033641,
+    50.132168,
+    10.033641,
+    50.132168
+],
   "geometry": {"coordinates":[10.033641,50.132168],"type":"Point"}
 }

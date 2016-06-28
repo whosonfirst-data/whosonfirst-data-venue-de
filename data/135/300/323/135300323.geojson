@@ -2,13 +2,14 @@
   "id": 135300323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.380158,50.48196,12.380158,50.48196",
     "geom:latitude":50.48196,
     "geom:longitude":12.380158,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stra\u00dfe des Friedens 22",
     "sg:city":"Ellefeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135300323,
-    "wof:lastmodified":1449022703,
+    "wof:lastmodified":1466213843,
     "wof:name":"Martin Mevius",
     "wof:parent_id":101841175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.380158,50.48196,12.380158,50.48196],
+  "bbox": [
+    12.380158,
+    50.48196,
+    12.380158,
+    50.48196
+],
   "geometry": {"coordinates":[12.380158,50.48196],"type":"Point"}
 }

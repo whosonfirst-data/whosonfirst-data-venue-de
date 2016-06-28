@@ -2,13 +2,14 @@
   "id": 118742239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.736745,53.057133,8.736745,53.057133",
     "geom:latitude":53.057133,
     "geom:longitude":8.736745,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Huchtinger Heerstr. 36",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795689,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118742239,
-    "wof:lastmodified":1449053242,
+    "wof:lastmodified":1466226305,
     "wof:name":"Sanitas Ambulante Pflege- Dienste Iwona Kunz-zelewski",
     "wof:parent_id":85795689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.736745,53.057133,8.736745,53.057133],
+  "bbox": [
+    8.736745,
+    53.057133,
+    8.736745,
+    53.057133
+],
   "geometry": {"coordinates":[8.736745,53.057133],"type":"Point"}
 }

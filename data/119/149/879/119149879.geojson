@@ -2,13 +2,14 @@
   "id": 119149879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.030588,49.471443,10.030588,49.471443",
     "geom:latitude":49.471443,
     "geom:longitude":10.030588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bad Mergentheimer Str. 5",
     "sg:city":"Creglingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119149879,
-    "wof:lastmodified":1449040887,
+    "wof:lastmodified":1466224104,
     "wof:name":"Walter Zink Architekt",
     "wof:parent_id":101815765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.030588,49.471443,10.030588,49.471443],
+  "bbox": [
+    10.030588,
+    49.471443,
+    10.030588,
+    49.471443
+],
   "geometry": {"coordinates":[10.030588,49.471443],"type":"Point"}
 }

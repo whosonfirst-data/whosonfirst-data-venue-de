@@ -2,13 +2,14 @@
   "id": 119268671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.112941,54.071426,12.112941,54.071426",
     "geom:latitude":54.071426,
     "geom:longitude":12.112941,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hufelandstr. 22",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064117,
-        85633111,
         85682487,
-        85899005
+        85633111,
+        85899005,
+        102064117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119268671,
-    "wof:lastmodified":1449042377,
+    "wof:lastmodified":1466235461,
     "wof:name":"Dr. Med. Ulrike M\u00fcller",
     "wof:parent_id":85899005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.112941,54.071426,12.112941,54.071426],
+  "bbox": [
+    12.112941,
+    54.071426,
+    12.112941,
+    54.071426
+],
   "geometry": {"coordinates":[12.112941,54.071426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135290417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.811646,48.570045,7.811646,48.570045",
     "geom:latitude":48.570045,
     "geom:longitude":7.811646,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4rberstr. 20",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897709,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135290417,
-    "wof:lastmodified":1449022304,
+    "wof:lastmodified":1466235079,
     "wof:name":"Karl-heinz Schmidt B\u00e4ckerei Konditorei",
     "wof:parent_id":85897709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.811646,48.570045,7.811646,48.570045],
+  "bbox": [
+    7.811646,
+    48.570045,
+    7.811646,
+    48.570045
+],
   "geometry": {"coordinates":[7.811646,48.570045],"type":"Point"}
 }

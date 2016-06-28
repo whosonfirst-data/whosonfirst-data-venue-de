@@ -2,13 +2,14 @@
   "id": 152944725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.007472,49.240459,7.007472,49.240459",
     "geom:latitude":49.240459,
     "geom:longitude":7.007472,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Trift 33",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152944725,
-    "wof:lastmodified":1449046615,
+    "wof:lastmodified":1466230466,
     "wof:name":"Soziologie: Einf\u00fchrung Und Referate",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.007472,49.240459,7.007472,49.240459],
+  "bbox": [
+    7.007472,
+    49.240459,
+    7.007472,
+    49.240459
+],
   "geometry": {"coordinates":[7.007472,49.240459],"type":"Point"}
 }

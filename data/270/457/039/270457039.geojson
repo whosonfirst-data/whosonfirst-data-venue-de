@@ -2,13 +2,14 @@
   "id": 270457039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.345152,53.928516,12.345152,53.928516",
     "geom:latitude":53.928516,
     "geom:longitude":12.345152,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 17",
     "sg:city":"Laage",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270457039,
-    "wof:lastmodified":1449010311,
+    "wof:lastmodified":1466232567,
     "wof:name":"Ernst Dankwardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.345152,53.928516,12.345152,53.928516],
+  "bbox": [
+    12.345152,
+    53.928516,
+    12.345152,
+    53.928516
+],
   "geometry": {"coordinates":[12.345152,53.928516],"type":"Point"}
 }

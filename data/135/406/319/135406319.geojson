@@ -2,13 +2,14 @@
   "id": 135406319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.106316,49.001652,9.106316,49.001652",
     "geom:latitude":49.001652,
     "geom:longitude":9.106316,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1155:: 74367 L\u00f6chgau:: Germany.^^Besigheimer Str 43::",
     "sg:city":"L\u00f6chgau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135406319,
-    "wof:lastmodified":1449022631,
+    "wof:lastmodified":1466223379,
     "wof:name":"L\u00f6chgauer Bank Eg",
     "wof:parent_id":101760647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.106316,49.001652,9.106316,49.001652],
+  "bbox": [
+    9.106316,
+    49.001652,
+    9.106316,
+    49.001652
+],
   "geometry": {"coordinates":[9.106316,49.001652],"type":"Point"}
 }

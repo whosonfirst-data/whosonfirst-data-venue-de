@@ -2,13 +2,14 @@
   "id": 286371155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.7359,50.359386,8.7359,50.359386",
     "geom:latitude":50.359386,
     "geom:longitude":8.7359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Homburger Str. 28",
     "sg:city":"Bad Nauheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286371155,
-    "wof:lastmodified":1449017481,
+    "wof:lastmodified":1466227127,
     "wof:name":"Hans Breitbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.7359,50.359386,8.7359,50.359386],
+  "bbox": [
+    8.7359,
+    50.359386,
+    8.7359,
+    50.359386
+],
   "geometry": {"coordinates":[8.7359,50.359386],"type":"Point"}
 }

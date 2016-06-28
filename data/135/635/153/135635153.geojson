@@ -2,13 +2,14 @@
   "id": 135635153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.139538,53.603115,10.139538,53.603115",
     "geom:latitude":53.603115,
     "geom:longitude":10.139538,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nienhagener Str. 166",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899149,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135635153,
-    "wof:lastmodified":1449022318,
+    "wof:lastmodified":1466240528,
     "wof:name":"Klostar E. K.",
     "wof:parent_id":85899149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.139538,53.603115,10.139538,53.603115],
+  "bbox": [
+    10.139538,
+    53.603115,
+    10.139538,
+    53.603115
+],
   "geometry": {"coordinates":[10.139538,53.603115],"type":"Point"}
 }

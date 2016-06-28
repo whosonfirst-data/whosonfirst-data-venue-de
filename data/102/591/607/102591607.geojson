@@ -2,13 +2,14 @@
   "id": 102591607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.508077,52.463753,13.508077,52.463753",
     "geom:latitude":52.463753,
     "geom:longitude":13.508077,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siemensstr. 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899855,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102591607,
-    "wof:lastmodified":1449069032,
+    "wof:lastmodified":1466234838,
     "wof:name":"Tischlerei Blisse & Sohn Gmbh",
     "wof:parent_id":85899855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.508077,52.463753,13.508077,52.463753],
+  "bbox": [
+    13.508077,
+    52.463753,
+    13.508077,
+    52.463753
+],
   "geometry": {"coordinates":[13.508077,52.463753],"type":"Point"}
 }

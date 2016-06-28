@@ -2,13 +2,14 @@
   "id": 135960733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.302512,51.258602,12.302512,51.258602",
     "geom:latitude":51.258602,
     "geom:longitude":12.302512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erikenstr. 52",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85899381
+        85633111,
+        85899381,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135960733,
-    "wof:lastmodified":1449023168,
+    "wof:lastmodified":1466244913,
     "wof:name":"K\u00fchn Verwaltungs-gmbh",
     "wof:parent_id":85899381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.302512,51.258602,12.302512,51.258602],
+  "bbox": [
+    12.302512,
+    51.258602,
+    12.302512,
+    51.258602
+],
   "geometry": {"coordinates":[12.302512,51.258602],"type":"Point"}
 }

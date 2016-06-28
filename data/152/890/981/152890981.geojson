@@ -2,13 +2,14 @@
   "id": 152890981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.735407,52.429504,9.735407,52.429504",
     "geom:latitude":52.429504,
     "geom:longitude":9.735407,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"EISELENWEG 47A",
     "sg:city":"Langenhagen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152890981,
-    "wof:lastmodified":1449045316,
+    "wof:lastmodified":1466229160,
     "wof:name":"Organisations- Und It-l\u00f6sungen F\u00fcr Banken",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.735407,52.429504,9.735407,52.429504],
+  "bbox": [
+    9.735407,
+    52.429504,
+    9.735407,
+    52.429504
+],
   "geometry": {"coordinates":[9.735407,52.429504],"type":"Point"}
 }

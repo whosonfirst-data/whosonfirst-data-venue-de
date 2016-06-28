@@ -2,13 +2,14 @@
   "id": 152619087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54394,52.029942,8.54394,52.029942",
     "geom:latitude":52.029942,
     "geom:longitude":8.54394,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borsigstr. 1-11",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796573,
+        85682513,
         85633111,
         101748767,
         102063869,
-        85682513
+        85796573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152619087,
-    "wof:lastmodified":1449045137,
+    "wof:lastmodified":1466222901,
     "wof:name":"Hoffert Verwaltungsges. Mbh",
     "wof:parent_id":85796573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54394,52.029942,8.54394,52.029942],
+  "bbox": [
+    8.54394,
+    52.029942,
+    8.54394,
+    52.029942
+],
   "geometry": {"coordinates":[8.54394,52.029942],"type":"Point"}
 }

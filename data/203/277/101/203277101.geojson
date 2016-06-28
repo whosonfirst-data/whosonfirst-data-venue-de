@@ -2,13 +2,14 @@
   "id": 203277101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.617245,51.587311,10.617245,51.587311",
     "geom:latitude":51.587311,
     "geom:longitude":10.617245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirschwiesenstr. 1",
     "sg:city":"Walkenried",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203277101,
-    "wof:lastmodified":1449025158,
+    "wof:lastmodified":1466218479,
     "wof:name":"Ewald Bernhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.617245,51.587311,10.617245,51.587311],
+  "bbox": [
+    10.617245,
+    51.587311,
+    10.617245,
+    51.587311
+],
   "geometry": {"coordinates":[10.617245,51.587311],"type":"Point"}
 }

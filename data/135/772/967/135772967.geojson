@@ -2,13 +2,14 @@
   "id": 135772967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.660275,53.174892,8.660275,53.174892",
     "geom:latitude":53.174892,
     "geom:longitude":8.660275,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unter den Linden 34 a",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796473,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135772967,
-    "wof:lastmodified":1449022371,
+    "wof:lastmodified":1466243782,
     "wof:name":"Marquardt & Co. Kommanditgesellschaft",
     "wof:parent_id":85796473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.660275,53.174892,8.660275,53.174892],
+  "bbox": [
+    8.660275,
+    53.174892,
+    8.660275,
+    53.174892
+],
   "geometry": {"coordinates":[8.660275,53.174892],"type":"Point"}
 }

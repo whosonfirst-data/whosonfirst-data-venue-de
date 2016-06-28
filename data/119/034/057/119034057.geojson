@@ -2,13 +2,14 @@
   "id": 119034057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.1584,49.538212,11.1584,49.538212",
     "geom:latitude":49.538212,
     "geom:longitude":11.1584,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Eichenw\u00e4ldchen 10",
     "sg:city":"Heroldsberg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063513,
-        85633111,
         85682571,
-        85899057
+        85633111,
+        85899057,
+        102063513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119034057,
-    "wof:lastmodified":1449041140,
+    "wof:lastmodified":1466213909,
     "wof:name":"Hans Scharrer Architekt",
     "wof:parent_id":85899057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.1584,49.538212,11.1584,49.538212],
+  "bbox": [
+    11.1584,
+    49.538212,
+    11.1584,
+    49.538212
+],
   "geometry": {"coordinates":[11.1584,49.538212],"type":"Point"}
 }

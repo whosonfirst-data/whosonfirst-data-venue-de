@@ -2,13 +2,14 @@
   "id": 118552729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.856052,48.365414,10.856052,48.365414",
     "geom:latitude":48.365414,
     "geom:longitude":10.856052,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 62",
     "sg:city":"Stadtbergen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899443,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118552729,
-    "wof:lastmodified":1449053721,
+    "wof:lastmodified":1466215503,
     "wof:name":"Erzeugerring Saat Und Pflanzen Gut Schwaben E. V.",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.856052,48.365414,10.856052,48.365414],
+  "bbox": [
+    10.856052,
+    48.365414,
+    10.856052,
+    48.365414
+],
   "geometry": {"coordinates":[10.856052,48.365414],"type":"Point"}
 }

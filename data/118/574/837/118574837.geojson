@@ -2,13 +2,14 @@
   "id": 118574837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.873325,51.005623,6.873325,51.005623",
     "geom:latitude":51.005623,
     "geom:longitude":6.873325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Gewerbegebiet 17",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795193,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118574837,
-    "wof:lastmodified":1449053136,
+    "wof:lastmodified":1466216799,
     "wof:name":"A + P Werbeagentur Gmbh",
     "wof:parent_id":85795193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.873325,51.005623,6.873325,51.005623],
+  "bbox": [
+    6.873325,
+    51.005623,
+    6.873325,
+    51.005623
+],
   "geometry": {"coordinates":[6.873325,51.005623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119036195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.819911,53.076447,8.819911,53.076447",
     "geom:latitude":53.076447,
     "geom:longitude":8.819911,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eduard-Grunow-Str. 5",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794719,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85794719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119036195,
-    "wof:lastmodified":1449041396,
+    "wof:lastmodified":1466214120,
     "wof:name":"Hans-heinrich Wendt Architekt",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.819911,53.076447,8.819911,53.076447],
+  "bbox": [
+    8.819911,
+    53.076447,
+    8.819911,
+    53.076447
+],
   "geometry": {"coordinates":[8.819911,53.076447],"type":"Point"}
 }

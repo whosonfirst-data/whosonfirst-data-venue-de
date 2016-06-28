@@ -2,13 +2,14 @@
   "id": 253061767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.956103,50.941952,6.956103,50.941952",
     "geom:latitude":50.941952,
     "geom:longitude":6.956103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marzellenstr. 2-8",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253061767,
-    "wof:lastmodified":1449064964,
+    "wof:lastmodified":1466220547,
     "wof:name":"Reuters Ag",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.956103,50.941952,6.956103,50.941952],
+  "bbox": [
+    6.956103,
+    50.941952,
+    6.956103,
+    50.941952
+],
   "geometry": {"coordinates":[6.956103,50.941952],"type":"Point"}
 }

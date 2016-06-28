@@ -2,13 +2,14 @@
   "id": 136038223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.733377,51.034081,13.733377,51.034081",
     "geom:latitude":51.034081,
     "geom:longitude":13.733377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichenbachstr. 1",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899819,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523,
+        85899819,
         85899929
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136038223,
-    "wof:lastmodified":1449075782,
+    "wof:lastmodified":1466213860,
     "wof:name":"Club Mensa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.733377,51.034081,13.733377,51.034081],
+  "bbox": [
+    13.733377,
+    51.034081,
+    13.733377,
+    51.034081
+],
   "geometry": {"coordinates":[13.733377,51.034081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136185167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.788328,52.417843,10.788328,52.417843",
     "geom:latitude":52.417843,
     "geom:longitude":10.788328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bebelstr. 9",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063921,
-        85633111,
         85682555,
-        85905775
+        85633111,
+        85905775,
+        102063921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136185167,
-    "wof:lastmodified":1449075133,
+    "wof:lastmodified":1466220422,
     "wof:name":"Birgit Schreyer",
     "wof:parent_id":85905775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.788328,52.417843,10.788328,52.417843],
+  "bbox": [
+    10.788328,
+    52.417843,
+    10.788328,
+    52.417843
+],
   "geometry": {"coordinates":[10.788328,52.417843],"type":"Point"}
 }

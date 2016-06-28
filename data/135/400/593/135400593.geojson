@@ -2,13 +2,14 @@
   "id": 135400593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.008406,53.81028,10.008406,53.81028",
     "geom:latitude":53.81028,
     "geom:longitude":10.008406,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sengel 4",
     "sg:city":"Kisdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135400593,
-    "wof:lastmodified":1449021293,
+    "wof:lastmodified":1466222905,
     "wof:name":"Kreissparkasse Segeberg",
     "wof:parent_id":101806781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.008406,53.81028,10.008406,53.81028],
+  "bbox": [
+    10.008406,
+    53.81028,
+    10.008406,
+    53.81028
+],
   "geometry": {"coordinates":[10.008406,53.81028],"type":"Point"}
 }

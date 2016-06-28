@@ -2,13 +2,14 @@
   "id": 118707141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.886241,51.511501,11.886241,51.511501",
     "geom:latitude":51.511501,
     "geom:longitude":11.886241,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hummelweg 16",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899107,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85899107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118707141,
-    "wof:lastmodified":1449054336,
+    "wof:lastmodified":1466224326,
     "wof:name":"Gemeindeschwesterstation Bereich Poliklinik West",
     "wof:parent_id":85899107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.886241,51.511501,11.886241,51.511501],
+  "bbox": [
+    11.886241,
+    51.511501,
+    11.886241,
+    51.511501
+],
   "geometry": {"coordinates":[11.886241,51.511501],"type":"Point"}
 }

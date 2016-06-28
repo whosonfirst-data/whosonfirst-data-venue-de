@@ -2,13 +2,14 @@
   "id": 202387001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.535623,52.491512,10.535623,52.491512",
     "geom:latitude":52.491512,
     "geom:longitude":10.535623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilscher Weg 6",
     "sg:city":"Gifhorn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202387001,
-    "wof:lastmodified":1449062313,
+    "wof:lastmodified":1466213532,
     "wof:name":"Tschritter Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.535623,52.491512,10.535623,52.491512],
+  "bbox": [
+    10.535623,
+    52.491512,
+    10.535623,
+    52.491512
+],
   "geometry": {"coordinates":[10.535623,52.491512],"type":"Point"}
 }

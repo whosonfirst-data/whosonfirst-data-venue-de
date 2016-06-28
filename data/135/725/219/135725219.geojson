@@ -2,13 +2,14 @@
   "id": 135725219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.593883,48.161602,11.593883,48.161602",
     "geom:latitude":48.161602,
     "geom:longitude":11.593883,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Keferstr. 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135725219,
-    "wof:lastmodified":1449021725,
+    "wof:lastmodified":1466243063,
     "wof:name":"Tenuta Grundst\u00fcck Gmbh & Co. Bautr\u00e4ger Kg",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.593883,48.161602,11.593883,48.161602],
+  "bbox": [
+    11.593883,
+    48.161602,
+    11.593883,
+    48.161602
+],
   "geometry": {"coordinates":[11.593883,48.161602],"type":"Point"}
 }

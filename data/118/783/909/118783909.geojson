@@ -2,13 +2,14 @@
   "id": 118783909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.757926,51.231789,6.757926,51.231789",
     "geom:latitude":51.231789,
     "geom:longitude":6.757926,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luegallee 22",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796275,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85796275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118783909,
-    "wof:lastmodified":1449053187,
+    "wof:lastmodified":1466228788,
     "wof:name":"Gabriele Vierzig",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.757926,51.231789,6.757926,51.231789],
+  "bbox": [
+    6.757926,
+    51.231789,
+    6.757926,
+    51.231789
+],
   "geometry": {"coordinates":[6.757926,51.231789],"type":"Point"}
 }

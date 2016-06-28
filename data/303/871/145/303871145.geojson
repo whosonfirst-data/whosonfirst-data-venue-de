@@ -2,13 +2,14 @@
   "id": 303871145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.033839,50.914295,13.033839,50.914295",
     "geom:latitude":50.914295,
     "geom:longitude":13.033839,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlo\u00dfstr. 34",
     "sg:city":"Frankenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303871145,
-    "wof:lastmodified":1448998920,
+    "wof:lastmodified":1466241126,
     "wof:name":"Eckelmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.033839,50.914295,13.033839,50.914295],
+  "bbox": [
+    13.033839,
+    50.914295,
+    13.033839,
+    50.914295
+],
   "geometry": {"coordinates":[13.033839,50.914295],"type":"Point"}
 }

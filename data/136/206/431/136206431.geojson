@@ -2,13 +2,14 @@
   "id": 136206431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.244908,50.049595,10.244908,50.049595",
     "geom:latitude":50.049595,
     "geom:longitude":10.244908,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hennebergstr. 2",
     "sg:city":"Schweinfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136206431,
-    "wof:lastmodified":1449075837,
+    "wof:lastmodified":1466221553,
     "wof:name":"Fritz Baumbach",
     "wof:parent_id":101748575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.244908,50.049595,10.244908,50.049595],
+  "bbox": [
+    10.244908,
+    50.049595,
+    10.244908,
+    50.049595
+],
   "geometry": {"coordinates":[10.244908,50.049595],"type":"Point"}
 }

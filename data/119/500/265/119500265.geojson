@@ -2,13 +2,14 @@
   "id": 119500265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.8412,50.127151,9.8412,50.127151",
     "geom:latitude":50.127151,
     "geom:longitude":9.8412,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Diebacher Str. 4",
     "sg:city":"Hammelburg",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":119500265,
-    "wof:lastmodified":1449041462,
+    "wof:lastmodified":1466243532,
     "wof:name":"Anton Remling",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.8412,50.127151,9.8412,50.127151],
+  "bbox": [
+    9.8412,
+    50.127151,
+    9.8412,
+    50.127151
+],
   "geometry": {"coordinates":[9.8412,50.127151],"type":"Point"}
 }

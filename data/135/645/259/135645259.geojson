@@ -2,13 +2,14 @@
   "id": 135645259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.718775,50.099823,8.718775,50.099823",
     "geom:latitude":50.099823,
     "geom:longitude":8.718775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Offenbacher Landstr. 278",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795621,
+        85682531,
         85633111,
         101748577,
         102063571,
-        85682531
+        85795621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135645259,
-    "wof:lastmodified":1449021301,
+    "wof:lastmodified":1466240694,
     "wof:name":"Prewood Export-import Gmbh",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.718775,50.099823,8.718775,50.099823],
+  "bbox": [
+    8.718775,
+    50.099823,
+    8.718775,
+    50.099823
+],
   "geometry": {"coordinates":[8.718775,50.099823],"type":"Point"}
 }

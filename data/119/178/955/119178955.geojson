@@ -2,13 +2,14 @@
   "id": 119178955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.514761,52.575523,13.514761,52.575523",
     "geom:latitude":52.575523,
     "geom:longitude":13.514761,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 31",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85905653
+        85633111,
+        85905653,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119178955,
-    "wof:lastmodified":1449042787,
+    "wof:lastmodified":1466226857,
     "wof:name":"Makra Bauplanungs- Und Bau- Projektierungsgesellschaft Mbh",
     "wof:parent_id":85905653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.514761,52.575523,13.514761,52.575523],
+  "bbox": [
+    13.514761,
+    52.575523,
+    13.514761,
+    52.575523
+],
   "geometry": {"coordinates":[13.514761,52.575523],"type":"Point"}
 }

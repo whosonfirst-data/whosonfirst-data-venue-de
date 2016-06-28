@@ -2,13 +2,14 @@
   "id": 135321331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.972697,49.568287,8.972697,49.568287",
     "geom:latitude":49.568287,
     "geom:longitude":8.972697,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchweg 5",
     "sg:city":"Beerfelden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135321331,
-    "wof:lastmodified":1449021046,
+    "wof:lastmodified":1466215626,
     "wof:name":"W. Helm",
     "wof:parent_id":101813107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.972697,49.568287,8.972697,49.568287],
+  "bbox": [
+    8.972697,
+    49.568287,
+    8.972697,
+    49.568287
+],
   "geometry": {"coordinates":[8.972697,49.568287],"type":"Point"}
 }

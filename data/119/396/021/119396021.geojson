@@ -2,13 +2,14 @@
   "id": 119396021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.696416,53.904865,10.696416,53.904865",
     "geom:latitude":53.904865,
     "geom:longitude":10.696416,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zur Teerhofsinsel 10 a",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064089,
-        85633111,
         85682517,
-        85900155
+        85633111,
+        85900155,
+        102064089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119396021,
-    "wof:lastmodified":1449042632,
+    "wof:lastmodified":1466241461,
     "wof:name":"Hwg Haus- Und Wintergarten- Baugesellschaft Mbh",
     "wof:parent_id":85900155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.696416,53.904865,10.696416,53.904865],
+  "bbox": [
+    10.696416,
+    53.904865,
+    10.696416,
+    53.904865
+],
   "geometry": {"coordinates":[10.696416,53.904865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336924311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.395789,51.32362,12.395789,51.32362",
     "geom:latitude":51.32362,
     "geom:longitude":12.395789,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Philipp-Rosenthal-Str. 66",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336924311,
-    "wof:lastmodified":1448997243,
+    "wof:lastmodified":1466239084,
     "wof:name":"Josef Bludowsky",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.395789,51.32362,12.395789,51.32362],
+  "bbox": [
+    12.395789,
+    51.32362,
+    12.395789,
+    51.32362
+],
   "geometry": {"coordinates":[12.395789,51.32362],"type":"Point"}
 }

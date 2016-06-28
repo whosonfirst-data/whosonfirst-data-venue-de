@@ -2,13 +2,14 @@
   "id": 119478889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.610234,49.89954,8.610234,49.89954",
     "geom:latitude":49.89954,
     "geom:longitude":8.610234,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 8",
     "sg:city":"Weiterstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119478889,
-    "wof:lastmodified":1449040972,
+    "wof:lastmodified":1466243404,
     "wof:name":"Sixt Gmbh & Co. Autovermietung Kg",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.610234,49.89954,8.610234,49.89954],
+  "bbox": [
+    8.610234,
+    49.89954,
+    8.610234,
+    49.89954
+],
   "geometry": {"coordinates":[8.610234,49.89954],"type":"Point"}
 }

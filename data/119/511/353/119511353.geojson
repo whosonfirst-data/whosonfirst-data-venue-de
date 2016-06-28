@@ -2,13 +2,14 @@
   "id": 119511353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.993646,51.021919,10.993646,51.021919",
     "geom:latitude":51.021919,
     "geom:longitude":10.993646,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstr. 28",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899201,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119511353,
-    "wof:lastmodified":1449042055,
+    "wof:lastmodified":1466243655,
     "wof:name":"Dieter G\u00fcnther",
     "wof:parent_id":85899201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.993646,51.021919,10.993646,51.021919],
+  "bbox": [
+    10.993646,
+    51.021919,
+    10.993646,
+    51.021919
+],
   "geometry": {"coordinates":[10.993646,51.021919],"type":"Point"}
 }

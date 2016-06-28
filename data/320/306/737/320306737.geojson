@@ -2,13 +2,14 @@
   "id": 320306737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.342537,48.456844,9.342537,48.456844",
     "geom:latitude":48.456844,
     "geom:longitude":9.342537,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-Johanner-Str. 28",
     "sg:city":"St. Johann",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320306737,
-    "wof:lastmodified":1449014788,
+    "wof:lastmodified":1466239042,
     "wof:name":"H. Speidel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.342537,48.456844,9.342537,48.456844],
+  "bbox": [
+    9.342537,
+    48.456844,
+    9.342537,
+    48.456844
+],
   "geometry": {"coordinates":[9.342537,48.456844],"type":"Point"}
 }

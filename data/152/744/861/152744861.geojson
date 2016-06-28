@@ -2,13 +2,14 @@
   "id": 152744861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.304922,52.496326,13.304922,52.496326",
     "geom:latitude":52.496326,
     "geom:longitude":13.304922,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"eisenzahnstr.9",
     "sg:city":"berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152744861,
-    "wof:lastmodified":1449045985,
+    "wof:lastmodified":1466225714,
     "wof:name":"Abc Biertische Bistrotische",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.304922,52.496326,13.304922,52.496326],
+  "bbox": [
+    13.304922,
+    52.496326,
+    13.304922,
+    52.496326
+],
   "geometry": {"coordinates":[13.304922,52.496326],"type":"Point"}
 }

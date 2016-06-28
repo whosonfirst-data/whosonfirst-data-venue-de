@@ -2,13 +2,14 @@
   "id": 152780655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.962082,51.13887,6.962082,51.13887",
     "geom:latitude":51.13887,
     "geom:longitude":6.962082,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"friedrich-krupp-str.5",
     "sg:city":"langenfeld",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063731,
-        85633111,
         85682513,
-        85795775
+        85633111,
+        85795775,
+        102063731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152780655,
-    "wof:lastmodified":1449047759,
+    "wof:lastmodified":1466226594,
     "wof:name":"Der Distanzierungsdienst",
     "wof:parent_id":85795775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.962082,51.13887,6.962082,51.13887],
+  "bbox": [
+    6.962082,
+    51.13887,
+    6.962082,
+    51.13887
+],
   "geometry": {"coordinates":[6.962082,51.13887],"type":"Point"}
 }

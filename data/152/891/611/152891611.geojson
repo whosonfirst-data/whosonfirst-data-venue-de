@@ -2,13 +2,14 @@
   "id": 152891611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.838389,53.051025,8.838389,53.051025",
     "geom:latitude":53.051025,
     "geom:longitude":8.838389,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Habenhauser Landstr. 150",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795395,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85795395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152891611,
-    "wof:lastmodified":1449047084,
+    "wof:lastmodified":1466229177,
     "wof:name":"Oskar Jezior - Klavier Geige Komposition",
     "wof:parent_id":85795395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.838389,53.051025,8.838389,53.051025],
+  "bbox": [
+    8.838389,
+    53.051025,
+    8.838389,
+    53.051025
+],
   "geometry": {"coordinates":[8.838389,53.051025],"type":"Point"}
 }

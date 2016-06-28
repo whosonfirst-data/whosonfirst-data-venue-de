@@ -2,13 +2,14 @@
   "id": 136210821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.445514,48.646767,9.445514,48.646767",
     "geom:latitude":48.646767,
     "geom:longitude":9.445514,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kolbstr. 26",
     "sg:city":"Kirchheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136210821,
-    "wof:lastmodified":1449075356,
+    "wof:lastmodified":1466221831,
     "wof:name":"Graf",
     "wof:parent_id":101763149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.445514,48.646767,9.445514,48.646767],
+  "bbox": [
+    9.445514,
+    48.646767,
+    9.445514,
+    48.646767
+],
   "geometry": {"coordinates":[9.445514,48.646767],"type":"Point"}
 }

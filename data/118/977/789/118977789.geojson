@@ -2,13 +2,14 @@
   "id": 118977789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.291537,52.612373,13.291537,52.612373",
     "geom:latitude":52.612373,
     "geom:longitude":13.291537,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zieselweg 20 a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905649,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85905649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118977789,
-    "wof:lastmodified":1449054586,
+    "wof:lastmodified":1466239002,
     "wof:name":"Arnold Schindler Architekt",
     "wof:parent_id":85905649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.291537,52.612373,13.291537,52.612373],
+  "bbox": [
+    13.291537,
+    52.612373,
+    13.291537,
+    52.612373
+],
   "geometry": {"coordinates":[13.291537,52.612373],"type":"Point"}
 }

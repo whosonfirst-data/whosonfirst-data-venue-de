@@ -2,13 +2,14 @@
   "id": 152574095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.395015,52.407295,13.395015,52.407295",
     "geom:latitude":52.407295,
     "geom:longitude":13.395015,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krusauer Str. 25",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152574095,
-    "wof:lastmodified":1449044256,
+    "wof:lastmodified":1466221921,
     "wof:name":"Bgs Bauplanung Grundst\u00fccks- Entwicklungs Sanierungs-",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.395015,52.407295,13.395015,52.407295],
+  "bbox": [
+    13.395015,
+    52.407295,
+    13.395015,
+    52.407295
+],
   "geometry": {"coordinates":[13.395015,52.407295],"type":"Point"}
 }

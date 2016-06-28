@@ -2,13 +2,14 @@
   "id": 269593175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.280122,47.407452,10.280122,47.407452",
     "geom:latitude":47.407452,
     "geom:longitude":10.280122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Metzgerstr. 7",
     "sg:city":"Oberstdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269593175,
-    "wof:lastmodified":1449037713,
+    "wof:lastmodified":1466223420,
     "wof:name":"T. Hohmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.280122,47.407452,10.280122,47.407452],
+  "bbox": [
+    10.280122,
+    47.407452,
+    10.280122,
+    47.407452
+],
   "geometry": {"coordinates":[10.280122,47.407452],"type":"Point"}
 }

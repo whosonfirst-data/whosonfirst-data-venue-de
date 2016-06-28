@@ -2,13 +2,14 @@
   "id": 135912731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.690723,51.20356,6.690723,51.20356",
     "geom:latitude":51.20356,
     "geom:longitude":6.690723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nigstr. 82",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -18,14 +19,14 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796071,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513,
-        85796695,
+        85796071,
         101748671,
-        102063759
+        102063759,
+        85796695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135912731,
-    "wof:lastmodified":1449022511,
+    "wof:lastmodified":1466244598,
     "wof:name":"Verwaltungsgesellschaft Wilhelm Werhahn Mbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.690723,51.20356,6.690723,51.20356],
+  "bbox": [
+    6.690723,
+    51.20356,
+    6.690723,
+    51.20356
+],
   "geometry": {"coordinates":[6.690723,51.20356],"type":"Point"}
 }

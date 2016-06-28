@@ -2,13 +2,14 @@
   "id": 135568641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.995481,51.441574,6.995481,51.441574",
     "geom:latitude":51.441574,
     "geom:longitude":6.995481,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gemarkenstr. 47",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795447,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135568641,
-    "wof:lastmodified":1449020902,
+    "wof:lastmodified":1466237136,
     "wof:name":"Aktivbau Gmbh",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.995481,51.441574,6.995481,51.441574],
+  "bbox": [
+    6.995481,
+    51.441574,
+    6.995481,
+    51.441574
+],
   "geometry": {"coordinates":[6.995481,51.441574],"type":"Point"}
 }

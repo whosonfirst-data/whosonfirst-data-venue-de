@@ -2,13 +2,14 @@
   "id": 102562107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.547063,51.328793,6.547063,51.328793",
     "geom:latitude":51.328793,
     "geom:longitude":6.547063,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstr 214",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864277,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85864277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102562107,
-    "wof:lastmodified":1449069019,
+    "wof:lastmodified":1466224278,
     "wof:name":"Seidenweberei Ludwig G\u00fcsken Gmbh & Co Kg",
     "wof:parent_id":85864277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.547063,51.328793,6.547063,51.328793],
+  "bbox": [
+    6.547063,
+    51.328793,
+    6.547063,
+    51.328793
+],
   "geometry": {"coordinates":[6.547063,51.328793],"type":"Point"}
 }

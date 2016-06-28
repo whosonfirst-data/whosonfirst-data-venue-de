@@ -2,13 +2,14 @@
   "id": 119274101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.41783,52.521297,13.41783,52.521297",
     "geom:latitude":52.521297,
     "geom:longitude":13.41783,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Marx-Allee 6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899171,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119274101,
-    "wof:lastmodified":1449041170,
+    "wof:lastmodified":1466235936,
     "wof:name":"Renate Harnack",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.41783,52.521297,13.41783,52.521297],
+  "bbox": [
+    13.41783,
+    52.521297,
+    13.41783,
+    52.521297
+],
   "geometry": {"coordinates":[13.41783,52.521297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152777167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.802153,50.989895,13.802153,50.989895",
     "geom:latitude":50.989895,
     "geom:longitude":13.802153,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nickernerplatz 1",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899925,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152777167,
-    "wof:lastmodified":1449046745,
+    "wof:lastmodified":1466226512,
     "wof:name":"Das Kinderhaus Krea(k)tiv",
     "wof:parent_id":85899925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.802153,50.989895,13.802153,50.989895],
+  "bbox": [
+    13.802153,
+    50.989895,
+    13.802153,
+    50.989895
+],
   "geometry": {"coordinates":[13.802153,50.989895],"type":"Point"}
 }

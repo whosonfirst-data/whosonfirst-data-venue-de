@@ -2,13 +2,14 @@
   "id": 135694349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.39465,51.624088,7.39465,51.624088",
     "geom:latitude":51.624088,
     "geom:longitude":7.39465,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach",
     "sg:city":"Waltrop",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
-        85795973
+        85633111,
+        85795973,
+        102063831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135694349,
-    "wof:lastmodified":1449021862,
+    "wof:lastmodified":1466242372,
     "wof:name":"I. Kratzer Bautr\u00e4gerges. Mbh",
     "wof:parent_id":85795973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.39465,51.624088,7.39465,51.624088],
+  "bbox": [
+    7.39465,
+    51.624088,
+    7.39465,
+    51.624088
+],
   "geometry": {"coordinates":[7.39465,51.624088],"type":"Point"}
 }

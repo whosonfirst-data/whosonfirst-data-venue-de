@@ -2,13 +2,14 @@
   "id": 119280863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.320441,52.508774,13.320441,52.508774",
     "geom:latitude":52.508774,
     "geom:longitude":13.320441,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goethestr. 78",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899911,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499,
+        85899911,
         85899239
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119280863,
-    "wof:lastmodified":1449042148,
+    "wof:lastmodified":1466236716,
     "wof:name":"Inline Softwaretechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.320441,52.508774,13.320441,52.508774],
+  "bbox": [
+    13.320441,
+    52.508774,
+    13.320441,
+    52.508774
+],
   "geometry": {"coordinates":[13.320441,52.508774],"type":"Point"}
 }

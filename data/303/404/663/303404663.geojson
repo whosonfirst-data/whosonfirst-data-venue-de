@@ -2,13 +2,14 @@
   "id": 303404663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.666701,50.120281,8.666701,50.120281",
     "geom:latitude":50.120281,
     "geom:longitude":8.666701,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eppsteiner Str. 31",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303404663,
-    "wof:lastmodified":1448999743,
+    "wof:lastmodified":1466234544,
     "wof:name":"Druckerei Voigt Gmbh",
     "wof:parent_id":85795339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.666701,50.120281,8.666701,50.120281],
+  "bbox": [
+    8.666701,
+    50.120281,
+    8.666701,
+    50.120281
+],
   "geometry": {"coordinates":[8.666701,50.120281],"type":"Point"}
 }

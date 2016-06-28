@@ -2,13 +2,14 @@
   "id": 286558639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.250031,50.309052,11.250031,50.309052",
     "geom:latitude":50.309052,
     "geom:longitude":11.250031,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bucher Str. 14",
     "sg:city":"Neuhaus-Schierschnitz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286558639,
-    "wof:lastmodified":1449015989,
+    "wof:lastmodified":1466231560,
     "wof:name":"Paul Schorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.250031,50.309052,11.250031,50.309052],
+  "bbox": [
+    11.250031,
+    50.309052,
+    11.250031,
+    50.309052
+],
   "geometry": {"coordinates":[11.250031,50.309052],"type":"Point"}
 }

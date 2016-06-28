@@ -2,13 +2,14 @@
   "id": 119039739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.457024,51.279964,12.457024,51.279964",
     "geom:latitude":51.279964,
     "geom:longitude":12.457024,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcldengossaer Str. 23",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064225,
-        85633111,
         85682523,
-        85900287
+        85633111,
+        85900287,
+        102064225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119039739,
-    "wof:lastmodified":1449043199,
+    "wof:lastmodified":1466214455,
     "wof:name":"Harald K\u00f6del Architekt",
     "wof:parent_id":85900287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.457024,51.279964,12.457024,51.279964],
+  "bbox": [
+    12.457024,
+    51.279964,
+    12.457024,
+    51.279964
+],
   "geometry": {"coordinates":[12.457024,51.279964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136173305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.01503,51.023323,7.01503,51.023323",
     "geom:latitude":51.023323,
     "geom:longitude":7.01503,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stixchesstr. 160",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795931,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85795931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136173305,
-    "wof:lastmodified":1449075157,
+    "wof:lastmodified":1466219860,
     "wof:name":"T\u00dcv Plus Service Leverkusen Gmbh",
     "wof:parent_id":85795931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.01503,51.023323,7.01503,51.023323],
+  "bbox": [
+    7.01503,
+    51.023323,
+    7.01503,
+    51.023323
+],
   "geometry": {"coordinates":[7.01503,51.023323],"type":"Point"}
 }

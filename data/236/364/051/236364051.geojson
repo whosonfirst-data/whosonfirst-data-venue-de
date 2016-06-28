@@ -2,13 +2,14 @@
   "id": 236364051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.105334,47.86095,12.105334,47.86095",
     "geom:latitude":47.86095,
     "geom:longitude":12.105334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sudetenlandstr. 29a",
     "sg:city":"Rosenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236364051,
-    "wof:lastmodified":1449003519,
+    "wof:lastmodified":1466225508,
     "wof:name":"Josef Hennes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.105334,47.86095,12.105334,47.86095],
+  "bbox": [
+    12.105334,
+    47.86095,
+    12.105334,
+    47.86095
+],
   "geometry": {"coordinates":[12.105334,47.86095],"type":"Point"}
 }

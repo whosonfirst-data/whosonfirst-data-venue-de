@@ -2,13 +2,14 @@
   "id": 119043971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.457494,52.535866,13.457494,52.535866",
     "geom:latitude":52.535866,
     "geom:longitude":13.457494,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sigridstr. 8",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928747,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119043971,
-    "wof:lastmodified":1449042854,
+    "wof:lastmodified":1466214830,
     "wof:name":"Heinz B\u00fcttner Architekt",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.457494,52.535866,13.457494,52.535866],
+  "bbox": [
+    13.457494,
+    52.535866,
+    13.457494,
+    52.535866
+],
   "geometry": {"coordinates":[13.457494,52.535866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119004899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.965952,49.468613,10.965952,49.468613",
     "geom:latitude":49.468613,
     "geom:longitude":10.965952,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eckartstr. 6",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063467,
-        85633111,
         85682571,
-        85899081
+        85633111,
+        85899081,
+        102063467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119004899,
-    "wof:lastmodified":1449041752,
+    "wof:lastmodified":1466213970,
     "wof:name":"Ernst Ladek Architekt",
     "wof:parent_id":85899081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.965952,49.468613,10.965952,49.468613],
+  "bbox": [
+    10.965952,
+    49.468613,
+    10.965952,
+    49.468613
+],
   "geometry": {"coordinates":[10.965952,49.468613],"type":"Point"}
 }

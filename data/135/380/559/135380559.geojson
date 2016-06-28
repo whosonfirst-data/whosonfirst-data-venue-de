@@ -2,13 +2,14 @@
   "id": 135380559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.784998,51.225681,6.784998,51.225681",
     "geom:latitude":51.225681,
     "geom:longitude":6.784998,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterstr.22-22 a",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135380559,
-    "wof:lastmodified":1449022415,
+    "wof:lastmodified":1466221040,
     "wof:name":"Deutsche Hypothekenbank, Frankfurt Ag",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.784998,51.225681,6.784998,51.225681],
+  "bbox": [
+    6.784998,
+    51.225681,
+    6.784998,
+    51.225681
+],
   "geometry": {"coordinates":[6.784998,51.225681],"type":"Point"}
 }

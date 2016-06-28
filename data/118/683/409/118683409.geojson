@@ -2,13 +2,14 @@
   "id": 118683409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.1727,54.397736,10.1727,54.397736",
     "geom:latitude":54.397736,
     "geom:longitude":10.1727,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brammerkamp 9 a",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899119,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118683409,
-    "wof:lastmodified":1449053662,
+    "wof:lastmodified":1466222931,
     "wof:name":"Ambulante Pflege Heidrun Hauser",
     "wof:parent_id":85899119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.1727,54.397736,10.1727,54.397736],
+  "bbox": [
+    10.1727,
+    54.397736,
+    10.1727,
+    54.397736
+],
   "geometry": {"coordinates":[10.1727,54.397736],"type":"Point"}
 }

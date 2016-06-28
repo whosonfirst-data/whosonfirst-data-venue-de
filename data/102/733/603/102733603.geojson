@@ -2,13 +2,14 @@
   "id": 102733603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.205185,54.040951,10.205185,54.040951",
     "geom:latitude":54.040951,
     "geom:longitude":10.205185,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Trappenkamp",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102733603,
-    "wof:lastmodified":1449068148,
+    "wof:lastmodified":1466217209,
     "wof:name":"Stahl",
     "wof:parent_id":101806745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.205185,54.040951,10.205185,54.040951],
+  "bbox": [
+    10.205185,
+    54.040951,
+    10.205185,
+    54.040951
+],
   "geometry": {"coordinates":[10.205185,54.040951],"type":"Point"}
 }

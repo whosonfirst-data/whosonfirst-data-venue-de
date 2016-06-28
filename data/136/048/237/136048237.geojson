@@ -2,13 +2,14 @@
   "id": 136048237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.650593,48.100697,11.650593,48.100697",
     "geom:latitude":48.100697,
     "geom:longitude":11.650593,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerhart-Hauptmann-Ring 11",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899707,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136048237,
-    "wof:lastmodified":1449075372,
+    "wof:lastmodified":1466214338,
     "wof:name":"Dieters Homepage",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.650593,48.100697,11.650593,48.100697],
+  "bbox": [
+    11.650593,
+    48.100697,
+    11.650593,
+    48.100697
+],
   "geometry": {"coordinates":[11.650593,48.100697],"type":"Point"}
 }

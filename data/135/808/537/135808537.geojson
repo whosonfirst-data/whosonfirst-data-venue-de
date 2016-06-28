@@ -2,13 +2,14 @@
   "id": 135808537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.688769,52.525928,13.688769,52.525928",
     "geom:latitude":52.525928,
     "geom:longitude":13.688769,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausstr. 2a",
     "sg:city":"Neuenhagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135808537,
-    "wof:lastmodified":1449021127,
+    "wof:lastmodified":1466244119,
     "wof:name":"Euronorm Gesellschaft F\u00fcr Qualit\u00e4tssicherung Und",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.688769,52.525928,13.688769,52.525928],
+  "bbox": [
+    13.688769,
+    52.525928,
+    13.688769,
+    52.525928
+],
   "geometry": {"coordinates":[13.688769,52.525928],"type":"Point"}
 }

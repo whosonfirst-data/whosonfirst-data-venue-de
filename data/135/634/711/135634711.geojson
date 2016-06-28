@@ -2,13 +2,14 @@
   "id": 135634711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.691962,51.194393,6.691962,51.194393",
     "geom:latitude":51.194393,
     "geom:longitude":6.691962,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breite Str. 10",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862935,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85862935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135634711,
-    "wof:lastmodified":1449022461,
+    "wof:lastmodified":1466240560,
     "wof:name":"Forum Handels Gmbh",
     "wof:parent_id":85862935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.691962,51.194393,6.691962,51.194393],
+  "bbox": [
+    6.691962,
+    51.194393,
+    6.691962,
+    51.194393
+],
   "geometry": {"coordinates":[6.691962,51.194393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320320777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.808271,51.038059,13.808271,51.038059",
     "geom:latitude":51.038059,
     "geom:longitude":13.808271,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schandauer Str. 96",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320320777,
-    "wof:lastmodified":1449012210,
+    "wof:lastmodified":1466239261,
     "wof:name":"Rollstuhlcenter",
     "wof:parent_id":85899013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.808271,51.038059,13.808271,51.038059],
+  "bbox": [
+    13.808271,
+    51.038059,
+    13.808271,
+    51.038059
+],
   "geometry": {"coordinates":[13.808271,51.038059],"type":"Point"}
 }

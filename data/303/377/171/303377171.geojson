@@ -2,13 +2,14 @@
   "id": 303377171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.141468,48.969013,10.141468,48.969013",
     "geom:latitude":48.969013,
     "geom:longitude":10.141468,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nenbergstr. 57",
     "sg:city":"Ellwangen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303377171,
-    "wof:lastmodified":1448999038,
+    "wof:lastmodified":1466233808,
     "wof:name":"Robert Raible",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.141468,48.969013,10.141468,48.969013],
+  "bbox": [
+    10.141468,
+    48.969013,
+    10.141468,
+    48.969013
+],
   "geometry": {"coordinates":[10.141468,48.969013],"type":"Point"}
 }

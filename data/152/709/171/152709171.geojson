@@ -2,13 +2,14 @@
   "id": 152709171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.767758,51.220905,6.767758,51.220905",
     "geom:latitude":51.220905,
     "geom:longitude":6.767758,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mannesmannufer 2",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513,
+        85795219,
         85796275
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152709171,
-    "wof:lastmodified":1449045229,
+    "wof:lastmodified":1466224873,
     "wof:name":"Mannesmann Beteiligungs- Holding Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.767758,51.220905,6.767758,51.220905],
+  "bbox": [
+    6.767758,
+    51.220905,
+    6.767758,
+    51.220905
+],
   "geometry": {"coordinates":[6.767758,51.220905],"type":"Point"}
 }

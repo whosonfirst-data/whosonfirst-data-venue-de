@@ -2,13 +2,14 @@
   "id": 303517249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.167682,51.240509,7.167682,51.240509",
     "geom:latitude":51.240509,
     "geom:longitude":7.167682,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Walde 23",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303517249,
-    "wof:lastmodified":1448999517,
+    "wof:lastmodified":1466236809,
     "wof:name":"Heinz Born",
     "wof:parent_id":85796159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.167682,51.240509,7.167682,51.240509],
+  "bbox": [
+    7.167682,
+    51.240509,
+    7.167682,
+    51.240509
+],
   "geometry": {"coordinates":[7.167682,51.240509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119058205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.430617,48.157486,11.430617,48.157486",
     "geom:latitude":48.157486,
     "geom:longitude":11.430617,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Staufener Str. 1",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899725,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119058205,
-    "wof:lastmodified":1449041217,
+    "wof:lastmodified":1466216169,
     "wof:name":"Horst Schielin Architekt",
     "wof:parent_id":85899725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.430617,48.157486,11.430617,48.157486],
+  "bbox": [
+    11.430617,
+    48.157486,
+    11.430617,
+    48.157486
+],
   "geometry": {"coordinates":[11.430617,48.157486],"type":"Point"}
 }

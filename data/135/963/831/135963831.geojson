@@ -2,13 +2,14 @@
   "id": 135963831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.631879,50.099625,8.631879,50.099625",
     "geom:latitude":50.099625,
     "geom:longitude":8.631879,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebst\u00f6cker Str. 33-39",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795343,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85795343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135963831,
-    "wof:lastmodified":1449021288,
+    "wof:lastmodified":1466244843,
     "wof:name":"Wisser Dienstleistungsgesell- Schaft Hessen Gmbh & Co",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.631879,50.099625,8.631879,50.099625],
+  "bbox": [
+    8.631879,
+    50.099625,
+    8.631879,
+    50.099625
+],
   "geometry": {"coordinates":[8.631879,50.099625],"type":"Point"}
 }

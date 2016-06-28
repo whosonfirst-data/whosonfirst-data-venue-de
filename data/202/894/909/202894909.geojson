@@ -2,13 +2,14 @@
   "id": 202894909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.624512,51.87952,9.624512,51.87952",
     "geom:latitude":51.87952,
     "geom:longitude":9.624512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Bahndamm 4",
     "sg:city":"Stadtoldendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202894909,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466223030,
     "wof:name":"Wolfgang Becker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.624512,51.87952,9.624512,51.87952],
+  "bbox": [
+    9.624512,
+    51.87952,
+    9.624512,
+    51.87952
+],
   "geometry": {"coordinates":[9.624512,51.87952],"type":"Point"}
 }

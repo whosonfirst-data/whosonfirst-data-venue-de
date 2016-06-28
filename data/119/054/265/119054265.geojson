@@ -2,13 +2,14 @@
   "id": 119054265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.508424,48.154724,11.508424,48.154724",
     "geom:latitude":48.154724,
     "geom:longitude":11.508424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ga\u00dfnerstr. 16",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899839,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119054265,
-    "wof:lastmodified":1449042088,
+    "wof:lastmodified":1466215801,
     "wof:name":"Hermann Kaltenhauser Architekt",
     "wof:parent_id":85899839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.508424,48.154724,11.508424,48.154724],
+  "bbox": [
+    11.508424,
+    48.154724,
+    11.508424,
+    48.154724
+],
   "geometry": {"coordinates":[11.508424,48.154724],"type":"Point"}
 }

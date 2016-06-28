@@ -2,13 +2,14 @@
   "id": 119275343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.28635,51.325668,12.28635,51.325668",
     "geom:latitude":51.325668,
     "geom:longitude":12.28635,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kursdorfer Weg 132",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899229,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119275343,
-    "wof:lastmodified":1449041635,
+    "wof:lastmodified":1466236316,
     "wof:name":"Dr. Med. Marita Fuhmann",
     "wof:parent_id":85899229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.28635,51.325668,12.28635,51.325668],
+  "bbox": [
+    12.28635,
+    51.325668,
+    12.28635,
+    51.325668
+],
   "geometry": {"coordinates":[12.28635,51.325668],"type":"Point"}
 }

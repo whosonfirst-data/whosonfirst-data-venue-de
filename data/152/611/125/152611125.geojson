@@ -2,13 +2,14 @@
   "id": 152611125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.052638,51.527393,7.052638,51.527393",
     "geom:latitude":51.527393,
     "geom:longitude":7.052638,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An den Schleusen",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794823,
+        85682513,
         85633111,
         101748723,
         102063813,
-        85682513
+        85794823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152611125,
-    "wof:lastmodified":1449047942,
+    "wof:lastmodified":1466222731,
     "wof:name":"V & S Beteiligungs Gmbh",
     "wof:parent_id":85794823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.052638,51.527393,7.052638,51.527393],
+  "bbox": [
+    7.052638,
+    51.527393,
+    7.052638,
+    51.527393
+],
   "geometry": {"coordinates":[7.052638,51.527393],"type":"Point"}
 }

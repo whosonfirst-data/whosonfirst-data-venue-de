@@ -2,13 +2,14 @@
   "id": 118649937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.077633,52.41053,13.077633,52.41053",
     "geom:latitude":52.41053,
     "geom:longitude":13.077633,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Richter-Str. 6-7",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898995,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85898995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118649937,
-    "wof:lastmodified":1449054091,
+    "wof:lastmodified":1466221102,
     "wof:name":"Stiftung Potsdamer B\u00fcrgerstift",
     "wof:parent_id":85898995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.077633,52.41053,13.077633,52.41053],
+  "bbox": [
+    13.077633,
+    52.41053,
+    13.077633,
+    52.41053
+],
   "geometry": {"coordinates":[13.077633,52.41053],"type":"Point"}
 }

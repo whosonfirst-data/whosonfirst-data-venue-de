@@ -2,13 +2,14 @@
   "id": 135586327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.321526,51.254501,7.321526,51.254501",
     "geom:latitude":51.254501,
     "geom:longitude":7.321526,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6lzerne Klinke 87",
     "sg:city":"Ennepetal",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85794889
+        85633111,
+        85794889,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135586327,
-    "wof:lastmodified":1449023658,
+    "wof:lastmodified":1466238365,
     "wof:name":"Rhein-ruhr Markisen Gmbh",
     "wof:parent_id":85794889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.321526,51.254501,7.321526,51.254501],
+  "bbox": [
+    7.321526,
+    51.254501,
+    7.321526,
+    51.254501
+],
   "geometry": {"coordinates":[7.321526,51.254501],"type":"Point"}
 }

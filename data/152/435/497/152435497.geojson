@@ -2,13 +2,14 @@
   "id": 152435497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.305399,52.619026,13.305399,52.619026",
     "geom:latitude":52.619026,
     "geom:longitude":13.305399,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinsestr. 52",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063945,
-        85633111,
         85682499,
-        85899985
+        85633111,
+        85899985,
+        102063945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152435497,
-    "wof:lastmodified":1449048493,
+    "wof:lastmodified":1466218827,
     "wof:name":"Otto Berg",
     "wof:parent_id":85899985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.305399,52.619026,13.305399,52.619026],
+  "bbox": [
+    13.305399,
+    52.619026,
+    13.305399,
+    52.619026
+],
   "geometry": {"coordinates":[13.305399,52.619026],"type":"Point"}
 }

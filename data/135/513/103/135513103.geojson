@@ -2,13 +2,14 @@
   "id": 135513103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.599739,48.143871,11.599739,48.143871",
     "geom:latitude":48.143871,
     "geom:longitude":11.599739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Siebertstr. 5",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905601,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135513103,
-    "wof:lastmodified":1449023003,
+    "wof:lastmodified":1466232817,
     "wof:name":"Chip Center Gmbh",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.599739,48.143871,11.599739,48.143871],
+  "bbox": [
+    11.599739,
+    48.143871,
+    11.599739,
+    48.143871
+],
   "geometry": {"coordinates":[11.599739,48.143871],"type":"Point"}
 }

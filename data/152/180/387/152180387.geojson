@@ -2,13 +2,14 @@
   "id": 152180387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.348444,51.497833,7.348444,51.497833",
     "geom:latitude":51.497833,
     "geom:longitude":7.348444,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neu-Crengeldanzstr. 6",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063779,
-        85633111,
         85682513,
-        85795121
+        85633111,
+        85795121,
+        102063779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152180387,
-    "wof:lastmodified":1449044479,
+    "wof:lastmodified":1466213644,
     "wof:name":"Edeltraud Gresik",
     "wof:parent_id":85795121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.348444,51.497833,7.348444,51.497833],
+  "bbox": [
+    7.348444,
+    51.497833,
+    7.348444,
+    51.497833
+],
   "geometry": {"coordinates":[7.348444,51.497833],"type":"Point"}
 }

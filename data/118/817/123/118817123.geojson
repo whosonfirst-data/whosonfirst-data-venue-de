@@ -2,13 +2,14 @@
   "id": 118817123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.423817,49.009319,8.423817,49.009319",
     "geom:latitude":49.009319,
     "geom:longitude":8.423817,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Friedrich-Str. 11",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118817123,
-    "wof:lastmodified":1449054281,
+    "wof:lastmodified":1466230786,
     "wof:name":"Greif-apotheke",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.423817,49.009319,8.423817,49.009319],
+  "bbox": [
+    8.423817,
+    49.009319,
+    8.423817,
+    49.009319
+],
   "geometry": {"coordinates":[8.423817,49.009319],"type":"Point"}
 }

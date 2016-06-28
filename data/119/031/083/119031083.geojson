@@ -2,13 +2,14 @@
   "id": 119031083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.007877,53.574905,10.007877,53.574905",
     "geom:latitude":53.574905,
     "geom:longitude":10.007877,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4hrhausstr. 2 a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898983,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119031083,
-    "wof:lastmodified":1449041760,
+    "wof:lastmodified":1466213635,
     "wof:name":"Hans Cornehl Architekt",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.007877,53.574905,10.007877,53.574905],
+  "bbox": [
+    10.007877,
+    53.574905,
+    10.007877,
+    53.574905
+],
   "geometry": {"coordinates":[10.007877,53.574905],"type":"Point"}
 }

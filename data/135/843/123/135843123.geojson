@@ -2,13 +2,14 @@
   "id": 135843123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.105265,50.341797,8.105265,50.341797",
     "geom:latitude":50.341797,
     "geom:longitude":8.105265,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonntagsstr. 4",
     "sg:city":"H\u00fcnfelden",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135843123,
-    "wof:lastmodified":1449021268,
+    "wof:lastmodified":1466244257,
     "wof:name":"Willi Euler",
     "wof:parent_id":85682531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.105265,50.341797,8.105265,50.341797],
+  "bbox": [
+    8.105265,
+    50.341797,
+    8.105265,
+    50.341797
+],
   "geometry": {"coordinates":[8.105265,50.341797],"type":"Point"}
 }

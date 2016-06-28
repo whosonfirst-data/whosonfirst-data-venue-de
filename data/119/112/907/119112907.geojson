@@ -2,13 +2,14 @@
   "id": 119112907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.721768,52.38036,9.721768,52.38036",
     "geom:latitude":52.38036,
     "geom:longitude":9.721768,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelm-Busch-Str. 12",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899535,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119112907,
-    "wof:lastmodified":1449042053,
+    "wof:lastmodified":1466221281,
     "wof:name":"Prof. Peter Schweger Architekt",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.721768,52.38036,9.721768,52.38036],
+  "bbox": [
+    9.721768,
+    52.38036,
+    9.721768,
+    52.38036
+],
   "geometry": {"coordinates":[9.721768,52.38036],"type":"Point"}
 }

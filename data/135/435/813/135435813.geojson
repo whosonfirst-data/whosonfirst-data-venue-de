@@ -2,13 +2,14 @@
   "id": 135435813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.98367,50.28548,9.98367,50.28548",
     "geom:latitude":50.28548,
     "geom:longitude":9.98367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burkardroth",
     "sg:city":"Burkardroth",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":135435813,
-    "wof:lastmodified":1449023724,
+    "wof:lastmodified":1466225924,
     "wof:name":"Sparkasse Burkardroth",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.98367,50.28548,9.98367,50.28548],
+  "bbox": [
+    9.98367,
+    50.28548,
+    9.98367,
+    50.28548
+],
   "geometry": {"coordinates":[9.98367,50.28548],"type":"Point"}
 }

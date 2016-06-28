@@ -2,13 +2,14 @@
   "id": 136197237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.665051,47.970722,11.665051,47.970722",
     "geom:latitude":47.970722,
     "geom:longitude":11.665051,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Bosch-Str. 1",
     "sg:city":"Sauerlach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136197237,
-    "wof:lastmodified":1449076097,
+    "wof:lastmodified":1466221028,
     "wof:name":"Dehner",
     "wof:parent_id":101787823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.665051,47.970722,11.665051,47.970722],
+  "bbox": [
+    11.665051,
+    47.970722,
+    11.665051,
+    47.970722
+],
   "geometry": {"coordinates":[11.665051,47.970722],"type":"Point"}
 }

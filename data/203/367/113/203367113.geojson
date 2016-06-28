@@ -2,13 +2,14 @@
   "id": 203367113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.806251,52.423225,9.806251,52.423225",
     "geom:latitude":52.423225,
     "geom:longitude":9.806251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hartenbrakenstr. 40",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203367113,
-    "wof:lastmodified":1449026072,
+    "wof:lastmodified":1466219926,
     "wof:name":"Wilhelm Sporleder",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.806251,52.423225,9.806251,52.423225],
+  "bbox": [
+    9.806251,
+    52.423225,
+    9.806251,
+    52.423225
+],
   "geometry": {"coordinates":[9.806251,52.423225],"type":"Point"}
 }

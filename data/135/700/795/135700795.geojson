@@ -2,13 +2,14 @@
   "id": 135700795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.963819,49.485699,10.963819,49.485699",
     "geom:latitude":49.485699,
     "geom:longitude":10.963819,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterfarrnbacher Str. 45",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900175,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85900175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135700795,
-    "wof:lastmodified":1449023742,
+    "wof:lastmodified":1466242221,
     "wof:name":"Waltinger Bautr\u00e4ger Und Sanit\u00e4rtechnik Gmbh",
     "wof:parent_id":85900175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.963819,49.485699,10.963819,49.485699],
+  "bbox": [
+    10.963819,
+    49.485699,
+    10.963819,
+    49.485699
+],
   "geometry": {"coordinates":[10.963819,49.485699],"type":"Point"}
 }

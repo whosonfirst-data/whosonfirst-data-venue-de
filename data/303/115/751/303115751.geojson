@@ -2,13 +2,14 @@
   "id": 303115751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.758637,51.120388,13.758637,51.120388",
     "geom:latitude":51.120388,
     "geom:longitude":13.758637,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zur Wetterwarte 50",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303115751,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466227354,
     "wof:name":"Sempa Systems Gmbh",
     "wof:parent_id":85905673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.758637,51.120388,13.758637,51.120388],
+  "bbox": [
+    13.758637,
+    51.120388,
+    13.758637,
+    51.120388
+],
   "geometry": {"coordinates":[13.758637,51.120388],"type":"Point"}
 }

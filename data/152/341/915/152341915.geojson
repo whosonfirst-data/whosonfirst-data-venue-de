@@ -2,13 +2,14 @@
   "id": 152341915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.535406,48.187145,11.535406,48.187145",
     "geom:latitude":48.187145,
     "geom:longitude":11.535406,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Triebstr. 35",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899265,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152341915,
-    "wof:lastmodified":1449048719,
+    "wof:lastmodified":1466217035,
     "wof:name":"Gm-projektverwaltung Stiftung & Co. Kg",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.535406,48.187145,11.535406,48.187145],
+  "bbox": [
+    11.535406,
+    48.187145,
+    11.535406,
+    48.187145
+],
   "geometry": {"coordinates":[11.535406,48.187145],"type":"Point"}
 }

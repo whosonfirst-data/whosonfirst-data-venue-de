@@ -2,13 +2,14 @@
   "id": 119531327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.838903,51.020569,13.838903,51.020569",
     "geom:latitude":51.020569,
     "geom:longitude":13.838903,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermannst\u00e4dter Str. 10",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906337,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85906337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119531327,
-    "wof:lastmodified":1449041443,
+    "wof:lastmodified":1466243924,
     "wof:name":"G\u00fcnther Neumann",
     "wof:parent_id":85906337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.838903,51.020569,13.838903,51.020569],
+  "bbox": [
+    13.838903,
+    51.020569,
+    13.838903,
+    51.020569
+],
   "geometry": {"coordinates":[13.838903,51.020569],"type":"Point"}
 }

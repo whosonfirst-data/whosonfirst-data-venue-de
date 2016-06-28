@@ -2,13 +2,14 @@
   "id": 252918511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.099018,50.74295,7.099018,50.74295",
     "geom:latitude":50.74295,
     "geom:longitude":7.099018,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Esche 2",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252918511,
-    "wof:lastmodified":1449006134,
+    "wof:lastmodified":1466223072,
     "wof:name":"Ralf Werner",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.099018,50.74295,7.099018,50.74295],
+  "bbox": [
+    7.099018,
+    50.74295,
+    7.099018,
+    50.74295
+],
   "geometry": {"coordinates":[7.099018,50.74295],"type":"Point"}
 }

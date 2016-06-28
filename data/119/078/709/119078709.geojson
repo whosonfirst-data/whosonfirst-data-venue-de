@@ -2,13 +2,14 @@
   "id": 119078709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.405477,49.001213,8.405477,49.001213",
     "geom:latitude":49.001213,
     "geom:longitude":8.405477,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 36",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119078709,
-    "wof:lastmodified":1449043105,
+    "wof:lastmodified":1466218067,
     "wof:name":"Karlheinz Kramer Architekt",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.405477,49.001213,8.405477,49.001213],
+  "bbox": [
+    8.405477,
+    49.001213,
+    8.405477,
+    49.001213
+],
   "geometry": {"coordinates":[8.405477,49.001213],"type":"Point"}
 }

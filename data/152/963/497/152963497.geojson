@@ -2,13 +2,14 @@
   "id": 152963497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.171408,50.730862,6.171408,50.730862",
     "geom:latitude":50.730862,
     "geom:longitude":6.171408,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lufter Weid 10",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85795751
+        85633111,
+        85795751,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152963497,
-    "wof:lastmodified":1449044748,
+    "wof:lastmodified":1466230939,
     "wof:name":"The Digimon Fan",
     "wof:parent_id":85795751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.171408,50.730862,6.171408,50.730862],
+  "bbox": [
+    6.171408,
+    50.730862,
+    6.171408,
+    50.730862
+],
   "geometry": {"coordinates":[6.171408,50.730862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119123095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.752876,53.581856,9.752876,53.581856",
     "geom:latitude":53.581856,
     "geom:longitude":9.752876,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nagelshof 14",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900247,
+        85682517,
         85633111,
         101806597,
         102064081,
-        85682517
+        85900247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119123095,
-    "wof:lastmodified":1449041574,
+    "wof:lastmodified":1466222120,
     "wof:name":"Rolf Juergen Link Architekt",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.752876,53.581856,9.752876,53.581856],
+  "bbox": [
+    9.752876,
+    53.581856,
+    9.752876,
+    53.581856
+],
   "geometry": {"coordinates":[9.752876,53.581856],"type":"Point"}
 }

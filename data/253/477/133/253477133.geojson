@@ -2,13 +2,14 @@
   "id": 253477133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.25339,51.612782,7.25339,51.612782",
     "geom:latitude":51.612782,
     "geom:longitude":7.25339,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenweg 45",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253477133,
-    "wof:lastmodified":1449063322,
+    "wof:lastmodified":1466228649,
     "wof:name":"Werner Glumm",
     "wof:parent_id":85863203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.25339,51.612782,7.25339,51.612782],
+  "bbox": [
+    7.25339,
+    51.612782,
+    7.25339,
+    51.612782
+],
   "geometry": {"coordinates":[7.25339,51.612782],"type":"Point"}
 }

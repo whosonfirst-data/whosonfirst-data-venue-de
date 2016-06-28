@@ -2,13 +2,14 @@
   "id": 152937709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.156726,53.601288,10.156726,53.601288",
     "geom:latitude":53.601288,
     "geom:longitude":10.156726,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rahlstedter Str. 122",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899149,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152937709,
-    "wof:lastmodified":1449045176,
+    "wof:lastmodified":1466230306,
     "wof:name":"Shop Die Matrix Ledermantel Video Dvd Brille",
     "wof:parent_id":85899149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.156726,53.601288,10.156726,53.601288],
+  "bbox": [
+    10.156726,
+    53.601288,
+    10.156726,
+    53.601288
+],
   "geometry": {"coordinates":[10.156726,53.601288],"type":"Point"}
 }

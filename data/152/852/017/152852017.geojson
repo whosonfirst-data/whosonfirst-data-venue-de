@@ -2,13 +2,14 @@
   "id": 152852017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.614579,48.787632,2.614579,48.787632",
     "geom:latitude":48.787632,
     "geom:longitude":2.614579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"15 rue Ren\u00e9 Cassin",
     "sg:city":"PONTAULT COMBAULT",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"77340",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152852017,
-    "wof:lastmodified":1449048129,
+    "wof:lastmodified":1466228255,
     "wof:name":"Informaticien Ind\u00e9pendant As400 Micro",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.614579,48.787632,2.614579,48.787632],
+  "bbox": [
+    2.614579,
+    48.787632,
+    2.614579,
+    48.787632
+],
   "geometry": {"coordinates":[2.614579,48.787632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253751203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.040688,52.275845,8.040688,52.275845",
     "geom:latitude":52.275845,
     "geom:longitude":8.040688,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dielingerstr. 9",
     "sg:city":"Osnabr\u00fcck",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253751203,
-    "wof:lastmodified":1449062987,
+    "wof:lastmodified":1466235009,
     "wof:name":"Kirchhoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.040688,52.275845,8.040688,52.275845],
+  "bbox": [
+    8.040688,
+    52.275845,
+    8.040688,
+    52.275845
+],
   "geometry": {"coordinates":[8.040688,52.275845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119019913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.180145,48.805252,9.180145,48.805252",
     "geom:latitude":48.805252,
     "geom:longitude":9.180145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Volkerstr. 30",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119019913,
-    "wof:lastmodified":1449042395,
+    "wof:lastmodified":1466233421,
     "wof:name":"Gerhard M\u00f6ller Architekt",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.180145,48.805252,9.180145,48.805252],
+  "bbox": [
+    9.180145,
+    48.805252,
+    9.180145,
+    48.805252
+],
   "geometry": {"coordinates":[9.180145,48.805252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135784381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.304742,52.466579,13.304742,52.466579",
     "geom:latitude":52.466579,
     "geom:longitude":13.304742,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Milowstr. 7",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899239,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135784381,
-    "wof:lastmodified":1449023020,
+    "wof:lastmodified":1466243986,
     "wof:name":"Hartmut Krunitsch",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.304742,52.466579,13.304742,52.466579],
+  "bbox": [
+    13.304742,
+    52.466579,
+    13.304742,
+    52.466579
+],
   "geometry": {"coordinates":[13.304742,52.466579],"type":"Point"}
 }

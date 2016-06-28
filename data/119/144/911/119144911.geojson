@@ -2,13 +2,14 @@
   "id": 119144911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.549347,48.151035,11.549347,48.151035",
     "geom:latitude":48.151035,
     "geom:longitude":11.549347,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Thorwaldsenstr. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119144911,
-    "wof:lastmodified":1449042837,
+    "wof:lastmodified":1466223649,
     "wof:name":"Vogel Und Brunninger Architekten",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.549347,48.151035,11.549347,48.151035],
+  "bbox": [
+    11.549347,
+    48.151035,
+    11.549347,
+    48.151035
+],
   "geometry": {"coordinates":[11.549347,48.151035],"type":"Point"}
 }

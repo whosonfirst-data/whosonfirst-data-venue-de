@@ -2,13 +2,14 @@
   "id": 203057915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.189929,50.050503,8.189929,50.050503",
     "geom:latitude":50.050503,
     "geom:longitude":8.189929,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzwaldstr. 7",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203057915,
-    "wof:lastmodified":1449025864,
+    "wof:lastmodified":1466214772,
     "wof:name":"Hans Eger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.189929,50.050503,8.189929,50.050503],
+  "bbox": [
+    8.189929,
+    50.050503,
+    8.189929,
+    50.050503
+],
   "geometry": {"coordinates":[8.189929,50.050503],"type":"Point"}
 }

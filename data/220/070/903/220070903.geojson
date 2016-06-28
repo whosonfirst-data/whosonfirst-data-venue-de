@@ -2,13 +2,14 @@
   "id": 220070903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.783754,53.996986,10.783754,53.996986",
     "geom:latitude":53.996986,
     "geom:longitude":10.783754,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strandallee 100",
     "sg:city":"Timmendorfer Strand",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220070903,
-    "wof:lastmodified":1449074411,
+    "wof:lastmodified":1466215961,
     "wof:name":"Cafe Marleen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.783754,53.996986,10.783754,53.996986],
+  "bbox": [
+    10.783754,
+    53.996986,
+    10.783754,
+    53.996986
+],
   "geometry": {"coordinates":[10.783754,53.996986],"type":"Point"}
 }

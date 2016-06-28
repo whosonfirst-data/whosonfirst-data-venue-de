@@ -2,13 +2,14 @@
   "id": 203145485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.66748,50.911282,6.66748,50.911282",
     "geom:latitude":50.911282,
     "geom:longitude":6.66748,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heppendorfer Str. 56",
     "sg:city":"Kerpen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203145485,
-    "wof:lastmodified":1449025488,
+    "wof:lastmodified":1466216289,
     "wof:name":"Johannes Schlang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.66748,50.911282,6.66748,50.911282],
+  "bbox": [
+    6.66748,
+    50.911282,
+    6.66748,
+    50.911282
+],
   "geometry": {"coordinates":[6.66748,50.911282],"type":"Point"}
 }

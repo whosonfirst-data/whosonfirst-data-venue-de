@@ -2,13 +2,14 @@
   "id": 152971111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.004872,53.5868,10.004872,53.5868",
     "geom:latitude":53.5868,
     "geom:longitude":10.004872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"C\u00e4cilienstra\u00dfe 8",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152971111,
-    "wof:lastmodified":1449046644,
+    "wof:lastmodified":1466231119,
     "wof:name":"Uwe`s Homepage",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.004872,53.5868,10.004872,53.5868],
+  "bbox": [
+    10.004872,
+    53.5868,
+    10.004872,
+    53.5868
+],
   "geometry": {"coordinates":[10.004872,53.5868],"type":"Point"}
 }

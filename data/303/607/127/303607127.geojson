@@ -2,13 +2,14 @@
   "id": 303607127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.01198,50.96949,11.01198,50.96949",
     "geom:latitude":50.96949,
     "geom:longitude":11.01198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alfred-Hess-Str. 21",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303607127,
-    "wof:lastmodified":1448998444,
+    "wof:lastmodified":1466238257,
     "wof:name":"Kurt Schirmer",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.01198,50.96949,11.01198,50.96949],
+  "bbox": [
+    11.01198,
+    50.96949,
+    11.01198,
+    50.96949
+],
   "geometry": {"coordinates":[11.01198,50.96949],"type":"Point"}
 }

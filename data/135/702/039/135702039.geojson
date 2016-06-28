@@ -2,13 +2,14 @@
   "id": 135702039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.601437,48.149899,11.601437,48.149899",
     "geom:latitude":48.149899,
     "geom:longitude":11.601437,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mauerkircherstr. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135702039,
-    "wof:lastmodified":1449022523,
+    "wof:lastmodified":1466242383,
     "wof:name":"Wohnungsunternehmen Ms Grundst\u00fccksverwertungs",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.601437,48.149899,11.601437,48.149899],
+  "bbox": [
+    11.601437,
+    48.149899,
+    11.601437,
+    48.149899
+],
   "geometry": {"coordinates":[11.601437,48.149899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135542667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.867132,53.562889,9.867132,53.562889",
     "geom:latitude":53.562889,
     "geom:longitude":9.867132,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langkamp 13",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899299,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135542667,
-    "wof:lastmodified":1449023355,
+    "wof:lastmodified":1466235466,
     "wof:name":"Kommanditges. M & L Grundst\u00fccksverwaltung",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.867132,53.562889,9.867132,53.562889],
+  "bbox": [
+    9.867132,
+    53.562889,
+    9.867132,
+    53.562889
+],
   "geometry": {"coordinates":[9.867132,53.562889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118882159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.007602,50.401241,10.007602,50.401241",
     "geom:latitude":50.401241,
     "geom:longitude":10.007602,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 10",
     "sg:city":"Bischofsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118882159,
-    "wof:lastmodified":1449053384,
+    "wof:lastmodified":1466234830,
     "wof:name":"Dietrich Fromme",
     "wof:parent_id":101812305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.007602,50.401241,10.007602,50.401241],
+  "bbox": [
+    10.007602,
+    50.401241,
+    10.007602,
+    50.401241
+],
   "geometry": {"coordinates":[10.007602,50.401241],"type":"Point"}
 }

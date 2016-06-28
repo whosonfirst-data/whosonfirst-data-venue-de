@@ -2,13 +2,14 @@
   "id": 135852731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.585822,48.168858,11.585822,48.168858",
     "geom:latitude":48.168858,
     "geom:longitude":11.585822,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leopoldstr. 131",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135852731,
-    "wof:lastmodified":1449023506,
+    "wof:lastmodified":1466244195,
     "wof:name":"Bestattungsinstitut Denk Gmbh & Co. Kg",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.585822,48.168858,11.585822,48.168858],
+  "bbox": [
+    11.585822,
+    48.168858,
+    11.585822,
+    48.168858
+],
   "geometry": {"coordinates":[11.585822,48.168858],"type":"Point"}
 }

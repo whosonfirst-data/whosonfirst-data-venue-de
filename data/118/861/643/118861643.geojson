@@ -2,13 +2,14 @@
   "id": 118861643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.142822,54.091114,12.142822,54.091114",
     "geom:latitude":54.091114,
     "geom:longitude":12.142822,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grubenstr. 20",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905721,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118861643,
-    "wof:lastmodified":1449054524,
+    "wof:lastmodified":1466233521,
     "wof:name":"Altstadt-apotheke",
     "wof:parent_id":85905721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.142822,54.091114,12.142822,54.091114],
+  "bbox": [
+    12.142822,
+    54.091114,
+    12.142822,
+    54.091114
+],
   "geometry": {"coordinates":[12.142822,54.091114],"type":"Point"}
 }

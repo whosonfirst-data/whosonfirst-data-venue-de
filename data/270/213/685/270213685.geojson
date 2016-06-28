@@ -2,13 +2,14 @@
   "id": 270213685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.816128,47.966316,9.816128,47.966316",
     "geom:latitude":47.966316,
     "geom:longitude":9.816128,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldseer Str. 19",
     "sg:city":"Eberhardzell",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270213685,
-    "wof:lastmodified":1449008694,
+    "wof:lastmodified":1466226343,
     "wof:name":"Hans Ott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.816128,47.966316,9.816128,47.966316],
+  "bbox": [
+    9.816128,
+    47.966316,
+    9.816128,
+    47.966316
+],
   "geometry": {"coordinates":[9.816128,47.966316],"type":"Point"}
 }

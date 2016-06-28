@@ -2,13 +2,14 @@
   "id": 303073805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.787132,48.643349,11.787132,48.643349",
     "geom:latitude":48.643349,
     "geom:longitude":11.787132,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Abensberger Str. 23",
     "sg:city":"Mainburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303073805,
-    "wof:lastmodified":1448998456,
+    "wof:lastmodified":1466226345,
     "wof:name":"Josef Ruhland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.787132,48.643349,11.787132,48.643349],
+  "bbox": [
+    11.787132,
+    48.643349,
+    11.787132,
+    48.643349
+],
   "geometry": {"coordinates":[11.787132,48.643349],"type":"Point"}
 }

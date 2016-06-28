@@ -2,13 +2,14 @@
   "id": 270082151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.120472,49.267094,7.120472,49.267094",
     "geom:latitude":49.267094,
     "geom:longitude":7.120472,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdstr. 11",
     "sg:city":"St. Ingbert",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270082151,
-    "wof:lastmodified":1449008731,
+    "wof:lastmodified":1466223304,
     "wof:name":"Trim-line",
     "wof:parent_id":85796383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.120472,49.267094,7.120472,49.267094],
+  "bbox": [
+    7.120472,
+    49.267094,
+    7.120472,
+    49.267094
+],
   "geometry": {"coordinates":[7.120472,49.267094],"type":"Point"}
 }

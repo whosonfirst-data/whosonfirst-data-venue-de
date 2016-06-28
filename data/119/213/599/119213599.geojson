@@ -2,13 +2,14 @@
   "id": 119213599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.702991,50.11665,8.702991,50.11665",
     "geom:latitude":50.11665,
     "geom:longitude":8.702991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Th\u00fcringer Str. 35",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796305,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119213599,
-    "wof:lastmodified":1449040910,
+    "wof:lastmodified":1466230031,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek Allerheiligen",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.702991,50.11665,8.702991,50.11665],
+  "bbox": [
+    8.702991,
+    50.11665,
+    8.702991,
+    50.11665
+],
   "geometry": {"coordinates":[8.702991,50.11665],"type":"Point"}
 }

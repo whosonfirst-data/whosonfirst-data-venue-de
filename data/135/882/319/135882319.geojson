@@ -2,13 +2,14 @@
   "id": 135882319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.585391,48.179367,11.585391,48.179367",
     "geom:latitude":48.179367,
     "geom:longitude":11.585391,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leopoldstr. 236",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899167,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135882319,
-    "wof:lastmodified":1449021511,
+    "wof:lastmodified":1466244420,
     "wof:name":"Cross Motorcycle- Beteiligungs- Ag",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.585391,48.179367,11.585391,48.179367],
+  "bbox": [
+    11.585391,
+    48.179367,
+    11.585391,
+    48.179367
+],
   "geometry": {"coordinates":[11.585391,48.179367],"type":"Point"}
 }

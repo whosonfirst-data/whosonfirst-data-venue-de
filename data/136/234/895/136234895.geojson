@@ -2,13 +2,14 @@
   "id": 136234895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.139205,52.392681,12.139205,52.392681",
     "geom:latitude":52.392681,
     "geom:longitude":12.139205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Magdeburger Str. 133",
     "sg:city":"Genthin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136234895,
-    "wof:lastmodified":1449076200,
+    "wof:lastmodified":1466223279,
     "wof:name":"M. Fabert",
     "wof:parent_id":101819761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.139205,52.392681,12.139205,52.392681],
+  "bbox": [
+    12.139205,
+    52.392681,
+    12.139205,
+    52.392681
+],
   "geometry": {"coordinates":[12.139205,52.392681],"type":"Point"}
 }

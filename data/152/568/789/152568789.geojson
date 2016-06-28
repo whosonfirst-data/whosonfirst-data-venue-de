@@ -2,13 +2,14 @@
   "id": 152568789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.636702,49.864635,8.636702,49.864635",
     "geom:latitude":49.864635,
     "geom:longitude":8.636702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Allee 65",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063543,
-        85633111,
         85682531,
-        85859529
+        85633111,
+        85859529,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152568789,
-    "wof:lastmodified":1449044177,
+    "wof:lastmodified":1466221784,
     "wof:name":"Str\u00f6her Gmbh",
     "wof:parent_id":85859529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.636702,49.864635,8.636702,49.864635],
+  "bbox": [
+    8.636702,
+    49.864635,
+    8.636702,
+    49.864635
+],
   "geometry": {"coordinates":[8.636702,49.864635],"type":"Point"}
 }

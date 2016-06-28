@@ -2,13 +2,14 @@
   "id": 118563429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.248497,50.074738,8.248497,50.074738",
     "geom:latitude":50.074738,
     "geom:longitude":8.248497,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Augustastr. 1",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118563429,
-    "wof:lastmodified":1449053170,
+    "wof:lastmodified":1466216065,
     "wof:name":"Komed Verlag F\u00fcr Aktuelle Kommunikationsmittel -",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.248497,50.074738,8.248497,50.074738],
+  "bbox": [
+    8.248497,
+    50.074738,
+    8.248497,
+    50.074738
+],
   "geometry": {"coordinates":[8.248497,50.074738],"type":"Point"}
 }

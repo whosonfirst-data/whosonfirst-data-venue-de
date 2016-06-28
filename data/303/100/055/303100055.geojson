@@ -2,13 +2,14 @@
   "id": 303100055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.982328,48.809284,8.982328,48.809284",
     "geom:latitude":48.809284,
     "geom:longitude":8.982328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-Zeiss-Str. 4",
     "sg:city":"Leonberg",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":303100055,
-    "wof:lastmodified":1448999930,
+    "wof:lastmodified":1466226979,
     "wof:name":"Meyer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.982328,48.809284,8.982328,48.809284],
+  "bbox": [
+    8.982328,
+    48.809284,
+    8.982328,
+    48.809284
+],
   "geometry": {"coordinates":[8.982328,48.809284],"type":"Point"}
 }

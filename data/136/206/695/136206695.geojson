@@ -2,13 +2,14 @@
   "id": 136206695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.743099,53.869419,10.743099,53.869419",
     "geom:latitude":53.869419,
     "geom:longitude":10.743099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Gleisdreieck 13",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899041,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85899041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136206695,
-    "wof:lastmodified":1449075837,
+    "wof:lastmodified":1466221567,
     "wof:name":"Futternapf Tierbedarfs Gmbh & Co. Kg",
     "wof:parent_id":85899041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.743099,53.869419,10.743099,53.869419],
+  "bbox": [
+    10.743099,
+    53.869419,
+    10.743099,
+    53.869419
+],
   "geometry": {"coordinates":[10.743099,53.869419],"type":"Point"}
 }

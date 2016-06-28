@@ -2,13 +2,14 @@
   "id": 152883833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.449337,49.474651,8.449337,49.474651",
     "geom:latitude":49.474651,
     "geom:longitude":8.449337,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pranckhstra\u00dfe 21",
     "sg:city":"Ludwigshafen/Rhein",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152883833,
-    "wof:lastmodified":1449047825,
+    "wof:lastmodified":1466228990,
     "wof:name":"Nationalparks In Schweden",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.449337,49.474651,8.449337,49.474651],
+  "bbox": [
+    8.449337,
+    49.474651,
+    8.449337,
+    49.474651
+],
   "geometry": {"coordinates":[8.449337,49.474651],"type":"Point"}
 }

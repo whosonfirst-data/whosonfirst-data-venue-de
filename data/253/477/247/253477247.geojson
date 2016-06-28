@@ -2,13 +2,14 @@
   "id": 253477247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.607272,48.683186,11.607272,48.683186",
     "geom:latitude":48.683186,
     "geom:longitude":11.607272,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zieglergasse 4",
     "sg:city":"Geisenfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253477247,
-    "wof:lastmodified":1449063322,
+    "wof:lastmodified":1466228652,
     "wof:name":"Josef Priller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.607272,48.683186,11.607272,48.683186],
+  "bbox": [
+    11.607272,
+    48.683186,
+    11.607272,
+    48.683186
+],
   "geometry": {"coordinates":[11.607272,48.683186],"type":"Point"}
 }

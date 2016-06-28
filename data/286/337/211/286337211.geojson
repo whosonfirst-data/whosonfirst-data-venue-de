@@ -2,13 +2,14 @@
   "id": 286337211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.013619,51.496822,12.013619,51.496822",
     "geom:latitude":51.496822,
     "geom:longitude":12.013619,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berliner Str. 76",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286337211,
-    "wof:lastmodified":1449016566,
+    "wof:lastmodified":1466226363,
     "wof:name":"G. Boas",
     "wof:parent_id":85899093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.013619,51.496822,12.013619,51.496822],
+  "bbox": [
+    12.013619,
+    51.496822,
+    12.013619,
+    51.496822
+],
   "geometry": {"coordinates":[12.013619,51.496822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202653907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.538527,52.412979,12.538527,52.412979",
     "geom:latitude":52.412979,
     "geom:longitude":12.538527,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fouquestr. 3",
     "sg:city":"Brandenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202653907,
-    "wof:lastmodified":1449060296,
+    "wof:lastmodified":1466218584,
     "wof:name":"Harry Hoth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.538527,52.412979,12.538527,52.412979],
+  "bbox": [
+    12.538527,
+    52.412979,
+    12.538527,
+    52.412979
+],
   "geometry": {"coordinates":[12.538527,52.412979],"type":"Point"}
 }

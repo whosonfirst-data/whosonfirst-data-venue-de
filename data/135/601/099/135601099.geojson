@@ -2,13 +2,14 @@
   "id": 135601099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.703564,51.527115,6.703564,51.527115",
     "geom:latitude":51.527115,
     "geom:longitude":6.703564,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinstr. 45",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063833,
-        85633111,
         85682513,
-        85794895
+        85633111,
+        85794895,
+        102063833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135601099,
-    "wof:lastmodified":1449022366,
+    "wof:lastmodified":1466239129,
     "wof:name":"D. K. Industrie-baumaschinen- Service-vertriebs Gmbh",
     "wof:parent_id":85794895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.703564,51.527115,6.703564,51.527115],
+  "bbox": [
+    6.703564,
+    51.527115,
+    6.703564,
+    51.527115
+],
   "geometry": {"coordinates":[6.703564,51.527115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119065645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.443558,48.138588,11.443558,48.138588",
     "geom:latitude":48.138588,
     "geom:longitude":11.443558,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dachstr. 37",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119065645,
-    "wof:lastmodified":1449043531,
+    "wof:lastmodified":1466216897,
     "wof:name":"Johann Kunz Architekt",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.443558,48.138588,11.443558,48.138588],
+  "bbox": [
+    11.443558,
+    48.138588,
+    11.443558,
+    48.138588
+],
   "geometry": {"coordinates":[11.443558,48.138588],"type":"Point"}
 }

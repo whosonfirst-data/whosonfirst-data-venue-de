@@ -2,13 +2,14 @@
   "id": 118804825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.001608,48.710442,9.001608,48.710442",
     "geom:latitude":48.710442,
     "geom:longitude":9.001608,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelstr. 30",
     "sg:city":"Sindelfingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85795041
+        85633111,
+        85795041,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118804825,
-    "wof:lastmodified":1449054116,
+    "wof:lastmodified":1466230036,
     "wof:name":"Apotheke Ziegelstr. 30",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.001608,48.710442,9.001608,48.710442],
+  "bbox": [
+    9.001608,
+    48.710442,
+    9.001608,
+    48.710442
+],
   "geometry": {"coordinates":[9.001608,48.710442],"type":"Point"}
 }

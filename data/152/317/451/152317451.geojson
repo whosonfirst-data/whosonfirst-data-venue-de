@@ -2,13 +2,14 @@
   "id": 152317451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.622018,51.514919,7.622018,51.514919",
     "geom:latitude":51.514919,
     "geom:longitude":7.622018,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 14 a",
     "sg:city":"Holzwickede",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796735,
+        85682513,
         85633111,
         101756023,
         102063823,
-        85682513
+        85796735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152317451,
-    "wof:lastmodified":1449046424,
+    "wof:lastmodified":1466216511,
     "wof:name":"Vip - Line Mode Gmbh",
     "wof:parent_id":85796735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.622018,51.514919,7.622018,51.514919],
+  "bbox": [
+    7.622018,
+    51.514919,
+    7.622018,
+    51.514919
+],
   "geometry": {"coordinates":[7.622018,51.514919],"type":"Point"}
 }

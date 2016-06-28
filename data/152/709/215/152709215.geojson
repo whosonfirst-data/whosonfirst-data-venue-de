@@ -2,13 +2,14 @@
   "id": 152709215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.562046,48.098682,11.562046,48.098682",
     "geom:latitude":48.098682,
     "geom:longitude":11.562046,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauensteinstr. 10a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899261,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152709215,
-    "wof:lastmodified":1449045228,
+    "wof:lastmodified":1466224875,
     "wof:name":"Markus Leicher Gmbh & Co. Kg",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.562046,48.098682,11.562046,48.098682],
+  "bbox": [
+    11.562046,
+    48.098682,
+    11.562046,
+    48.098682
+],
   "geometry": {"coordinates":[11.562046,48.098682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270209503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.578371,49.93858,11.578371,49.93858",
     "geom:latitude":49.93858,
     "geom:longitude":11.578371,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Jean-Paul-Str. 26 a",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270209503,
-    "wof:lastmodified":1449010835,
+    "wof:lastmodified":1466226249,
     "wof:name":"Ben Umwelt Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.578371,49.93858,11.578371,49.93858],
+  "bbox": [
+    11.578371,
+    49.93858,
+    11.578371,
+    49.93858
+],
   "geometry": {"coordinates":[11.578371,49.93858],"type":"Point"}
 }

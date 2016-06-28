@@ -2,13 +2,14 @@
   "id": 303341773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.249505,48.477905,12.249505,48.477905",
     "geom:latitude":48.477905,
     "geom:longitude":12.249505,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benzstr. 2 - 4",
     "sg:city":"Geisenhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303341773,
-    "wof:lastmodified":1449000456,
+    "wof:lastmodified":1466232950,
     "wof:name":"Hans Wittmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.249505,48.477905,12.249505,48.477905],
+  "bbox": [
+    12.249505,
+    48.477905,
+    12.249505,
+    48.477905
+],
   "geometry": {"coordinates":[12.249505,48.477905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186078129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.680101,48.561581,10.680101,48.561581",
     "geom:latitude":48.561581,
     "geom:longitude":10.680101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 12",
     "sg:city":"Wertingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186078129,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1466214030,
     "wof:name":"Heimatmuseum Wertingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.680101,48.561581,10.680101,48.561581],
+  "bbox": [
+    10.680101,
+    48.561581,
+    10.680101,
+    48.561581
+],
   "geometry": {"coordinates":[10.680101,48.561581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135927751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.091394,50.731419,7.091394,50.731419",
     "geom:latitude":50.731419,
     "geom:longitude":7.091394,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Colmantstr. 36",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135927751,
-    "wof:lastmodified":1449023684,
+    "wof:lastmodified":1466244659,
     "wof:name":"Psp Holding Gmbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.091394,50.731419,7.091394,50.731419],
+  "bbox": [
+    7.091394,
+    50.731419,
+    7.091394,
+    50.731419
+],
   "geometry": {"coordinates":[7.091394,50.731419],"type":"Point"}
 }

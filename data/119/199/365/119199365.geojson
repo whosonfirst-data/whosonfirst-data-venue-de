@@ -2,13 +2,14 @@
   "id": 119199365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.017879,53.554832,10.017879,53.554832",
     "geom:latitude":53.554832,
     "geom:longitude":10.017879,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexanderstr. 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899245,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119199365,
-    "wof:lastmodified":1449041114,
+    "wof:lastmodified":1466228717,
     "wof:name":"Firmengeschichtliches Archiv Der Deutschen Philips Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.017879,53.554832,10.017879,53.554832],
+  "bbox": [
+    10.017879,
+    53.554832,
+    10.017879,
+    53.554832
+],
   "geometry": {"coordinates":[10.017879,53.554832],"type":"Point"}
 }

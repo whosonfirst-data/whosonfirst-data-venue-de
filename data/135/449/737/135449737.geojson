@@ -2,13 +2,14 @@
   "id": 135449737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.10045,49.458549,11.10045,49.458549",
     "geom:latitude":49.458549,
     "geom:longitude":11.10045,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufertorgraben 6:: Mittelfr::",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900215,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135449737,
-    "wof:lastmodified":1449023781,
+    "wof:lastmodified":1466227169,
     "wof:name":"Umweltbank Ag",
     "wof:parent_id":85900215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.10045,49.458549,11.10045,49.458549],
+  "bbox": [
+    11.10045,
+    49.458549,
+    11.10045,
+    49.458549
+],
   "geometry": {"coordinates":[11.10045,49.458549],"type":"Point"}
 }

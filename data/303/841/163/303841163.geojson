@@ -2,13 +2,14 @@
   "id": 303841163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.014846,47.847576,9.014846,47.847576",
     "geom:latitude":47.847576,
     "geom:longitude":9.014846,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hegaustr.",
     "sg:city":"Stockach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303841163,
-    "wof:lastmodified":1448998630,
+    "wof:lastmodified":1466240795,
     "wof:name":"A. Wetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.014846,47.847576,9.014846,47.847576],
+  "bbox": [
+    9.014846,
+    47.847576,
+    9.014846,
+    47.847576
+],
   "geometry": {"coordinates":[9.014846,47.847576],"type":"Point"}
 }

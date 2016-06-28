@@ -2,13 +2,14 @@
   "id": 303438703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.589181,50.174313,8.589181,50.174313",
     "geom:latitude":50.174313,
     "geom:longitude":8.589181,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurmainzer Str. 148",
     "sg:city":"Oberursel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303438703,
-    "wof:lastmodified":1448998944,
+    "wof:lastmodified":1466235330,
     "wof:name":"E.-m. Dickfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.589181,50.174313,8.589181,50.174313],
+  "bbox": [
+    8.589181,
+    50.174313,
+    8.589181,
+    50.174313
+],
   "geometry": {"coordinates":[8.589181,50.174313],"type":"Point"}
 }

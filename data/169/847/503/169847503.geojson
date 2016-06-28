@@ -2,13 +2,14 @@
   "id": 169847503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.593427,49.125256,8.593427,49.125256",
     "geom:latitude":49.125256,
     "geom:longitude":8.593427,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Luisenstr. 4",
     "sg:city":"Bruchsal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169847503,
-    "wof:lastmodified":1449033892,
+    "wof:lastmodified":1466214134,
     "wof:name":"Lembke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.593427,49.125256,8.593427,49.125256],
+  "bbox": [
+    8.593427,
+    49.125256,
+    8.593427,
+    49.125256
+],
   "geometry": {"coordinates":[8.593427,49.125256],"type":"Point"}
 }

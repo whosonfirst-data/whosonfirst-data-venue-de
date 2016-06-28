@@ -2,13 +2,14 @@
   "id": 136129867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.75059,51.065895,13.75059,51.065895",
     "geom:latitude":51.065895,
     "geom:longitude":13.75059,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alaunstrasse",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899777,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136129867,
-    "wof:lastmodified":1449075970,
+    "wof:lastmodified":1466217971,
     "wof:name":"Steffenski.de / Ski Und Rollski In Dresden",
     "wof:parent_id":85899777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.75059,51.065895,13.75059,51.065895],
+  "bbox": [
+    13.75059,
+    51.065895,
+    13.75059,
+    51.065895
+],
   "geometry": {"coordinates":[13.75059,51.065895],"type":"Point"}
 }

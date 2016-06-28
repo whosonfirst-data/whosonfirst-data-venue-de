@@ -2,13 +2,14 @@
   "id": 118986091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.463421,48.146671,11.463421,48.146671",
     "geom:latitude":48.146671,
     "geom:longitude":11.463421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsberger Str. 484",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118986091,
-    "wof:lastmodified":1449054283,
+    "wof:lastmodified":1466239364,
     "wof:name":"B\u00fchler Und B\u00fchler Architekten",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.463421,48.146671,11.463421,48.146671],
+  "bbox": [
+    11.463421,
+    48.146671,
+    11.463421,
+    48.146671
+],
   "geometry": {"coordinates":[11.463421,48.146671],"type":"Point"}
 }

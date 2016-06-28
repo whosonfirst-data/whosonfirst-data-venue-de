@@ -2,13 +2,14 @@
   "id": 135668671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.509852,48.061523,8.509852,48.061523",
     "geom:latitude":48.061523,
     "geom:longitude":8.509852,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schluchseestr. 77",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135668671,
-    "wof:lastmodified":1449023103,
+    "wof:lastmodified":1466241655,
     "wof:name":"Martin Seeger",
     "wof:parent_id":101748477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.509852,48.061523,8.509852,48.061523],
+  "bbox": [
+    8.509852,
+    48.061523,
+    8.509852,
+    48.061523
+],
   "geometry": {"coordinates":[8.509852,48.061523],"type":"Point"}
 }

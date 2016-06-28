@@ -2,13 +2,14 @@
   "id": 135339031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44426,51.510799,7.44426,51.510799",
     "geom:latitude":51.510799,
     "geom:longitude":7.44426,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sudermannstr. 37-39",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796409,
+        85682513,
         85633111,
         101748719,
         102063803,
-        85682513
+        85796409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135339031,
-    "wof:lastmodified":1449022360,
+    "wof:lastmodified":1466217078,
     "wof:name":"Willi Wilkenh\u00f6ner B\u00e4ckerei Betriebsges. Mbh",
     "wof:parent_id":85796409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44426,51.510799,7.44426,51.510799],
+  "bbox": [
+    7.44426,
+    51.510799,
+    7.44426,
+    51.510799
+],
   "geometry": {"coordinates":[7.44426,51.510799],"type":"Point"}
 }

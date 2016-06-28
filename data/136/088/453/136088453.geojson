@@ -2,13 +2,14 @@
   "id": 136088453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21117,48.743732,9.21117,48.743732",
     "geom:latitude":48.743732,
     "geom:longitude":9.21117,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleinhohenheimerstr. 11",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85862803
+        85633111,
+        85862803,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136088453,
-    "wof:lastmodified":1449075933,
+    "wof:lastmodified":1466216198,
     "wof:name":"Katholische Kirchengemeinde St. Michael Stuttgart",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21117,48.743732,9.21117,48.743732],
+  "bbox": [
+    9.21117,
+    48.743732,
+    9.21117,
+    48.743732
+],
   "geometry": {"coordinates":[9.21117,48.743732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119244433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.103974,54.083073,12.103974,54.083073",
     "geom:latitude":54.083073,
     "geom:longitude":12.103974,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rembrandtstr. 16-17",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Mecklenburg-Vorpommern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905731,
+        85682487,
         85633111,
         101748865,
         102064115,
-        85682487
+        85905731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119244433,
-    "wof:lastmodified":1449041810,
+    "wof:lastmodified":1466233064,
     "wof:name":"Universit\u00e4t Rostock Kinderklinik",
     "wof:parent_id":85905731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.103974,54.083073,12.103974,54.083073],
+  "bbox": [
+    12.103974,
+    54.083073,
+    12.103974,
+    54.083073
+],
   "geometry": {"coordinates":[12.103974,54.083073],"type":"Point"}
 }

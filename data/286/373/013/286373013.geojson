@@ -2,13 +2,14 @@
   "id": 286373013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.042645,50.305531,12.042645,50.305531",
     "geom:latitude":50.305531,
     "geom:longitude":12.042645,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Hofer Str. 10",
     "sg:city":"Regnitzlosau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286373013,
-    "wof:lastmodified":1449016717,
+    "wof:lastmodified":1466227172,
     "wof:name":"Max Berger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.042645,50.305531,12.042645,50.305531],
+  "bbox": [
+    12.042645,
+    50.305531,
+    12.042645,
+    50.305531
+],
   "geometry": {"coordinates":[12.042645,50.305531],"type":"Point"}
 }

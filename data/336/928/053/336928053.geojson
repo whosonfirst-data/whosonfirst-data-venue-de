@@ -2,13 +2,14 @@
   "id": 336928053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.454346,51.524147,7.454346,51.524147",
     "geom:latitude":51.524147,
     "geom:longitude":7.454346,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mallinckrodtstr. 209",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336928053,
-    "wof:lastmodified":1448997875,
+    "wof:lastmodified":1466239133,
     "wof:name":"Camera",
     "wof:parent_id":85795745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.454346,51.524147,7.454346,51.524147],
+  "bbox": [
+    7.454346,
+    51.524147,
+    7.454346,
+    51.524147
+],
   "geometry": {"coordinates":[7.454346,51.524147],"type":"Point"}
 }

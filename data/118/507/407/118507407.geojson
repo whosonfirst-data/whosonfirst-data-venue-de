@@ -2,13 +2,14 @@
   "id": 118507407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.9828,51.52737,6.9828,51.52737",
     "geom:latitude":51.52737,
     "geom:longitude":6.9828,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Bottrop",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863115,
+        85682513,
         85633111,
         101748725,
         102063815,
-        85682513
+        85863115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118507407,
-    "wof:lastmodified":1449053873,
+    "wof:lastmodified":1466233203,
     "wof:name":"Beyoglu",
     "wof:parent_id":85863115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.9828,51.52737,6.9828,51.52737],
+  "bbox": [
+    6.9828,
+    51.52737,
+    6.9828,
+    51.52737
+],
   "geometry": {"coordinates":[6.9828,51.52737],"type":"Point"}
 }

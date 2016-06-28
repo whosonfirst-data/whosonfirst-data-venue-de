@@ -2,13 +2,14 @@
   "id": 119256673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.419895,52.552086,13.419895,52.552086",
     "geom:latitude":52.552086,
     "geom:longitude":13.419895,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kuglerstr. 33",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928743,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119256673,
-    "wof:lastmodified":1449042874,
+    "wof:lastmodified":1466234265,
     "wof:name":"Dr. Med. Angelika Behm",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.419895,52.552086,13.419895,52.552086],
+  "bbox": [
+    13.419895,
+    52.552086,
+    13.419895,
+    52.552086
+],
   "geometry": {"coordinates":[13.419895,52.552086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135587969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.335861,52.602531,13.335861,52.602531",
     "geom:latitude":52.602531,
     "geom:longitude":13.335861,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichhorster Weg 87",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899593,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135587969,
-    "wof:lastmodified":1449022040,
+    "wof:lastmodified":1466238336,
     "wof:name":"Sisotec Sicherheits- Und Sonnenschutzsysteme Gmbh",
     "wof:parent_id":85899593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.335861,52.602531,13.335861,52.602531],
+  "bbox": [
+    13.335861,
+    52.602531,
+    13.335861,
+    52.602531
+],
   "geometry": {"coordinates":[13.335861,52.602531],"type":"Point"}
 }

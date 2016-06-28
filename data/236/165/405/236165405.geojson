@@ -2,13 +2,14 @@
   "id": 236165405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.241549,50.083862,8.241549,50.083862",
     "geom:latitude":50.083862,
     "geom:longitude":8.241549,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Goldgasse 1",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236165405,
-    "wof:lastmodified":1449005257,
+    "wof:lastmodified":1466221950,
     "wof:name":"B. Stiller",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.241549,50.083862,8.241549,50.083862],
+  "bbox": [
+    8.241549,
+    50.083862,
+    8.241549,
+    50.083862
+],
   "geometry": {"coordinates":[8.241549,50.083862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135539009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.265863,52.535717,13.265863,52.535717",
     "geom:latitude":52.535717,
     "geom:longitude":13.265863,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wernerwerkdamm 36",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900231,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135539009,
-    "wof:lastmodified":1449024052,
+    "wof:lastmodified":1466235220,
     "wof:name":"Gaston Beffort Bau- Und Betonsanierungen",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.265863,52.535717,13.265863,52.535717],
+  "bbox": [
+    13.265863,
+    52.535717,
+    13.265863,
+    52.535717
+],
   "geometry": {"coordinates":[13.265863,52.535717],"type":"Point"}
 }

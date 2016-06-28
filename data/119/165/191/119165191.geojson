@@ -2,13 +2,14 @@
   "id": 119165191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.846037,48.814541,11.846037,48.814541",
     "geom:latitude":48.814541,
     "geom:longitude":11.846037,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aventinusplatz 2",
     "sg:city":"Abensberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119165191,
-    "wof:lastmodified":1449043543,
+    "wof:lastmodified":1466225523,
     "wof:name":"Bautec Gmbh",
     "wof:parent_id":101783179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.846037,48.814541,11.846037,48.814541],
+  "bbox": [
+    11.846037,
+    48.814541,
+    11.846037,
+    48.814541
+],
   "geometry": {"coordinates":[11.846037,48.814541],"type":"Point"}
 }

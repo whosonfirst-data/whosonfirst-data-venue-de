@@ -2,13 +2,14 @@
   "id": 136157097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.385928,49.532246,8.385928,49.532246",
     "geom:latitude":49.532246,
     "geom:longitude":8.385928,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheingrafenstr. 27",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136157097,
-    "wof:lastmodified":1449076075,
+    "wof:lastmodified":1466219128,
     "wof:name":"Zahnarztpraxis Dr. Eberhard Hammer",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.385928,49.532246,8.385928,49.532246],
+  "bbox": [
+    8.385928,
+    49.532246,
+    8.385928,
+    49.532246
+],
   "geometry": {"coordinates":[8.385928,49.532246],"type":"Point"}
 }

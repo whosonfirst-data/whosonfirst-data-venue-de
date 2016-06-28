@@ -2,13 +2,14 @@
   "id": 152208305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.688174,52.530052,13.688174,52.530052",
     "geom:latitude":52.530052,
     "geom:longitude":13.688174,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6nower Chaussee 3",
     "sg:city":"Neuenhagen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152208305,
-    "wof:lastmodified":1449044845,
+    "wof:lastmodified":1466214218,
     "wof:name":"P. Stolper",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.688174,52.530052,13.688174,52.530052],
+  "bbox": [
+    13.688174,
+    52.530052,
+    13.688174,
+    52.530052
+],
   "geometry": {"coordinates":[13.688174,52.530052],"type":"Point"}
 }

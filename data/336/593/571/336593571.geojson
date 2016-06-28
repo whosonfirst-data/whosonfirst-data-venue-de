@@ -2,13 +2,14 @@
   "id": 336593571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.91303,51.151329,11.91303,51.151329",
     "geom:latitude":51.151329,
     "geom:longitude":11.91303,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Naumburger Str. 5",
     "sg:city":"Prittitz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":336593571,
-    "wof:lastmodified":1448997649,
+    "wof:lastmodified":1466233362,
     "wof:name":"Elektro-helm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.91303,51.151329,11.91303,51.151329],
+  "bbox": [
+    11.91303,
+    51.151329,
+    11.91303,
+    51.151329
+],
   "geometry": {"coordinates":[11.91303,51.151329],"type":"Point"}
 }

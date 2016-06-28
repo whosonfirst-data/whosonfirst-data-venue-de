@@ -2,13 +2,14 @@
   "id": 135353413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.697319,51.396019,6.697319,51.396019",
     "geom:latitude":51.396019,
     "geom:longitude":6.697319,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schelmenweg 25",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794775,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135353413,
-    "wof:lastmodified":1449021881,
+    "wof:lastmodified":1466218366,
     "wof:name":"Heinz Bertram Gro\u00dfb\u00e4ckerei Und Konditorei Gmbh",
     "wof:parent_id":85794775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.697319,51.396019,6.697319,51.396019],
+  "bbox": [
+    6.697319,
+    51.396019,
+    6.697319,
+    51.396019
+],
   "geometry": {"coordinates":[6.697319,51.396019],"type":"Point"}
 }

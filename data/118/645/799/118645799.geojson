@@ -2,13 +2,14 @@
   "id": 118645799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.682574,48.075069,11.682574,48.075069",
     "geom:latitude":48.075069,
     "geom:longitude":11.682574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albrecht-D\u00fcrer-Str. 23",
     "sg:city":"Neubiberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118645799,
-    "wof:lastmodified":1449053292,
+    "wof:lastmodified":1466220868,
     "wof:name":"Altenheim Ludwig Feuerbach E. V.",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.682574,48.075069,11.682574,48.075069],
+  "bbox": [
+    11.682574,
+    48.075069,
+    11.682574,
+    48.075069
+],
   "geometry": {"coordinates":[11.682574,48.075069],"type":"Point"}
 }

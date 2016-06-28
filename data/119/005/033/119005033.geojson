@@ -2,13 +2,14 @@
   "id": 119005033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.733937,51.299915,6.733937,51.299915",
     "geom:latitude":51.299915,
     "geom:longitude":6.733937,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An St. Swidbert 43-45",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795627,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119005033,
-    "wof:lastmodified":1449043317,
+    "wof:lastmodified":1466214105,
     "wof:name":"Ernst Osenberg Architekt",
     "wof:parent_id":85795627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.733937,51.299915,6.733937,51.299915],
+  "bbox": [
+    6.733937,
+    51.299915,
+    6.733937,
+    51.299915
+],
   "geometry": {"coordinates":[6.733937,51.299915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135573727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.030587,49.515434,11.030587,49.515434",
     "geom:latitude":49.515434,
     "geom:longitude":11.030587,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boxdorfer Hauptstr. 53",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899037,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135573727,
-    "wof:lastmodified":1449023232,
+    "wof:lastmodified":1466237639,
     "wof:name":"Kromer Bau Gmbh",
     "wof:parent_id":85899037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.030587,49.515434,11.030587,49.515434],
+  "bbox": [
+    11.030587,
+    49.515434,
+    11.030587,
+    49.515434
+],
   "geometry": {"coordinates":[11.030587,49.515434],"type":"Point"}
 }

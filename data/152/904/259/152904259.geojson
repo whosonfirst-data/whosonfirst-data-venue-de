@@ -2,13 +2,14 @@
   "id": 152904259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731102,35.578899,-96.731102,35.578899",
     "geom:latitude":35.578899,
     "geom:longitude":-96.731102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fliederstra\u00dfe 15",
     "sg:city":"Fahrbach",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":152904259,
-    "wof:lastmodified":1449048995,
+    "wof:lastmodified":1466229521,
     "wof:name":"Praxis Fischer-rosenfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.731102,35.578899,-96.731102,35.578899],
-  "geometry": {"coordinates":[-96.731102,35.578899],"type":"Point"}
+  "bbox": [
+    -96.731102,
+    35.578899,
+    -96.731102,
+    35.578899
+],
+  "geometry": {"coordinates":[-96.73110200000001,35.578899],"type":"Point"}
 }

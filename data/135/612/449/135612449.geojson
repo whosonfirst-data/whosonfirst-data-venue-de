@@ -2,13 +2,14 @@
   "id": 135612449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.097155,51.162693,7.097155,51.162693",
     "geom:latitude":51.162693,
     "geom:longitude":7.097155,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstr. 97",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795761,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85795761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135612449,
-    "wof:lastmodified":1449022350,
+    "wof:lastmodified":1466239793,
     "wof:name":"Gbv Gartenger\u00e4te- Und Bau- Maschinenverleih Gmbh",
     "wof:parent_id":85795761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.097155,51.162693,7.097155,51.162693],
+  "bbox": [
+    7.097155,
+    51.162693,
+    7.097155,
+    51.162693
+],
   "geometry": {"coordinates":[7.097155,51.162693],"type":"Point"}
 }

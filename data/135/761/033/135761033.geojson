@@ -2,13 +2,14 @@
   "id": 135761033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.481251,50.798653,6.481251,50.798653",
     "geom:latitude":50.798653,
     "geom:longitude":6.481251,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00fcrtzstr. 35",
     "sg:city":"D\u00fcren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135761033,
-    "wof:lastmodified":1449023304,
+    "wof:lastmodified":1466243839,
     "wof:name":"Eugen Sieger",
     "wof:parent_id":101748629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.481251,50.798653,6.481251,50.798653],
+  "bbox": [
+    6.481251,
+    50.798653,
+    6.481251,
+    50.798653
+],
   "geometry": {"coordinates":[6.481251,50.798653],"type":"Point"}
 }

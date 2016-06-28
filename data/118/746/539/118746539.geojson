@@ -2,13 +2,14 @@
   "id": 118746539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.425591,52.426605,9.425591,52.426605",
     "geom:latitude":52.426605,
     "geom:longitude":9.425591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Speckenstr. 10",
     "sg:city":"Wunstorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118746539,
-    "wof:lastmodified":1449053136,
+    "wof:lastmodified":1466226554,
     "wof:name":"Sozialstation",
     "wof:parent_id":101807691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.425591,52.426605,9.425591,52.426605],
+  "bbox": [
+    9.425591,
+    52.426605,
+    9.425591,
+    52.426605
+],
   "geometry": {"coordinates":[9.425591,52.426605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303381139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.158085,54.09399,12.158085,54.09399",
     "geom:latitude":54.09399,
     "geom:longitude":12.158085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dierkower Damm 45",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303381139,
-    "wof:lastmodified":1448998317,
+    "wof:lastmodified":1466233910,
     "wof:name":"Seehydrographischer Dienst",
     "wof:parent_id":85899095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.158085,54.09399,12.158085,54.09399],
+  "bbox": [
+    12.158085,
+    54.09399,
+    12.158085,
+    54.09399
+],
   "geometry": {"coordinates":[12.158085,54.09399],"type":"Point"}
 }

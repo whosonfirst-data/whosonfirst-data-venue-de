@@ -2,13 +2,14 @@
   "id": 135288003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.238854,48.950695,8.238854,48.950695",
     "geom:latitude":48.950695,
     "geom:longitude":8.238854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fcrmersheimer Str. 6",
     "sg:city":"Au",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135288003,
-    "wof:lastmodified":1449021312,
+    "wof:lastmodified":1466235527,
     "wof:name":"Karl Busch",
     "wof:parent_id":101760621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.238854,48.950695,8.238854,48.950695],
+  "bbox": [
+    8.238854,
+    48.950695,
+    8.238854,
+    48.950695
+],
   "geometry": {"coordinates":[8.238854,48.950695],"type":"Point"}
 }

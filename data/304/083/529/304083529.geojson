@@ -2,13 +2,14 @@
   "id": 304083529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.160579,48.29826,10.160579,48.29826",
     "geom:latitude":48.29826,
     "geom:longitude":10.160579,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Memminger Str. 58",
     "sg:city":"Wei\u00dfenhorn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304083529,
-    "wof:lastmodified":1449043822,
+    "wof:lastmodified":1466232981,
     "wof:name":"Wirth Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.160579,48.29826,10.160579,48.29826],
+  "bbox": [
+    10.160579,
+    48.29826,
+    10.160579,
+    48.29826
+],
   "geometry": {"coordinates":[10.160579,48.29826],"type":"Point"}
 }

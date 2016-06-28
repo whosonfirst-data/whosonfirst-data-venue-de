@@ -2,13 +2,14 @@
   "id": 118987807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.453071,51.138214,6.453071,51.138214",
     "geom:latitude":51.138214,
     "geom:longitude":6.453071,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pixm\u00fchle 6",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862883,
+        85682513,
         85633111,
         101748655,
         102063743,
-        85682513
+        85862883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118987807,
-    "wof:lastmodified":1449053927,
+    "wof:lastmodified":1466239632,
     "wof:name":"Christiane Camphausen Innenarchitektin",
     "wof:parent_id":85862883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.453071,51.138214,6.453071,51.138214],
+  "bbox": [
+    6.453071,
+    51.138214,
+    6.453071,
+    51.138214
+],
   "geometry": {"coordinates":[6.453071,51.138214],"type":"Point"}
 }

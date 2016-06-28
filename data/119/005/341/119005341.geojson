@@ -2,13 +2,14 @@
   "id": 119005341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.479979,49.282082,11.479979,49.282082",
     "geom:latitude":49.282082,
     "geom:longitude":11.479979,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Speier-Str. 39",
     "sg:city":"Neumarkt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119005341,
-    "wof:lastmodified":1449043324,
+    "wof:lastmodified":1466214127,
     "wof:name":"Ernst Silberhorn Architekt",
     "wof:parent_id":101782055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.479979,49.282082,11.479979,49.282082],
+  "bbox": [
+    11.479979,
+    49.282082,
+    11.479979,
+    49.282082
+],
   "geometry": {"coordinates":[11.479979,49.282082],"type":"Point"}
 }

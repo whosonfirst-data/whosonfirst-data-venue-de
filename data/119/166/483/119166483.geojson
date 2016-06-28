@@ -2,13 +2,14 @@
   "id": 119166483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.775373,51.032627,13.775373,51.032627",
     "geom:latitude":51.032627,
     "geom:longitude":13.775373,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterbergstr. 2",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905663,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119166483,
-    "wof:lastmodified":1449042347,
+    "wof:lastmodified":1466225650,
     "wof:name":"Gamma Projektentwicklungs- Gesellschaft Mbh",
     "wof:parent_id":85905663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.775373,51.032627,13.775373,51.032627],
+  "bbox": [
+    13.775373,
+    51.032627,
+    13.775373,
+    51.032627
+],
   "geometry": {"coordinates":[13.775373,51.032627],"type":"Point"}
 }

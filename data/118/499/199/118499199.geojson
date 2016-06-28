@@ -2,13 +2,14 @@
   "id": 118499199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.97806,53.546532,9.97806,53.546532",
     "geom:latitude":53.546532,
     "geom:longitude":9.97806,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Hamburg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899367,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118499199,
-    "wof:lastmodified":1449053411,
+    "wof:lastmodified":1466219251,
     "wof:name":"Schimpf",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.97806,53.546532,9.97806,53.546532],
+  "bbox": [
+    9.97806,
+    53.546532,
+    9.97806,
+    53.546532
+],
   "geometry": {"coordinates":[9.97806,53.546532],"type":"Point"}
 }

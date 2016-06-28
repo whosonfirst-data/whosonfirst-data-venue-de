@@ -2,13 +2,14 @@
   "id": 118911457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68424,50.141235,8.68424,50.141235",
     "geom:latitude":50.141235,
     "geom:longitude":8.68424,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eckenheimer Landstr. 244",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118911457,
-    "wof:lastmodified":1449054328,
+    "wof:lastmodified":1466236296,
     "wof:name":"Marien-apotheke Am Marbachweg Heinz Bu\u00dfmann",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68424,50.141235,8.68424,50.141235],
+  "bbox": [
+    8.68424,
+    50.141235,
+    8.68424,
+    50.141235
+],
   "geometry": {"coordinates":[8.68424,50.141235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135842169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.73442,51.643932,13.73442,51.643932",
     "geom:latitude":51.643932,
     "geom:longitude":13.73442,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindthaler Str. 6",
     "sg:city":"Massen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135842169,
-    "wof:lastmodified":1449021217,
+    "wof:lastmodified":1466244262,
     "wof:name":"Werner Kotte",
     "wof:parent_id":101841403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.73442,51.643932,13.73442,51.643932],
+  "bbox": [
+    13.73442,
+    51.643932,
+    13.73442,
+    51.643932
+],
   "geometry": {"coordinates":[13.73442,51.643932],"type":"Point"}
 }

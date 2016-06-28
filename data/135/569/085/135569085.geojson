@@ -2,13 +2,14 @@
   "id": 135569085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.622988,52.098827,11.622988,52.098827",
     "geom:latitude":52.098827,
     "geom:longitude":11.622988,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bertolt-Brecht-Str. 16",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899185,
+        85682519,
         85633111,
         101748781,
         102063887,
-        85682519
+        85899185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135569085,
-    "wof:lastmodified":1449023877,
+    "wof:lastmodified":1466237386,
     "wof:name":"Bau & Baubetreuungs Gmbh",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.622988,52.098827,11.622988,52.098827],
+  "bbox": [
+    11.622988,
+    52.098827,
+    11.622988,
+    52.098827
+],
   "geometry": {"coordinates":[11.622988,52.098827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152285233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.115292,49.277718,7.115292,49.277718",
     "geom:latitude":49.277718,
     "geom:longitude":7.115292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Bahnhofstr. 1",
     "sg:city":"St. Ingbert",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063437,
-        85633111,
         85682479,
-        85796383
+        85633111,
+        85796383,
+        102063437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152285233,
-    "wof:lastmodified":1449044429,
+    "wof:lastmodified":1466215843,
     "wof:name":"Leick",
     "wof:parent_id":85796383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.115292,49.277718,7.115292,49.277718],
+  "bbox": [
+    7.115292,
+    49.277718,
+    7.115292,
+    49.277718
+],
   "geometry": {"coordinates":[7.115292,49.277718],"type":"Point"}
 }

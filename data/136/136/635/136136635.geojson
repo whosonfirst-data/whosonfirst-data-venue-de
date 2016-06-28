@@ -2,13 +2,14 @@
   "id": 136136635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.159844,50.767292,7.159844,50.767292",
     "geom:latitude":50.767292,
     "geom:longitude":7.159844,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Richthofenstr. 120 (im Tower)",
     "sg:city":"St. Augustin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794857,
+        85682513,
         85633111,
         101748605,
         102063683,
-        85682513
+        85794857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136136635,
-    "wof:lastmodified":1449076261,
+    "wof:lastmodified":1466218246,
     "wof:name":"Theorieunterricht, Individuell, Effektiv, 14 Tage",
     "wof:parent_id":85794857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.159844,50.767292,7.159844,50.767292],
+  "bbox": [
+    7.159844,
+    50.767292,
+    7.159844,
+    50.767292
+],
   "geometry": {"coordinates":[7.159844,50.767292],"type":"Point"}
 }

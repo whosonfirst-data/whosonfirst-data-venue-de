@@ -2,13 +2,14 @@
   "id": 119466289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.957515,50.965858,6.957515,50.965858",
     "geom:latitude":50.965858,
     "geom:longitude":6.957515,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwerinstr. 13-15",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862995,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85862995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119466289,
-    "wof:lastmodified":1449041571,
+    "wof:lastmodified":1466242960,
     "wof:name":"Auto-ruf Nord Funkmietwagen",
     "wof:parent_id":85862995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.957515,50.965858,6.957515,50.965858],
+  "bbox": [
+    6.957515,
+    50.965858,
+    6.957515,
+    50.965858
+],
   "geometry": {"coordinates":[6.957515,50.965858],"type":"Point"}
 }

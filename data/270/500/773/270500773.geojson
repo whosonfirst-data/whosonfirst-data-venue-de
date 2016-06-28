@@ -2,13 +2,14 @@
   "id": 270500773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.30193,51.262428,12.30193,51.262428",
     "geom:latitude":51.262428,
     "geom:longitude":12.30193,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Azaleenstr. 6",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270500773,
-    "wof:lastmodified":1449009227,
+    "wof:lastmodified":1466233605,
     "wof:name":"Bernd Geithe",
     "wof:parent_id":85899381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.30193,51.262428,12.30193,51.262428],
+  "bbox": [
+    12.30193,
+    51.262428,
+    12.30193,
+    51.262428
+],
   "geometry": {"coordinates":[12.30193,51.262428],"type":"Point"}
 }

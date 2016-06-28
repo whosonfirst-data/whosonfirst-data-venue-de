@@ -2,13 +2,14 @@
   "id": 303331199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.889434,48.37616,10.889434,48.37616",
     "geom:latitude":48.37616,
     "geom:longitude":10.889434,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wertachbrucker-Tor-Str. 6",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303331199,
-    "wof:lastmodified":1448999605,
+    "wof:lastmodified":1466232690,
     "wof:name":"Fritz Weber",
     "wof:parent_id":85899849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.889434,48.37616,10.889434,48.37616],
+  "bbox": [
+    10.889434,
+    48.37616,
+    10.889434,
+    48.37616
+],
   "geometry": {"coordinates":[10.889434,48.37616],"type":"Point"}
 }

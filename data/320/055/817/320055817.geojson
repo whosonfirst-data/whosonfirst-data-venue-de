@@ -2,13 +2,14 @@
   "id": 320055817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.769624,48.1954,12.769624,48.1954",
     "geom:latitude":48.1954,
     "geom:longitude":12.769624,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlbachstr. 5",
     "sg:city":"Emmerting",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320055817,
-    "wof:lastmodified":1449012099,
+    "wof:lastmodified":1466234680,
     "wof:name":"Michael Hager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.769624,48.1954,12.769624,48.1954],
+  "bbox": [
+    12.769624,
+    48.1954,
+    12.769624,
+    48.1954
+],
   "geometry": {"coordinates":[12.769624,48.1954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119265263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.981764,50.79948,12.981764,50.79948",
     "geom:latitude":50.79948,
     "geom:longitude":12.981764,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermersdorfer Str. 16",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119265263,
-    "wof:lastmodified":1449041691,
+    "wof:lastmodified":1466235135,
     "wof:name":"Dr. Med. Kurt Emmrich",
     "wof:parent_id":101748601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.981764,50.79948,12.981764,50.79948],
+  "bbox": [
+    12.981764,
+    50.79948,
+    12.981764,
+    50.79948
+],
   "geometry": {"coordinates":[12.981764,50.79948],"type":"Point"}
 }

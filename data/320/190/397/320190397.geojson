@@ -2,13 +2,14 @@
   "id": 320190397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.742287,48.625149,8.742287,48.625149",
     "geom:latitude":48.625149,
     "geom:longitude":8.742287,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saronweg 3",
     "sg:city":"Wildberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320190397,
-    "wof:lastmodified":1449014721,
+    "wof:lastmodified":1466237078,
     "wof:name":"Karl Maier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.742287,48.625149,8.742287,48.625149],
+  "bbox": [
+    8.742287,
+    48.625149,
+    8.742287,
+    48.625149
+],
   "geometry": {"coordinates":[8.742287,48.625149],"type":"Point"}
 }

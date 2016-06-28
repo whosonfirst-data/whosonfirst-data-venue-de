@@ -2,13 +2,14 @@
   "id": 219760913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.494576,51.487427,7.494576,51.487427",
     "geom:latitude":51.487427,
     "geom:longitude":7.494576,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beukenbergstr. 24",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219760913,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466225530,
     "wof:name":"Peter Kielmann",
     "wof:parent_id":85795033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.494576,51.487427,7.494576,51.487427],
+  "bbox": [
+    7.494576,
+    51.487427,
+    7.494576,
+    51.487427
+],
   "geometry": {"coordinates":[7.494576,51.487427],"type":"Point"}
 }

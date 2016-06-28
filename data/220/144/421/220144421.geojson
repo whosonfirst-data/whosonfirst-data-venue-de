@@ -2,13 +2,14 @@
   "id": 220144421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.931401,49.028683,11.931401,49.028683",
     "geom:latitude":49.028683,
     "geom:longitude":11.931401,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ludwig-Thoma-Str. 22",
     "sg:city":"Nittendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220144421,
-    "wof:lastmodified":1449074636,
+    "wof:lastmodified":1466217325,
     "wof:name":"Josef Rappl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.931401,49.028683,11.931401,49.028683],
+  "bbox": [
+    11.931401,
+    49.028683,
+    11.931401,
+    49.028683
+],
   "geometry": {"coordinates":[11.931401,49.028683],"type":"Point"}
 }

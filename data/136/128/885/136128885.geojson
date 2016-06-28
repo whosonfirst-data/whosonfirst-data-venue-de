@@ -2,13 +2,14 @@
   "id": 136128885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.631673,51.214447,6.631673,51.214447",
     "geom:latitude":51.214447,
     "geom:longitude":6.631673,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruchweg 126",
     "sg:city":"Kaarst",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796077,
+        85682513,
         85633111,
         101748665,
         102063757,
-        85682513
+        85796077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136128885,
-    "wof:lastmodified":1449075431,
+    "wof:lastmodified":1466217923,
     "wof:name":"Src Edv Handels Gmbh",
     "wof:parent_id":85796077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.631673,51.214447,6.631673,51.214447],
+  "bbox": [
+    6.631673,
+    51.214447,
+    6.631673,
+    51.214447
+],
   "geometry": {"coordinates":[6.631673,51.214447],"type":"Point"}
 }

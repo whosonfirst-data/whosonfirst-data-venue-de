@@ -2,13 +2,14 @@
   "id": 203134625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.777948,52.426769,10.777948,52.426769",
     "geom:latitude":52.426769,
     "geom:longitude":10.777948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seilerstr. 13",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203134625,
-    "wof:lastmodified":1449026765,
+    "wof:lastmodified":1466216104,
     "wof:name":"Jakob Hoffmann",
     "wof:parent_id":85899291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.777948,52.426769,10.777948,52.426769],
+  "bbox": [
+    10.777948,
+    52.426769,
+    10.777948,
+    52.426769
+],
   "geometry": {"coordinates":[10.777948,52.426769],"type":"Point"}
 }

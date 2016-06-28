@@ -2,13 +2,14 @@
   "id": 135345383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.76359,50.859306,12.76359,50.859306",
     "geom:latitude":50.859306,
     "geom:longitude":12.76359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hechinger Str. 1",
     "sg:city":"Limbach-Oberfrohna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135345383,
-    "wof:lastmodified":1449023768,
+    "wof:lastmodified":1466217660,
     "wof:name":"Heinz Heyde",
     "wof:parent_id":101755967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.76359,50.859306,12.76359,50.859306],
+  "bbox": [
+    12.76359,
+    50.859306,
+    12.76359,
+    50.859306
+],
   "geometry": {"coordinates":[12.76359,50.859306],"type":"Point"}
 }

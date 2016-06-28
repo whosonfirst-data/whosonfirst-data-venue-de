@@ -2,13 +2,14 @@
   "id": 119192281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68122,49.860851,8.68122,49.860851",
     "geom:latitude":49.860851,
     "geom:longitude":8.68122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Petersenstr.",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063543,
-        85633111,
         85682531,
-        85859529
+        85633111,
+        85859529,
+        102063543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119192281,
-    "wof:lastmodified":1449042756,
+    "wof:lastmodified":1466228097,
     "wof:name":"Bibliothek F\u00fcr Hydraulik Und Hydrologie Des Fachbereichs",
     "wof:parent_id":85859529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68122,49.860851,8.68122,49.860851],
+  "bbox": [
+    8.68122,
+    49.860851,
+    8.68122,
+    49.860851
+],
   "geometry": {"coordinates":[8.68122,49.860851],"type":"Point"}
 }

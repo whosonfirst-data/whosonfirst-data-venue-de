@@ -2,13 +2,14 @@
   "id": 320256797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.618945,52.536777,13.618945,52.536777",
     "geom:latitude":52.536777,
     "geom:longitude":13.618945,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert-Kuntz-Str. 48",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320256797,
-    "wof:lastmodified":1449014077,
+    "wof:lastmodified":1466238095,
     "wof:name":"Ballhaus & M\u00fcller",
     "wof:parent_id":85905659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.618945,52.536777,13.618945,52.536777],
+  "bbox": [
+    13.618945,
+    52.536777,
+    13.618945,
+    52.536777
+],
   "geometry": {"coordinates":[13.618945,52.536777],"type":"Point"}
 }

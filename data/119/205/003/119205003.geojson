@@ -2,13 +2,14 @@
   "id": 119205003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.414257,52.004604,8.414257,52.004604",
     "geom:latitude":52.004604,
     "geom:longitude":8.414257,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gemeindeverwaltung",
     "sg:city":"Steinhagen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063869,
-        85633111,
         85682513,
-        85863233
+        85633111,
+        85863233,
+        102063869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119205003,
-    "wof:lastmodified":1449042455,
+    "wof:lastmodified":1466229206,
     "wof:name":"Gemeindeb\u00fccherei",
     "wof:parent_id":85863233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.414257,52.004604,8.414257,52.004604],
+  "bbox": [
+    8.414257,
+    52.004604,
+    8.414257,
+    52.004604
+],
   "geometry": {"coordinates":[8.414257,52.004604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119490365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.558432,48.160114,11.558432,48.160114",
     "geom:latitude":48.160114,
     "geom:longitude":11.558432,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kathi-Kobus-Str. 24",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899743,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119490365,
-    "wof:lastmodified":1449043260,
+    "wof:lastmodified":1466243627,
     "wof:name":"Wash Star",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.558432,48.160114,11.558432,48.160114],
+  "bbox": [
+    11.558432,
+    48.160114,
+    11.558432,
+    48.160114
+],
   "geometry": {"coordinates":[11.558432,48.160114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135897377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.784987,53.065422,8.784987,53.065422",
     "geom:latitude":53.065422,
     "geom:longitude":8.784987,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuenlander Str. 30",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796579,
+        85682561,
         85633111,
         101748829,
         102063991,
-        85682561
+        85796579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135897377,
-    "wof:lastmodified":1449023526,
+    "wof:lastmodified":1466244504,
     "wof:name":"K\u00fchnast Beteiligungs-gmbh & Co. Kg",
     "wof:parent_id":85796579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.784987,53.065422,8.784987,53.065422],
+  "bbox": [
+    8.784987,
+    53.065422,
+    8.784987,
+    53.065422
+],
   "geometry": {"coordinates":[8.784987,53.065422],"type":"Point"}
 }

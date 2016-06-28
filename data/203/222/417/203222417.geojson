@@ -2,13 +2,14 @@
   "id": 203222417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.346987,51.374989,12.346987,51.374989",
     "geom:latitude":51.374989,
     "geom:longitude":12.346987,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Radefelder Str. 31",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203222417,
-    "wof:lastmodified":1449026248,
+    "wof:lastmodified":1466217574,
     "wof:name":"Eberhard Herold",
     "wof:parent_id":85905685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.346987,51.374989,12.346987,51.374989],
+  "bbox": [
+    12.346987,
+    51.374989,
+    12.346987,
+    51.374989
+],
   "geometry": {"coordinates":[12.346987,51.374989],"type":"Point"}
 }

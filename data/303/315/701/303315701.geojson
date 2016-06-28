@@ -2,13 +2,14 @@
   "id": 303315701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.659233,50.188389,8.659233,50.188389",
     "geom:latitude":50.188389,
     "geom:longitude":8.659233,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ben-Gurion-Ring 176",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303315701,
-    "wof:lastmodified":1449000437,
+    "wof:lastmodified":1466232304,
     "wof:name":"H.-p. Heep",
     "wof:parent_id":85796311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.659233,50.188389,8.659233,50.188389],
+  "bbox": [
+    8.659233,
+    50.188389,
+    8.659233,
+    50.188389
+],
   "geometry": {"coordinates":[8.659233,50.188389],"type":"Point"}
 }

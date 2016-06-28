@@ -2,13 +2,14 @@
   "id": 119156273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.07568,50.757408,6.07568,50.757408",
     "geom:latitude":50.757408,
     "geom:longitude":6.07568,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Colynshofstr. 10",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795007,
+        85682513,
         85633111,
         101748621,
         102063693,
-        85682513,
+        85795007,
         85796521
     ],
     "wof:breaches":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119156273,
-    "wof:lastmodified":1449041346,
+    "wof:lastmodified":1466224696,
     "wof:name":"Willi Frings Architekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.07568,50.757408,6.07568,50.757408],
+  "bbox": [
+    6.07568,
+    50.757408,
+    6.07568,
+    50.757408
+],
   "geometry": {"coordinates":[6.07568,50.757408],"type":"Point"}
 }

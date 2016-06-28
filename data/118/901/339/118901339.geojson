@@ -2,13 +2,14 @@
   "id": 118901339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.950034,49.764305,9.950034,49.764305",
     "geom:latitude":49.764305,
     "geom:longitude":9.950034,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterstr. 9",
     "sg:city":"W\u00fcrzburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118901339,
-    "wof:lastmodified":1449053724,
+    "wof:lastmodified":1466235873,
     "wof:name":"Kloster-apotheke",
     "wof:parent_id":101748557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.950034,49.764305,9.950034,49.764305],
+  "bbox": [
+    9.950034,
+    49.764305,
+    9.950034,
+    49.764305
+],
   "geometry": {"coordinates":[9.950034,49.764305],"type":"Point"}
 }

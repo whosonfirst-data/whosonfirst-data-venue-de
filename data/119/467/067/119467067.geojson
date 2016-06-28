@@ -2,13 +2,14 @@
   "id": 119467067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.965663,49.483006,10.965663,49.483006",
     "geom:latitude":49.483006,
     "geom:longitude":10.965663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fcrzburger Str. 128",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900175,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85900175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119467067,
-    "wof:lastmodified":1449042925,
+    "wof:lastmodified":1466243042,
     "wof:name":"Autovermietung Kussberger Gmbh & Co.",
     "wof:parent_id":85900175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.965663,49.483006,10.965663,49.483006],
+  "bbox": [
+    10.965663,
+    49.483006,
+    10.965663,
+    49.483006
+],
   "geometry": {"coordinates":[10.965663,49.483006],"type":"Point"}
 }

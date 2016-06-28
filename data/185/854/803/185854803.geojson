@@ -2,13 +2,14 @@
   "id": 185854803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.67128,47.921455,10.67128,47.921455",
     "geom:latitude":47.921455,
     "geom:longitude":10.67128,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 3",
     "sg:city":"Germaringen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185854803,
-    "wof:lastmodified":1449008133,
+    "wof:lastmodified":1466215640,
     "wof:name":"S. Armstrong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.67128,47.921455,10.67128,47.921455],
+  "bbox": [
+    10.67128,
+    47.921455,
+    10.67128,
+    47.921455
+],
   "geometry": {"coordinates":[10.67128,47.921455],"type":"Point"}
 }

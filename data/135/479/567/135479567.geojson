@@ -2,13 +2,14 @@
   "id": 135479567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.761327,49.324341,6.761327,49.324341",
     "geom:latitude":49.324341,
     "geom:longitude":6.761327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Saarlouiser Str. 32",
     "sg:city":"Saarlouis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135479567,
-    "wof:lastmodified":1449023069,
+    "wof:lastmodified":1466229767,
     "wof:name":"Oase",
     "wof:parent_id":101842193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.761327,49.324341,6.761327,49.324341],
+  "bbox": [
+    6.761327,
+    49.324341,
+    6.761327,
+    49.324341
+],
   "geometry": {"coordinates":[6.761327,49.324341],"type":"Point"}
 }

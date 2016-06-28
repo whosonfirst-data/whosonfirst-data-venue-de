@@ -2,13 +2,14 @@
   "id": 136095071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.668311,53.864826,10.668311,53.864826",
     "geom:latitude":53.864826,
     "geom:longitude":10.668311,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstrasse 19",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900237,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136095071,
-    "wof:lastmodified":1449075587,
+    "wof:lastmodified":1466216532,
     "wof:name":"K\u00fcche",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.668311,53.864826,10.668311,53.864826],
+  "bbox": [
+    10.668311,
+    53.864826,
+    10.668311,
+    53.864826
+],
   "geometry": {"coordinates":[10.668311,53.864826],"type":"Point"}
 }

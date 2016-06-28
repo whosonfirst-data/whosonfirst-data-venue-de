@@ -2,13 +2,14 @@
   "id": 235937881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.444948,48.781773,11.444948,48.781773",
     "geom:latitude":48.781773,
     "geom:longitude":11.444948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Claudiusstr. 1",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235937881,
-    "wof:lastmodified":1449008325,
+    "wof:lastmodified":1466217623,
     "wof:name":"Johann Dolzer",
     "wof:parent_id":85900055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.444948,48.781773,11.444948,48.781773],
+  "bbox": [
+    11.444948,
+    48.781773,
+    11.444948,
+    48.781773
+],
   "geometry": {"coordinates":[11.444948,48.781773],"type":"Point"}
 }

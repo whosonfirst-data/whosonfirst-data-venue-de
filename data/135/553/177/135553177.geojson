@@ -2,13 +2,14 @@
   "id": 135553177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.584209,49.904884,8.584209,49.904884",
     "geom:latitude":49.904884,
     "geom:longitude":8.584209,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Storm-Str. 16a",
     "sg:city":"Weiterstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135553177,
-    "wof:lastmodified":1449021000,
+    "wof:lastmodified":1466236384,
     "wof:name":"Jochen Schmitt",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.584209,49.904884,8.584209,49.904884],
+  "bbox": [
+    8.584209,
+    49.904884,
+    8.584209,
+    49.904884
+],
   "geometry": {"coordinates":[8.584209,49.904884],"type":"Point"}
 }

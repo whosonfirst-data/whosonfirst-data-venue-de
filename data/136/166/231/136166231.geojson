@@ -2,13 +2,14 @@
   "id": 136166231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.711642,51.034554,13.711642,51.034554",
     "geom:latitude":51.034554,
     "geom:longitude":13.711642,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bamberger Stra\u00dfe 7",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899545,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136166231,
-    "wof:lastmodified":1449075671,
+    "wof:lastmodified":1466219544,
     "wof:name":"Bildungszentrum Dr. Adler Gmbh",
     "wof:parent_id":85899545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.711642,51.034554,13.711642,51.034554],
+  "bbox": [
+    13.711642,
+    51.034554,
+    13.711642,
+    51.034554
+],
   "geometry": {"coordinates":[13.711642,51.034554],"type":"Point"}
 }

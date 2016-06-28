@@ -2,13 +2,14 @@
   "id": 152746171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.609306,40.528351,-75.609306,40.528351",
     "geom:latitude":40.528351,
     "geom:longitude":-75.609306,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haupt.",
     "sg:city":"weilers",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:postcode":"12345",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081327,
-        85633793,
         85688481,
-        85854981
+        85633793,
+        85854981,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152746171,
-    "wof:lastmodified":1449044251,
+    "wof:lastmodified":1466225748,
     "wof:name":"Alles Rund Um Die Nagelpflege",
     "wof:parent_id":85854981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.609306,40.528351,-75.609306,40.528351],
+  "bbox": [
+    -75.609306,
+    40.528351,
+    -75.609306,
+    40.528351
+],
   "geometry": {"coordinates":[-75.609306,40.528351],"type":"Point"}
 }

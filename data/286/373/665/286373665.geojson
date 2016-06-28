@@ -2,13 +2,14 @@
   "id": 286373665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.968795,47.830605,12.968795,47.830605",
     "geom:latitude":47.830605,
     "geom:longitude":12.968795,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Staufenstr. 41 a",
     "sg:city":"Freilassing",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286373665,
-    "wof:lastmodified":1449016717,
+    "wof:lastmodified":1466227188,
     "wof:name":"Hans Holler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.968795,47.830605,12.968795,47.830605],
+  "bbox": [
+    12.968795,
+    47.830605,
+    12.968795,
+    47.830605
+],
   "geometry": {"coordinates":[12.968795,47.830605],"type":"Point"}
 }

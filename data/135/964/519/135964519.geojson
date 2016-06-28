@@ -2,13 +2,14 @@
   "id": 135964519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.496518,52.4972,13.496518,52.4972",
     "geom:latitude":52.4972,
     "geom:longitude":13.496518,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Huronseestr. 66",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899981,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135964519,
-    "wof:lastmodified":1449023281,
+    "wof:lastmodified":1466244822,
     "wof:name":"A. D. U.-beratungs- Und Verwaltungsges. Mbh",
     "wof:parent_id":85899981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.496518,52.4972,13.496518,52.4972],
+  "bbox": [
+    13.496518,
+    52.4972,
+    13.496518,
+    52.4972
+],
   "geometry": {"coordinates":[13.496518,52.4972],"type":"Point"}
 }

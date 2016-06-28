@@ -2,13 +2,14 @@
   "id": 118693823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.033932,51.476254,7.033932,51.476254",
     "geom:latitude":51.476254,
     "geom:longitude":7.033932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstr. 31",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118693823,
-    "wof:lastmodified":1449053225,
+    "wof:lastmodified":1466223565,
     "wof:name":"Caritas-essen Pflegedienste",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.033932,51.476254,7.033932,51.476254],
+  "bbox": [
+    7.033932,
+    51.476254,
+    7.033932,
+    51.476254
+],
   "geometry": {"coordinates":[7.033932,51.476254],"type":"Point"}
 }

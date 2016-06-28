@@ -2,13 +2,14 @@
   "id": 135483697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.134019,49.460194,11.134019,49.460194",
     "geom:latitude":49.460194,
     "geom:longitude":11.134019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiligrathstr 30",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899643,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135483697,
-    "wof:lastmodified":1449023378,
+    "wof:lastmodified":1466230172,
     "wof:name":"Pfister + Langhanss Handelsgesellschaft Mbh",
     "wof:parent_id":85899643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.134019,49.460194,11.134019,49.460194],
+  "bbox": [
+    11.134019,
+    49.460194,
+    11.134019,
+    49.460194
+],
   "geometry": {"coordinates":[11.134019,49.460194],"type":"Point"}
 }

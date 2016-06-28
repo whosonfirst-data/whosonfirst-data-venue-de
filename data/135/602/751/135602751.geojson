@@ -2,13 +2,14 @@
   "id": 135602751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.776227,47.997143,10.776227,47.997143",
     "geom:latitude":47.997143,
     "geom:longitude":10.776227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenweg 1",
     "sg:city":"Waal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135602751,
-    "wof:lastmodified":1449022431,
+    "wof:lastmodified":1466239544,
     "wof:name":"H. Novacek",
     "wof:parent_id":101786449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.776227,47.997143,10.776227,47.997143],
+  "bbox": [
+    10.776227,
+    47.997143,
+    10.776227,
+    47.997143
+],
   "geometry": {"coordinates":[10.776227,47.997143],"type":"Point"}
 }

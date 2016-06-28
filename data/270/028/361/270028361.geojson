@@ -2,13 +2,14 @@
   "id": 270028361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.900245,48.370167,10.900245,48.370167",
     "geom:latitude":48.370167,
     "geom:longitude":10.900245,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf dem Rain 6",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270028361,
-    "wof:lastmodified":1449009966,
+    "wof:lastmodified":1466222021,
     "wof:name":"Marion Schmitt",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.900245,48.370167,10.900245,48.370167],
+  "bbox": [
+    10.900245,
+    48.370167,
+    10.900245,
+    48.370167
+],
   "geometry": {"coordinates":[10.900245,48.370167],"type":"Point"}
 }

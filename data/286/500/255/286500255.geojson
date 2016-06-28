@@ -2,13 +2,14 @@
   "id": 286500255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.569414,47.630772,8.569414,47.630772",
     "geom:latitude":47.630772,
     "geom:longitude":8.569414,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4ntisblickstr. 3",
     "sg:city":"Lottstetten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286500255,
-    "wof:lastmodified":1449015904,
+    "wof:lastmodified":1466230141,
     "wof:name":"Knoth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.569414,47.630772,8.569414,47.630772],
+  "bbox": [
+    8.569414,
+    47.630772,
+    8.569414,
+    47.630772
+],
   "geometry": {"coordinates":[8.569414,47.630772],"type":"Point"}
 }

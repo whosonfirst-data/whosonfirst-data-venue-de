@@ -2,13 +2,14 @@
   "id": 118781207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.030611,50.978886,11.030611,50.978886",
     "geom:latitude":50.978886,
     "geom:longitude":11.030611,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kr\u00e4merbr\u00fccke 7",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Th\u00fcringen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899889,
+        85682541,
         85633111,
         101748625,
         102063701,
-        85682541
+        85899889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118781207,
-    "wof:lastmodified":1449053406,
+    "wof:lastmodified":1466228633,
     "wof:name":"Antiquit\u00e4ten-kr\u00e4merbr\u00fccke- Galerie",
     "wof:parent_id":85899889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.030611,50.978886,11.030611,50.978886],
+  "bbox": [
+    11.030611,
+    50.978886,
+    11.030611,
+    50.978886
+],
   "geometry": {"coordinates":[11.030611,50.978886],"type":"Point"}
 }

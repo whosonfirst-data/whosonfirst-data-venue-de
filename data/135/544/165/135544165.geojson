@@ -2,13 +2,14 @@
   "id": 135544165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.754404,53.077293,8.754404,53.077293",
     "geom:latitude":53.077293,
     "geom:longitude":8.754404,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Senator-B\u00f6mers-Str. 48",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85796255
+        85633111,
+        85796255,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135544165,
-    "wof:lastmodified":1449023990,
+    "wof:lastmodified":1466235592,
     "wof:name":"Rsg R\u00fcckbau- Und Sanierungsgesellschaft Mbh",
     "wof:parent_id":85796255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.754404,53.077293,8.754404,53.077293],
+  "bbox": [
+    8.754404,
+    53.077293,
+    8.754404,
+    53.077293
+],
   "geometry": {"coordinates":[8.754404,53.077293],"type":"Point"}
 }

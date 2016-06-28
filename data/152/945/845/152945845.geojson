@@ -2,13 +2,14 @@
   "id": 152945845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.981561,48.460407,10.981561,48.460407",
     "geom:latitude":48.460407,
     "geom:longitude":10.981561,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1",
     "sg:city":"Affing",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063301,
-        85633111,
         85682571,
-        85900061
+        85633111,
+        85900061,
+        102063301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152945845,
-    "wof:lastmodified":1449044692,
+    "wof:lastmodified":1466230497,
     "wof:name":"Specialautoparts",
     "wof:parent_id":85900061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.981561,48.460407,10.981561,48.460407],
+  "bbox": [
+    10.981561,
+    48.460407,
+    10.981561,
+    48.460407
+],
   "geometry": {"coordinates":[10.981561,48.460407],"type":"Point"}
 }

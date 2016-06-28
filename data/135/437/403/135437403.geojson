@@ -2,13 +2,14 @@
   "id": 135437403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.666794,32.911205,-80.666794,32.911205",
     "geom:latitude":32.911205,
     "geom:longitude":-80.666794,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 22",
     "sg:city":"Meine",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135437403,
-    "wof:lastmodified":1449023185,
+    "wof:lastmodified":1466226066,
     "wof:name":"Sparkasse Gifhorn-wolfsburg",
     "wof:parent_id":101721229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.666794,32.911205,-80.666794,32.911205],
+  "bbox": [
+    -80.666794,
+    32.911205,
+    -80.666794,
+    32.911205
+],
   "geometry": {"coordinates":[-80.666794,32.911205],"type":"Point"}
 }

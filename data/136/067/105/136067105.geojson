@@ -2,13 +2,14 @@
   "id": 136067105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.16663,48.739468,9.16663,48.739468",
     "geom:latitude":48.739468,
     "geom:longitude":9.16663,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Julius-H\u00f6lder-Str. 14",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136067105,
-    "wof:lastmodified":1449074991,
+    "wof:lastmodified":1466215211,
     "wof:name":"Fr. K\u00fcnemund Gmbh & Co. Kg: Kugellager Grosshandel",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.16663,48.739468,9.16663,48.739468],
+  "bbox": [
+    9.16663,
+    48.739468,
+    9.16663,
+    48.739468
+],
   "geometry": {"coordinates":[9.16663,48.739468],"type":"Point"}
 }

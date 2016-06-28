@@ -2,13 +2,14 @@
   "id": 119049653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.654435,49.917248,8.654435,49.917248",
     "geom:latitude":49.917248,
     "geom:longitude":8.654435,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurter Landstr. 244",
     "sg:city":"Darmstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794755,
+        85682531,
         85633111,
         101913821,
         102063549,
-        85682531
+        85794755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119049653,
-    "wof:lastmodified":1449042151,
+    "wof:lastmodified":1466215339,
     "wof:name":"Helmut Krug Architekt",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.654435,49.917248,8.654435,49.917248],
+  "bbox": [
+    8.654435,
+    49.917248,
+    8.654435,
+    49.917248
+],
   "geometry": {"coordinates":[8.654435,49.917248],"type":"Point"}
 }

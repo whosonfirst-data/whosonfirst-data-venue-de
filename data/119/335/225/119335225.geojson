@@ -2,13 +2,14 @@
   "id": 119335225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.317624,48.696983,9.317624,48.696983",
     "geom:latitude":48.696983,
     "geom:longitude":9.317624,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schnellenstr. 22",
     "sg:city":"Denkendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119335225,
-    "wof:lastmodified":1449042641,
+    "wof:lastmodified":1466239074,
     "wof:name":"Hermann Niebel",
     "wof:parent_id":101761817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.317624,48.696983,9.317624,48.696983],
+  "bbox": [
+    9.317624,
+    48.696983,
+    9.317624,
+    48.696983
+],
   "geometry": {"coordinates":[9.317624,48.696983],"type":"Point"}
 }

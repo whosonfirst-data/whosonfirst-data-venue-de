@@ -2,13 +2,14 @@
   "id": 135560477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.037334,51.083096,7.037334,51.083096",
     "geom:latitude":51.083096,
     "geom:longitude":7.037334,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcscheider Str. 40",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794781,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85794781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135560477,
-    "wof:lastmodified":1449023309,
+    "wof:lastmodified":1466236529,
     "wof:name":"Ims Immobilienservice Ohg",
     "wof:parent_id":85794781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.037334,51.083096,7.037334,51.083096],
+  "bbox": [
+    7.037334,
+    51.083096,
+    7.037334,
+    51.083096
+],
   "geometry": {"coordinates":[7.037334,51.083096],"type":"Point"}
 }

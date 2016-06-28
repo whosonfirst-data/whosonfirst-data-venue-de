@@ -2,13 +2,14 @@
   "id": 119017489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.986406,53.597317,9.986406,53.597317",
     "geom:latitude":53.597317,
     "geom:longitude":9.986406,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erikastr. 105",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119017489,
-    "wof:lastmodified":1449042262,
+    "wof:lastmodified":1466230818,
     "wof:name":"Gerd H. W. Behrens Architekt",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.986406,53.597317,9.986406,53.597317],
+  "bbox": [
+    9.986406,
+    53.597317,
+    9.986406,
+    53.597317
+],
   "geometry": {"coordinates":[9.986406,53.597317],"type":"Point"}
 }

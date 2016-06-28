@@ -2,13 +2,14 @@
   "id": 119184389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.756307,51.030003,13.756307,51.030003",
     "geom:latitude":51.030003,
     "geom:longitude":13.756307,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz-Liszt-Str. 21",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905663,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85905663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119184389,
-    "wof:lastmodified":1449041274,
+    "wof:lastmodified":1466227345,
     "wof:name":"Dresdner Ingenieur- Und Architektenges. Mbh",
     "wof:parent_id":85905663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.756307,51.030003,13.756307,51.030003],
+  "bbox": [
+    13.756307,
+    51.030003,
+    13.756307,
+    51.030003
+],
   "geometry": {"coordinates":[13.756307,51.030003],"type":"Point"}
 }

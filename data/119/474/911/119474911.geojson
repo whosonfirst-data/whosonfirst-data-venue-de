@@ -2,13 +2,14 @@
   "id": 119474911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.521799,49.412235,8.521799,49.412235",
     "geom:latitude":49.412235,
     "geom:longitude":8.521799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Altp\u00f6rtel 2",
     "sg:city":"Br\u00fchl",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119474911,
-    "wof:lastmodified":1449041001,
+    "wof:lastmodified":1466243197,
     "wof:name":"Karlheinz Hennicke",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.521799,49.412235,8.521799,49.412235],
+  "bbox": [
+    8.521799,
+    49.412235,
+    8.521799,
+    49.412235
+],
   "geometry": {"coordinates":[8.521799,49.412235],"type":"Point"}
 }

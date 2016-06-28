@@ -2,13 +2,14 @@
   "id": 152367289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.971385,52.36285,12.971385,52.36285",
     "geom:latitude":52.36285,
     "geom:longitude":12.971385,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauffstr. 73",
     "sg:city":"Geltow",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063931,
-        85633111,
         85682553,
-        85928771
+        85633111,
+        85928771,
+        102063931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152367289,
-    "wof:lastmodified":1449047032,
+    "wof:lastmodified":1466217548,
     "wof:name":"Hantel Gmbh",
     "wof:parent_id":85928771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.971385,52.36285,12.971385,52.36285],
+  "bbox": [
+    12.971385,
+    52.36285,
+    12.971385,
+    52.36285
+],
   "geometry": {"coordinates":[12.971385,52.36285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136162929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.591503,49.125088,8.591503,49.125088",
     "geom:latitude":49.125088,
     "geom:longitude":8.591503,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 3",
     "sg:city":"Bruchsal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136162929,
-    "wof:lastmodified":1449076065,
+    "wof:lastmodified":1466219390,
     "wof:name":"Dd Computer",
     "wof:parent_id":101826709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.591503,49.125088,8.591503,49.125088],
+  "bbox": [
+    8.591503,
+    49.125088,
+    8.591503,
+    49.125088
+],
   "geometry": {"coordinates":[8.591503,49.125088],"type":"Point"}
 }

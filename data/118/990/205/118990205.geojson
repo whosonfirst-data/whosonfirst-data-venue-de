@@ -2,13 +2,14 @@
   "id": 118990205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.099476,51.396965,7.099476,51.396965",
     "geom:latitude":51.396965,
     "geom:longitude":7.099476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scharpenhang 15",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063791,
-        85633111,
         85682513,
-        85795481
+        85633111,
+        85795481,
+        102063791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118990205,
-    "wof:lastmodified":1449054082,
+    "wof:lastmodified":1466239719,
     "wof:name":"Detlef Balkenhohl Architekt",
     "wof:parent_id":85795481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.099476,51.396965,7.099476,51.396965],
+  "bbox": [
+    7.099476,
+    51.396965,
+    7.099476,
+    51.396965
+],
   "geometry": {"coordinates":[7.099476,51.396965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202903601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.091707,49.019791,12.091707,49.019791",
     "geom:latitude":49.019791,
     "geom:longitude":12.091707,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am R\u00f6mling 14",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202903601,
-    "wof:lastmodified":1449060261,
+    "wof:lastmodified":1466223214,
     "wof:name":"Arcop Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.091707,49.019791,12.091707,49.019791],
+  "bbox": [
+    12.091707,
+    49.019791,
+    12.091707,
+    49.019791
+],
   "geometry": {"coordinates":[12.091707,49.019791],"type":"Point"}
 }

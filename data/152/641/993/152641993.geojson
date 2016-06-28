@@ -2,13 +2,14 @@
   "id": 152641993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.459384,52.451996,13.459384,52.451996",
     "geom:latitude":52.451996,
     "geom:longitude":13.459384,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sp\u00e4thstr. 31-33",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899061,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152641993,
-    "wof:lastmodified":1449047807,
+    "wof:lastmodified":1466223384,
     "wof:name":"E. Hell Gesch\u00e4ftsf\u00fchrungs Gmbh",
     "wof:parent_id":85899061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.459384,52.451996,13.459384,52.451996],
+  "bbox": [
+    13.459384,
+    52.451996,
+    13.459384,
+    52.451996
+],
   "geometry": {"coordinates":[13.459384,52.451996],"type":"Point"}
 }

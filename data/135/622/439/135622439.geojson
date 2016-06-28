@@ -2,13 +2,14 @@
   "id": 135622439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.814935,48.566833,7.814935,48.566833",
     "geom:latitude":48.566833,
     "geom:longitude":7.814935,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Iringheimer Str.",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897709,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135622439,
-    "wof:lastmodified":1449023471,
+    "wof:lastmodified":1466240208,
     "wof:name":"Peter Reimer",
     "wof:parent_id":85897709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.814935,48.566833,7.814935,48.566833],
+  "bbox": [
+    7.814935,
+    48.566833,
+    7.814935,
+    48.566833
+],
   "geometry": {"coordinates":[7.814935,48.566833],"type":"Point"}
 }

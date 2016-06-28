@@ -2,13 +2,14 @@
   "id": 303361239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.99353,47.879719,11.99353,47.879719",
     "geom:latitude":47.879719,
     "geom:longitude":11.99353,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebersberger Str. 74",
     "sg:city":"Bad Aibling",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303361239,
-    "wof:lastmodified":1448999900,
+    "wof:lastmodified":1466233389,
     "wof:name":"Ludwig Englmeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.99353,47.879719,11.99353,47.879719],
+  "bbox": [
+    11.99353,
+    47.879719,
+    11.99353,
+    47.879719
+],
   "geometry": {"coordinates":[11.99353,47.879719],"type":"Point"}
 }

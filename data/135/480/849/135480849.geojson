@@ -2,13 +2,14 @@
   "id": 135480849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.389808,52.048672,10.389808,52.048672",
     "geom:latitude":52.048672,
     "geom:longitude":10.389808,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windm\u00fchlenbergstr. 56",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900193,
+        85682555,
         85633111,
         101748779,
         102063885,
-        85682555
+        85900193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135480849,
-    "wof:lastmodified":1449021981,
+    "wof:lastmodified":1466229890,
     "wof:name":"Sansibar",
     "wof:parent_id":85900193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.389808,52.048672,10.389808,52.048672],
+  "bbox": [
+    10.389808,
+    52.048672,
+    10.389808,
+    52.048672
+],
   "geometry": {"coordinates":[10.389808,52.048672],"type":"Point"}
 }

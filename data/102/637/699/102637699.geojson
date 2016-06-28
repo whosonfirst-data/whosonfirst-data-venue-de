@@ -2,13 +2,14 @@
   "id": 102637699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.96583,53.562263,9.96583,53.562263",
     "geom:latitude":53.562263,
     "geom:longitude":9.96583,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Hamburg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102637699,
-    "wof:lastmodified":1449067762,
+    "wof:lastmodified":1466214305,
     "wof:name":"Andreas Herzau Fotografie",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.96583,53.562263,9.96583,53.562263],
+  "bbox": [
+    9.96583,
+    53.562263,
+    9.96583,
+    53.562263
+],
   "geometry": {"coordinates":[9.96583,53.562263],"type":"Point"}
 }

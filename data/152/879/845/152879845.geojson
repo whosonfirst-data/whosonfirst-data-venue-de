@@ -2,13 +2,14 @@
   "id": 152879845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.070415,51.459888,7.070415,51.459888",
     "geom:latitude":51.459888,
     "geom:longitude":7.070415,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4ngebank 6",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865109,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85865109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152879845,
-    "wof:lastmodified":1449044333,
+    "wof:lastmodified":1466228894,
     "wof:name":"Kunststoffbarbeitung: Acrylglas Displays",
     "wof:parent_id":85865109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.070415,51.459888,7.070415,51.459888],
+  "bbox": [
+    7.070415,
+    51.459888,
+    7.070415,
+    51.459888
+],
   "geometry": {"coordinates":[7.070415,51.459888],"type":"Point"}
 }

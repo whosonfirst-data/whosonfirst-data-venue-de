@@ -2,13 +2,14 @@
   "id": 102666763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.35793,50.617752,12.35793,50.617752",
     "geom:latitude":50.617752,
     "geom:longitude":12.35793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 186:: 08462 Reichenbach:: Germany::  Tel: +49 3744 212550.^^Markt 14::",
     "sg:city":"Reichenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102666763,
-    "wof:lastmodified":1449068662,
+    "wof:lastmodified":1466215226,
     "wof:name":"Raiffeisenbank Vogtland Eg",
     "wof:parent_id":101824511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.35793,50.617752,12.35793,50.617752],
+  "bbox": [
+    12.35793,
+    50.617752,
+    12.35793,
+    50.617752
+],
   "geometry": {"coordinates":[12.35793,50.617752],"type":"Point"}
 }

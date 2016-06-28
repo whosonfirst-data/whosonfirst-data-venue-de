@@ -2,13 +2,14 @@
   "id": 320564105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.487487,53.688488,10.487487,53.688488",
     "geom:latitude":53.688488,
     "geom:longitude":10.487487,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 75",
     "sg:city":"Sandesneben",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320564105,
-    "wof:lastmodified":1449014739,
+    "wof:lastmodified":1466241592,
     "wof:name":"Wasserwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.487487,53.688488,10.487487,53.688488],
+  "bbox": [
+    10.487487,
+    53.688488,
+    10.487487,
+    53.688488
+],
   "geometry": {"coordinates":[10.487487,53.688488],"type":"Point"}
 }

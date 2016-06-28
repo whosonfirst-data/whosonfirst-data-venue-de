@@ -2,13 +2,14 @@
   "id": 119107335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151906,48.841312,9.151906,48.841312",
     "geom:latitude":48.841312,
     "geom:longitude":9.151906,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nobileweg 14",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796691,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85796691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119107335,
-    "wof:lastmodified":1449040893,
+    "wof:lastmodified":1466220715,
     "wof:name":"Peter Gerhards Architekt",
     "wof:parent_id":85796691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.151906,48.841312,9.151906,48.841312],
+  "bbox": [
+    9.151906,
+    48.841312,
+    9.151906,
+    48.841312
+],
   "geometry": {"coordinates":[9.151906,48.841312],"type":"Point"}
 }

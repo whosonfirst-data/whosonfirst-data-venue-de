@@ -2,13 +2,14 @@
   "id": 102566455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.20475,36.610352,-77.20475,36.610352",
     "geom:latitude":36.610352,
     "geom:longitude":-77.20475,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Krems",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":102566455,
-    "wof:lastmodified":1449067815,
+    "wof:lastmodified":1466213538,
     "wof:name":"Lebensgemeinschaft Gut M\u00fcssen",
     "wof:parent_id":85688747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.20475,36.610352,-77.20475,36.610352],
+  "bbox": [
+    -77.20475,
+    36.610352,
+    -77.20475,
+    36.610352
+],
   "geometry": {"coordinates":[-77.20475,36.610352],"type":"Point"}
 }

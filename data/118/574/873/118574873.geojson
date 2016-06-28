@@ -2,13 +2,14 @@
   "id": 118574873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.208105,48.719463,9.208105,48.719463",
     "geom:latitude":48.719463,
     "geom:longitude":9.208105,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheidter Str. 61",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85862803
+        85633111,
+        85862803,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118574873,
-    "wof:lastmodified":1449053136,
+    "wof:lastmodified":1466216801,
     "wof:name":"Acom Wgs Communikation Ag",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.208105,48.719463,9.208105,48.719463],
+  "bbox": [
+    9.208105,
+    48.719463,
+    9.208105,
+    48.719463
+],
   "geometry": {"coordinates":[9.208105,48.719463],"type":"Point"}
 }

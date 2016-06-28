@@ -2,13 +2,14 @@
   "id": 119361011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.129958,48.838505,12.129958,48.838505",
     "geom:latitude":48.838505,
     "geom:longitude":12.129958,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leierndorfer Str. 19",
     "sg:city":"Schierling",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119361011,
-    "wof:lastmodified":1449042817,
+    "wof:lastmodified":1466240353,
     "wof:name":"Max Heindl",
     "wof:parent_id":101783323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.129958,48.838505,12.129958,48.838505],
+  "bbox": [
+    12.129958,
+    48.838505,
+    12.129958,
+    48.838505
+],
   "geometry": {"coordinates":[12.129958,48.838505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118791453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.426739,48.762566,11.426739,48.762566",
     "geom:latitude":48.762566,
     "geom:longitude":11.426739,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schutterstr. 10",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899417,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118791453,
-    "wof:lastmodified":1449054236,
+    "wof:lastmodified":1466229250,
     "wof:name":"Antik Und Gold An-und Verkauf Sfj Gmbh",
     "wof:parent_id":85899417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.426739,48.762566,11.426739,48.762566],
+  "bbox": [
+    11.426739,
+    48.762566,
+    11.426739,
+    48.762566
+],
   "geometry": {"coordinates":[11.426739,48.762566],"type":"Point"}
 }

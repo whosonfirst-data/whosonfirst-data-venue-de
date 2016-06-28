@@ -2,13 +2,14 @@
   "id": 203065991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.732382,49.502865,11.732382,49.502865",
     "geom:latitude":49.502865,
     "geom:longitude":11.732382,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Spittlberg 8",
     "sg:city":"Sulzbach-Rosenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203065991,
-    "wof:lastmodified":1449026857,
+    "wof:lastmodified":1466214910,
     "wof:name":"Albert Lang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.732382,49.502865,11.732382,49.502865],
+  "bbox": [
+    11.732382,
+    49.502865,
+    11.732382,
+    49.502865
+],
   "geometry": {"coordinates":[11.732382,49.502865],"type":"Point"}
 }

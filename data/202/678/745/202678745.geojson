@@ -2,13 +2,14 @@
   "id": 202678745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.542327,54.499931,9.542327,54.499931",
     "geom:latitude":54.499931,
     "geom:longitude":9.542327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mansteinstr. 24",
     "sg:city":"Schleswig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202678745,
-    "wof:lastmodified":1449061360,
+    "wof:lastmodified":1466219028,
     "wof:name":"Willy Hagge & Sohn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.542327,54.499931,9.542327,54.499931],
+  "bbox": [
+    9.542327,
+    54.499931,
+    9.542327,
+    54.499931
+],
   "geometry": {"coordinates":[9.542327,54.499931],"type":"Point"}
 }

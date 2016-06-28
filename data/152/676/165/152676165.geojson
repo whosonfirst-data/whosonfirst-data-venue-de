@@ -2,13 +2,14 @@
   "id": 152676165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.835661,52.496647,9.835661,52.496647",
     "geom:latitude":52.496647,
     "geom:longitude":9.835661,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulze-Delitzsch-Str. 6",
     "sg:city":"Burgwedel",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85899219
+        85633111,
+        85899219,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152676165,
-    "wof:lastmodified":1449047262,
+    "wof:lastmodified":1466224133,
     "wof:name":"Perfekta Dienstleistungen Gmbh",
     "wof:parent_id":85899219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.835661,52.496647,9.835661,52.496647],
+  "bbox": [
+    9.835661,
+    52.496647,
+    9.835661,
+    52.496647
+],
   "geometry": {"coordinates":[9.835661,52.496647],"type":"Point"}
 }

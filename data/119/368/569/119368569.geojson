@@ -2,13 +2,14 @@
   "id": 119368569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.613547,47.612095,7.613547,47.612095",
     "geom:latitude":47.612095,
     "geom:longitude":7.613547,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Willi-Baumann-Str. 2",
     "sg:city":"Weil am Rhein",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119368569,
-    "wof:lastmodified":1449041427,
+    "wof:lastmodified":1466240871,
     "wof:name":"R. Kwiatlowski",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.613547,47.612095,7.613547,47.612095],
+  "bbox": [
+    7.613547,
+    47.612095,
+    7.613547,
+    47.612095
+],
   "geometry": {"coordinates":[7.613547,47.612095],"type":"Point"}
 }

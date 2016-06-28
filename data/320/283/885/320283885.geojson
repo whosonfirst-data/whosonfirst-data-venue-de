@@ -2,13 +2,14 @@
   "id": 320283885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.368248,41.45108,-97.368248,41.45108",
     "geom:latitude":41.45108,
     "geom:longitude":-97.368248,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"PO-Box 141",
     "sg:city":"Uh.Hradiste",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320283885,
-    "wof:lastmodified":1449012366,
+    "wof:lastmodified":1466238542,
     "wof:name":"Dekor S.r.o.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.368248,41.45108,-97.368248,41.45108],
-  "geometry": {"coordinates":[-97.368248,41.45108],"type":"Point"}
+  "bbox": [
+    -97.368248,
+    41.45108,
+    -97.368248,
+    41.45108
+],
+  "geometry": {"coordinates":[-97.36824799999999,41.45108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202511735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.54732,51.441509,6.54732,51.441509",
     "geom:latitude":51.441509,
     "geom:longitude":6.54732,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niederrheinallee 325",
     "sg:city":"Neukirchen-Vluyn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202511735,
-    "wof:lastmodified":1449061294,
+    "wof:lastmodified":1466215854,
     "wof:name":"R. Stoffel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.54732,51.441509,6.54732,51.441509],
+  "bbox": [
+    6.54732,
+    51.441509,
+    6.54732,
+    51.441509
+],
   "geometry": {"coordinates":[6.54732,51.441509],"type":"Point"}
 }

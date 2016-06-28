@@ -2,13 +2,14 @@
   "id": 152702247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.056379,50.912743,7.056379,50.912743",
     "geom:latitude":50.912743,
     "geom:longitude":7.056379,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hansestr. 105",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063715,
-        85633111,
         85682513,
-        85795471
+        85633111,
+        85795471,
+        102063715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152702247,
-    "wof:lastmodified":1449046612,
+    "wof:lastmodified":1466224676,
     "wof:name":"Brause Verm\u00f6gensverwaltungs- Gesellschaft Mbh",
     "wof:parent_id":85795471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.056379,50.912743,7.056379,50.912743],
+  "bbox": [
+    7.056379,
+    50.912743,
+    7.056379,
+    50.912743
+],
   "geometry": {"coordinates":[7.056379,50.912743],"type":"Point"}
 }

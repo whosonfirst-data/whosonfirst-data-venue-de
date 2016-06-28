@@ -2,13 +2,14 @@
   "id": 119505977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.023511,49.330433,11.023511,49.330433",
     "geom:latitude":49.330433,
     "geom:longitude":11.023511,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neutorstr. 4",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899347,
+        85682571,
         85633111,
         101833013,
         102063417,
-        85682571
+        85899347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119505977,
-    "wof:lastmodified":1449043086,
+    "wof:lastmodified":1466243649,
     "wof:name":"B\u00e4ckerei Franz Ziernh\u00f6ld",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.023511,49.330433,11.023511,49.330433],
+  "bbox": [
+    11.023511,
+    49.330433,
+    11.023511,
+    49.330433
+],
   "geometry": {"coordinates":[11.023511,49.330433],"type":"Point"}
 }

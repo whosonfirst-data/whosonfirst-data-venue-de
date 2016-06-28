@@ -2,13 +2,14 @@
   "id": 320337553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.609608,50.792332,10.609608,50.792332",
     "geom:latitude":50.792332,
     "geom:longitude":10.609608,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 84",
     "sg:city":"Tambach-Dietharz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320337553,
-    "wof:lastmodified":1449013007,
+    "wof:lastmodified":1466239358,
     "wof:name":"Karl Raab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.609608,50.792332,10.609608,50.792332],
+  "bbox": [
+    10.609608,
+    50.792332,
+    10.609608,
+    50.792332
+],
   "geometry": {"coordinates":[10.609608,50.792332],"type":"Point"}
 }

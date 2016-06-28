@@ -2,13 +2,14 @@
   "id": 152475699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.419421,51.369366,12.419421,51.369366",
     "geom:latitude":51.369366,
     "geom:longitude":12.419421,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiterblickstr.",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898929,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85898929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152475699,
-    "wof:lastmodified":1449046230,
+    "wof:lastmodified":1466219703,
     "wof:name":"Elektromontagen Verwaltungs- Gesellschaft Mbh",
     "wof:parent_id":85898929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.419421,51.369366,12.419421,51.369366],
+  "bbox": [
+    12.419421,
+    51.369366,
+    12.419421,
+    51.369366
+],
   "geometry": {"coordinates":[12.419421,51.369366],"type":"Point"}
 }

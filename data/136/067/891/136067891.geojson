@@ -2,13 +2,14 @@
   "id": 136067891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.412411,49.009041,8.412411,49.009041",
     "geom:latitude":49.009041,
     "geom:longitude":8.412411,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiserstra\u00dfe 49",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,13 +19,13 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
+        85633111,
         85862807,
-        85795045,
+        102063403,
         101748527,
-        102063385
+        102063385,
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136067891,
-    "wof:lastmodified":1449074991,
+    "wof:lastmodified":1466215252,
     "wof:name":"Frey - Karlsruhe - Der Copy-shop F\u00fcr Sie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.412411,49.009041,8.412411,49.009041],
+  "bbox": [
+    8.412411,
+    49.009041,
+    8.412411,
+    49.009041
+],
   "geometry": {"coordinates":[8.412411,49.009041],"type":"Point"}
 }

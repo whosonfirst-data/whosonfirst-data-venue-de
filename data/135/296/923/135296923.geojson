@@ -2,13 +2,14 @@
   "id": 135296923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.116742,49.995319,8.116742,49.995319",
     "geom:latitude":49.995319,
     "geom:longitude":8.116742,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzstr. 8",
     "sg:city":"Heidesheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135296923,
-    "wof:lastmodified":1449023461,
+    "wof:lastmodified":1466213559,
     "wof:name":"M Berg",
     "wof:parent_id":101811737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.116742,49.995319,8.116742,49.995319],
+  "bbox": [
+    8.116742,
+    49.995319,
+    8.116742,
+    49.995319
+],
   "geometry": {"coordinates":[8.116742,49.995319],"type":"Point"}
 }

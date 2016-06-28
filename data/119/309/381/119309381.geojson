@@ -2,13 +2,14 @@
   "id": 119309381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.08162,51.490547,7.08162,51.490547",
     "geom:latitude":51.490547,
     "geom:longitude":7.08162,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Karl-Meyer-Str. 16",
     "sg:city":"Gelsenkirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119309381,
-    "wof:lastmodified":1449041389,
+    "wof:lastmodified":1466237911,
     "wof:name":"Franz Schubert",
     "wof:parent_id":101748723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.08162,51.490547,7.08162,51.490547],
+  "bbox": [
+    7.08162,
+    51.490547,
+    7.08162,
+    51.490547
+],
   "geometry": {"coordinates":[7.08162,51.490547],"type":"Point"}
 }

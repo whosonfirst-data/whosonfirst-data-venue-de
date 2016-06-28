@@ -2,13 +2,14 @@
   "id": 135801301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.516604,51.348942,9.516604,51.348942",
     "geom:latitude":51.348942,
     "geom:longitude":9.516604,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00f6rnbergstr. 19",
     "sg:city":"Fuldatal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906343,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85906343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135801301,
-    "wof:lastmodified":1449023494,
+    "wof:lastmodified":1466244090,
     "wof:name":"Anh\u00e4nger Und Planen Schmoll Mobile",
     "wof:parent_id":85906343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.516604,51.348942,9.516604,51.348942],
+  "bbox": [
+    9.516604,
+    51.348942,
+    9.516604,
+    51.348942
+],
   "geometry": {"coordinates":[9.516604,51.348942],"type":"Point"}
 }

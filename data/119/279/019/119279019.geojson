@@ -2,13 +2,14 @@
   "id": 119279019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.984001,51.483299,11.984001,51.483299",
     "geom:latitude":51.483299,
     "geom:longitude":11.984001,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Halberst\u00e4dter Str 9",
     "sg:city":"Halle",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen-Anhalt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906335,
+        85682519,
         85633111,
         101748705,
         102063785,
-        85682519
+        85906335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119279019,
-    "wof:lastmodified":1449042049,
+    "wof:lastmodified":1466236345,
     "wof:name":"Compact Werbetechnik Leuchtwerbung H\u00f6llwarth Montagen, Neon-service, Beschriftungs-service",
     "wof:parent_id":85906335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.984001,51.483299,11.984001,51.483299],
+  "bbox": [
+    11.984001,
+    51.483299,
+    11.984001,
+    51.483299
+],
   "geometry": {"coordinates":[11.984001,51.483299],"type":"Point"}
 }

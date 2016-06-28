@@ -2,13 +2,14 @@
   "id": 102757361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.619529,51.118523,13.619529,51.118523",
     "geom:latitude":51.118523,
     "geom:longitude":13.619529,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kroatengrund 2",
     "sg:city":"Radebeul",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899421,
+        85682523,
         85633111,
         101756003,
         102064229,
-        85682523
+        85899421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102757361,
-    "wof:lastmodified":1449069108,
+    "wof:lastmodified":1466218670,
     "wof:name":"Elektro Rotsche Gmbh Elektroinstallationen Und Trockenbau",
     "wof:parent_id":85899421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.619529,51.118523,13.619529,51.118523],
+  "bbox": [
+    13.619529,
+    51.118523,
+    13.619529,
+    51.118523
+],
   "geometry": {"coordinates":[13.619529,51.118523],"type":"Point"}
 }

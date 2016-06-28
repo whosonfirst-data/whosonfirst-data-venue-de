@@ -2,13 +2,14 @@
   "id": 118824013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.869191,50.96616,13.869191,50.96616",
     "geom:latitude":50.96616,
     "geom:longitude":13.869191,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstr. 79",
     "sg:city":"Dohna",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900285,
+        85682523,
         85633111,
         101755853,
         102064217,
-        85682523
+        85900285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118824013,
-    "wof:lastmodified":1449053639,
+    "wof:lastmodified":1466231184,
     "wof:name":"Krankenhaus-apotheke Heidenau",
     "wof:parent_id":85900285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.869191,50.96616,13.869191,50.96616],
+  "bbox": [
+    13.869191,
+    50.96616,
+    13.869191,
+    50.96616
+],
   "geometry": {"coordinates":[13.869191,50.96616],"type":"Point"}
 }

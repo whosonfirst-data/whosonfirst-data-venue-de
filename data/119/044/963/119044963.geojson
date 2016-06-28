@@ -2,13 +2,14 @@
   "id": 119044963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.67541,51.906448,7.67541,51.906448",
     "geom:latitude":51.906448,
     "geom:longitude":7.67541,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Osttor 65",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863173,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85863173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119044963,
-    "wof:lastmodified":1449042226,
+    "wof:lastmodified":1466214914,
     "wof:name":"Heinz J. Mense Architekt",
     "wof:parent_id":85863173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.67541,51.906448,7.67541,51.906448],
+  "bbox": [
+    7.67541,
+    51.906448,
+    7.67541,
+    51.906448
+],
   "geometry": {"coordinates":[7.67541,51.906448],"type":"Point"}
 }

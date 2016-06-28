@@ -2,13 +2,14 @@
   "id": 119185273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.410496,52.524811,13.410496,52.524811",
     "geom:latitude":52.524811,
     "geom:longitude":13.410496,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosa-Luxemburg-Str. 16",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899637,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119185273,
-    "wof:lastmodified":1449041260,
+    "wof:lastmodified":1466227420,
     "wof:name":"Pcb Project Consult Berlin Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.410496,52.524811,13.410496,52.524811],
+  "bbox": [
+    13.410496,
+    52.524811,
+    13.410496,
+    52.524811
+],
   "geometry": {"coordinates":[13.410496,52.524811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135704125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.145463,52.380508,13.145463,52.380508",
     "geom:latitude":52.380508,
     "geom:longitude":13.145463,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfbeerenstr. 344",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063937,
-        85633111,
         85682553,
-        85899389
+        85633111,
+        85899389,
+        102063937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135704125,
-    "wof:lastmodified":1449021786,
+    "wof:lastmodified":1466242489,
     "wof:name":"Esm Bautr\u00e4ger Und Entwicklungsges. Mbh",
     "wof:parent_id":85899389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.145463,52.380508,13.145463,52.380508],
+  "bbox": [
+    13.145463,
+    52.380508,
+    13.145463,
+    52.380508
+],
   "geometry": {"coordinates":[13.145463,52.380508],"type":"Point"}
 }

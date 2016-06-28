@@ -2,13 +2,14 @@
   "id": 236503805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.43068,49.42231,8.43068,49.42231",
     "geom:latitude":49.42231,
     "geom:longitude":8.43068,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schafgasse",
     "sg:city":"Neuhofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236503805,
-    "wof:lastmodified":1449005259,
+    "wof:lastmodified":1466228036,
     "wof:name":"Emil Becker",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.43068,49.42231,8.43068,49.42231],
+  "bbox": [
+    8.43068,
+    49.42231,
+    8.43068,
+    49.42231
+],
   "geometry": {"coordinates":[8.43068,49.42231],"type":"Point"}
 }

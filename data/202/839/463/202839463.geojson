@@ -2,13 +2,14 @@
   "id": 202839463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.452103,51.508156,7.452103,51.508156",
     "geom:latitude":51.508156,
     "geom:longitude":7.452103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcttemannstr. 60",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202839463,
-    "wof:lastmodified":1449061647,
+    "wof:lastmodified":1466221973,
     "wof:name":"Georg Kotulla",
     "wof:parent_id":85796409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.452103,51.508156,7.452103,51.508156],
+  "bbox": [
+    7.452103,
+    51.508156,
+    7.452103,
+    51.508156
+],
   "geometry": {"coordinates":[7.452103,51.508156],"type":"Point"}
 }

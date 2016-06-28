@@ -2,13 +2,14 @@
   "id": 303350557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.959271,53.554585,9.959271,53.554585",
     "geom:latitude":53.554585,
     "geom:longitude":9.959271,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gilbertstr. 22",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303350557,
-    "wof:lastmodified":1448999368,
+    "wof:lastmodified":1466233172,
     "wof:name":"Jochen Schierhorn",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.959271,53.554585,9.959271,53.554585],
+  "bbox": [
+    9.959271,
+    53.554585,
+    9.959271,
+    53.554585
+],
   "geometry": {"coordinates":[9.959271,53.554585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118800023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.869309,51.935524,8.869309,51.935524",
     "geom:latitude":51.935524,
     "geom:longitude":8.869309,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schubertplatz 17",
     "sg:city":"Detmold",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118800023,
-    "wof:lastmodified":1449053261,
+    "wof:lastmodified":1466229759,
     "wof:name":"Apotheke Am Schubertplatz",
     "wof:parent_id":101748777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.869309,51.935524,8.869309,51.935524],
+  "bbox": [
+    8.869309,
+    51.935524,
+    8.869309,
+    51.935524
+],
   "geometry": {"coordinates":[8.869309,51.935524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118642703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.626715,49.695557,11.626715,49.695557",
     "geom:latitude":49.695557,
     "geom:longitude":11.626715,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 2",
     "sg:city":"Auerbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118642703,
-    "wof:lastmodified":1449053227,
+    "wof:lastmodified":1466220682,
     "wof:name":"St. Hedwig",
     "wof:parent_id":101826913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.626715,49.695557,11.626715,49.695557],
+  "bbox": [
+    11.626715,
+    49.695557,
+    11.626715,
+    49.695557
+],
   "geometry": {"coordinates":[11.626715,49.695557],"type":"Point"}
 }

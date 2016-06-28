@@ -2,13 +2,14 @@
   "id": 152978037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.100991,50.98391,7.100991,50.98391",
     "geom:latitude":50.98391,
     "geom:longitude":7.100991,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlheimer Stra\u00dfe 67-69",
     "sg:city":"Bergisch Gladbach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795075,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152978037,
-    "wof:lastmodified":1449046975,
+    "wof:lastmodified":1466231273,
     "wof:name":"Volkswagen Bergisch Gladbach - Autohaus Stein",
     "wof:parent_id":85795075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.100991,50.98391,7.100991,50.98391],
+  "bbox": [
+    7.100991,
+    50.98391,
+    7.100991,
+    50.98391
+],
   "geometry": {"coordinates":[7.100991,50.98391],"type":"Point"}
 }

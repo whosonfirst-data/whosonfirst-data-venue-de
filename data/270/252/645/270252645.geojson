@@ -2,13 +2,14 @@
   "id": 270252645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.146524,49.821354,7.146524,49.821354",
     "geom:latitude":49.821354,
     "geom:longitude":7.146524,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Morbacher Str. 4",
     "sg:city":"Morbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270252645,
-    "wof:lastmodified":1449008961,
+    "wof:lastmodified":1466227266,
     "wof:name":"Kostecki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.146524,49.821354,7.146524,49.821354],
+  "bbox": [
+    7.146524,
+    49.821354,
+    7.146524,
+    49.821354
+],
   "geometry": {"coordinates":[7.146524,49.821354],"type":"Point"}
 }

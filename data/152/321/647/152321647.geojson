@@ -2,13 +2,14 @@
   "id": 152321647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.377725,51.360313,7.377725,51.360313",
     "geom:latitude":51.360313,
     "geom:longitude":7.377725,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Brille 2",
     "sg:city":"Wetter",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794691,
+        85682513,
         85633111,
         101810087,
         102063779,
-        85682513
+        85794691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152321647,
-    "wof:lastmodified":1449044399,
+    "wof:lastmodified":1466216605,
     "wof:name":"Carl Wupper Gmbh",
     "wof:parent_id":85794691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.377725,51.360313,7.377725,51.360313],
+  "bbox": [
+    7.377725,
+    51.360313,
+    7.377725,
+    51.360313
+],
   "geometry": {"coordinates":[7.377725,51.360313],"type":"Point"}
 }

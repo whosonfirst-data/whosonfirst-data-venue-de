@@ -2,13 +2,14 @@
   "id": 119455217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69984,50.11034,8.69984,50.11034",
     "geom:latitude":50.11034,
     "geom:longitude":8.69984,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcckertstr. 6",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063589,
-        85633111,
         85682531,
-        85796369
+        85633111,
+        85796369,
+        102063589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119455217,
-    "wof:lastmodified":1449043090,
+    "wof:lastmodified":1466242779,
     "wof:name":"Gfb Gesellschaft F\u00fcr Baubetreuung Mbh",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69984,50.11034,8.69984,50.11034],
+  "bbox": [
+    8.69984,
+    50.11034,
+    8.69984,
+    50.11034
+],
   "geometry": {"coordinates":[8.69984,50.11034],"type":"Point"}
 }

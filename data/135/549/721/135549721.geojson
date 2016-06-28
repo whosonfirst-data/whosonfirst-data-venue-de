@@ -2,13 +2,14 @@
   "id": 135549721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.287457,52.5807,13.287457,52.5807",
     "geom:latitude":52.5807,
     "geom:longitude":13.287457,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Beckumer Str. 32",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900069,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135549721,
-    "wof:lastmodified":1449021838,
+    "wof:lastmodified":1466236279,
     "wof:name":"Scholtz Immobilien- Verwertungs- Und",
     "wof:parent_id":85900069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.287457,52.5807,13.287457,52.5807],
+  "bbox": [
+    13.287457,
+    52.5807,
+    13.287457,
+    52.5807
+],
   "geometry": {"coordinates":[13.287457,52.5807],"type":"Point"}
 }

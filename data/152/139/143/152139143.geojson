@@ -2,13 +2,14 @@
   "id": 152139143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.670019,48.080292,11.670019,48.080292",
     "geom:latitude":48.080292,
     "geom:longitude":11.670019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Elfenstr. 29",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152139143,
-    "wof:lastmodified":1449044742,
+    "wof:lastmodified":1466224998,
     "wof:name":"Modul Unternehmensverwaltungs- Und Beteiligungs Gmbh",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.670019,48.080292,11.670019,48.080292],
+  "bbox": [
+    11.670019,
+    48.080292,
+    11.670019,
+    48.080292
+],
   "geometry": {"coordinates":[11.670019,48.080292],"type":"Point"}
 }

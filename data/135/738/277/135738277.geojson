@@ -2,13 +2,14 @@
   "id": 135738277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.042056,51.759296,8.042056,51.759296",
     "geom:latitude":51.759296,
     "geom:longitude":8.042056,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nordstr. 66",
     "sg:city":"Beckum",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135738277,
-    "wof:lastmodified":1449023208,
+    "wof:lastmodified":1466243371,
     "wof:name":"Franz Berg",
     "wof:parent_id":101809065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.042056,51.759296,8.042056,51.759296],
+  "bbox": [
+    8.042056,
+    51.759296,
+    8.042056,
+    51.759296
+],
   "geometry": {"coordinates":[8.042056,51.759296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152768985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.666702,24.0333,-104.666702,24.0333",
     "geom:latitude":24.0333,
     "geom:longitude":-104.666702,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"fdfdfd",
     "sg:city":"sdsdsdsd",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:postcode":"34343",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85884221,
+        85686573,
         85633293,
         101994335,
         102075159,
-        85686573
+        85884221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152768985,
-    "wof:lastmodified":1449046090,
+    "wof:lastmodified":1466226318,
     "wof:name":"Cherry1499",
     "wof:parent_id":85884221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.666702,24.0333,-104.666702,24.0333],
+  "bbox": [
+    -104.666702,
+    24.0333,
+    -104.666702,
+    24.0333
+],
   "geometry": {"coordinates":[-104.666702,24.0333],"type":"Point"}
 }

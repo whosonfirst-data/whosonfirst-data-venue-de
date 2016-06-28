@@ -2,13 +2,14 @@
   "id": 102760161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.129021,32.823639,-84.129021,32.823639",
     "geom:latitude":32.823639,
     "geom:longitude":-84.129021,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"alfeld",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":102760161,
-    "wof:lastmodified":1449070125,
+    "wof:lastmodified":1466218832,
     "wof:name":"Fred Becker",
     "wof:parent_id":85688535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.129021,32.823639,-84.129021,32.823639],
-  "geometry": {"coordinates":[-84.129021,32.823639],"type":"Point"}
+  "bbox": [
+    -84.129021,
+    32.823639,
+    -84.129021,
+    32.823639
+],
+  "geometry": {"coordinates":[-84.12902099999999,32.823639],"type":"Point"}
 }

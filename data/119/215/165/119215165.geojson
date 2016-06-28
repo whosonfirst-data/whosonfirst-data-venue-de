@@ -2,13 +2,14 @@
   "id": 119215165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.677782,48.0835,11.677782,48.0835",
     "geom:latitude":48.0835,
     "geom:longitude":11.677782,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Putzbrunner Str. 272",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900205,
+        85682571,
         85633111,
         101748479,
         102063273,
-        85682571
+        85900205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215165,
-    "wof:lastmodified":1449043049,
+    "wof:lastmodified":1466230182,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Bruder Klaus",
     "wof:parent_id":85900205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.677782,48.0835,11.677782,48.0835],
+  "bbox": [
+    11.677782,
+    48.0835,
+    11.677782,
+    48.0835
+],
   "geometry": {"coordinates":[11.677782,48.0835],"type":"Point"}
 }

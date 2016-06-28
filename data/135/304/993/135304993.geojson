@@ -2,13 +2,14 @@
   "id": 135304993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.993087,49.038643,12.993087,49.038643",
     "geom:latitude":49.038643,
     "geom:longitude":12.993087,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Berginger Str. 3",
     "sg:city":"Teisnach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135304993,
-    "wof:lastmodified":1449023247,
+    "wof:lastmodified":1466214209,
     "wof:name":"Otto Stadler",
     "wof:parent_id":101833005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.993087,49.038643,12.993087,49.038643],
+  "bbox": [
+    12.993087,
+    49.038643,
+    12.993087,
+    49.038643
+],
   "geometry": {"coordinates":[12.993087,49.038643],"type":"Point"}
 }

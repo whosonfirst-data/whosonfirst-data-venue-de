@@ -2,13 +2,14 @@
   "id": 152673365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.328799,51.410526,7.328799,51.410526",
     "geom:latitude":51.410526,
     "geom:longitude":7.328799,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kranenbergstr. 73",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794907,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152673365,
-    "wof:lastmodified":1449046095,
+    "wof:lastmodified":1466224068,
     "wof:name":"Neitzel Beteiligungs- Und Verwaltungsgesellschaft Mbh",
     "wof:parent_id":85794907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.328799,51.410526,7.328799,51.410526],
+  "bbox": [
+    7.328799,
+    51.410526,
+    7.328799,
+    51.410526
+],
   "geometry": {"coordinates":[7.328799,51.410526],"type":"Point"}
 }

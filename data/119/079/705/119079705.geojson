@@ -2,13 +2,14 @@
   "id": 119079705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.948417,49.443348,10.948417,49.443348",
     "geom:latitude":49.443348,
     "geom:longitude":10.948417,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstr. 12",
     "sg:city":"Zirndorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900217,
+        85682571,
         85633111,
         101755915,
         102063467,
-        85682571
+        85900217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119079705,
-    "wof:lastmodified":1449043069,
+    "wof:lastmodified":1466218166,
     "wof:name":"Klaus Bierwagen Architekt",
     "wof:parent_id":85900217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.948417,49.443348,10.948417,49.443348],
+  "bbox": [
+    10.948417,
+    49.443348,
+    10.948417,
+    49.443348
+],
   "geometry": {"coordinates":[10.948417,49.443348],"type":"Point"}
 }

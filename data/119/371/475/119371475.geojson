@@ -2,13 +2,14 @@
   "id": 119371475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.710459,52.436752,13.710459,52.436752",
     "geom:latitude":52.436752,
     "geom:longitude":13.710459,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochlandstr. 75/77",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900235,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119371475,
-    "wof:lastmodified":1449042897,
+    "wof:lastmodified":1466240805,
     "wof:name":"Richard Settekorn",
     "wof:parent_id":85900235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.710459,52.436752,13.710459,52.436752],
+  "bbox": [
+    13.710459,
+    52.436752,
+    13.710459,
+    52.436752
+],
   "geometry": {"coordinates":[13.710459,52.436752],"type":"Point"}
 }

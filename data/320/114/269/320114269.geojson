@@ -2,13 +2,14 @@
   "id": 320114269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.60555,48.07291,11.60555,48.07291",
     "geom:latitude":48.07291,
     "geom:longitude":11.60555,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchner Str. 52",
     "sg:city":"Unterhaching",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320114269,
-    "wof:lastmodified":1449012820,
+    "wof:lastmodified":1466235857,
     "wof:name":"H. Gries",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.60555,48.07291,11.60555,48.07291],
+  "bbox": [
+    11.60555,
+    48.07291,
+    11.60555,
+    48.07291
+],
   "geometry": {"coordinates":[11.60555,48.07291],"type":"Point"}
 }

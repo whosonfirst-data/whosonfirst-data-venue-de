@@ -2,13 +2,14 @@
   "id": 119307809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.808279,50.910767,6.808279,50.910767",
     "geom:latitude":50.910767,
     "geom:longitude":6.808279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Str. 111",
     "sg:city":"Frechen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063709,
-        85633111,
         85682513,
-        85796629
+        85633111,
+        85796629,
+        102063709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119307809,
-    "wof:lastmodified":1449041486,
+    "wof:lastmodified":1466237700,
     "wof:name":"Florian Obernosterer",
     "wof:parent_id":85796629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.808279,50.910767,6.808279,50.910767],
+  "bbox": [
+    6.808279,
+    50.910767,
+    6.808279,
+    50.910767
+],
   "geometry": {"coordinates":[6.808279,50.910767],"type":"Point"}
 }

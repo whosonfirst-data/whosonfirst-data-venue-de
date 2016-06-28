@@ -2,13 +2,14 @@
   "id": 135903181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.982085,53.574112,9.982085,53.574112",
     "geom:latitude":53.574112,
     "geom:longitude":9.982085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brahmsallee 18",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135903181,
-    "wof:lastmodified":1449021174,
+    "wof:lastmodified":1466244530,
     "wof:name":"Panthino Verm\u00f6gens- Verwaltungs- Gmbh",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.982085,53.574112,9.982085,53.574112],
+  "bbox": [
+    9.982085,
+    53.574112,
+    9.982085,
+    53.574112
+],
   "geometry": {"coordinates":[9.982085,53.574112],"type":"Point"}
 }

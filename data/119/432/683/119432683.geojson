@@ -2,13 +2,14 @@
   "id": 119432683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.882717,48.346272,10.882717,48.346272",
     "geom:latitude":48.346272,
     "geom:longitude":10.882717,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Edisonstr. 5",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899931,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119432683,
-    "wof:lastmodified":1449040833,
+    "wof:lastmodified":1466242423,
     "wof:name":"Ottmar Ruf",
     "wof:parent_id":85899931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.882717,48.346272,10.882717,48.346272],
+  "bbox": [
+    10.882717,
+    48.346272,
+    10.882717,
+    48.346272
+],
   "geometry": {"coordinates":[10.882717,48.346272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219724285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.259239,49.460621,8.259239,49.460621",
     "geom:latitude":49.460621,
     "geom:longitude":8.259239,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-Fitz-Str. 39",
     "sg:city":"Ellerstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219724285,
-    "wof:lastmodified":1449073836,
+    "wof:lastmodified":1466224794,
     "wof:name":"Oskar Fischer",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.259239,49.460621,8.259239,49.460621],
+  "bbox": [
+    8.259239,
+    49.460621,
+    8.259239,
+    49.460621
+],
   "geometry": {"coordinates":[8.259239,49.460621],"type":"Point"}
 }

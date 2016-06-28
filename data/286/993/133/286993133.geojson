@@ -2,13 +2,14 @@
   "id": 286993133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.006286,51.468899,7.006286,51.468899",
     "geom:latitude":51.468899,
     "geom:longitude":7.006286,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kallenbergstra\u00dfe 5",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286993133,
-    "wof:lastmodified":1449016491,
+    "wof:lastmodified":1466239979,
     "wof:name":"Pipeline Engineering",
     "wof:parent_id":85796063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.006286,51.468899,7.006286,51.468899],
+  "bbox": [
+    7.006286,
+    51.468899,
+    7.006286,
+    51.468899
+],
   "geometry": {"coordinates":[7.006286,51.468899],"type":"Point"}
 }

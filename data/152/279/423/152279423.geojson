@@ -2,13 +2,14 @@
   "id": 152279423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.816115,51.229591,6.816115,51.229591",
     "geom:latitude":51.229591,
     "geom:longitude":6.816115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruchstr. 34",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152279423,
-    "wof:lastmodified":1449046431,
+    "wof:lastmodified":1466215711,
     "wof:name":"I. Rabuschke",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.816115,51.229591,6.816115,51.229591],
+  "bbox": [
+    6.816115,
+    51.229591,
+    6.816115,
+    51.229591
+],
   "geometry": {"coordinates":[6.816115,51.229591],"type":"Point"}
 }

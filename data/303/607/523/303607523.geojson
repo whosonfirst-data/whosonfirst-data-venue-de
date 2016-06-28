@@ -2,13 +2,14 @@
   "id": 303607523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.327767,51.336395,12.327767,51.336395",
     "geom:latitude":51.336395,
     "geom:longitude":12.327767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Demmeringstr. 49",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303607523,
-    "wof:lastmodified":1448998442,
+    "wof:lastmodified":1466238067,
     "wof:name":"Lothar Waizenegger",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.327767,51.336395,12.327767,51.336395],
+  "bbox": [
+    12.327767,
+    51.336395,
+    12.327767,
+    51.336395
+],
   "geometry": {"coordinates":[12.327767,51.336395],"type":"Point"}
 }

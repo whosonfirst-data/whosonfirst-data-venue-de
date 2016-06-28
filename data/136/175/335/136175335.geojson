@@ -2,13 +2,14 @@
   "id": 136175335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.823306,52.400227,9.823306,52.400227",
     "geom:latitude":52.400227,
     "geom:longitude":9.823306,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schierholzstr. 59",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899361,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136175335,
-    "wof:lastmodified":1449075848,
+    "wof:lastmodified":1466219943,
     "wof:name":"As Agentur & Service Gmbh",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.823306,52.400227,9.823306,52.400227],
+  "bbox": [
+    9.823306,
+    52.400227,
+    9.823306,
+    52.400227
+],
   "geometry": {"coordinates":[9.823306,52.400227],"type":"Point"}
 }

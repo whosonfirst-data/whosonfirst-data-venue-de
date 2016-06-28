@@ -2,13 +2,14 @@
   "id": 253363775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.718461,48.131016,11.718461,48.131016",
     "geom:latitude":48.131016,
     "geom:longitude":11.718461,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Karg-Str. 55",
     "sg:city":"Haar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253363775,
-    "wof:lastmodified":1449065418,
+    "wof:lastmodified":1466226150,
     "wof:name":"Johann Metzger",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.718461,48.131016,11.718461,48.131016],
+  "bbox": [
+    11.718461,
+    48.131016,
+    11.718461,
+    48.131016
+],
   "geometry": {"coordinates":[11.718461,48.131016],"type":"Point"}
 }

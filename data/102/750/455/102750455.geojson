@@ -2,13 +2,14 @@
   "id": 102750455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.766837,51.209618,6.766837,51.209618",
     "geom:latitude":51.209618,
     "geom:longitude":6.766837,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benzenbergstr. 38",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796275,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85796275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102750455,
-    "wof:lastmodified":1449069192,
+    "wof:lastmodified":1466218281,
     "wof:name":"Fr\u00f6hlich Kg",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.766837,51.209618,6.766837,51.209618],
+  "bbox": [
+    6.766837,
+    51.209618,
+    6.766837,
+    51.209618
+],
   "geometry": {"coordinates":[6.766837,51.209618],"type":"Point"}
 }

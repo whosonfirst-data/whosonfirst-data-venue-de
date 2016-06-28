@@ -2,13 +2,14 @@
   "id": 136078241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.742152,51.064747,13.742152,51.064747",
     "geom:latitude":51.064747,
     "geom:longitude":13.742152,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"``",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899777,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136078241,
-    "wof:lastmodified":1449076053,
+    "wof:lastmodified":1466215715,
     "wof:name":"Ihr Musik-guide Im Bereich Shopping",
     "wof:parent_id":85899777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.742152,51.064747,13.742152,51.064747],
+  "bbox": [
+    13.742152,
+    51.064747,
+    13.742152,
+    51.064747
+],
   "geometry": {"coordinates":[13.742152,51.064747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135305819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.024159,50.145069,10.024159,50.145069",
     "geom:latitude":50.145069,
     "geom:longitude":10.024159,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schweinfurter Str. 34",
     "sg:city":"Euerdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135305819,
-    "wof:lastmodified":1449021436,
+    "wof:lastmodified":1466214274,
     "wof:name":"Pappert",
     "wof:parent_id":101846269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.024159,50.145069,10.024159,50.145069],
+  "bbox": [
+    10.024159,
+    50.145069,
+    10.024159,
+    50.145069
+],
   "geometry": {"coordinates":[10.024159,50.145069],"type":"Point"}
 }

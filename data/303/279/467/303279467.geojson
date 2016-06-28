@@ -2,13 +2,14 @@
   "id": 303279467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.46009,48.055328,8.46009,48.055328",
     "geom:latitude":48.055328,
     "geom:longitude":8.46009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 3520",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303279467,
-    "wof:lastmodified":1448999243,
+    "wof:lastmodified":1466231385,
     "wof:name":"August Rieger Gmbh & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.46009,48.055328,8.46009,48.055328],
+  "bbox": [
+    8.46009,
+    48.055328,
+    8.46009,
+    48.055328
+],
   "geometry": {"coordinates":[8.46009,48.055328],"type":"Point"}
 }

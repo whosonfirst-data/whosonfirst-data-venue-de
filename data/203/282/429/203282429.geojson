@@ -2,13 +2,14 @@
   "id": 203282429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.443205,49.177666,9.443205,49.177666",
     "geom:latitude":49.177666,
     "geom:longitude":9.443205,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ackermannweg 10",
     "sg:city":"Bretzfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203282429,
-    "wof:lastmodified":1449026143,
+    "wof:lastmodified":1466218565,
     "wof:name":"F. Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.443205,49.177666,9.443205,49.177666],
+  "bbox": [
+    9.443205,
+    49.177666,
+    9.443205,
+    49.177666
+],
   "geometry": {"coordinates":[9.443205,49.177666],"type":"Point"}
 }

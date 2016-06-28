@@ -2,13 +2,14 @@
   "id": 135702397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.945932,49.442593,10.945932,49.442593",
     "geom:latitude":49.442593,
     "geom:longitude":10.945932,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Banderbacher Str. 60 a",
     "sg:city":"Zirndorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900217,
+        85682571,
         85633111,
         101755915,
         102063467,
-        85682571
+        85900217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135702397,
-    "wof:lastmodified":1449022521,
+    "wof:lastmodified":1466242253,
     "wof:name":"Arcon Bauplan Gmbh",
     "wof:parent_id":85900217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.945932,49.442593,10.945932,49.442593],
+  "bbox": [
+    10.945932,
+    49.442593,
+    10.945932,
+    49.442593
+],
   "geometry": {"coordinates":[10.945932,49.442593],"type":"Point"}
 }

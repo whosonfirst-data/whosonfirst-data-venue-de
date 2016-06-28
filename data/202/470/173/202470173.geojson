@@ -2,13 +2,14 @@
   "id": 202470173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.206174,48.881363,9.206174,48.881363",
     "geom:latitude":48.881363,
     "geom:longitude":9.206174,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Sonnenberg 18-1",
     "sg:city":"Ludwigsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202470173,
-    "wof:lastmodified":1449060726,
+    "wof:lastmodified":1466215043,
     "wof:name":"K. Layer",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.206174,48.881363,9.206174,48.881363],
+  "bbox": [
+    9.206174,
+    48.881363,
+    9.206174,
+    48.881363
+],
   "geometry": {"coordinates":[9.206174,48.881363],"type":"Point"}
 }

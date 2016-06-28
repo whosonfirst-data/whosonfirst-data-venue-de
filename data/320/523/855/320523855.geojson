@@ -2,13 +2,14 @@
   "id": 320523855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.555718,49.441505,7.555718,49.441505",
     "geom:latitude":49.441505,
     "geom:longitude":7.555718,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstuhler Str. 66",
     "sg:city":"Ramstein-Miesenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320523855,
-    "wof:lastmodified":1449013414,
+    "wof:lastmodified":1466241111,
     "wof:name":"Mehrzweckhalle Ramstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.555718,49.441505,7.555718,49.441505],
+  "bbox": [
+    7.555718,
+    49.441505,
+    7.555718,
+    49.441505
+],
   "geometry": {"coordinates":[7.555718,49.441505],"type":"Point"}
 }

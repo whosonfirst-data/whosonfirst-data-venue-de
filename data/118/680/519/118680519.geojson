@@ -2,13 +2,14 @@
   "id": 118680519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.901748,50.845493,12.901748,50.845493",
     "geom:latitude":50.845493,
     "geom:longitude":12.901748,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Glauchauer Str. 15",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899025,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118680519,
-    "wof:lastmodified":1449054127,
+    "wof:lastmodified":1466222761,
     "wof:name":"Aha Annette Harla\u00df",
     "wof:parent_id":85899025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.901748,50.845493,12.901748,50.845493],
+  "bbox": [
+    12.901748,
+    50.845493,
+    12.901748,
+    50.845493
+],
   "geometry": {"coordinates":[12.901748,50.845493],"type":"Point"}
 }

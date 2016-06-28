@@ -2,13 +2,14 @@
   "id": 135604203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.810349,48.999172,11.810349,48.999172",
     "geom:latitude":48.999172,
     "geom:longitude":11.810349,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hemauer Str. 12",
     "sg:city":"Painten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135604203,
-    "wof:lastmodified":1449023655,
+    "wof:lastmodified":1466239248,
     "wof:name":"Johann Pirkl",
     "wof:parent_id":101781835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.810349,48.999172,11.810349,48.999172],
+  "bbox": [
+    11.810349,
+    48.999172,
+    11.810349,
+    48.999172
+],
   "geometry": {"coordinates":[11.810349,48.999172],"type":"Point"}
 }

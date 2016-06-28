@@ -2,13 +2,14 @@
   "id": 135447211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.08259,51.169662,7.08259,51.169662",
     "geom:latitude":51.169662,
     "geom:longitude":7.08259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6lner Str. 68-72",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862909,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85862909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135447211,
-    "wof:lastmodified":1449023127,
+    "wof:lastmodified":1466226920,
     "wof:name":"Stadt-sparkasse Solingen",
     "wof:parent_id":85862909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.08259,51.169662,7.08259,51.169662],
+  "bbox": [
+    7.08259,
+    51.169662,
+    7.08259,
+    51.169662
+],
   "geometry": {"coordinates":[7.08259,51.169662],"type":"Point"}
 }

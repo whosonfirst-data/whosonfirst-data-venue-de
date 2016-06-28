@@ -2,13 +2,14 @@
   "id": 119252037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.550212,51.346714,6.550212,51.346714",
     "geom:latitude":51.346714,
     "geom:longitude":6.550212,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilmendyk 18",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864277,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85864277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119252037,
-    "wof:lastmodified":1449041186,
+    "wof:lastmodified":1466233796,
     "wof:name":"Jochen Wittmann",
     "wof:parent_id":85864277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.550212,51.346714,6.550212,51.346714],
+  "bbox": [
+    6.550212,
+    51.346714,
+    6.550212,
+    51.346714
+],
   "geometry": {"coordinates":[6.550212,51.346714],"type":"Point"}
 }

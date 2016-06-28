@@ -2,13 +2,14 @@
   "id": 252965383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.387234,52.344128,10.387234,52.344128",
     "geom:latitude":52.344128,
     "geom:longitude":10.387234,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Dorfplatz 4",
     "sg:city":"Wendeburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252965383,
-    "wof:lastmodified":1449006155,
+    "wof:lastmodified":1466223935,
     "wof:name":"Heinrich Rautmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.387234,52.344128,10.387234,52.344128],
+  "bbox": [
+    10.387234,
+    52.344128,
+    10.387234,
+    52.344128
+],
   "geometry": {"coordinates":[10.387234,52.344128],"type":"Point"}
 }

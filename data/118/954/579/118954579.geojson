@@ -2,13 +2,14 @@
   "id": 118954579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.180908,50.775375,7.180908,50.775375",
     "geom:latitude":50.775375,
     "geom:longitude":7.180908,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Arnold-Janssen-Str. 29",
     "sg:city":"Sankt Augustin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795723,
+        85682513,
         85633111,
         101748605,
         102063683,
-        85682513
+        85795723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118954579,
-    "wof:lastmodified":1449054367,
+    "wof:lastmodified":1466237955,
     "wof:name":"Johanniter Gesellschaft F\u00fcr Kinder- Und Jugendmed.",
     "wof:parent_id":85795723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.180908,50.775375,7.180908,50.775375],
+  "bbox": [
+    7.180908,
+    50.775375,
+    7.180908,
+    50.775375
+],
   "geometry": {"coordinates":[7.180908,50.775375],"type":"Point"}
 }

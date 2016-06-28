@@ -2,13 +2,14 @@
   "id": 119086279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.669347,47.606071,7.669347,47.606071",
     "geom:latitude":47.606071,
     "geom:longitude":7.669347,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Juraweg 16",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119086279,
-    "wof:lastmodified":1449042671,
+    "wof:lastmodified":1466218785,
     "wof:name":"Kurt Sch\u00e4fer",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.669347,47.606071,7.669347,47.606071],
+  "bbox": [
+    7.669347,
+    47.606071,
+    7.669347,
+    47.606071
+],
   "geometry": {"coordinates":[7.669347,47.606071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152935019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.445589,52.467377,13.445589,52.467377",
     "geom:latitude":52.467377,
     "geom:longitude":13.445589,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Naumburger Str.42",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899583,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152935019,
-    "wof:lastmodified":1449048089,
+    "wof:lastmodified":1466230237,
     "wof:name":"Service In Sachen Kommunikation Und Torautomation",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.445589,52.467377,13.445589,52.467377],
+  "bbox": [
+    13.445589,
+    52.467377,
+    13.445589,
+    52.467377
+],
   "geometry": {"coordinates":[13.445589,52.467377],"type":"Point"}
 }

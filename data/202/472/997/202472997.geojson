@@ -2,13 +2,14 @@
   "id": 202472997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.489228,49.755566,8.489228,49.755566",
     "geom:latitude":49.755566,
     "geom:longitude":8.489228,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 8",
     "sg:city":"Gernsheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202472997,
-    "wof:lastmodified":1449060312,
+    "wof:lastmodified":1466215093,
     "wof:name":"Kartsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.489228,49.755566,8.489228,49.755566],
+  "bbox": [
+    8.489228,
+    49.755566,
+    8.489228,
+    49.755566
+],
   "geometry": {"coordinates":[8.489228,49.755566],"type":"Point"}
 }

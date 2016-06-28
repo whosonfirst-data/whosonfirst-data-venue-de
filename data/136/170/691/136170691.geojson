@@ -2,13 +2,14 @@
   "id": 136170691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.230227,48.829052,9.230227,48.829052",
     "geom:latitude":48.829052,
     "geom:longitude":9.230227,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmollerstr 92/1",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136170691,
-    "wof:lastmodified":1449075013,
+    "wof:lastmodified":1466219755,
     "wof:name":"Ziwi Vertrieb Gbr Dusan Zitnansky - J\u00fcrgen Wirth",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.230227,48.829052,9.230227,48.829052],
+  "bbox": [
+    9.230227,
+    48.829052,
+    9.230227,
+    48.829052
+],
   "geometry": {"coordinates":[9.230227,48.829052],"type":"Point"}
 }

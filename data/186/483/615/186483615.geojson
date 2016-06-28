@@ -2,13 +2,14 @@
   "id": 186483615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.021289,49.553185,11.021289,49.553185",
     "geom:latitude":49.553185,
     "geom:longitude":11.021289,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6hmlach 2b",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186483615,
-    "wof:lastmodified":1449052438,
+    "wof:lastmodified":1466218315,
     "wof:name":"N. Standfest",
     "wof:parent_id":85905631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.021289,49.553185,11.021289,49.553185],
+  "bbox": [
+    11.021289,
+    49.553185,
+    11.021289,
+    49.553185
+],
   "geometry": {"coordinates":[11.021289,49.553185],"type":"Point"}
 }

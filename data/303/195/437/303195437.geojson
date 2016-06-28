@@ -2,13 +2,14 @@
   "id": 303195437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.39948,51.272781,12.39948,51.272781",
     "geom:latitude":51.272781,
     "geom:longitude":12.39948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich-von-Kleist-Str. 21",
     "sg:city":"Markkleeberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303195437,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466229365,
     "wof:name":"Heike Schmidt",
     "wof:parent_id":85899857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.39948,51.272781,12.39948,51.272781],
+  "bbox": [
+    12.39948,
+    51.272781,
+    12.39948,
+    51.272781
+],
   "geometry": {"coordinates":[12.39948,51.272781],"type":"Point"}
 }

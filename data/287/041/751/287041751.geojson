@@ -2,13 +2,14 @@
   "id": 287041751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.481332,52.308762,10.481332,52.308762",
     "geom:latitude":52.308762,
     "geom:longitude":10.481332,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heesfeld 1",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287041751,
-    "wof:lastmodified":1449000979,
+    "wof:lastmodified":1466226158,
     "wof:name":"Geodienste Gmbh",
     "wof:parent_id":85900213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.481332,52.308762,10.481332,52.308762],
+  "bbox": [
+    10.481332,
+    52.308762,
+    10.481332,
+    52.308762
+],
   "geometry": {"coordinates":[10.481332,52.308762],"type":"Point"}
 }

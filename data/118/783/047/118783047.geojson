@@ -2,13 +2,14 @@
   "id": 118783047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.56146,51.331131,6.56146,51.331131",
     "geom:latitude":51.331131,
     "geom:longitude":6.56146,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Evertsstr. 18",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795079,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85795079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118783047,
-    "wof:lastmodified":1449053187,
+    "wof:lastmodified":1466228740,
     "wof:name":"Else Lennertz",
     "wof:parent_id":85795079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.56146,51.331131,6.56146,51.331131],
+  "bbox": [
+    6.56146,
+    51.331131,
+    6.56146,
+    51.331131
+],
   "geometry": {"coordinates":[6.56146,51.331131],"type":"Point"}
 }

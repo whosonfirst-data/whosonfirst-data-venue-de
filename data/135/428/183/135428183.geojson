@@ -2,13 +2,14 @@
   "id": 135428183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.939171,34.072102,-117.939171,34.072102",
     "geom:latitude":34.072102,
     "geom:longitude":-117.939171,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"91793",
     "sg:city":"Aleshiem-Trommetsheim",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85888217,
+        85688637,
         85633793,
         85923771,
         102086957,
-        85688637
+        85888217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135428183,
-    "wof:lastmodified":1449023795,
+    "wof:lastmodified":1466225244,
     "wof:name":"Raiffeisenbank Trommetsheim Eg",
     "wof:parent_id":85888217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.939171,34.072102,-117.939171,34.072102],
+  "bbox": [
+    -117.939171,
+    34.072102,
+    -117.939171,
+    34.072102
+],
   "geometry": {"coordinates":[-117.939171,34.072102],"type":"Point"}
 }

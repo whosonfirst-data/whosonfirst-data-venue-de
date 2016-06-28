@@ -2,13 +2,14 @@
   "id": 119075531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.22795,51.49165,7.22795,51.49165",
     "geom:latitude":51.49165,
     "geom:longitude":7.22795,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klinikstr. 89",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795755,
+        85682513,
         85633111,
         101748707,
         102063787,
-        85682513
+        85795755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119075531,
-    "wof:lastmodified":1449042293,
+    "wof:lastmodified":1466217778,
     "wof:name":"Karl Oettinghaus Architekt",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.22795,51.49165,7.22795,51.49165],
+  "bbox": [
+    7.22795,
+    51.49165,
+    7.22795,
+    51.49165
+],
   "geometry": {"coordinates":[7.22795,51.49165],"type":"Point"}
 }

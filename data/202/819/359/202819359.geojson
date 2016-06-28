@@ -2,13 +2,14 @@
   "id": 202819359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.855005,53.536259,9.855005,53.536259",
     "geom:latitude":53.536259,
     "geom:longitude":9.855005,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reetputt 6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202819359,
-    "wof:lastmodified":1449060712,
+    "wof:lastmodified":1466221579,
     "wof:name":"Walter Drews Kunstmaler",
     "wof:parent_id":85899671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.855005,53.536259,9.855005,53.536259],
+  "bbox": [
+    9.855005,
+    53.536259,
+    9.855005,
+    53.536259
+],
   "geometry": {"coordinates":[9.855005,53.536259],"type":"Point"}
 }

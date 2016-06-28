@@ -2,13 +2,14 @@
   "id": 135990145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.410439,52.409,13.410439,52.409",
     "geom:latitude":52.409,
     "geom:longitude":13.410439,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernauer Str. 72",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899059,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135990145,
-    "wof:lastmodified":1449023023,
+    "wof:lastmodified":1466244933,
     "wof:name":"Peterson Verwaltungsgesellschaft Mbh",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.410439,52.409,13.410439,52.409],
+  "bbox": [
+    13.410439,
+    52.409,
+    13.410439,
+    52.409
+],
   "geometry": {"coordinates":[13.410439,52.409],"type":"Point"}
 }

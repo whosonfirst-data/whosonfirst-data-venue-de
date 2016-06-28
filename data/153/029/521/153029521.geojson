@@ -2,13 +2,14 @@
   "id": 153029521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.488063,49.753635,8.488063,49.753635",
     "geom:latitude":49.753635,
     "geom:longitude":8.488063,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zwingenberger Str. 8",
     "sg:city":"Gernsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":153029521,
-    "wof:lastmodified":1449040526,
+    "wof:lastmodified":1466213157,
     "wof:name":"Ferdinand Specht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.488063,49.753635,8.488063,49.753635],
+  "bbox": [
+    8.488063,
+    49.753635,
+    8.488063,
+    49.753635
+],
   "geometry": {"coordinates":[8.488063,49.753635],"type":"Point"}
 }

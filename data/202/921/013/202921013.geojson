@@ -2,13 +2,14 @@
   "id": 202921013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.026993,49.596195,11.026993,49.596195",
     "geom:latitude":49.596195,
     "geom:longitude":11.026993,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Drausnickstr. 24",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202921013,
-    "wof:lastmodified":1449061719,
+    "wof:lastmodified":1466223533,
     "wof:name":"Cti Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.026993,49.596195,11.026993,49.596195],
+  "bbox": [
+    11.026993,
+    49.596195,
+    11.026993,
+    49.596195
+],
   "geometry": {"coordinates":[11.026993,49.596195],"type":"Point"}
 }

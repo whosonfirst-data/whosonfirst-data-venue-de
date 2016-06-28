@@ -2,13 +2,14 @@
   "id": 203342213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.02279,47.666401,11.02279,47.666401",
     "geom:latitude":47.666401,
     "geom:longitude":11.02279,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Achelestr. 4",
     "sg:city":"Saulgrub",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203342213,
-    "wof:lastmodified":1449026739,
+    "wof:lastmodified":1466219532,
     "wof:name":"Fritz Marsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.02279,47.666401,11.02279,47.666401],
+  "bbox": [
+    11.02279,
+    47.666401,
+    11.02279,
+    47.666401
+],
   "geometry": {"coordinates":[11.02279,47.666401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136015341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.11061,51.189426,7.11061,51.189426",
     "geom:latitude":51.189426,
     "geom:longitude":7.11061,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kohlfurther Str. 16",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063751,
-        85633111,
         85682513,
-        85795351
+        85633111,
+        85795351,
+        102063751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136015341,
-    "wof:lastmodified":1449075217,
+    "wof:lastmodified":1466234371,
     "wof:name":"Siegfried Eisenach",
     "wof:parent_id":85795351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.11061,51.189426,7.11061,51.189426],
+  "bbox": [
+    7.11061,
+    51.189426,
+    7.11061,
+    51.189426
+],
   "geometry": {"coordinates":[7.11061,51.189426],"type":"Point"}
 }

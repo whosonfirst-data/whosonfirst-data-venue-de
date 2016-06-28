@@ -2,13 +2,14 @@
   "id": 152650553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.672685,50.123219,8.672685,50.123219",
     "geom:latitude":50.123219,
     "geom:longitude":8.672685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6hmerstr. 8",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796223,
+        85682531,
         85633111,
         101913837,
         102063589,
-        85682531
+        85796223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152650553,
-    "wof:lastmodified":1449047115,
+    "wof:lastmodified":1466223563,
     "wof:name":"Global Capital Treuhandgesellschaft Mbh",
     "wof:parent_id":85796223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.672685,50.123219,8.672685,50.123219],
+  "bbox": [
+    8.672685,
+    50.123219,
+    8.672685,
+    50.123219
+],
   "geometry": {"coordinates":[8.672685,50.123219],"type":"Point"}
 }

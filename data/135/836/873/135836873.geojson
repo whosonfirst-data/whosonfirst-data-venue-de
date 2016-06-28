@@ -2,13 +2,14 @@
   "id": 135836873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.438597,49.291561,12.438597,49.291561",
     "geom:latitude":49.291561,
     "geom:longitude":12.438597,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Keller 2",
     "sg:city":"Neukirchen-Balbini",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135836873,
-    "wof:lastmodified":1449022998,
+    "wof:lastmodified":1466244257,
     "wof:name":"Ludwig Mauerer",
     "wof:parent_id":101780751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.438597,49.291561,12.438597,49.291561],
+  "bbox": [
+    12.438597,
+    49.291561,
+    12.438597,
+    49.291561
+],
   "geometry": {"coordinates":[12.438597,49.291561],"type":"Point"}
 }

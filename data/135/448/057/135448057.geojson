@@ -2,13 +2,14 @@
   "id": 135448057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.211199,48.606628,11.211199,48.606628",
     "geom:latitude":48.606628,
     "geom:longitude":11.211199,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schrobenhausener Str. 3",
     "sg:city":"Langenmosen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135448057,
-    "wof:lastmodified":1449023856,
+    "wof:lastmodified":1466227004,
     "wof:name":"Stadtsparkasse Schrobenhausen",
     "wof:parent_id":101784413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.211199,48.606628,11.211199,48.606628],
+  "bbox": [
+    11.211199,
+    48.606628,
+    11.211199,
+    48.606628
+],
   "geometry": {"coordinates":[11.211199,48.606628],"type":"Point"}
 }

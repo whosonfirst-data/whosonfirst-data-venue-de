@@ -2,13 +2,14 @@
   "id": 119282437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.895317,48.376492,10.895317,48.376492",
     "geom:latitude":48.376492,
     "geom:longitude":10.895317,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauentorstr. 42",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899507,
+        85682571,
         85633111,
         101748481,
         102063283,
-        85682571
+        85899507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119282437,
-    "wof:lastmodified":1449042535,
+    "wof:lastmodified":1466236529,
     "wof:name":"Augenoptik Frank E. K.",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.895317,48.376492,10.895317,48.376492],
+  "bbox": [
+    10.895317,
+    48.376492,
+    10.895317,
+    48.376492
+],
   "geometry": {"coordinates":[10.895317,48.376492],"type":"Point"}
 }

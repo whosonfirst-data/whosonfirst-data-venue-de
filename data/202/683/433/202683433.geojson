@@ -2,13 +2,14 @@
   "id": 202683433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.351673,51.555748,7.351673,51.555748",
     "geom:latitude":51.555748,
     "geom:longitude":7.351673,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dingener Str. 12",
     "sg:city":"Castrop-Rauxel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202683433,
-    "wof:lastmodified":1449061042,
+    "wof:lastmodified":1466219118,
     "wof:name":"D. Stern",
     "wof:parent_id":85794709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.351673,51.555748,7.351673,51.555748],
+  "bbox": [
+    7.351673,
+    51.555748,
+    7.351673,
+    51.555748
+],
   "geometry": {"coordinates":[7.351673,51.555748],"type":"Point"}
 }

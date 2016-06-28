@@ -2,13 +2,14 @@
   "id": 118542187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.094864,54.303513,10.094864,54.303513",
     "geom:latitude":54.303513,
     "geom:longitude":10.094864,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasseer Str. 88",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899259,
+        85682517,
         85633111,
         101748869,
         102064125,
-        85682517
+        85899259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118542187,
-    "wof:lastmodified":1449054250,
+    "wof:lastmodified":1466214961,
     "wof:name":"Grantec Gmbh",
     "wof:parent_id":85899259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.094864,54.303513,10.094864,54.303513],
+  "bbox": [
+    10.094864,
+    54.303513,
+    10.094864,
+    54.303513
+],
   "geometry": {"coordinates":[10.094864,54.303513],"type":"Point"}
 }

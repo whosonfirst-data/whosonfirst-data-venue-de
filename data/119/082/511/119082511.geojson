@@ -2,13 +2,14 @@
   "id": 119082511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.283721,52.505455,13.283721,52.505455",
     "geom:latitude":52.505455,
     "geom:longitude":13.283721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dernburgstr. 55",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899135,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119082511,
-    "wof:lastmodified":1449040953,
+    "wof:lastmodified":1466218431,
     "wof:name":"Klaus Thiele Architekt",
     "wof:parent_id":85899135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.283721,52.505455,13.283721,52.505455],
+  "bbox": [
+    13.283721,
+    52.505455,
+    13.283721,
+    52.505455
+],
   "geometry": {"coordinates":[13.283721,52.505455],"type":"Point"}
 }

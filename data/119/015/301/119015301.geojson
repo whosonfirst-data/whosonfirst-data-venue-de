@@ -2,13 +2,14 @@
   "id": 119015301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.925365,53.549702,9.925365,53.549702",
     "geom:latitude":53.549702,
     "geom:longitude":9.925365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfe Brunnenstr. 46B",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899761,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119015301,
-    "wof:lastmodified":1449041413,
+    "wof:lastmodified":1466225049,
     "wof:name":"G2r G\u00e4de R\u00fcckner R\u00fcckner Architekenpartnerschaft",
     "wof:parent_id":85899761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.925365,53.549702,9.925365,53.549702],
+  "bbox": [
+    9.925365,
+    53.549702,
+    9.925365,
+    53.549702
+],
   "geometry": {"coordinates":[9.925365,53.549702],"type":"Point"}
 }

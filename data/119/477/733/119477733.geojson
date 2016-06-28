@@ -2,13 +2,14 @@
   "id": 119477733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.974557,51.08334,6.974557,51.08334",
     "geom:latitude":51.08334,
     "geom:longitude":6.974557,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Opladener Str. 155",
     "sg:city":"Langenfeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796193,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85796193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119477733,
-    "wof:lastmodified":1449041279,
+    "wof:lastmodified":1466243203,
     "wof:name":"Schramm",
     "wof:parent_id":85796193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.974557,51.08334,6.974557,51.08334],
+  "bbox": [
+    6.974557,
+    51.08334,
+    6.974557,
+    51.08334
+],
   "geometry": {"coordinates":[6.974557,51.08334],"type":"Point"}
 }

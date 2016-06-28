@@ -2,13 +2,14 @@
   "id": 152857077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.40456,51.37859,12.40456,51.37859",
     "geom:latitude":51.37859,
     "geom:longitude":12.40456,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Michael-Str.35",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899641,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152857077,
-    "wof:lastmodified":1449047295,
+    "wof:lastmodified":1466228378,
     "wof:name":"Internetpr\u00e4senz Mit Fa.ihm",
     "wof:parent_id":85899641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.40456,51.37859,12.40456,51.37859],
+  "bbox": [
+    12.40456,
+    51.37859,
+    12.40456,
+    51.37859
+],
   "geometry": {"coordinates":[12.40456,51.37859],"type":"Point"}
 }

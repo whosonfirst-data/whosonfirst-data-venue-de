@@ -2,13 +2,14 @@
   "id": 135387899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.775375,51.224094,6.775375,51.224094",
     "geom:latitude":51.224094,
     "geom:longitude":6.775375,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kasernenstr. 15",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795219,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135387899,
-    "wof:lastmodified":1449023606,
+    "wof:lastmodified":1466221814,
     "wof:name":"Gkb Gewerbekreditbank Ag",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.775375,51.224094,6.775375,51.224094],
+  "bbox": [
+    6.775375,
+    51.224094,
+    6.775375,
+    51.224094
+],
   "geometry": {"coordinates":[6.775375,51.224094],"type":"Point"}
 }

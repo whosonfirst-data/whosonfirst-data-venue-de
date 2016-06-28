@@ -2,13 +2,14 @@
   "id": 269580379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.814779,49.000267,8.814779,49.000267",
     "geom:latitude":49.000267,
     "geom:longitude":8.814779,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stuttgarter Str. 37-40",
     "sg:city":"Maulbronn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269580379,
-    "wof:lastmodified":1449037731,
+    "wof:lastmodified":1466223127,
     "wof:name":"Sailer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.814779,49.000267,8.814779,49.000267],
+  "bbox": [
+    8.814779,
+    49.000267,
+    8.814779,
+    49.000267
+],
   "geometry": {"coordinates":[8.814779,49.000267],"type":"Point"}
 }

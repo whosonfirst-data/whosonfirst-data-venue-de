@@ -2,13 +2,14 @@
   "id": 136130765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.96764,53.029339,8.96764,53.029339",
     "geom:latitude":53.029339,
     "geom:longitude":8.96764,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uphuser Heerstra\u00dfe 35",
     "sg:city":"Achim-Uphusen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:postcode":"28835",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063991,
-        85633111,
         85682561,
-        85795923
+        85633111,
+        85795923,
+        102063991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":136130765,
-    "wof:lastmodified":1449075364,
+    "wof:lastmodified":1466218015,
     "wof:name":"Storchen Apotheke Achim-uphusen",
     "wof:parent_id":85795923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.96764,53.029339,8.96764,53.029339],
+  "bbox": [
+    8.96764,
+    53.029339,
+    8.96764,
+    53.029339
+],
   "geometry": {"coordinates":[8.96764,53.029339],"type":"Point"}
 }

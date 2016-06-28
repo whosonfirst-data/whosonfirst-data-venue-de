@@ -2,13 +2,14 @@
   "id": 135385603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.015671,48.686344,9.015671,48.686344",
     "geom:latitude":48.686344,
     "geom:longitude":9.015671,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stuttgarter Str.10",
     "sg:city":"B\u00f6blingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135385603,
-    "wof:lastmodified":1449022817,
+    "wof:lastmodified":1466221568,
     "wof:name":"Dresdner Bank",
     "wof:parent_id":101755903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.015671,48.686344,9.015671,48.686344],
+  "bbox": [
+    9.015671,
+    48.686344,
+    9.015671,
+    48.686344
+],
   "geometry": {"coordinates":[9.015671,48.686344],"type":"Point"}
 }

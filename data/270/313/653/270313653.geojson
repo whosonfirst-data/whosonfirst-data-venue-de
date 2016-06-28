@@ -2,13 +2,14 @@
   "id": 270313653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.702383,49.383373,6.702383,49.383373",
     "geom:latitude":49.383373,
     "geom:longitude":6.702383,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dillinger Str. 52",
     "sg:city":"Beckingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270313653,
-    "wof:lastmodified":1449008741,
+    "wof:lastmodified":1466228751,
     "wof:name":"Nikolaus Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.702383,49.383373,6.702383,49.383373],
+  "bbox": [
+    6.702383,
+    49.383373,
+    6.702383,
+    49.383373
+],
   "geometry": {"coordinates":[6.702383,49.383373],"type":"Point"}
 }

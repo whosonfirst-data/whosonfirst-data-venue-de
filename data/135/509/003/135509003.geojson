@@ -2,13 +2,14 @@
   "id": 135509003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.492321,49.930462,11.492321,49.930462",
     "geom:latitude":49.930462,
     "geom:longitude":11.492321,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Hahn-Str. 2",
     "sg:city":"Eckersdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135509003,
-    "wof:lastmodified":1449021105,
+    "wof:lastmodified":1466232441,
     "wof:name":"Fritz Hartmann Gmbh",
     "wof:parent_id":101825891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.492321,49.930462,11.492321,49.930462],
+  "bbox": [
+    11.492321,
+    49.930462,
+    11.492321,
+    49.930462
+],
   "geometry": {"coordinates":[11.492321,49.930462],"type":"Point"}
 }

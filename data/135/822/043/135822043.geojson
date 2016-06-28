@@ -2,13 +2,14 @@
   "id": 135822043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.615105,50.506077,10.615105,50.506077",
     "geom:latitude":50.506077,
     "geom:longitude":10.615105,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nr. 91",
     "sg:city":"Beinerstadt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135822043,
-    "wof:lastmodified":1449023903,
+    "wof:lastmodified":1466244186,
     "wof:name":"Albert Weber",
     "wof:parent_id":101824483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.615105,50.506077,10.615105,50.506077],
+  "bbox": [
+    10.615105,
+    50.506077,
+    10.615105,
+    50.506077
+],
   "geometry": {"coordinates":[10.615105,50.506077],"type":"Point"}
 }

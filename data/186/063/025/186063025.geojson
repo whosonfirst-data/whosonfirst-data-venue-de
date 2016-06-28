@@ -2,13 +2,14 @@
   "id": 186063025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.647417,47.869728,12.647417,47.869728",
     "geom:latitude":47.869728,
     "geom:longitude":12.647417,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtplatz 2-3",
     "sg:city":"Traunstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186063025,
-    "wof:lastmodified":1449050481,
+    "wof:lastmodified":1466213892,
     "wof:name":"Heimathaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.647417,47.869728,12.647417,47.869728],
+  "bbox": [
+    12.647417,
+    47.869728,
+    12.647417,
+    47.869728
+],
   "geometry": {"coordinates":[12.647417,47.869728],"type":"Point"}
 }

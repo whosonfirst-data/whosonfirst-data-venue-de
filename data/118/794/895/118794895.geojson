@@ -2,13 +2,14 @@
   "id": 118794895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.89075,50.801105,12.89075,50.801105",
     "geom:latitude":50.801105,
     "geom:longitude":12.89075,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul-Bertz-Str. 20",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899793,
+        85682523,
         85633111,
         101748601,
         102064213,
-        85682523
+        85899793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118794895,
-    "wof:lastmodified":1449053819,
+    "wof:lastmodified":1466229467,
     "wof:name":"Aesculap-apotheke",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.89075,50.801105,12.89075,50.801105],
+  "bbox": [
+    12.89075,
+    50.801105,
+    12.89075,
+    50.801105
+],
   "geometry": {"coordinates":[12.89075,50.801105],"type":"Point"}
 }

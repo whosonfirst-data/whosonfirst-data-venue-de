@@ -2,13 +2,14 @@
   "id": 119086457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.424767,49.460342,8.424767,49.460342",
     "geom:latitude":49.460342,
     "geom:longitude":8.424767,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstr. 35",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796023,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85796023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119086457,
-    "wof:lastmodified":1449042671,
+    "wof:lastmodified":1466218805,
     "wof:name":"Kurt Weiss Architekt",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.424767,49.460342,8.424767,49.460342],
+  "bbox": [
+    8.424767,
+    49.460342,
+    8.424767,
+    49.460342
+],
   "geometry": {"coordinates":[8.424767,49.460342],"type":"Point"}
 }

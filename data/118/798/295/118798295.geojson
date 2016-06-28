@@ -2,13 +2,14 @@
   "id": 118798295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.67386,53.867249,10.67386,53.867249",
     "geom:latitude":53.867249,
     "geom:longitude":10.67386,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenplatz 6",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900237,
+        85682517,
         85633111,
         101748855,
         102064089,
-        85682517
+        85900237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118798295,
-    "wof:lastmodified":1449053403,
+    "wof:lastmodified":1466229660,
     "wof:name":"Apotheke Am Hauptbahnhof J\u00f6rg Ortmann",
     "wof:parent_id":85900237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.67386,53.867249,10.67386,53.867249],
+  "bbox": [
+    10.67386,
+    53.867249,
+    10.67386,
+    53.867249
+],
   "geometry": {"coordinates":[10.67386,53.867249],"type":"Point"}
 }

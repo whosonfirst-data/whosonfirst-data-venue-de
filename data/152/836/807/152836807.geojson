@@ -2,13 +2,14 @@
   "id": 152836807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.37841,41.201664,-73.37841,41.201664",
     "geom:latitude":41.201664,
     "geom:longitude":-73.37841,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Strasse",
     "sg:city":"w",
     "sg:classifiers":[],
@@ -16,10 +17,10 @@
     "sg:postcode":"11111",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084283,
-        85633793,
         85688629,
-        85809271
+        85633793,
+        85809271,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":152836807,
-    "wof:lastmodified":1449047352,
+    "wof:lastmodified":1466227902,
     "wof:name":"Holger Fischer Dies Und Das",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.37841,41.201664,-73.37841,41.201664],
+  "bbox": [
+    -73.37841,
+    41.201664,
+    -73.37841,
+    41.201664
+],
   "geometry": {"coordinates":[-73.37841,41.201664],"type":"Point"}
 }

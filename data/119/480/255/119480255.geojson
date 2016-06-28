@@ -2,13 +2,14 @@
   "id": 119480255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.601009,49.926807,11.601009,49.926807",
     "geom:latitude":49.926807,
     "geom:longitude":11.601009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Pfaffenfleck 6",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119480255,
-    "wof:lastmodified":1449041651,
+    "wof:lastmodified":1466243273,
     "wof:name":"Union Autovermietung Gmbh",
     "wof:parent_id":101748565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.601009,49.926807,11.601009,49.926807],
+  "bbox": [
+    11.601009,
+    49.926807,
+    11.601009,
+    49.926807
+],
   "geometry": {"coordinates":[11.601009,49.926807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135851227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189233,48.831444,9.189233,48.831444",
     "geom:latitude":48.831444,
     "geom:longitude":9.189233,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenrainstr. 102",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063349,
-        85633111,
         85682567,
-        85796651
+        85633111,
+        85796651,
+        102063349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135851227,
-    "wof:lastmodified":1449022991,
+    "wof:lastmodified":1466244301,
     "wof:name":"Bestattungen Christian Haller",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189233,48.831444,9.189233,48.831444],
+  "bbox": [
+    9.189233,
+    48.831444,
+    9.189233,
+    48.831444
+],
   "geometry": {"coordinates":[9.189233,48.831444],"type":"Point"}
 }

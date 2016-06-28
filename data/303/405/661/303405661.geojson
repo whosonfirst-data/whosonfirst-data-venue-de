@@ -2,13 +2,14 @@
   "id": 303405661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.08685,53.545601,10.08685,53.545601",
     "geom:latitude":53.545601,
     "geom:longitude":10.08685,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Horner Br\u00fcckenweg 6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303405661,
-    "wof:lastmodified":1449000365,
+    "wof:lastmodified":1466234572,
     "wof:name":"Hamburger Handels-kontor Gmbh",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.08685,53.545601,10.08685,53.545601],
+  "bbox": [
+    10.08685,
+    53.545601,
+    10.08685,
+    53.545601
+],
   "geometry": {"coordinates":[10.08685,53.545601],"type":"Point"}
 }

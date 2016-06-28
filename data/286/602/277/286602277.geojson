@@ -2,13 +2,14 @@
   "id": 286602277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.630736,48.190502,11.630736,48.190502",
     "geom:latitude":48.190502,
     "geom:longitude":11.630736,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Sendtner-Str. 4",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286602277,
-    "wof:lastmodified":1449016568,
+    "wof:lastmodified":1466232741,
     "wof:name":"Stefan Schewe",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.630736,48.190502,11.630736,48.190502],
+  "bbox": [
+    11.630736,
+    48.190502,
+    11.630736,
+    48.190502
+],
   "geometry": {"coordinates":[11.630736,48.190502],"type":"Point"}
 }

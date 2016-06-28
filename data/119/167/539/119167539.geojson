@@ -2,13 +2,14 @@
   "id": 119167539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.093526,53.645512,10.093526,53.645512",
     "geom:latitude":53.645512,
     "geom:longitude":10.093526,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Horstweg 15",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900157,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119167539,
-    "wof:lastmodified":1449042226,
+    "wof:lastmodified":1466225753,
     "wof:name":"Herbert Perner Ingenieur",
     "wof:parent_id":85900157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.093526,53.645512,10.093526,53.645512],
+  "bbox": [
+    10.093526,
+    53.645512,
+    10.093526,
+    53.645512
+],
   "geometry": {"coordinates":[10.093526,53.645512],"type":"Point"}
 }

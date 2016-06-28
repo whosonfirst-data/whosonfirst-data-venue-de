@@ -2,13 +2,14 @@
   "id": 135822247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.609617,52.727608,9.609617,52.727608",
     "geom:latitude":52.727608,
     "geom:longitude":9.609617,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Walsroder Str. 18",
     "sg:city":"Eickeloh",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135822247,
-    "wof:lastmodified":1449023902,
+    "wof:lastmodified":1466244078,
     "wof:name":"Alfred Bertram",
     "wof:parent_id":101907795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.609617,52.727608,9.609617,52.727608],
+  "bbox": [
+    9.609617,
+    52.727608,
+    9.609617,
+    52.727608
+],
   "geometry": {"coordinates":[9.609617,52.727608],"type":"Point"}
 }

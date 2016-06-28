@@ -2,13 +2,14 @@
   "id": 152180207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.33742,51.332512,12.33742,51.332512",
     "geom:latitude":51.332512,
     "geom:longitude":12.33742,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstr. 32",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152180207,
-    "wof:lastmodified":1449044478,
+    "wof:lastmodified":1466213641,
     "wof:name":"E.-m. Wei\u00dfe Boutique",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.33742,51.332512,12.33742,51.332512],
+  "bbox": [
+    12.33742,
+    51.332512,
+    12.33742,
+    51.332512
+],
   "geometry": {"coordinates":[12.33742,51.332512],"type":"Point"}
 }

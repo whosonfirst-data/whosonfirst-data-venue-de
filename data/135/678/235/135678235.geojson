@@ -2,13 +2,14 @@
   "id": 135678235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.903202,53.126564,8.903202,53.126564",
     "geom:latitude":53.126564,
     "geom:longitude":8.903202,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borgfelder Landstr. 3",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796603,
+        85682555,
         85633111,
         101806305,
         102064007,
-        85682555
+        85796603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135678235,
-    "wof:lastmodified":1449022477,
+    "wof:lastmodified":1466241968,
     "wof:name":"Domus Interieur Ohg",
     "wof:parent_id":85796603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.903202,53.126564,8.903202,53.126564],
+  "bbox": [
+    8.903202,
+    53.126564,
+    8.903202,
+    53.126564
+],
   "geometry": {"coordinates":[8.903202,53.126564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269488119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.329552,48.208454,11.329552,48.208454",
     "geom:latitude":48.208454,
     "geom:longitude":11.329552,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 24",
     "sg:city":"Olching",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269488119,
-    "wof:lastmodified":1449038880,
+    "wof:lastmodified":1466221003,
     "wof:name":"La Dame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.329552,48.208454,11.329552,48.208454],
+  "bbox": [
+    11.329552,
+    48.208454,
+    11.329552,
+    48.208454
+],
   "geometry": {"coordinates":[11.329552,48.208454],"type":"Point"}
 }

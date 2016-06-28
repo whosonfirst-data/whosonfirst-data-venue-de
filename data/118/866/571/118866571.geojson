@@ -2,13 +2,14 @@
   "id": 118866571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17376,48.773933,9.17376,48.773933",
     "geom:latitude":48.773933,
     "geom:longitude":9.17376,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstr. 6",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118866571,
-    "wof:lastmodified":1449053810,
+    "wof:lastmodified":1466233841,
     "wof:name":"Apotheke Am Roteb\u00fchlplatz",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17376,48.773933,9.17376,48.773933],
+  "bbox": [
+    9.17376,
+    48.773933,
+    9.17376,
+    48.773933
+],
   "geometry": {"coordinates":[9.17376,48.773933],"type":"Point"}
 }

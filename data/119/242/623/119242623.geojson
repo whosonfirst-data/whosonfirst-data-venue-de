@@ -2,13 +2,14 @@
   "id": 119242623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.001362,49.482185,11.001362,49.482185",
     "geom:latitude":49.482185,
     "geom:longitude":11.001362,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistr. 20",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899959,
+        85682571,
         85633111,
         101748545,
         102063463,
-        85682571
+        85899959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119242623,
-    "wof:lastmodified":1449043218,
+    "wof:lastmodified":1466232882,
     "wof:name":"St\u00e4dtische Volksb\u00fccherei Zweigstelle Pestalozzistr.",
     "wof:parent_id":85899959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.001362,49.482185,11.001362,49.482185],
+  "bbox": [
+    11.001362,
+    49.482185,
+    11.001362,
+    49.482185
+],
   "geometry": {"coordinates":[11.001362,49.482185],"type":"Point"}
 }

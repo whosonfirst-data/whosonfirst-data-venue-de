@@ -2,13 +2,14 @@
   "id": 135531031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.803357,50.988003,13.803357,50.988003",
     "geom:latitude":50.988003,
     "geom:longitude":13.803357,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6gelstr. 18",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899925,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135531031,
-    "wof:lastmodified":1449021694,
+    "wof:lastmodified":1466234467,
     "wof:name":"M\u00fcller-altvatter Bauunternehmung",
     "wof:parent_id":85899925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.803357,50.988003,13.803357,50.988003],
+  "bbox": [
+    13.803357,
+    50.988003,
+    13.803357,
+    50.988003
+],
   "geometry": {"coordinates":[13.803357,50.988003],"type":"Point"}
 }

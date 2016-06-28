@@ -2,13 +2,14 @@
   "id": 153034647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.763776,51.383793,6.763776,51.383793",
     "geom:latitude":51.383793,
     "geom:longitude":6.763776,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchener Str. 46",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794729,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153034647,
-    "wof:lastmodified":1449040385,
+    "wof:lastmodified":1466213262,
     "wof:name":"Eljo Schiffahrtsges. Van Loosen Mbh & Co. Kg",
     "wof:parent_id":85794729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.763776,51.383793,6.763776,51.383793],
+  "bbox": [
+    6.763776,
+    51.383793,
+    6.763776,
+    51.383793
+],
   "geometry": {"coordinates":[6.763776,51.383793],"type":"Point"}
 }

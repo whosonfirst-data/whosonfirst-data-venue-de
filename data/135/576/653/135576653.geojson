@@ -2,13 +2,14 @@
   "id": 135576653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.661871,47.599842,7.661871,47.599842",
     "geom:latitude":47.599842,
     "geom:longitude":7.661871,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6naustr. 19",
     "sg:city":"L\u00f6rrach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800451,
+        85682567,
         85633111,
         101828631,
         102063211,
-        85682567
+        85800451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135576653,
-    "wof:lastmodified":1449023329,
+    "wof:lastmodified":1466237656,
     "wof:name":"Zumkeller & Wagner Gmbh",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.661871,47.599842,7.661871,47.599842],
+  "bbox": [
+    7.661871,
+    47.599842,
+    7.661871,
+    47.599842
+],
   "geometry": {"coordinates":[7.661871,47.599842],"type":"Point"}
 }

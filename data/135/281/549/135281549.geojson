@@ -2,13 +2,14 @@
   "id": 135281549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.448731,48.337524,10.448731,48.337524",
     "geom:latitude":48.337524,
     "geom:longitude":10.448731,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 45",
     "sg:city":"Burtenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135281549,
-    "wof:lastmodified":1449023552,
+    "wof:lastmodified":1466230729,
     "wof:name":"Johann Roschmann",
     "wof:parent_id":101785479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.448731,48.337524,10.448731,48.337524],
+  "bbox": [
+    10.448731,
+    48.337524,
+    10.448731,
+    48.337524
+],
   "geometry": {"coordinates":[10.448731,48.337524],"type":"Point"}
 }

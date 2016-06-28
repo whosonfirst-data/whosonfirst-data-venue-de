@@ -2,13 +2,14 @@
   "id": 119248693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.836164,50.919628,6.836164,50.919628",
     "geom:latitude":50.919628,
     "geom:longitude":6.836164,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Europaallee 16-18",
     "sg:city":"Frechen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063709,
-        85633111,
         85682513,
-        85795937
+        85633111,
+        85795937,
+        102063709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119248693,
-    "wof:lastmodified":1449042308,
+    "wof:lastmodified":1466233464,
     "wof:name":"Hasenkamp Internationale Transporte Gmbh",
     "wof:parent_id":85795937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.836164,50.919628,6.836164,50.919628],
+  "bbox": [
+    6.836164,
+    50.919628,
+    6.836164,
+    50.919628
+],
   "geometry": {"coordinates":[6.836164,50.919628],"type":"Point"}
 }

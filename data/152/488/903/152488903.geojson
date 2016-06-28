@@ -2,13 +2,14 @@
   "id": 152488903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.581814,48.154442,11.581814,48.154442",
     "geom:latitude":48.154442,
     "geom:longitude":11.581814,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georgenstr. 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900043,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85900043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152488903,
-    "wof:lastmodified":1449048795,
+    "wof:lastmodified":1466219985,
     "wof:name":"Helios Beteiligungs Gmbh",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.581814,48.154442,11.581814,48.154442],
+  "bbox": [
+    11.581814,
+    48.154442,
+    11.581814,
+    48.154442
+],
   "geometry": {"coordinates":[11.581814,48.154442],"type":"Point"}
 }

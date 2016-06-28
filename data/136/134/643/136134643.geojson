@@ -2,13 +2,14 @@
   "id": 136134643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.461476,52.549595,13.461476,52.549595",
     "geom:latitude":52.549595,
     "geom:longitude":13.461476,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bizetstr. 115",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928743,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136134643,
-    "wof:lastmodified":1449076197,
+    "wof:lastmodified":1466218170,
     "wof:name":"Teenieland",
     "wof:parent_id":85928743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.461476,52.549595,13.461476,52.549595],
+  "bbox": [
+    13.461476,
+    52.549595,
+    13.461476,
+    52.549595
+],
   "geometry": {"coordinates":[13.461476,52.549595],"type":"Point"}
 }

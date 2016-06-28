@@ -2,13 +2,14 @@
   "id": 119036977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.609905,48.145336,11.609905,48.145336",
     "geom:latitude":48.145336,
     "geom:longitude":11.609905,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebersberger Str. 11",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119036977,
-    "wof:lastmodified":1449041401,
+    "wof:lastmodified":1466214203,
     "wof:name":"Hans-joachim Ziersch Innenarchitekt",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.609905,48.145336,11.609905,48.145336],
+  "bbox": [
+    11.609905,
+    48.145336,
+    11.609905,
+    48.145336
+],
   "geometry": {"coordinates":[11.609905,48.145336],"type":"Point"}
 }

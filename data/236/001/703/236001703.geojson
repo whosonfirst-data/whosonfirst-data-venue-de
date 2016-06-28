@@ -2,13 +2,14 @@
   "id": 236001703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.24968,49.645256,11.24968,49.645256",
     "geom:latitude":49.645256,
     "geom:longitude":11.24968,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 5",
     "sg:city":"Gr\u00e4fenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236001703,
-    "wof:lastmodified":1449002240,
+    "wof:lastmodified":1466235212,
     "wof:name":"Stadtcafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.24968,49.645256,11.24968,49.645256],
+  "bbox": [
+    11.24968,
+    49.645256,
+    11.24968,
+    49.645256
+],
   "geometry": {"coordinates":[11.24968,49.645256],"type":"Point"}
 }

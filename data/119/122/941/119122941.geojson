@@ -2,13 +2,14 @@
   "id": 119122941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655347,51.96804,7.655347,51.96804",
     "geom:latitude":51.96804,
     "geom:longitude":7.655347,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostmarkstr. 97",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795671,
+        85682513,
         85633111,
         101913895,
         102063863,
-        85682513
+        85795671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119122941,
-    "wof:lastmodified":1449042376,
+    "wof:lastmodified":1466222109,
     "wof:name":"Rolf Hinsch Architekt",
     "wof:parent_id":85795671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655347,51.96804,7.655347,51.96804],
+  "bbox": [
+    7.655347,
+    51.96804,
+    7.655347,
+    51.96804
+],
   "geometry": {"coordinates":[7.655347,51.96804],"type":"Point"}
 }

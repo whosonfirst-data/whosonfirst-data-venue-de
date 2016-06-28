@@ -2,13 +2,14 @@
   "id": 219997005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.819328,49.491573,10.819328,49.491573",
     "geom:latitude":49.491573,
     "geom:longitude":10.819328,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstr. 21",
     "sg:city":"Langenzenn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219997005,
-    "wof:lastmodified":1449073296,
+    "wof:lastmodified":1466230309,
     "wof:name":"Werner Trommer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.819328,49.491573,10.819328,49.491573],
+  "bbox": [
+    10.819328,
+    49.491573,
+    10.819328,
+    49.491573
+],
   "geometry": {"coordinates":[10.819328,49.491573],"type":"Point"}
 }

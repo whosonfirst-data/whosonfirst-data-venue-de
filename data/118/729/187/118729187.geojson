@@ -2,13 +2,14 @@
   "id": 118729187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.706325,49.376637,12.706325,49.376637",
     "geom:latitude":49.376637,
     "geom:longitude":12.706325,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstr. 5",
     "sg:city":"Waldm\u00fcnchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118729187,
-    "wof:lastmodified":1449053861,
+    "wof:lastmodified":1466225533,
     "wof:name":"Maria Berg",
     "wof:parent_id":101826739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.706325,49.376637,12.706325,49.376637],
+  "bbox": [
+    12.706325,
+    49.376637,
+    12.706325,
+    49.376637
+],
   "geometry": {"coordinates":[12.706325,49.376637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336837913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.930875,52.255264,13.930875,52.255264",
     "geom:latitude":52.255264,
     "geom:longitude":13.930875,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Markt 30",
     "sg:city":"Storkow",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336837913,
-    "wof:lastmodified":1448997113,
+    "wof:lastmodified":1466238004,
     "wof:name":"Georg Thor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.930875,52.255264,13.930875,52.255264],
+  "bbox": [
+    13.930875,
+    52.255264,
+    13.930875,
+    52.255264
+],
   "geometry": {"coordinates":[13.930875,52.255264],"type":"Point"}
 }

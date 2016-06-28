@@ -2,13 +2,14 @@
   "id": 119454059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.013723,49.448788,11.013723,49.448788",
     "geom:latitude":49.448788,
     "geom:longitude":11.013723,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenkersheimer Str. 10",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905635,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85905635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119454059,
-    "wof:lastmodified":1449043281,
+    "wof:lastmodified":1466242689,
     "wof:name":"Mbs Parksysteme Gmbh",
     "wof:parent_id":85905635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.013723,49.448788,11.013723,49.448788],
+  "bbox": [
+    11.013723,
+    49.448788,
+    11.013723,
+    49.448788
+],
   "geometry": {"coordinates":[11.013723,49.448788],"type":"Point"}
 }

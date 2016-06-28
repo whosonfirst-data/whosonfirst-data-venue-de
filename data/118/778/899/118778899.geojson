@@ -2,13 +2,14 @@
   "id": 118778899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.59312,52.508919,13.59312,52.508919",
     "geom:latitude":52.508919,
     "geom:longitude":13.59312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Myslowitzer Str 27-29",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118778899,
-    "wof:lastmodified":1449053172,
+    "wof:lastmodified":1466228484,
     "wof:name":"Eurotex Design Handels Gmbh",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.59312,52.508919,13.59312,52.508919],
+  "bbox": [
+    13.59312,
+    52.508919,
+    13.59312,
+    52.508919
+],
   "geometry": {"coordinates":[13.59312,52.508919],"type":"Point"}
 }

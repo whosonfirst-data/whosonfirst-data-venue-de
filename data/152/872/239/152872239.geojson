@@ -2,13 +2,14 @@
   "id": 152872239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.580477,48.204144,11.580477,48.204144",
     "geom:latitude":48.204144,
     "geom:longitude":11.580477,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lemckestr. 3",
     "sg:city":"Muenchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905617,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152872239,
-    "wof:lastmodified":1449044715,
+    "wof:lastmodified":1466228726,
     "wof:name":"Klingelt\u00f6ne Und Logos F\u00fcr Nokia Und Sagem",
     "wof:parent_id":85905617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.580477,48.204144,11.580477,48.204144],
+  "bbox": [
+    11.580477,
+    48.204144,
+    11.580477,
+    48.204144
+],
   "geometry": {"coordinates":[11.580477,48.204144],"type":"Point"}
 }

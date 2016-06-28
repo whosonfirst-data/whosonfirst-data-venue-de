@@ -2,13 +2,14 @@
   "id": 286583261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.745841,50.085056,8.745841,50.085056",
     "geom:latitude":50.085056,
     "geom:longitude":8.745841,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sprendlinger Landstr. 175 a",
     "sg:city":"Offenbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286583261,
-    "wof:lastmodified":1449017505,
+    "wof:lastmodified":1466232189,
     "wof:name":"Robert Hensel",
     "wof:parent_id":85795621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.745841,50.085056,8.745841,50.085056],
+  "bbox": [
+    8.745841,
+    50.085056,
+    8.745841,
+    50.085056
+],
   "geometry": {"coordinates":[8.745841,50.085056],"type":"Point"}
 }

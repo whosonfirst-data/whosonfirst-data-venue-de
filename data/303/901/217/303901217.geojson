@@ -2,13 +2,14 @@
   "id": 303901217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.430366,48.636112,12.430366,48.636112",
     "geom:latitude":48.636112,
     "geom:longitude":12.430366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ahornstr. 8",
     "sg:city":"Loiching",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303901217,
-    "wof:lastmodified":1448999146,
+    "wof:lastmodified":1466241224,
     "wof:name":"H. Weinhold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.430366,48.636112,12.430366,48.636112],
+  "bbox": [
+    12.430366,
+    48.636112,
+    12.430366,
+    48.636112
+],
   "geometry": {"coordinates":[12.430366,48.636112],"type":"Point"}
 }

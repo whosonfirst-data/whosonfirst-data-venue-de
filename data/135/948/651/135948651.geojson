@@ -2,13 +2,14 @@
   "id": 135948651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.874259,51.487,6.874259,51.487",
     "geom:latitude":51.487,
     "geom:longitude":6.874259,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Essener Str. 99",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863099,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135948651,
-    "wof:lastmodified":1449023401,
+    "wof:lastmodified":1466244746,
     "wof:name":"Koehne Tief- Und Gleisbau Gmbh",
     "wof:parent_id":85863099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.874259,51.487,6.874259,51.487],
+  "bbox": [
+    6.874259,
+    51.487,
+    6.874259,
+    51.487
+],
   "geometry": {"coordinates":[6.874259,51.487],"type":"Point"}
 }

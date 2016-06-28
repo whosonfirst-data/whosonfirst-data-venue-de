@@ -2,13 +2,14 @@
   "id": 320259913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.366173,37.608929,-82.366173,37.608929",
     "geom:latitude":37.608929,
     "geom:longitude":-82.366173,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Danziger Stra\u00dfe 32",
     "sg:city":"Karst",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320259913,
-    "wof:lastmodified":1449012115,
+    "wof:lastmodified":1466238161,
     "wof:name":"B F Meia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.366173,37.608929,-82.366173,37.608929],
+  "bbox": [
+    -82.366173,
+    37.608929,
+    -82.366173,
+    37.608929
+],
   "geometry": {"coordinates":[-82.366173,37.608929],"type":"Point"}
 }

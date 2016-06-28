@@ -2,13 +2,14 @@
   "id": 119215047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.275192,51.600208,7.275192,51.600208",
     "geom:latitude":51.600208,
     "geom:longitude":7.275192,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eulenstr. 12",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063831,
-        85633111,
         85682513,
-        85863203
+        85633111,
+        85863203,
+        102063831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":119215047,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466230168,
     "wof:name":"Kath. \u00f6ffentliche Bibliothek St. Barbara",
     "wof:parent_id":85863203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.275192,51.600208,7.275192,51.600208],
+  "bbox": [
+    7.275192,
+    51.600208,
+    7.275192,
+    51.600208
+],
   "geometry": {"coordinates":[7.275192,51.600208],"type":"Point"}
 }

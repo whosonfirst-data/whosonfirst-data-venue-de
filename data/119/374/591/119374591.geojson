@@ -2,13 +2,14 @@
   "id": 119374591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.981,49.244446,6.981,49.244446",
     "geom:latitude":49.244446,
     "geom:longitude":6.981,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Ludwigsberg 28",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862841,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119374591,
-    "wof:lastmodified":1449041978,
+    "wof:lastmodified":1466240888,
     "wof:name":"S. Gref",
     "wof:parent_id":85862841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.981,49.244446,6.981,49.244446],
+  "bbox": [
+    6.981,
+    49.244446,
+    6.981,
+    49.244446
+],
   "geometry": {"coordinates":[6.981,49.244446],"type":"Point"}
 }

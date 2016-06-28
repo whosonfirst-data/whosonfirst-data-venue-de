@@ -2,13 +2,14 @@
   "id": 119502843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.173018,52.512096,13.173018,52.512096",
     "geom:latitude":52.512096,
     "geom:longitude":13.173018,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstr. 96",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900245,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119502843,
-    "wof:lastmodified":1449042039,
+    "wof:lastmodified":1466243726,
     "wof:name":"Berliner Simonsbrot-fabrik Helmut Matz",
     "wof:parent_id":85900245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.173018,52.512096,13.173018,52.512096],
+  "bbox": [
+    13.173018,
+    52.512096,
+    13.173018,
+    52.512096
+],
   "geometry": {"coordinates":[13.173018,52.512096],"type":"Point"}
 }

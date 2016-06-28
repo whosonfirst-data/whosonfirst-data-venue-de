@@ -2,13 +2,14 @@
   "id": 119380477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.512091,49.342545,10.512091,49.342545",
     "geom:latitude":49.342545,
     "geom:longitude":10.512091,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Buhlsbacher Str. 11",
     "sg:city":"Lehrberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119380477,
-    "wof:lastmodified":1449042068,
+    "wof:lastmodified":1466241020,
     "wof:name":"Udo Isbitzki",
     "wof:parent_id":101780733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.512091,49.342545,10.512091,49.342545],
+  "bbox": [
+    10.512091,
+    49.342545,
+    10.512091,
+    49.342545
+],
   "geometry": {"coordinates":[10.512091,49.342545],"type":"Point"}
 }

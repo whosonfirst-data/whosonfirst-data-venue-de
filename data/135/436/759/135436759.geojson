@@ -2,13 +2,14 @@
   "id": 135436759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.414788,49.245766,10.414788,49.245766",
     "geom:latitude":49.245766,
     "geom:longitude":10.414788,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ansbacher Str. 2",
     "sg:city":"Aurach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135436759,
-    "wof:lastmodified":1449023716,
+    "wof:lastmodified":1466226011,
     "wof:name":"Sparkasse Feuchtwangen",
     "wof:parent_id":101782091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.414788,49.245766,10.414788,49.245766],
+  "bbox": [
+    10.414788,
+    49.245766,
+    10.414788,
+    49.245766
+],
   "geometry": {"coordinates":[10.414788,49.245766],"type":"Point"}
 }

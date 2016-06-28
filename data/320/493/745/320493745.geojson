@@ -2,13 +2,14 @@
   "id": 320493745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.50495,49.008049,9.50495,49.008049",
     "geom:latitude":49.008049,
     "geom:longitude":9.50495,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1169",
     "sg:city":"Sulzbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320493745,
-    "wof:lastmodified":1449012460,
+    "wof:lastmodified":1466240989,
     "wof:name":"Festhalle Mehrzweckhalle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.50495,49.008049,9.50495,49.008049],
+  "bbox": [
+    9.50495,
+    49.008049,
+    9.50495,
+    49.008049
+],
   "geometry": {"coordinates":[9.50495,49.008049],"type":"Point"}
 }

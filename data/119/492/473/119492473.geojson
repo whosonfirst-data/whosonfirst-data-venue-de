@@ -2,13 +2,14 @@
   "id": 119492473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.773019,52.470516,13.773019,52.470516",
     "geom:latitude":52.470516,
     "geom:longitude":13.773019,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Stolp 19 a",
     "sg:city":"R\u00fcdersdorf",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063935,
-        85633111,
         85682553,
-        85900029
+        85633111,
+        85900029,
+        102063935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119492473,
-    "wof:lastmodified":1449040878,
+    "wof:lastmodified":1466243479,
     "wof:name":"Peter Catholy Gmbh",
     "wof:parent_id":85900029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.773019,52.470516,13.773019,52.470516],
+  "bbox": [
+    13.773019,
+    52.470516,
+    13.773019,
+    52.470516
+],
   "geometry": {"coordinates":[13.773019,52.470516],"type":"Point"}
 }

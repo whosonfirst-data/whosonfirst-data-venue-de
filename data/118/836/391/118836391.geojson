@@ -2,13 +2,14 @@
   "id": 118836391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.809434,53.574257,9.809434,53.574257",
     "geom:latitude":53.574257,
     "geom:longitude":9.809434,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fclldorfer Heideweg 27",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899581,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":118836391,
-    "wof:lastmodified":1449054069,
+    "wof:lastmodified":1466231929,
     "wof:name":"Neustadt-apotheke",
     "wof:parent_id":85899581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.809434,53.574257,9.809434,53.574257],
+  "bbox": [
+    9.809434,
+    53.574257,
+    9.809434,
+    53.574257
+],
   "geometry": {"coordinates":[9.809434,53.574257],"type":"Point"}
 }

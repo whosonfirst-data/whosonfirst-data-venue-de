@@ -2,13 +2,14 @@
   "id": 270102639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.89099,50.965927,11.89099,50.965927",
     "geom:latitude":50.965927,
     "geom:longitude":11.89099,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Carl-von-Ossietzky-Str. 26",
     "sg:city":"Eisenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270102639,
-    "wof:lastmodified":1449010921,
+    "wof:lastmodified":1466223784,
     "wof:name":"Wolfgang Kirst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.89099,50.965927,11.89099,50.965927],
+  "bbox": [
+    11.89099,
+    50.965927,
+    11.89099,
+    50.965927
+],
   "geometry": {"coordinates":[11.89099,50.965927],"type":"Point"}
 }

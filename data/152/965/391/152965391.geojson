@@ -2,13 +2,14 @@
   "id": 152965391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.588103,52.418072,13.588103,52.418072",
     "geom:latitude":52.418072,
     "geom:longitude":13.588103,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Niebergallstr. 3",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900229,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152965391,
-    "wof:lastmodified":1449047529,
+    "wof:lastmodified":1466230988,
     "wof:name":"Thomas Zetzsche Heizung-sanit\u00e4r-wartung",
     "wof:parent_id":85900229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.588103,52.418072,13.588103,52.418072],
+  "bbox": [
+    13.588103,
+    52.418072,
+    13.588103,
+    52.418072
+],
   "geometry": {"coordinates":[13.588103,52.418072],"type":"Point"}
 }

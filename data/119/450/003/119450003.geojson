@@ -2,13 +2,14 @@
   "id": 119450003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39068,49.488247,8.39068,49.488247",
     "geom:latitude":49.488247,
     "geom:longitude":8.39068,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mannheimer Str. 93",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795913,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119450003,
-    "wof:lastmodified":1449043109,
+    "wof:lastmodified":1466242651,
     "wof:name":"Norbert Stich Gmbh",
     "wof:parent_id":85795913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39068,49.488247,8.39068,49.488247],
+  "bbox": [
+    8.39068,
+    49.488247,
+    8.39068,
+    49.488247
+],
   "geometry": {"coordinates":[8.39068,49.488247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136063531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.446756,48.992943,8.446756,48.992943",
     "geom:latitude":48.992943,
     "geom:longitude":8.446756,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wachhausstra\u00dfe 4",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794785,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136063531,
-    "wof:lastmodified":1449075007,
+    "wof:lastmodified":1466215056,
     "wof:name":"Fiducia Ausbildungszentren",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.446756,48.992943,8.446756,48.992943],
+  "bbox": [
+    8.446756,
+    48.992943,
+    8.446756,
+    48.992943
+],
   "geometry": {"coordinates":[8.446756,48.992943],"type":"Point"}
 }

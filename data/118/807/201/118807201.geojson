@@ -2,13 +2,14 @@
   "id": 118807201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.601769,49.804199,8.601769,49.804199",
     "geom:latitude":49.804199,
     "geom:longitude":8.601769,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eberst\u00e4dter Str. 63",
     "sg:city":"Pfungstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118807201,
-    "wof:lastmodified":1449053507,
+    "wof:lastmodified":1466230159,
     "wof:name":"Berchelmannsche Apotheke Karin Posegga-st\u00e4rz",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.601769,49.804199,8.601769,49.804199],
+  "bbox": [
+    8.601769,
+    49.804199,
+    8.601769,
+    49.804199
+],
   "geometry": {"coordinates":[8.601769,49.804199],"type":"Point"}
 }

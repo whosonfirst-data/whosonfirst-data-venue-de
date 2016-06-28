@@ -2,13 +2,14 @@
   "id": 135342859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.678983,51.050213,13.678983,51.050213",
     "geom:latitude":51.050213,
     "geom:longitude":13.678983,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidentalstr. 50",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899529,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135342859,
-    "wof:lastmodified":1449023786,
+    "wof:lastmodified":1466217407,
     "wof:name":"Frank Zukunft",
     "wof:parent_id":85899529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.678983,51.050213,13.678983,51.050213],
+  "bbox": [
+    13.678983,
+    51.050213,
+    13.678983,
+    51.050213
+],
   "geometry": {"coordinates":[13.678983,51.050213],"type":"Point"}
 }

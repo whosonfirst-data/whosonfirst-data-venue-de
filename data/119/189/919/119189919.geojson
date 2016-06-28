@@ -2,13 +2,14 @@
   "id": 119189919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.201485,53.489098,10.201485,53.489098",
     "geom:latitude":53.489098,
     "geom:longitude":10.201485,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurt-A.-K\u00f6rber-Chaussee 10",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899679,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119189919,
-    "wof:lastmodified":1449042752,
+    "wof:lastmodified":1466227852,
     "wof:name":"Archiv Der K\u00f6rber-stiftung",
     "wof:parent_id":85899679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.201485,53.489098,10.201485,53.489098],
+  "bbox": [
+    10.201485,
+    53.489098,
+    10.201485,
+    53.489098
+],
   "geometry": {"coordinates":[10.201485,53.489098],"type":"Point"}
 }

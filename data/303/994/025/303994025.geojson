@@ -2,13 +2,14 @@
   "id": 303994025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.58664,48.164352,11.58664,48.164352",
     "geom:latitude":48.164352,
     "geom:longitude":11.58664,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leopoldstr. 94",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303994025,
-    "wof:lastmodified":1448998238,
+    "wof:lastmodified":1466242072,
     "wof:name":"S. Eger",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.58664,48.164352,11.58664,48.164352],
+  "bbox": [
+    11.58664,
+    48.164352,
+    11.58664,
+    48.164352
+],
   "geometry": {"coordinates":[11.58664,48.164352],"type":"Point"}
 }

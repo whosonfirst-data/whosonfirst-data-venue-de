@@ -2,13 +2,14 @@
   "id": 152326677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.385183,49.024002,8.385183,49.024002",
     "geom:latitude":49.024002,
     "geom:longitude":8.385183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erzbergerstr. 121",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794869,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85794869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152326677,
-    "wof:lastmodified":1449046277,
+    "wof:lastmodified":1466216707,
     "wof:name":"Refa Verband F\u00fcr Arbeits- Studien Und Betriebs-",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.385183,49.024002,8.385183,49.024002],
+  "bbox": [
+    8.385183,
+    49.024002,
+    8.385183,
+    49.024002
+],
   "geometry": {"coordinates":[8.385183,49.024002],"type":"Point"}
 }

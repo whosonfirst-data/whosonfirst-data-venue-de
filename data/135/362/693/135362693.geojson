@@ -2,13 +2,14 @@
   "id": 135362693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.45539,48.134583,11.45539,48.134583",
     "geom:latitude":48.134583,
     "geom:longitude":11.45539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Haidelweg 48",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899883,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135362693,
-    "wof:lastmodified":1449022962,
+    "wof:lastmodified":1466219202,
     "wof:name":"Crownswift Ltd.",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.45539,48.134583,11.45539,48.134583],
+  "bbox": [
+    11.45539,
+    48.134583,
+    11.45539,
+    48.134583
+],
   "geometry": {"coordinates":[11.45539,48.134583],"type":"Point"}
 }

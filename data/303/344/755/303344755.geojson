@@ -2,13 +2,14 @@
   "id": 303344755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07309,51.445705,7.07309,51.445705",
     "geom:latitude":51.445705,
     "geom:longitude":7.07309,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grendbach 12",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303344755,
-    "wof:lastmodified":1448998240,
+    "wof:lastmodified":1466233020,
     "wof:name":"M. Rhode",
     "wof:parent_id":85795485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07309,51.445705,7.07309,51.445705],
+  "bbox": [
+    7.07309,
+    51.445705,
+    7.07309,
+    51.445705
+],
   "geometry": {"coordinates":[7.07309,51.445705],"type":"Point"}
 }

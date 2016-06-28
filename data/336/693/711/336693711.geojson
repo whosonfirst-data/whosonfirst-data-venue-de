@@ -2,13 +2,14 @@
   "id": 336693711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.939377,38.202492,-96.939377,38.202492",
     "geom:latitude":38.202492,
     "geom:longitude":-96.939377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanenm\u00fchle 1",
     "sg:city":"Schwanenm\u00fchle",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":336693711,
-    "wof:lastmodified":1448996982,
+    "wof:lastmodified":1466235699,
     "wof:name":"Erico Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.939377,38.202492,-96.939377,38.202492],
-  "geometry": {"coordinates":[-96.939377,38.202492],"type":"Point"}
+  "bbox": [
+    -96.939377,
+    38.202492,
+    -96.939377,
+    38.202492
+],
+  "geometry": {"coordinates":[-96.93937699999999,38.202492],"type":"Point"}
 }

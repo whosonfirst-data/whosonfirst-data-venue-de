@@ -2,13 +2,14 @@
   "id": 253285233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.305122,52.582531,13.305122,52.582531",
     "geom:latitude":52.582531,
     "geom:longitude":13.305122,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schubartstr. 6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253285233,
-    "wof:lastmodified":1449062909,
+    "wof:lastmodified":1466235335,
     "wof:name":"Ernst Schmidt Inh. Ronald Schmidt",
     "wof:parent_id":85905649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.305122,52.582531,13.305122,52.582531],
+  "bbox": [
+    13.305122,
+    52.582531,
+    13.305122,
+    52.582531
+],
   "geometry": {"coordinates":[13.305122,52.582531],"type":"Point"}
 }

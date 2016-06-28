@@ -2,13 +2,14 @@
   "id": 135532335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.360914,51.343876,12.360914,51.343876",
     "geom:latitude":51.343876,
     "geom:longitude":12.360914,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gustav-Adolf-Str. 36",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135532335,
-    "wof:lastmodified":1449022026,
+    "wof:lastmodified":1466234585,
     "wof:name":"Pro Massiv-bau Gmbh & Co. Kg",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.360914,51.343876,12.360914,51.343876],
+  "bbox": [
+    12.360914,
+    51.343876,
+    12.360914,
+    51.343876
+],
   "geometry": {"coordinates":[12.360914,51.343876],"type":"Point"}
 }

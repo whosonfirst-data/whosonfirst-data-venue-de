@@ -2,13 +2,14 @@
   "id": 118888493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.104367,54.34729,10.104367,54.34729",
     "geom:latitude":54.34729,
     "geom:longitude":10.104367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-Fleck-Str. 34",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899827,
+        85682517,
         85633111,
         101756551,
         102064145,
-        85682517
+        85899827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118888493,
-    "wof:lastmodified":1449054031,
+    "wof:lastmodified":1466235239,
     "wof:name":"Fortuna-apotheke Klausbrook",
     "wof:parent_id":85899827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.104367,54.34729,10.104367,54.34729],
+  "bbox": [
+    10.104367,
+    54.34729,
+    10.104367,
+    54.34729
+],
   "geometry": {"coordinates":[10.104367,54.34729],"type":"Point"}
 }

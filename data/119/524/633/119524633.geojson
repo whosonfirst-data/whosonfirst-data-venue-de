@@ -2,13 +2,14 @@
   "id": 119524633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.315428,49.426552,8.315428,49.426552",
     "geom:latitude":49.426552,
     "geom:longitude":8.315428,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 122",
     "sg:city":"Dannstadt-Schauernheim",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063479,
-        85633111,
         85682491,
-        85795945
+        85633111,
+        85795945,
+        102063479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119524633,
-    "wof:lastmodified":1449040867,
+    "wof:lastmodified":1466243737,
     "wof:name":"G. Heck",
     "wof:parent_id":85795945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.315428,49.426552,8.315428,49.426552],
+  "bbox": [
+    8.315428,
+    49.426552,
+    8.315428,
+    49.426552
+],
   "geometry": {"coordinates":[8.315428,49.426552],"type":"Point"}
 }

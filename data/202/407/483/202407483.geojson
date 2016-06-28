@@ -2,13 +2,14 @@
   "id": 202407483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.380781,47.749062,11.380781,47.749062",
     "geom:latitude":47.749062,
     "geom:longitude":11.380781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00fchlingstr. 4",
     "sg:city":"Penzberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202407483,
-    "wof:lastmodified":1449061514,
+    "wof:lastmodified":1466213908,
     "wof:name":"Wera Sulzbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.380781,47.749062,11.380781,47.749062],
+  "bbox": [
+    11.380781,
+    47.749062,
+    11.380781,
+    47.749062
+],
   "geometry": {"coordinates":[11.380781,47.749062],"type":"Point"}
 }

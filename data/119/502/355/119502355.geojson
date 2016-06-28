@@ -2,13 +2,14 @@
   "id": 119502355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.543753,48.202152,11.543753,48.202152",
     "geom:latitude":48.202152,
     "geom:longitude":11.543753,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lerchenstr. 14",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063261,
-        85633111,
         85682571,
-        85899395
+        85633111,
+        85899395,
+        102063261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119502355,
-    "wof:lastmodified":1449042039,
+    "wof:lastmodified":1466243688,
     "wof:name":"Backst\u00fcberl Altinger Gmbh",
     "wof:parent_id":85899395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.543753,48.202152,11.543753,48.202152],
+  "bbox": [
+    11.543753,
+    48.202152,
+    11.543753,
+    48.202152
+],
   "geometry": {"coordinates":[11.543753,48.202152],"type":"Point"}
 }

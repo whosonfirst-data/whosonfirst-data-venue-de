@@ -2,13 +2,14 @@
   "id": 203313021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.546715,49.139351,7.546715,49.139351",
     "geom:latitude":49.139351,
     "geom:longitude":7.546715,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Br\u00fchl 23",
     "sg:city":"Trulben",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203313021,
-    "wof:lastmodified":1449025008,
+    "wof:lastmodified":1466219066,
     "wof:name":"Franz Kupper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.546715,49.139351,7.546715,49.139351],
+  "bbox": [
+    7.546715,
+    49.139351,
+    7.546715,
+    49.139351
+],
   "geometry": {"coordinates":[7.546715,49.139351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286753201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.919276,50.936497,6.919276,50.936497",
     "geom:latitude":50.936497,
     "geom:longitude":6.919276,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Aachener Str. 251",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286753201,
-    "wof:lastmodified":1449015523,
+    "wof:lastmodified":1466236249,
     "wof:name":"Willy Wirtz",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.919276,50.936497,6.919276,50.936497],
+  "bbox": [
+    6.919276,
+    50.936497,
+    6.919276,
+    50.936497
+],
   "geometry": {"coordinates":[6.919276,50.936497],"type":"Point"}
 }

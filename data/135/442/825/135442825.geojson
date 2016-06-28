@@ -2,13 +2,14 @@
   "id": 135442825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.201948,48.949505,13.201948,48.949505",
     "geom:latitude":48.949505,
     "geom:longitude":13.201948,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gehmannsberger Str. 8",
     "sg:city":"Rinchnach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135442825,
-    "wof:lastmodified":1449022338,
+    "wof:lastmodified":1466226545,
     "wof:name":"Sparkasse Regen",
     "wof:parent_id":101844035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.201948,48.949505,13.201948,48.949505],
+  "bbox": [
+    13.201948,
+    48.949505,
+    13.201948,
+    48.949505
+],
   "geometry": {"coordinates":[13.201948,48.949505],"type":"Point"}
 }

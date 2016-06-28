@@ -2,13 +2,14 @@
   "id": 135332365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.159574,48.780579,9.159574,48.780579",
     "geom:latitude":48.780579,
     "geom:longitude":9.159574,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Johannesstr. 76",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135332365,
-    "wof:lastmodified":1449022683,
+    "wof:lastmodified":1466216537,
     "wof:name":"Cafe St\u00f6ckle Helmut St\u00f6ckle",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.159574,48.780579,9.159574,48.780579],
+  "bbox": [
+    9.159574,
+    48.780579,
+    9.159574,
+    48.780579
+],
   "geometry": {"coordinates":[9.159574,48.780579],"type":"Point"}
 }

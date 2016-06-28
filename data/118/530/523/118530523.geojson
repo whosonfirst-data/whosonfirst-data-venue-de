@@ -2,13 +2,14 @@
   "id": 118530523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.497366,52.48634,13.497366,52.48634",
     "geom:latitude":52.48634,
     "geom:longitude":13.497366,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6penicker Chaussee 11-14",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928789,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85928789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118530523,
-    "wof:lastmodified":1449053894,
+    "wof:lastmodified":1466214300,
     "wof:name":"Rtb Umwelt Gmbh",
     "wof:parent_id":85928789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.497366,52.48634,13.497366,52.48634],
+  "bbox": [
+    13.497366,
+    52.48634,
+    13.497366,
+    52.48634
+],
   "geometry": {"coordinates":[13.497366,52.48634],"type":"Point"}
 }

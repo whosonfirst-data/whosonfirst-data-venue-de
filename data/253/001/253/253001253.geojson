@@ -2,13 +2,14 @@
   "id": 253001253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.339952,49.869816,12.339952,49.869816",
     "geom:latitude":49.869816,
     "geom:longitude":12.339952,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Mitterweg 17",
     "sg:city":"Tirschenreuth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253001253,
-    "wof:lastmodified":1449063482,
+    "wof:lastmodified":1466219483,
     "wof:name":"Franz Vertriebs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.339952,49.869816,12.339952,49.869816],
+  "bbox": [
+    12.339952,
+    49.869816,
+    12.339952,
+    49.869816
+],
   "geometry": {"coordinates":[12.339952,49.869816],"type":"Point"}
 }

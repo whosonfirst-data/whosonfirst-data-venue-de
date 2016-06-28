@@ -2,13 +2,14 @@
   "id": 119152411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.51145,51.374119,6.51145,51.374119",
     "geom:latitude":51.374119,
     "geom:longitude":6.51145,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenweg 1",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862865,
+        85682513,
         85633111,
         101748683,
         102063769,
-        85682513
+        85862865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119152411,
-    "wof:lastmodified":1449042878,
+    "wof:lastmodified":1466224335,
     "wof:name":"Werner Mellen Architekt",
     "wof:parent_id":85862865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.51145,51.374119,6.51145,51.374119],
+  "bbox": [
+    6.51145,
+    51.374119,
+    6.51145,
+    51.374119
+],
   "geometry": {"coordinates":[6.51145,51.374119],"type":"Point"}
 }

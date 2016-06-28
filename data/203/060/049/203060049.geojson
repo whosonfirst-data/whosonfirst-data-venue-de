@@ -2,13 +2,14 @@
   "id": 203060049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.777288,51.350136,6.777288,51.350136",
     "geom:latitude":51.350136,
     "geom:longitude":6.777288,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Maisstr. 22",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203060049,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466214808,
     "wof:name":"Hans Hildebrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.777288,51.350136,6.777288,51.350136],
+  "bbox": [
+    6.777288,
+    51.350136,
+    6.777288,
+    51.350136
+],
   "geometry": {"coordinates":[6.777288,51.350136],"type":"Point"}
 }

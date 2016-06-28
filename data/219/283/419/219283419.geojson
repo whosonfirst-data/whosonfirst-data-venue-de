@@ -2,13 +2,14 @@
   "id": 219283419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.786875,52.343636,9.786875,52.343636",
     "geom:latitude":52.343636,
     "geom:longitude":9.786875,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-Sachs-Weg 20a",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219283419,
-    "wof:lastmodified":1449071452,
+    "wof:lastmodified":1466216619,
     "wof:name":"Heinrich Niehoff",
     "wof:parent_id":85899629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.786875,52.343636,9.786875,52.343636],
+  "bbox": [
+    9.786875,
+    52.343636,
+    9.786875,
+    52.343636
+],
   "geometry": {"coordinates":[9.786875,52.343636],"type":"Point"}
 }

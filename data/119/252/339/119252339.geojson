@@ -2,13 +2,14 @@
   "id": 119252339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.354919,52.448605,13.354919,52.448605",
     "geom:latitude":52.448605,
     "geom:longitude":13.354919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Crailsheimer Str. 10",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900119,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119252339,
-    "wof:lastmodified":1449041183,
+    "wof:lastmodified":1466233830,
     "wof:name":"Margerit Minoeff",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.354919,52.448605,13.354919,52.448605],
+  "bbox": [
+    13.354919,
+    52.448605,
+    13.354919,
+    52.448605
+],
   "geometry": {"coordinates":[13.354919,52.448605],"type":"Point"}
 }

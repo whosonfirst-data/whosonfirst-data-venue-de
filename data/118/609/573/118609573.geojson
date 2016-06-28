@@ -2,13 +2,14 @@
   "id": 118609573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.524751,48.121479,11.524751,48.121479",
     "geom:latitude":48.121479,
     "geom:longitude":11.524751,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiterwanger Str. 48",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905615,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118609573,
-    "wof:lastmodified":1449053669,
+    "wof:lastmodified":1466218787,
     "wof:name":"Microlectra Gmbh",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.524751,48.121479,11.524751,48.121479],
+  "bbox": [
+    11.524751,
+    48.121479,
+    11.524751,
+    48.121479
+],
   "geometry": {"coordinates":[11.524751,48.121479],"type":"Point"}
 }

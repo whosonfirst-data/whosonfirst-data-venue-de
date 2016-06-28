@@ -2,13 +2,14 @@
   "id": 136009619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.644616,48.142815,11.644616,48.142815",
     "geom:latitude":48.142815,
     "geom:longitude":11.644616,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ina-Seidel-Bogen 78",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136009619,
-    "wof:lastmodified":1449076256,
+    "wof:lastmodified":1466225302,
     "wof:name":"Yellow Concept Gmbh",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.644616,48.142815,11.644616,48.142815],
+  "bbox": [
+    11.644616,
+    48.142815,
+    11.644616,
+    48.142815
+],
   "geometry": {"coordinates":[11.644616,48.142815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203201129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.981367,52.269772,10.981367,52.269772",
     "geom:latitude":52.269772,
     "geom:longitude":10.981367,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Forstamt 3",
     "sg:city":"Mariental",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203201129,
-    "wof:lastmodified":1449026608,
+    "wof:lastmodified":1466217240,
     "wof:name":"Kurt Bartsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.981367,52.269772,10.981367,52.269772],
+  "bbox": [
+    10.981367,
+    52.269772,
+    10.981367,
+    52.269772
+],
   "geometry": {"coordinates":[10.981367,52.269772],"type":"Point"}
 }

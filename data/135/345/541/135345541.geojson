@@ -2,13 +2,14 @@
   "id": 135345541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.278772,51.420479,7.278772,51.420479",
     "geom:latitude":51.420479,
     "geom:longitude":7.278772,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Meesmannstr. 84",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795465,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85795465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135345541,
-    "wof:lastmodified":1449023767,
+    "wof:lastmodified":1466217677,
     "wof:name":"Helmut Berger",
     "wof:parent_id":85795465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.278772,51.420479,7.278772,51.420479],
+  "bbox": [
+    7.278772,
+    51.420479,
+    7.278772,
+    51.420479
+],
   "geometry": {"coordinates":[7.278772,51.420479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102737447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.995085,51.046879,6.995085,51.046879",
     "geom:latitude":51.046879,
     "geom:longitude":6.995085,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Windthorststr.66",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795003,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85795003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102737447,
-    "wof:lastmodified":1449068335,
+    "wof:lastmodified":1466217453,
     "wof:name":"Wach- & Schlie\u00dfgesellschaft \u00b4rhein-wupper\u00b4",
     "wof:parent_id":85795003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.995085,51.046879,6.995085,51.046879],
+  "bbox": [
+    6.995085,
+    51.046879,
+    6.995085,
+    51.046879
+],
   "geometry": {"coordinates":[6.995085,51.046879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220080193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.900123,53.793121,7.900123,53.793121",
     "geom:latitude":53.793121,
     "geom:longitude":7.900123,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Zedeliusstr. 49",
     "sg:city":"Wangerooge",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220080193,
-    "wof:lastmodified":1449074853,
+    "wof:lastmodified":1466216140,
     "wof:name":"Cafe Pudding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.900123,53.793121,7.900123,53.793121],
+  "bbox": [
+    7.900123,
+    53.793121,
+    7.900123,
+    53.793121
+],
   "geometry": {"coordinates":[7.900123,53.793121],"type":"Point"}
 }

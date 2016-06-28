@@ -2,13 +2,14 @@
   "id": 270305601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.742106,52.424217,10.742106,52.424217",
     "geom:latitude":52.424217,
     "geom:longitude":10.742106,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Major-Hirst-Str. 11 A",
     "sg:city":"Wolfsburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270305601,
-    "wof:lastmodified":1449009005,
+    "wof:lastmodified":1466228549,
     "wof:name":"Auto Vision Gmbh",
     "wof:parent_id":85905779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.742106,52.424217,10.742106,52.424217],
+  "bbox": [
+    10.742106,
+    52.424217,
+    10.742106,
+    52.424217
+],
   "geometry": {"coordinates":[10.742106,52.424217],"type":"Point"}
 }

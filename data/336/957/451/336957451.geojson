@@ -2,13 +2,14 @@
   "id": 336957451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529359,50.154739,8.529359,50.154739",
     "geom:latitude":50.154739,
     "geom:longitude":8.529359,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 1-2",
     "sg:city":"Schwalbach",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":336957451,
-    "wof:lastmodified":1448997874,
+    "wof:lastmodified":1466239659,
     "wof:name":"Kino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529359,50.154739,8.529359,50.154739],
+  "bbox": [
+    8.529359,
+    50.154739,
+    8.529359,
+    50.154739
+],
   "geometry": {"coordinates":[8.529359,50.154739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152777003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.116155,49.326885,8.116155,49.326885",
     "geom:latitude":49.326885,
     "geom:longitude":8.116155,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hambacher Schloss",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -35,14 +36,20 @@
         }
     ],
     "wof:id":152777003,
-    "wof:lastmodified":1449046745,
+    "wof:lastmodified":1466226507,
     "wof:name":"Das Hambacher Schloss (pfalz) Ausstellung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.116155,49.326885,8.116155,49.326885],
+  "bbox": [
+    8.116155,
+    49.326885,
+    8.116155,
+    49.326885
+],
   "geometry": {"coordinates":[8.116155,49.326885],"type":"Point"}
 }

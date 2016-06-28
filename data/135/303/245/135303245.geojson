@@ -2,13 +2,14 @@
   "id": 135303245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.169539,49.367371,11.169539,49.367371",
     "geom:latitude":49.367371,
     "geom:longitude":11.169539,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bogenstr. 3",
     "sg:city":"Wendelstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135303245,
-    "wof:lastmodified":1449021019,
+    "wof:lastmodified":1466214067,
     "wof:name":"Nuschelberger Backstubm",
     "wof:parent_id":101905933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.169539,49.367371,11.169539,49.367371],
+  "bbox": [
+    11.169539,
+    49.367371,
+    11.169539,
+    49.367371
+],
   "geometry": {"coordinates":[11.169539,49.367371],"type":"Point"}
 }

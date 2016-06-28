@@ -2,13 +2,14 @@
   "id": 118870917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.974067,52.133934,9.974067,52.133934",
     "geom:latitude":52.133934,
     "geom:longitude":9.974067,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienburger Platz 15",
     "sg:city":"Hildesheim",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898935,
+        85682555,
         85633111,
         101748791,
         102063895,
-        85682555
+        85898935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118870917,
-    "wof:lastmodified":1449053520,
+    "wof:lastmodified":1466234104,
     "wof:name":"Apotheke Marienburger H\u00f6he",
     "wof:parent_id":85898935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.974067,52.133934,9.974067,52.133934],
+  "bbox": [
+    9.974067,
+    52.133934,
+    9.974067,
+    52.133934
+],
   "geometry": {"coordinates":[9.974067,52.133934],"type":"Point"}
 }

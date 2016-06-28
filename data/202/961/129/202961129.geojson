@@ -2,13 +2,14 @@
   "id": 202961129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.967162,49.481213,10.967162,49.481213",
     "geom:latitude":49.481213,
     "geom:longitude":10.967162,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehlauer Str. 25",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202961129,
-    "wof:lastmodified":1449062579,
+    "wof:lastmodified":1466224246,
     "wof:name":"Erich Bausch",
     "wof:parent_id":85900175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.967162,49.481213,10.967162,49.481213],
+  "bbox": [
+    10.967162,
+    49.481213,
+    10.967162,
+    49.481213
+],
   "geometry": {"coordinates":[10.967162,49.481213],"type":"Point"}
 }

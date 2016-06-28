@@ -2,13 +2,14 @@
   "id": 118854127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.601588,48.140293,11.601588,48.140293",
     "geom:latitude":48.140293,
     "geom:longitude":11.601588,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Prinzregentenstr. 70",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905613,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85905613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118854127,
-    "wof:lastmodified":1449054481,
+    "wof:lastmodified":1466233038,
     "wof:name":"Troger Apotheke Elisabeth Resenberg E. K.",
     "wof:parent_id":85905613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.601588,48.140293,11.601588,48.140293],
+  "bbox": [
+    11.601588,
+    48.140293,
+    11.601588,
+    48.140293
+],
   "geometry": {"coordinates":[11.601588,48.140293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136177295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.994931,49.233158,6.994931,49.233158",
     "geom:latitude":49.233158,
     "geom:longitude":6.994931,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrstenstr. 3",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862849,
+        85682479,
         85633111,
         101748535,
         102063433,
-        85682479
+        85862849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136177295,
-    "wof:lastmodified":1449076271,
+    "wof:lastmodified":1466220038,
     "wof:name":"A. Schmidt",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.994931,49.233158,6.994931,49.233158],
+  "bbox": [
+    6.994931,
+    49.233158,
+    6.994931,
+    49.233158
+],
   "geometry": {"coordinates":[6.994931,49.233158],"type":"Point"}
 }

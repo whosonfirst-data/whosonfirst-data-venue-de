@@ -2,13 +2,14 @@
   "id": 119011315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.101242,52.391605,13.101242,52.391605",
     "geom:latitude":52.391605,
     "geom:longitude":13.101242,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benzstr. 22",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899365,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85899365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119011315,
-    "wof:lastmodified":1449043026,
+    "wof:lastmodified":1466219395,
     "wof:name":"Fricker Und Krampitz Architekten",
     "wof:parent_id":85899365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.101242,52.391605,13.101242,52.391605],
+  "bbox": [
+    13.101242,
+    52.391605,
+    13.101242,
+    52.391605
+],
   "geometry": {"coordinates":[13.101242,52.391605],"type":"Point"}
 }

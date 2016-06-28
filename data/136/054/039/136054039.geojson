@@ -2,13 +2,14 @@
   "id": 136054039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.102331,51.437031,7.102331,51.437031",
     "geom:latitude":51.437031,
     "geom:longitude":7.102331,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Erasmusstr14",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795485,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136054039,
-    "wof:lastmodified":1449075526,
+    "wof:lastmodified":1466214612,
     "wof:name":"Eileen Live",
     "wof:parent_id":85795485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.102331,51.437031,7.102331,51.437031],
+  "bbox": [
+    7.102331,
+    51.437031,
+    7.102331,
+    51.437031
+],
   "geometry": {"coordinates":[7.102331,51.437031],"type":"Point"}
 }

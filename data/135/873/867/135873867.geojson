@@ -2,13 +2,14 @@
   "id": 135873867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.613853,52.509315,13.613853,52.509315",
     "geom:latitude":52.509315,
     "geom:longitude":13.613853,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6nower Str. 56",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899571,
+        85682553,
         85633111,
         101756507,
         102063963,
-        85682553
+        85899571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135873867,
-    "wof:lastmodified":1449021608,
+    "wof:lastmodified":1466244406,
     "wof:name":"Wilke-bestattungen- Gmbh",
     "wof:parent_id":85899571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.613853,52.509315,13.613853,52.509315],
+  "bbox": [
+    13.613853,
+    52.509315,
+    13.613853,
+    52.509315
+],
   "geometry": {"coordinates":[13.613853,52.509315],"type":"Point"}
 }

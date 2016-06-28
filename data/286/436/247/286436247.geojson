@@ -2,13 +2,14 @@
   "id": 286436247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.197781,51.350548,10.197781,51.350548",
     "geom:latitude":51.350548,
     "geom:longitude":10.197781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 244",
     "sg:city":"Geisleden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286436247,
-    "wof:lastmodified":1449017812,
+    "wof:lastmodified":1466228644,
     "wof:name":"Hugo Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.197781,51.350548,10.197781,51.350548],
+  "bbox": [
+    10.197781,
+    51.350548,
+    10.197781,
+    51.350548
+],
   "geometry": {"coordinates":[10.197781,51.350548],"type":"Point"}
 }

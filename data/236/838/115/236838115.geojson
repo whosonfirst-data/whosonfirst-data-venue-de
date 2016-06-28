@@ -2,13 +2,14 @@
   "id": 236838115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.999594,49.640717,10.999594,49.640717",
     "geom:latitude":49.640717,
     "geom:longitude":10.999594,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstr. 12",
     "sg:city":"M\u00f6hrendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236838115,
-    "wof:lastmodified":1449001975,
+    "wof:lastmodified":1466234295,
     "wof:name":"Georg Knapp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.999594,49.640717,10.999594,49.640717],
+  "bbox": [
+    10.999594,
+    49.640717,
+    10.999594,
+    49.640717
+],
   "geometry": {"coordinates":[10.999594,49.640717],"type":"Point"}
 }

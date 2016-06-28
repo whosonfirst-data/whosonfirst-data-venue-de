@@ -2,13 +2,14 @@
   "id": 118673989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.074037,50.749924,7.074037,50.749924",
     "geom:latitude":50.749924,
     "geom:longitude":7.074037,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Georg-von-Boeselager-Str 21",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862983,
+        85682513,
         85633111,
         101748595,
         102063661,
-        85682513
+        85862983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118673989,
-    "wof:lastmodified":1449053693,
+    "wof:lastmodified":1466222377,
     "wof:name":"Hydro Aluminium Deutschland Gmbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.074037,50.749924,7.074037,50.749924],
+  "bbox": [
+    7.074037,
+    50.749924,
+    7.074037,
+    50.749924
+],
   "geometry": {"coordinates":[7.074037,50.749924],"type":"Point"}
 }

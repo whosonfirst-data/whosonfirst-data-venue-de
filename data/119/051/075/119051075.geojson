@@ -2,13 +2,14 @@
   "id": 119051075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.365941,51.448421,7.365941,51.448421",
     "geom:latitude":51.448421,
     "geom:longitude":7.365941,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Otto-Laue-Str. 9",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794743,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119051075,
-    "wof:lastmodified":1449042506,
+    "wof:lastmodified":1466215486,
     "wof:name":"Helmut Wiertz Architekt",
     "wof:parent_id":85794743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.365941,51.448421,7.365941,51.448421],
+  "bbox": [
+    7.365941,
+    51.448421,
+    7.365941,
+    51.448421
+],
   "geometry": {"coordinates":[7.365941,51.448421],"type":"Point"}
 }

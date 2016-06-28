@@ -2,13 +2,14 @@
   "id": 252735775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.683977,52.375324,9.683977,52.375324",
     "geom:latitude":52.375324,
     "geom:longitude":9.683977,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sichelstr. 1",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252735775,
-    "wof:lastmodified":1449006473,
+    "wof:lastmodified":1466219621,
     "wof:name":"Henkel Sichelwerke",
     "wof:parent_id":85899413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.683977,52.375324,9.683977,52.375324],
+  "bbox": [
+    9.683977,
+    52.375324,
+    9.683977,
+    52.375324
+],
   "geometry": {"coordinates":[9.683977,52.375324],"type":"Point"}
 }

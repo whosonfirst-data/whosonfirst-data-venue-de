@@ -2,13 +2,14 @@
   "id": 135363999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189115,48.779049,9.189115,48.779049",
     "geom:latitude":48.779049,
     "geom:longitude":9.189115,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werastr. 15-17",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795269,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135363999,
-    "wof:lastmodified":1449023646,
+    "wof:lastmodified":1466219337,
     "wof:name":"B\u00dcrgschaftsbank Baden-w\u00dcrttemberg Gmbh",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189115,48.779049,9.189115,48.779049],
+  "bbox": [
+    9.189115,
+    48.779049,
+    9.189115,
+    48.779049
+],
   "geometry": {"coordinates":[9.189115,48.779049],"type":"Point"}
 }

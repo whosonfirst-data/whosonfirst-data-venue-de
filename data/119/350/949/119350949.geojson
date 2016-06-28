@@ -2,13 +2,14 @@
   "id": 119350949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.37451,48.600765,10.37451,48.600765",
     "geom:latitude":48.600765,
     "geom:longitude":10.37451,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wittislinger Str. 2 a",
     "sg:city":"Haunsheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119350949,
-    "wof:lastmodified":1449042197,
+    "wof:lastmodified":1466239974,
     "wof:name":"Karl Zuber",
     "wof:parent_id":101784277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.37451,48.600765,10.37451,48.600765],
+  "bbox": [
+    10.37451,
+    48.600765,
+    10.37451,
+    48.600765
+],
   "geometry": {"coordinates":[10.37451,48.600765],"type":"Point"}
 }

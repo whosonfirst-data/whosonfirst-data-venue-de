@@ -2,13 +2,14 @@
   "id": 119149495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.236769,53.673923,10.236769,53.673923",
     "geom:latitude":53.673923,
     "geom:longitude":10.236769,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausplatz 16",
     "sg:city":"Ahrensburg",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064085,
-        85633111,
         85682517,
-        85899083
+        85633111,
+        85899083,
+        102064085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119149495,
-    "wof:lastmodified":1449040888,
+    "wof:lastmodified":1466224076,
     "wof:name":"Walter Stamer Architekt",
     "wof:parent_id":85899083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.236769,53.673923,10.236769,53.673923],
+  "bbox": [
+    10.236769,
+    53.673923,
+    10.236769,
+    53.673923
+],
   "geometry": {"coordinates":[10.236769,53.673923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119433973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.18995,53.644409,10.18995,53.644409",
     "geom:latitude":53.644409,
     "geom:longitude":10.18995,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eulenkrugstr. 74",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899601,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119433973,
-    "wof:lastmodified":1449041150,
+    "wof:lastmodified":1466242276,
     "wof:name":"Ernst Luther",
     "wof:parent_id":85899601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.18995,53.644409,10.18995,53.644409],
+  "bbox": [
+    10.18995,
+    53.644409,
+    10.18995,
+    53.644409
+],
   "geometry": {"coordinates":[10.18995,53.644409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135298933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.116042,47.955196,10.116042,47.955196",
     "geom:latitude":47.955196,
     "geom:longitude":10.116042,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Unterdorf 4",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135298933,
-    "wof:lastmodified":1449021822,
+    "wof:lastmodified":1466213715,
     "wof:name":"Manfred Habdank",
     "wof:parent_id":101828659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.116042,47.955196,10.116042,47.955196],
+  "bbox": [
+    10.116042,
+    47.955196,
+    10.116042,
+    47.955196
+],
   "geometry": {"coordinates":[10.116042,47.955196],"type":"Point"}
 }

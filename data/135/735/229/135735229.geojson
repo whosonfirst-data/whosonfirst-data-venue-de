@@ -2,13 +2,14 @@
   "id": 135735229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.447011,51.34613,12.447011,51.34613",
     "geom:latitude":51.34613,
     "geom:longitude":12.447011,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Riesaer Str. 37",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135735229,
-    "wof:lastmodified":1449023915,
+    "wof:lastmodified":1466243336,
     "wof:name":"B. Sch\u00f6nitz",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.447011,51.34613,12.447011,51.34613],
+  "bbox": [
+    12.447011,
+    51.34613,
+    12.447011,
+    51.34613
+],
   "geometry": {"coordinates":[12.447011,51.34613],"type":"Point"}
 }

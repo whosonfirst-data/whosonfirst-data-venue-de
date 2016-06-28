@@ -2,13 +2,14 @@
   "id": 135656701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.08791,50.833515,6.08791,50.833515",
     "geom:latitude":50.833515,
     "geom:longitude":6.08791,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulusstr. 15",
     "sg:city":"Herzogenrath",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85862955
+        85633111,
+        85862955,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135656701,
-    "wof:lastmodified":1449022972,
+    "wof:lastmodified":1466241117,
     "wof:name":"F. Ollig & U. Vranken Gbr",
     "wof:parent_id":85862955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.08791,50.833515,6.08791,50.833515],
+  "bbox": [
+    6.08791,
+    50.833515,
+    6.08791,
+    50.833515
+],
   "geometry": {"coordinates":[6.08791,50.833515],"type":"Point"}
 }

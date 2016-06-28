@@ -2,13 +2,14 @@
   "id": 185607471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545714,50.101322,8.545714,50.101322",
     "geom:latitude":50.101322,
     "geom:longitude":8.545714,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hostatostr. 17",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185607471,
-    "wof:lastmodified":1449006818,
+    "wof:lastmodified":1466213208,
     "wof:name":"Bernd Wesemeyer",
     "wof:parent_id":85795343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545714,50.101322,8.545714,50.101322],
+  "bbox": [
+    8.545714,
+    50.101322,
+    8.545714,
+    50.101322
+],
   "geometry": {"coordinates":[8.545714,50.101322],"type":"Point"}
 }

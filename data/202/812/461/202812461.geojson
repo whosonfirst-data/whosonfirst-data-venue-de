@@ -2,13 +2,14 @@
   "id": 202812461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.415005,52.565125,13.415005,52.565125",
     "geom:latitude":52.565125,
     "geom:longitude":13.415005,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Borkumstr. 3",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202812461,
-    "wof:lastmodified":1449060168,
+    "wof:lastmodified":1466221450,
     "wof:name":"Ulrich Fritzsche",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.415005,52.565125,13.415005,52.565125],
+  "bbox": [
+    13.415005,
+    52.565125,
+    13.415005,
+    52.565125
+],
   "geometry": {"coordinates":[13.415005,52.565125],"type":"Point"}
 }

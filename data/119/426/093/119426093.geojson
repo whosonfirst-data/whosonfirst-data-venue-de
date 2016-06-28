@@ -2,13 +2,14 @@
   "id": 119426093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.947725,50.178619,10.947725,50.178619",
     "geom:latitude":50.178619,
     "geom:longitude":10.947725,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandweg 3",
     "sg:city":"Gro\u00dfheirath",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119426093,
-    "wof:lastmodified":1449041369,
+    "wof:lastmodified":1466242290,
     "wof:name":"Heinrich Schramm",
     "wof:parent_id":101847859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.947725,50.178619,10.947725,50.178619],
+  "bbox": [
+    10.947725,
+    50.178619,
+    10.947725,
+    50.178619
+],
   "geometry": {"coordinates":[10.947725,50.178619],"type":"Point"}
 }

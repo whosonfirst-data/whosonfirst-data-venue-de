@@ -2,13 +2,14 @@
   "id": 135806105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.248897,52.422905,13.248897,52.422905",
     "geom:latitude":52.422905,
     "geom:longitude":13.248897,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Albertinenstr. 24",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135806105,
-    "wof:lastmodified":1449020976,
+    "wof:lastmodified":1466244080,
     "wof:name":"Berliner Blumenfabrikation Gerald Steyer",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.248897,52.422905,13.248897,52.422905],
+  "bbox": [
+    13.248897,
+    52.422905,
+    13.248897,
+    52.422905
+],
   "geometry": {"coordinates":[13.248897,52.422905],"type":"Point"}
 }

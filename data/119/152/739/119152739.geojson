@@ -2,13 +2,14 @@
   "id": 119152739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.237869,52.432297,13.237869,52.432297",
     "geom:latitude":52.432297,
     "geom:longitude":13.237869,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Oertzenweg 10 b",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119152739,
-    "wof:lastmodified":1449042881,
+    "wof:lastmodified":1466224364,
     "wof:name":"Werner P\u00fcttker Architekt",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.237869,52.432297,13.237869,52.432297],
+  "bbox": [
+    13.237869,
+    52.432297,
+    13.237869,
+    52.432297
+],
   "geometry": {"coordinates":[13.237869,52.432297],"type":"Point"}
 }

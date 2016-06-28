@@ -2,13 +2,14 @@
   "id": 102740101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.50178,49.432114,8.50178,49.432114",
     "geom:latitude":49.432114,
     "geom:longitude":8.50178,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Altrip",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -17,11 +18,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862825,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85862825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102740101,
-    "wof:lastmodified":1449068857,
+    "wof:lastmodified":1466217639,
     "wof:name":"Kom-serv",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.50178,49.432114,8.50178,49.432114],
+  "bbox": [
+    8.50178,
+    49.432114,
+    8.50178,
+    49.432114
+],
   "geometry": {"coordinates":[8.50178,49.432114],"type":"Point"}
 }

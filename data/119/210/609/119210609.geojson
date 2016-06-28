@@ -2,13 +2,14 @@
   "id": 119210609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.785312,51.000362,13.785312,51.000362",
     "geom:latitude":51.000362,
     "geom:longitude":13.785312,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Langobardenstr. 51",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899811,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119210609,
-    "wof:lastmodified":1449041685,
+    "wof:lastmodified":1466229754,
     "wof:name":"Jana Stolle",
     "wof:parent_id":85899811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.785312,51.000362,13.785312,51.000362],
+  "bbox": [
+    13.785312,
+    51.000362,
+    13.785312,
+    51.000362
+],
   "geometry": {"coordinates":[13.785312,51.000362],"type":"Point"}
 }

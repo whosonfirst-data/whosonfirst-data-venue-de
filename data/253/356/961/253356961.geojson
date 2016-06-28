@@ -2,13 +2,14 @@
   "id": 253356961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.431743,51.905102,10.431743,51.905102",
     "geom:latitude":51.905102,
     "geom:longitude":10.431743,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Knochenhauerstr. 7",
     "sg:city":"Goslar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253356961,
-    "wof:lastmodified":1449065243,
+    "wof:lastmodified":1466226010,
     "wof:name":"Hermann Timme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.431743,51.905102,10.431743,51.905102],
+  "bbox": [
+    10.431743,
+    51.905102,
+    10.431743,
+    51.905102
+],
   "geometry": {"coordinates":[10.431743,51.905102],"type":"Point"}
 }

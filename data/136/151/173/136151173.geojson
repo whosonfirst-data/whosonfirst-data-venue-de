@@ -2,13 +2,14 @@
   "id": 136151173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.926849,51.033051,6.926849,51.033051",
     "geom:latitude":51.033051,
     "geom:longitude":6.926849,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marconistra\u00dfe 7-9",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795655,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136151173,
-    "wof:lastmodified":1449074930,
+    "wof:lastmodified":1466218871,
     "wof:name":"Willkommen Bei Zapp Und Zimmermann",
     "wof:parent_id":85795655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.926849,51.033051,6.926849,51.033051],
+  "bbox": [
+    6.926849,
+    51.033051,
+    6.926849,
+    51.033051
+],
   "geometry": {"coordinates":[6.926849,51.033051],"type":"Point"}
 }

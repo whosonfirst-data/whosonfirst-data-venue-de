@@ -2,13 +2,14 @@
   "id": 287025123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.149238,52.842457,11.149238,52.842457",
     "geom:latitude":52.842457,
     "geom:longitude":11.149238,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Marschfeld 12",
     "sg:city":"Salzwedel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287025123,
-    "wof:lastmodified":1449001425,
+    "wof:lastmodified":1466225703,
     "wof:name":"Christian Fleischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.149238,52.842457,11.149238,52.842457],
+  "bbox": [
+    11.149238,
+    52.842457,
+    11.149238,
+    52.842457
+],
   "geometry": {"coordinates":[11.149238,52.842457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118631245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.051327,51.034866,7.051327,51.034866",
     "geom:latitude":51.034866,
     "geom:longitude":7.051327,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An St. Andreas 6",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796391,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85796391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118631245,
-    "wof:lastmodified":1449053581,
+    "wof:lastmodified":1466220046,
     "wof:name":"Kath. Altenheim St. Elisabeth",
     "wof:parent_id":85796391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.051327,51.034866,7.051327,51.034866],
+  "bbox": [
+    7.051327,
+    51.034866,
+    7.051327,
+    51.034866
+],
   "geometry": {"coordinates":[7.051327,51.034866],"type":"Point"}
 }

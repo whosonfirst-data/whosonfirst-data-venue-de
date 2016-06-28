@@ -2,13 +2,14 @@
   "id": 336928331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.63919,47.869095,12.63919,47.869095",
     "geom:latitude":47.869095,
     "geom:longitude":12.63919,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 11",
     "sg:city":"Traunstein",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336928331,
-    "wof:lastmodified":1448997877,
+    "wof:lastmodified":1466239316,
     "wof:name":"Camera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.63919,47.869095,12.63919,47.869095],
+  "bbox": [
+    12.63919,
+    47.869095,
+    12.63919,
+    47.869095
+],
   "geometry": {"coordinates":[12.63919,47.869095],"type":"Point"}
 }

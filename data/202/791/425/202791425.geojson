@@ -2,13 +2,14 @@
   "id": 202791425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.903105,48.360779,10.903105,48.360779",
     "geom:latitude":48.360779,
     "geom:longitude":10.903105,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 22",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202791425,
-    "wof:lastmodified":1449062073,
+    "wof:lastmodified":1466221088,
     "wof:name":"R. Schiele Kunstmaler",
     "wof:parent_id":85899507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.903105,48.360779,10.903105,48.360779],
+  "bbox": [
+    10.903105,
+    48.360779,
+    10.903105,
+    48.360779
+],
   "geometry": {"coordinates":[10.903105,48.360779],"type":"Point"}
 }

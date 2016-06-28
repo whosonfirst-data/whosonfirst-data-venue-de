@@ -2,13 +2,14 @@
   "id": 152933255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.403616,53.247345,10.403616,53.247345",
     "geom:latitude":53.247345,
     "geom:longitude":10.403616,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Salzstr. 1",
     "sg:city":"L\u00fcneburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152933255,
-    "wof:lastmodified":1449045251,
+    "wof:lastmodified":1466230194,
     "wof:name":"Securepoint Firewall Server Deutschland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.403616,53.247345,10.403616,53.247345],
+  "bbox": [
+    10.403616,
+    53.247345,
+    10.403616,
+    53.247345
+],
   "geometry": {"coordinates":[10.403616,53.247345],"type":"Point"}
 }

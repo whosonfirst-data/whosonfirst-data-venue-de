@@ -2,13 +2,14 @@
   "id": 286455705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.10519,48.224121,10.10519,48.224121",
     "geom:latitude":48.224121,
     "geom:longitude":10.10519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Martinsplatz 9",
     "sg:city":"Illertissen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286455705,
-    "wof:lastmodified":1449017646,
+    "wof:lastmodified":1466229077,
     "wof:name":"Johann Strobel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.10519,48.224121,10.10519,48.224121],
+  "bbox": [
+    10.10519,
+    48.224121,
+    10.10519,
+    48.224121
+],
   "geometry": {"coordinates":[10.10519,48.224121],"type":"Point"}
 }

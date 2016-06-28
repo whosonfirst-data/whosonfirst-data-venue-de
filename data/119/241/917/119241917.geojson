@@ -2,13 +2,14 @@
   "id": 119241917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.734102,51.479778,6.734102,51.479778",
     "geom:latitude":51.479778,
     "geom:longitude":6.734102,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange Kamp 5",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794699,
+        85682513,
         85633111,
         101748713,
         102063799,
-        85682513
+        85794699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119241917,
-    "wof:lastmodified":1449043502,
+    "wof:lastmodified":1466232804,
     "wof:name":"Stadtteilbibliothek Duisburg-beeck",
     "wof:parent_id":85794699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.734102,51.479778,6.734102,51.479778],
+  "bbox": [
+    6.734102,
+    51.479778,
+    6.734102,
+    51.479778
+],
   "geometry": {"coordinates":[6.734102,51.479778],"type":"Point"}
 }

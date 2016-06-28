@@ -2,13 +2,14 @@
   "id": 119074151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.433519,48.73621,11.433519,48.73621",
     "geom:latitude":48.73621,
     "geom:longitude":11.433519,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.-Maier-Str. 3",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899953,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119074151,
-    "wof:lastmodified":1449042281,
+    "wof:lastmodified":1466217659,
     "wof:name":"Karl Erwin Lutz Architekt",
     "wof:parent_id":85899953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.433519,48.73621,11.433519,48.73621],
+  "bbox": [
+    11.433519,
+    48.73621,
+    11.433519,
+    48.73621
+],
   "geometry": {"coordinates":[11.433519,48.73621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202735165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.66287,51.05555,13.66287,51.05555",
     "geom:latitude":51.05555,
     "geom:longitude":13.66287,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Altburgst\u00e4dtel 18",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202735165,
-    "wof:lastmodified":1449062575,
+    "wof:lastmodified":1466220073,
     "wof:name":"Johannes Peschel",
     "wof:parent_id":85899867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.66287,51.05555,13.66287,51.05555],
+  "bbox": [
+    13.66287,
+    51.05555,
+    13.66287,
+    51.05555
+],
   "geometry": {"coordinates":[13.66287,51.05555],"type":"Point"}
 }

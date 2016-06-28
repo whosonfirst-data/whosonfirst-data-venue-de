@@ -2,13 +2,14 @@
   "id": 152959391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.291243,52.51384,13.291243,52.51384",
     "geom:latitude":52.51384,
     "geom:longitude":13.291243,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Danckelmannstra\u00dfe 43",
     "sg:city":"Berlin-Charlottenburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900231,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152959391,
-    "wof:lastmodified":1449048460,
+    "wof:lastmodified":1466230825,
     "wof:name":"Taxibetrieb Oskar Karelle",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.291243,52.51384,13.291243,52.51384],
+  "bbox": [
+    13.291243,
+    52.51384,
+    13.291243,
+    52.51384
+],
   "geometry": {"coordinates":[13.291243,52.51384],"type":"Point"}
 }

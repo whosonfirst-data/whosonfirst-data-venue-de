@@ -2,13 +2,14 @@
   "id": 119101701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.566479,49.377934,8.566479,49.377934",
     "geom:latitude":49.377934,
     "geom:longitude":8.566479,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4lzigweg 33",
     "sg:city":"Schwetzingen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063481,
-        85633111,
         85682567,
-        85862815
+        85633111,
+        85862815,
+        102063481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119101701,
-    "wof:lastmodified":1449042250,
+    "wof:lastmodified":1466220194,
     "wof:name":"Norbert Schilling Architekt",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.566479,49.377934,8.566479,49.377934],
+  "bbox": [
+    8.566479,
+    49.377934,
+    8.566479,
+    49.377934
+],
   "geometry": {"coordinates":[8.566479,49.377934],"type":"Point"}
 }

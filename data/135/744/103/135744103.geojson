@@ -2,13 +2,14 @@
   "id": 135744103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.371787,51.338245,12.371787,51.338245",
     "geom:latitude":51.338245,
     "geom:longitude":12.371787,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dittrichring 2",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135744103,
-    "wof:lastmodified":1449022093,
+    "wof:lastmodified":1466243534,
     "wof:name":"Karsten J\u00e4ger",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.371787,51.338245,12.371787,51.338245],
+  "bbox": [
+    12.371787,
+    51.338245,
+    12.371787,
+    51.338245
+],
   "geometry": {"coordinates":[12.371787,51.338245],"type":"Point"}
 }

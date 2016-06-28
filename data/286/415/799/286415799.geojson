@@ -2,13 +2,14 @@
   "id": 286415799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.827225,48.5952,7.827225,48.5952",
     "geom:latitude":48.5952,
     "geom:longitude":7.827225,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Robert-Koch-Str. 5",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286415799,
-    "wof:lastmodified":1449017308,
+    "wof:lastmodified":1466228149,
     "wof:name":"Meissner Gmbh",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.827225,48.5952,7.827225,48.5952],
+  "bbox": [
+    7.827225,
+    48.5952,
+    7.827225,
+    48.5952
+],
   "geometry": {"coordinates":[7.827225,48.5952],"type":"Point"}
 }

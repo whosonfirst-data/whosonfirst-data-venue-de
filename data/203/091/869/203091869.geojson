@@ -2,13 +2,14 @@
   "id": 203091869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.461796,49.280125,11.461796,49.280125",
     "geom:latitude":49.280125,
     "geom:longitude":11.461796,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwesterhausgasse 2",
     "sg:city":"Neumarkt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203091869,
-    "wof:lastmodified":1449025126,
+    "wof:lastmodified":1466215366,
     "wof:name":"Andreas Salzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.461796,49.280125,11.461796,49.280125],
+  "bbox": [
+    11.461796,
+    49.280125,
+    11.461796,
+    49.280125
+],
   "geometry": {"coordinates":[11.461796,49.280125],"type":"Point"}
 }

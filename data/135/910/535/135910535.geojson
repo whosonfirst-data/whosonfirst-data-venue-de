@@ -2,13 +2,14 @@
   "id": 135910535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.361265,49.537766,8.361265,49.537766",
     "geom:latitude":49.537766,
     "geom:longitude":8.361265,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nachtweideweg 1",
     "sg:city":"Frankenthal",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063471,
-        85633111,
         85682491,
-        85795131
+        85633111,
+        85795131,
+        102063471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135910535,
-    "wof:lastmodified":1449022256,
+    "wof:lastmodified":1466244570,
     "wof:name":"Tarkett International Gmbh",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.361265,49.537766,8.361265,49.537766],
+  "bbox": [
+    8.361265,
+    49.537766,
+    8.361265,
+    49.537766
+],
   "geometry": {"coordinates":[8.361265,49.537766],"type":"Point"}
 }

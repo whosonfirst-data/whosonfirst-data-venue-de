@@ -2,13 +2,14 @@
   "id": 203340531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.114623,49.443489,11.114623,49.443489",
     "geom:latitude":49.443489,
     "geom:longitude":11.114623,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichenberger Str. 29",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203340531,
-    "wof:lastmodified":1449026403,
+    "wof:lastmodified":1466219505,
     "wof:name":"Fritz H\u00fcmmer",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.114623,49.443489,11.114623,49.443489],
+  "bbox": [
+    11.114623,
+    49.443489,
+    11.114623,
+    49.443489
+],
   "geometry": {"coordinates":[11.114623,49.443489],"type":"Point"}
 }

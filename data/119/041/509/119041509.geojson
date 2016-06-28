@@ -2,13 +2,14 @@
   "id": 119041509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390862,48.997154,8.390862,48.997154",
     "geom:latitude":48.997154,
     "geom:longitude":8.390862,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Graf-Rhena-Str. 9",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795045,
+        85682567,
         85633111,
         101748527,
         102063385,
-        85682567
+        85795045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119041509,
-    "wof:lastmodified":1449041738,
+    "wof:lastmodified":1466214619,
     "wof:name":"Heiner Baron Architekt",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.390862,48.997154,8.390862,48.997154],
+  "bbox": [
+    8.390862,
+    48.997154,
+    8.390862,
+    48.997154
+],
   "geometry": {"coordinates":[8.390862,48.997154],"type":"Point"}
 }

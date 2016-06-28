@@ -2,13 +2,14 @@
   "id": 269581019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.36107,52.570595,13.36107,52.570595",
     "geom:latitude":52.570595,
     "geom:longitude":13.36107,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Residenzstr. 138",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269581019,
-    "wof:lastmodified":1449036656,
+    "wof:lastmodified":1466223144,
     "wof:name":"Schaber Gmbh",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.36107,52.570595,13.36107,52.570595],
+  "bbox": [
+    13.36107,
+    52.570595,
+    13.36107,
+    52.570595
+],
   "geometry": {"coordinates":[13.36107,52.570595],"type":"Point"}
 }

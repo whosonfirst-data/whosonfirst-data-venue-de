@@ -2,13 +2,14 @@
   "id": 135303359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.422509,51.793591,9.422509,51.793591",
     "geom:latitude":51.793591,
     "geom:longitude":9.422509,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grashofstr. 20",
     "sg:city":"H\u00f6xter",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135303359,
-    "wof:lastmodified":1449021015,
+    "wof:lastmodified":1466214079,
     "wof:name":"O. Frewert",
     "wof:parent_id":101907667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.422509,51.793591,9.422509,51.793591],
+  "bbox": [
+    9.422509,
+    51.793591,
+    9.422509,
+    51.793591
+],
   "geometry": {"coordinates":[9.422509,51.793591],"type":"Point"}
 }

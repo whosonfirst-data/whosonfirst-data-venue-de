@@ -2,13 +2,14 @@
   "id": 202705023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.29752,52.501755,13.29752,52.501755",
     "geom:latitude":52.501755,
     "geom:longitude":13.29752,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sybelstr. 35",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202705023,
-    "wof:lastmodified":1449062664,
+    "wof:lastmodified":1466219512,
     "wof:name":"Hans Hartmann Kunstmaler",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.29752,52.501755,13.29752,52.501755],
+  "bbox": [
+    13.29752,
+    52.501755,
+    13.29752,
+    52.501755
+],
   "geometry": {"coordinates":[13.29752,52.501755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135877727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.218508,50.095875,8.218508,50.095875",
     "geom:latitude":50.095875,
     "geom:longitude":8.218508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Unter den Eichen 5",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063579,
-        85633111,
         85682531,
-        85795157
+        85633111,
+        85795157,
+        102063579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135877727,
-    "wof:lastmodified":1449023120,
+    "wof:lastmodified":1466244440,
     "wof:name":"Av Zweitausend Verwaltungs- Ges. Mbh",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.218508,50.095875,8.218508,50.095875],
+  "bbox": [
+    8.218508,
+    50.095875,
+    8.218508,
+    50.095875
+],
   "geometry": {"coordinates":[8.218508,50.095875],"type":"Point"}
 }

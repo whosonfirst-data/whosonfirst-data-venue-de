@@ -2,13 +2,14 @@
   "id": 202903211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.999753,53.55323,9.999753,53.55323",
     "geom:latitude":53.55323,
     "geom:longitude":9.999753,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Raboisen 38",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202903211,
-    "wof:lastmodified":1449060261,
+    "wof:lastmodified":1466223203,
     "wof:name":"Seaways Linienagenturen Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.999753,53.55323,9.999753,53.55323],
+  "bbox": [
+    9.999753,
+    53.55323,
+    9.999753,
+    53.55323
+],
   "geometry": {"coordinates":[9.999753,53.55323],"type":"Point"}
 }

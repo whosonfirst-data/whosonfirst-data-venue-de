@@ -2,13 +2,14 @@
   "id": 135726055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.534527,52.512363,13.534527,52.512363",
     "geom:latitude":52.512363,
     "geom:longitude":13.534527,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gensinger Str. 63",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898993,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85898993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135726055,
-    "wof:lastmodified":1449023068,
+    "wof:lastmodified":1466243049,
     "wof:name":"Bht Hausverwaltung Und Baubetreuung Gmbh",
     "wof:parent_id":85898993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.534527,52.512363,13.534527,52.512363],
+  "bbox": [
+    13.534527,
+    52.512363,
+    13.534527,
+    52.512363
+],
   "geometry": {"coordinates":[13.534527,52.512363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203128483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.111985,50.490513,12.111985,50.490513",
     "geom:latitude":50.490513,
     "geom:longitude":12.111985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Nach dem Seehaus 33",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203128483,
-    "wof:lastmodified":1449025650,
+    "wof:lastmodified":1466216003,
     "wof:name":"Bernd Hegner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.111985,50.490513,12.111985,50.490513],
+  "bbox": [
+    12.111985,
+    50.490513,
+    12.111985,
+    50.490513
+],
   "geometry": {"coordinates":[12.111985,50.490513],"type":"Point"}
 }

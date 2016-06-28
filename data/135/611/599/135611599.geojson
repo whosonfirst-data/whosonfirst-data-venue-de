@@ -2,13 +2,14 @@
   "id": 135611599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.102305,53.528404,10.102305,53.528404",
     "geom:latitude":53.528404,
     "geom:longitude":10.102305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Werner-Siemens-Str. 89",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900015,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85900015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135611599,
-    "wof:lastmodified":1449023384,
+    "wof:lastmodified":1466239738,
     "wof:name":"Westphal Baumaschinen- Handel Gmbh",
     "wof:parent_id":85900015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.102305,53.528404,10.102305,53.528404],
+  "bbox": [
+    10.102305,
+    53.528404,
+    10.102305,
+    53.528404
+],
   "geometry": {"coordinates":[10.102305,53.528404],"type":"Point"}
 }

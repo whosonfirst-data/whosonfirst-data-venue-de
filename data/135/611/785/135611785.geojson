@@ -2,13 +2,14 @@
   "id": 135611785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.823035,51.239021,6.823035,51.239021",
     "geom:latitude":51.239021,
     "geom:longitude":6.823035,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafenberger Allee 348",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795051,
+        85682513,
         85633111,
         101748671,
         102063759,
-        85682513
+        85795051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135611785,
-    "wof:lastmodified":1449023387,
+    "wof:lastmodified":1466239904,
     "wof:name":"F. E. L. I. X. Gmbh Kanal-tv Transport Gmbh",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.823035,51.239021,6.823035,51.239021],
+  "bbox": [
+    6.823035,
+    51.239021,
+    6.823035,
+    51.239021
+],
   "geometry": {"coordinates":[6.823035,51.239021],"type":"Point"}
 }

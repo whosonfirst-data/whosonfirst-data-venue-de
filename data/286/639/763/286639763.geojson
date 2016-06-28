@@ -2,13 +2,14 @@
   "id": 286639763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.330792,47.982647,11.330792,47.982647",
     "geom:latitude":47.982647,
     "geom:longitude":11.330792,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilotystr. 5",
     "sg:city":"Starnberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286639763,
-    "wof:lastmodified":1449018071,
+    "wof:lastmodified":1466233683,
     "wof:name":"Georg Meier Wettannahme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.330792,47.982647,11.330792,47.982647],
+  "bbox": [
+    11.330792,
+    47.982647,
+    11.330792,
+    47.982647
+],
   "geometry": {"coordinates":[11.330792,47.982647],"type":"Point"}
 }

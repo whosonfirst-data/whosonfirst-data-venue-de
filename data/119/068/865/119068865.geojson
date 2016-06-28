@@ -2,13 +2,14 @@
   "id": 119068865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.182057,50.708866,6.182057,50.708866",
     "geom:latitude":50.708866,
     "geom:longitude":6.182057,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"In den Hehnen 17",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063693,
-        85633111,
         85682513,
-        85796671
+        85633111,
+        85796671,
+        102063693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119068865,
-    "wof:lastmodified":1449042211,
+    "wof:lastmodified":1466217184,
     "wof:name":"Joseph Wolff Architekt",
     "wof:parent_id":85796671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.182057,50.708866,6.182057,50.708866],
+  "bbox": [
+    6.182057,
+    50.708866,
+    6.182057,
+    50.708866
+],
   "geometry": {"coordinates":[6.182057,50.708866],"type":"Point"}
 }

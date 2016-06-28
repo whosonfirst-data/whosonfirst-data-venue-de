@@ -2,13 +2,14 @@
   "id": 135279185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.420258,27.20269,-113.420258,27.20269",
     "geom:latitude":27.20269,
     "geom:longitude":-113.420258,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 185",
     "sg:city":"Kirchdorf",
     "sg:classifiers":[],
@@ -34,14 +35,20 @@
         }
     ],
     "wof:id":135279185,
-    "wof:lastmodified":1449022405,
+    "wof:lastmodified":1466224975,
     "wof:name":"J. Groth",
     "wof:parent_id":85686555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.420258,27.20269,-113.420258,27.20269],
+  "bbox": [
+    -113.420258,
+    27.20269,
+    -113.420258,
+    27.20269
+],
   "geometry": {"coordinates":[-113.420258,27.20269],"type":"Point"}
 }

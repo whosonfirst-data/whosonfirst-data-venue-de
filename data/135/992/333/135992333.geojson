@@ -2,13 +2,14 @@
   "id": 135992333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.375762,48.982517,8.375762,48.982517",
     "geom:latitude":48.982517,
     "geom:longitude":8.375762,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Mittelfeld 8",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063403,
-        85633111,
         85682567,
-        85794987
+        85633111,
+        85794987,
+        102063403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135992333,
-    "wof:lastmodified":1449022442,
+    "wof:lastmodified":1466244913,
     "wof:name":"Rsc Verwaltungs Gmbh",
     "wof:parent_id":85794987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.375762,48.982517,8.375762,48.982517],
+  "bbox": [
+    8.375762,
+    48.982517,
+    8.375762,
+    48.982517
+],
   "geometry": {"coordinates":[8.375762,48.982517],"type":"Point"}
 }

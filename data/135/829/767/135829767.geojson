@@ -2,13 +2,14 @@
   "id": 135829767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435433,51.420944,7.435433,51.420944",
     "geom:latitude":51.420944,
     "geom:longitude":7.435433,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostender Weg 2",
     "sg:city":"Herdecke",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795459,
+        85682513,
         85633111,
         101914223,
         102063779,
-        85682513
+        85795459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135829767,
-    "wof:lastmodified":1449023803,
+    "wof:lastmodified":1466244238,
     "wof:name":"Hartmut Platt",
     "wof:parent_id":85795459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435433,51.420944,7.435433,51.420944],
+  "bbox": [
+    7.435433,
+    51.420944,
+    7.435433,
+    51.420944
+],
   "geometry": {"coordinates":[7.435433,51.420944],"type":"Point"}
 }

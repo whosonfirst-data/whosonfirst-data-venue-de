@@ -2,13 +2,14 @@
   "id": 118509467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.00992,53.608559,10.00992,53.608559",
     "geom:latitude":53.608559,
     "geom:longitude":10.00992,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Hamburg",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898947,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118509467,
-    "wof:lastmodified":1449053196,
+    "wof:lastmodified":1466233848,
     "wof:name":"The Buddhas",
     "wof:parent_id":85898947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.00992,53.608559,10.00992,53.608559],
+  "bbox": [
+    10.00992,
+    53.608559,
+    10.00992,
+    53.608559
+],
   "geometry": {"coordinates":[10.00992,53.608559],"type":"Point"}
 }

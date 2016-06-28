@@ -2,13 +2,14 @@
   "id": 270479291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.273305,48.016148,10.273305,48.016148",
     "geom:latitude":48.016148,
     "geom:longitude":10.273305,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 12",
     "sg:city":"Ungerhausen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270479291,
-    "wof:lastmodified":1449010340,
+    "wof:lastmodified":1466233095,
     "wof:name":"Peter Stahl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.273305,48.016148,10.273305,48.016148],
+  "bbox": [
+    10.273305,
+    48.016148,
+    10.273305,
+    48.016148
+],
   "geometry": {"coordinates":[10.273305,48.016148],"type":"Point"}
 }

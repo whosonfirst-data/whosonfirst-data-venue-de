@@ -2,13 +2,14 @@
   "id": 118985779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.982252,53.5881,9.982252,53.5881",
     "geom:latitude":53.5881,
     "geom:longitude":9.982252,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenhartzstr. 21",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118985779,
-    "wof:lastmodified":1449053841,
+    "wof:lastmodified":1466239481,
     "wof:name":"Burkhard Mildner Hamburg",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.982252,53.5881,9.982252,53.5881],
+  "bbox": [
+    9.982252,
+    53.5881,
+    9.982252,
+    53.5881
+],
   "geometry": {"coordinates":[9.982252,53.5881],"type":"Point"}
 }

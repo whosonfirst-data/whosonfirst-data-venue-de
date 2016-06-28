@@ -2,13 +2,14 @@
   "id": 118979701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.219356,48.804974,9.219356,48.804974",
     "geom:latitude":48.804974,
     "geom:longitude":9.219356,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Daimlerstr. 27",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794875,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85794875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118979701,
-    "wof:lastmodified":1449054135,
+    "wof:lastmodified":1466238908,
     "wof:name":"Back Grimm Und Partner",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.219356,48.804974,9.219356,48.804974],
+  "bbox": [
+    9.219356,
+    48.804974,
+    9.219356,
+    48.804974
+],
   "geometry": {"coordinates":[9.219356,48.804974],"type":"Point"}
 }

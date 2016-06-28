@@ -2,13 +2,14 @@
   "id": 336762499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.128344,47.847225,11.128344,47.847225",
     "geom:latitude":47.847225,
     "geom:longitude":11.128344,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwattachweg 17",
     "sg:city":"Weilheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336762499,
-    "wof:lastmodified":1448997695,
+    "wof:lastmodified":1466236882,
     "wof:name":"Andreas Bosch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.128344,47.847225,11.128344,47.847225],
+  "bbox": [
+    11.128344,
+    47.847225,
+    11.128344,
+    47.847225
+],
   "geometry": {"coordinates":[11.128344,47.847225],"type":"Point"}
 }

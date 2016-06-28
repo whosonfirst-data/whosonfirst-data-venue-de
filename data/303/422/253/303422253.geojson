@@ -2,13 +2,14 @@
   "id": 303422253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.164161,49.872128,9.164161,49.872128",
     "geom:latitude":49.872128,
     "geom:longitude":9.164161,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstr. 10",
     "sg:city":"Kleinwallstadt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303422253,
-    "wof:lastmodified":1448998292,
+    "wof:lastmodified":1466235045,
     "wof:name":"Zeh Druck Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.164161,49.872128,9.164161,49.872128],
+  "bbox": [
+    9.164161,
+    49.872128,
+    9.164161,
+    49.872128
+],
   "geometry": {"coordinates":[9.164161,49.872128],"type":"Point"}
 }

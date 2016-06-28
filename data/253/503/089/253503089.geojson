@@ -2,13 +2,14 @@
   "id": 253503089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.801008,48.195442,11.801008,48.195442",
     "geom:latitude":48.195442,
     "geom:longitude":11.801008,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Geltinger Str. 22",
     "sg:city":"Pliening",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253503089,
-    "wof:lastmodified":1449065816,
+    "wof:lastmodified":1466229213,
     "wof:name":"Josef Waldinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.801008,48.195442,11.801008,48.195442],
+  "bbox": [
+    11.801008,
+    48.195442,
+    11.801008,
+    48.195442
+],
   "geometry": {"coordinates":[11.801008,48.195442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118782707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.628823,48.152309,11.628823,48.152309",
     "geom:latitude":48.152309,
     "geom:longitude":11.628823,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Vollmannstr. 57",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899089,
+        85682571,
         85633111,
         101748479,
         102063261,
-        85682571
+        85899089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118782707,
-    "wof:lastmodified":1449053140,
+    "wof:lastmodified":1466228723,
     "wof:name":"E. Littomericzky Antiquit\u00e4ten",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.628823,48.152309,11.628823,48.152309],
+  "bbox": [
+    11.628823,
+    48.152309,
+    11.628823,
+    48.152309
+],
   "geometry": {"coordinates":[11.628823,48.152309],"type":"Point"}
 }

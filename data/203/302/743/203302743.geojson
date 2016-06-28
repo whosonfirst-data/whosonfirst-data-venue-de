@@ -2,13 +2,14 @@
   "id": 203302743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.411153,52.402348,13.411153,52.402348",
     "geom:latitude":52.402348,
     "geom:longitude":13.411153,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Angerm\u00fcnder Str. 1 c",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203302743,
-    "wof:lastmodified":1449025552,
+    "wof:lastmodified":1466218900,
     "wof:name":"Frank Jacobi",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.411153,52.402348,13.411153,52.402348],
+  "bbox": [
+    13.411153,
+    52.402348,
+    13.411153,
+    52.402348
+],
   "geometry": {"coordinates":[13.411153,52.402348],"type":"Point"}
 }

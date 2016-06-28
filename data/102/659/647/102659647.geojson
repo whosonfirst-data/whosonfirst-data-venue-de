@@ -2,13 +2,14 @@
   "id": 102659647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.410309,32.879776,-91.410309,32.879776",
     "geom:latitude":32.879776,
     "geom:longitude":-91.410309,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Weil",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -34,14 +35,20 @@
         }
     ],
     "wof:id":102659647,
-    "wof:lastmodified":1449068056,
+    "wof:lastmodified":1466215057,
     "wof:name":"Kreissparkasse B\u00f6blingen",
     "wof:parent_id":85688735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.410309,32.879776,-91.410309,32.879776],
+  "bbox": [
+    -91.410309,
+    32.879776,
+    -91.410309,
+    32.879776
+],
   "geometry": {"coordinates":[-91.410309,32.879776],"type":"Point"}
 }

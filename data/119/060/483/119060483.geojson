@@ -2,13 +2,14 @@
   "id": 119060483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.980775,53.575047,9.980775,53.575047",
     "geom:latitude":53.575047,
     "geom:longitude":9.980775,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brahmsallee 37",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898969,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85898969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119060483,
-    "wof:lastmodified":1449043292,
+    "wof:lastmodified":1466216383,
     "wof:name":"Icardi Und Hack Gbr",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.980775,53.575047,9.980775,53.575047],
+  "bbox": [
+    9.980775,
+    53.575047,
+    9.980775,
+    53.575047
+],
   "geometry": {"coordinates":[9.980775,53.575047],"type":"Point"}
 }

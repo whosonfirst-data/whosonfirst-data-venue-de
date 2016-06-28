@@ -2,13 +2,14 @@
   "id": 270000241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.546791,48.104385,11.546791,48.104385",
     "geom:latitude":48.104385,
     "geom:longitude":11.546791,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pullacher Str. 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270000241,
-    "wof:lastmodified":1449009022,
+    "wof:lastmodified":1466235291,
     "wof:name":"J\u00fcrgen Fladung",
     "wof:parent_id":85900135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.546791,48.104385,11.546791,48.104385],
+  "bbox": [
+    11.546791,
+    48.104385,
+    11.546791,
+    48.104385
+],
   "geometry": {"coordinates":[11.546791,48.104385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236481123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.82758,52.341576,9.82758,52.341576",
     "geom:latitude":52.341576,
     "geom:longitude":9.82758,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brabeckstr. 169",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236481123,
-    "wof:lastmodified":1449004739,
+    "wof:lastmodified":1466227621,
     "wof:name":"Eberhard Von Graevemeyer",
     "wof:parent_id":85899629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.82758,52.341576,9.82758,52.341576],
+  "bbox": [
+    9.82758,
+    52.341576,
+    9.82758,
+    52.341576
+],
   "geometry": {"coordinates":[9.82758,52.341576],"type":"Point"}
 }

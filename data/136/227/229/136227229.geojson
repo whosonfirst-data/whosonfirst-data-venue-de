@@ -2,13 +2,14 @@
   "id": 136227229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.476901,51.253681,9.476901,51.253681",
     "geom:latitude":51.253681,
     "geom:longitude":9.476901,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 86",
     "sg:city":"Fuldabr\u00fcck",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899739,
+        85682531,
         85633111,
         101748659,
         102063755,
-        85682531
+        85899739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136227229,
-    "wof:lastmodified":1449075186,
+    "wof:lastmodified":1466222835,
     "wof:name":"K. D\u00f6ring",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.476901,51.253681,9.476901,51.253681],
+  "bbox": [
+    9.476901,
+    51.253681,
+    9.476901,
+    51.253681
+],
   "geometry": {"coordinates":[9.476901,51.253681],"type":"Point"}
 }

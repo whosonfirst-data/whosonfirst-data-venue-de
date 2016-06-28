@@ -2,13 +2,14 @@
   "id": 119109221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.250455,52.436733,13.250455,52.436733",
     "geom:latitude":52.436733,
     "geom:longitude":13.250455,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergmannstr. 3",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899127,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85899127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119109221,
-    "wof:lastmodified":1449041707,
+    "wof:lastmodified":1466220913,
     "wof:name":"Peter R\u00f6mer Architekt",
     "wof:parent_id":85899127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.250455,52.436733,13.250455,52.436733],
+  "bbox": [
+    13.250455,
+    52.436733,
+    13.250455,
+    52.436733
+],
   "geometry": {"coordinates":[13.250455,52.436733],"type":"Point"}
 }

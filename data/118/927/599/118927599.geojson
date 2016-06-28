@@ -2,13 +2,14 @@
   "id": 118927599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.834872,48.604179,7.834872,48.604179",
     "geom:latitude":48.604179,
     "geom:longitude":7.834872,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburger Str. 19",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118927599,
-    "wof:lastmodified":1449054401,
+    "wof:lastmodified":1466236985,
     "wof:name":"Rhein-apotheke Annick Riedel",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.834872,48.604179,7.834872,48.604179],
+  "bbox": [
+    7.834872,
+    48.604179,
+    7.834872,
+    48.604179
+],
   "geometry": {"coordinates":[7.834872,48.604179],"type":"Point"}
 }

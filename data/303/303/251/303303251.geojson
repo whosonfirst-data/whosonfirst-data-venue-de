@@ -2,13 +2,14 @@
   "id": 303303251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.566858,50.701412,10.566858,50.701412",
     "geom:latitude":50.701412,
     "geom:longitude":10.566858,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Bismarckstr. 45",
     "sg:city":"Steinbach-Hallenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303303251,
-    "wof:lastmodified":1448998139,
+    "wof:lastmodified":1466231971,
     "wof:name":"Albert Beckmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.566858,50.701412,10.566858,50.701412],
+  "bbox": [
+    10.566858,
+    50.701412,
+    10.566858,
+    50.701412
+],
   "geometry": {"coordinates":[10.566858,50.701412],"type":"Point"}
 }

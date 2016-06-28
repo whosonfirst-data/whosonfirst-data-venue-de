@@ -2,13 +2,14 @@
   "id": 135471867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.375202,53.810806,10.375202,53.810806",
     "geom:latitude":53.810806,
     "geom:longitude":10.375202,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 102025:: 34020 Kassel:: Germany.^^Friedrich Ebert Str 160::",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135471867,
-    "wof:lastmodified":1449022208,
+    "wof:lastmodified":1466229004,
     "wof:name":"Wirtschafts-und Aufbaugesellschaft Stormarn Mbh",
     "wof:parent_id":101818761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.375202,53.810806,10.375202,53.810806],
+  "bbox": [
+    10.375202,
+    53.810806,
+    10.375202,
+    53.810806
+],
   "geometry": {"coordinates":[10.375202,53.810806],"type":"Point"}
 }

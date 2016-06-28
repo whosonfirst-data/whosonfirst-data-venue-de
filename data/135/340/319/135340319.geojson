@@ -2,13 +2,14 @@
   "id": 135340319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.105566,49.267643,7.105566,49.267643",
     "geom:latitude":49.267643,
     "geom:longitude":7.105566,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ensheimer Str. 127",
     "sg:city":"St. Ingbert",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063437,
-        85633111,
         85682479,
-        85796383
+        85633111,
+        85796383,
+        102063437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135340319,
-    "wof:lastmodified":1449023338,
+    "wof:lastmodified":1466217195,
     "wof:name":"B\u00e4ckerei - Konditorei Werner Kayser",
     "wof:parent_id":85796383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.105566,49.267643,7.105566,49.267643],
+  "bbox": [
+    7.105566,
+    49.267643,
+    7.105566,
+    49.267643
+],
   "geometry": {"coordinates":[7.105566,49.267643],"type":"Point"}
 }

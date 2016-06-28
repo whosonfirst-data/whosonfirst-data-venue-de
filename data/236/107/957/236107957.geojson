@@ -2,13 +2,14 @@
   "id": 236107957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.139179,49.387646,12.139179,49.387646",
     "geom:latitude":49.387646,
     "geom:longitude":12.139179,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neue Amberger Str. 10",
     "sg:city":"Schwarzenfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236107957,
-    "wof:lastmodified":1449001686,
+    "wof:lastmodified":1466220769,
     "wof:name":"Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.139179,49.387646,12.139179,49.387646],
+  "bbox": [
+    12.139179,
+    49.387646,
+    12.139179,
+    49.387646
+],
   "geometry": {"coordinates":[12.139179,49.387646],"type":"Point"}
 }

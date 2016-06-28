@@ -2,13 +2,14 @@
   "id": 102738891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.038508,51.47863,7.038508,51.47863",
     "geom:latitude":51.47863,
     "geom:longitude":7.038508,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"Essen",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -16,11 +17,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795441,
+        85682513,
         85633111,
         101748709,
         102063791,
-        85682513
+        85795441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":102738891,
-    "wof:lastmodified":1449069567,
+    "wof:lastmodified":1466217558,
     "wof:name":"Flexi Bell",
     "wof:parent_id":85795441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.038508,51.47863,7.038508,51.47863],
+  "bbox": [
+    7.038508,
+    51.47863,
+    7.038508,
+    51.47863
+],
   "geometry": {"coordinates":[7.038508,51.47863],"type":"Point"}
 }

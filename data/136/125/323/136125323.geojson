@@ -2,13 +2,14 @@
   "id": 136125323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.433197,23.516069,-102.433197,23.516069",
     "geom:latitude":23.516069,
     "geom:longitude":-102.433197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lebstr. 19",
     "sg:city":"Brumthal",
     "sg:classifiers":[],
@@ -33,14 +34,20 @@
         }
     ],
     "wof:id":136125323,
-    "wof:lastmodified":1449076220,
+    "wof:lastmodified":1466217792,
     "wof:name":"Slips, H\u00f6schen, W\u00e4sche, Getragene Unterw\u00e4sche",
     "wof:parent_id":85686567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.433197,23.516069,-102.433197,23.516069],
-  "geometry": {"coordinates":[-102.433197,23.516069],"type":"Point"}
+  "bbox": [
+    -102.433197,
+    23.516069,
+    -102.433197,
+    23.516069
+],
+  "geometry": {"coordinates":[-102.43319700000001,23.516069],"type":"Point"}
 }

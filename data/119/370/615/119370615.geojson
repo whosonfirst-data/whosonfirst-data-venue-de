@@ -2,13 +2,14 @@
   "id": 119370615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.036453,49.753487,10.036453,49.753487",
     "geom:latitude":49.753487,
     "geom:longitude":10.036453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Biebelrieder Str. 6",
     "sg:city":"Theilheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119370615,
-    "wof:lastmodified":1449042300,
+    "wof:lastmodified":1466240645,
     "wof:name":"Reinhard Schenk",
     "wof:parent_id":101813275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.036453,49.753487,10.036453,49.753487],
+  "bbox": [
+    10.036453,
+    49.753487,
+    10.036453,
+    49.753487
+],
   "geometry": {"coordinates":[10.036453,49.753487],"type":"Point"}
 }

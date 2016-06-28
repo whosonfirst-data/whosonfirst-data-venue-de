@@ -2,13 +2,14 @@
   "id": 118520363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.744278,32.50724,-93.744278,32.50724",
     "geom:latitude":32.50724,
     "geom:longitude":-93.744278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Benzstrasse 17::",
     "sg:city":"Sch\u00f6nalch",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880977,
+        85688735,
         85633793,
         85947997,
         102084883,
-        85688735
+        85880977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118520363,
-    "wof:lastmodified":1449053604,
+    "wof:lastmodified":1466213613,
     "wof:name":"Gesellschaft Fur Finanzstrategien (gfs)",
     "wof:parent_id":85880977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.744278,32.50724,-93.744278,32.50724],
-  "geometry": {"coordinates":[-93.744278,32.50724],"type":"Point"}
+  "bbox": [
+    -93.744278,
+    32.50724,
+    -93.744278,
+    32.50724
+],
+  "geometry": {"coordinates":[-93.74427799999999,32.50724],"type":"Point"}
 }

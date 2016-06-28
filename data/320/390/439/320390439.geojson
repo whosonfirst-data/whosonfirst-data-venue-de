@@ -2,13 +2,14 @@
   "id": 320390439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.630293,52.157471,11.630293,52.157471",
     "geom:latitude":52.157471,
     "geom:longitude":11.630293,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolmirstedter Str. 3",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320390439,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466240058,
     "wof:name":"T. Knabe",
     "wof:parent_id":85899391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.630293,52.157471,11.630293,52.157471],
+  "bbox": [
+    11.630293,
+    52.157471,
+    11.630293,
+    52.157471
+],
   "geometry": {"coordinates":[11.630293,52.157471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135446793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.411499,50.581783,10.411499,50.581783",
     "geom:latitude":50.581783,
     "geom:longitude":10.411499,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammstr. 30",
     "sg:city":"Meiningen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135446793,
-    "wof:lastmodified":1449023752,
+    "wof:lastmodified":1466226886,
     "wof:name":"Staatsbank Berlin",
     "wof:parent_id":101824663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.411499,50.581783,10.411499,50.581783],
+  "bbox": [
+    10.411499,
+    50.581783,
+    10.411499,
+    50.581783
+],
   "geometry": {"coordinates":[10.411499,50.581783],"type":"Point"}
 }

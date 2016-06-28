@@ -2,13 +2,14 @@
   "id": 135535677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.850183,53.611145,9.850183,53.611145",
     "geom:latitude":53.611145,
     "geom:longitude":9.850183,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichendorffstr. 19",
     "sg:city":"Schenefeld",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899299,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135535677,
-    "wof:lastmodified":1449021522,
+    "wof:lastmodified":1466234896,
     "wof:name":"Verkehrsabsicherung Selling Gmbh",
     "wof:parent_id":85899299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.850183,53.611145,9.850183,53.611145],
+  "bbox": [
+    9.850183,
+    53.611145,
+    9.850183,
+    53.611145
+],
   "geometry": {"coordinates":[9.850183,53.611145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203118023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.882101,51.638893,12.882101,51.638893",
     "geom:latitude":51.638893,
     "geom:longitude":12.882101,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Leipziger Str. 9-10",
     "sg:city":"Dommitzsch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203118023,
-    "wof:lastmodified":1449026479,
+    "wof:lastmodified":1466215822,
     "wof:name":"B. Seifert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.882101,51.638893,12.882101,51.638893],
+  "bbox": [
+    12.882101,
+    51.638893,
+    12.882101,
+    51.638893
+],
   "geometry": {"coordinates":[12.882101,51.638893],"type":"Point"}
 }

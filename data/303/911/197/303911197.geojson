@@ -2,13 +2,14 @@
   "id": 303911197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.076606,48.447506,10.076606,48.447506",
     "geom:latitude":48.447506,
     "geom:longitude":10.076606,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenweg 19",
     "sg:city":"Elchingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303911197,
-    "wof:lastmodified":1449000163,
+    "wof:lastmodified":1466241319,
     "wof:name":"Herbert Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.076606,48.447506,10.076606,48.447506],
+  "bbox": [
+    10.076606,
+    48.447506,
+    10.076606,
+    48.447506
+],
   "geometry": {"coordinates":[10.076606,48.447506],"type":"Point"}
 }

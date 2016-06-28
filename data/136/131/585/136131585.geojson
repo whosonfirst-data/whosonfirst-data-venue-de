@@ -2,13 +2,14 @@
   "id": 136131585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.16032,48.771313,9.16032,48.771313",
     "geom:latitude":48.771313,
     "geom:longitude":9.16032,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"roteb\u00fchlstra\u00dfe 86 a",
     "sg:city":"stuttgart",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795469,
+        85682567,
         85633111,
         101748509,
         102063349,
-        85682567
+        85795469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136131585,
-    "wof:lastmodified":1449075287,
+    "wof:lastmodified":1466218050,
     "wof:name":"Stuttgart Solar E.v.",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.16032,48.771313,9.16032,48.771313],
+  "bbox": [
+    9.16032,
+    48.771313,
+    9.16032,
+    48.771313
+],
   "geometry": {"coordinates":[9.16032,48.771313],"type":"Point"}
 }

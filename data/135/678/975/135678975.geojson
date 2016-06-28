@@ -2,13 +2,14 @@
   "id": 135678975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.036066,51.186348,7.036066,51.186348",
     "geom:latitude":51.186348,
     "geom:longitude":7.036066,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wittkuller Str. 58",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796725,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85796725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135678975,
-    "wof:lastmodified":1449022480,
+    "wof:lastmodified":1466241914,
     "wof:name":"Karl Kirschbaum Gmbh",
     "wof:parent_id":85796725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.036066,51.186348,7.036066,51.186348],
+  "bbox": [
+    7.036066,
+    51.186348,
+    7.036066,
+    51.186348
+],
   "geometry": {"coordinates":[7.036066,51.186348],"type":"Point"}
 }

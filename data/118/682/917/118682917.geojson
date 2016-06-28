@@ -2,13 +2,14 @@
   "id": 118682917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.817913,52.38335,9.817913,52.38335",
     "geom:latitude":52.38335,
     "geom:longitude":9.817913,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Brelinger Hof 2 A",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899361,
+        85682555,
         85633111,
         101748819,
         102063941,
-        85682555
+        85899361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118682917,
-    "wof:lastmodified":1449053381,
+    "wof:lastmodified":1466222901,
     "wof:name":"Ambulante Krankenpflege Klaus Thon",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.817913,52.38335,9.817913,52.38335],
+  "bbox": [
+    9.817913,
+    52.38335,
+    9.817913,
+    52.38335
+],
   "geometry": {"coordinates":[9.817913,52.38335],"type":"Point"}
 }

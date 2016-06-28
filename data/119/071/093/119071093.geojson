@@ -2,13 +2,14 @@
   "id": 119071093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.020512,49.332874,11.020512,49.332874",
     "geom:latitude":49.332874,
     "geom:longitude":11.020512,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichwasenstr. 5",
     "sg:city":"Schwabach",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899347,
+        85682571,
         85633111,
         101833013,
         102063417,
-        85682571
+        85899347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119071093,
-    "wof:lastmodified":1449042546,
+    "wof:lastmodified":1466217392,
     "wof:name":"J\u00fcrgen Lemke Architekt",
     "wof:parent_id":85899347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.020512,49.332874,11.020512,49.332874],
+  "bbox": [
+    11.020512,
+    49.332874,
+    11.020512,
+    49.332874
+],
   "geometry": {"coordinates":[11.020512,49.332874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152802163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.027418,49.424732,11.027418,49.424732",
     "geom:latitude":49.424732,
     "geom:longitude":11.027418,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"schillingsf\u00fcrsterstr.41",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899973,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85899973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152802163,
-    "wof:lastmodified":1449048059,
+    "wof:lastmodified":1466227101,
     "wof:name":"Einkaufsf\u00fchrer Einkaufen Shop Einkaufen Neu Gratis",
     "wof:parent_id":85899973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.027418,49.424732,11.027418,49.424732],
+  "bbox": [
+    11.027418,
+    49.424732,
+    11.027418,
+    49.424732
+],
   "geometry": {"coordinates":[11.027418,49.424732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119154899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.602781,49.807457,8.602781,49.807457",
     "geom:latitude":49.807457,
     "geom:longitude":8.602781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandstr. 101",
     "sg:city":"Pfungstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hessen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795123,
+        85682531,
         85633111,
         101748563,
         102063543,
-        85682531
+        85795123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119154899,
-    "wof:lastmodified":1449043568,
+    "wof:lastmodified":1466224565,
     "wof:name":"Wilhelm Cr\u00f6ssmann Architekt",
     "wof:parent_id":85795123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.602781,49.807457,8.602781,49.807457],
+  "bbox": [
+    8.602781,
+    49.807457,
+    8.602781,
+    49.807457
+],
   "geometry": {"coordinates":[8.602781,49.807457],"type":"Point"}
 }

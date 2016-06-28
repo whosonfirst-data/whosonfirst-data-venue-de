@@ -2,13 +2,14 @@
   "id": 135300167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.72865,49.156242,12.72865,49.156242",
     "geom:latitude":49.156242,
     "geom:longitude":12.72865,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6tztinger Str. 16",
     "sg:city":"Zandt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135300167,
-    "wof:lastmodified":1449022706,
+    "wof:lastmodified":1466213830,
     "wof:name":"Martin Holzapfel",
     "wof:parent_id":101782159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.72865,49.156242,12.72865,49.156242],
+  "bbox": [
+    12.72865,
+    49.156242,
+    12.72865,
+    49.156242
+],
   "geometry": {"coordinates":[12.72865,49.156242],"type":"Point"}
 }

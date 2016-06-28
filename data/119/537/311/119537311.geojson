@@ -2,13 +2,14 @@
   "id": 119537311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.325197,49.472103,8.325197,49.472103",
     "geom:latitude":49.472103,
     "geom:longitude":8.325197,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfalzgartenstr. 1",
     "sg:city":"Ludwigshafen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Rheinland-Pfalz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795913,
+        85682491,
         85633111,
         101748547,
         102063469,
-        85682491
+        85795913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119537311,
-    "wof:lastmodified":1449041452,
+    "wof:lastmodified":1466244010,
     "wof:name":"Hans Gutermann",
     "wof:parent_id":85795913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.325197,49.472103,8.325197,49.472103],
+  "bbox": [
+    8.325197,
+    49.472103,
+    8.325197,
+    49.472103
+],
   "geometry": {"coordinates":[8.325197,49.472103],"type":"Point"}
 }

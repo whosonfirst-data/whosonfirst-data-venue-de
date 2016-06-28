@@ -2,13 +2,14 @@
   "id": 118636565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.081914,51.178715,7.081914,51.178715",
     "geom:latitude":51.178715,
     "geom:longitude":7.081914,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Konrad-Adenauer-Str. 63",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862909,
+        85682513,
         85633111,
         101748649,
         102063731,
-        85682513
+        85862909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118636565,
-    "wof:lastmodified":1449053706,
+    "wof:lastmodified":1466220326,
     "wof:name":"Senioren-residenz Am Theater Altenheim",
     "wof:parent_id":85862909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.081914,51.178715,7.081914,51.178715],
+  "bbox": [
+    7.081914,
+    51.178715,
+    7.081914,
+    51.178715
+],
   "geometry": {"coordinates":[7.081914,51.178715],"type":"Point"}
 }

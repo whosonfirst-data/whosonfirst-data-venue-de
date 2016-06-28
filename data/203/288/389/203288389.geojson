@@ -2,13 +2,14 @@
   "id": 203288389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.26308,51.609425,7.26308,51.609425",
     "geom:latitude":51.609425,
     "geom:longitude":7.26308,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krumme Str. 22",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203288389,
-    "wof:lastmodified":1449025140,
+    "wof:lastmodified":1466218663,
     "wof:name":"F. Potthast",
     "wof:parent_id":85863203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.26308,51.609425,7.26308,51.609425],
+  "bbox": [
+    7.26308,
+    51.609425,
+    7.26308,
+    51.609425
+],
   "geometry": {"coordinates":[7.26308,51.609425],"type":"Point"}
 }

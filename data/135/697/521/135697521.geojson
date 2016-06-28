@@ -2,13 +2,14 @@
   "id": 135697521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.482699,48.773315,11.482699,48.773315",
     "geom:latitude":48.773315,
     "geom:longitude":11.482699,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tanzerstr. 3a",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899153,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135697521,
-    "wof:lastmodified":1449022921,
+    "wof:lastmodified":1466242281,
     "wof:name":"Optima Wohnbau Gmbh",
     "wof:parent_id":85899153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.482699,48.773315,11.482699,48.773315],
+  "bbox": [
+    11.482699,
+    48.773315,
+    11.482699,
+    48.773315
+],
   "geometry": {"coordinates":[11.482699,48.773315],"type":"Point"}
 }

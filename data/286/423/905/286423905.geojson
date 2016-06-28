@@ -2,13 +2,14 @@
   "id": 286423905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.160393,52.087078,10.160393,52.087078",
     "geom:latitude":52.087078,
     "geom:longitude":10.160393,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstr. 4",
     "sg:city":"Holle",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286423905,
-    "wof:lastmodified":1449015648,
+    "wof:lastmodified":1466228343,
     "wof:name":"Hermann Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.160393,52.087078,10.160393,52.087078],
+  "bbox": [
+    10.160393,
+    52.087078,
+    10.160393,
+    52.087078
+],
   "geometry": {"coordinates":[10.160393,52.087078],"type":"Point"}
 }

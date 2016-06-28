@@ -2,13 +2,14 @@
   "id": 135414347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.540453,50.590084,9.540453,50.590084",
     "geom:latitude":50.590084,
     "geom:longitude":9.540453,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Postfach 1163:: 36133 Grossenl\u00fcder:: Germany.^^Bahnhofstr 2::",
     "sg:city":"Grossenl\u00fcder",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135414347,
-    "wof:lastmodified":1449022426,
+    "wof:lastmodified":1466224097,
     "wof:name":"Raiffeisenbank Eg Grossenl\u00fcder",
     "wof:parent_id":101810833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.540453,50.590084,9.540453,50.590084],
+  "bbox": [
+    9.540453,
+    50.590084,
+    9.540453,
+    50.590084
+],
   "geometry": {"coordinates":[9.540453,50.590084],"type":"Point"}
 }

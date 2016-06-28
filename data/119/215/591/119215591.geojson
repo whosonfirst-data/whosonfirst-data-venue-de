@@ -2,13 +2,14 @@
   "id": 119215591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.608683,49.471302,8.608683,49.471302",
     "geom:latitude":49.471302,
     "geom:longitude":8.608683,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Amtshof",
     "sg:city":"Ladenburg",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Baden-W\u00fcrttemberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862825,
+        85682567,
         85633111,
         101748549,
         102063473,
-        85682567
+        85862825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119215591,
-    "wof:lastmodified":1449043045,
+    "wof:lastmodified":1466230219,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Gallus",
     "wof:parent_id":85862825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.608683,49.471302,8.608683,49.471302],
+  "bbox": [
+    8.608683,
+    49.471302,
+    8.608683,
+    49.471302
+],
   "geometry": {"coordinates":[8.608683,49.471302],"type":"Point"}
 }

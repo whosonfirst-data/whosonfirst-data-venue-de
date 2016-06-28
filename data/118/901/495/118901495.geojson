@@ -2,13 +2,14 @@
   "id": 118901495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.75787,53.581886,9.75787,53.581886",
     "geom:latitude":53.581886,
     "geom:longitude":9.75787,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gudrunstr. 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900247,
+        85682517,
         85633111,
         101806597,
         102064081,
-        85682517
+        85900247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118901495,
-    "wof:lastmodified":1449053724,
+    "wof:lastmodified":1466235883,
     "wof:name":"Kl\u00f6vensteen-apotheke",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.75787,53.581886,9.75787,53.581886],
+  "bbox": [
+    9.75787,
+    53.581886,
+    9.75787,
+    53.581886
+],
   "geometry": {"coordinates":[9.75787,53.581886],"type":"Point"}
 }

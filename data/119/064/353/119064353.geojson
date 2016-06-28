@@ -2,13 +2,14 @@
   "id": 119064353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.127247,51.254948,7.127247,51.254948",
     "geom:latitude":51.254948,
     "geom:longitude":7.127247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Moltkestr. 28",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796517,
+        85682513,
         85633111,
         101748657,
         102063751,
-        85682513
+        85796517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119064353,
-    "wof:lastmodified":1449041722,
+    "wof:lastmodified":1466216791,
     "wof:name":"Joachim Osterritter Architekt",
     "wof:parent_id":85796517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.127247,51.254948,7.127247,51.254948],
+  "bbox": [
+    7.127247,
+    51.254948,
+    7.127247,
+    51.254948
+],
   "geometry": {"coordinates":[7.127247,51.254948],"type":"Point"}
 }

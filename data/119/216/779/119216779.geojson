@@ -2,13 +2,14 @@
   "id": 119216779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.032487,51.062172,7.032487,51.062172",
     "geom:latitude":51.062172,
     "geom:longitude":7.032487,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Quettinger Str. 105",
     "sg:city":"Leverkusen",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794891,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85794891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119216779,
-    "wof:lastmodified":1449043226,
+    "wof:lastmodified":1466230330,
     "wof:name":"Kath. \u00d6ffentliche Bibliothek St. Maria Rosenkranzk\u00f6nigin",
     "wof:parent_id":85794891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.032487,51.062172,7.032487,51.062172],
+  "bbox": [
+    7.032487,
+    51.062172,
+    7.032487,
+    51.062172
+],
   "geometry": {"coordinates":[7.032487,51.062172],"type":"Point"}
 }

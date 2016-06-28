@@ -2,13 +2,14 @@
   "id": 202523765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.085377,50.039371,8.085377,50.039371",
     "geom:latitude":50.039371,
     "geom:longitude":8.085377,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenlandstr. 27",
     "sg:city":"Kiedrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202523765,
-    "wof:lastmodified":1449061566,
+    "wof:lastmodified":1466216099,
     "wof:name":"Thomas Hentzschel",
     "wof:parent_id":85796457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.085377,50.039371,8.085377,50.039371],
+  "bbox": [
+    8.085377,
+    50.039371,
+    8.085377,
+    50.039371
+],
   "geometry": {"coordinates":[8.085377,50.039371],"type":"Point"}
 }

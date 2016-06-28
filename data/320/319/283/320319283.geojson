@@ -2,13 +2,14 @@
   "id": 320319283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.560292,51.878857,10.560292,51.878857",
     "geom:latitude":51.878857,
     "geom:longitude":10.560292,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzog-Wilhelm-Strasse 77",
     "sg:city":"Bad Harzburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320319283,
-    "wof:lastmodified":1449012792,
+    "wof:lastmodified":1466239075,
     "wof:name":"Medizinisches Cerebroaktiv Centrum F\u00fcr Denk- Und Merkst\u00f6rung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.560292,51.878857,10.560292,51.878857],
+  "bbox": [
+    10.560292,
+    51.878857,
+    10.560292,
+    51.878857
+],
   "geometry": {"coordinates":[10.560292,51.878857],"type":"Point"}
 }

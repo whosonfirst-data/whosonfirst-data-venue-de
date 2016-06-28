@@ -2,13 +2,14 @@
   "id": 135578401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.621985,51.390526,13.621985,51.390526",
     "geom:latitude":51.390526,
     "geom:longitude":13.621985,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcckenberger Str. 1",
     "sg:city":"Hirschfeld",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":135578401,
-    "wof:lastmodified":1449021750,
+    "wof:lastmodified":1466237795,
     "wof:name":"Baugenossenschaft Eg",
     "wof:parent_id":101822433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.621985,51.390526,13.621985,51.390526],
+  "bbox": [
+    13.621985,
+    51.390526,
+    13.621985,
+    51.390526
+],
   "geometry": {"coordinates":[13.621985,51.390526],"type":"Point"}
 }

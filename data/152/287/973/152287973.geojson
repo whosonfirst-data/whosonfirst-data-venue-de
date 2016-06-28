@@ -2,13 +2,14 @@
   "id": 152287973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.76627,51.012226,13.76627,51.012226",
     "geom:latitude":51.012226,
     "geom:longitude":13.76627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterteichplatz 12",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899525,
+        85682523,
         85633111,
         101752773,
         102064219,
-        85682523
+        85899525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152287973,
-    "wof:lastmodified":1449044582,
+    "wof:lastmodified":1466215899,
     "wof:name":"Matthias Rosner",
     "wof:parent_id":85899525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.76627,51.012226,13.76627,51.012226],
+  "bbox": [
+    13.76627,
+    51.012226,
+    13.76627,
+    51.012226
+],
   "geometry": {"coordinates":[13.76627,51.012226],"type":"Point"}
 }

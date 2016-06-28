@@ -2,13 +2,14 @@
   "id": 304031019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.423315,51.350258,7.423315,51.350258",
     "geom:latitude":51.350258,
     "geom:longitude":7.423315,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Tillmannsstr. 14",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304031019,
-    "wof:lastmodified":1449043791,
+    "wof:lastmodified":1466231592,
     "wof:name":"Wilhelm Biermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.423315,51.350258,7.423315,51.350258],
+  "bbox": [
+    7.423315,
+    51.350258,
+    7.423315,
+    51.350258
+],
   "geometry": {"coordinates":[7.423315,51.350258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119141835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.078278,50.89032,7.078278,50.89032",
     "geom:latitude":50.89032,
     "geom:longitude":7.078278,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Duisburger Str. 54",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795851,
+        85682513,
         85633111,
         101752771,
         102063715,
-        85682513
+        85795851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119141835,
-    "wof:lastmodified":1449041713,
+    "wof:lastmodified":1466223360,
     "wof:name":"Ulrich Hensel Architekt",
     "wof:parent_id":85795851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.078278,50.89032,7.078278,50.89032],
+  "bbox": [
+    7.078278,
+    50.89032,
+    7.078278,
+    50.89032
+],
   "geometry": {"coordinates":[7.078278,50.89032],"type":"Point"}
 }

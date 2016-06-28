@@ -2,13 +2,14 @@
   "id": 135530735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.487462,48.770782,11.487462,48.770782",
     "geom:latitude":48.770782,
     "geom:longitude":11.487462,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Ginsterstr. 7",
     "sg:city":"Ingolstadt",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899153,
+        85682571,
         85633111,
         101748505,
         102063341,
-        85682571
+        85899153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135530735,
-    "wof:lastmodified":1449022621,
+    "wof:lastmodified":1466234439,
     "wof:name":"Michael Wagner",
     "wof:parent_id":85899153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.487462,48.770782,11.487462,48.770782],
+  "bbox": [
+    11.487462,
+    48.770782,
+    11.487462,
+    48.770782
+],
   "geometry": {"coordinates":[11.487462,48.770782],"type":"Point"}
 }

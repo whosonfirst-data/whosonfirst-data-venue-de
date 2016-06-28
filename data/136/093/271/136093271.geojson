@@ -2,13 +2,14 @@
   "id": 136093271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.061148,53.561699,10.061148,53.561699",
     "geom:latitude":53.561699,
     "geom:longitude":10.061148,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Caspar-Vogt-Stra\u00dfe 54",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899257,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136093271,
-    "wof:lastmodified":1449074913,
+    "wof:lastmodified":1466216437,
     "wof:name":"Kreative Gemeinschaftsverpflegung",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.061148,53.561699,10.061148,53.561699],
+  "bbox": [
+    10.061148,
+    53.561699,
+    10.061148,
+    53.561699
+],
   "geometry": {"coordinates":[10.061148,53.561699],"type":"Point"}
 }

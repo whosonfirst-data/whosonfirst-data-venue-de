@@ -2,13 +2,14 @@
   "id": 119532857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.517281,51.709625,10.517281,51.709625",
     "geom:latitude":51.709625,
     "geom:longitude":10.517281,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenstr. 7",
     "sg:city":"St. Andreasberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119532857,
-    "wof:lastmodified":1449041672,
+    "wof:lastmodified":1466244061,
     "wof:name":"H. Hammer",
     "wof:parent_id":101820895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.517281,51.709625,10.517281,51.709625],
+  "bbox": [
+    10.517281,
+    51.709625,
+    10.517281,
+    51.709625
+],
   "geometry": {"coordinates":[10.517281,51.709625],"type":"Point"}
 }

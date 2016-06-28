@@ -2,13 +2,14 @@
   "id": 303381971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.156358,48.677879,10.156358,48.677879",
     "geom:latitude":48.677879,
     "geom:longitude":10.156358,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstr. 14/71",
     "sg:city":"Heidenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303381971,
-    "wof:lastmodified":1448998318,
+    "wof:lastmodified":1466233935,
     "wof:name":"Siegfried Hirschberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.156358,48.677879,10.156358,48.677879],
+  "bbox": [
+    10.156358,
+    48.677879,
+    10.156358,
+    48.677879
+],
   "geometry": {"coordinates":[10.156358,48.677879],"type":"Point"}
 }

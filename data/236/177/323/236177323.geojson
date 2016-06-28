@@ -2,13 +2,14 @@
   "id": 236177323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444403,48.054131,8.444403,48.054131",
     "geom:latitude":48.054131,
     "geom:longitude":8.444403,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Herdstr. 79",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236177323,
-    "wof:lastmodified":1449005245,
+    "wof:lastmodified":1466222175,
     "wof:name":"Bike-service-station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.444403,48.054131,8.444403,48.054131],
+  "bbox": [
+    8.444403,
+    48.054131,
+    8.444403,
+    48.054131
+],
   "geometry": {"coordinates":[8.444403,48.054131],"type":"Point"}
 }

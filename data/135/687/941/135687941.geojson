@@ -2,13 +2,14 @@
   "id": 135687941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.147764,49.464012,11.147764,49.464012",
     "geom:latitude":49.464012,
     "geom:longitude":11.147764,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufamholzstr. 120",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Bayern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900173,
+        85682571,
         85633111,
         101748543,
         102063461,
-        85682571
+        85900173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135687941,
-    "wof:lastmodified":1449021856,
+    "wof:lastmodified":1466242196,
     "wof:name":"S & Z Montageservice Gmbh",
     "wof:parent_id":85900173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.147764,49.464012,11.147764,49.464012],
+  "bbox": [
+    11.147764,
+    49.464012,
+    11.147764,
+    49.464012
+],
   "geometry": {"coordinates":[11.147764,49.464012],"type":"Point"}
 }

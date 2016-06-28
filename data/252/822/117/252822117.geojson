@@ -2,13 +2,14 @@
   "id": 252822117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.059198,49.411606,11.059198,49.411606",
     "geom:latitude":49.411606,
     "geom:longitude":11.059198,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Donaustr. 83",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252822117,
-    "wof:lastmodified":1449006470,
+    "wof:lastmodified":1466221309,
     "wof:name":"Engel Deutschland Gmbh",
     "wof:parent_id":85899237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.059198,49.411606,11.059198,49.411606],
+  "bbox": [
+    11.059198,
+    49.411606,
+    11.059198,
+    49.411606
+],
   "geometry": {"coordinates":[11.059198,49.411606],"type":"Point"}
 }

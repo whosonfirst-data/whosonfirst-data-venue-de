@@ -2,13 +2,14 @@
   "id": 319939367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.061053,49.408489,11.061053,49.408489",
     "geom:latitude":49.408489,
     "geom:longitude":11.061053,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Isarstr. 12",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":319939367,
-    "wof:lastmodified":1449024310,
+    "wof:lastmodified":1466235419,
     "wof:name":"Johnson Controls",
     "wof:parent_id":85899237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.061053,49.408489,11.061053,49.408489],
+  "bbox": [
+    11.061053,
+    49.408489,
+    11.061053,
+    49.408489
+],
   "geometry": {"coordinates":[11.061053,49.408489],"type":"Point"}
 }

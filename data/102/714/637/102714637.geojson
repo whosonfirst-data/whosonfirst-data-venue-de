@@ -2,13 +2,14 @@
   "id": 102714637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.595352,29.43746,-90.595352,29.43746",
     "geom:latitude":29.43746,
     "geom:longitude":-90.595352,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:city":"P\u00fcchau",
     "sg:classifiers":[],
     "sg:owner":"simplegeo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":102714637,
-    "wof:lastmodified":1449068942,
+    "wof:lastmodified":1466216553,
     "wof:name":"Campingplatz Liebsch\u00fctzer Teiche",
     "wof:parent_id":85948783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.595352,29.43746,-90.595352,29.43746],
-  "geometry": {"coordinates":[-90.595352,29.43746],"type":"Point"}
+  "bbox": [
+    -90.595352,
+    29.43746,
+    -90.595352,
+    29.43746
+],
+  "geometry": {"coordinates":[-90.59535200000001,29.43746],"type":"Point"}
 }

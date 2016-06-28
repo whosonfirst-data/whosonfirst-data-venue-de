@@ -2,13 +2,14 @@
   "id": 320130319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.352627,52.584023,13.352627,52.584023",
     "geom:latitude":52.584023,
     "geom:longitude":13.352627,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lengeder Str. 29-35",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320130319,
-    "wof:lastmodified":1449012558,
+    "wof:lastmodified":1466236170,
     "wof:name":"R. Stock Ag",
     "wof:parent_id":85899593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.352627,52.584023,13.352627,52.584023],
+  "bbox": [
+    13.352627,
+    52.584023,
+    13.352627,
+    52.584023
+],
   "geometry": {"coordinates":[13.352627,52.584023],"type":"Point"}
 }

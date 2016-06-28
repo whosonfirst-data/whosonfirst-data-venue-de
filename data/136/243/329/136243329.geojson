@@ -2,13 +2,14 @@
   "id": 136243329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.824469,53.040691,8.824469,53.040691",
     "geom:latitude":53.040691,
     "geom:longitude":8.824469,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Arster Felde 43",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Bremen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063967,
-        85633111,
         85682555,
-        85862859
+        85633111,
+        85862859,
+        102063967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":136243329,
-    "wof:lastmodified":1449075339,
+    "wof:lastmodified":1466223818,
     "wof:name":"Paul Gmeinder",
     "wof:parent_id":85862859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.824469,53.040691,8.824469,53.040691],
+  "bbox": [
+    8.824469,
+    53.040691,
+    8.824469,
+    53.040691
+],
   "geometry": {"coordinates":[8.824469,53.040691],"type":"Point"}
 }

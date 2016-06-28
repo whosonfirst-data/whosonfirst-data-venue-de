@@ -2,13 +2,14 @@
   "id": 135857607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.118025,49.271507,7.118025,49.271507",
     "geom:latitude":49.271507,
     "geom:longitude":7.118025,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstr. 105",
     "sg:city":"St. Ingbert",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Saarland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063437,
-        85633111,
         85682479,
-        85796383
+        85633111,
+        85796383,
+        102063437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135857607,
-    "wof:lastmodified":1449022968,
+    "wof:lastmodified":1466244337,
     "wof:name":"G\u00fcnther Und Liese Thiery",
     "wof:parent_id":85796383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.118025,49.271507,7.118025,49.271507],
+  "bbox": [
+    7.118025,
+    49.271507,
+    7.118025,
+    49.271507
+],
   "geometry": {"coordinates":[7.118025,49.271507],"type":"Point"}
 }

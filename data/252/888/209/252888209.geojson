@@ -2,13 +2,14 @@
   "id": 252888209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.065556,52.259102,10.065556,52.259102",
     "geom:latitude":52.259102,
     "geom:longitude":10.065556,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Breite Str. 11",
     "sg:city":"Hohenhameln",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252888209,
-    "wof:lastmodified":1449006102,
+    "wof:lastmodified":1466222502,
     "wof:name":"Heinrich Fette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.065556,52.259102,10.065556,52.259102],
+  "bbox": [
+    10.065556,
+    52.259102,
+    10.065556,
+    52.259102
+],
   "geometry": {"coordinates":[10.065556,52.259102],"type":"Point"}
 }

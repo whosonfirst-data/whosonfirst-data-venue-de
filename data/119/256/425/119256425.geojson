@@ -2,13 +2,14 @@
   "id": 119256425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.369206,51.327915,12.369206,51.327915",
     "geom:latitude":51.327915,
     "geom:longitude":12.369206,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Grassistr. 33",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905683,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85905683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":119256425,
-    "wof:lastmodified":1449042874,
+    "wof:lastmodified":1466234233,
     "wof:name":"Dr. Mayr",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.369206,51.327915,12.369206,51.327915],
+  "bbox": [
+    12.369206,
+    51.327915,
+    12.369206,
+    51.327915
+],
   "geometry": {"coordinates":[12.369206,51.327915],"type":"Point"}
 }

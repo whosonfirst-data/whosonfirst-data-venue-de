@@ -2,13 +2,14 @@
   "id": 203089199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.594571,52.286266,10.594571,52.286266",
     "geom:latitude":52.286266,
     "geom:longitude":10.594571,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Seikenkamp 13a",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203089199,
-    "wof:lastmodified":1449025315,
+    "wof:lastmodified":1466215319,
     "wof:name":"Heinz Strohmeyer",
     "wof:parent_id":85900013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.594571,52.286266,10.594571,52.286266],
+  "bbox": [
+    10.594571,
+    52.286266,
+    10.594571,
+    52.286266
+],
   "geometry": {"coordinates":[10.594571,52.286266],"type":"Point"}
 }

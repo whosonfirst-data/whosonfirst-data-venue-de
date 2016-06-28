@@ -2,13 +2,14 @@
   "id": 102754077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.177178,51.179977,7.177178,51.179977",
     "geom:latitude":51.179977,
     "geom:longitude":7.177178,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronprinzenstr. 25",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796263,
+        85682513,
         85633111,
         101748651,
         102063733,
-        85682513
+        85796263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102754077,
-    "wof:lastmodified":1449069352,
+    "wof:lastmodified":1466218483,
     "wof:name":"E & S Gmbh Eisenhandel",
     "wof:parent_id":85796263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.177178,51.179977,7.177178,51.179977],
+  "bbox": [
+    7.177178,
+    51.179977,
+    7.177178,
+    51.179977
+],
   "geometry": {"coordinates":[7.177178,51.179977],"type":"Point"}
 }

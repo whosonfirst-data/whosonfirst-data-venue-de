@@ -2,13 +2,14 @@
   "id": 119005485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.814591,51.462559,6.814591,51.462559",
     "geom:latitude":51.462559,
     "geom:longitude":6.814591,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuer Weg 32",
     "sg:city":"Oberhausen",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863081,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119005485,
-    "wof:lastmodified":1449043317,
+    "wof:lastmodified":1466214138,
     "wof:name":"Ernst Wehle Architekt",
     "wof:parent_id":85863081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.814591,51.462559,6.814591,51.462559],
+  "bbox": [
+    6.814591,
+    51.462559,
+    6.814591,
+    51.462559
+],
   "geometry": {"coordinates":[6.814591,51.462559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118767611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.787781,52.450592,9.787781,52.450592",
     "geom:latitude":52.450592,
     "geom:longitude":9.787781,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuhrbleek 48-50",
     "sg:city":"Isernhagen",
     "sg:classifiers":[],
@@ -17,10 +18,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063941,
-        85633111,
         85682555,
-        85900233
+        85633111,
+        85900233,
+        102063941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":118767611,
-    "wof:lastmodified":1449053558,
+    "wof:lastmodified":1466227782,
     "wof:name":"Fsi Fahrzeug-spezialausbau Isernhagen Gmbh",
     "wof:parent_id":85900233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.787781,52.450592,9.787781,52.450592],
+  "bbox": [
+    9.787781,
+    52.450592,
+    9.787781,
+    52.450592
+],
   "geometry": {"coordinates":[9.787781,52.450592],"type":"Point"}
 }

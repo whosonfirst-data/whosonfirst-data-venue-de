@@ -2,13 +2,14 @@
   "id": 119515279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.148365,50.516514,11.148365,50.516514",
     "geom:latitude":50.516514,
     "geom:longitude":11.148365,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmalenbuchener Str. 7",
     "sg:city":"Neuhaus",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":119515279,
-    "wof:lastmodified":1449041429,
+    "wof:lastmodified":1466243757,
     "wof:name":"Egon Seeber",
     "wof:parent_id":101824447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.148365,50.516514,11.148365,50.516514],
+  "bbox": [
+    11.148365,
+    50.516514,
+    11.148365,
+    50.516514
+],
   "geometry": {"coordinates":[11.148365,50.516514],"type":"Point"}
 }

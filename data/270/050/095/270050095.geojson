@@ -2,13 +2,14 @@
   "id": 270050095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.75721,53.586956,9.75721,53.586956",
     "geom:latitude":53.586956,
     "geom:longitude":9.75721,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Uteweg 2",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270050095,
-    "wof:lastmodified":1449009991,
+    "wof:lastmodified":1466222555,
     "wof:name":"Prof. V. Wriedt",
     "wof:parent_id":85900247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.75721,53.586956,9.75721,53.586956],
+  "bbox": [
+    9.75721,
+    53.586956,
+    9.75721,
+    53.586956
+],
   "geometry": {"coordinates":[9.75721,53.586956],"type":"Point"}
 }

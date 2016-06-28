@@ -2,13 +2,14 @@
   "id": 119256509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.440615,51.347321,12.440615,51.347321",
     "geom:latitude":51.347321,
     "geom:longitude":12.440615,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Semperstr. 1",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900117,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85900117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119256509,
-    "wof:lastmodified":1449042874,
+    "wof:lastmodified":1466234243,
     "wof:name":"Dr. Med. Alexander Schmidt",
     "wof:parent_id":85900117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.440615,51.347321,12.440615,51.347321],
+  "bbox": [
+    12.440615,
+    51.347321,
+    12.440615,
+    51.347321
+],
   "geometry": {"coordinates":[12.440615,51.347321],"type":"Point"}
 }

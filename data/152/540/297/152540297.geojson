@@ -2,13 +2,14 @@
   "id": 152540297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.271336,52.518719,13.271336,52.518719",
     "geom:latitude":52.518719,
     "geom:longitude":13.271336,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Akazienallee 24-26",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900231,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152540297,
-    "wof:lastmodified":1449046127,
+    "wof:lastmodified":1466221124,
     "wof:name":"Cosmos Beteiligungs Gmbh",
     "wof:parent_id":85900231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.271336,52.518719,13.271336,52.518719],
+  "bbox": [
+    13.271336,
+    52.518719,
+    13.271336,
+    52.518719
+],
   "geometry": {"coordinates":[13.271336,52.518719],"type":"Point"}
 }

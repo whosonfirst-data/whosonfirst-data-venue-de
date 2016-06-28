@@ -2,13 +2,14 @@
   "id": 152779989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.220362,48.825085,2.220362,48.825085",
     "geom:latitude":48.825085,
     "geom:longitude":2.220362,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"11 rue diderot",
     "sg:city":"SEVRES",
     "sg:classifiers":[],
@@ -16,11 +17,11 @@
     "sg:postcode":"92310",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152779989,
-    "wof:lastmodified":1449045017,
+    "wof:lastmodified":1466226581,
     "wof:name":"Denis Langlois - Le Leader De La Marche En France",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.220362,48.825085,2.220362,48.825085],
+  "bbox": [
+    2.220362,
+    48.825085,
+    2.220362,
+    48.825085
+],
   "geometry": {"coordinates":[2.220362,48.825085],"type":"Point"}
 }

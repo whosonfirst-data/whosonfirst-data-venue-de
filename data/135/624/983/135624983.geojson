@@ -2,13 +2,14 @@
   "id": 135624983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.167009,52.512615,13.167009,52.512615",
     "geom:latitude":52.512615,
     "geom:longitude":13.167009,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinmeisterhornweg 119",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Berlin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900245,
+        85682499,
         85633111,
         101748799,
         102063945,
-        85682499
+        85900245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135624983,
-    "wof:lastmodified":1449023076,
+    "wof:lastmodified":1466240393,
     "wof:name":"Helmut Wachs",
     "wof:parent_id":85900245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.167009,52.512615,13.167009,52.512615],
+  "bbox": [
+    13.167009,
+    52.512615,
+    13.167009,
+    52.512615
+],
   "geometry": {"coordinates":[13.167009,52.512615],"type":"Point"}
 }

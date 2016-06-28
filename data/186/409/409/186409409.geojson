@@ -2,13 +2,14 @@
   "id": 186409409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.726401,51.085793,13.726401,51.085793",
     "geom:latitude":51.085793,
     "geom:longitude":13.726401,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gro\u00dfenhainer Str. 137",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186409409,
-    "wof:lastmodified":1449051478,
+    "wof:lastmodified":1466217502,
     "wof:name":"Mietzsch Gmbh",
     "wof:parent_id":85905669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.726401,51.085793,13.726401,51.085793],
+  "bbox": [
+    13.726401,
+    51.085793,
+    13.726401,
+    51.085793
+],
   "geometry": {"coordinates":[13.726401,51.085793],"type":"Point"}
 }

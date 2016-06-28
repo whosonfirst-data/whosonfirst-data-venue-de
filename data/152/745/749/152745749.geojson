@@ -2,13 +2,14 @@
   "id": 152745749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.987793,51.653755,6.987793,51.653755",
     "geom:latitude":51.653755,
     "geom:longitude":6.987793,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-Reger-Str. 6",
     "sg:city":"Dorsten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795159,
+        85682513,
         85633111,
         101748741,
         102063831,
-        85682513
+        85795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152745749,
-    "wof:lastmodified":1449048710,
+    "wof:lastmodified":1466225737,
     "wof:name":"Aktien, W\u00e4hrungen, Gold, Dollar Oder Andere",
     "wof:parent_id":85795159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.987793,51.653755,6.987793,51.653755],
+  "bbox": [
+    6.987793,
+    51.653755,
+    6.987793,
+    51.653755
+],
   "geometry": {"coordinates":[6.987793,51.653755],"type":"Point"}
 }

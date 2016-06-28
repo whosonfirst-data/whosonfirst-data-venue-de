@@ -2,13 +2,14 @@
   "id": 102688149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.353854,51.453457,7.353854,51.453457",
     "geom:latitude":51.453457,
     "geom:longitude":7.353854,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Gleiwitzer Str. 4b",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794853,
+        85682513,
         85633111,
         101748697,
         102063779,
-        85682513
+        85794853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102688149,
-    "wof:lastmodified":1449068671,
+    "wof:lastmodified":1466215764,
     "wof:name":"Mlt Maschinenbau- Und Lineartechnik Verwaltungs-gmbh",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.353854,51.453457,7.353854,51.453457],
+  "bbox": [
+    7.353854,
+    51.453457,
+    7.353854,
+    51.453457
+],
   "geometry": {"coordinates":[7.353854,51.453457],"type":"Point"}
 }

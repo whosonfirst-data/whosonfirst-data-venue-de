@@ -2,13 +2,14 @@
   "id": 118714667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.306348,52.173424,10.306348,52.173424",
     "geom:latitude":52.173424,
     "geom:longitude":10.306348,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Lesser Str. 34",
     "sg:city":"Salzgitter",
     "sg:classifiers":[],
@@ -18,10 +19,10 @@
     "sg:province":"Niedersachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063885,
-        85633111,
         85682555,
-        85907681
+        85633111,
+        85907681,
+        102063885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":118714667,
-    "wof:lastmodified":1449053836,
+    "wof:lastmodified":1466224711,
     "wof:name":"Haushalts Agentur Sz Kalnins",
     "wof:parent_id":85907681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.306348,52.173424,10.306348,52.173424],
+  "bbox": [
+    10.306348,
+    52.173424,
+    10.306348,
+    52.173424
+],
   "geometry": {"coordinates":[10.306348,52.173424],"type":"Point"}
 }

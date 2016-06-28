@@ -2,13 +2,14 @@
   "id": 219760423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.303903,49.247375,9.303903,49.247375",
     "geom:latitude":49.247375,
     "geom:longitude":9.303903,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kochertalstr. 33",
     "sg:city":"Neuenstadt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219760423,
-    "wof:lastmodified":1449073781,
+    "wof:lastmodified":1466225518,
     "wof:name":"Peter Hoffmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.303903,49.247375,9.303903,49.247375],
+  "bbox": [
+    9.303903,
+    49.247375,
+    9.303903,
+    49.247375
+],
   "geometry": {"coordinates":[9.303903,49.247375],"type":"Point"}
 }

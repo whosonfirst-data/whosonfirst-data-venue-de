@@ -2,13 +2,14 @@
   "id": 202525553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.905091,49.426521,10.905091,49.426521",
     "geom:latitude":49.426521,
     "geom:longitude":10.905091,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Krokusweg 5",
     "sg:city":"Zirndorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202525553,
-    "wof:lastmodified":1449062133,
+    "wof:lastmodified":1466216132,
     "wof:name":"Thomas Greulich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.905091,49.426521,10.905091,49.426521],
+  "bbox": [
+    10.905091,
+    49.426521,
+    10.905091,
+    49.426521
+],
   "geometry": {"coordinates":[10.905091,49.426521],"type":"Point"}
 }

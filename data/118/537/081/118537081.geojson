@@ -2,13 +2,14 @@
   "id": 118537081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.088517,52.388214,13.088517,52.388214",
     "geom:latitude":52.388214,
     "geom:longitude":13.088517,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuendorfer Anger 12",
     "sg:city":"Potsdam",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Brandenburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900127,
+        85682553,
         85633111,
         101748815,
         102063931,
-        85682553
+        85900127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118537081,
-    "wof:lastmodified":1449053492,
+    "wof:lastmodified":1466214684,
     "wof:name":"M\u00fcller",
     "wof:parent_id":85900127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.088517,52.388214,13.088517,52.388214],
+  "bbox": [
+    13.088517,
+    52.388214,
+    13.088517,
+    52.388214
+],
   "geometry": {"coordinates":[13.088517,52.388214],"type":"Point"}
 }

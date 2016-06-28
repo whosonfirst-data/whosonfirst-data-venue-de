@@ -2,13 +2,14 @@
   "id": 135519043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.268568,51.311298,12.268568,51.311298",
     "geom:latitude":51.311298,
     "geom:longitude":12.268568,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"An der Kotsche 73",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Sachsen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899503,
+        85682523,
         85633111,
         101748685,
         102064225,
-        85682523
+        85899503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135519043,
-    "wof:lastmodified":1449023802,
+    "wof:lastmodified":1466233369,
     "wof:name":"Bes - Bau Gmbh",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.268568,51.311298,12.268568,51.311298],
+  "bbox": [
+    12.268568,
+    51.311298,
+    12.268568,
+    51.311298
+],
   "geometry": {"coordinates":[12.268568,51.311298],"type":"Point"}
 }

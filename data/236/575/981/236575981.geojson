@@ -2,13 +2,14 @@
   "id": 236575981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.542083,52.956127,10.542083,52.956127",
     "geom:latitude":52.956127,
     "geom:longitude":10.542083,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstr. 2",
     "sg:city":"Uelzen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236575981,
-    "wof:lastmodified":1449002434,
+    "wof:lastmodified":1466229417,
     "wof:name":"Ernst Von Estorff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.542083,52.956127,10.542083,52.956127],
+  "bbox": [
+    10.542083,
+    52.956127,
+    10.542083,
+    52.956127
+],
   "geometry": {"coordinates":[10.542083,52.956127],"type":"Point"}
 }

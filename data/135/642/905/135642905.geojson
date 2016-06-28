@@ -2,13 +2,14 @@
   "id": 135642905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.16492,53.522499,10.16492,53.522499",
     "geom:latitude":53.522499,
     "geom:longitude":10.16492,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Boberger Str. 1",
     "sg:city":"Oststeinbek",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Schleswig-Holstein",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899019,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135642905,
-    "wof:lastmodified":1449021166,
+    "wof:lastmodified":1466240620,
     "wof:name":"H. B. H. Hanse-brillant- Haus Gmbh",
     "wof:parent_id":85899019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.16492,53.522499,10.16492,53.522499],
+  "bbox": [
+    10.16492,
+    53.522499,
+    10.16492,
+    53.522499
+],
   "geometry": {"coordinates":[10.16492,53.522499],"type":"Point"}
 }

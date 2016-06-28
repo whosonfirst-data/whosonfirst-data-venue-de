@@ -2,13 +2,14 @@
   "id": 135372853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.6247,49.672157,8.6247,49.672157",
     "geom:latitude":49.672157,
     "geom:longitude":8.6247,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidelberger Str. 71",
     "sg:city":"Bensheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":135372853,
-    "wof:lastmodified":1449022860,
+    "wof:lastmodified":1466220269,
     "wof:name":"Bezirkssparkasse Bensheim",
     "wof:parent_id":101839873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.6247,49.672157,8.6247,49.672157],
+  "bbox": [
+    8.6247,
+    49.672157,
+    8.6247,
+    49.672157
+],
   "geometry": {"coordinates":[8.6247,49.672157],"type":"Point"}
 }

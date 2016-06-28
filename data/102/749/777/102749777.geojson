@@ -2,13 +2,14 @@
   "id": 102749777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.800681,51.493851,6.800681,51.493851",
     "geom:latitude":51.493851,
     "geom:longitude":6.800681,
     "iso:country":"DE",
+    "mz:hierarchy_label":1,
     "sg:address":"Holtener Str. 152",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Nordrhein-Westfalen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863081,
+        85682513,
         85633111,
         101748715,
         102063801,
-        85682513
+        85863081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102749777,
-    "wof:lastmodified":1449068469,
+    "wof:lastmodified":1466218247,
     "wof:name":"Peco-druck Peter Ebertz E. K.",
     "wof:parent_id":85863081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.800681,51.493851,6.800681,51.493851],
+  "bbox": [
+    6.800681,
+    51.493851,
+    6.800681,
+    51.493851
+],
   "geometry": {"coordinates":[6.800681,51.493851],"type":"Point"}
 }
