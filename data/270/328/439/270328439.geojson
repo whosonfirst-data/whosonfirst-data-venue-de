@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.292483,52.500164,13.292483,52.500164",
     "geom:latitude":52.500164,
     "geom:longitude":13.292483,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Katharinenstr. 17",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5FjIAsLJoMaXIEXcy3viXG_52.500164_13.292483@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"635b7980889b23eb0c782ddc1822b104",
+    "wof:geomhash":"21f44e81a69fa68110804bebc5084289",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270328439,
-    "wof:lastmodified":1466229115,
+    "wof:lastmodified":1496354125,
     "wof:name":"T.e.s.t. Hotelservice Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941015519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

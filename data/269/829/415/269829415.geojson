@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.359146,52.589626,13.359146,52.589626",
     "geom:latitude":52.589626,
     "geom:longitude":13.359146,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lessingstr. 79",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2bP56TC4pNB7L8xPF3hvb3_52.589626_13.359146@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"719767cdf32db4dc3ed26dd7a2656f35",
+    "wof:geomhash":"092b8ad0231de10f17725d91e4c8f025",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269829415,
-    "wof:lastmodified":1466229096,
+    "wof:lastmodified":1496354128,
     "wof:name":"Interautomation Deutschland Gmbh",
     "wof:parent_id":85899593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320492743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

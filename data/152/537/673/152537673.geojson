@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.329342,52.50246,13.329342,52.50246",
     "geom:latitude":52.50246,
     "geom:longitude":13.329342,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Meinekestr. 25",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6YrObT7Zxro6TZqJyD6OLN_52.502460_13.329342@1306268880"
     },
     "wof:country":"DE",
-    "wof:geomhash":"575ca274052a90bb322f29bd33666a5d",
+    "wof:geomhash":"bbb1386402bd6645e52b3fba920c263b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":152537673,
-    "wof:lastmodified":1466221067,
+    "wof:lastmodified":1496354127,
     "wof:name":"Becker & Kries Finanzierungs Ag & Co.",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974196335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

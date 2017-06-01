@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.297975,52.48679,13.297975,52.48679",
     "geom:latitude":52.48679,
     "geom:longitude":13.297975,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hohenzollerndamm 54a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7T9MIgbERlHmKpiNit3qDl_52.486790_13.297975@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"98fb196e9c855e5eae4b8b8f02571eb0",
+    "wof:geomhash":"9f6829217466e0dcb2f922a4e9e190f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286576411,
-    "wof:lastmodified":1466232005,
+    "wof:lastmodified":1496354124,
     "wof:name":"Edition Corona Musikverlag Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941511311
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

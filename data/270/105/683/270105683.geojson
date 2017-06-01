@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.419062,52.500675,13.419062,52.500675",
     "geom:latitude":52.500675,
     "geom:longitude":13.419062,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Adalbertstr. 9",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4AGIgRTUrlgybxGzmaX2io_52.500675_13.419062@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4b8f4864aa52575bfe8419833e7a0063",
+    "wof:geomhash":"0feb3fcfa678a08842730399c20a676e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270105683,
-    "wof:lastmodified":1466223859,
+    "wof:lastmodified":1496354125,
     "wof:name":"Atelier Jens Rolfs Gmbh",
     "wof:parent_id":85900107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941042177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

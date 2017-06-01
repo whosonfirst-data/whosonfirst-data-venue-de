@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.453052,52.53616,13.453052,52.53616",
     "geom:latitude":52.53616,
     "geom:longitude":13.453052,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Storkower Str. 113",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6CULbu14qT4KfUi6pq6mBx_52.536160_13.453052@1306268943"
     },
     "wof:country":"DE",
-    "wof:geomhash":"54d57a05211300154333a91eabb9fe2e",
+    "wof:geomhash":"bf6e7fc59c29808fad4bd2114e9935a0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287109907,
-    "wof:lastmodified":1466228008,
+    "wof:lastmodified":1496354123,
     "wof:name":"Sec Dienstleistungs- Service Gmbh & Co.",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186549541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3243656158,52.5025939941,13.3243656158,52.5025939941",
     "geom:latitude":52.502594,
     "geom:longitude":13.324366,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kurf\u00fcrstendamm 33",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015285,
-    "wof:geomhash":"8d9e83adbb32cb83c3e58102285e4ae3",
+    "wof:geomhash":"29acfc952003d509a0dfe2cf89b22191",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941142553,
-    "wof:lastmodified":1472015285,
+    "wof:lastmodified":1496354127,
     "wof:name":"Sts Systemtechnik Und Software Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941157503
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

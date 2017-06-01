@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.323301,52.501991,13.323301,52.501991",
     "geom:latitude":52.501991,
     "geom:longitude":13.323301,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kurf\u00fcrstendamm 207-208",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3mTk87EbtrB2vQA3jfdZO7_52.501991_13.323301@1306268859"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f63e7295ca7cf8d20693d58a8089db71",
+    "wof:geomhash":"179ddfae04c6daf638b424ee813d0316",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135563397,
-    "wof:lastmodified":1466236774,
+    "wof:lastmodified":1496354123,
     "wof:name":"G & G Wohn- Und Gewerbebau Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135722911
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

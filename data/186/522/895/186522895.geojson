@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.381673,52.497238,13.381673,52.497238",
     "geom:latitude":52.497238,
     "geom:longitude":13.381673,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Obentrautstr. 62",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_54oeS5VdK5jebvYc2iNVxJ_52.497238_13.381673@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2185c81b95603e71332fd6135b22baf6",
+    "wof:geomhash":"fcef24f836f0c2b0a1f204babb8db5b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":186522895,
-    "wof:lastmodified":1466218792,
+    "wof:lastmodified":1496354127,
     "wof:name":"Messenger Transport Logistik Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974460651
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

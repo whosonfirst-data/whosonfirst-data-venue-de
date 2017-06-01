@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.405705452,52.5107879639,13.405705452,52.5107879639",
     "geom:latitude":52.510788,
     "geom:longitude":13.405705,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neue Gr\u00fcnstr. 27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472006581,
-    "wof:geomhash":"8d78e0642de612b5698f65a875d65f9e",
+    "wof:geomhash":"965c68af5a189944b14d39a7d0e628c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":940952477,
-    "wof:lastmodified":1472006581,
+    "wof:lastmodified":1496354128,
     "wof:name":"Denkmalpflege Berlin Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941592629
+    ],
+    "wof:supersedes":[
+        135367235
+    ],
     "wof:tags":[]
 },
   "bbox": [

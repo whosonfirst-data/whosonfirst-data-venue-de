@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.329249,52.501827,13.329249,52.501827",
     "geom:latitude":52.501827,
     "geom:longitude":13.329249,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Meinekestr. 22",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2tTn3nbVTLvCN9jrODX7bg_52.501827_13.329249@1306268883"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4d6ccec713071d20fdaf00196a90d007",
+    "wof:geomhash":"69b61f466aef9aad5f677ba1279c11ec",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":152624075,
-    "wof:lastmodified":1466223009,
+    "wof:lastmodified":1496354123,
     "wof:name":"Zschokke Gmbh Beteiligungen In Ludwigsfelde",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135705935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.448574,52.512207,13.448574,52.512207",
     "geom:latitude":52.512207,
     "geom:longitude":13.448574,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gubener Str 47",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4G4pPDZWSRifoy44MbPj9i_52.512207_13.448574@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dbf844ebd6aeef607c744dd14cb95466",
+    "wof:geomhash":"e97d14a1c606e9031cea47468ee36583",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118574515,
-    "wof:lastmodified":1466216776,
+    "wof:lastmodified":1496354124,
     "wof:name":"Vier C Digitalprint Und Mediafabrik Gmbh & Co Kg",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303556993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.342001,52.494518,13.342001,52.494518",
     "geom:latitude":52.494518,
     "geom:longitude":13.342001,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hohenstaufenstr. 31",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_45W7LGC3XFDROPQgZeoNOz_52.494518_13.342001@1306268908"
     },
     "wof:country":"DE",
-    "wof:geomhash":"193cb16f423756425c10c2c5bd06869b",
+    "wof:geomhash":"23e61f1720d57795fe19e947d1cb4acd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219529475,
-    "wof:lastmodified":1466221023,
+    "wof:lastmodified":1496354126,
     "wof:name":"Wohnanlage Marienfelder Allee 120-124 Gmbh & Co. Kg",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941422957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

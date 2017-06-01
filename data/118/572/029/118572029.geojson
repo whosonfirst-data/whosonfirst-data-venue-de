@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.320436,52.501972,13.320436,52.501972",
     "geom:latitude":52.501972,
     "geom:longitude":13.320436,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kurf\u00fcrstendamm 43",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2ZiPQwEkmoXiRnwaokhXK9_52.501972_13.320436@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"db9bf8be0f8a13932a375691e62ec400",
+    "wof:geomhash":"7f498110004e468bbf1edafcc64640e6",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118572029,
-    "wof:lastmodified":1466216615,
+    "wof:lastmodified":1496354128,
     "wof:name":"Cinecontact Film Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941343641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

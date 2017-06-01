@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.352832,52.578091,13.352832,52.578091",
     "geom:latitude":52.578091,
     "geom:longitude":13.352832,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Flottenstr. 14-20",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_59cy712qBSHjkIh1PMIUNu_52.578091_13.352832@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"58d009d8d6a7baf96350ed5719448f71",
+    "wof:geomhash":"d187c699df5ca02cf45fcb8ea7b1c6b3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":186253739,
-    "wof:lastmodified":1466215871,
+    "wof:lastmodified":1496354123,
     "wof:name":"Bera Berliner Rahmenger\u00fcst Gmbh & Co. Kg",
     "wof:parent_id":85899593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958363233
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

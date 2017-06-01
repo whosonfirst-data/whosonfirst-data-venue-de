@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3685112,52.5022583008,13.3685112,52.5022583008",
     "geom:latitude":52.502258,
     "geom:longitude":13.368511,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00fctzowstr. 102-104",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472043858,
-    "wof:geomhash":"8160b34e9300dd97c1c67360580d24de",
+    "wof:geomhash":"23e0b7e68d5877e92879e784f91b8e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957473695,
-    "wof:lastmodified":1472043858,
+    "wof:lastmodified":1496354124,
     "wof:name":"Strauch Siebdruck Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957939643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

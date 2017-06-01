@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.558934,52.469994,13.558934,52.469994",
     "geom:latitude":52.469994,
     "geom:longitude":13.558934,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"K\u00f6penicker Str. 325",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3EkEiLeCAK3NebxxK0nQck_52.469994_13.558934@1306269129"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f99a62ca257b62ad5f594c26e59b3c8c",
+    "wof:geomhash":"47201d724516e19bd3afb009ad0ce2d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287239279,
-    "wof:lastmodified":1466231404,
+    "wof:lastmodified":1496354125,
     "wof:name":"Htm Reetz Gmbh",
     "wof:parent_id":85900267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202910567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

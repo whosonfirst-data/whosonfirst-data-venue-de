@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.405705,52.510788,13.405705,52.510788",
     "geom:latitude":52.510788,
     "geom:longitude":13.405705,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neue Gruenstr. 27",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3O5NEn2vX52UV8JtDD3OM5_52.510788_13.405705@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5384170ef30109094f656c81cb4fb416",
+    "wof:geomhash":"bd59ee9e5b493c6d23fcea949b561828",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135367235,
-    "wof:lastmodified":1466219654,
+    "wof:lastmodified":1496354128,
     "wof:name":"Denkmalpflege Berlin Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940952477
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4988718033,52.5394859314,13.4988718033,52.5394859314",
     "geom:latitude":52.539486,
     "geom:longitude":13.498872,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Genslerstr. 18",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472009151,
-    "wof:geomhash":"cf990cdac03c37857e86dc2cd3949d1b",
+    "wof:geomhash":"52be46158cbefb787be8b54df078a287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941005649,
-    "wof:lastmodified":1472009151,
+    "wof:lastmodified":1496354127,
     "wof:name":"Hotel Kolumbus Gmbh",
     "wof:parent_id":85928753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957642811
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

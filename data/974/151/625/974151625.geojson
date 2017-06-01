@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4665470123,52.4620018005,13.4665470123,52.4620018005",
     "geom:latitude":52.462002,
     "geom:longitude":13.466547,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boschweg 13",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472096091,
-    "wof:geomhash":"48c0e40840f2ba8e025954eefd5f11e6",
+    "wof:geomhash":"4b327909d6726b9e325224c17e699fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":974151625,
-    "wof:lastmodified":1472096091,
+    "wof:lastmodified":1496354128,
     "wof:name":"Berliner Wochenblatt Verlag Gmbh",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957466717
+    ],
+    "wof:supersedes":[
+        286630403
+    ],
     "wof:tags":[]
 },
   "bbox": [

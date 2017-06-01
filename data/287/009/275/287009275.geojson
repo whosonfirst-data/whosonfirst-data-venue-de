@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.393635,52.48819,13.393635,52.48819",
     "geom:latitude":52.48819,
     "geom:longitude":13.393635,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Arndtstrasse 34",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4xfDISP9z9otGBODKh4Y0a_52.488190_13.393635@1306268942"
     },
     "wof:country":"DE",
-    "wof:geomhash":"385a4b4dbb8fa5e3c2fcc38e387bf580",
+    "wof:geomhash":"9a11615444d2cbd25675c0796608a949",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287009275,
-    "wof:lastmodified":1466225268,
+    "wof:lastmodified":1496354125,
     "wof:name":"Yellout Ag",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940800145
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

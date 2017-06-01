@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.38281,52.495201,13.38281,52.495201",
     "geom:latitude":52.495201,
     "geom:longitude":13.38281,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wartenburgstr. 22::",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2quuuke9EvusfA7FIeOfcf_52.495201_13.382810@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"31d1556d68f61a4c5b9ba288c0db49a0",
+    "wof:geomhash":"a31254695d27d6113f01dcca43b9c04b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118518917,
-    "wof:lastmodified":1466213497,
+    "wof:lastmodified":1496354124,
     "wof:name":"Consult Steuerberatungsgesellschaft Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958145971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

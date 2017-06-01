@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3101139069,52.4882392883,13.3101139069,52.4882392883",
     "geom:latitude":52.488239,
     "geom:longitude":13.310114,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaubstr. 7",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471988267,
-    "wof:geomhash":"398acbcad314f5b618ec48929ea230a2",
+    "wof:geomhash":"82bfdb5aad2944d1b9afeba82511d5d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":940591051,
-    "wof:lastmodified":1471988267,
+    "wof:lastmodified":1496354127,
     "wof:name":"Gfg Gesellschaft F\u00fcr Grundbesitz Mbh & Co.",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135561767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

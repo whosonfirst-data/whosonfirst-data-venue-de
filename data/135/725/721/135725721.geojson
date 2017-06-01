@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.292458,52.499962,13.292458,52.499962",
     "geom:latitude":52.499962,
     "geom:longitude":13.292458,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Katharinenstr. 18",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3vZrwqBrpvKiF9LNmMhgHP_52.499962_13.292458@1306268868"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e9d457655c500df3c7361e96d149f257",
+    "wof:geomhash":"7204715eed7bebd426b0dc08a733aaf2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":135725721,
-    "wof:lastmodified":1466243107,
+    "wof:lastmodified":1496354125,
     "wof:name":"Nostro Treuhand Und Gesch\u00e4ftsf\u00fchrungs-gmbh & Co.",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941116813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

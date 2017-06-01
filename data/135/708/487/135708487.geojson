@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.351235,52.500343,13.351235,52.500343",
     "geom:latitude":52.500343,
     "geom:longitude":13.351235,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kleiststr. 3-6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7Ur2l2w0Dnjjdxk8DNn7UB_52.500343_13.351235@1306268867"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0b76fca62cace18d6fc798fceed53e57",
+    "wof:geomhash":"7e820baa518f4632ef71cdd3f3c836e0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":135708487,
-    "wof:lastmodified":1466242661,
+    "wof:lastmodified":1496354123,
     "wof:name":"Nbw Grundst\u00fcckswohnbauten- Gmbh & Co. Kg",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974481985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

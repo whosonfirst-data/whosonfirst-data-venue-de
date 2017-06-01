@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.33726,52.503654,13.33726,52.503654",
     "geom:latitude":52.503654,
     "geom:longitude":13.33726,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"tauentzienstrasse 15",
     "sg:city":"berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4GrjQQTjhReBEQoGIczfJI_52.503654_13.337260@1306268892"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8d01bc705df4ff7837b74a9543cd2a0d",
+    "wof:geomhash":"5fd930e5fbb8e55837c64f9bcdb61e21",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":152915095,
-    "wof:lastmodified":1466229770,
+    "wof:lastmodified":1496354128,
     "wof:name":"Rechtsanwaelte Viereck Und Partner",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957521559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.39867,52.418316,13.39867,52.418316",
     "geom:latitude":52.418316,
     "geom:longitude":13.39867,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ifenpfad 2-4",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4U5FatCSBwEStFObmlzm8u_52.418316_13.398670@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"88972498703917e09b79914e250a4bc9",
+    "wof:geomhash":"7c14e10c3eeff47d96d6f9a4f1f9490c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286617073,
-    "wof:lastmodified":1466233107,
+    "wof:lastmodified":1496354123,
     "wof:name":"Quintessenz Verlags Gmbh",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957467757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

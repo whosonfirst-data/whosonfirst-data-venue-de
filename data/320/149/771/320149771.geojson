@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.369519,52.5504,13.369519,52.5504",
     "geom:latitude":52.5504,
     "geom:longitude":13.369519,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gottschedstr. 4",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6Zq8Zj4m7DF4QsynxpU6pk_52.550400_13.369519@1306269141"
     },
     "wof:country":"DE",
-    "wof:geomhash":"af9e4831f27055723b32b2d7626c8cde",
+    "wof:geomhash":"edb03a95110883391c436caa560daf98",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320149771,
-    "wof:lastmodified":1466236717,
+    "wof:lastmodified":1496354123,
     "wof:name":"Rotaprint Intra Export Gmbh",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957689823
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

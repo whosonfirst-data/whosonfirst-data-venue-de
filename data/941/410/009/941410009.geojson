@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3172082901,52.4863739014,13.3172082901,52.4863739014",
     "geom:latitude":52.486374,
     "geom:longitude":13.317208,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berliner Str. 117",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472026698,
-    "wof:geomhash":"25f205f87a5e05881e8b68ec269daa4c",
+    "wof:geomhash":"851ff0d59fcf598350aaa5d1d9a248eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941410009,
-    "wof:lastmodified":1472026698,
+    "wof:lastmodified":1496354127,
     "wof:name":"Hs Universalbau Gmbh",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941527465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

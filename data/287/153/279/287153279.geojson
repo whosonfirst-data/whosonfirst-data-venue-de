@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.413509,52.521305,13.413509,52.521305",
     "geom:latitude":52.521305,
     "geom:longitude":13.413509,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alexanderplatz 2",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1Xfr07wBcR6rrZ6wkdoS09_52.521305_13.413509@1306268944"
     },
     "wof:country":"DE",
-    "wof:geomhash":"27c67e7a22724dcce6f2573c97173159",
+    "wof:geomhash":"c056e180f1e8be1e890ff58ccd9171a8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287153279,
-    "wof:lastmodified":1466229191,
+    "wof:lastmodified":1496354128,
     "wof:name":"Bankgesellschaft Berlin",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135363803
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

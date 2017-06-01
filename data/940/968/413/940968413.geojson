@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4207305908,52.5007324219,13.4207305908,52.5007324219",
     "geom:latitude":52.500732,
     "geom:longitude":13.420731,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oranienstr. 183",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472007320,
-    "wof:geomhash":"175bb6d12668eef8c970960b31586b47",
+    "wof:geomhash":"1c9edf6ae4801ed083ce60d8287987e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":940968413,
-    "wof:lastmodified":1472007320,
+    "wof:lastmodified":1496354122,
     "wof:name":"Druckerei Wilhelm Schwarz Kg",
     "wof:parent_id":85900107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957360851
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

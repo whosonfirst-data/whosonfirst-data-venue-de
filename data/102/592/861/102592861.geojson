@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.32435,52.456272,13.32435,52.456272",
     "geom:latitude":52.456272,
     "geom:longitude":13.32435,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-L\u00fcck-Str. 1",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6Y9yect3hYvVNK5Smqldl5_52.456272_13.324350@1306268871"
     },
     "wof:country":"DE",
-    "wof:geomhash":"737bf8dcee384c3bd2feed00dac4a167",
+    "wof:geomhash":"be30da077ffde746a3096bac46e11679",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102592861,
-    "wof:lastmodified":1466235023,
+    "wof:lastmodified":1496354124,
     "wof:name":"Scout-die Kaufst\u00e4tte Der Jugend",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957644447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

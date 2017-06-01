@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.381769,52.522804,13.381769,52.522804",
     "geom:latitude":52.522804,
     "geom:longitude":13.381769,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reinhardtstrasse 29 c",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4yKwpVG65tTedRUxWWDbg2_52.522804_13.381769@1306268888"
     },
     "wof:country":"DE",
-    "wof:geomhash":"84bac290630d38c6bcb2b94654b1c70d",
+    "wof:geomhash":"39c002b401a2040d6f633d7d6f43c8c8",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":136040155,
-    "wof:lastmodified":1466213952,
+    "wof:lastmodified":1496354127,
     "wof:name":"Cut For You",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152246725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

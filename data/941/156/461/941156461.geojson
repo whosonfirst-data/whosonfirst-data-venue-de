@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3261432648,52.5249595642,13.3261432648,52.5249595642",
     "geom:latitude":52.52496,
     "geom:longitude":13.326143,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserin-Augusta-All. 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015876,
-    "wof:geomhash":"38bf49d6de068f2bf52387762a3ec197",
+    "wof:geomhash":"11083ae948906770b9709280f70741bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941156461,
-    "wof:lastmodified":1472015876,
+    "wof:lastmodified":1496354128,
     "wof:name":"Dr. Krause Software-gmbh",
     "wof:parent_id":85899911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957955363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

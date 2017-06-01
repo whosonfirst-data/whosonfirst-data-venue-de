@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3237886429,52.5071640015,13.3237886429,52.5071640015",
     "geom:latitude":52.507164,
     "geom:longitude":13.323789,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carmerstr. 6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472026476,
-    "wof:geomhash":"cd063baa4724acaf4a3bad0847289deb",
+    "wof:geomhash":"4446a4d07f393918f2b25daeef0493b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941404687,
-    "wof:lastmodified":1472026476,
+    "wof:lastmodified":1496354123,
     "wof:name":"Dr. Erich Marx Gmbh",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958293777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.424155,52.521214,13.424155,52.521214",
     "geom:latitude":52.521214,
     "geom:longitude":13.424155,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rosenthalerstr. 42",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5pJg7lbnelBw04TmvRAkAy_52.521214_13.424155@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cb31e0de410bb512505d6167d916ba4b",
+    "wof:geomhash":"0c25645bb9a2f50106d83588f51e95a1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253060899,
-    "wof:lastmodified":1466220524,
+    "wof:lastmodified":1496354124,
     "wof:name":"Nostro Film Gmbh",
     "wof:parent_id":85899171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940721717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

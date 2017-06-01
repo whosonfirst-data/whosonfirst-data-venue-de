@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.453768,52.534882,13.453768,52.534882",
     "geom:latitude":52.534882,
     "geom:longitude":13.453768,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Storkower Str 125a",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_78pqY1fh2ZT2DPEKkT9EGT_52.534882_13.453768@1306268945"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b174067d28a89d6d44bfd5bb952505fd",
+    "wof:geomhash":"8586a092bcc3d9f730399836c05e00fa",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102747581,
-    "wof:lastmodified":1466218108,
+    "wof:lastmodified":1496354128,
     "wof:name":"Factus W\u00e4rmetechnische Anlagen Gmbh & Co Betriebs-kg",
     "wof:parent_id":85928747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287261035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

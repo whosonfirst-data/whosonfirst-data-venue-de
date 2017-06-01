@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.323789,52.507164,13.323789,52.507164",
     "geom:latitude":52.507164,
     "geom:longitude":13.323789,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carmerstr. 6",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7KpipWebGgHNcrfMhfnkYS_52.507164_13.323789@1306268819"
     },
     "wof:country":"DE",
-    "wof:geomhash":"91ba18ee65a84b8fde99bb4ccdf68237",
+    "wof:geomhash":"bbced30956e24e3a2e3450d3f185cc47",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":119135929,
-    "wof:lastmodified":1466222886,
+    "wof:lastmodified":1496354123,
     "wof:name":"Stema Bauconsult Gmbh",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941127067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

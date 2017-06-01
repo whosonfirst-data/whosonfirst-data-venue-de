@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.356763,52.484642,13.356763,52.484642",
     "geom:latitude":52.484642,
     "geom:longitude":13.356763,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Feurigstr. 59",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_226YGphEMgcVAuL6YZtwey_52.484642_13.356763@1306268837"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3a4a62dce250b772614ee8eec353e89c",
+    "wof:geomhash":"3ebb5179b37747a4aa109b3a4817c990",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":119453451,
-    "wof:lastmodified":1466242822,
+    "wof:lastmodified":1496354123,
     "wof:name":"Laaser & Co. Gmbh",
     "wof:parent_id":85900119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941148007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

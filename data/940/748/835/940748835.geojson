@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3888168335,52.5181999207,13.3888168335,52.5181999207",
     "geom:latitude":52.5182,
     "geom:longitude":13.388817,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Friedrichstra\u00dfe 90",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471996330,
-    "wof:geomhash":"eeb05362a1d6ce6b2b1e14e408e24bac",
+    "wof:geomhash":"b0dca101f1377ac4fba9b12871d1e8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":940748835,
-    "wof:lastmodified":1471996330,
+    "wof:lastmodified":1496354126,
     "wof:name":"Dussmann - Das Kulturkaufhaus",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957691995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

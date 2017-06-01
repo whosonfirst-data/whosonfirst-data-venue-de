@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.380677,52.497364,13.380677,52.497364",
     "geom:latitude":52.497364,
     "geom:longitude":13.380677,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Obentrautstr. 72",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4UTU1LcClCAIe3zgs4XkRa_52.497364_13.380677@1306268911"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5171b97159c2fb1e164664175a171fb4",
+    "wof:geomhash":"c792469a8cd4a0436d84a5782681ce86",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219857811,
-    "wof:lastmodified":1466227473,
+    "wof:lastmodified":1496354122,
     "wof:name":"Freecom Europe Gmbh",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941155685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

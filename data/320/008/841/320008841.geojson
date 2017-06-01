@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.375565,52.543472,13.375565,52.543472",
     "geom:latitude":52.543472,
     "geom:longitude":13.375565,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gerichtstr. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5Q2CEjwa1YyTt6dKJ3WKY0_52.543472_13.375565@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9e3be8496da129876c35b64942a83dbb",
+    "wof:geomhash":"718cbe736237d407cf81f367f8c415f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320008841,
-    "wof:lastmodified":1466233524,
+    "wof:lastmodified":1496354125,
     "wof:name":"Gebr. Bolzani Hebezeugtechnik Gmbh",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303171037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

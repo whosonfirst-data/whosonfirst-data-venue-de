@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.372028,52.557762,13.372028,52.557762",
     "geom:latitude":52.557762,
     "geom:longitude":13.372028,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schwedenstr. 9",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4jRWUJ8rhPjUvcb8ny2j9U_52.557762_13.372028@1306268874"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e9e54ddd7fd5954fa977d7ae1985a6fe",
+    "wof:geomhash":"fa58cf5a595a0f6c6a3a5c0166376a52",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135807513,
-    "wof:lastmodified":1466244103,
+    "wof:lastmodified":1496354125,
     "wof:name":"Dr. Ing. Pelle Ingenieurges. Mbh",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941165869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

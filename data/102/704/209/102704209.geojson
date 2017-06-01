@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.33144,52.600273,13.33144,52.600273",
     "geom:latitude":52.600273,
     "geom:longitude":13.33144,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oranienburger Str 172",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4pMBqfICVcT9ZLVwgceU1g_52.600273_13.331440@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5a82092796a5d9163fa6fe2551ed234e",
+    "wof:geomhash":"dd01a5c8277c64e36fabb8460bc124c6",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102704209,
-    "wof:lastmodified":1466216259,
+    "wof:lastmodified":1496354122,
     "wof:name":"Druckerei Conrad Gmbh",
     "wof:parent_id":85899593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957469697
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

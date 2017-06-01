@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.39239,52.508518,13.39239,52.508518",
     "geom:latitude":52.508518,
     "geom:longitude":13.39239,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Charlottenstr. 18",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4vCwug8D5FBZTvNmiysX7R_52.508518_13.392390@1306268869"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e743ada86723e7af242d4f11457411af",
+    "wof:geomhash":"b1ba2978a1adcade2ceeb76f6309a507",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135732199,
-    "wof:lastmodified":1466243194,
+    "wof:lastmodified":1496354123,
     "wof:name":"Dr. Held & M\u00f6llendorf Verwaltungs Gmbh & Co.",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974229205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

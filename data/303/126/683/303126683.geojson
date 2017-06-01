@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.299744,52.579433,13.299744,52.579433",
     "geom:latitude":52.579433,
     "geom:longitude":13.299744,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Holzhauser Str. 43-49",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4PyoqZgLZPOmpprCODlUdt_52.579433_13.299744@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2188a4bf386918d60ed8885387d1dbce",
+    "wof:geomhash":"822750a2240a7985e131cd3b001fd8ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303126683,
-    "wof:lastmodified":1466227619,
+    "wof:lastmodified":1496354127,
     "wof:name":"Sizilia Citruss\u00c4fte Gmbh & Co Produktions Kg",
     "wof:parent_id":85905649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252922129
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4484090805,52.5052185059,13.4484090805,52.5052185059",
     "geom:latitude":52.505219,
     "geom:longitude":13.448409,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Warschauer Str. 34-38",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472011540,
-    "wof:geomhash":"f85f56d513c7f2d1d095769d2a90e6e7",
+    "wof:geomhash":"d7eae723d5727bc54b70c538e083e3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941060057,
-    "wof:lastmodified":1472011540,
+    "wof:lastmodified":1496354125,
     "wof:name":"Degefulva Grundst\u00fccksver- Waltungsges. Mbh Berlin & Co.",
     "wof:parent_id":85900107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958326393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.391393,52.511692,13.391393,52.511692",
     "geom:latitude":52.511692,
     "geom:longitude":13.391393,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Charlottenstr. 62",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_36H6iAcPdbzgDHBooRzLK9_52.511692_13.391393@1306268866"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a1f534a42cd06ae9d2d2f913cd947463",
+    "wof:geomhash":"0fff11bfe4a230be5b47486e32da0b00",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135690319,
-    "wof:lastmodified":1466242140,
+    "wof:lastmodified":1496354128,
     "wof:name":"Blbg Bautr\u00e4ger- Und Baubetreuungs Gmbh & Co.",
     "wof:parent_id":85899637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135727621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
