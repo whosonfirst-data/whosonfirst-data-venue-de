@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.798736,52.314201,9.798736,52.314201",
     "geom:latitude":52.314201,
     "geom:longitude":9.798736,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karlsruher Str. 18",
     "sg:city":"Laatzen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_44vNfa0yhwNtOuxs0oGctf_52.314201_9.798736@1306268954"
     },
     "wof:country":"DE",
-    "wof:geomhash":"229da70d7f55fd58bbd57674480220c2",
+    "wof:geomhash":"6472b6d764e205fd3535a39e46df550f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319852245,
-    "wof:lastmodified":1466233143,
+    "wof:lastmodified":1510943879,
     "wof:name":"Famacs E. K.",
     "wof:parent_id":85899629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135472619
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

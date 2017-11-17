@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.586255,51.010662,8.586255,51.010662",
     "geom:latitude":51.010662,
     "geom:longitude":8.586255,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 2",
     "sg:city":"Hatzfeld",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_5mLJeFtCFhh2nDIAdY29Z8_51.010662_8.586255@1306269123"
     },
     "wof:country":"DE",
-    "wof:geomhash":"89dd5104c77c770a6ddb62b8ce386097",
+    "wof:geomhash":"c334a5e6535e3f23b3ae492ff481598c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":286441177,
-    "wof:lastmodified":1466228757,
+    "wof:lastmodified":1510942133,
     "wof:name":"Stahl Und Apparatebau Specht Ohg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941150267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.998998,49.046616,8.998998,49.046616",
     "geom:latitude":49.046616,
     "geom:longitude":8.998998,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vohbergstra\u00dfe 13",
     "sg:city":"G\u00fcglingen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2K8h0pjMtFRrHFxigzUcvT_49.046616_8.998998@1306268887"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f012c6d81962ebce1c5944f2527a32b3",
+    "wof:geomhash":"51593e96e2e1811b2a2e6d0e1e7eb6d1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":152758393,
-    "wof:lastmodified":1466226063,
+    "wof:lastmodified":1510943469,
     "wof:name":"Bio-spain E.k.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940780201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

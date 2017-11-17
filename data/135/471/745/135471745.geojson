@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.777009,51.214207,6.777009,51.214207",
     "geom:latitude":51.214207,
     "geom:longitude":6.777009,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Friedrichstrasse 56::",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2014PM76QJbhZJPC6xlo7V_51.214207_6.777009@1306268854"
     },
     "wof:country":"DE",
-    "wof:geomhash":"05a26f77b4ada8c0d1882250fce345dd",
+    "wof:geomhash":"28a6487de6e75e5e0da2db67ab05afe1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":135471745,
-    "wof:lastmodified":1466228993,
+    "wof:lastmodified":1510941242,
     "wof:name":"Westlb Europa Holding Ag",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974500453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

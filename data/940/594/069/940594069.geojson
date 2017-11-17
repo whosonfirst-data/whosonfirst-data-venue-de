@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4294967651,52.5857620239,13.4294967651,52.5857620239",
     "geom:latitude":52.585762,
     "geom:longitude":13.429497,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pasewalker Str. 111",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471988410,
-    "wof:geomhash":"88a7525032bf6d04c2e25615cc59c00f",
+    "wof:geomhash":"191835f5c9d669ff495c65081b4eb7cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":940594069,
-    "wof:lastmodified":1471988410,
+    "wof:lastmodified":1510943324,
     "wof:name":"First Glasm\u00f6bel Berlin Gmbh",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941152629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

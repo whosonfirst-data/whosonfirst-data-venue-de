@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.918748,53.575493,9.918748,53.575493",
     "geom:latitude":53.575493,
     "geom:longitude":9.918748,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schnackenburgallee 15",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4SdVEX9SiFMBb8rGxUY9SV_53.575493_9.918748@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"468beb728796f881501cf2eb45c94d20",
+    "wof:geomhash":"90f089355d8b0f85bf64c550861b98b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":319924757,
-    "wof:lastmodified":1466235055,
+    "wof:lastmodified":1510943959,
     "wof:name":"Borgwaldt Technik Gmbh",
     "wof:parent_id":85899761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974457705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

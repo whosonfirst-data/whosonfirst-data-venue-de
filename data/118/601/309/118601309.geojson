@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.451935,48.113129,11.451935,48.113129",
     "geom:latitude":48.113129,
     "geom:longitude":11.451935,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lochhamer Str 31",
     "sg:city":"Planegg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3vmpHL2jQfmzgbuKtj3BF5_48.113129_11.451935@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"008cda436e44ff122432cf0e14faa0a1",
+    "wof:geomhash":"7a46df0874f143712dcea7f58d31c9cc",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118601309,
-    "wof:lastmodified":1466218266,
+    "wof:lastmodified":1510943627,
     "wof:name":"Druckluft Manglitz Gmbh",
     "wof:parent_id":85899225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286874729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0660200119,53.5717086792,10.0660200119,53.5717086792",
     "geom:latitude":53.571709,
     "geom:longitude":10.06602,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neumann-Reichardt-Str 27-33",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472043346,
-    "wof:geomhash":"8c79fbccad596b40de27dabb75428ad0",
+    "wof:geomhash":"cc46ae03fbcff2a1433191a873311409",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957462181,
-    "wof:lastmodified":1472043346,
+    "wof:lastmodified":1510943909,
     "wof:name":"Hans-j\u00fcrgen Schulz Ek",
     "wof:parent_id":85899247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957677939
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

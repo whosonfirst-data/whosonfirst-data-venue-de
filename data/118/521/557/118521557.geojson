@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.836672,54.472595,9.836672,54.472595",
     "geom:latitude":54.472595,
     "geom:longitude":9.836672,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kieler Str. 1::",
     "sg:city":"Eckernfoerde",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7bVX84R44OwKWvELJ6ow1u_54.472595_9.836672@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ff21e1b940e472fd3127910ab0eb31b0",
+    "wof:geomhash":"9f5d09add3421fa00b9660c48864c107",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118521557,
-    "wof:lastmodified":1466213710,
+    "wof:lastmodified":1510941968,
     "wof:name":"Kreis- Und Stadtsparkasse Eckernfoerde",
     "wof:parent_id":101805145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135391663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

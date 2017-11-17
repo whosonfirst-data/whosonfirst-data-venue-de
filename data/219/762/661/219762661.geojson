@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.443084,52.043682,8.443084,52.043682",
     "geom:latitude":52.043682,
     "geom:longitude":8.443084,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Katzenstr. 1",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0XB3PGbQ8YImMmcOFCg35B_52.043682_8.443084@1306268910"
     },
     "wof:country":"DE",
-    "wof:geomhash":"43eadbad46cc4e4018dff7770777f2e2",
+    "wof:geomhash":"51d72ddeeb4a4648d1fe23cb066a98dc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":219762661,
-    "wof:lastmodified":1466225566,
+    "wof:lastmodified":1510942096,
     "wof:name":"Herbert K\u00f6lsch Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974146879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

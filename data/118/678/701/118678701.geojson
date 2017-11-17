@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.672316,53.844563,10.672316,53.844563",
     "geom:latitude":53.844563,
     "geom:longitude":10.672316,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hinter den Kirschkaten 35",
     "sg:city":"L\u00fcbeck",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2vDM02z3DjUu8aU3oN1gDD_53.844563_10.672316@1306268799"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5c1cd395ce0546c3561a445e868577a6",
+    "wof:geomhash":"ad30077ea5c1769b7eb7f00b450a062e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118678701,
-    "wof:lastmodified":1466222658,
+    "wof:lastmodified":1510944082,
     "wof:name":"Metallgu\u00df Sigismund Benedict Gmbh & Co Kg",
     "wof:parent_id":85899971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336625089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

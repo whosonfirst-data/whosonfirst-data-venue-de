@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.731861,51.70116,8.731861,51.70116",
     "geom:latitude":51.70116,
     "geom:longitude":8.731861,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stettiner Str. 34",
     "sg:city":"Paderborn",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_35DcUwqB4EW1CwOy4bAuwz_51.701160_8.731861@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"49a5e23dffdeb863ce65a44a19c20623",
+    "wof:geomhash":"e130cb4bc71a9e753e8eaedcc7572987",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286557881,
-    "wof:lastmodified":1466231539,
+    "wof:lastmodified":1510943326,
     "wof:name":"Botec Stahl- Und Maschinenbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958127263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

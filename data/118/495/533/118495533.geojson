@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.432247,48.808418,9.432247,48.808418",
     "geom:latitude":48.808418,
     "geom:longitude":9.432247,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alfred-Klingele-Str 32",
     "sg:city":"Remshalden",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6JFUzEHmQjG8EzYP7Ytmsc_48.808418_9.432247@1306268972"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d46809c80837527e4f9043de1b1b21f8",
+    "wof:geomhash":"a654e77a8e8e282a3f4c9f2192a184d3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118495533,
-    "wof:lastmodified":1466214345,
+    "wof:lastmodified":1510943680,
     "wof:name":"Erga Trennwandbau Gmbh",
     "wof:parent_id":101762005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135678271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

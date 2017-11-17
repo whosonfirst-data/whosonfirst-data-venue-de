@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.21489,48.501209,9.21489,48.501209",
     "geom:latitude":48.501209,
     "geom:longitude":9.21489,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Heilbrunnen 47",
     "sg:city":"Reutlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_04uTtQZVtnUCE286R1ZpMJ_48.501209_9.214890@1306268950"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4fe4589ba6e421772b2c30cd5d1e0656",
+    "wof:geomhash":"360e4fb19bdb58f120d0df31f4b130f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303588353,
-    "wof:lastmodified":1466237746,
+    "wof:lastmodified":1510944114,
     "wof:name":"Doculine Verlags Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957479775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

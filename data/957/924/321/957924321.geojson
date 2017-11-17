@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.797999382,53.0819625854,8.797999382,53.0819625854",
     "geom:latitude":53.081963,
     "geom:longitude":8.797999,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Wall 58-60",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472070134,
-    "wof:geomhash":"f456e0ee7e8bde017634ae5a58b5b558",
+    "wof:geomhash":"fa75907f994310eaf4fe47a9d172dc1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957924321,
-    "wof:lastmodified":1472070134,
+    "wof:lastmodified":1510942035,
     "wof:name":"Hansa Mare Reederei Gmbh & Co. Kg",
     "wof:parent_id":85794719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957926489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

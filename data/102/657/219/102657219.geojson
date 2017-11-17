@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.183775,48.736771,11.183775,48.736771",
     "geom:latitude":48.736771,
     "geom:longitude":11.183775,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schrannenplatz 209",
     "sg:city":"Neuburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7LlG2a5yTFvdV7M2s72OSL_48.736771_11.183775@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"285a66548f2d893f9130d847ec4aede3",
+    "wof:geomhash":"88c1854fb5877540577f9e839e5c9152",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102657219,
-    "wof:lastmodified":1466214988,
+    "wof:lastmodified":1510941192,
     "wof:name":"Raiffeisenbank Neuburg Donau Eg",
     "wof:parent_id":101782999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102560583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

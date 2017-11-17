@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.554273,54.031071,10.554273,54.031071",
     "geom:latitude":54.031071,
     "geom:longitude":10.554273,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ahrensb\u00f6ker Stra\u00dfe 1 a",
     "sg:city":"Glasau",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0TMRVYqdZPF8qAxP6OZ3NI_54.031071_10.554273@1306268890"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9b69623d8516549d5250ca5801058b0c",
+    "wof:geomhash":"19aa9ef5097149a47cf0aaef0d28dc53",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":136086987,
-    "wof:lastmodified":1466216127,
+    "wof:lastmodified":1510942210,
     "wof:name":"J\u00fcrgens & Westphal Stra\u00dfen- Und Tiefbau Gmbh",
     "wof:parent_id":85682517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253133849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.818917,51.228157,6.818917,51.228157",
     "geom:latitude":51.228157,
     "geom:longitude":6.818917,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gaussstr. 22",
     "sg:city":"Duesseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5g9mcnTlraYQd3DjUc9p0a_51.228157_6.818917@1306268923"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d9830444fbe26537e16b9baeba747f31",
+    "wof:geomhash":"240a919e638090500af993dbba9998c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253134255,
-    "wof:lastmodified":1466221868,
+    "wof:lastmodified":1510941849,
     "wof:name":"Karl Amand Gmbh & Co. Kg",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219482843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

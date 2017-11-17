@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0538368225,53.5327987671,10.0538368225,53.5327987671",
     "geom:latitude":53.532799,
     "geom:longitude":10.053837,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Marckmannstrasse 162",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015525,
-    "wof:geomhash":"85bb12a739f9546aee2597ae46513464",
+    "wof:geomhash":"043be10b62c0d8267d9508e3e2049ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941148223,
-    "wof:lastmodified":1472015525,
+    "wof:lastmodified":1510941836,
     "wof:name":"C & E Interplastics Gmbh",
     "wof:parent_id":85899257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940869029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

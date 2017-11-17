@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.60747,48.153629,11.60747,48.153629",
     "geom:latitude":48.153629,
     "geom:longitude":11.60747,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vilshofener Str. 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4jdlwPynHOchThqRcV5s6M_48.153629_11.607470@1306268866"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a81c825b6e5594132219025b02489ca4",
+    "wof:geomhash":"8eb562076584d4ede800293f0a89779f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":135689117,
-    "wof:lastmodified":1466242209,
+    "wof:lastmodified":1510941887,
     "wof:name":"Athos Immobilien- Und Projektentwicklungs Gmbh & Co.",
     "wof:parent_id":85899089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135720917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

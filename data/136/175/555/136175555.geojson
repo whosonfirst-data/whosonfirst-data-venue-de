@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.990947,50.953972,6.990947,50.953972",
     "geom:latitude":50.953972,
     "geom:longitude":6.990947,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Deutz-M\u00fclheimer Str 147-149",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1PyB0t7HCWTzbKUkL9HHEt_50.953972_6.990947@1306268896"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0caf33ec166b752a02324b0d960166e6",
+    "wof:geomhash":"174a913f93040a29dd9fe1a01787d743",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":136175555,
-    "wof:lastmodified":1466219954,
+    "wof:lastmodified":1510943752,
     "wof:name":"Deutz Ag",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287266909,
+        941148955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

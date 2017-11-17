@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.978699,53.45702,9.978699,53.45702",
     "geom:latitude":53.45702,
     "geom:longitude":9.978699,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hastedtstr. 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4gZDMKIVhuw6pGrnaPfcIX_53.457020_9.978699@1306268957"
     },
     "wof:country":"DE",
-    "wof:geomhash":"efa35f5ca62f17b15a4364ac49637ad8",
+    "wof:geomhash":"bc05f073606a5168886f9b4d1728f24e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320264537,
-    "wof:lastmodified":1466238406,
+    "wof:lastmodified":1510942942,
     "wof:name":"Bss Bauelemente- Studio S\u00fcd Gmbh",
     "wof:parent_id":85899035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941048297
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

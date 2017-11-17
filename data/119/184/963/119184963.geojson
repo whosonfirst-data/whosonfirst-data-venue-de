@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.221114,53.132107,8.221114,53.132107",
     "geom:latitude":53.132107,
     "geom:longitude":8.221114,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bremer Str. 14",
     "sg:city":"Oldenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5kWMbBs8T7MJoNiityOtyy_53.132107_8.221114@1306268822"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e39212274fd2287b4bc60c57adc295aa",
+    "wof:geomhash":"29fa2b266353b5ab1479c6a40fce2abf",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":119184963,
-    "wof:lastmodified":1466227398,
+    "wof:lastmodified":1510943309,
     "wof:name":"Zietz & Partner Oldenburg-",
     "wof:parent_id":101748835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941043097
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.597674,50.886456,11.597674,50.886456",
     "geom:latitude":50.886456,
     "geom:longitude":11.597674,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"G\u00f6schwitzer Str. 25",
     "sg:city":"Jena",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_08OW4H0mqQBItRVxOr7FFm_50.886456_11.597674@1306268911"
     },
     "wof:country":"DE",
-    "wof:geomhash":"eacfbd33cff18d59e6fffc6d11d66879",
+    "wof:geomhash":"8c0f8797fbdccded56077ac41c200bf8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":219864585,
-    "wof:lastmodified":1466227618,
+    "wof:lastmodified":1510942051,
     "wof:name":"Brooks Automation Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119459037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

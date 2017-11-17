@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.138695,50.997116,7.138695,50.997116",
     "geom:latitude":50.997116,
     "geom:longitude":7.138695,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rommerscheider Str. 50",
     "sg:city":"Bergisch Gladbach",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0K1BhA31mPO3ntbRD3HTnY_50.997116_7.138695@1306269104"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2096e6fd242a44b76d5e383455c07300",
+    "wof:geomhash":"e2f112c66e9adcc5b142168feba1e71c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236122159,
-    "wof:lastmodified":1466221054,
+    "wof:lastmodified":1510941970,
     "wof:name":"Das Licht Beleuchtungsk\u00f6rper Gmbh",
     "wof:parent_id":85794941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957930841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

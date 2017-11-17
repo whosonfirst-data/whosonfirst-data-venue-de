@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.579867,48.160995,11.579867,48.160995",
     "geom:latitude":48.160995,
     "geom:longitude":11.579867,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserstr. 39",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2jyLq15zlwCRNk5od5WA70_48.160995_11.579867@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8ee7f8b5ca0775f4b6537d20095c5b99",
+    "wof:geomhash":"522106524667271292bbca5ff89319da",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118575249,
-    "wof:lastmodified":1466216833,
+    "wof:lastmodified":1510941278,
     "wof:name":"Classic Media Werbeagentur Gmbh",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957485699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

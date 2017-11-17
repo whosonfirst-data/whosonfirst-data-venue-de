@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.91824,50.827209,12.91824,50.827209",
     "geom:latitude":50.827209,
     "geom:longitude":12.91824,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Aue 23-27",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_52MgfYkQfofgpumc4pvLOH_50.827209_12.918240@1306269128"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bd20f0fda6b9d1bb836b8b464c38d596",
+    "wof:geomhash":"f009d3cf564438deeb3887dca2ca8577",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":287016369,
-    "wof:lastmodified":1466225461,
+    "wof:lastmodified":1510943989,
     "wof:name":"Procon Gmbh",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319916391,
+        941147547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

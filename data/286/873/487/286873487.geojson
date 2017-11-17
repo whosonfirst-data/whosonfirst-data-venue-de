@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.377329,51.718159,13.377329,51.718159",
     "geom:latitude":51.718159,
     "geom:longitude":13.377329,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am M\u00fchlberg 10",
     "sg:city":"Schlieben",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4y9wW9T5oEMk9celDsfds0_51.718159_13.377329@1306268941"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4fcb40881a1c6a5e92d927589202b74c",
+    "wof:geomhash":"21e3f8fd73ff9c2507fb5c1c30deaf42",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":286873487,
-    "wof:lastmodified":1466237982,
+    "wof:lastmodified":1510943326,
     "wof:name":"Agrargenossenschaft Schlieben Eg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940625221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

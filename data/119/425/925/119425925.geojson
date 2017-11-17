@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.016963,52.673439,11.016963,52.673439",
     "geom:latitude":52.673439,
     "geom:longitude":11.016963,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfstr. 59a",
     "sg:city":"Tangeln",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_1HD427gVaclZxwOr7HPnMd_52.673439_11.016963@1306268835"
     },
     "wof:country":"DE",
-    "wof:geomhash":"985b286e9823c104a6742def2e44c045",
+    "wof:geomhash":"2c36702625c30b56dbd51f03ab997c44",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -35,13 +38,20 @@
         }
     ],
     "wof:id":119425925,
-    "wof:lastmodified":1466242341,
+    "wof:lastmodified":1510943720,
     "wof:name":"Ilonia Griese",
     "wof:parent_id":85682519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941250523,
+        940795571,
+        957682397,
+        958337855
+    ],
+    "wof:supersedes":[
+        957355053
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.310682,48.400124,13.310682,48.400124",
     "geom:latitude":48.400124,
     "geom:longitude":13.310682,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Simbacher Str. 17",
     "sg:city":"Pocking",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7DU6MD2YMNKaHnq48VE5KA_48.400124_13.310682@1306268948"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2038a6889193823f2302578aa3f5dfb5",
+    "wof:geomhash":"cd23a30b1d4b03c2085ef55f25378334",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303411361,
-    "wof:lastmodified":1466234739,
+    "wof:lastmodified":1510941855,
     "wof:name":"Kr\u00f6nner Buch- Und Offsetdruck Inh. Aloys Haller E. K.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102704493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

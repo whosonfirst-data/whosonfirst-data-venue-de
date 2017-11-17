@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.503874,47.963787,8.503874,47.963787",
     "geom:latitude":47.963787,
     "geom:longitude":8.503874,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Breslauer Str. 41",
     "sg:city":"Donaueschingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5DQ0gXd22psG73Ith0AY28_47.963787_8.503874@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f38f2c2cf5237245352db970fb91eb65",
+    "wof:geomhash":"d86f1ea821e3b95fa1a3499cd7fc7286",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336710005,
-    "wof:lastmodified":1466235987,
+    "wof:lastmodified":1510943041,
     "wof:name":"Klann-spezial- Werkzeugbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119460275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

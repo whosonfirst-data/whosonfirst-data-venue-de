@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3256,50.241711,11.3256,50.241711",
     "geom:latitude":50.241711,
     "geom:longitude":11.3256,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lucas-Cranach-Str. 20-22",
     "sg:city":"Kronach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5aZh3Iy6G0pcr40eVUhNcM_50.241711_11.325600@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a95651d469e973d01332b57fdd3cac02",
+    "wof:geomhash":"8b579f0416a560e524aae9163f891c68",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102628619,
-    "wof:lastmodified":1466214027,
+    "wof:lastmodified":1510943267,
     "wof:name":"Voitl\u00c4nder Gmbh & Co Kg",
     "wof:parent_id":101826083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118778025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

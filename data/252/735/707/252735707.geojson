@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.41429,53.240219,10.41429,53.240219",
     "geom:latitude":53.240219,
     "geom:longitude":10.41429,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Roten Bleiche 2-3",
     "sg:city":"L\u00fcneburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5JCRhT1P28AkcZFQFXSFhD_53.240219_10.414290@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a5892ac120a23dfb914b640051c82074",
+    "wof:geomhash":"1cc60c4afb3c30984fa6157c0b32d48f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252735707,
-    "wof:lastmodified":1466219619,
+    "wof:lastmodified":1510943338,
     "wof:name":"Hb Fuller Deutschland Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941143219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

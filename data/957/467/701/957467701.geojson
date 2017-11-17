@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0103616714,53.5826377869,10.0103616714,53.5826377869",
     "geom:latitude":53.582638,
     "geom:longitude":10.010362,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Muehlenkamp 45",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472043585,
-    "wof:geomhash":"02cd08ed57a7fc224879b391659166e7",
+    "wof:geomhash":"57b13b86d1e9b9a278e0d1f2a0739ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957467701,
-    "wof:lastmodified":1472043585,
+    "wof:lastmodified":1510941510,
     "wof:name":"Peer Musikverlag Gmbh",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941512187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

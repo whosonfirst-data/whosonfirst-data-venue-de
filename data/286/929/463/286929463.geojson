@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.591132,49.68528,8.591132,49.68528",
     "geom:latitude":49.68528,
     "geom:longitude":8.591132,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wiesenstra\u00dfe 2",
     "sg:city":"Bensheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2ZBQ7nMU0dN6OBsaMBkjwJ_49.685280_8.591132@1306268941"
     },
     "wof:country":"DE",
-    "wof:geomhash":"011a410cecdaa88c60b6e697f25ecdfd",
+    "wof:geomhash":"0984ad626e2125e843b133df4c5e32cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286929463,
-    "wof:lastmodified":1466239070,
+    "wof:lastmodified":1510942685,
     "wof:name":"Velten Feuerschutz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958279433
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

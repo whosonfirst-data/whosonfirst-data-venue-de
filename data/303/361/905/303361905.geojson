@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.013576,48.891552,10.013576,48.891552",
     "geom:latitude":48.891552,
     "geom:longitude":10.013576,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fachsenfelder Str. 33",
     "sg:city":"Abtsgm\u00fcnd",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2yC1OBS8kNvb19bPZKkTDw_48.891552_10.013576@1306269132"
     },
     "wof:country":"DE",
-    "wof:geomhash":"38861dc41861281cd5675cc62dd408ee",
+    "wof:geomhash":"54ce0d0c966a3dd61d71d0aa9ce022cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":303361905,
-    "wof:lastmodified":1466233407,
+    "wof:lastmodified":1510942900,
     "wof:name":"Renner Schlachthaus- Technik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957940127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

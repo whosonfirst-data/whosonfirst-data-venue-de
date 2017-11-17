@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.689115,50.366386,8.689115,50.366386",
     "geom:latitude":50.366386,
     "geom:longitude":8.689115,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Siemensstr. 1",
     "sg:city":"Ober-M\u00f6rlen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2Jgi6GQBDaXefEaYvjLEkZ_50.366386_8.689115@1306269122"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1aa4a7b8d10292e18ddd2c590e270274",
+    "wof:geomhash":"b9dde4684b7b6dbf7e9a86a12275c4a0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286323697,
-    "wof:lastmodified":1466226056,
+    "wof:lastmodified":1510941732,
     "wof:name":"Biwater Ibo Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941151901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

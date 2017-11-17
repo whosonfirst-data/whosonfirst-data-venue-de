@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.016174,51.454277,7.016174,51.454277",
     "geom:latitude":51.454277,
     "geom:longitude":7.016174,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gildehofstr. 1::",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5qPcFfEgaGE6F05wilfXyh_51.454277_7.016174@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1e63dfc889c8a5a5eca07ac01350753d",
+    "wof:geomhash":"4f8884846894bc51add61231ff0d9a5f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118521041,
-    "wof:lastmodified":1466213670,
+    "wof:lastmodified":1510942003,
     "wof:name":"Hypothekenbank In Essen Aktiengesellschaft",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957504625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

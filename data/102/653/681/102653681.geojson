@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.81174,48.942551,8.81174,48.942551",
     "geom:latitude":48.942551,
     "geom:longitude":8.81174,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heilbronner Str 40",
     "sg:city":"M\u00fchlacker",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0ScbpywAbSs4Sxgpj7wiwt_48.942551_8.811740@1306268837"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7d9df20cf0eb1d1f234a6353a740add1",
+    "wof:geomhash":"296e368e385a3c19e14d7ef0560eb4be",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102653681,
-    "wof:lastmodified":1466214863,
+    "wof:lastmodified":1510941575,
     "wof:name":"Tce Telecontrol-expert Gmbh",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135510891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

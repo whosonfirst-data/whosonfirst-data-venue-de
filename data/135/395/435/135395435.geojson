@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.484944,49.920017,8.484944,49.920017",
     "geom:latitude":49.920017,
     "geom:longitude":8.484944,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Darmst\u00e4dter Str. 22",
     "sg:city":"Gro\u00df Gerau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_58DnHfMN2iKRNTw8x5Ba0H_49.920017_8.484944@1306268849"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ba556ec6846599854ed8c06b5739d3a6",
+    "wof:geomhash":"e8b14a457523c1180a302a232c84b201",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135395435,
-    "wof:lastmodified":1466222470,
+    "wof:lastmodified":1510943443,
     "wof:name":"Kreissparkasse Gro\u00df Gerau",
     "wof:parent_id":101813485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102656883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

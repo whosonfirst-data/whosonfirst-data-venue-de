@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.747372,50.820995,8.747372,50.820995",
     "geom:latitude":50.820995,
     "geom:longitude":8.747372,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Emil-von-Behring-Str 76",
     "sg:city":"Marburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3uCTlEgKaWS3Hap78FFTUJ_50.820995_8.747372@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b5c874d4dbec5346eebedbbc7755de06",
+    "wof:geomhash":"b06995d8b0f9efb3a6864b4e21e8071e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118544883,
-    "wof:lastmodified":1466215118,
+    "wof:lastmodified":1510942319,
     "wof:name":"Pharmaserv Marburg Gmbh & Co Kg",
     "wof:parent_id":101748615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270266147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

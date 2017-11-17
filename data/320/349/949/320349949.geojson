@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.887669,48.068233,7.887669,48.068233",
     "geom:latitude":48.068233,
     "geom:longitude":7.887669,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rosenstrasse 24",
     "sg:city":"Denzlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5j2mjPbzBnqt8tvNQP3pEZ_48.068233_7.887669@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"52a9c4e2d3e6c296a2336e575176b471",
+    "wof:geomhash":"55dd03c7dda2f1666bfecafa07953ac9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320349949,
-    "wof:lastmodified":1466239651,
+    "wof:lastmodified":1510942692,
     "wof:name":"Schwarzwald Reiseb\u00fcro Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957630961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

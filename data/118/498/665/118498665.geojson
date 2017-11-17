@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.905479,50.888783,6.905479,50.888783",
     "geom:latitude":50.888783,
     "geom:longitude":6.905479,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Bosch-Str. 1a",
     "sg:city":"H\u00fcrth",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2CM9PQ2l4UpHOIURIHMNmT_50.888783_6.905479@1306268983"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7ba80843c7d7e70867575c119c7f00a9",
+    "wof:geomhash":"2f585c5282870228baba5375e71bc436",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118498665,
-    "wof:lastmodified":1466218919,
+    "wof:lastmodified":1510941971,
     "wof:name":"I & S Edv-training Und Beratung Gmbh",
     "wof:parent_id":85795563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270145075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

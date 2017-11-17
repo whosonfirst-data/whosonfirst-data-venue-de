@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.578525,49.978355,8.578525,49.978355",
     "geom:latitude":49.978355,
     "geom:longitude":8.578525,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Langener Str 100",
     "sg:city":"M\u00f6rfelden-Walldorf",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0rGUEpKVhcgOtrduVWDnHr_49.978355_8.578525@1306268944"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b14dcdb71d281d0aa5caa4f591064c87",
+    "wof:geomhash":"f04fd8390e3781cfd2fff329e2ec92ca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":287167569,
-    "wof:lastmodified":1466229585,
+    "wof:lastmodified":1510942542,
     "wof:name":"Motorenfabrik Hatz Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957439459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

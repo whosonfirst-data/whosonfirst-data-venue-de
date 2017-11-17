@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.138009,54.310272,10.138009,54.310272",
     "geom:latitude":54.310272,
     "geom:longitude":10.138009,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werftstr. 218",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1u5ztDQMfwszvRAYQpIJM6_54.310272_10.138009@1306269118"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1c04f315e2dafbf7b529f0d3d1149b35",
+    "wof:geomhash":"2d09308037ac3f832a3b610bc45c6962",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270097153,
-    "wof:lastmodified":1466223655,
+    "wof:lastmodified":1510942920,
     "wof:name":"Raiffeisen Haupt- Genossenschaft Nord Ag",
     "wof:parent_id":85899179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941157275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

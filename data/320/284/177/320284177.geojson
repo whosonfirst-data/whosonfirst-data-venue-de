@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.390012,52.541862,13.390012,52.541862",
     "geom:latitude":52.541862,
     "geom:longitude":13.390012,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Voltastr. 5",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6PaL68xcdma2GW76mUI2sg_52.541862_13.390012@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"80f2c3a8f57fec5c0f3389d29323fdfc",
+    "wof:geomhash":"20c5596a3d109ddb672e1d3305d98a1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320284177,
-    "wof:lastmodified":1466238734,
+    "wof:lastmodified":1510942560,
     "wof:name":"Flaskamp Gmbh",
     "wof:parent_id":85899193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974445459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

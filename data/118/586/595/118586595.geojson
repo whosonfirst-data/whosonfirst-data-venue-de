@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.816821,50.411629,10.816821,50.411629",
     "geom:latitude":50.411629,
     "geom:longitude":10.816821,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schackendorfer Str. 206",
     "sg:city":"Veilsdorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2zLM5Fe5q9MhDTtAjQItpx_50.411629_10.816821@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"42f7fc4137758e8e92679c36b71fb8d7",
+    "wof:geomhash":"d8aab7e65e02ad7f085c966a75acbcf8",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118586595,
-    "wof:lastmodified":1466217499,
+    "wof:lastmodified":1510943402,
     "wof:name":"Veilsdorfer Fischspezialitaeten Gmbh",
     "wof:parent_id":101824467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940590547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

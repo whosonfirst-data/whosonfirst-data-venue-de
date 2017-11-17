@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.55148,51.131191,9.55148,51.131191",
     "geom:latitude":51.131191,
     "geom:longitude":9.55148,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Braun-Str. 1",
     "sg:city":"Melsungen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2ewIA6DI1LEuksJdNqOEw1_51.131191_9.551480@1306269092"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2adbf4b061b1598f9d1483cecff506f5",
+    "wof:geomhash":"2356c8238e11ea24003c5ea553b4c6ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202596079,
-    "wof:lastmodified":1466217551,
+    "wof:lastmodified":1510943934,
     "wof:name":"B. Braun Petzold Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320417601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

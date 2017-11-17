@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.773049,52.333519,9.773049,52.333519",
     "geom:latitude":52.333519,
     "geom:longitude":9.773049,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hildesheimer Str. 305",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6q1KKiUCz5qwEoM8bcfKSO_52.333519_9.773049@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fb36bc1566d636ae6c164ff5d76a16d0",
+    "wof:geomhash":"f41e68588daa2f25b5d6ee687f03fe09",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252761631,
-    "wof:lastmodified":1466220099,
+    "wof:lastmodified":1510942135,
     "wof:name":"Chemische Fabrik W\u00dclfel Gmbh & Co Kg",
     "wof:parent_id":85899629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118561103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

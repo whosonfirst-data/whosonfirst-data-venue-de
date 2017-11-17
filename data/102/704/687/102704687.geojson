@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.447587,48.581577,9.447587,48.581577",
     "geom:latitude":48.581577,
     "geom:longitude":9.447587,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"In der Braike 21",
     "sg:city":"Owen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_177bn8lmSXfRm3Pj5Ytt71_48.581577_9.447587@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7c750458ac5cd082db13c9b85f90bfa1",
+    "wof:geomhash":"999487e602aabbcde1d67dcba2ee380f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102704687,
-    "wof:lastmodified":1466216279,
+    "wof:lastmodified":1510941972,
     "wof:name":"Idupa Sch\u00fcbelin Gmbh",
     "wof:parent_id":101763995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957471409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

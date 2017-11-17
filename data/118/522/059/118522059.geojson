@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.777563,50.708424,12.777563,50.708424",
     "geom:latitude":50.708424,
     "geom:longitude":12.777563,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rathausstrasse 2::",
     "sg:city":"Stollberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7FsbfRhaCWZov23ZGm3mTZ_50.708424_12.777563@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9a9d8fe129185f0f37cf5477e0f01972",
+    "wof:geomhash":"04aba0052968a743a61e577a204267be",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118522059,
-    "wof:lastmodified":1466213737,
+    "wof:lastmodified":1510943716,
     "wof:name":"Kreissparkasse Stollberg",
     "wof:parent_id":101841935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135366689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

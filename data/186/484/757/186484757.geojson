@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.050646,51.334957,7.050646,51.334957",
     "geom:latitude":51.334957,
     "geom:longitude":7.050646,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mettmanner Str. 8",
     "sg:city":"Velbert",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0l7JiX4KHnaWkphyYaVpV4_51.334957_7.050646@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2c26e3e1231e1865696f48f23bd82e4b",
+    "wof:geomhash":"4d10ad42e082152f071577364f6776bf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186484757,
-    "wof:lastmodified":1466218327,
+    "wof:lastmodified":1510943564,
     "wof:name":"\u00d6zt\u00fcrk Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102570821
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

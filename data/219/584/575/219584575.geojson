@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.941371,50.941914,6.941371,50.941914",
     "geom:latitude":50.941914,
     "geom:longitude":6.941371,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hildeboldpl. 3",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4qRso4QQ1glGbrOnPB86L9_50.941914_6.941371@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"748d8ca205685ed0305fef6e461324fd",
+    "wof:geomhash":"87fcc5e3b7edabfbe31ac9ee19795fae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219584575,
-    "wof:lastmodified":1466222101,
+    "wof:lastmodified":1510944114,
     "wof:name":"G\u00dcrzenich Gastronomie Gmbh",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957681987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

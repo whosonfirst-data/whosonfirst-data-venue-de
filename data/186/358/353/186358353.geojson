@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.015982,50.79409,8.015982,50.79409",
     "geom:latitude":50.79409,
     "geom:longitude":8.015982,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fritz-Sch\u00e4fer-Str. 20",
     "sg:city":"Neunkirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0y5cD1JnADAnO7ZX1VobAI_50.794090_8.015982@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1d807a91308d0f92e6bfec9d217ae0e6",
+    "wof:geomhash":"ba201d48c9ec3fdeebc639dd8b8c5dbf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186358353,
-    "wof:lastmodified":1466216938,
+    "wof:lastmodified":1510943932,
     "wof:name":"Fritz Sch\u00e4fer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135364399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

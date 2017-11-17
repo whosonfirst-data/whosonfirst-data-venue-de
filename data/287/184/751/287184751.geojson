@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.023907,53.607048,10.023907,53.607048",
     "geom:latitude":53.607048,
     "geom:longitude":10.023907,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"\u00dcberseering 12",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3UJoudlUhdlvKLKQI8gcDB_53.607048_10.023907@1306268944"
     },
     "wof:country":"DE",
-    "wof:geomhash":"aca83240c82f46e1da3aa12f92fc0dcf",
+    "wof:geomhash":"47eab0494af78874cee97b599cb9fd0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":287184751,
-    "wof:lastmodified":1466230031,
+    "wof:lastmodified":1510942943,
     "wof:name":"Hewcontract Gesellschaft F\u00fcr Energie Und Service Mbh",
     "wof:parent_id":85898947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941178639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

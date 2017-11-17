@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.750262,51.228214,6.750262,51.228214",
     "geom:latitude":51.228214,
     "geom:longitude":6.750262,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"D\u00fcsseldorfer Str 79",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3Rpvwppmj0YGP23yP2uqtU_51.228214_6.750262@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0437db69e44a4b189891c9626747b782",
+    "wof:geomhash":"ed0dd0c550b852b680a50bba4b7a648d",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102718805,
-    "wof:lastmodified":1466216672,
+    "wof:lastmodified":1510942669,
     "wof:name":"Paul Bungartz Gmbh & Co Kg",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957487675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

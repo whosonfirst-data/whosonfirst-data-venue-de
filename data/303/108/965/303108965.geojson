@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.367848,48.146156,9.367848,48.146156",
     "geom:latitude":48.146156,
     "geom:longitude":9.367848,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"In der Au 17",
     "sg:city":"Langenenslingen",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_0jGlMYAx1FKbJjpQlcK8tj_48.146156_9.367848@1306269130"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7c04aa018b1c84ddb60ec001b3dc7903",
+    "wof:geomhash":"9ff3c61eaed8999466110c2fa011dfd8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -38,12 +41,14 @@
         }
     ],
     "wof:id":303108965,
-    "wof:lastmodified":1466227196,
+    "wof:lastmodified":1510941638,
     "wof:name":"Ratio Tec Pr\u00fcfsysteme Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319951167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

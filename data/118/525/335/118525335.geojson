@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.267316,50.751408,9.267316,50.751408",
     "geom:latitude":50.751408,
     "geom:longitude":9.267316,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alicestrasse 20::",
     "sg:city":"Alsfeld",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5Dl9t9Y5KPQQRTzPJdT9G1_50.751408_9.267316@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ffb44092a644a548101226f4298c76a4",
+    "wof:geomhash":"c6f9429840cecb7a037667e98cf2189b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118525335,
-    "wof:lastmodified":1466213968,
+    "wof:lastmodified":1510942597,
     "wof:name":"Sparkasse Vogelsbergkreis",
     "wof:parent_id":101810883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102657073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

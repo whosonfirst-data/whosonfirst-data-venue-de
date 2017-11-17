@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.442268,49.51265,11.442268,49.51265",
     "geom:latitude":49.51265,
     "geom:longitude":11.442268,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amberger Str. 101",
     "sg:city":"Hersbruck",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3WqFHxArmw3LC6I0ouUF7H_49.512650_11.442268@1306268971"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4684c3e4ad4e74fb9e508dc320b9beec",
+    "wof:geomhash":"2dbe7ffaba00e4e43fa9e19323f110f3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118494805,
-    "wof:lastmodified":1466214046,
+    "wof:lastmodified":1510943690,
     "wof:name":"Wolf S\u00f6llner - Folien",
     "wof:parent_id":101826811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        136175537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

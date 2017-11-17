@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.923053,49.136044,8.923053,49.136044",
     "geom:latitude":49.136044,
     "geom:longitude":8.923053,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Bosch-Str 3",
     "sg:city":"Eppingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7ENTcN4ogoGK21beFGkBVS_49.136044_8.923053@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"111ca08d11296c089650dcfa2d923efc",
+    "wof:geomhash":"0063f21803fd2cc87b136051d0410314",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":253030549,
-    "wof:lastmodified":1466219985,
+    "wof:lastmodified":1510942638,
     "wof:name":"Kolakowski Pr\u00e4zisionsmetallbearbeitung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974456965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

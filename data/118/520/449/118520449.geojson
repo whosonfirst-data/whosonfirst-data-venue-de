@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.000949,53.548973,10.000949,53.548973",
     "geom:latitude":53.548973,
     "geom:longitude":10.000949,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Burchardstr. 17::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0GpG7G1QHxRbCSE3EO3Dlq_53.548973_10.000949@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7169714039edd73094d43829486be79e",
+    "wof:geomhash":"ae8c990fd4665c06c3e165befde89c73",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118520449,
-    "wof:lastmodified":1466213619,
+    "wof:lastmodified":1510942821,
     "wof:name":"Gossler, Gobert & Wolters Assekuranz-makler Gmbh & Co.",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974363685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

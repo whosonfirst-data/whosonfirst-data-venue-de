@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2611637115,53.6895713806,10.2611637115,53.6895713806",
     "geom:latitude":53.689571,
     "geom:longitude":10.261164,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ewige Weide 9",
     "sg:city":"Ahrensburg",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472038467,
-    "wof:geomhash":"c9fad9f68b89b07826eeb10b0d84b4f2",
+    "wof:geomhash":"f7d92bf5c1b82c1897d37fc55638bca4",
     "wof:hierarchy":[],
     "wof:id":957361583,
-    "wof:lastmodified":1472038467,
+    "wof:lastmodified":1510943843,
     "wof:name":"Rationelle Drucksachen Herbert Senge Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957472961
+    ],
+    "wof:supersedes":[
+        303414841
+    ],
     "wof:tags":[]
 },
   "bbox": [

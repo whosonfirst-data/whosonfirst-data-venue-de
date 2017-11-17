@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.059173,53.304218,10.059173,53.304218",
     "geom:latitude":53.304218,
     "geom:longitude":10.059173,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vor Dem Hassel 2",
     "sg:city":"Brackel",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_7UdpNqWnNVVGTu3hjWjhch_53.304218_10.059173@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6c5c45bcda18c02a9659d393c803bafb",
+    "wof:geomhash":"0c1f2de38c99ee5a3e144aae97640b19",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":319930625,
-    "wof:lastmodified":1466235207,
+    "wof:lastmodified":1510941857,
     "wof:name":"Emh Energiemesstechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941436713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.118332,50.219471,10.118332,50.219471",
     "geom:latitude":50.219471,
     "geom:longitude":10.118332,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kissinger Str 54",
     "sg:city":"N\u00fcdlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0i51Kf1g3SnKlCpBdjgX7U_50.219471_10.118332@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bd5fadf7f8900be04daf92198ed273ab",
+    "wof:geomhash":"7c1abe1d6d1928465d730dbc5cd7cb4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303087131,
-    "wof:lastmodified":1466226671,
+    "wof:lastmodified":1510942331,
     "wof:name":"Eschenbacher Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957464537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

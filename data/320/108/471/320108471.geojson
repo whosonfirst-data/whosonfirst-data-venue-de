@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.51635,49.399239,10.51635,49.399239",
     "geom:latitude":49.399239,
     "geom:longitude":10.51635,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kettenhoefstetterstr. 6",
     "sg:city":"Flachslanden",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7LLEePK1HkGyLbZqy4WVUJ_49.399239_10.516350@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4c3359d9560f43a57d7c92ae4adb3f75",
+    "wof:geomhash":"8a871f3706a99ca13735554867c16dc7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320108471,
-    "wof:lastmodified":1466236049,
+    "wof:lastmodified":1510942344,
     "wof:name":"Eckart Graviermaterial Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941608545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

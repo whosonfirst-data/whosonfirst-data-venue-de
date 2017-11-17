@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.899608,48.324841,9.899608,48.324841",
     "geom:latitude":48.324841,
     "geom:longitude":9.899608,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gro\u00dfes Wert 23/1",
     "sg:city":"Erbach",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_31OqRVBleMwpSgHn1VkSzj_48.324841_9.899608@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cf60c6f69afefd1b42bf0c2862f81060",
+    "wof:geomhash":"fdc5faccab3dc562a6142bc8b952f83e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":186470447,
-    "wof:lastmodified":1466218172,
+    "wof:lastmodified":1510942746,
     "wof:name":"Okutec Kunststoff- Verarbeitung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957450673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

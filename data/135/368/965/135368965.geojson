@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.183673,47.672283,9.183673,47.672283",
     "geom:latitude":47.672283,
     "geom:longitude":9.183673,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Z\u00e4hringer Platz 16",
     "sg:city":"Konstanz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1MIeiH5JcE8SfEhJ7qxQQb_47.672283_9.183673@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"86ebac87365767f76a52b8df35bd63a3",
+    "wof:geomhash":"5096c3a1cf9d0f5f217511f68e871234",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135368965,
-    "wof:lastmodified":1466219861,
+    "wof:lastmodified":1510942439,
     "wof:name":"Baden W\u00fcrttembergische Bank Ag",
     "wof:parent_id":101748473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135369199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

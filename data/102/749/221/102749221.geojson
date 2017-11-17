@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.897263,53.616295,9.897263,53.616295",
     "geom:latitude":53.616295,
     "geom:longitude":9.897263,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Baumacker 1 a",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6dCZO3lVmiFRLu3LmYN3FJ_53.616295_9.897263@1306268948"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0837c8c9d9755cdc1082da474e26a516",
+    "wof:geomhash":"e3c8bd1ee6745c1adb3adef7af853188",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102749221,
-    "wof:lastmodified":1466218205,
+    "wof:lastmodified":1510943983,
     "wof:name":"K & N Endlosformular- Druckerei Gmbh",
     "wof:parent_id":85899067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957471629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

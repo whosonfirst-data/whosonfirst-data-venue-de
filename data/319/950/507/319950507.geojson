@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.202057,51.133621,7.202057,51.133621",
     "geom:latitude":51.133621,
     "geom:longitude":7.202057,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Friedrichstr. 58",
     "sg:city":"Wermelskirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4gF65c9u69LMkTMGd6KDo3_51.133621_7.202057@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c2b99ae3f8778867dae0d25e4d26e03c",
+    "wof:geomhash":"d60578c5aa52f8a8ecb4348d9e01f719",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319950507,
-    "wof:lastmodified":1466235657,
+    "wof:lastmodified":1510944000,
     "wof:name":"Radiant Dyes Laser- Accessories Gmbh",
     "wof:parent_id":85796227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941147549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

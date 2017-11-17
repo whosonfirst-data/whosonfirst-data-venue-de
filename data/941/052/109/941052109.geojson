@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2325372696,50.0758209229,8.2325372696,50.0758209229",
     "geom:latitude":50.075821,
     "geom:longitude":8.232537,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Adelheidstra\u00dfe 91",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472011166,
-    "wof:geomhash":"f978c2284e22e59ee62fb186b124e72a",
+    "wof:geomhash":"c1a984754fdbf623eb3c7af56d028884",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941052109,
-    "wof:lastmodified":1472011166,
+    "wof:lastmodified":1510941436,
     "wof:name":"Hausverwaltung Junk",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941582031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

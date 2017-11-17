@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.1768422127,51.2730178833,7.1768422127,51.2730178833",
     "geom:latitude":51.273018,
     "geom:longitude":7.176842,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sanderstr. 206",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472011114,
-    "wof:geomhash":"55e0f7b48d50ca39966d52e70da43d79",
+    "wof:geomhash":"57efa5b9969769d0c5ccdb036b7e2a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":941050883,
-    "wof:lastmodified":1472011114,
+    "wof:lastmodified":1510943674,
     "wof:name":"Ive J\u00d6rg Etgeton Industrievertretung",
     "wof:parent_id":85796715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957929489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.961439,50.953186,6.961439,50.953186",
     "geom:latitude":50.953186,
     "geom:longitude":6.961439,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00fclchrather Str. 4",
     "sg:city":"K\u00f6ln / Cologne",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4SN0SznDTFxPAzsCWmVs30_50.953186_6.961439@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"00913d575a07ca5a1290e4419534d92c",
+    "wof:geomhash":"2e19cb7b724eaeb4ae7d9700304d14e0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102637255,
-    "wof:lastmodified":1466214288,
+    "wof:lastmodified":1510942627,
     "wof:name":"German - Book - Shop",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        153026151
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

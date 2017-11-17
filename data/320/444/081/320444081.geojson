@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.43927,51.491451,6.43927,51.491451",
     "geom:latitude":51.491451,
     "geom:longitude":6.43927,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rheurdter Str. 58",
     "sg:city":"Issum",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2zuZm6Pp6vfViFEkqpMPZg_51.491451_6.439270@1306268958"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3d55048adbb58852f0e00e4a5e5e182f",
+    "wof:geomhash":"ca117bfad352bc57490b8de4c48f8043",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320444081,
-    "wof:lastmodified":1466240560,
+    "wof:lastmodified":1510943144,
     "wof:name":"Heinrich L\u00d6we",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958340621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

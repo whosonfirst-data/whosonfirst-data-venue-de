@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.424818,49.009178,8.424818,49.009178",
     "geom:latitude":49.009178,
     "geom:longitude":8.424818,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gerwigstra\u00dfe 12",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6gasfi2Ukoh1GOBnDxtbkW_49.009178_8.424818@1306268888"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cdc7601dba2e23ad7d26f5d2a726d540",
+    "wof:geomhash":"1a2e1e2135feb1e0cca668127336cc89",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":136047505,
-    "wof:lastmodified":1466214305,
+    "wof:lastmodified":1510941970,
     "wof:name":"Die Softwareschneiderei Gmbh",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940708041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

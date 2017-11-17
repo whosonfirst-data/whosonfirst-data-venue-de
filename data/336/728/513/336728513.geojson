@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.119785,50.755428,8.119785,50.755428",
     "geom:latitude":50.755428,
     "geom:longitude":8.119785,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Benz-Str. 49 POSTFACH 1215",
     "sg:city":"Burbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5znaRqsfwz0Nj01XyH6ym2_50.755428_8.119785@1306269148"
     },
     "wof:country":"DE",
-    "wof:geomhash":"15db598b9b83dab7b07998f99c7d59b3",
+    "wof:geomhash":"ab1364026f737c6f8010e0b7268a6043",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336728513,
-    "wof:lastmodified":1466236318,
+    "wof:lastmodified":1510944080,
     "wof:name":"Ukb Uwe Krumm Burbach Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957463643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

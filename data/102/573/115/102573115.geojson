@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.028213,51.453007,14.028213,51.453007",
     "geom:latitude":51.453007,
     "geom:longitude":14.028213,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Johannisthaler Str 7",
     "sg:city":"Hosena",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_56BkxI1DAh4RIftYTSD2WD_51.453007_14.028213@1306268837"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a5c018a6c284fea7212d604be41ffa31",
+    "wof:geomhash":"5d27a4bf8dc1022dfac16fb2d65acf6c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102573115,
-    "wof:lastmodified":1466219182,
+    "wof:lastmodified":1510942087,
     "wof:name":"Prodat Informatik Gmbh",
     "wof:parent_id":85682553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940681993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

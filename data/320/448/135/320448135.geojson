@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.02516,49.60413,11.02516,49.60413",
     "geom:latitude":49.60413,
     "geom:longitude":11.02516,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Spardorfer Str. 150",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7ON0AOYHqoS6CXci2hCiTq_49.604130_11.025160@1306269143"
     },
     "wof:country":"DE",
-    "wof:geomhash":"22da5ed84e05876a93a6bd3ec70ea3e9",
+    "wof:geomhash":"d15bcc56998e199913a5ff0a0ca5eb9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320448135,
-    "wof:lastmodified":1466240422,
+    "wof:lastmodified":1510942085,
     "wof:name":"Human Optics Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941308285
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

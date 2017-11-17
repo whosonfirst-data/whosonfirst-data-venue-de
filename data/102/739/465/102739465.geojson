@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.297372,50.781136,7.297372,50.781136",
     "geom:latitude":50.781136,
     "geom:longitude":7.297372,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Siegburger Stra\u00dfe 6",
     "sg:city":"Hennef (Sieg)",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2lUfe4a3WyCBdwrGQFC5hT_50.781136_7.297372@1306268942"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a56cfc01c52d5dca00397bc5f3716d3e",
+    "wof:geomhash":"78cedb3c348c7838fb1215937addb14a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102739465,
-    "wof:lastmodified":1466217594,
+    "wof:lastmodified":1510943652,
     "wof:name":"Herchenbach - Industrie-zeltebau Gmbh",
     "wof:parent_id":85682513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958289797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

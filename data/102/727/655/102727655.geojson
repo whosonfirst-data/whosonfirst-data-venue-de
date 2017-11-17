@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.349953,52.536613,12.349953,52.536613",
     "geom:latitude":52.536613,
     "geom:longitude":12.349953,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Koch-Str 2",
     "sg:city":"Premnitz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6AuPR5e7RExLjOOwRdsQJO_52.536613_12.349953@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e8139da39e529adf31bc7c0c9bba8ca8",
+    "wof:geomhash":"ae4736b1fa65aa5d724a16c61be5ce57",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102727655,
-    "wof:lastmodified":1466216928,
+    "wof:lastmodified":1510942917,
     "wof:name":"Hzd Havell\u00e4ndische Zink-druckgu\u00df Gmbh & Co Kg",
     "wof:parent_id":101819857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974503601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

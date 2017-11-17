@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.231028,51.25993,8.231028,51.25993",
     "geom:latitude":51.25993,
     "geom:longitude":8.231028,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mescheder Str 14",
     "sg:city":"Eslohe",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1HPi57P9qYrIeNHT1I1thz_51.259930_8.231028@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"aadf07e8cc47f21be28d50ba2125d44b",
+    "wof:geomhash":"9620cad30f2a0843bd25f4ae7cf28c45",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,15 @@
         }
     ],
     "wof:id":252953065,
-    "wof:lastmodified":1466223714,
+    "wof:lastmodified":1510942681,
     "wof:name":"Trippe & Co Kunststofftechnik Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941147013,
+        957453163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

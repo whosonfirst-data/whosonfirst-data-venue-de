@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9830446243,53.5565757751,9.9830446243,53.5565757751",
     "geom:latitude":53.556576,
     "geom:longitude":9.983045,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dammtorwall 15",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015410,
-    "wof:geomhash":"44a557ef8a1d2f9c0ddc897063e34baa",
+    "wof:geomhash":"89b53e4ff99c7c90a2a5c587ab84141a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":941145521,
-    "wof:lastmodified":1472015410,
+    "wof:lastmodified":1510943316,
     "wof:name":"Deutsche Unilever Gmbh",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        135932105
+    ],
+    "wof:supersedes":[
+        118519323
+    ],
     "wof:tags":[]
 },
   "bbox": [

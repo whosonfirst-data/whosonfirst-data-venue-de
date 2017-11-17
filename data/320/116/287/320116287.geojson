@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.895241,49.495026,7.895241,49.495026",
     "geom:latitude":49.495026,
     "geom:longitude":7.895241,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Donnersbergstr. 48 POSTFACH 1262",
     "sg:city":"Enkenbach-Alsenborn",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6gvTtDrbyKWGJp3q0X7C5V_49.495026_7.895241@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4db1785a3e2d6ab8b9667230d481ef2f",
+    "wof:geomhash":"6f0b4d1a4753f216b730200d3cf57b28",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320116287,
-    "wof:lastmodified":1466235904,
+    "wof:lastmodified":1510941671,
     "wof:name":"Hegerguss Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958126211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

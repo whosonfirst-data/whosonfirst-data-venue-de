@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.756089,49.111595,10.756089,49.111595",
     "geom:latitude":49.111595,
     "geom:longitude":10.756089,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weissenburger Strasse 19",
     "sg:city":"Gunzenhausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3Ip4b13frZpTDFo7yeG6GK_49.111595_10.756089@1306268944"
     },
     "wof:country":"DE",
-    "wof:geomhash":"05bd2f0cdf362dfeb3be1be6e8d51e7c",
+    "wof:geomhash":"711111eb98639a66ac4037403769a485",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287142689,
-    "wof:lastmodified":1466228898,
+    "wof:lastmodified":1510942093,
     "wof:name":"Dr. Kemmesies Und Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941165957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

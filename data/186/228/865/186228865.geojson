@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.376137,48.579063,9.376137,48.579063",
     "geom:latitude":48.579063,
     "geom:longitude":9.376137,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Beurener Str. 31-33",
     "sg:city":"Frickenhausen",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_0vTVLpg9JC5bQKmTrAZtiR_48.579063_9.376137@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0592c91560089e3e19fb321d90400f5b",
+    "wof:geomhash":"d3505a5a5466db100b564b01305882d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -38,12 +41,14 @@
         }
     ],
     "wof:id":186228865,
-    "wof:lastmodified":1466215594,
+    "wof:lastmodified":1510941535,
     "wof:name":"Haka Qualit\u00e4tsgitterroste Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941048661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.437635,52.577274,9.437635,52.577274",
     "geom:latitude":52.577274,
     "geom:longitude":9.437635,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alte Feldm\u00fchle 10",
     "sg:city":"Neustadt",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_0VPk88wzYNISuwLgIc1avZ_52.577274_9.437635@1306268960"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4581511dc035b021bcd25d2598a9b736",
+    "wof:geomhash":"e508a6e95e109871f6634a3d4deca876",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -38,12 +41,14 @@
         }
     ],
     "wof:id":320604283,
-    "wof:lastmodified":1466241865,
+    "wof:lastmodified":1510941602,
     "wof:name":"Dezentrale Energie Anlagen Gmbh & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958339949
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

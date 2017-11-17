@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.226962,50.77195,6.226962,50.77195",
     "geom:latitude":50.77195,
     "geom:longitude":6.226962,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rathausstr. 53 - 55::",
     "sg:city":"Stolberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_24zTp4felXink0bKSaHJwG_50.771950_6.226962@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dfe57313a73970ec884e0af6188c4b99",
+    "wof:geomhash":"263087dfe072ddcce8cd00dc933d3401",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118527555,
-    "wof:lastmodified":1466214116,
+    "wof:lastmodified":1510942805,
     "wof:name":"Volksbank Stolberg -- Eschweiler Eg",
     "wof:parent_id":85795237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135366351
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

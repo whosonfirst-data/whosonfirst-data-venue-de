@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.777015,51.212616,6.777015,51.212616",
     "geom:latitude":51.212616,
     "geom:longitude":6.777015,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kirchfeldstr. 60::",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1M0KOFLnBKRkW5b92IndLJ_51.212616_6.777015@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3d8224cfe274a8e45b4d9e460b53e300",
+    "wof:geomhash":"fb98c6e44f19f283c9a7cd29102b8e85",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118524175,
-    "wof:lastmodified":1466213886,
+    "wof:lastmodified":1510942793,
     "wof:name":"Rheinischer Sparkassen Und Giroverband",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135432239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

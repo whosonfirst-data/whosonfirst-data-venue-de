@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.004319,48.249374,9.004319,48.249374",
     "geom:latitude":48.249374,
     "geom:longitude":9.004319,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Liegnitzer Str. 54",
     "sg:city":"Albstadt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2xcTxxNTlzPdNx0guDOokO_48.249374_9.004319@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0e70cd2d5587b44bc4ea8939ddaff68c",
+    "wof:geomhash":"6bbfc1edf602e3e969c72f5ddde0ad7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320134349,
-    "wof:lastmodified":1466236230,
+    "wof:lastmodified":1510943757,
     "wof:name":"Siegfried Knopp & Co. Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958339563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

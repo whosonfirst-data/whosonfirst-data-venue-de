@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5603322983,48.1579856873,11.5603322983,48.1579856873",
     "geom:latitude":48.157986,
     "geom:longitude":11.560332,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lothstr. 29",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472096133,
-    "wof:geomhash":"3d4c0eaa77fb94c1068dc192e07bb13e",
+    "wof:geomhash":"783870823e411cd78fc5625cbc5f2ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":974152603,
-    "wof:lastmodified":1472096133,
+    "wof:lastmodified":1510942686,
     "wof:name":"Blv Verlagsgesellschaft Mbh",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941310237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

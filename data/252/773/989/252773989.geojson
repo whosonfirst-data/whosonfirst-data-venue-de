@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.800672,51.257095,6.800672,51.257095",
     "geom:latitude":51.257095,
     "geom:longitude":6.800672,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vogelsanger Weg 49",
     "sg:city":"Duesseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7Vc0nFyTM3pAUeaHAPQk12_51.257095_6.800672@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"71a297d300fae72ee0da3c52aa7925ed",
+    "wof:geomhash":"4dc5b724cf324655ca2ce0c0a3c94b33",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252773989,
-    "wof:lastmodified":1466220354,
+    "wof:lastmodified":1510943812,
     "wof:name":"Esprit Europe Gmbh",
     "wof:parent_id":85794683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974492085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

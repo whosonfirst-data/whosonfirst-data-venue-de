@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.817936,51.239674,6.817936,51.239674",
     "geom:latitude":51.239674,
     "geom:longitude":6.817936,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eduard-Schloemann-Str. 4",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6eefHgTY99FuQIUYoy3F4N_51.239674_6.817936@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"638b61e45c86d260ace914bb18d4826e",
+    "wof:geomhash":"bc77bf282b7235a94678f5fc9b0a8798",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320134641,
-    "wof:lastmodified":1466236235,
+    "wof:lastmodified":1510942229,
     "wof:name":"Sms Demag Ag",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320244267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.825637,52.912628,8.825637,52.912628",
     "geom:latitude":52.912628,
     "geom:longitude":8.825637,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Muehlendamm 4::",
     "sg:city":"Syke",
     "sg:classifiers":[],
@@ -26,10 +29,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":47002957,
         "sg:id":"SG_6tyvXH0BlPCAaTd3IzAZ1X_52.912628_8.825637@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b977dceeb4ada170c83fed764d7ee310",
+    "wof:geomhash":"722e18e66d888bd025f47a8f6e6faa04",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,13 +44,17 @@
         }
     ],
     "wof:id":118522065,
-    "wof:lastmodified":1466213738,
+    "wof:lastmodified":1510942329,
     "wof:name":"Kreissparkasse Syke",
     "wof:parent_id":101807913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        135400929
+    ],
+    "wof:supersedes":[
+        135400929
+    ],
     "wof:tags":[]
 },
   "bbox": [

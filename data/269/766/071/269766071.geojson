@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.509982,48.171082,11.509982,48.171082",
     "geom:latitude":48.171082,
     "geom:longitude":11.509982,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ernst-Platz-Str. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0CeKMFlVbJKbTYlF6grLEy_48.171082_11.509982@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b47da049f7f8ec990ce7a7ce6a9df8e6",
+    "wof:geomhash":"212c65b985fb4381424c4224ecca8344",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269766071,
-    "wof:lastmodified":1466227629,
+    "wof:lastmodified":1510943021,
     "wof:name":"Rnt Gmbh",
     "wof:parent_id":85899839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941157325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

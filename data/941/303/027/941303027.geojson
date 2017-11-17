@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1756391525,48.8124237061,9.1756391525,48.8124237061",
     "geom:latitude":48.812424,
     "geom:longitude":9.175639,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dornierstrasse 17",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472022292,
-    "wof:geomhash":"859040d8768d5821403e2f2bdcff2625",
+    "wof:geomhash":"1b61f29870bbd4b6376f9fda3ea6bce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":941303027,
-    "wof:lastmodified":1472022292,
+    "wof:lastmodified":1510942436,
     "wof:name":"Seitenblick Interaktive Medien Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957943541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

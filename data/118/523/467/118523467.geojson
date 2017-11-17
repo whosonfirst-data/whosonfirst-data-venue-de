@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.804716,51.219471,6.804716,51.219471",
     "geom:latitude":51.219471,
     "geom:longitude":6.804716,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Moskauer Str. 19::",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6zgWnTZLoQyqt15e4UGma9_51.219471_6.804716@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"727be890fb93d869c52aaa34e2289ea0",
+    "wof:geomhash":"7409ccb67b3b6536cf0b86669e679cad",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":118523467,
-    "wof:lastmodified":1466213842,
+    "wof:lastmodified":1510943551,
     "wof:name":"Pwc Deutsche Revision Ag",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119281643,
+        958196521
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

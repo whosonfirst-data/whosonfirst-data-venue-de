@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.504606,48.176281,11.504606,48.176281",
     "geom:latitude":48.176281,
     "geom:longitude":11.504606,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Baubergerstr. 30",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0mFdVekazFM3THGRbLJtVI_48.176281_11.504606@1306269104"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1916a5271b74dd4d2b5a3c3b55e6edf3",
+    "wof:geomhash":"aa7ef0ca57aa0d5962976d4e236d5bfb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236083841,
-    "wof:lastmodified":1466220272,
+    "wof:lastmodified":1510942241,
     "wof:name":"S\u00fcdkraft S\u00fcddeutsche Kraftwagen-speditions- Gmbh",
     "wof:parent_id":85899265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957686979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

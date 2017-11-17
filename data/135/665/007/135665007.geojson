@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.479833,52.160587,9.479833,52.160587",
     "geom:latitude":52.160587,
     "geom:longitude":9.479833,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfestr. 24",
     "sg:city":"Bad M\u00fcnder",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_1lz53ljOolkQMTqv5uG7pz_52.160587_9.479833@1306268865"
     },
     "wof:country":"DE",
-    "wof:geomhash":"08de6669c38e68ffd6ce4ba7312c8d5c",
+    "wof:geomhash":"f41c304ffdccc533a7d6af7a0c47cf71",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -35,12 +38,14 @@
         }
     ],
     "wof:id":135665007,
-    "wof:lastmodified":1466241339,
+    "wof:lastmodified":1510943456,
     "wof:name":"Josef P\u00f6hl",
     "wof:parent_id":85682555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957705305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

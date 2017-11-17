@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.901422,51.12785,6.901422,51.12785",
     "geom:latitude":51.12785,
     "geom:longitude":6.901422,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Georg-Daniel-Teutsch-Str 20",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_08KEEYaliItzLvfOLd6U03_51.127850_6.901422@1306268801"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8518a03eb6c1325a091d567f182e0e6d",
+    "wof:geomhash":"77e2bf3d9b12ae52a60d4011ea20141b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118753361,
-    "wof:lastmodified":1466226974,
+    "wof:lastmodified":1510943311,
     "wof:name":"G\u00fcnther Wotsch Elektrokommerz E.k.",
     "wof:parent_id":101748671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102707683
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

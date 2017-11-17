@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0806050301,50.8286514282,6.0806050301,50.8286514282",
     "geom:latitude":50.828651,
     "geom:longitude":6.080605,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserstr. 100",
     "sg:city":"Herzogenrath",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471994796,
-    "wof:geomhash":"59b92662a298da893109538b1af27495",
+    "wof:geomhash":"3fbc3467b7d43f47e8b7fb851b324d5a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":940716475,
-    "wof:lastmodified":1471994796,
+    "wof:lastmodified":1510944157,
     "wof:name":"Alc Computertechnik Gmbh",
     "wof:parent_id":85862955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941155041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

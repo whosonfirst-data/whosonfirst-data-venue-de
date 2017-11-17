@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.40346,48.628555,13.40346,48.628555",
     "geom:latitude":48.628555,
     "geom:longitude":13.40346,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zellinger Str 10",
     "sg:city":"Tiefenbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1T8SPNgHM7r6BI9uEvhq3W_48.628555_13.403460@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c4dde7987643d18183d657b686aa1e6c",
+    "wof:geomhash":"98d4712a33544f47f5bfe1bbeabc0982",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102629941,
-    "wof:lastmodified":1466214065,
+    "wof:lastmodified":1510941711,
     "wof:name":"Niko-versand Gmbh",
     "wof:parent_id":101784367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941509177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

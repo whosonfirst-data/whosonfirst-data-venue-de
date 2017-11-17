@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.49888134,49.496711731,8.49888134,49.496711731",
     "geom:latitude":49.496712,
     "geom:longitude":8.498881,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gutenbergstr. 21",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -24,16 +27,22 @@
     },
     "wof:country":"DE",
     "wof:created":1472014742,
-    "wof:geomhash":"23ee25b49e8d50074caabf00299d8759",
+    "wof:geomhash":"75410f3a754fd98d333b8b6334fa102d",
     "wof:hierarchy":[],
     "wof:id":941130103,
-    "wof:lastmodified":1472014742,
+    "wof:lastmodified":1510942839,
     "wof:name":"Cosmos Grundst\u00fcck- Und Verm\u00f6gensverwaltung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941138905,
+        941140835
+    ],
+    "wof:supersedes":[
+        941114401,
+        941107017
+    ],
     "wof:tags":[]
 },
   "bbox": [

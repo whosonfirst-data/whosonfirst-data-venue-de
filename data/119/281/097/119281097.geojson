@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.165293,51.668007,7.165293,51.668007",
     "geom:latitude":51.668007,
     "geom:longitude":7.165293,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vor Den B\u00fcschen 30",
     "sg:city":"Marl",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1ATjxf7v82s5Crpgp8FLK4_51.668007_7.165293@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"90497c8bbb93a1de34092ac9d04f5a96",
+    "wof:geomhash":"d9edd4a03d77dccb58e747c1d12fc3b2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":119281097,
-    "wof:lastmodified":1466236436,
+    "wof:lastmodified":1510942316,
     "wof:name":"Alnetronic Elektronische Ger\u00c4te Gmbh",
     "wof:parent_id":101748743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119453199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.571279,48.10574,11.571279,48.10574",
     "geom:latitude":48.10574,
     "geom:longitude":11.571279,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gr\u00fcnwalderstr. 51",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5WFjfiSBzHsL4dKv5alVwE_48.105740_11.571279@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ec2b72d20e7ec7aed76e3debd39357ec",
+    "wof:geomhash":"9f944fa7f7320a9bb7af3579d91e47fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253064575,
-    "wof:lastmodified":1466220612,
+    "wof:lastmodified":1510943773,
     "wof:name":"Altmann Marketing Gmbh",
     "wof:parent_id":85899261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958354825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

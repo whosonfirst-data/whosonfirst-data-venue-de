@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.530945,50.538094,12.530945,50.538094",
     "geom:latitude":50.538094,
     "geom:longitude":12.530945,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lichtenauer Str 7",
     "sg:city":"St\u00fctzengr\u00fcn",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_3jgfmAoBVWkY4TyisUTwQD_50.538094_12.530945@1306268903"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a81f60aadf0cfbe4489b64dc9cf538fb",
+    "wof:geomhash":"33c168d15331cc9da8a1be8e787ef8ee",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,15 @@
         }
     ],
     "wof:id":102705973,
-    "wof:lastmodified":1466216317,
+    "wof:lastmodified":1510941566,
     "wof:name":"Michael Jaeckel Erzgebirgische B\u00fcrstenfabrik Gmbh",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940968003,
+        941498929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

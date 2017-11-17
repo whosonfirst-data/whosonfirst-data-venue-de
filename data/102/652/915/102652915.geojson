@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.93737,52.96484,8.93737,52.96484",
     "geom:latitude":52.96484,
     "geom:longitude":8.93737,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bruchstr. 31",
     "sg:city":"Riede",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6nqFkWkOY2b3pFydTpKzrR_52.964840_8.937370@1306268835"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d7cbbb27c3b6c9b9629cf4409c80687c",
+    "wof:geomhash":"5c16a16e148b5e5c0039faa32399f1f4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102652915,
-    "wof:lastmodified":1466214827,
+    "wof:lastmodified":1510942041,
     "wof:name":"Ft Treppen Friedhelm Thorns Gmbh",
     "wof:parent_id":101808031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958343215
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

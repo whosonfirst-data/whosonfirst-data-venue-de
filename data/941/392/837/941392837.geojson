@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7159490585,48.1102409363,11.7159490585,48.1102409363",
     "geom:latitude":48.110241,
     "geom:longitude":11.715949,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-Pinsel-Str 1",
     "sg:city":"Haar",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472025981,
-    "wof:geomhash":"05b5743e4df989378baaa55ac81b3e4d",
+    "wof:geomhash":"885fa4a3787123a2f601dbf4299f2e96",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,13 +44,17 @@
         }
     ],
     "wof:id":941392837,
-    "wof:lastmodified":1472025981,
+    "wof:lastmodified":1510943828,
     "wof:name":"Dreier K\u00fcchenkonzepte Gmbh",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941515467
+    ],
+    "wof:supersedes":[
+        941016235
+    ],
     "wof:tags":[]
 },
   "bbox": [

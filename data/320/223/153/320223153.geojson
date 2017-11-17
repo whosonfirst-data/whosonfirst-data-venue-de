@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.886318,50.818203,12.886318,50.818203",
     "geom:latitude":50.818203,
     "geom:longitude":12.886318,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neefestr. 90",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_65E7uCH1n0JKMtjWV9G1NK_50.818203_12.886318@1306269141"
     },
     "wof:country":"DE",
-    "wof:geomhash":"22667985f4d9fc7ab2993218a5444e49",
+    "wof:geomhash":"52155cb1d11a3372affaabbf86f16ea9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320223153,
-    "wof:lastmodified":1466237564,
+    "wof:lastmodified":1510942582,
     "wof:name":"Autohaus Mauersberger Gmbh",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974142521
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

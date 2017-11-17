@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.948443,52.160763,9.948443,52.160763",
     "geom:latitude":52.160763,
     "geom:longitude":9.948443,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steuerwalder Str 22",
     "sg:city":"Hildesheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2lIIam75otYdrseTSorOtG_52.160763_9.948443@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ed99721e0df9135515487910f70b1ac7",
+    "wof:geomhash":"3d1be3b8d64e41fd70f7f9067d706a48",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202513415,
-    "wof:lastmodified":1466215892,
+    "wof:lastmodified":1510941809,
     "wof:name":"August Kuckuk Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102748913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

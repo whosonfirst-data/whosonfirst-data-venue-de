@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.82948,47.99395,8.82948,47.99395",
     "geom:latitude":47.99395,
     "geom:longitude":8.82948,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rudolf-Diesel-Str. 18",
     "sg:city":"Tuttlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0E4GFU8VXcTQvU63ZmA7JL_47.993950_8.829480@1306268878"
     },
     "wof:country":"DE",
-    "wof:geomhash":"11f336d1b58e3ad853719ac9975d329c",
+    "wof:geomhash":"1cd617575db40d7d141649da21f2665a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":152456251,
-    "wof:lastmodified":1466219274,
+    "wof:lastmodified":1510942416,
     "wof:name":"Chr. Diener Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958206931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

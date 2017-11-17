@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.783594,50.975967,9.783594,50.975967",
     "geom:latitude":50.975967,
     "geom:longitude":9.783594,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinrich-Hertz-Str 3",
     "sg:city":"Bebra",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1HYNcfWzGyuJNtMN5PYw1o_50.975967_9.783594@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2c5a9aa7705ae87f0c77c2618b9ddd20",
+    "wof:geomhash":"4cb3c332aa031ef4dd1085b46480a7c7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102570767,
-    "wof:lastmodified":1466218387,
+    "wof:lastmodified":1510942179,
     "wof:name":"Deichmann Umwelttechnik Gmbh",
     "wof:parent_id":101809889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941489197
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

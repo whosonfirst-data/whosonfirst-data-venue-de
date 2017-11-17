@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.559083,50.213058,8.559083,50.213058",
     "geom:latitude":50.213058,
     "geom:longitude":8.559083,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neubronner Str. 1",
     "sg:city":"Oberursel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1AXWAyJSAKrNPzFnarWmTN_50.213058_8.559083@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"08fae32b5408cfaa5ac8b73585badca1",
+    "wof:geomhash":"28976ded0cde70cce72ac4a651f26683",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252760465,
-    "wof:lastmodified":1466220077,
+    "wof:lastmodified":1510942288,
     "wof:name":"Neubronner Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957395127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

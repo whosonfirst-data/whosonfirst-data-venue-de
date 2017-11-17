@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.581814,48.154442,11.581814,48.154442",
     "geom:latitude":48.154442,
     "geom:longitude":11.581814,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Georgenstr. 8",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0KztZmHuxgi7pKGXEfYowO_48.154442_11.581814@1306268879"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2fb24bb0c91eae7378c1ad5997d8bfdb",
+    "wof:geomhash":"105308d59cfce9853999e6262e0af96d",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":152488903,
-    "wof:lastmodified":1466219985,
+    "wof:lastmodified":1510942126,
     "wof:name":"Helios Beteiligungs Gmbh",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        136005275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

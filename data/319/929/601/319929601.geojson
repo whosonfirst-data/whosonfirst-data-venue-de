@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.570978,47.6618,9.570978,47.6618",
     "geom:latitude":47.6618,
     "geom:longitude":9.570978,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Klausenburgerstr. 9",
     "sg:city":"Tettnang",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2vi6tgkXyKRvMtJevsztlA_47.661800_9.570978@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c2010515faca7c100a9d6f2b8a8178eb",
+    "wof:geomhash":"e6170e6a959db9ad13e32cf3baf46613",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":319929601,
-    "wof:lastmodified":1466235569,
+    "wof:lastmodified":1510942457,
     "wof:name":"Effekta-regeltechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940693227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

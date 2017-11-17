@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.728908,48.288124,9.728908,48.288124",
     "geom:latitude":48.288124,
     "geom:longitude":9.728908,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berkacher Str. 1",
     "sg:city":"Ehingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0KvAi6tbSfVeG3yZOhUA4x_48.288124_9.728908@1306269100"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5b0430332b09f22b080ca49da7ebabd3",
+    "wof:geomhash":"f1be1650311dd2bc66a676785e9e76a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":219727923,
-    "wof:lastmodified":1466224859,
+    "wof:lastmodified":1510941503,
     "wof:name":"Ott Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102653715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.623166,52.393188,8.623166,52.393188",
     "geom:latitude":52.393188,
     "geom:longitude":8.623166,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"In Der T\u00fctenbeke 36",
     "sg:city":"Espelkamp",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_42gQyD6k36pCV3TDGMBBKK_52.393188_8.623166@1306268958"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4366d7decc4e6f39e980703306e2688e",
+    "wof:geomhash":"f322917ebe64517c099cd3dbec585ae1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320444869,
-    "wof:lastmodified":1466240576,
+    "wof:lastmodified":1510941328,
     "wof:name":"H\u00dcco Leiterplatten Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941502899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

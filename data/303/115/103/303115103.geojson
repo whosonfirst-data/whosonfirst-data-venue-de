@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.070902,49.660107,10.070902,49.660107",
     "geom:latitude":49.660107,
     "geom:longitude":10.070902,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Uffenheimer Str. 17",
     "sg:city":"Ochsenfurt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3FzOgfAbakmu9LzjIoptYE_49.660107_10.070902@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ed16882530935b8ef2af77f860ae5d9d",
+    "wof:geomhash":"6b73da18dd3a748d101fe94688cc40d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303115103,
-    "wof:lastmodified":1466227339,
+    "wof:lastmodified":1510942871,
     "wof:name":"Kauzen-br\u00c4u Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957935587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

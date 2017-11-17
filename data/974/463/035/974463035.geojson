@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.72473526,48.3881263733,8.72473526,48.3881263733",
     "geom:latitude":48.388126,
     "geom:longitude":8.724735,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert Bosch Strasse 22",
     "sg:city":"Empfingen",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472113675,
-    "wof:geomhash":"caf0f38a46f5bfff6246a8498511d063",
+    "wof:geomhash":"1d416bba6b06573a27601d782aae3a74",
     "wof:hierarchy":[],
     "wof:id":974463035,
-    "wof:lastmodified":1472113675,
+    "wof:lastmodified":1510942681,
     "wof:name":"Benntrans Verkehrs-logistik Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957684477
+    ],
+    "wof:supersedes":[
+        102563169
+    ],
     "wof:tags":[]
 },
   "bbox": [

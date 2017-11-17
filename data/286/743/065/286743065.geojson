@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.609574,53.564083,9.609574,53.564083",
     "geom:latitude":53.564083,
     "geom:longitude":9.609574,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00fcrgerei 29",
     "sg:city":"Steinkirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2feXsH6whEPIVFZWXvPOhV_53.564083_9.609574@1306269125"
     },
     "wof:country":"DE",
-    "wof:geomhash":"10747ce1c947be99c975e9f2a803b90c",
+    "wof:geomhash":"25a110cc13d3c2b89dbcae12dc19da19",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":286743065,
-    "wof:lastmodified":1466236396,
+    "wof:lastmodified":1510941637,
     "wof:name":"Sal Schiffahrtskontor Altes Land Gmbh & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957892747
+    ],
+    "wof:supersedes":[
+        202899911
+    ],
     "wof:tags":[]
 },
   "bbox": [

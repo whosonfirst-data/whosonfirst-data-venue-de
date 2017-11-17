@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.997698,53.552502,9.997698,53.552502",
     "geom:latitude":53.552502,
     "geom:longitude":9.997698,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ferdinandstr. 75::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4Cwqcutg7djDaV1FsAh7Bo_53.552502_9.997698@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"769200e2e03db039718a55e9be15f764",
+    "wof:geomhash":"64b1541a9c2d404729d8ecd67b6b2bcb",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118522875,
-    "wof:lastmodified":1466213792,
+    "wof:lastmodified":1510942520,
     "wof:name":"Mm Warburg",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135364991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

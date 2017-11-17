@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.25693,51.657993,12.25693,51.657993",
     "geom:latitude":51.657993,
     "geom:longitude":12.25693,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kunstseidestr. 5",
     "sg:city":"Wolfen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5ixRfVdMQhR3vHJKTUYAGX_51.657993_12.256930@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"41593607262b61b6cd9f85ef36f3beae",
+    "wof:geomhash":"82d3e21785a26e9cac29aa328f2078c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252768113,
-    "wof:lastmodified":1466220233,
+    "wof:lastmodified":1510944095,
     "wof:name":"Organica Feinchemie Gmbh Wolfen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974517995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

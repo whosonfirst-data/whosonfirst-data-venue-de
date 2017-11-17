@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.527965,49.006569,8.527965,49.006569",
     "geom:latitude":49.006569,
     "geom:longitude":8.527965,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbestr. 26",
     "sg:city":"Pfinztal",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_6iUUsH4I6lzUzIyaiptgnd_49.006569_8.527965@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8962fb8b30140e7ee17d25efab9e05a8",
+    "wof:geomhash":"460db20f0a5c01d6e24f068a6f262b1c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":119281427,
-    "wof:lastmodified":1466236465,
+    "wof:lastmodified":1510941524,
     "wof:name":"Rte Akustik + Pr\u00dcftechnik Gmbh",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957480955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

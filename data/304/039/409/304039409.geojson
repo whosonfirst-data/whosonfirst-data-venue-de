@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.852076,47.994926,7.852076,47.994926",
     "geom:latitude":47.994926,
     "geom:longitude":7.852076,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schusterstr. 15",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_5mwg6zxXH6QoltbkX7bfuC_47.994926_7.852076@1306268953"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dd91b29a051561e7fd832355f644f350",
+    "wof:geomhash":"f10265623e10e6dc9535776c4b4d8358",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":304039409,
-    "wof:lastmodified":1466231806,
+    "wof:lastmodified":1510944109,
     "wof:name":"La Provence Freiburg Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957938249
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.626167,48.131466,11.626167,48.131466",
     "geom:latitude":48.131466,
     "geom:longitude":11.626167,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neumarkter Str. 68",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2O9R4fxyuAN3FGEq0oSKSW_48.131466_11.626167@1306269126"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4f02cc2947a8e49201a0bd11124394b0",
+    "wof:geomhash":"7951afd850fdea9c591f1f9193e8cb58",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286820981,
-    "wof:lastmodified":1466237296,
+    "wof:lastmodified":1510942129,
     "wof:name":"Brautechnik Gmbh",
     "wof:parent_id":85900273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940628035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.531318,52.275661,10.531318,52.275661",
     "geom:latitude":52.275661,
     "geom:longitude":10.531318,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rebenring 33",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3Nr6He0S2s6YDE25LdcUOj_52.275661_10.531318@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5b7854f3e19512ce5f05a09d018b99da",
+    "wof:geomhash":"a63b1e2b156253f1ad974c65fd8df46e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270140405,
-    "wof:lastmodified":1466224665,
+    "wof:lastmodified":1510942790,
     "wof:name":"Trajet Gmbh",
     "wof:parent_id":85905763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135509891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

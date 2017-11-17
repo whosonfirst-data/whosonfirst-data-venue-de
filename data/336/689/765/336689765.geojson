@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.782528,51.223618,6.782528,51.223618",
     "geom:latitude":51.223618,
     "geom:longitude":6.782528,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berliner Allee 21",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1PM49LT6dxDA52NVC3XzYV_51.223618_6.782528@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7519edecc41588b16c8626b034378369",
+    "wof:geomhash":"02cdf5c6c841824f2203eae82eca867f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":336689765,
-    "wof:lastmodified":1466235622,
+    "wof:lastmodified":1510942787,
     "wof:name":"Climax Molybdenum Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940814491
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

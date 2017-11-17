@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.595044,51.537495,6.595044,51.537495",
     "geom:latitude":51.537495,
     "geom:longitude":6.595044,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hubert-Underberg-Allee 1",
     "sg:city":"Rheinberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3Ep8H9JikDdLYakqcwuwxK_51.537495_6.595044@1306268912"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3248c1c953be14b09dee4a16cc58caf8",
+    "wof:geomhash":"56f0ecd5ab283faaf5b16ab1ae2ffcc2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":219977875,
-    "wof:lastmodified":1466229939,
+    "wof:lastmodified":1510942880,
     "wof:name":"Microvision Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941155999
+    ],
+    "wof:supersedes":[
+        270259777
+    ],
     "wof:tags":[]
 },
   "bbox": [

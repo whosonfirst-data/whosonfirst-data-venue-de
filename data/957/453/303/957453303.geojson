@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5296440125,51.2348594666,7.5296440125,51.2348594666",
     "geom:latitude":51.234859,
     "geom:longitude":7.529644,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Haelverstr. 64",
     "sg:city":"Schalksm\u00fchle",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472042767,
-    "wof:geomhash":"a7d4e5182dbde658c848b9617bb919e5",
+    "wof:geomhash":"05e93714ab951878931dfdb02d07a1a6",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":957453303,
-    "wof:lastmodified":1472042767,
+    "wof:lastmodified":1510943831,
     "wof:name":"Wilhelm Engel Gmbh",
     "wof:parent_id":85796353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957465543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

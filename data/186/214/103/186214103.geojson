@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.86464,51.202019,7.86464,51.202019",
     "geom:latitude":51.202019,
     "geom:longitude":7.86464,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ziegelstr. 68",
     "sg:city":"Plettenberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6pcAwxWHUksuzBE2pwFOgR_51.202019_7.864640@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4a8d897d7a05925bdcaa4b4f4cd97ee8",
+    "wof:geomhash":"83e77a46d5baa6759bc0326dbc083eed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186214103,
-    "wof:lastmodified":1466215434,
+    "wof:lastmodified":1510942748,
     "wof:name":"Pft Flock-technik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320665919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

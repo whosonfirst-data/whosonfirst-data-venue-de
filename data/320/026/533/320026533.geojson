@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.217683,50.00835,9.217683,50.00835",
     "geom:latitude":50.00835,
     "geom:longitude":9.217683,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boschstr. 7 POSTFACH 110",
     "sg:city":"H\u00f6sbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6kr9a7rvdU43fWfbRAbC8b_50.008350_9.217683@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a31a04711922b00ba0247d8be1cf7c80",
+    "wof:geomhash":"31e867919f1680f052b4707600beaa5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320026533,
-    "wof:lastmodified":1466233955,
+    "wof:lastmodified":1510941850,
     "wof:name":"Hornung Gmbh Indupress & Co.kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286807657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

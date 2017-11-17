@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.438671,54.77877,9.438671,54.77877",
     "geom:latitude":54.77877,
     "geom:longitude":9.438671,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 23",
     "sg:city":"Flensburg",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_12nmS76ELaxcgQWxpvBEZF_54.778770_9.438671@1306268878"
     },
     "wof:country":"DE",
-    "wof:geomhash":"49c7ba6f10ec179d1d018e769821b153",
+    "wof:geomhash":"17d9fdec85a91b5f23ebbca99a2e4cc2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":152462491,
-    "wof:lastmodified":1466219410,
+    "wof:lastmodified":1510943818,
     "wof:name":"Baltic Bereederung Beteiligungs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957924883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

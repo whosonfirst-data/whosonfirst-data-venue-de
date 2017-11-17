@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.882846,50.812672,12.882846,50.812672",
     "geom:latitude":50.812672,
     "geom:longitude":12.882846,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Hamel-Str. 19",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3QKFL9Hw9G5RxNmYDG6M2x_50.812672_12.882846@1306269123"
     },
     "wof:country":"DE",
-    "wof:geomhash":"96ce6f48253ae2f321e5ff1d60ea2e58",
+    "wof:geomhash":"29724194be4894376fee984c623e3ac8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286473143,
-    "wof:lastmodified":1466229493,
+    "wof:lastmodified":1510943020,
     "wof:name":"Montage Und Stahlbau Standke Gmbh",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102723895
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

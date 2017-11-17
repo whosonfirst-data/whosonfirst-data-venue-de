@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.393108,48.995266,9.393108,48.995266",
     "geom:latitude":48.995266,
     "geom:longitude":9.393108,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amselweg 16",
     "sg:city":"Aspach",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4SFA3aP5mbEgR7nTIJuhaf_48.995266_9.393108@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f1b15c72ed6f5feebbb0285f1f860b52",
+    "wof:geomhash":"b2d7ee4e316895021d70e4d3505a7124",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":118582467,
-    "wof:lastmodified":1466217279,
+    "wof:lastmodified":1510943384,
     "wof:name":"Weing\u00c4rtnergenossenschaftaspach E.g.",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974403725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

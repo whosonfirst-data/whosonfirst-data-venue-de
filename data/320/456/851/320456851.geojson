@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.072671,51.160995,11.072671,51.160995",
     "geom:latitude":51.160995,
     "geom:longitude":11.072671,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An der Br\u00fcckwiese 2",
     "sg:city":"Tunzenhausen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4dCHjh4u2WKpLClJy8F1ii_51.160995_11.072671@1306269143"
     },
     "wof:country":"DE",
-    "wof:geomhash":"85b01cf5a847729dc0aaca0200534e48",
+    "wof:geomhash":"48e1f802acda660cbc01ae54c8445f4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320456851,
-    "wof:lastmodified":1466240616,
+    "wof:lastmodified":1510942247,
     "wof:name":"Hema-orthop\u00e4dische Systeme Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940878241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

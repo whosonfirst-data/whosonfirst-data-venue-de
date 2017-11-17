@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.001403,53.587265,10.001403,53.587265",
     "geom:latitude":53.587265,
     "geom:longitude":10.001403,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kl\u00e4rchenstr. 11::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_42UgHd5dQD9pyUkmNBhTUs_53.587265_10.001403@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"82437215eae1023c2889bd911514d7e7",
+    "wof:geomhash":"a74bd3d1ea6db94d71610be029d3dbf4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102719103,
-    "wof:lastmodified":1466216678,
+    "wof:lastmodified":1510943151,
     "wof:name":"Santa Verde Gesellschaft F\u00dcr Naturprodukte Mbh",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974381207
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

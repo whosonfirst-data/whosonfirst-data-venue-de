@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.829598,53.653389,9.829598,53.653389",
     "geom:latitude":53.653389,
     "geom:longitude":9.829598,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tangstedter Chaussee 1::",
     "sg:city":"Rellingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5eadruI73g8eGgsMyrBzwT_53.653389_9.829598@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"86843f2ec68c684ffc6c3f5424d89ced",
+    "wof:geomhash":"e48b7f4b0e8fe6f4c9e61308e84f9d4a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,15 @@
         }
     ],
     "wof:id":118518509,
-    "wof:lastmodified":1466213467,
+    "wof:lastmodified":1510943072,
     "wof:name":"Bremer Tresor Ii Leasing Gmbh",
     "wof:parent_id":101756525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135363959,
+        974184275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

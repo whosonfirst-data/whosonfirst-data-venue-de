@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.252037,51.486038,7.252037,51.486038",
     "geom:latitude":51.486038,
     "geom:longitude":7.252037,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Auf Der Prinz 7",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6VEgPQTTphRByDFv1aCflg_51.486038_7.252037@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"57e0f90c4652ed4c1c468741d12d7831",
+    "wof:geomhash":"783c4089bf8f99208d6bd0d156a21734",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320457161,
-    "wof:lastmodified":1466240620,
+    "wof:lastmodified":1510943401,
     "wof:name":"Bsg Elektro Schaltanlagen Gmbh",
     "wof:parent_id":85795755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958207237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

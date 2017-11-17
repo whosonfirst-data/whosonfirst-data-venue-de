@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.76941,52.075439,8.76941,52.075439",
     "geom:latitude":52.075439,
     "geom:longitude":8.76941,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Benz-Str. 17",
     "sg:city":"Dachau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3no7HVbYkVrTUcX5Cpa9Ha_52.075439_8.769410@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a96b6b4c6086eb801acea9a02a7fdf4a",
+    "wof:geomhash":"9d2b7dfcd0d2c39dfd853abcb3940dfb",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135365289,
-    "wof:lastmodified":1466219469,
+    "wof:lastmodified":1510942144,
     "wof:name":"Ring Bekleidung Flick Gmbh & Co. Kg",
     "wof:parent_id":101748775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102560597
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

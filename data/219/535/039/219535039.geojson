@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.707598,51.194691,6.707598,51.194691",
     "geom:latitude":51.194691,
     "geom:longitude":6.707598,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hellersbergstr. 6",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7ekK9BLYSbz2yKHNPYxUbp_51.194691_6.707598@1306268908"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e5e896de1354eaac3cf0912953d25755",
+    "wof:geomhash":"ad826c272bf41d12090d88b23fd4e7cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219535039,
-    "wof:lastmodified":1466221123,
+    "wof:lastmodified":1510942364,
     "wof:name":"Turnover Deutschland Gmbh",
     "wof:parent_id":85795365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958314767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

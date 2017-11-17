@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5666694641,48.1478309631,11.5666694641,48.1478309631",
     "geom:latitude":48.147831,
     "geom:longitude":11.566669,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gabelsbergerstr. 47",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471994793,
-    "wof:geomhash":"af4cb4c81c6451100d6135ff8410b1a0",
+    "wof:geomhash":"bcfccfff874798ab4bcedb3b6bedca6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":940716397,
-    "wof:lastmodified":1471994793,
+    "wof:lastmodified":1510943375,
     "wof:name":"Interway Ag",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941302217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

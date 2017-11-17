@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.55421,48.249641,12.55421,48.249641",
     "geom:latitude":48.249641,
     "geom:longitude":12.55421,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"T\u00f6ginger Str 161",
     "sg:city":"M\u00fchldorf",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_12fnJXKgLXxHx4JmH8Fb0n_48.249641_12.554210@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"29eccb9227d46ce7f97404278db11443",
+    "wof:geomhash":"e1d6460ca3e0a53093f7fc23021731e3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102627823,
-    "wof:lastmodified":1466214000,
+    "wof:lastmodified":1510942006,
     "wof:name":"P\u00f6llmann & Co",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957721911
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

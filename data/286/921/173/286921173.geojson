@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.594069,53.566265,8.594069,53.566265",
     "geom:latitude":53.566265,
     "geom:longitude":8.594069,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poststra\u00dfe 18",
     "sg:city":"Bremerhaven",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7Wae5HU1HE6fD9xuceFYNI_53.566265_8.594069@1306268941"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c7005887a2c943599eddc512a5124689",
+    "wof:geomhash":"6ad34d00791914dd5d8d9aa7cdfe46b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286921173,
-    "wof:lastmodified":1466238757,
+    "wof:lastmodified":1510942907,
     "wof:name":"Ehlers & Schubert Textilpflege Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957610799
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

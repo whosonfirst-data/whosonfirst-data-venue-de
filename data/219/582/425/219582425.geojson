@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.796775,51.028244,13.796775,51.028244",
     "geom:latitude":51.028244,
     "geom:longitude":13.796775,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bodenbacher Str. 81",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0LdD5bERirvDigKhLaLrRa_51.028244_13.796775@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a47b31c27283cb9bd42bf48f94dd2a65",
+    "wof:geomhash":"f8ff3212d374abf8623574df4889f3cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219582425,
-    "wof:lastmodified":1466222056,
+    "wof:lastmodified":1510943049,
     "wof:name":"Eiring Scs Catering & Services Gmbh",
     "wof:parent_id":85900051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941040571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

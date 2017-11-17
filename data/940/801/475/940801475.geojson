@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9376554489,53.5460853577,9.9376554489,53.5460853577",
     "geom:latitude":53.546085,
     "geom:longitude":9.937655,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Palmaille 67",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471999183,
-    "wof:geomhash":"059e7c9e46786535d5cd66c077eaa7d8",
+    "wof:geomhash":"4452e5a8c40c9277eeb25130e87a2fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":940801475,
-    "wof:lastmodified":1471999183,
+    "wof:lastmodified":1510942317,
     "wof:name":"Ste Schroeder Trading Und Engineering Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940963045
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

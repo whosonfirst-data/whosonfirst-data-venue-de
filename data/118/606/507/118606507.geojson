@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.285926,51.21661,6.285926,51.21661",
     "geom:latitude":51.21661,
     "geom:longitude":6.285926,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eickener Str 34",
     "sg:city":"Schwalmtal",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1e5IbLiFmmqoTn71QM8z6G_51.216610_6.285926@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"487b26f5d1738eeaf863888cf24ea88c",
+    "wof:geomhash":"f7e4a18dbe9035e27e33c8fc025871fb",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118606507,
-    "wof:lastmodified":1466218579,
+    "wof:lastmodified":1510943060,
     "wof:name":"W. + H. Ahlers Gmbh",
     "wof:parent_id":101810339,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320087429
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

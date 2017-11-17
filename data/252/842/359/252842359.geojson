@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.52796,49.426235,8.52796,49.426235",
     "geom:latitude":49.426235,
     "geom:longitude":8.52796,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fclheimer Str. 16-22",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2UuIBbbS8fPw4rMgk1EWGi_49.426235_8.527960@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5a0db4cb0a2f3bdd855c5b40194da160",
+    "wof:geomhash":"cb53f8326af21de294aa92a6b70f5581",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252842359,
-    "wof:lastmodified":1466221655,
+    "wof:lastmodified":1510944089,
     "wof:name":"Goldschmidt Tib Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118778581
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

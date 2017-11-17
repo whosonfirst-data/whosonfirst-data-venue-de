@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.731369,47.641872,7.731369,47.641872",
     "geom:latitude":47.641872,
     "geom:longitude":7.731369,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Daimlerstr. 4",
     "sg:city":"Steinen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1SwQTcudHjT4ZG3i8wxPnE_47.641872_7.731369@1306268951"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2c62bf3719722699a9b39849607e4b08",
+    "wof:geomhash":"7895b250eb54c2edc407a1d6dfeaaf05",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303719593,
-    "wof:lastmodified":1466239752,
+    "wof:lastmodified":1510943554,
     "wof:name":"Sandstrahlwerk Z\u00e4h Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941154431
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.325913,49.395271,11.325913,49.395271",
     "geom:latitude":49.395271,
     "geom:longitude":11.325913,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werk Str. 12",
     "sg:city":"Altdorf",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_2MT6Yl1yQ7P7EGuLEIPleu_49.395271_11.325913@1306269141"
     },
     "wof:country":"DE",
-    "wof:geomhash":"915ef9b30e82e6dba2efd72c1338b093",
+    "wof:geomhash":"70b6329358fb21b8eb3156bf1d7506a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320146733,
-    "wof:lastmodified":1466236445,
+    "wof:lastmodified":1510942655,
     "wof:name":"Noris-plastic Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102588689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

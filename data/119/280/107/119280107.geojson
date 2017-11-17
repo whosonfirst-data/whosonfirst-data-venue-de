@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.990835,49.471264,10.990835,49.471264",
     "geom:latitude":49.471264,
     "geom:longitude":10.990835,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gustav-Schickedanz-Str 8",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3hFs36V9H4Zm8NO5D9ER4M_49.471264_10.990835@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"28f8fcfce30a0299eb6d00c94a79cf8c",
+    "wof:geomhash":"7b32afd1fcd712cc60482386563453ac",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":119280107,
-    "wof:lastmodified":1466236653,
+    "wof:lastmodified":1510943076,
     "wof:name":"Wirescout Ag",
     "wof:parent_id":85899081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940782995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

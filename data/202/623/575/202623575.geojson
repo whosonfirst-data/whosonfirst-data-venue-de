@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.348759,51.559196,14.348759,51.559196",
     "geom:latitude":51.559196,
     "geom:longitude":14.348759,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Philipp-Reis-Str. 6",
     "sg:city":"Spremberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7FRD4ZOHPnU6HifNJ05Ycv_51.559196_14.348759@1306268902"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8e688839c02498eff82a23376e6e5adf",
+    "wof:geomhash":"84e16b52bffca2f6c72fa1f0419235e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202623575,
-    "wof:lastmodified":1466218048,
+    "wof:lastmodified":1510943287,
     "wof:name":"Sternenb\u00c4ck Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202628423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

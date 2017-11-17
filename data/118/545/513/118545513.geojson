@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.395957,51.394341,12.395957,51.394341",
     "geom:latitude":51.394341,
     "geom:longitude":12.395957,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Messe-Allee 2",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1hbPDEeP1TBnCiP7eAw06N_51.394341_12.395957@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"995830bf2ee272d9e51b63980ee3b97d",
+    "wof:geomhash":"f4c14ef75c195cbcd212d17f4387f3e0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118545513,
-    "wof:lastmodified":1466215155,
+    "wof:lastmodified":1510943681,
     "wof:name":"K & R Internationale Handelsgesellschaft Kg",
     "wof:parent_id":85899805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940621659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

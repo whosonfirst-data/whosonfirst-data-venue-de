@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.977452,52.267159,7.977452,52.267159",
     "geom:latitude":52.267159,
     "geom:longitude":7.977452,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rheiner Landstr. 195",
     "sg:city":"Osnabr\u00fcck",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_5y7mQtTaWxSadRIcxjaxEP_52.267159_7.977452@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5cef67358bfe4c81995d5767a8e800aa",
+    "wof:geomhash":"a7960bed26d22107b21d51c350e73bba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":253065587,
-    "wof:lastmodified":1466220632,
+    "wof:lastmodified":1510943276,
     "wof:name":"Buw Unternehmensgruppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320279891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

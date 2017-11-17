@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.452654,51.254089,14.452654,51.254089",
     "geom:latitude":51.254089,
     "geom:longitude":14.452654,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hermann-Schomburg-Str. 8",
     "sg:city":"Gro\u00dfdubrau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_13zIlxmYxORWpNZCp1B9Nq_51.254089_14.452654@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"87b6df0c5c1bf6e214b789f197a069e3",
+    "wof:geomhash":"1f87d1a64efe5d2cd1dceeeae1aafa22",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252724595,
-    "wof:lastmodified":1466219407,
+    "wof:lastmodified":1510944122,
     "wof:name":"Alsical H\u00dcttenwerkstechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958127497
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5733127594,48.1422348022,11.5733127594,48.1422348022",
     "geom:latitude":48.142235,
     "geom:longitude":11.573313,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Maximiliansplatz 10",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471987950,
-    "wof:geomhash":"a377052d48fb4f42037ce675506dc7dd",
+    "wof:geomhash":"765d54f0363a0bf67164fbafc6ab58f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":940583615,
-    "wof:lastmodified":1471987950,
+    "wof:lastmodified":1510942317,
     "wof:name":"Obermaier Baeder Muenchen Gmbh",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135483693
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

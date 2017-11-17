@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.48437,52.163223,11.48437,52.163223",
     "geom:latitude":52.163223,
     "geom:longitude":11.48437,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Niederndodeleber Str 11e",
     "sg:city":"Irxleben",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3YKU3obQBHZCtGEaKPjflr_52.163223_11.484370@1306268802"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f30db2e645d9df7b85d3470202aee3fc",
+    "wof:geomhash":"b719f9b27ba61bba65fe73a8d3b7d88a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102567387,
-    "wof:lastmodified":1466214065,
+    "wof:lastmodified":1510941589,
     "wof:name":"Piab Kraftmesstechnik Ost Gmbh",
     "wof:parent_id":101841437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940851785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

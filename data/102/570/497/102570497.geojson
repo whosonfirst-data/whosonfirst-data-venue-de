@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.805025,51.962406,8.805025,51.962406",
     "geom:latitude":51.962406,
     "geom:longitude":8.805025,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pivitsheider Str 270",
     "sg:city":"Lage",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4wQp8td2vabHVQliZBLpXT_51.962406_8.805025@1306268826"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a92d741b231975c186ff873234da5e70",
+    "wof:geomhash":"89aee8bf60c0e6ae0a27c078855bb015",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102570497,
-    "wof:lastmodified":1466218371,
+    "wof:lastmodified":1510942056,
     "wof:name":"Burmeier Gmbh & Co Kg",
     "wof:parent_id":85682513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940972043
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

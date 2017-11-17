@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9640216827,53.5563354492,9.9640216827,53.5563354492",
     "geom:latitude":53.556335,
     "geom:longitude":9.964022,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neuer Pferdemarkt 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472097113,
-    "wof:geomhash":"4ff2a5b423d8509c72e3c8618cbef480",
+    "wof:geomhash":"8ffaa3003552469e8a48bcee98291da6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":974173901,
-    "wof:lastmodified":1472097113,
+    "wof:lastmodified":1510942595,
     "wof:name":"Superstition Recordings Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940748111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

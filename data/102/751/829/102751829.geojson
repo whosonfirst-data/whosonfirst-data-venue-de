@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.52849,48.152203,11.52849,48.152203",
     "geom:latitude":48.152203,
     "geom:longitude":11.52849,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wendl-Dietrich-Str 22",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_39gNIXrbMaXBSI8d43tpdh_48.152203_11.528490@1306268951"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2edb911ffb4d1f845d674f73c109a86b",
+    "wof:geomhash":"7d307de991fcad22d39e43e923558eee",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102751829,
-    "wof:lastmodified":1466218366,
+    "wof:lastmodified":1510943474,
     "wof:name":"It-soft Gmbh",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940710981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

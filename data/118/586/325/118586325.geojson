@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.552401,48.119556,11.552401,48.119556",
     "geom:latitude":48.119556,
     "geom:longitude":11.552401,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Thalkirchner Str. 81",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_453uqaFwTDnawqUqe6rjFz_48.119556_11.552401@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b04bac63fc1e5b72a15b2ccb0633e07a",
+    "wof:geomhash":"eb0d6407a16dcc84a477b7ab5551c9f1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118586325,
-    "wof:lastmodified":1466217488,
+    "wof:lastmodified":1510943005,
     "wof:name":"Herbert Widmann Gmbh",
     "wof:parent_id":85905609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957351943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

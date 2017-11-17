@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.16692,48.72855,9.16692,48.72855",
     "geom:latitude":48.72855,
     "geom:longitude":9.16692,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Epplestr. 225",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1uPAloaQ20lrfs46q9cc2w_48.728550_9.166920@1306269132"
     },
     "wof:country":"DE",
-    "wof:geomhash":"72e9850034fe1a7921ea1bcb9f0e04fa",
+    "wof:geomhash":"03e4e5dd102d8b7e7738ca52f83a7ece",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303243587,
-    "wof:lastmodified":1466230503,
+    "wof:lastmodified":1510943204,
     "wof:name":"Daimler Chrysler Ag",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941501189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

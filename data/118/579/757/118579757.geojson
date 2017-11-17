@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.16975,48.824516,9.16975,48.824516",
     "geom:latitude":48.824516,
     "geom:longitude":9.16975,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wernerstr. 119-129",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5eYnCoWrKej5M5Y21wthh6_48.824516_9.169750@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e4b2407b1138e884646689251410254b",
+    "wof:geomhash":"11aa332c6c9f4b92f1991c70c3cce1d2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118579757,
-    "wof:lastmodified":1466217136,
+    "wof:lastmodified":1510942437,
     "wof:name":"Ltg Mail\u00c4nder Gmbh",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287267989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.204695,52.323959,9.204695,52.323959",
     "geom:latitude":52.323959,
     "geom:longitude":9.204695,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"am Markt 9",
     "sg:city":"Stadthagen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0rEcb936e8vfFBiEHnGQqi_52.323959_9.204695@1306268849"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c6d51f53876fd134f2001226f4e9177d",
+    "wof:geomhash":"59597933a02373b1ae7b43cfde3fe7fc",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135391701,
-    "wof:lastmodified":1466222170,
+    "wof:lastmodified":1510942581,
     "wof:name":"Kreis- Und Stadtsparkasse, Stadthagen",
     "wof:parent_id":101838047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135391945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

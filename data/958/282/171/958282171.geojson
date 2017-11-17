@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5818691254,52.4384536743,13.5818691254,52.4384536743",
     "geom:latitude":52.438454,
     "geom:longitude":13.581869,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wendenschlo\u00df Str. 142",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472088727,
-    "wof:geomhash":"5c885928f31a2949b5f71ac16f3d3984",
+    "wof:geomhash":"75d71d0ef869139ef723617387abc85b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":958282171,
-    "wof:lastmodified":1472088727,
+    "wof:lastmodified":1510943445,
     "wof:name":"Detewe Funkwerk K\u00d6penick Gmbh",
     "wof:parent_id":85899297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941542037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

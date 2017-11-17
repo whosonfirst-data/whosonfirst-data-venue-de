@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.736572,48.068241,8.736572,48.068241",
     "geom:latitude":48.068241,
     "geom:longitude":8.736572,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Verena Weg 9",
     "sg:city":"Spaichingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6vP5OUA1MH8kdTV0sw7VnV_48.068241_8.736572@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f78f967a968785dc0f60ca6e1d5fd627",
+    "wof:geomhash":"24506b11acae70c69b704669ad3bc5f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186212029,
-    "wof:lastmodified":1466215416,
+    "wof:lastmodified":1510942603,
     "wof:name":"Reichmann Kunststofftechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186428527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

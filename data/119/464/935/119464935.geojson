@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.659036,48.463997,8.659036,48.463997",
     "geom:latitude":48.463997,
     "geom:longitude":8.659036,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestra\u00dfe 103",
     "sg:city":"Horb a.N.",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_52AeLWFb3OSnRHVj7MJAcs_48.463997_8.659036@1306268838"
     },
     "wof:country":"DE",
-    "wof:geomhash":"19ca328ea88aa39cf5d874c19110f3f2",
+    "wof:geomhash":"3d199b07af2c02a147b911c8fa055156",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":119464935,
-    "wof:lastmodified":1466243119,
+    "wof:lastmodified":1510943779,
     "wof:name":"Fischer Automotive Systems Gmbh",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941326967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.479957,51.158718,6.479957,51.158718",
     "geom:latitude":51.158718,
     "geom:longitude":6.479957,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Konstantinstr. 46",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_55kObs1YbozbPxtCfLTIcf_51.158718_6.479957@1306268945"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5c9c66fd6de171581510efc62f53fba2",
+    "wof:geomhash":"5560aef25fed4169789fbb6d2a0e6bb3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303080089,
-    "wof:lastmodified":1466226496,
+    "wof:lastmodified":1510942849,
     "wof:name":"B\u00fcckmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941152183
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

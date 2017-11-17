@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.227042,49.994949,8.227042,49.994949",
     "geom:latitude":49.994949,
     "geom:longitude":8.227042,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hegelstr. 61",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5WJ6bY0lK7TVaG7hILN1Z7_49.994949_8.227042@1306268878"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d9c307c80336755ab8823da32af7635d",
+    "wof:geomhash":"52256c00d4416adf60e37c558231cf1a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,16 @@
         }
     ],
     "wof:id":152457779,
-    "wof:lastmodified":1466219304,
+    "wof:lastmodified":1510944123,
     "wof:name":"Abg Allgemeine Beteiligungs- Ges. F\u00fcr Gewerbeimmobilien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974227809,
+        941097613,
+        974227607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

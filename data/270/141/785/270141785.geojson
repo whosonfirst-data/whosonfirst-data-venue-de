@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.852988,53.104187,8.852988,53.104187",
     "geom:latitude":53.104187,
     "geom:longitude":8.852988,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Universit\u00e4tsallee 5",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6YSxGnqRYrIWGD5952mFiM_53.104187_8.852988@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"792fcc47810b15dc5b067121bb37b1a0",
+    "wof:geomhash":"3311d60d86036c7e2b4fadc277d9eac1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270141785,
-    "wof:lastmodified":1466224700,
+    "wof:lastmodified":1510943555,
     "wof:name":"Bremer Rechenzentrum Gmbh",
     "wof:parent_id":85796031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269737141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

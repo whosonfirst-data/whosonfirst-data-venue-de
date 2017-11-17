@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.638077,49.410645,8.638077,49.410645",
     "geom:latitude":49.410645,
     "geom:longitude":8.638077,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dischingerstr. 8",
     "sg:city":"Heidelberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3il1BdIcylRI4tlJfP2OLy_49.410645_8.638077@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b9a0f1126bc0a2549676fb9675f5f1c8",
+    "wof:geomhash":"e23f0247a2fb49f94a1a829a78d0e907",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":253061431,
-    "wof:lastmodified":1466220537,
+    "wof:lastmodified":1510942425,
     "wof:name":"O.k. Foto-laborshop Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941531231
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

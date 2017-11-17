@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.638224,49.645462,8.638224,49.645462",
     "geom:latitude":49.645462,
     "geom:longitude":8.638224,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Georgenstr. 13",
     "sg:city":"Heppenheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2eREWpud0K8t6HgK2JNjqI_49.645462_8.638224@1306269127"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f39f004574211cf1e3f3a1de2b0b63b5",
+    "wof:geomhash":"b65c2c120ab2aebd29b6078e17d59e31",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286989249,
-    "wof:lastmodified":1466239915,
+    "wof:lastmodified":1510942763,
     "wof:name":"Weinhold Feuerwehrbedarf Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152987111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.091673,49.01804,12.091673,49.01804",
     "geom:latitude":49.01804,
     "geom:longitude":12.091673,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"D\u00e4nzergasse 8",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_0MOTRBXSqlRfRzU0BVyCaU_49.018040_12.091673@1306268960"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cf47f46d0929ae27da8bf21690656537",
+    "wof:geomhash":"798c1feea0f63bdabc8250f423f2a13a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":320631763,
-    "wof:lastmodified":1466242045,
+    "wof:lastmodified":1510943008,
     "wof:name":"Umspannwerk Windkraft Auf Der H\u00f6te",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320634367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

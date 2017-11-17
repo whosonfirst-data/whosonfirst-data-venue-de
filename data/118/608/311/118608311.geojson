@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.001425,53.547943,10.001425,53.547943",
     "geom:latitude":53.547943,
     "geom:longitude":10.001425,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Me\u00dfberg 4",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_33TftZJFov9x1J8pujMef6_53.547943_10.001425@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"af780994f4274d759480bd081fb46f10",
+    "wof:geomhash":"53efb61c938feda4de5eb067605ea1a4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118608311,
-    "wof:lastmodified":1466218712,
+    "wof:lastmodified":1510942912,
     "wof:name":"Walter Taby Spedition Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957987399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

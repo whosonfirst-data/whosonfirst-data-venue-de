@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,6 +12,7 @@
     "geom:longitude":13.326873,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hardenbergstr. 12",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -45,12 +47,14 @@
         }
     ],
     "wof:id":974192293,
-    "wof:lastmodified":1496354125,
+    "wof:lastmodified":1510943665,
     "wof:name":"Gewege Gesellschaft F\u00fcr Wohn- Und Gesch\u00e4ftsbauten",
     "wof:parent_id":85928741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941116467
+    ],
     "wof:supersedes":[
         974196111
     ],

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.733297,51.703022,8.733297,51.703022",
     "geom:latitude":51.703022,
     "geom:longitude":8.733297,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Abtsbrede 129",
     "sg:city":"Paderborn",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3oETBFVopUXWKn0tknsUmg_51.703022_8.733297@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6264391c275407dcc9d6d0b7c835b723",
+    "wof:geomhash":"bc5cce52aabcead13c73a8cdcd00472f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303135897,
-    "wof:lastmodified":1466227838,
+    "wof:lastmodified":1510941825,
     "wof:name":"Contessa Nahrungsmittel Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957355645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

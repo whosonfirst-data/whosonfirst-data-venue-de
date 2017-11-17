@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.445675,48.99659,8.445675,48.99659",
     "geom:latitude":48.99659,
     "geom:longitude":8.445675,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ottostr. 10",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1E1dMhc2LWelpr0p0uqR4W_48.996590_8.445675@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1fe9db613724b7d59514436f37e9c11f",
+    "wof:geomhash":"931b754760b82458a87423f6d82cc700",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320661735,
-    "wof:lastmodified":1466242196,
+    "wof:lastmodified":1510942598,
     "wof:name":"Metalle In Form Ger\u00c4teteile Gmbh",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941148043
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

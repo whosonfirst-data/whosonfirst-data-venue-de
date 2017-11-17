@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.1019554138,47.9079246521,8.1019554138,47.9079246521",
     "geom:latitude":47.907925,
     "geom:longitude":8.101955,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freiburger Str. 17",
     "sg:city":"Hinterzarten",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472008707,
-    "wof:geomhash":"3e46af26e0df2ee53f728283d01432ab",
+    "wof:geomhash":"a7d1bda722a1dc1a4f66953a6116b99d",
     "wof:hierarchy":[],
     "wof:id":940996401,
-    "wof:lastmodified":1472008707,
+    "wof:lastmodified":1510941400,
     "wof:name":"Hotel Zartenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957643257
+    ],
+    "wof:supersedes":[
+        957643257
+    ],
     "wof:tags":[]
 },
   "bbox": [

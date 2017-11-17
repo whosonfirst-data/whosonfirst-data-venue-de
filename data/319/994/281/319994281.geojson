@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.561286,48.189709,11.561286,48.189709",
     "geom:latitude":48.189709,
     "geom:longitude":11.561286,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riesenfeldstr. 116",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4FSbZX7Jdcfuj0TWoV0ccm_48.189709_11.561286@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f152970f21b79f558cc02b4153ade6cb",
+    "wof:geomhash":"2b036af370113126bd0c18d362d3e130",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":319994281,
-    "wof:lastmodified":1466236606,
+    "wof:lastmodified":1510943653,
     "wof:name":"Eberhard B\u00d6rger Gmbh & Co Kg",
     "wof:parent_id":85905617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303639135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

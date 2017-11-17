@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.573304,49.184532,7.573304,49.184532",
     "geom:latitude":49.184532,
     "geom:longitude":7.573304,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Molkenbrunnerstr. 14",
     "sg:city":"Pirmasens-Winzeln",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0MgLeBNcE74nglWxsbQo10_49.184532_7.573304@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"71d7004db7c712d66e56a971501dd430",
+    "wof:geomhash":"7a6918bb295d3518d925b8627866ba48",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320025629,
-    "wof:lastmodified":1466233933,
+    "wof:lastmodified":1510943334,
     "wof:name":"Hoffmann Maschinenbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974457417
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

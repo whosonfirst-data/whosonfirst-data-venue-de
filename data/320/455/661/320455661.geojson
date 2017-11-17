@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.778599,51.756233,8.778599,51.756233",
     "geom:latitude":51.756233,
     "geom:longitude":8.778599,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Talle 89",
     "sg:city":"Paderborn",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_6ulqLE2Dt8nSdUEOn0KloX_51.756233_8.778599@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e9c37b599e4cd6d2cad4ca22b9c0790a",
+    "wof:geomhash":"c62ddc85823f38ee8fc36d52eb2203b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320455661,
-    "wof:lastmodified":1466240596,
+    "wof:lastmodified":1510942141,
     "wof:name":"Weidm\u00dcller Gmbh & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941147095
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

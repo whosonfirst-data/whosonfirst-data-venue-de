@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.22127,51.107349,10.22127,51.107349",
     "geom:latitude":51.107349,
     "geom:longitude":10.22127,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlh\u00e4user Str. 31",
     "sg:city":"Schnellmannshausen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_5HoewYCvwbtbnSV2OcvNao_51.107349_10.221270@1306269118"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c228f8f02da9cc514ff35823d64d269a",
+    "wof:geomhash":"2ac424497415041b033349b1e1372723",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":270037747,
-    "wof:lastmodified":1466222251,
+    "wof:lastmodified":1510941722,
     "wof:name":"Agrargenossenschaft Normannstein Treffurt E.g.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118588537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

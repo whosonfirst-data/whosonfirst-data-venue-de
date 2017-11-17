@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.317937,51.303238,12.317937,51.303238",
     "geom:latitude":51.303238,
     "geom:longitude":12.317937,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Anton-Zickmantel-Str. 50",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5XJqriuos99dbBFod5P4zH_51.303238_12.317937@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"88abea8bd637f9a4f0b15c2bafc58b51",
+    "wof:geomhash":"56aae0f0a5d73a4a9089b056061af4c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336645227,
-    "wof:lastmodified":1466234638,
+    "wof:lastmodified":1510941550,
     "wof:name":"Rotus Rohrtechnik- Und Service Gmbh",
     "wof:parent_id":85899485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941332849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

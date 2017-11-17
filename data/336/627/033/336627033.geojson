@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.592638,50.188343,8.592638,50.188343",
     "geom:latitude":50.188343,
     "geom:longitude":8.592638,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ludwig-Erhard-Str. 27",
     "sg:city":"Oberursel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4nLSjgzDLjsJdzLzIFW03Z_50.188343_8.592638@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ca6b75f53dce9e5558b6e6c97a635f2c",
+    "wof:geomhash":"07f0d01d5c641b1a738d6c2d9a328618",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336627033,
-    "wof:lastmodified":1466234200,
+    "wof:lastmodified":1510942472,
     "wof:name":"N\u00c4der Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957924055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

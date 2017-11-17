@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.941833,54.317188,8.941833,54.317188",
     "geom:latitude":54.317188,
     "geom:longitude":8.941833,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rademacherstr. 12",
     "sg:city":"T\u00f6nning",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6vvAnrCJElv0qUqS1fjDWM_54.317188_8.941833@1306268948"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1d10605dc4ac66b9569d100aa104c73b",
+    "wof:geomhash":"485de7968e02bac2b8a8b395e9752cf6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303433805,
-    "wof:lastmodified":1466235634,
+    "wof:lastmodified":1510943501,
     "wof:name":"Wilhelm Boysen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957474221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

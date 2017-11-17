@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.795977,48.682022,9.795977,48.682022",
     "geom:latitude":48.682022,
     "geom:longitude":9.795977,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"\u00d6schstr. 33",
     "sg:city":"Donzdorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2v9TplUp0GLWwQnZi5aZkv_48.682022_9.795977@1306268894"
     },
     "wof:country":"DE",
-    "wof:geomhash":"248a8d0eebf284aa50da188ac23cecf4",
+    "wof:geomhash":"84aca965d34caa696ca9619050dc90df",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102697729,
-    "wof:lastmodified":1466216050,
+    "wof:lastmodified":1510941971,
     "wof:name":"Werbung Und Verlag Juergen Feiner",
     "wof:parent_id":101761761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957468325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

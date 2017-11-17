@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3187150955,52.486656189,13.3187150955,52.486656189",
     "geom:latitude":52.486656,
     "geom:longitude":13.318715,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berliner Str. 44",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472013892,
-    "wof:geomhash":"bd9fda1546f6da013c0c34a8a9b4ca92",
+    "wof:geomhash":"d992d20d87103c47e1b133d3b6439f64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":941111443,
-    "wof:lastmodified":1472013892,
+    "wof:lastmodified":1510942554,
     "wof:name":"Prometheus Immobilien Verwaltungs Gmbh & Co.",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        135729835
+    ],
+    "wof:supersedes":[
+        135551503
+    ],
     "wof:tags":[]
 },
   "bbox": [

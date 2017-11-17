@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5209560394,48.1328468323,11.5209560394,48.1328468323",
     "geom:latitude":48.132847,
     "geom:longitude":11.520956,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Westendstr. 199",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472095786,
-    "wof:geomhash":"ec9416592b55eec7ae5c7bf9654406f7",
+    "wof:geomhash":"80d3aaa20fc0a7d8d766c8d93ab5dfed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":974145877,
-    "wof:lastmodified":1472095786,
+    "wof:lastmodified":1510943683,
     "wof:name":"T\u00dcv S\u00dcddeutschland Holding Ag",
     "wof:parent_id":85905615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        135936611
+    ],
+    "wof:supersedes":[
+        219571233
+    ],
     "wof:tags":[]
 },
   "bbox": [

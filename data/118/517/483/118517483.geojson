@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.168437,48.770836,9.168437,48.770836",
     "geom:latitude":48.770836,
     "geom:longitude":9.168437,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reinsburgstrasse 19::",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3TACxkhXxuySiwUq9exZsv_48.770836_9.168437@1306268792"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f3ffbdc7caa77ada72941a463936bbdf",
+    "wof:geomhash":"1caed3d313e051fe69a1350c43628440",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118517483,
-    "wof:lastmodified":1466213380,
+    "wof:lastmodified":1510942544,
     "wof:name":"Allianz Lebensversicherungs-aktiengesellschaft",
     "wof:parent_id":85795469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957481177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.874146,48.361462,10.874146,48.361462",
     "geom:latitude":48.361462,
     "geom:longitude":10.874146,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"F\u00e4rberstra\u00dfe 2",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2CWLBbvJJV6XHmkUSV5hQ9_48.361462_10.874146@1306268941"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7815581a91fd3fd323dd779b6c17e6c7",
+    "wof:geomhash":"e51b648818c06184ed27d280db3e6bb4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286889511,
-    "wof:lastmodified":1466238240,
+    "wof:lastmodified":1510941921,
     "wof:name":"Kognos Verlag Braun Gmbh",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974172183
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.484615,53.235909,7.484615,53.235909",
     "geom:latitude":53.235909,
     "geom:longitude":7.484615,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gustav-Elster-Str. 1",
     "sg:city":"Leer",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_477ycr8VyuYbcYHA7DeD8s_53.235909_7.484615@1306268960"
     },
     "wof:country":"DE",
-    "wof:geomhash":"407e66e190ac2752d2d0364bf51483a3",
+    "wof:geomhash":"335b1fa408aec58392f921cf92d71d86",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320632841,
-    "wof:lastmodified":1466241987,
+    "wof:lastmodified":1510942316,
     "wof:name":"Prokon Nord Energiesysteme Gmbh & Co. Windpark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320633117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

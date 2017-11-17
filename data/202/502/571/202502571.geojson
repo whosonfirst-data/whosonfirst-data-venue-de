@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.21749,54.400848,10.21749,54.400848",
     "geom:latitude":54.400848,
     "geom:longitude":10.21749,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boern 17",
     "sg:city":"Laboe",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1xeicpYbAede7YEn7pWGQf_54.400848_10.217490@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1b2682020dca478f579e94a3e4ec7c95",
+    "wof:geomhash":"43f9739797d80d7a38ca31a95ed72628",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":202502571,
-    "wof:lastmodified":1466215668,
+    "wof:lastmodified":1510943111,
     "wof:name":"Schiffswerft Laboe Gmbh",
     "wof:parent_id":85905703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957892621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

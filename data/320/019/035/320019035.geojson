@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.589873,51.329456,6.589873,51.329456",
     "geom:latitude":51.329456,
     "geom:longitude":6.589873,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Diessemer Bruch 66",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5AAVnKTnx5K1B8Mwlhvgkl_51.329456_6.589873@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a8c3e399bdc1bb569e6374f80791a31f",
+    "wof:geomhash":"8f881bb9b5bd63180687bdb3cf6d6c5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320019035,
-    "wof:lastmodified":1466233772,
+    "wof:lastmodified":1510942933,
     "wof:name":"Hauser Umwelt Service Gmbh",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940642945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

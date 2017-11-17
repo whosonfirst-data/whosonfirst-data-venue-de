@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.685728,50.5755,8.685728,50.5755",
     "geom:latitude":50.5755,
     "geom:longitude":8.685728,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Talstrasse 3::",
     "sg:city":"Giessen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_4mGCSXWRCwe4CeIE9hHmxT_50.575500_8.685728@1306268852"
     },
     "wof:country":"DE",
-    "wof:geomhash":"838722e320e6e0cdbce5dd159517ecc7",
+    "wof:geomhash":"ec1d07ade72a0a6a8bc8d6cea916432f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":135449297,
-    "wof:lastmodified":1466227126,
+    "wof:lastmodified":1510943340,
     "wof:name":"Tez Test-und Entwicklungs-zentrum Gmbh",
     "wof:parent_id":101748589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940694719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

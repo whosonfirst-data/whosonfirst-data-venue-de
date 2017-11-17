@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.330423,49.654125,8.330423,49.654125",
     "geom:latitude":49.654125,
     "geom:longitude":8.330423,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sophienstra\u00dfe 11",
     "sg:city":"Worms-Herrnsheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0T5nCYPgB97EWEd8yFYysS_49.654125_8.330423@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8476b45641bd400b5c7aa51c61830c74",
+    "wof:geomhash":"53e8cc3dddd2706b5b5afea038021ded",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270412393,
-    "wof:lastmodified":1466231375,
+    "wof:lastmodified":1510942764,
     "wof:name":"Druckerei Bollinger Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957469679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

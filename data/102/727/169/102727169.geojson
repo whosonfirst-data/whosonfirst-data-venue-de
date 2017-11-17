@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.130109,49.189167,8.130109,49.189167",
     "geom:latitude":49.189167,
     "geom:longitude":8.130109,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Max-von-Laue-Str 3",
     "sg:city":"Landau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3ODxrw20ATmCgy575gxwpl_49.189167_8.130109@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"120f647f1347d9d6920d7e2e71b0e094",
+    "wof:geomhash":"a3d8d6b213b408afecdbb253e617c2a1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,15 @@
         }
     ],
     "wof:id":102727169,
-    "wof:lastmodified":1466216914,
+    "wof:lastmodified":1510943839,
     "wof:name":"Eichenauer Computer-beratungs-gmbh",
     "wof:parent_id":101760711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941156503,
+        957951971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

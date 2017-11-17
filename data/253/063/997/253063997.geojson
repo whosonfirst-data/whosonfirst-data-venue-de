@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.985257,53.571571,9.985257,53.571571",
     "geom:latitude":53.571571,
     "geom:longitude":9.985257,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hallerpl. 5",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1NqewqDoHh8X2SKzRSidbF_53.571571_9.985257@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a9ee556a1535014d9b7ec267dcd7e06d",
+    "wof:geomhash":"d82a2d9b8f7027bcea7629552fd95aa3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253063997,
-    "wof:lastmodified":1466220599,
+    "wof:lastmodified":1510942932,
     "wof:name":"A & L Partner Direktmarketing Gmbh",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287180701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

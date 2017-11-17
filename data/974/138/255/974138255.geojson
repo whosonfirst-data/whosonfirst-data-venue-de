@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9099550247,48.5658149719,10.9099550247,48.5658149719",
     "geom:latitude":48.565815,
     "geom:longitude":10.909955,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herzog-Tassilo-Str. 14",
     "sg:city":"Thierhaupten",
     "sg:classifiers":[],
@@ -25,16 +28,21 @@
     },
     "wof:country":"DE",
     "wof:created":1472095418,
-    "wof:geomhash":"adf3d19e6fb266cba918ccc68e738501",
+    "wof:geomhash":"4283a8ae1ee288917c2be9e8c8a7a25a",
     "wof:hierarchy":[],
     "wof:id":974138255,
-    "wof:lastmodified":1472095418,
+    "wof:lastmodified":1510943095,
     "wof:name":"Franz Egenberger Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941488067
+    ],
+    "wof:supersedes":[
+        118770955,
+        974137793
+    ],
     "wof:tags":[]
 },
   "bbox": [

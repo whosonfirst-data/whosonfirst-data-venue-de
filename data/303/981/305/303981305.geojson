@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.018836,54.154343,12.018836,54.154343",
     "geom:latitude":54.154343,
     "geom:longitude":12.018836,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 103",
     "sg:city":"Elmenhorst/Lichtenhagen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2O7SjM55TWDmE0bmShGLRg_54.154343_12.018836@1306268953"
     },
     "wof:country":"DE",
-    "wof:geomhash":"27cb425cece5414a647be66ebd0e8882",
+    "wof:geomhash":"75160a35237f8bd4a8a947b3899e645b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303981305,
-    "wof:lastmodified":1466241804,
+    "wof:lastmodified":1510943909,
     "wof:name":"Pico-m\u00f6belmarkt Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941529461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

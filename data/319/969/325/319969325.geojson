@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.291959,51.955235,8.291959,51.955235",
     "geom:latitude":51.955235,
     "geom:longitude":8.291959,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Von-Liebig-Str 12",
     "sg:city":"Marienfeld",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_7bHXXEPD51rUHpahBkezY6_51.955235_8.291959@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7304aa1a73fd8fca86eb69cfd4dfdd8e",
+    "wof:geomhash":"eb1acbd4a8a76d17dc3992664fa08efe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":319969325,
-    "wof:lastmodified":1466236315,
+    "wof:lastmodified":1510942349,
     "wof:name":"B&k Rauchfleisch Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940626917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

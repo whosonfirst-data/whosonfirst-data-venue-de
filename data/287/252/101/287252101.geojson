@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1784,50.34742,11.1784,50.34742",
     "geom:latitude":50.34742,
     "geom:longitude":11.1784,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberlinder Str 84",
     "sg:city":"Sonneberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4UNWe6CLSCKT8q3mbhIeFN_50.347420_11.178400@1306268945"
     },
     "wof:country":"DE",
-    "wof:geomhash":"521d383d2f1f93daeb6bb533fa3aa9c7",
+    "wof:geomhash":"ae2d68f622eebba30c7ac14f3ac63689",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287252101,
-    "wof:lastmodified":1466231714,
+    "wof:lastmodified":1510942546,
     "wof:name":"Sonni Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958090553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6068658829,48.1938285828,11.6068658829,48.1938285828",
     "geom:latitude":48.193829,
     "geom:longitude":11.606866,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alois-Wolfmueller-Str. 8",
     "sg:city":"M\u00fcnchen/Freimann",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472022227,
-    "wof:geomhash":"c1ec088f0fe2137fa718100d206b37e8",
+    "wof:geomhash":"f35b953bfc4a78f67b861420ad3f42dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":941301391,
-    "wof:lastmodified":1472022227,
+    "wof:lastmodified":1510941381,
     "wof:name":"Asset New Media Gmbh",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941308049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.926212,53.563316,9.926212,53.563316",
     "geom:latitude":53.563316,
     "geom:longitude":9.926212,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stahltwiete 23",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2EI7i90nl3ZDK4UTVfVbpB_53.563316_9.926212@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b835886219fc6062369d89f24fff2d65",
+    "wof:geomhash":"9c56494cfeee58aac2168e280542d9cb",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118566663,
-    "wof:lastmodified":1466216274,
+    "wof:lastmodified":1510942315,
     "wof:name":"Klass' Werbeagentur Gmbh",
     "wof:parent_id":85899761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974430625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

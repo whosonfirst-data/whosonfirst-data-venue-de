@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.24443,52.756378,13.24443,52.756378",
     "geom:latitude":52.756378,
     "geom:longitude":13.24443,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stra\u00dfe an den Wackerbergen 7",
     "sg:city":"Teschendorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0LkmLrxvE1byLhjPmz9qPx_52.756378_13.244430@1306269123"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4b5fcb58cef519e5a426d371a59eecbf",
+    "wof:geomhash":"3aef8868e037a5328a4821e5519d9a43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286544587,
-    "wof:lastmodified":1466231206,
+    "wof:lastmodified":1510941343,
     "wof:name":"Banner Maschinenbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319980989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

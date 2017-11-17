@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.722491,49.355316,6.722491,49.355316",
     "geom:latitude":49.355316,
     "geom:longitude":6.722491,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merziger Str 64",
     "sg:city":"Dillingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5i57F9RzApURaHXY1HjB1L_49.355316_6.722491@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"558d34f5128a9e88b53fe3f1d7223bf6",
+    "wof:geomhash":"3c9ff772f532927d0038bc70879a80e6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270141433,
-    "wof:lastmodified":1466224691,
+    "wof:lastmodified":1510943004,
     "wof:name":"Al-engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957952295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

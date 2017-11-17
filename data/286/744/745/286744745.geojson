@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.004678,49.463898,11.004678,49.463898",
     "geom:latitude":49.463898,
     "geom:longitude":11.004678,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leyher Str 47",
     "sg:city":"F\u00fcrth",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3TdZRUR8xKRM82vnd1GXdV_49.463898_11.004678@1306269125"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a08ed2518c655d67e646a56120a2224b",
+    "wof:geomhash":"26094429bac4ef6009eb441712cd8b47",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":286744745,
-    "wof:lastmodified":1466236108,
+    "wof:lastmodified":1510943062,
     "wof:name":"Aktiv Kommunikations-marketing Gmbh",
     "wof:parent_id":85899305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320278153
+    ],
+    "wof:supersedes":[
+        118574905
+    ],
     "wof:tags":[]
 },
   "bbox": [

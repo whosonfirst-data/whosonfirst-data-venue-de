@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.74018,51.365887,12.74018,51.365887",
     "geom:latitude":51.365887,
     "geom:longitude":12.74018,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dresdener Str. 34",
     "sg:city":"Wurzen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5wMCQAmmkuMabWzyACE0V9_51.365887_12.740180@1306269123"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9b2f27009521e80568d1c2a43278b3ff",
+    "wof:geomhash":"67cd656419a1bcabe57e8ab97ad41c7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286483381,
-    "wof:lastmodified":1466229744,
+    "wof:lastmodified":1510943618,
     "wof:name":"Pneumatik-beh\u00e4lter Und Anlagen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102648065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

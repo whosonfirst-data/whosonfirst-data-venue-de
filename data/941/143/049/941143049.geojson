@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3293952942,51.3268280029,12.3293952942,51.3268280029",
     "geom:latitude":51.326828,
     "geom:longitude":12.329395,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Naumburger Str 28",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015303,
-    "wof:geomhash":"a9c3f096fd3e761a7dd2dabd501a284c",
+    "wof:geomhash":"27d53f3ba82173165eddd699cec6cc93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941143049,
-    "wof:lastmodified":1472015303,
+    "wof:lastmodified":1510943604,
     "wof:name":"Blattwerk-design Gmbh",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940970155
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

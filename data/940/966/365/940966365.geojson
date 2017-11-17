@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4145889282,52.405708313,13.4145889282,52.405708313",
     "geom:latitude":52.405708,
     "geom:longitude":13.414589,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"T\u00f6pchiner Weg 150",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472007233,
-    "wof:geomhash":"7cec4b0deef7106e34a4701087433268",
+    "wof:geomhash":"eec1f6f1b0aea5dd39fad07f6d2e023b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,13 +47,18 @@
         }
     ],
     "wof:id":940966365,
-    "wof:lastmodified":1472007233,
+    "wof:lastmodified":1510941806,
     "wof:name":"Fred Wagener",
     "wof:parent_id":85899059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957904431
+    ],
+    "wof:supersedes":[
+        135616431,
+        135490713
+    ],
     "wof:tags":[]
 },
   "bbox": [

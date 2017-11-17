@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.997735,48.349277,10.997735,48.349277",
     "geom:latitude":48.349277,
     "geom:longitude":10.997735,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Marquardtstr. 8",
     "sg:city":"Friedberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4I4tg8ZhDdJVrh9ipnWwcg_48.349277_10.997735@1306269141"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cae6b40392a0b389df6346fcc56dafb9",
+    "wof:geomhash":"4e4dc5a3da10acf2a6bb69c98a578345",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320228483,
-    "wof:lastmodified":1466237643,
+    "wof:lastmodified":1510942224,
     "wof:name":"Martin Pehl Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941149601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

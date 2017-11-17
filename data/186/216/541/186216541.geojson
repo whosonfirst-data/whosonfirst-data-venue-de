@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.20673,50.24649,11.20673,50.24649",
     "geom:latitude":50.24649,
     "geom:longitude":11.20673,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Coburger Str. 22",
     "sg:city":"Mitwitz",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_56kT1v4BSGLuXKaJ3CynVv_50.246490_11.206730@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"80ec3b12739ce1bca933997b70844435",
+    "wof:geomhash":"8de9ea7b417fc3b6985f9f5fcaf1ec71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":186216541,
-    "wof:lastmodified":1466215457,
+    "wof:lastmodified":1510943643,
     "wof:name":"Wicklein - Wachter Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        136148785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

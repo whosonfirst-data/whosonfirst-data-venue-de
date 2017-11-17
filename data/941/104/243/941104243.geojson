@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0488381386,50.9628486633,7.0488381386,50.9628486633",
     "geom:latitude":50.962849,
     "geom:longitude":7.048838,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Colonia-Allee 10-20",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472013606,
-    "wof:geomhash":"89ef150a89066f444d6151bf6e07594c",
+    "wof:geomhash":"095c169c43f9ae650760541fb4841831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,15 @@
         }
     ],
     "wof:id":941104243,
-    "wof:lastmodified":1472013606,
+    "wof:lastmodified":1510943176,
     "wof:name":"Colonia Nordstern Immobilien-beteiligungs Kg",
     "wof:parent_id":85795075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135919217,
+        941128783
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

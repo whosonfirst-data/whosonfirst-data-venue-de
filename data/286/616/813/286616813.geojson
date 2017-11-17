@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.241614,48.992989,11.241614,48.992989",
     "geom:latitude":48.992989,
     "geom:longitude":11.241614,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Abla\u00dfm\u00fchle 1",
     "sg:city":"Titting",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4Dd6Co9P7zOGePwH5D21sG_48.992989_11.241614@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c7d065ccdddfab5c62a1b2a10f16d535",
+    "wof:geomhash":"a84a7b821bfa7b99e6f51d51b3998bba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":286616813,
-    "wof:lastmodified":1466233099,
+    "wof:lastmodified":1510943480,
     "wof:name":"Holz Dirsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974487451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

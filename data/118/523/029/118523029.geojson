@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.856029,48.381016,10.856029,48.381016",
     "geom:latitude":48.381016,
     "geom:longitude":10.856029,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ulmer Str. 160 A::",
     "sg:city":"Augsburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1BlM6NrE1LvmgiJDtePTkg_48.381016_10.856029@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1207d39970c8f820e37a1cb1ad214f2a",
+    "wof:geomhash":"31d74a038a2cffead0d1cb0b199cf3cf",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118523029,
-    "wof:lastmodified":1466213803,
+    "wof:lastmodified":1510943442,
     "wof:name":"Ncr Holding Gmbh",
     "wof:parent_id":85899443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135366587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

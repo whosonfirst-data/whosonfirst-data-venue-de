@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.283965,53.565323,13.283965,53.565323",
     "geom:latitude":53.565323,
     "geom:longitude":13.283965,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Warliner Str 2",
     "sg:city":"Neubrandenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1rHCwLSv8A3Ia2dLjXAp8X_53.565323_13.283965@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a57fbc9a49c98d9f0c38bc19c32b2752",
+    "wof:geomhash":"aae90d7158c7d0e19a841a5a6b8fbd3c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118605893,
-    "wof:lastmodified":1466218542,
+    "wof:lastmodified":1510942944,
     "wof:name":"H. - D. K\u00e4lte- Und Klimaservice Gmbh",
     "wof:parent_id":101748849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941270729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

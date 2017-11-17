@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.132146,47.860554,10.132146,47.860554",
     "geom:latitude":47.860554,
     "geom:longitude":10.132146,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinbacher Str 30",
     "sg:city":"Legau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7NVy6QVdftl2ss7mq4oMTV_47.860554_10.132146@1306268802"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a59f9806ec0345ac9096e894eb02d1e8",
+    "wof:geomhash":"977eda612f0e1c1fa2451de27eba6aff",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102567461,
-    "wof:lastmodified":1466214071,
+    "wof:lastmodified":1510944030,
     "wof:name":"Hans Peter Hummel",
     "wof:parent_id":101765369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974489815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

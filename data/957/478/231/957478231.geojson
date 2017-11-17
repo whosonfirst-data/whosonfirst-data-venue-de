@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.4589853287,52.4126358032,9.4589853287,52.4126358032",
     "geom:latitude":52.412636,
     "geom:longitude":9.458985,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Niels-Bohr-Str 6",
     "sg:city":"Wunstorf",
     "sg:classifiers":[],
@@ -21,20 +24,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4628804883,
         "sg:id":"SG_4FzkukgooHioIK2gN3Z83M_52.412636_9.458985@1306269186"
     },
     "wof:country":"DE",
     "wof:created":1472044094,
-    "wof:geomhash":"a6e88d95ab5296e868bb93c6a890b1ac",
+    "wof:geomhash":"1fe8bdb048164467e1d396568a1be331",
     "wof:hierarchy":[],
     "wof:id":957478231,
-    "wof:lastmodified":1472044094,
+    "wof:lastmodified":1510942648,
     "wof:name":"On/off Engineering Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941191879
+    ],
+    "wof:supersedes":[
+        941191879
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.024846,48.701942,9.024846,48.701942",
     "geom:latitude":48.701942,
     "geom:longitude":9.024846,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eschenbr\u00fcnnlestr. 16",
     "sg:city":"Sindelfingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4djtU55CRpPuF1t1SyWsi8_48.701942_9.024846@1306268856"
     },
     "wof:country":"DE",
-    "wof:geomhash":"513b634c40215d596e5764d0483d41bf",
+    "wof:geomhash":"e47772d9b89197cae039a01ffcc7aa18",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135511891,
-    "wof:lastmodified":1466232714,
+    "wof:lastmodified":1510941409,
     "wof:name":"Mechatronic Elektronische Bauelemente Gmbh & Co.",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957929671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.670637,50.0961,8.670637,50.0961",
     "geom:latitude":50.0961,
     "geom:longitude":8.670637,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stresemannallee 30",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6azuaPCewwWKffruSnGB5B_50.096100_8.670637@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"28c49f848caf0b3629869a1bc1a09370",
+    "wof:geomhash":"807d820b0537d4198aca5dea28c0ea6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269829753,
-    "wof:lastmodified":1466229102,
+    "wof:lastmodified":1510941853,
     "wof:name":"Urban Science International Gmbh",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286778847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.719793,51.200741,6.719793,51.200741",
     "geom:latitude":51.200741,
     "geom:longitude":6.719793,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Breslauer Str. 6",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6vLPE0cRK7xp206rLHPMf6_51.200741_6.719793@1306268872"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d67ba86b6f677eac094e13d767694617",
+    "wof:geomhash":"b13bf3666ac50eab6dd0f3fd1964c89d",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":152254255,
-    "wof:lastmodified":1466215178,
+    "wof:lastmodified":1510942947,
     "wof:name":"Minootex Fashion Gmbh",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958317029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

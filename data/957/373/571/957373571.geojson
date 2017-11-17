@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7107658386,51.9369392395,7.7107658386,51.9369392395",
     "geom:latitude":51.936939,
     "geom:longitude":7.710766,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fcnsterstr. 111",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472038973,
-    "wof:geomhash":"cfd391027b7e4228d816b3ae9d2fee57",
+    "wof:geomhash":"283bf8995374cd06999ce29325a14768",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,15 @@
         }
     ],
     "wof:id":957373571,
-    "wof:lastmodified":1472038973,
+    "wof:lastmodified":1510942395,
     "wof:name":"Osdv G\u00d6ttker Pietsch Gmbh",
     "wof:parent_id":85794733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286991489,
+        940720413
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

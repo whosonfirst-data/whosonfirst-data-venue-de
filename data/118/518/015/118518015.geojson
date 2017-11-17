@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.535705,48.168373,11.535705,48.168373",
     "geom:latitude":48.168373,
     "geom:longitude":11.535705,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sapporobogen 6-8::",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_09VPtAPcFa873rnfgv9pYE_48.168373_11.535705@1306268792"
     },
     "wof:country":"DE",
-    "wof:geomhash":"86857b8ea9ca193b2ea31cb8e2186379",
+    "wof:geomhash":"690bcb2a237ca8a38878ab6fabc29ad0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118518015,
-    "wof:lastmodified":1466213428,
+    "wof:lastmodified":1510942375,
     "wof:name":"Bavaria Wirtschaftsagentur Gmbh",
     "wof:parent_id":85899191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974363293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

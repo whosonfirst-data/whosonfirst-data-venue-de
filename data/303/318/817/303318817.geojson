@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.710658,51.449986,6.710658,51.449986",
     "geom:latitude":51.449986,
     "geom:longitude":6.710658,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Moerser Str. 29",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5dOotVkgRP3hYXkJj4jrCF_51.449986_6.710658@1306269132"
     },
     "wof:country":"DE",
-    "wof:geomhash":"726a4d46d95c8625d35d3070a1ec9688",
+    "wof:geomhash":"771d18cf7a613252505e1399e51a7c9e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303318817,
-    "wof:lastmodified":1466232384,
+    "wof:lastmodified":1510942342,
     "wof:name":"Heinrich Br\u00f6ker Gmbh",
     "wof:parent_id":85795203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941151101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

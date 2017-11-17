@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.83843,50.195831,6.83843,50.195831",
     "geom:latitude":50.195831,
     "geom:longitude":6.83843,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alte Darscheider Str. 15",
     "sg:city":"Daun",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1x34REG553kpBCMr4ELHDe_50.195831_6.838430@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"896386e2ef81af59aa477d7b0cfaeea8",
+    "wof:geomhash":"f496edfcb1cd3fb3f27f871a616ae4d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320450251,
-    "wof:lastmodified":1466240472,
+    "wof:lastmodified":1510941327,
     "wof:name":"Quarz-technik Willy M\u00dcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957488219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

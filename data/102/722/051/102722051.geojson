@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.663177,47.572323,9.663177,47.572323",
     "geom:latitude":47.572323,
     "geom:longitude":9.663177,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Bosch-Str 31",
     "sg:city":"Lindau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7BEcFuGvpRCoV4Qi8KiXCW_47.572323_9.663177@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"64ff802f1cf55da11743478f1a0e462a",
+    "wof:geomhash":"27fecd14dd6bb103170e4d186a67fbfb",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102722051,
-    "wof:lastmodified":1466216753,
+    "wof:lastmodified":1510943268,
     "wof:name":"Schuster-chemie Gmbh & Co Kg",
     "wof:parent_id":101828615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974381267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

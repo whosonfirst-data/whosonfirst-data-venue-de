@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.67634,51.570591,7.67634,51.570591",
     "geom:latitude":51.570591,
     "geom:longitude":7.67634,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Edisonstr. 6 POSTFACH 1480",
     "sg:city":"Kamen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3BCK4XsEYbPBEHYR0o8s8G_51.570591_7.676340@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"130c76f68e516f267368a8318e8d4647",
+    "wof:geomhash":"ffa2133c6d7dfd44fc5932d437da352a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252775371,
-    "wof:lastmodified":1466220384,
+    "wof:lastmodified":1510941992,
     "wof:name":"3m Deutschland Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957395065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

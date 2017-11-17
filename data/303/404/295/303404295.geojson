@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6567,52.337292,9.6567,52.337292",
     "geom:latitude":52.337292,
     "geom:longitude":9.6567,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00e4genfeldstr. 8",
     "sg:city":"Ronnenberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0v9UyXzxTUqNxfkzhmxYGG_52.337292_9.656700@1306268948"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1dbf7a16b7df9f39ea9f2002e260457b",
+    "wof:geomhash":"20f8ccd6c270cd40016ab2bbcaa3fe75",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303404295,
-    "wof:lastmodified":1466234535,
+    "wof:lastmodified":1510942820,
     "wof:name":"Druckerei Gr\u00fctter Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957469783
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

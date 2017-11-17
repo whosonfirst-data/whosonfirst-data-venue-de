@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.780624,50.793007,12.780624,50.793007",
     "geom:latitude":50.793007,
     "geom:longitude":12.780624,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Den Teichen 8",
     "sg:city":"Mittelbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_48ZeetNNaf20lUsEu2nyv1_50.793007_12.780624@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e7002b4215a65bf0e2e1f4e880aabf03",
+    "wof:geomhash":"09aed27af494dd634e8837d93d678dc4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320663841,
-    "wof:lastmodified":1466242152,
+    "wof:lastmodified":1510941273,
     "wof:name":"Mittelbacher Pr\u00c4zisionsteile Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957464263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

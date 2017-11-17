@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.001727,53.555367,10.001727,53.555367",
     "geom:latitude":53.555367,
     "geom:longitude":10.001727,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Glockengie\u00dferwall 2",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3p0AyjSAAe6Z48Mm2EJJfH_53.555367_10.001727@1306268802"
     },
     "wof:country":"DE",
-    "wof:geomhash":"58601bec5b878047fd5739be93ffd076",
+    "wof:geomhash":"73c2fa17dc55f80d704cf671cc1fec7f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118771719,
-    "wof:lastmodified":1466228029,
+    "wof:lastmodified":1510941524,
     "wof:name":"Peter Cremer Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957688089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

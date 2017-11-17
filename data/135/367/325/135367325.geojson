@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.605597,48.139847,11.605597,48.139847",
     "geom:latitude":48.139847,
     "geom:longitude":11.605597,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Prinzregentenplatz 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4OPL22H8aJoYUjKzaWguNF_48.139847_11.605597@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3ef38816ea17e5e0be1e110d6373daf5",
+    "wof:geomhash":"94eab984ba1f9a9c9d9be6ad3c0b72a3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":135367325,
-    "wof:lastmodified":1466219666,
+    "wof:lastmodified":1510942577,
     "wof:name":"Arag-lebensversicherungs Ag",
     "wof:parent_id":85905613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        270428603
+    ],
+    "wof:supersedes":[
+        118517667
+    ],
     "wof:tags":[]
 },
   "bbox": [

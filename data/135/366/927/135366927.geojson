@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.98473,48.400299,9.98473,48.400299",
     "geom:latitude":48.400299,
     "geom:longitude":9.98473,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Olgapl. 1",
     "sg:city":"Ulm",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5Tohxlzwljo0xkLzJkTtGE_48.400299_9.984730@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cea85f5f7a77d7fedda4a17f2339bee5",
+    "wof:geomhash":"52bc349638faf2c7e71246702e3b6074",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135366927,
-    "wof:lastmodified":1466219625,
+    "wof:lastmodified":1510942853,
     "wof:name":"Ulmer Volksbank Eg",
     "wof:parent_id":101748485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135449725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.719704,51.269962,7.719704,51.269962",
     "geom:latitude":51.269962,
     "geom:longitude":7.719704,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Tumpe 10",
     "sg:city":"Werdohl",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1YhbcpusUMEDBGBQCZtfIR_51.269962_7.719704@1306269148"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4926100ec514f3f6684703cbdc2f95bf",
+    "wof:geomhash":"765d6b789253db4a7806371d6e6788d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":336728521,
-    "wof:lastmodified":1466236318,
+    "wof:lastmodified":1510943115,
     "wof:name":"Tyrolit Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958339103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

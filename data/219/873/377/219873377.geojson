@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.029127,53.583427,10.029127,53.583427",
     "geom:latitude":53.583427,
     "geom:longitude":10.029127,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Osterbekstr. 90 b",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5rwbPgGUG5VuRr6Vqc1a88_53.583427_10.029127@1306268911"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b6a2c1f004ef2c7e31b9454d9c470358",
+    "wof:geomhash":"15fdff663623725fece770fc314fda0c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219873377,
-    "wof:lastmodified":1466227811,
+    "wof:lastmodified":1510943317,
     "wof:name":"Anthros Gmbh & Co. Kg",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941156077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

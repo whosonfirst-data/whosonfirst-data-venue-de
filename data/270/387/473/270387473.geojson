@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.18138,48.786587,9.18138,48.786587",
     "geom:latitude":48.786587,
     "geom:longitude":9.18138,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Hauptbahnhof 2",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_76FkdlXd4PFYObOSkQ9o3M_48.786587_9.181380@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ad2b402f96739c0f558d3a0de4323a4b",
+    "wof:geomhash":"6fc3bd57e67c3434093f1291f112bd54",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,18 @@
         }
     ],
     "wof:id":270387473,
-    "wof:lastmodified":1466230724,
+    "wof:lastmodified":1510944085,
     "wof:name":"S\u00fcd-leasing Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        940577309
+    ],
+    "wof:supersedes":[
+        118525857,
+        135366047
+    ],
     "wof:tags":[]
 },
   "bbox": [

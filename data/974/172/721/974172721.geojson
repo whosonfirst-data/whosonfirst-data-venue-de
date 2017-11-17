@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8109669685,51.2446136475,6.8109669685,51.2446136475",
     "geom:latitude":51.244614,
     "geom:longitude":6.810967,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinrichstr. 24",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472097064,
-    "wof:geomhash":"07f6aaef39d82bb4660bc7e7063a2dea",
+    "wof:geomhash":"e0da1f9aecbc4876688267ec16d42730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":974172721,
-    "wof:lastmodified":1472097064,
+    "wof:lastmodified":1510942231,
     "wof:name":"Springer-vdi-verlag Gmbh & Co. Kg",
     "wof:parent_id":85795051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957467947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

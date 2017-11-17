@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.017027,53.564854,10.017027,53.564854",
     "geom:latitude":53.564854,
     "geom:longitude":10.017027,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schwanenwik 24",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5wgg9FGKMt03ptoiU4gcxj_53.564854_10.017027@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c505a021e195c3754332b20751ebf533",
+    "wof:geomhash":"c6a259dd31c96f6a1eb8f792cdc0665b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252773923,
-    "wof:lastmodified":1466220353,
+    "wof:lastmodified":1510942237,
     "wof:name":"Paul Tiefenbacher Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252791491
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

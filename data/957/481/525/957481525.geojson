@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.270526886,48.5459632874,9.270526886,48.5459632874",
     "geom:latitude":48.545963,
     "geom:longitude":9.270527,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dieselstrasse 12",
     "sg:city":"Metzingen",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472044238,
-    "wof:geomhash":"b0f8e94df49a540481bf8b5f2cabc7fe",
+    "wof:geomhash":"eeb398e90236bc39397ba734dbbc236f",
     "wof:hierarchy":[],
     "wof:id":957481525,
-    "wof:lastmodified":1472044238,
+    "wof:lastmodified":1510943050,
     "wof:name":"Hugo Boss Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957643291
+    ],
+    "wof:supersedes":[
+        152259065
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.541477,48.716805,9.541477,48.716805",
     "geom:latitude":48.716805,
     "geom:longitude":9.541477,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-Zinser-Str 6",
     "sg:city":"Ebersbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6QxXTF6h1x07jJw1XONRv2_48.716805_9.541477@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1049e0b5d971a664badb8dbbacbfba71",
+    "wof:geomhash":"eb401668a9fa66b76c13a90ee0a59ff3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102717959,
-    "wof:lastmodified":1466216645,
+    "wof:lastmodified":1510941426,
     "wof:name":"Bechtel-druck Gmbh",
     "wof:parent_id":101756249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940970333
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

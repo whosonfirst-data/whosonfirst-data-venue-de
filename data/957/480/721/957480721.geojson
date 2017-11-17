@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0659952164,54.1150054932,12.0659952164,54.1150054932",
     "geom:latitude":54.115005,
     "geom:longitude":12.065995,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An der Stadtautobahn 1",
     "sg:city":"Rostock",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472044207,
-    "wof:geomhash":"61a7108a89a39a519872c515d1977a51",
+    "wof:geomhash":"d7733986827eef8b6e04792b34f7874b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957480721,
-    "wof:lastmodified":1472044207,
+    "wof:lastmodified":1510942668,
     "wof:name":"Marine- Und Automatisierungstechnik",
     "wof:parent_id":85899577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941413561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

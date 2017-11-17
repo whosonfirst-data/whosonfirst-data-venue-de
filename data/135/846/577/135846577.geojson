@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.302191,52.104809,8.302191,52.104809",
     "geom:latitude":52.104809,
     "geom:longitude":8.302191,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"In der Lake 2",
     "sg:city":"Borgholzhausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2YTUhTLovu2NYDZNW4BnxL_52.104809_8.302191@1306268876"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1cb474221772da34c515202adb5fa0d1",
+    "wof:geomhash":"1585b5cc68005ea59408b93aa43782ba",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135846577,
-    "wof:lastmodified":1466244285,
+    "wof:lastmodified":1510943721,
     "wof:name":"Sch\u00fcco International Kg",
     "wof:parent_id":101807545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941472257
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.585549,48.956108,8.585549,48.956108",
     "geom:latitude":48.956108,
     "geom:longitude":8.585549,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Raiffeisen Str. 24",
     "sg:city":"Remchingen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1rDJLoP8XPFF7nr70hbgzn_48.956108_8.585549@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bdd56ffc549fa7dcc64d16f2631a5004",
+    "wof:geomhash":"88ca48224fd7632630850e94ab91cffd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320624993,
-    "wof:lastmodified":1466241998,
+    "wof:lastmodified":1510944001,
     "wof:name":"Burghardt & Schmidt Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974459225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

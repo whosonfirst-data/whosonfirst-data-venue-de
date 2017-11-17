@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.794252,48.822647,9.794252,48.822647",
     "geom:latitude":48.822647,
     "geom:longitude":9.794252,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wetzgauer Str. 31",
     "sg:city":"Mutlangen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5uZ0vSIYQMV4sPdVsd0po2_48.822647_9.794252@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4dad3fac28f28075a1b7742bf1364fba",
+    "wof:geomhash":"a1f0fa23fe84ce39e31240301023a7c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320624683,
-    "wof:lastmodified":1466241996,
+    "wof:lastmodified":1510943406,
     "wof:name":"Bts Beschichtungstechnikst\u00dctz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941599231
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

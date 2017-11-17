@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.943001,51.462597,6.943001,51.462597",
     "geom:latitude":51.462597,
     "geom:longitude":6.943001,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Frintroper Str. 51",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_546DCYKXyeR7bWhCAyEpN8_51.462597_6.943001@1306268934"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1a4899d0674e7cbcfd2aaebfd5469739",
+    "wof:geomhash":"96e2757a6d361a8f386695e03bdee017",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102636465,
-    "wof:lastmodified":1466214260,
+    "wof:lastmodified":1510941250,
     "wof:name":"Cost-control Ges. Zur Kostenreduzierung Mbh",
     "wof:parent_id":85863063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974463905
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5363416672,48.1777648926,11.5363416672,48.1777648926",
     "geom:latitude":48.177765,
     "geom:longitude":11.536342,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riesstr. 15",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472011265,
-    "wof:geomhash":"2a68e8454fe50525d94022b0caee24a0",
+    "wof:geomhash":"68c7a846ffe141c99d456c204441f8e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":941054145,
-    "wof:lastmodified":1472011265,
+    "wof:lastmodified":1510943490,
     "wof:name":"Aktiv Assekuranz Makler Gmbh",
     "wof:parent_id":85899191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        974288477
+    ],
+    "wof:supersedes":[
+        135367277
+    ],
     "wof:tags":[]
 },
   "bbox": [

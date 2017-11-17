@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.61322,52.056679,8.61322,52.056679",
     "geom:latitude":52.056679,
     "geom:longitude":8.61322,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Milser Str 37",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5wd0QmziZnhMr8io3iKHYT_52.056679_8.613220@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"189e4917de5c44a568b2c71cb21f2672",
+    "wof:geomhash":"e2d7a6315049d95519f96734278e0391",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118605597,
-    "wof:lastmodified":1466218525,
+    "wof:lastmodified":1510943930,
     "wof:name":"B & V K\u00e4lte-klimatechnik Gmbh & Co. Kg",
     "wof:parent_id":85863215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941253843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

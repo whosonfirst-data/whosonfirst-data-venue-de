@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.365043,49.004635,8.365043,49.004635",
     "geom:latitude":49.004635,
     "geom:longitude":8.365043,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kesslerstr. 1",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1Rso2fNhYt26IxyPvyI5Xq_49.004635_8.365043@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d42e2048a317a8edd5f205ec1e9a2b02",
+    "wof:geomhash":"cb225f34a41577b91f21b01133738b4d",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135367735,
-    "wof:lastmodified":1466219713,
+    "wof:lastmodified":1510942479,
     "wof:name":"Kassen\u00c4rztliche Vereinigung Nordbaden",
     "wof:parent_id":85794869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102560393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.790175,51.216999,6.790175,51.216999",
     "geom:latitude":51.216999,
     "geom:longitude":6.790175,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Luisenstr. 129",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0i7cpJ9NIJRJMZBJW3UXMB_51.216999_6.790175@1306268934"
     },
     "wof:country":"DE",
-    "wof:geomhash":"af93512ed360dd3402be94ebcf7be0cc",
+    "wof:geomhash":"f6662f2f5bf71aebdf2d698f259c1732",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270279619,
-    "wof:lastmodified":1466227922,
+    "wof:lastmodified":1510941347,
     "wof:name":"Socotec Industrie Deutschland Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941153209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

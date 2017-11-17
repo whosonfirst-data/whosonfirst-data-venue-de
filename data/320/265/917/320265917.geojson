@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.748199,52.376423,9.748199,52.376423",
     "geom:latitude":52.376423,
     "geom:longitude":9.748199,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Roscherstra\u00dfe 5",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0SStOClcQkrGrytBydfK47_52.376423_9.748199@1306269141"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a2d2511f15d744a9f9ad3f8e8dfac4f6",
+    "wof:geomhash":"9d4d1cb70e6b7dcf67e0f78298f4c76f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320265917,
-    "wof:lastmodified":1466238439,
+    "wof:lastmodified":1510942837,
     "wof:name":"Sperling Infodesign Gmbh",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941158387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

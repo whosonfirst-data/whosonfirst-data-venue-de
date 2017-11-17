@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.445411,53.225979,7.445411,53.225979",
     "geom:latitude":53.225979,
     "geom:longitude":7.445411,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Blinke 4",
     "sg:city":"Leer",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7kznaXTpz94F6ahb7DoZxf_53.225979_7.445411@1306269093"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7c1944e51576f64c1dd89b3379fdb175",
+    "wof:geomhash":"97c414c8f97a23577fda57b894c878cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202891291,
-    "wof:lastmodified":1466222962,
+    "wof:lastmodified":1510944045,
     "wof:name":"Rigel Schiffahrts Beteiligungs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135928159
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

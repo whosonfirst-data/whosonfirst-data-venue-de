@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.463598,49.001255,8.463598,49.001255",
     "geom:latitude":49.001255,
     "geom:longitude":8.463598,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Willmar-Schwabe-Str. 4",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3r3ujepK4CoOQiC2HTQ2Zy_49.001255_8.463598@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d114abdd0a1cceeddbe897172b91ff4c",
+    "wof:geomhash":"13c90d75b5027935fe73973259872924",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252783879,
-    "wof:lastmodified":1466220568,
+    "wof:lastmodified":1510943320,
     "wof:name":"Schwabe Extracta Gmbh & Co. Kg",
     "wof:parent_id":85794785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974232759
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

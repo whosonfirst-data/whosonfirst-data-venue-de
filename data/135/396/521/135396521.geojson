@@ -11,7 +11,7 @@
     "geom:longitude":9.22398,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"Marktplatz 4",
     "sg:city":"Neckarsulm",
     "sg:classifiers":[],
@@ -29,6 +29,7 @@
     "wof:brand_id":1125162707,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1559105131,
         "sg:id":"SG_3l6xULYSaSMPlVrPn4ZGgz_49.190285_9.223980@1306268849"
     },
     "wof:country":"DE",
@@ -43,13 +44,15 @@
         }
     ],
     "wof:id":135396521,
-    "wof:lastmodified":1510874224,
+    "wof:lastmodified":1510943734,
     "wof:name":"Kreissparkasse Heilbronn",
     "wof:parent_id":101755913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        135396515
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.341656,49.147301,9.341656,49.147301",
     "geom:latitude":49.147301,
     "geom:longitude":9.341656,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Etterstr. 5",
     "sg:city":"Obersulm",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_30NnpfvFtBpI0MQ36LajyX_49.147301_9.341656@1306268835"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4383c5918474f83d1f97d07ffbeefe65",
+    "wof:geomhash":"00cd1989d56220d34e20c0bcd15e5069",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,18 @@
         }
     ],
     "wof:id":119425943,
-    "wof:lastmodified":1466242343,
+    "wof:lastmodified":1510943837,
     "wof:name":"Conny Schnarz",
     "wof:parent_id":101760899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940950847,
+        941618399,
+        941542943,
+        941528649,
+        940770287
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

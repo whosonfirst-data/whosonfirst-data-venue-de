@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.37846,51.343441,12.37846,51.343441",
     "geom:latitude":51.343441,
     "geom:longitude":12.37846,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nikolaistr. 59",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6T5wfCpa9FXSDv4wH5m13i_51.343441_12.378460@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"979d17d9f31cc6d9269d7b9bbb7c2ec7",
+    "wof:geomhash":"1922ba52e8b14a2ceb44afa6bd58449a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270349555,
-    "wof:lastmodified":1466229692,
+    "wof:lastmodified":1510942548,
     "wof:name":"Konzert- Und Gastspiel- Direktion Leipzig Gmbh",
     "wof:parent_id":85905683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102730583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

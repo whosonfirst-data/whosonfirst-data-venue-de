@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.585477,48.142349,11.585477,48.142349",
     "geom:latitude":48.142349,
     "geom:longitude":11.585477,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Uns\u00f6ldstr. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1HG0roe1wLRr28hXxjJK5R_48.142349_11.585477@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5d0c9e08957e45975ef3bde2ea4408f9",
+    "wof:geomhash":"a26ad0a023a4ab4553a627ad9f3388a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270384467,
-    "wof:lastmodified":1466230637,
+    "wof:lastmodified":1510943548,
     "wof:name":"Hannover Mobilien- Leasing Gmbh & Co.",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957478867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

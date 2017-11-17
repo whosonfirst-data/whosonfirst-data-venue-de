@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.875415,50.943932,6.875415,50.943932",
     "geom:latitude":50.943932,
     "geom:longitude":6.875415,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Diem-Weg 6",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5QnHbWVWfbuyOOLhYLYLZ7_50.943932_6.875415@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"17cacb66237d20b113324c1c1a59ef4b",
+    "wof:geomhash":"96eafe0f5400f99ed80a2530cfe05e66",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219565147,
-    "wof:lastmodified":1466221719,
+    "wof:lastmodified":1510943346,
     "wof:name":"Deutsche Sporthochschule K\u00d6ln",
     "wof:parent_id":85795883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940642421
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

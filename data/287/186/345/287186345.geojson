@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.8169,48.036495,7.8169,48.036495",
     "geom:latitude":48.036495,
     "geom:longitude":7.8169,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bebelstr. 21",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6A7s8Ac9CLXixNre4cieE0_48.036495_7.816900@1306269129"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4c89b29dd13e93ac699e14bea63de2b6",
+    "wof:geomhash":"1f19c95103613da0760a6eabdd48ed36",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287186345,
-    "wof:lastmodified":1466230073,
+    "wof:lastmodified":1510943853,
     "wof:name":"Heb Hydraulik-elementebau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941149177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

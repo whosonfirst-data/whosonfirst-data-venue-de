@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.215519,50.855762,6.215519,50.855762",
     "geom:latitude":50.855762,
     "geom:longitude":6.215519,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jakobstr. 85",
     "sg:city":"Alsdorf",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_4GtJtq6azoVRcGBvrdzqLb_50.855762_6.215519@1306268866"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6a3d181c3d69ae4fa0a7d507c71ad43c",
+    "wof:geomhash":"73a97d72730f82c2602134935c2e57d6",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -35,12 +38,14 @@
         }
     ],
     "wof:id":135696081,
-    "wof:lastmodified":1466242249,
+    "wof:lastmodified":1510941264,
     "wof:name":"Landhausbau Gmbh F\u00fcr Schl\u00fcsselfertiges Bauen",
     "wof:parent_id":85682513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957643637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

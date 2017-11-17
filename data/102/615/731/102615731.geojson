@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.94769,53.560646,9.94769,53.560646",
     "geom:latitude":53.560646,
     "geom:longitude":9.94769,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Holstenstr. 194 c",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7NBqqFQwgljuW5BMbFMZYC_53.560646_9.947690@1306268910"
     },
     "wof:country":"DE",
-    "wof:geomhash":"56b712b79fbb45740328bde63369b937",
+    "wof:geomhash":"6aab9f98f7c5a0a5758e0d6b5e941c3b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102615731,
-    "wof:lastmodified":1466213699,
+    "wof:lastmodified":1510942298,
     "wof:name":"Von Dein & Co.",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957393125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

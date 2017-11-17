@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.675933,50.11129,8.675933,50.11129",
     "geom:latitude":50.11129,
     "geom:longitude":8.675933,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserstra\u00dfe 10",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7B4cYtzLljRx6AlXuKlgr2_50.111290_8.675933@1306268895"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6747ef3fa45c2105b468ff6d7eaec16a",
+    "wof:geomhash":"8e979d37ab07c862efe2ee79a73c547b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":153014981,
-    "wof:lastmodified":1466231934,
+    "wof:lastmodified":1510941321,
     "wof:name":"Eloquia Gmbh",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957922733
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

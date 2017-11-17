@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.356879,50.698212,10.356879,50.698212",
     "geom:latitude":50.698212,
     "geom:longitude":10.356879,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hilderser Str 12",
     "sg:city":"Schwallungen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0rPA3Y9ny5423oR2GcKPdU_50.698212_10.356879@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5eee378d4c8c41cc5662f5244282b023",
+    "wof:geomhash":"4cbee02554927d4bfcfb8f206fc2fd02",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118560869,
-    "wof:lastmodified":1466215900,
+    "wof:lastmodified":1510942004,
     "wof:name":"Snd Norm- Und Drehteile Gmbh & Co Kg",
     "wof:parent_id":101820703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320836511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

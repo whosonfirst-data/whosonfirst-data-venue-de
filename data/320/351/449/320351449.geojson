@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.801196,50.808193,12.801196,50.808193",
     "geom:latitude":50.808193,
     "geom:longitude":12.801196,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mittelbacher Str. 12",
     "sg:city":"Gr\u00fcna",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_4LQVc6UgoAMT5k7Xu0r0H7_50.808193_12.801196@1306268958"
     },
     "wof:country":"DE",
-    "wof:geomhash":"25f7ab9b5970c7f18a9cb9c30a92368a",
+    "wof:geomhash":"b73d2b8a6087536630477db610169158",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":320351449,
-    "wof:lastmodified":1466239684,
+    "wof:lastmodified":1510943990,
     "wof:name":"Mafa Fensterbau Und Montage Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957451015
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

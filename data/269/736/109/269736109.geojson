@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.610944,49.887955,8.610944,49.887955",
     "geom:latitude":49.887955,
     "geom:longitude":8.610944,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Waldstra\u00dfe 29",
     "sg:city":"Weiterstadt",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2uny7doJN5H1EfxIyCRzgV_49.887955_8.610944@1306268929"
     },
     "wof:country":"DE",
-    "wof:geomhash":"42b7121dfd12143663dd934ff5718da1",
+    "wof:geomhash":"5db39730a11abdd1ba77c3191b71ad03",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269736109,
-    "wof:lastmodified":1466226886,
+    "wof:lastmodified":1510941743,
     "wof:name":"Csa Complex Software Application Gmbh",
     "wof:parent_id":85794755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941156371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

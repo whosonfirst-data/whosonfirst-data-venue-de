@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.132786,53.662083,10.132786,53.662083",
     "geom:latitude":53.662083,
     "geom:longitude":10.132786,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Immenhorstweg 86",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7Kvd2ngIcQxV8MG4kZD78X_53.662083_10.132786@1306268835"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7d199ddbc15acf89de01afb11aed739f",
+    "wof:geomhash":"1af2b6798a3117bdf46c423eac44803b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,17 @@
         }
     ],
     "wof:id":119425955,
-    "wof:lastmodified":1466242345,
+    "wof:lastmodified":1510944022,
     "wof:name":"Bettina Luttherr",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941233957,
+        940764387,
+        957894303,
+        941528569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

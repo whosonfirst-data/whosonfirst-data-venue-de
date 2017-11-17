@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.185028,51.265781,7.185028,51.265781",
     "geom:latitude":51.265781,
     "geom:longitude":7.185028,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wasserstr. 2-10",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7mbmYRVXYakenV3zcsStAX_51.265781_7.185028@1306268802"
     },
     "wof:country":"DE",
-    "wof:geomhash":"85b6f03ad887f227b77ae4686366a795",
+    "wof:geomhash":"41d9387d9fb1744ab593d504e5b47d19",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118777253,
-    "wof:lastmodified":1466228375,
+    "wof:lastmodified":1510943037,
     "wof:name":"Arti Holzlacke Und Beizen Gmbh",
     "wof:parent_id":85796715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941145445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

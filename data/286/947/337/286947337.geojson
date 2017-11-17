@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.172907,50.757694,7.172907,50.757694",
     "geom:latitude":50.757694,
     "geom:longitude":7.172907,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Westerwaldstra\u00dfe 6",
     "sg:city":"Sankt Augustin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1O1HaVhqz26LmZ9xbPMRDS_50.757694_7.172907@1306268942"
     },
     "wof:country":"DE",
-    "wof:geomhash":"701c99eb09fcda368a850cc83b8e7af4",
+    "wof:geomhash":"44727f9937c99c3a298082b0ed5fa2bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286947337,
-    "wof:lastmodified":1466239324,
+    "wof:lastmodified":1510943299,
     "wof:name":"Bundesverband Des Schornsteinfegerhandwerks",
     "wof:parent_id":85795723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974473843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

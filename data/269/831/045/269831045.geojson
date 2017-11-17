@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.662773,48.900276,8.662773,48.900276",
     "geom:latitude":48.900276,
     "geom:longitude":8.662773,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freiburger Str. 7",
     "sg:city":"Pforzheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3jcsLxEEOJBttr29CWAUbT_48.900276_8.662773@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4b39eb1e56189e945aae9b5dfff1ab92",
+    "wof:geomhash":"25f037638889f5587f63c93c4f121e27",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269831045,
-    "wof:lastmodified":1466229131,
+    "wof:lastmodified":1510943866,
     "wof:name":"Ibn-systeme Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941156771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6811389923,48.234992981,11.6811389923,48.234992981",
     "geom:latitude":48.234993,
     "geom:longitude":11.681139,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oskar-Messter-Str. 24",
     "sg:city":"Ismaning",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015840,
-    "wof:geomhash":"a90fa2b6b9eb31d42c5c5083672a4e3a",
+    "wof:geomhash":"0ccb68e22e579aa03cc938aeb6ff79f7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941155621,
-    "wof:lastmodified":1472015840,
+    "wof:lastmodified":1510941776,
     "wof:name":"Comdisco Deutschland Gmbh",
     "wof:parent_id":85899173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957947615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

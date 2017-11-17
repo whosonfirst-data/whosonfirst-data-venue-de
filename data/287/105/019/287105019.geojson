@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.126659,48.720531,9.126659,48.720531",
     "geom:latitude":48.720531,
     "geom:longitude":9.126659,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schulze-Delitzsch-Str. 36",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0GEl17cAqOw0nL0qc9xmpD_48.720531_9.126659@1306268943"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2bc1cc40c3db42c9e322f453d562c056",
+    "wof:geomhash":"3630b774da25c1210b8913192ac9aa9a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287105019,
-    "wof:lastmodified":1466227880,
+    "wof:lastmodified":1510941695,
     "wof:name":"Circular Informations- Systeme Gmbh",
     "wof:parent_id":85795041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941275285
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

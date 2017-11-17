@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.534668,48.067665,8.534668,48.067665",
     "geom:latitude":48.067665,
     "geom:longitude":8.534668,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bert-Brecht-Str 15-19",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4muB9ULU5K0nQczbgKPivu_48.067665_8.534668@1306269125"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5e5e497698e834eddaf91eb95c596c95",
+    "wof:geomhash":"f07fcbcd5910dc11e1e4384e4196a4d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":286709425,
-    "wof:lastmodified":1466235482,
+    "wof:lastmodified":1510943854,
     "wof:name":"Hermann Kuhn Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974154725,
+        974499645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

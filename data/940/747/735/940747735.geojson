@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2172832489,48.7412147522,9.2172832489,48.7412147522",
     "geom:latitude":48.741215,
     "geom:longitude":9.217283,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Aixheimerstrasse 26",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471996289,
-    "wof:geomhash":"254be558aeb2229c6f42637857a927f2",
+    "wof:geomhash":"8b93f18db9ceebaa5ecc8e85d669b075",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":940747735,
-    "wof:lastmodified":1471996289,
+    "wof:lastmodified":1510942903,
     "wof:name":"Mute Records Germany",
     "wof:parent_id":85862803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940747737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

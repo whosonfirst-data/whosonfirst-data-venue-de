@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.695873,50.031673,8.695873,50.031673",
     "geom:latitude":50.031673,
     "geom:longitude":8.695873,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Frankfurter Str 135",
     "sg:city":"Dreieich",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2TD1QygSAUbQpwzpU2A2BL_50.031673_8.695873@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a2db429a6829e1de9deabf619b42700b",
+    "wof:geomhash":"e1513f097b348fddfa169f07047ac96d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270163199,
-    "wof:lastmodified":1466225176,
+    "wof:lastmodified":1510941337,
     "wof:name":"Keipdruck Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957471707
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

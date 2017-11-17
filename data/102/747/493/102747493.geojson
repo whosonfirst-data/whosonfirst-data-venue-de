@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.933579,48.442059,7.933579,48.442059",
     "geom:latitude":48.442059,
     "geom:longitude":7.933579,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Bosch-Str 16",
     "sg:city":"Offenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6uhNDid8WRgcf3CEuNOtYL_48.442059_7.933579@1306268945"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c853bfff1e227aa12615a24c04255c19",
+    "wof:geomhash":"b659e901c38f727a639f0fd528e45e75",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102747493,
-    "wof:lastmodified":1466218102,
+    "wof:lastmodified":1510942253,
     "wof:name":"Rpc Tedeco-gizeh Gmbh & Co Kg",
     "wof:parent_id":101748497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940868471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

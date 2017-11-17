@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.533392,52.457336,13.533392,52.457336",
     "geom:latitude":52.457336,
     "geom:longitude":13.533392,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ostendstr. 25",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_72EYAuNqqMzNFc5ALU90cI_52.457336_13.533392@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b878397778d7442cc7e20aaa7f7d0bea",
+    "wof:geomhash":"bc37f5980ff89dd5ba4d8aeba99f7c0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252773659,
-    "wof:lastmodified":1466220346,
+    "wof:lastmodified":1510942346,
     "wof:name":"Umwelttechnik Dr Bartetzko Gmbh",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940642825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

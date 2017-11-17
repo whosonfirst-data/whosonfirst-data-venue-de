@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.46636,48.191341,11.46636,48.191341",
     "geom:latitude":48.191341,
     "geom:longitude":11.46636,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Georg-Reismueller-Str. 5",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6EmGEtrspTd1YOZFfQcoyd_48.191341_11.466360@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6b2b9934c1b2d351e1531f93ea601e2d",
+    "wof:geomhash":"6d42e1d67e7b3896104eebf431f02825",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270412063,
-    "wof:lastmodified":1466231366,
+    "wof:lastmodified":1510943793,
     "wof:name":"Bittl Schuhe & Sport Gmbh",
     "wof:parent_id":85898939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102592879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

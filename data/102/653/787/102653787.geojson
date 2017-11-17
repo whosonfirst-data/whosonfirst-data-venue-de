@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.581404,49.11882,8.581404,49.11882",
     "geom:latitude":49.11882,
     "geom:longitude":8.581404,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ernst-Blickle-Str 21-25",
     "sg:city":"Bruchsal",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_17W1Wnma9fzIWyc4lRyd6f_49.118820_8.581404@1306268838"
     },
     "wof:country":"DE",
-    "wof:geomhash":"68d2206e87df1f6fe91848c1bd3fa0af",
+    "wof:geomhash":"17c8dd32d35254a80d046ba7136bce1e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102653787,
-    "wof:lastmodified":1466214869,
+    "wof:lastmodified":1510943094,
     "wof:name":"Holzindustrie Bruchsal Gmbh & Co Kg",
     "wof:parent_id":101826709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940965361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

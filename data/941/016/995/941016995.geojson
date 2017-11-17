@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0484390259,50.9795341492,11.0484390259,50.9795341492",
     "geom:latitude":50.979534,
     "geom:longitude":11.048439,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werner-Uhlworm-Str. 22a",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472009661,
-    "wof:geomhash":"caf4558ad44b94d9c6a4569ced2b0924",
+    "wof:geomhash":"328d4fd6fc25335889308e219fc2b330",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941016995,
-    "wof:lastmodified":1472009661,
+    "wof:lastmodified":1510943781,
     "wof:name":"Lumm-m\u00d6bel Gmbh",
     "wof:parent_id":85899773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102613665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

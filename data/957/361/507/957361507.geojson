@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4986152649,48.1437644958,11.4986152649,48.1437644958",
     "geom:latitude":48.143764,
     "geom:longitude":11.498615,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Landsberger Str 318",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472038465,
-    "wof:geomhash":"ee59de5bc62747f55eb939d97ac247d4",
+    "wof:geomhash":"a28741b6d3cbcae96f6dc433831d1bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":957361507,
-    "wof:lastmodified":1472038465,
+    "wof:lastmodified":1510942765,
     "wof:name":"Offsetteam Druck Gmbh",
     "wof:parent_id":85899883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957472593
+    ],
+    "wof:supersedes":[
+        303413219
+    ],
     "wof:tags":[]
 },
   "bbox": [

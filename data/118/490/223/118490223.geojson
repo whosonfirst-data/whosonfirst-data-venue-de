@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.184709,47.996254,10.184709,47.996254",
     "geom:latitude":47.996254,
     "geom:longitude":10.184709,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schlachthofstr. 61",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5XLqCCzBBtaVsd8NcTwJo7_47.996254_10.184709@1306268965"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cc30362f3b2ccb0e2b8b00c37d5d8433",
+    "wof:geomhash":"88860bcfb32302d252e10837eed49253",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118490223,
-    "wof:lastmodified":1466213122,
+    "wof:lastmodified":1510943795,
     "wof:name":"Kegel-casino",
     "wof:parent_id":101828659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957820685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

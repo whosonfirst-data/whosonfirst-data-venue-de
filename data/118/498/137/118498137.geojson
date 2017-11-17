@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.437189,48.058987,8.437189,48.058987",
     "geom:latitude":48.058987,
     "geom:longitude":8.437189,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alban-Dold-Str. 8",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2927KiU3hnRqtSbdFLcpXv_48.058987_8.437189@1306268982"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cfd84c4435554f50befd0452201edf33",
+    "wof:geomhash":"56470b6078823fb319df98e1ee910955",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118498137,
-    "wof:lastmodified":1466218885,
+    "wof:lastmodified":1510942769,
     "wof:name":"S.h.a. Me\u00df- Und Daten- Technik Gmbh",
     "wof:parent_id":101748477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319961685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

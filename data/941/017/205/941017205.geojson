@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0512647629,51.5080986023,12.0512647629,51.5080986023",
     "geom:latitude":51.508099,
     "geom:longitude":12.051265,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der B 100",
     "sg:city":"Peissen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472009668,
-    "wof:geomhash":"47bd8d60ea1a13208b2338523da5433c",
+    "wof:geomhash":"03dbbd225483c6f8f1c8d1f778c5ebd2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941017205,
-    "wof:lastmodified":1472009668,
+    "wof:lastmodified":1510942948,
     "wof:name":"M\u00d6bel Walther Peissen Gmbh",
     "wof:parent_id":85899991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941522065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

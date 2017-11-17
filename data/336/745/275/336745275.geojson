@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.518479,52.251614,10.518479,52.251614",
     "geom:latitude":52.251614,
     "geom:longitude":10.518479,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Theodor-Heuss-Str 7",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0K0o3piNT5tck4sUlC1ecF_52.251614_10.518479@1306269148"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cfd4c4b49aaa95d33f48265b4cd96af1",
+    "wof:geomhash":"264e25000cda84903fbca0bbd8325a7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":336745275,
-    "wof:lastmodified":1466236795,
+    "wof:lastmodified":1510941971,
     "wof:name":"Intel Gmbh",
     "wof:parent_id":85905753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958282383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

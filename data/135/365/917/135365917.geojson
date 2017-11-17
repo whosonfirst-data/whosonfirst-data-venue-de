@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.094076,51.942356,9.094076,51.942356",
     "geom:latitude":51.942356,
     "geom:longitude":9.094076,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rosenstr. 5",
     "sg:city":"Blomberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6wYCFuDuCWDufZlA28bD6u_51.942356_9.094076@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fbfad678663a4196c48c20e058fb81d6",
+    "wof:geomhash":"49ac9c1dae7f97057956a795a6b3b997",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135365917,
-    "wof:lastmodified":1466219523,
+    "wof:lastmodified":1510941918,
     "wof:name":"Stadtsparkasse Blomberg Lippe",
     "wof:parent_id":101809135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102560667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

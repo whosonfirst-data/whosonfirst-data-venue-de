@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.527624,50.331764,8.527624,50.331764",
     "geom:latitude":50.331764,
     "geom:longitude":8.527624,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An der Riedwiese 6",
     "sg:city":"Usingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3fQXCquL3R87KoPol8PxQw_50.331764_8.527624@1306268950"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ca0c18164c606ab9f8b16bc2963a8a62",
+    "wof:geomhash":"9ca928e2d0520385d6dbdba4a195af84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303580121,
-    "wof:lastmodified":1466237817,
+    "wof:lastmodified":1510943795,
     "wof:name":"Wolfring Offsetdruck Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957474329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

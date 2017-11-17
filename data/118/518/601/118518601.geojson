@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.914165,53.561165,9.914165,53.561165",
     "geom:latitude":53.561165,
     "geom:longitude":9.914165,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gasstr. 18::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6jXexar1K7n2aHMJeGs0UU_53.561165_9.914165@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4e65c2d95acab2be13c46fe8b7a03268",
+    "wof:geomhash":"6563b0901b916091d15817112df317d3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118518601,
-    "wof:lastmodified":1466213475,
+    "wof:lastmodified":1510942800,
     "wof:name":"B\u00dcrgel Wirtschaftsinfor- Mationen Gmbh & Co. Kg",
     "wof:parent_id":85899761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135363997
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

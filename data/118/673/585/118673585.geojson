@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.528826,52.139782,8.528826,52.139782",
     "geom:latitude":52.139782,
     "geom:longitude":8.528826,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Auf der B\u00fclte 79",
     "sg:city":"Enger",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3aY01FFp4wxVgU6nqBxxne_52.139782_8.528826@1306268798"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d66ea53f8811c387ccfd4a548c0a2e2e",
+    "wof:geomhash":"07f0861bfb91a56f99373fca44ba5e14",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118673585,
-    "wof:lastmodified":1466222353,
+    "wof:lastmodified":1510943915,
     "wof:name":"Vdt-vobra Druckgu\u00dftechnik Gmbh",
     "wof:parent_id":101838043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336681191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

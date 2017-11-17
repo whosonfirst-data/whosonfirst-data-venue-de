@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.012281,51.250904,7.012281,51.250904",
     "geom:latitude":51.250904,
     "geom:longitude":7.012281,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 41",
     "sg:city":"Mettmann",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2XNDqTrsBUZT4IHKUgT7lg_51.250904_7.012281@1306268941"
     },
     "wof:country":"DE",
-    "wof:geomhash":"33fa43a8dabfe5dacd41ef906f307355",
+    "wof:geomhash":"2471d503da4929e92574000071a97072",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286882271,
-    "wof:lastmodified":1466238144,
+    "wof:lastmodified":1510942971,
     "wof:name":"B\u00fctec Gmbh",
     "wof:parent_id":85862931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957478723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

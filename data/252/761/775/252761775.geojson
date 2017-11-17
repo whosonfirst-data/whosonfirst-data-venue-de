@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.454444,49.023407,8.454444,49.023407",
     "geom:latitude":49.023407,
     "geom:longitude":8.454444,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pfizerstr. 1",
     "sg:city":"Karlsruhe",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1ecXB42iKOMTIRHi52os8p_49.023407_8.454444@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6c7b4ffc17237b8cd3fb662c76464be3",
+    "wof:geomhash":"5e09bd0d736c09afafb34a5552361d95",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":252761775,
-    "wof:lastmodified":1466220102,
+    "wof:lastmodified":1510943445,
     "wof:name":"Pfizer Gmbh",
     "wof:parent_id":85795647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320291277,
+        252857581
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

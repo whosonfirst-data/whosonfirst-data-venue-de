@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4821,49.922821,8.4821,49.922821",
     "geom:latitude":49.922821,
     "geom:longitude":8.4821,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Frankfurter Str. 24 POSTFACH 1701",
     "sg:city":"Gro\u00df-Gerau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_40k8o3G3Gs5fCOdnHBQBSK_49.922821_8.482100@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fe4dbd98c89608f30fb215c2f4dac007",
+    "wof:geomhash":"f218096dd391ca675f8f3c9c05215cb5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320561823,
-    "wof:lastmodified":1466241463,
+    "wof:lastmodified":1510941864,
     "wof:name":"Stadtwerke Gro\u00df-gerauversorgungs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320688629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.676598,49.407814,8.676598,49.407814",
     "geom:latitude":49.407814,
     "geom:longitude":8.676598,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bergheimer Str 139-151",
     "sg:city":"Heidelberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0eMnP6j3STXyWYcrnUreQV_49.407814_8.676598@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2e1b870476efa34a3dbbc4013c6e1a91",
+    "wof:geomhash":"47bea01821cde1b03e58d0bc05b440e3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102630055,
-    "wof:lastmodified":1466214070,
+    "wof:lastmodified":1510942284,
     "wof:name":"P.j. Landfried",
     "wof:parent_id":101748539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958211515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

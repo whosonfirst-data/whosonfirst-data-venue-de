@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.401147,51.032276,9.401147,51.032276",
     "geom:latitude":51.032276,
     "geom:longitude":9.401147,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ziegenhainer Str 5",
     "sg:city":"Homberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_08SLQzIyyNLg2dcr9Y0CFZ_51.032276_9.401147@1306268852"
     },
     "wof:country":"DE",
-    "wof:geomhash":"93b229bb3444ad774beb9537ac296206",
+    "wof:geomhash":"4285ca76c70e26eee796c44565360e5e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135451211,
-    "wof:lastmodified":1466227295,
+    "wof:lastmodified":1510941514,
     "wof:name":"Volksbank & Raiffeisenbank Eg",
     "wof:parent_id":101809965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102560731
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

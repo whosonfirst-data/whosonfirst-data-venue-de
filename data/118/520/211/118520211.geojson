@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.98569,53.555542,9.98569,53.555542",
     "geom:latitude":53.555542,
     "geom:longitude":9.98569,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Valentinskamp 20::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0kRZcIlPxqsl8jiQ2tm7nG_53.555542_9.985690@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6a34ffb6d656a81b81ee0a1a64fd1bc3",
+    "wof:geomhash":"4e8ecb1866d1a4ab7cd48ffd242dc1f2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118520211,
-    "wof:lastmodified":1466213600,
+    "wof:lastmodified":1510943244,
     "wof:name":"Funk Gruppe Gmbh",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135367555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

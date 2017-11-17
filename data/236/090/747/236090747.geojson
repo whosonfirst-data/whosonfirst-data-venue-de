@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.823628,51.233315,6.823628,51.233315",
     "geom:latitude":51.233315,
     "geom:longitude":6.823628,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neumannstr. 2",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_243BtTLNN9U07IRiGC7OMu_51.233315_6.823628@1306269104"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9cb34d32a80a8654f5d05fc64e1e380b",
+    "wof:geomhash":"cb8b128da5093c28ad93dfb9182ca5f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":236090747,
-    "wof:lastmodified":1466220412,
+    "wof:lastmodified":1510942352,
     "wof:name":"Spedition Wagner Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118603553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

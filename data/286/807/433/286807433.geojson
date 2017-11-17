@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.898689,50.900242,6.898689,50.900242",
     "geom:latitude":50.900242,
     "geom:longitude":6.898689,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berrenrather Str. 511",
     "sg:city":"H\u00fcrth",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3hm18QAVu7wmTbMvBnEmlQ_50.900242_6.898689@1306269126"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fb4ce37ef04f3ea12c54915891574847",
+    "wof:geomhash":"2e6254b9c7d2f7b53fab50aa5fd32f67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286807433,
-    "wof:lastmodified":1466237274,
+    "wof:lastmodified":1510943305,
     "wof:name":"Alucolor Dr.-ing. Richard Heim Gmbh & Co. Kg",
     "wof:parent_id":85795773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958091971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

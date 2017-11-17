@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.802011,50.655003,6.802011,50.655003",
     "geom:latitude":50.655003,
     "geom:longitude":6.802011,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gottlieb-Daimler-Str 12",
     "sg:city":"Euskirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3BvWgqh81AydwX1vK0LJ4E_50.655003_6.802011@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b1d51e381d74eaecfe7c7f47060bd44e",
+    "wof:geomhash":"ed59a99a14d2bbcaafdc281459511215",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102641665,
-    "wof:lastmodified":1466214355,
+    "wof:lastmodified":1510942651,
     "wof:name":"Golchert Gmbh & Co Kg",
     "wof:parent_id":101748597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135649221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

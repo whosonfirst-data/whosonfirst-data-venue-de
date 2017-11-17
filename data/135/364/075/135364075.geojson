@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.229714,53.175686,8.229714,53.175686",
     "geom:latitude":53.175686,
     "geom:longitude":8.229714,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wilhelmshavener Heerstr. 79",
     "sg:city":"Oldenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4WBbJptUuWwRr6Lh5b5gHB_53.175686_8.229714@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8015959409c7f34ceffb6985f2934dfd",
+    "wof:geomhash":"152e8ff4b0bc2d7586f7b28a9f59f81d",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,15 @@
         }
     ],
     "wof:id":135364075,
-    "wof:lastmodified":1466219344,
+    "wof:lastmodified":1510943440,
     "wof:name":"Commerzial Treuhand Gmbh",
     "wof:parent_id":101748835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958145897,
+        958360081
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.518007,51.274204,9.518007,51.274204",
     "geom:latitude":51.274204,
     "geom:longitude":9.518007,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinrich-Hertz-Str. 52",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6U1PMwzBFrN7jMxrS8uPFJ_51.274204_9.518007@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e3b002b97521c5098f8124e8513d5c0a",
+    "wof:geomhash":"0204905ee2d191fe940b3d3ce23e0d47",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319979037,
-    "wof:lastmodified":1466236264,
+    "wof:lastmodified":1510943556,
     "wof:name":"Aue Automations Und Einstelltechnik Kassel Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119279315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

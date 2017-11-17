@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.708236,51.227455,6.708236,51.227455",
     "geom:latitude":51.227455,
     "geom:longitude":6.708236,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wiesenstr. 51",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_49Iyp7BEOaL6xEav4FPtiN_51.227455_6.708236@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8b4d09c4f25190ab8f3ada8346f0f686",
+    "wof:geomhash":"fd4bae111d35fcc842763a412911489f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":336641233,
-    "wof:lastmodified":1466234535,
+    "wof:lastmodified":1510943285,
     "wof:name":"Mawo Pipefittings Gmbh",
     "wof:parent_id":85796695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957689299
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

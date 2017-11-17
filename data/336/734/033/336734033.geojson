@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.745938,48.635696,8.745938,48.635696",
     "geom:latitude":48.635696,
     "geom:longitude":8.745938,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kengelwg. 16",
     "sg:city":"Wildberg",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_04Zsp8yeiInqGuLxNgh9mB_48.635696_8.745938@1306269148"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ee59099dc9b09b72b745f5c41db934d9",
+    "wof:geomhash":"ff2da24a3a653742a0e8642242ed5835",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":336734033,
-    "wof:lastmodified":1466236408,
+    "wof:lastmodified":1510941743,
     "wof:name":"W\u00d6hrle Metallwarenfabrik Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        153044411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.560341,49.398594,8.560341,49.398594",
     "geom:latitude":49.398594,
     "geom:longitude":8.560341,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Essener Str. 14",
     "sg:city":"Schwetzingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2qRQvkGHLTwg9duvBSoj9X_49.398594_8.560341@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"eacef9e2417a548daccbee44445a7513",
+    "wof:geomhash":"a8e4e16d262d893447f7976a9c57a3a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320683443,
-    "wof:lastmodified":1466242377,
+    "wof:lastmodified":1510942879,
     "wof:name":"Wieland Metalloberfl\u00c4chentechnik Gmbh",
     "wof:parent_id":85862815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320692633
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

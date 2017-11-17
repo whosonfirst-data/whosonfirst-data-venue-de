@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3612651825,49.5377655029,8.3612651825,49.5377655029",
     "geom:latitude":49.537766,
     "geom:longitude":8.361265,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nachtweideweg 1-7",
     "sg:city":"Frankenthal",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472042758,
-    "wof:geomhash":"c6de292bdcf94eef5cb72131c69a20bb",
+    "wof:geomhash":"54335c89633deec07e9e694b9e337e33",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":957453103,
-    "wof:lastmodified":1472042758,
+    "wof:lastmodified":1510943286,
     "wof:name":"Tarkett Sommer Ag",
     "wof:parent_id":85795131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135937411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

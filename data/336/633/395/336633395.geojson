@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.068859,50.750664,7.068859,50.750664",
     "geom:latitude":50.750664,
     "geom:longitude":7.068859,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Friedrich-W\u00f6hler-Str. 2",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3VCp9GJxcvLF0howxJjvTu_50.750664_7.068859@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ca812c424a4d92e675bc30fc32cb0446",
+    "wof:geomhash":"4b270a198cb6c44e4a2d7252769c9549",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":336633395,
-    "wof:lastmodified":1466234348,
+    "wof:lastmodified":1510941442,
     "wof:name":"Corus Aluminium Profiltechnik Bonn Gmbh",
     "wof:parent_id":85862983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320731477
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

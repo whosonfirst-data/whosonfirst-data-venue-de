@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.784055,49.108688,9.784055,49.108688",
     "geom:latitude":49.108688,
     "geom:longitude":9.784055,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Raiffeisenstra\u00dfe 4",
     "sg:city":"Schw\u00e4bisch Hall",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0aGA694bERQb4i4OfEEdzy_49.108688_9.784055@1306268890"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d30808a9f901f1a2f499bb93b54ef4a1",
+    "wof:geomhash":"98c0381e25feb75f5b25d27fe5b2892c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136072329,
-    "wof:lastmodified":1466215467,
+    "wof:lastmodified":1510942874,
     "wof:name":"Hohenloher Molkerei E.g.",
     "wof:parent_id":101760913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941488041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

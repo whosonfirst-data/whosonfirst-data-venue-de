@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.945449,49.95826,7.945449,49.95826",
     "geom:latitude":49.95826,
     "geom:longitude":7.945449,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Ockenheimer Graben 35",
     "sg:city":"Bingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5d9pQM7fFVCnOeOjFspXFf_49.958260_7.945449@1306268837"
     },
     "wof:country":"DE",
-    "wof:geomhash":"42d233a4305e6a6800c0398ab9764464",
+    "wof:geomhash":"6e67be6e6bc92b55c3a91fb5dcf50b69",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,13 +43,17 @@
         }
     ],
     "wof:id":119456797,
-    "wof:lastmodified":1466242740,
+    "wof:lastmodified":1510943840,
     "wof:name":"Reh Kendermann Gmbh",
     "wof:parent_id":101840043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        974403751
+    ],
+    "wof:supersedes":[
+        303123173
+    ],
     "wof:tags":[]
 },
   "bbox": [

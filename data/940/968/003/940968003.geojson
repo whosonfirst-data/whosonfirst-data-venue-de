@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5309448242,50.5380935669,12.5309448242,50.5380935669",
     "geom:latitude":50.538094,
     "geom:longitude":12.530945,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lichtenauer Str. 7",
     "sg:city":"St\u00fctzengr\u00fcn",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472007298,
-    "wof:geomhash":"a95da3396dc65abfaf4a83aa8ed032df",
+    "wof:geomhash":"4f917f8de9f60e7d838cf3c2c2871257",
     "wof:hierarchy":[],
     "wof:id":940968003,
-    "wof:lastmodified":1472007298,
+    "wof:lastmodified":1510941566,
     "wof:name":"Michael J\u00e4ckel Erzgebirgische B\u00fcrstenfabrik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941498929
+    ],
+    "wof:supersedes":[
+        102705973
+    ],
     "wof:tags":[]
 },
   "bbox": [

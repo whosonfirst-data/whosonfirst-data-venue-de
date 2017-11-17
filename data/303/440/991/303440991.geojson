@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.137111,51.689228,6.137111,51.689228",
     "geom:latitude":51.689228,
     "geom:longitude":6.137111,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jurgensstr. 16",
     "sg:city":"Goch",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1s3wBmcMBqM9xmFR69liQ6_51.689228_6.137111@1306268948"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9d28bd892b5ac522ed1a19065d347702",
+    "wof:geomhash":"65e29b917d2f7285dffa9ca02893cd0f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303440991,
-    "wof:lastmodified":1466235386,
+    "wof:lastmodified":1510942740,
     "wof:name":"Hermann Sauter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957471275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

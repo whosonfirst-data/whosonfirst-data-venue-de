@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.453543,50.133175,8.453543,50.133175",
     "geom:latitude":50.133175,
     "geom:longitude":8.453543,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00f6chster Str. 10",
     "sg:city":"Kelkheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2k8X2zfM3MfAD3fnGLa9yv_50.133175_8.453543@1306268966"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b0dbde5494d74cdc693dbb86ca7f0bc9",
+    "wof:geomhash":"eb8ed33cde101b51d7f35569a9c52ff2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118491499,
-    "wof:lastmodified":1466213234,
+    "wof:lastmodified":1510944182,
     "wof:name":"Schl\u00dcssel Barde",
     "wof:parent_id":101811873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286926917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

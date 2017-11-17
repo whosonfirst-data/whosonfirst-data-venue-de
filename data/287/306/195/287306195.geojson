@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.20505,51.331341,6.20505,51.331341",
     "geom:latitude":51.331341,
     "geom:longitude":6.20505,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestr. 6",
     "sg:city":"Nettetal",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_73LmUkMgsp6SE5VzHTuzcD_51.331341_6.205050@1306269130"
     },
     "wof:country":"DE",
-    "wof:geomhash":"964aed0e9ddf8a1ccc272d2667041916",
+    "wof:geomhash":"4281d3bbda4d5e80e27be14c5930230c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287306195,
-    "wof:lastmodified":1466233240,
+    "wof:lastmodified":1510942738,
     "wof:name":"Maschinenbau Gerold Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941149619
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

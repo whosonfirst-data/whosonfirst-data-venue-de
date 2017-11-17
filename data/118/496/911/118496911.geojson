@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.01295,50.867298,13.01295,50.867298",
     "geom:latitude":50.867298,
     "geom:longitude":13.01295,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kurze Str. 18",
     "sg:city":"Niederwiesa",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3W9MlaNOfoPG55yUdwnP8u_50.867298_13.012950@1306268976"
     },
     "wof:country":"DE",
-    "wof:geomhash":"af791763b7bc0f976fd3c7959954fa5f",
+    "wof:geomhash":"6a7dde6b67918f1134bf146a6e487e59",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118496911,
-    "wof:lastmodified":1466217240,
+    "wof:lastmodified":1510943474,
     "wof:name":"F. S. Gmbh & Co. Elektroanlagen Kg",
     "wof:parent_id":101823131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958281851
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

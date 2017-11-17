@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.700776,51.932751,14.700776,51.932751",
     "geom:latitude":51.932751,
     "geom:longitude":14.700776,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Forster Str 44",
     "sg:city":"Guben",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6yh00eEcGPT0C63lujTGVM_51.932751_14.700776@1306268972"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f63959bb490ea257ca628378ae87fb09",
+    "wof:geomhash":"17b8ebf409286269bd7b9032017c6548",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118495675,
-    "wof:lastmodified":1466214352,
+    "wof:lastmodified":1510942334,
     "wof:name":"Sb F\u00f6rdertechnik Gmbh",
     "wof:parent_id":101821605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252825599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

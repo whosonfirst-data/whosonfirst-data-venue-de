@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.023883,49.542171,11.023883,49.542171",
     "geom:latitude":49.542171,
     "geom:longitude":11.023883,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Weichselgarten 26",
     "sg:city":"Erlangen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7i8McMxbTXaFCkz1NkGU5G_49.542171_11.023883@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"76739ea5a98151d170aece43d90c6353",
+    "wof:geomhash":"3a2a33622e76e566163e5a7f5c5f5b15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270140487,
-    "wof:lastmodified":1466224667,
+    "wof:lastmodified":1510941557,
     "wof:name":"Wso Informatik Gmbh",
     "wof:parent_id":85905637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957951071
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

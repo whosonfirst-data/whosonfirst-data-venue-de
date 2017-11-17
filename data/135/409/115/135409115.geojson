@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.778767,48.7929,8.778767,48.7929",
     "geom:latitude":48.7929,
     "geom:longitude":8.778767,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pforzheimer Str 22::",
     "sg:city":"Neuhausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5E196ZHpTChJnVvRCbSaTq_48.792900_8.778767@1306268850"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3012acaf92f2685bc5365fdefb451c94",
+    "wof:geomhash":"694b3d17204f3446bd0ddc7ba37b7bfa",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135409115,
-    "wof:lastmodified":1466223678,
+    "wof:lastmodified":1510943272,
     "wof:name":"Raiffeisen-gebietsbank Eg",
     "wof:parent_id":101761985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941051357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

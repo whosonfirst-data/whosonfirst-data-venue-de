@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.109179,50.028069,8.109179,50.028069",
     "geom:latitude":50.028069,
     "geom:longitude":8.109179,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kiedricher Str 47",
     "sg:city":"Eltville",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3VMiXIuFOknCmHaW52qm9v_50.028069_8.109179@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"97c8da07d4915b7470f6e23914598b77",
+    "wof:geomhash":"5c94578576c7c435f27cf270c5191f4a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118573639,
-    "wof:lastmodified":1466216722,
+    "wof:lastmodified":1510941651,
     "wof:name":"Rolf Krause Werbewerkst\u00e4tten Kg",
     "wof:parent_id":85796457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957473141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

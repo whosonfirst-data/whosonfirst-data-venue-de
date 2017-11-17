@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.937655,53.546085,9.937655,53.546085",
     "geom:latitude":53.546085,
     "geom:longitude":9.937655,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Palmaille 67",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2xG7Uoep7JxFyo9zFLI5fu_53.546085_9.937655@1306268798"
     },
     "wof:country":"DE",
-    "wof:geomhash":"20f40f496885eec55708e756c29c2f39",
+    "wof:geomhash":"7221206ad58042fb17527bf9d3dd6de7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118673965,
-    "wof:lastmodified":1466222375,
+    "wof:lastmodified":1510943509,
     "wof:name":"Coutinho Caro & Co International Trading Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940864259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

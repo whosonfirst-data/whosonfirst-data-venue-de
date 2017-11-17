@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0069460869,51.1572952271,7.0069460869,51.1572952271",
     "geom:latitude":51.157295,
     "geom:longitude":7.006946,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlenstra\u00dfe 17",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015605,
-    "wof:geomhash":"bb281e41499cb9b0edc85fa7ad71eeb5",
+    "wof:geomhash":"fc3c5564717cdff95d007b07e187bad6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":941149997,
-    "wof:lastmodified":1472015605,
+    "wof:lastmodified":1510941820,
     "wof:name":"Paul Klaas",
     "wof:parent_id":85796405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135846749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

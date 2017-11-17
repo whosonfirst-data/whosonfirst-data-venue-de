@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.739061,51.244564,6.739061,51.244564",
     "geom:latitude":51.244564,
     "geom:longitude":6.739061,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Emanuel-Leutze-Str. 17",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5TxL5JGYLEtIQVnBVhWjSZ_51.244564_6.739061@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"105f4e71ac0c64dbcb97f38323e11b01",
+    "wof:geomhash":"dce3db720ccf7cc67838033308d8d2c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":219593257,
-    "wof:lastmodified":1466222278,
+    "wof:lastmodified":1510942583,
     "wof:name":"Lindner Hotels Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941014599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

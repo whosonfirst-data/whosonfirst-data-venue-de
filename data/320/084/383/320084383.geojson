@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.420473,53.599449,11.420473,53.599449",
     "geom:latitude":53.599449,
     "geom:longitude":11.420473,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wilhelm-Hennemann-Str. 13",
     "sg:city":"Schwerin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_32AOCW51HQDJtbs6hU4oXk_53.599449_11.420473@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"73aa35279c6f61b185a7060450ac82eb",
+    "wof:geomhash":"b75b64bb0de5f8b13be4b41a6cc9dc10",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320084383,
-    "wof:lastmodified":1466235295,
+    "wof:lastmodified":1510942812,
     "wof:name":"Trebing & Himstedtproze\u00dfautomation Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119457879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

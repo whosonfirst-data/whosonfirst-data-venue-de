@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.478205,51.15741,6.478205,51.15741",
     "geom:latitude":51.15741,
     "geom:longitude":6.478205,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An der Waldesruh 23",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_2Bf6let7CTaCZ6SxA2VVTV_51.157410_6.478205@1306269103"
     },
     "wof:country":"DE",
-    "wof:geomhash":"aacb521b110539a1f60715c0a8ace2cb",
+    "wof:geomhash":"f71a759cc93c34ed1683f5a08f51df28",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":235997917,
-    "wof:lastmodified":1466218772,
+    "wof:lastmodified":1510943028,
     "wof:name":"Ibg Monforts Gleitlagertechnik Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286721029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

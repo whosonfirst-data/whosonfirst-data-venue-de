@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.762839,50.709171,12.762839,50.709171",
     "geom:latitude":50.709171,
     "geom:longitude":12.762839,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Albert-Schweitzer-Str 4",
     "sg:city":"Stollberg",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_5SCq2OA0b8hLeNmlWFBB3e_50.709171_12.762839@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e701e967a6772ae9abbebe881f9a76e2",
+    "wof:geomhash":"e2e72c8751d390ccc2c6276c8ff4e534",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102631841,
-    "wof:lastmodified":1466214126,
+    "wof:lastmodified":1510942339,
     "wof:name":"M\u00fchlbauer Ag",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941472011
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

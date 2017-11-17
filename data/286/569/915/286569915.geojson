@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.084825,50.952133,11.084825,50.952133",
     "geom:latitude":50.952133,
     "geom:longitude":11.084825,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Konrad-Zuse-Str 14",
     "sg:city":"Erfurt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7NPmeC4MnwHeZIagY76rYb_50.952133_11.084825@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"02eb310313c2f01459b51c7b1dc60686",
+    "wof:geomhash":"a64633a5dfce5b751957542e6b2616ad",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286569915,
-    "wof:lastmodified":1466231857,
+    "wof:lastmodified":1510942581,
     "wof:name":"Optolab Microsystems Ag",
     "wof:parent_id":85899773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320496053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.364835,49.248695,7.364835,49.248695",
     "geom:latitude":49.248695,
     "geom:longitude":7.364835,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schlo\u00dfplatz 9::",
     "sg:city":"Zweibr\u00fccken",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6Azp3iwT8Q7g4NttER8Byc_49.248695_7.364835@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0b3b4c4d70da3bf8949c41330994aaca",
+    "wof:geomhash":"fb87ab2cbd157a8059ee6351173b8482",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118525709,
-    "wof:lastmodified":1466213993,
+    "wof:lastmodified":1510943041,
     "wof:name":"Stadtsparkasse Zweibruecken",
     "wof:parent_id":101759527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940575453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.999666,49.23336,6.999666,49.23336",
     "geom:latitude":49.23336,
     "geom:longitude":6.999666,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bleichstrasse 21-23",
     "sg:city":"Saarbr\u00fccken",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3GbOTsly63O8y2TNyvjk4c_49.233360_6.999666@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"84eb7bb96c8f16157fe08a937dde0112",
+    "wof:geomhash":"684bfb51e23defe2075870e87a14f09f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320313039,
-    "wof:lastmodified":1466239120,
+    "wof:lastmodified":1510942614,
     "wof:name":"Saarl\u00e4ndische Wochenblatt Verlagsgesellschaft Mbh",
     "wof:parent_id":85862849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957467857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

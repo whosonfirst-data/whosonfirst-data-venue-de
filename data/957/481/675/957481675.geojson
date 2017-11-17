@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0697031021,53.6004753113,10.0697031021,53.6004753113",
     "geom:latitude":53.600475,
     "geom:longitude":10.069703,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wandsbeker Strasse 3-7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472044245,
-    "wof:geomhash":"176803d2b036f3d6f5624a9a4950375b",
+    "wof:geomhash":"6368f58a94b0f3d2cdee97c816518454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957481675,
-    "wof:lastmodified":1472044245,
+    "wof:lastmodified":1510942940,
     "wof:name":"Otto Versand Gmbh & Co.",
     "wof:parent_id":85900079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135799859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

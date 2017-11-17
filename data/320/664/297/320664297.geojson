@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.187483,51.454048,7.187483,51.454048",
     "geom:latitude":51.454048,
     "geom:longitude":7.187483,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Elsa-Br\u00e4ndstr\u00f6m-Str. 31",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5QD7jrl95g3WxihxJPG1lH_51.454048_7.187483@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1f06765871dd79c62e0a4de2249758d0",
+    "wof:geomhash":"47c64a6a4c80e2062c8ea39e2c68a5a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320664297,
-    "wof:lastmodified":1466242160,
+    "wof:lastmodified":1510941701,
     "wof:name":"Otto Winkler Gmbh & Co. Kg",
     "wof:parent_id":85863241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940979035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

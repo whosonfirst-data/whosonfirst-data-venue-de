@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.584408,50.988716,7.584408,50.988716",
     "geom:latitude":50.988716,
     "geom:longitude":7.584408,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merkausener Str 21",
     "sg:city":"Wiehl",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_59uI8UO3rd3d9COoAnlbDd_50.988716_7.584408@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"79d5a1719bbd26e2a665231b91df10de",
+    "wof:geomhash":"dd78ef74b1439fa9f10e16e701cdf344",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102725965,
-    "wof:lastmodified":1466216872,
+    "wof:lastmodified":1510942076,
     "wof:name":"Deko-einkauf Fuchs Kg",
     "wof:parent_id":85682513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958313257
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

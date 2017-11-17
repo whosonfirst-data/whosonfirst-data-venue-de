@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.475525,50.526661,6.475525,50.526661",
     "geom:latitude":50.526661,
     "geom:longitude":6.475525,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sternweg 10a",
     "sg:city":"Schleiden",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_6Z6I9xrlf480XAK40RGdYb_50.526661_6.475525@1306268876"
     },
     "wof:country":"DE",
-    "wof:geomhash":"34e618e10abb05f0c88b324843f0bc68",
+    "wof:geomhash":"6c302cc668d6f714d2e860dbe0979697",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":152403621,
-    "wof:lastmodified":1466218218,
+    "wof:lastmodified":1510944097,
     "wof:name":"Wilhelm F. Marsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941533583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

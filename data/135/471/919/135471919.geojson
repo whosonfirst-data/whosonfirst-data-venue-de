@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.611611,47.782528,9.611611,47.782528",
     "geom:latitude":47.782528,
     "geom:longitude":9.611611,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Obere Breite Str. 12",
     "sg:city":"Ravensburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1wn1TH88WRpvO9GhrR5I15_47.782528_9.611611@1306268854"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7dcc1494599a0e4e3bee2dc7cc903827",
+    "wof:geomhash":"60836b314f4e0a1a2a345445d55a6a80",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135471919,
-    "wof:lastmodified":1466229009,
+    "wof:lastmodified":1510942556,
     "wof:name":"Wkv Bank Gmbh",
     "wof:parent_id":101828649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135472033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

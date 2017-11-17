@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.994006,53.549026,9.994006,53.549026",
     "geom:latitude":53.549026,
     "geom:longitude":9.994006,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dornbusch 2::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3S6oTk6tcuJmHRIV8IsEat_53.549026_9.994006@1306268792"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a7764a69d8b1ebc02fcdbca4a811ea23",
+    "wof:geomhash":"5a1ea8823fe3164552d060780c609743",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118517215,
-    "wof:lastmodified":1466213358,
+    "wof:lastmodified":1510941892,
     "wof:name":"Abn Amro Bank (deutschland) Ag Nl-hamburg",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135363679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

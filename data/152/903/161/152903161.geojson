@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.822616,48.65144,8.822616,48.65144",
     "geom:latitude":48.65144,
     "geom:longitude":8.822616,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herrenbergerstrasse 1",
     "sg:city":"Deckenpfronn",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3UNcfo6SPDoiaQGrhQtj2G_48.651440_8.822616@1306268892"
     },
     "wof:country":"DE",
-    "wof:geomhash":"47f6028399b9022033f18f8b6a40c082",
+    "wof:geomhash":"b55546cf0da2b7cdf55a2694fac19fce",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":152903161,
-    "wof:lastmodified":1466229493,
+    "wof:lastmodified":1510942978,
     "wof:name":"Point Fotografie - Kunst & Design Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957722921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

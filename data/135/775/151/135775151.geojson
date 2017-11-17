@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.864639,51.431946,6.864639,51.431946",
     "geom:latitude":51.431946,
     "geom:longitude":6.864639,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steineshoffweg 2",
     "sg:city":"M\u00fclheim",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4BXj98kaaGcoAcXb1q0zfX_51.431946_6.864639@1306268872"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d2597d26b6b53569074055dda6bfdcb0",
+    "wof:geomhash":"778b2ca9aff7a23f88f3dfbf03b21fb7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":135775151,
-    "wof:lastmodified":1466243838,
+    "wof:lastmodified":1510942844,
     "wof:name":"Florett Textil Gmbh & Co. Kg",
     "wof:parent_id":85863067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        940978553
+    ],
+    "wof:supersedes":[
+        252964851
+    ],
     "wof:tags":[]
 },
   "bbox": [

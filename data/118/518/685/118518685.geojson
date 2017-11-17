@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.794974,47.991604,7.794974,47.991604",
     "geom:latitude":47.991604,
     "geom:longitude":7.794974,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"G\u00fcndlinger Str. 12::",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4YFB3mqdmJePyFfmdEsqRu_47.991604_7.794974@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f26ec04863e15bac612a88abb05eefd4",
+    "wof:geomhash":"4ab236c8a7dc3ae3e5b0e37ad7711891",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118518685,
-    "wof:lastmodified":1466213482,
+    "wof:lastmodified":1510943740,
     "wof:name":"Cg Car-garantie Versicherungs-ag",
     "wof:parent_id":101748475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102576527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

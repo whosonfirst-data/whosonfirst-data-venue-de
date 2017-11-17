@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.001925,51.430141,7.001925,51.430141",
     "geom:latitude":51.430141,
     "geom:longitude":7.001925,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grugapl. 7",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4xYsYBlOaButTWJJT6S9ih_51.430141_7.001925@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"68e8043ad9c8b897bd6c1e99e8f781c0",
+    "wof:geomhash":"c50c660e305372578b4dc16c6ad37267",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":336680277,
-    "wof:lastmodified":1466235454,
+    "wof:lastmodified":1510943635,
     "wof:name":"Transcometal Gmbh",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320614711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

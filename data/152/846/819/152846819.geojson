@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.134564,50.498932,12.134564,50.498932",
     "geom:latitude":50.498932,
     "geom:longitude":12.134564,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reichsstra\u00dfe 13",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1gBAHkesRNp0OaEMiCPllN_50.498932_12.134564@1306268890"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2f1a0d41e46624ec7c6b9959d1104d38",
+    "wof:geomhash":"6c0d0d79451229d5b557c9783d82b009",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":152846819,
-    "wof:lastmodified":1466228130,
+    "wof:lastmodified":1510944133,
     "wof:name":"Ideal-dienstleistungen Und Hausverwaltung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974291443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

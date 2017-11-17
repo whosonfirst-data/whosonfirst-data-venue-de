@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.919416,51.171242,6.919416,51.171242",
     "geom:latitude":51.171242,
     "geom:longitude":6.919416,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ellerstr. 101",
     "sg:city":"Hilden",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2phohci5vcbRCO6aBVgmYF_51.171242_6.919416@1306269127"
     },
     "wof:country":"DE",
-    "wof:geomhash":"67dd910538309904f411a0061e9dd32e",
+    "wof:geomhash":"e66c93f263a7d23fe30b4415d494b5d7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286967081,
-    "wof:lastmodified":1466239581,
+    "wof:lastmodified":1510944017,
     "wof:name":"Sankyo Oilless Industry Gmbh",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957686629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

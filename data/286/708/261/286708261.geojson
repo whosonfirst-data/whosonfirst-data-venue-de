@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.064057,50.739983,13.064057,50.739983",
     "geom:latitude":50.739983,
     "geom:longitude":13.064057,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neue Marienberger Str 189",
     "sg:city":"Zschopau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2exI6UHfUtGFzf7VRsZcvB_50.739983_13.064057@1306269125"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ac171898796981976bdd42178ab11346",
+    "wof:geomhash":"0a881e033bdc6e665365133490f9e128",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286708261,
-    "wof:lastmodified":1466235452,
+    "wof:lastmodified":1510943735,
     "wof:name":"Sch\u00fcler Zerspanungstechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119444359
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

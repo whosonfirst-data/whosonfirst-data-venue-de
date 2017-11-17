@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.404977,53.652203,11.404977,53.652203",
     "geom:latitude":53.652203,
     "geom:longitude":11.404977,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wismarsche Str. 380",
     "sg:city":"Schwerin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0tyMtPnwQgifmLD8iC2843_53.652203_11.404977@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d3fae5227e049cc92811db531e5ba8ca",
+    "wof:geomhash":"2aee2f58d6a76a4600abb711d53f0f62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":202500561,
-    "wof:lastmodified":1466215629,
+    "wof:lastmodified":1510943446,
     "wof:name":"Kgw Schweriner Maschinenbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320818125,
+        118753971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

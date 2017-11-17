@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.786341,51.225765,6.786341,51.225765",
     "geom:latitude":51.225765,
     "geom:longitude":6.786341,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wagnerstrasse 29::",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7eLotYktB6zNRag9QBKIq9_51.225765_6.786341@1306268849"
     },
     "wof:country":"DE",
-    "wof:geomhash":"53b6b9cf4297b7f3a1afece20e94ec74",
+    "wof:geomhash":"3bd168e058731c79c24e404234274082",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":135386277,
-    "wof:lastmodified":1466221646,
+    "wof:lastmodified":1510941923,
     "wof:name":"D\u00fcsseldorfer Wohnungsgenossenschaft Eg",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135724019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

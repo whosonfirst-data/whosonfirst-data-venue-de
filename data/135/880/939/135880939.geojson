@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.100342,48.779934,10.100342,48.779934",
     "geom:latitude":48.779934,
     "geom:longitude":10.100342,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leitzstr. 2",
     "sg:city":"Oberkochen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7WiRIuwxapFe9DYQ8b3ePg_48.779934_10.100342@1306268878"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f09a9774fee5f6a35dfb22cd90db8eeb",
+    "wof:geomhash":"d89709b195d6a2064674d03d8608cd02",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135880939,
-    "wof:lastmodified":1466244473,
+    "wof:lastmodified":1510941480,
     "wof:name":"B\u00f6hlerit Holding Gmbh",
     "wof:parent_id":101761919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135918929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4601926804,52.4684715271,13.4601926804,52.4684715271",
     "geom:latitude":52.468472,
     "geom:longitude":13.460193,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neuk\u00f6llnische All. 33",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472091367,
-    "wof:geomhash":"05dd3615bdc443918ad51f85d3dac9e1",
+    "wof:geomhash":"4dc5a1ea7d2e0ec50496f2db2fd5b340",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":958341371,
-    "wof:lastmodified":1472091367,
+    "wof:lastmodified":1510943389,
     "wof:name":"Aaa Detlef Fahrtmann Spedition",
     "wof:parent_id":85899583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958344791
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

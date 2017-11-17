@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.394616127,50.1415252686,8.394616127,50.1415252686",
     "geom:latitude":50.141525,
     "geom:longitude":8.394616,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Guldenm\u00fchle 8-10",
     "sg:city":"Eppstein",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471987970,
-    "wof:geomhash":"5a9b5e26d2f25b1850be3b64f400afb6",
+    "wof:geomhash":"6a94ebe0aa1f44b33160c0618dddd299",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":940584135,
-    "wof:lastmodified":1471987970,
+    "wof:lastmodified":1510941539,
     "wof:name":"Schuf-armaturen Undapparatebau Gmbh",
     "wof:parent_id":85794725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957959393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

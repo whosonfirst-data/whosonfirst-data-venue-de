@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0257110596,51.1518249512,7.0257110596,51.1518249512",
     "geom:latitude":51.151825,
     "geom:longitude":7.025711,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00f6hdorfer Str. 156-176",
     "sg:city":"Solingen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472113251,
-    "wof:geomhash":"741ed6ac70c86cd9f9ca9a78485f1083",
+    "wof:geomhash":"9ccb992608bf822a4cacecb404bfea17",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":974453701,
-    "wof:lastmodified":1472113251,
+    "wof:lastmodified":1510941236,
     "wof:name":"Itus-industrietechnik Und Sondereinrichtungen Gmbh",
     "wof:parent_id":85796789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957959317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

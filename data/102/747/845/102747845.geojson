@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.520651,51.279766,9.520651,51.279766",
     "geom:latitude":51.279766,
     "geom:longitude":9.520651,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinrich-Hertz-Str 15",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0yNiouXBYmWt535qdeFrgx_51.279766_9.520651@1306268945"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2072d9eda92278a1337ee6630db8f8ac",
+    "wof:geomhash":"3f4a7e7e072477fd4344e471a25a7af8",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102747845,
-    "wof:lastmodified":1466218124,
+    "wof:lastmodified":1510943433,
     "wof:name":"Welscher Gmbh & Co Kg",
     "wof:parent_id":101748659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958318311
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.649116,50.514084,12.649116,50.514084",
     "geom:latitude":50.514084,
     "geom:longitude":12.649116,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bockauer Str 44",
     "sg:city":"Sosa",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_77lK2UdVxCGRWklIdqVs6U_50.514084_12.649116@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"40213791117772823f5ada22270adb7a",
+    "wof:geomhash":"ca0225ba90ca9744e351e1985ba3405e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320694889,
-    "wof:lastmodified":1466242353,
+    "wof:lastmodified":1510943231,
     "wof:name":"Metallwarenfabrik Unger & M\u00fcller Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941472161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

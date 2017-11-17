@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.778854,48.7188,10.778854,48.7188",
     "geom:latitude":48.7188,
     "geom:longitude":10.778854,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reichsstr. 31-33::",
     "sg:city":"Donauw\u00f6rth",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1AY6dIBxxSlA3ovKUgDbGQ_48.718800_10.778854@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e7ada120261fb405ab9dca81f090fcc0",
+    "wof:geomhash":"eb81b5594c3f47387da427f11c2baaf9",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118524891,
-    "wof:lastmodified":1466213939,
+    "wof:lastmodified":1510942586,
     "wof:name":"Sparkasse Donauwoerth",
     "wof:parent_id":101783123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102657013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.962049,50.254276,10.962049,50.254276",
     "geom:latitude":50.254276,
     "geom:longitude":10.962049,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schillerplatz 1 POSTFACH 3063",
     "sg:city":"Coburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7bngcy1aUQKMAbMHBMNcBC_50.254276_10.962049@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1077b79f00e8137a2fe1d51c8d6580a1",
+    "wof:geomhash":"894bea1f3e12dddfdf8cffef22541020",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320524123,
-    "wof:lastmodified":1466241114,
+    "wof:lastmodified":1510943581,
     "wof:name":"St\u00c4dtische Werke \u00dcberlandwerke Coburg Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320667675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

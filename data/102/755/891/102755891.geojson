@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.003061,51.215122,14.003061,51.215122",
     "geom:latitude":51.215122,
     "geom:longitude":14.003061,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wei\u00dfbacher Str 18",
     "sg:city":"Oberlichtenau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4VrBlpBO7uTKOBKCIhEWMB_51.215122_14.003061@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d561e3d5bfc3a4154222f1c365d52574",
+    "wof:geomhash":"24be0dc4a56f9637811f429583144673",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102755891,
-    "wof:lastmodified":1466218588,
+    "wof:lastmodified":1510943447,
     "wof:name":"Elektro-klemm Gmbh",
     "wof:parent_id":101822149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320838757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

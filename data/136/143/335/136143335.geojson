@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.82138,51.16943,6.82138,51.16943",
     "geom:latitude":51.16943,
     "geom:longitude":6.82138,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Itterstra\u00dfe 23",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_71CG2CLQcQGBhVswmOl70O_51.169430_6.821380@1306268894"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ab2ae463b913b097f8cb115d601c5536",
+    "wof:geomhash":"f3f208164f321e0077309d40108abe38",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136143335,
-    "wof:lastmodified":1466218545,
+    "wof:lastmodified":1510942913,
     "wof:name":"V\u00f6ssing Projektentwicklung Und Bautr\u00e4ger Gmbh&cokg",
     "wof:parent_id":101748671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135705695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

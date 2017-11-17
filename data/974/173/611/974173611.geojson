@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0978574753,49.0802574158,9.0978574753,49.0802574158",
     "geom:latitude":49.080257,
     "geom:longitude":9.097857,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Raiffeisenstr. 49-55",
     "sg:city":"Brackenheim",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472097102,
-    "wof:geomhash":"9e2ab8b057d2a303b4b251dbe6b09726",
+    "wof:geomhash":"922262adaf6e20918e48992a7c1ffdc3",
     "wof:hierarchy":[],
     "wof:id":974173611,
-    "wof:lastmodified":1472097102,
+    "wof:lastmodified":1510942748,
     "wof:name":"Walter Medien Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957474031
+    ],
+    "wof:supersedes":[
+        320266895
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.51636,51.74295,7.51636,51.74295",
     "geom:latitude":51.74295,
     "geom:longitude":7.51636,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00fcdinghauser Str 74",
     "sg:city":"Nordkirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7VCBWy4Mp17fa1wBexsMDI_51.742950_7.516360@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"847e7fed70089a87f6bcd46d5cd8a153",
+    "wof:geomhash":"3082e296387f68b02f56598fea0ba582",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135363489,
-    "wof:lastmodified":1466219281,
+    "wof:lastmodified":1510943682,
     "wof:name":"L\u00fctke-brochtrup Tischlerei Gmbh",
     "wof:parent_id":101809045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102652655
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

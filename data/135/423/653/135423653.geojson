@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.519505,48.621166,8.519505,48.621166",
     "geom:latitude":48.621166,
     "geom:longitude":8.519505,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Altensteiger Str 15::",
     "sg:city":"Simmersfeld",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2mx7eh5sNEH1Ot6uY7xJsZ_48.621166_8.519505@1306268851"
     },
     "wof:country":"DE",
-    "wof:geomhash":"775e54dc398c4de15bc83c54431bb991",
+    "wof:geomhash":"f30f27c8fcfb391c1067221ada99ca6c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135423653,
-    "wof:lastmodified":1466224846,
+    "wof:lastmodified":1510943664,
     "wof:name":"Raiffeisenbank Oberer Wald Eg",
     "wof:parent_id":101761849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135423661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3171877861,51.6215934753,7.3171877861,51.6215934753",
     "geom:latitude":51.621593,
     "geom:longitude":7.317188,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"August-Becker-Str. 10",
     "sg:city":"Datteln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471987922,
-    "wof:geomhash":"aecd50e69c225aafb7ce193ba26e10e9",
+    "wof:geomhash":"d4c58fdd0e434418bbf793559c9aada0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":940582885,
-    "wof:lastmodified":1471987922,
+    "wof:lastmodified":1510941602,
     "wof:name":"K.b.p. Kettenwerk Becker-pr\u00dcnte Gmbh",
     "wof:parent_id":85863203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941334335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

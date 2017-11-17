@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.918444,51.119015,6.918444,51.119015",
     "geom:latitude":51.119015,
     "geom:longitude":6.918444,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karl-Benz-Str 1",
     "sg:city":"Langenfeld",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5GHwwH6Dxf1RdbOVzpz00U_51.119015_6.918444@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d656bcd306557d14e7e4eaf71c3e77a1",
+    "wof:geomhash":"228366662ce4e59f34aa2eba8d2a86d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303140501,
-    "wof:lastmodified":1466227950,
+    "wof:lastmodified":1510942855,
     "wof:name":"Kbi Vertriebs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940807355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

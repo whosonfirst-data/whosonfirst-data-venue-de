@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.645308,48.137589,11.645308,48.137589",
     "geom:latitude":48.137589,
     "geom:longitude":11.645308,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Klausenburger Str. 9",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_09nriUmng8E3yJ44NCU7TJ_48.137589_11.645308@1306268857"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cbe5dbab9dce0e0c1ec3bb093fa370d0",
+    "wof:geomhash":"b4c7f6a560b9ed3508fd26434b5bcefc",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135525217,
-    "wof:lastmodified":1466233916,
+    "wof:lastmodified":1510941769,
     "wof:name":"Heilit & Woerner Bau- Ag Zweigniederlassung M\u00fcnchen",
     "wof:parent_id":85900273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958320121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

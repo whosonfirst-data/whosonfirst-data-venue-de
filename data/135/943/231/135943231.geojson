@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.199496,50.743801,8.199496,50.743801",
     "geom:latitude":50.743801,
     "geom:longitude":8.199496,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reiherstr. 3",
     "sg:city":"Haiger",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_2NTj5JcAyY3MZRYZUKkLB1_50.743801_8.199496@1306268882"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b936c49a3eaa73c9ac4be10b6af7e03a",
+    "wof:geomhash":"5fd9dda2f9f6e8ce0f052abcadd773e9",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -35,12 +38,14 @@
         }
     ],
     "wof:id":135943231,
-    "wof:lastmodified":1466244708,
+    "wof:lastmodified":1510943495,
     "wof:name":"Frauenberg Immobilien Verwaltungs Gmbh",
     "wof:parent_id":85682531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941406625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

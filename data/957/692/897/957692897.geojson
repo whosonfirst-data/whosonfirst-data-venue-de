@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5351696014,50.1596412659,8.5351696014,50.1596412659",
     "geom:latitude":50.159641,
     "geom:longitude":8.53517,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Kronberger Hang 3",
     "sg:city":"Schwalbach",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472057195,
-    "wof:geomhash":"4fdee863abcdee5ee741fb915be9c2cc",
+    "wof:geomhash":"35b0ebd53d323daa7437f1cb8f4ce436",
     "wof:hierarchy":[],
     "wof:id":957692897,
-    "wof:lastmodified":1472057195,
+    "wof:lastmodified":1510943816,
     "wof:name":"Sherwood Electronics Europe Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957959223
+    ],
+    "wof:supersedes":[
+        119280943
+    ],
     "wof:tags":[]
 },
   "bbox": [

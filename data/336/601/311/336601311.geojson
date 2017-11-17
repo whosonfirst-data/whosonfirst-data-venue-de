@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.81019,50.579708,12.81019,50.579708",
     "geom:latitude":50.579708,
     "geom:longitude":12.81019,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinm\u00fcllerstr. 4",
     "sg:city":"Gr\u00fcnhain",
     "sg:classifiers":[],
@@ -26,7 +29,7 @@
         "sg:id":"SG_0fsWu0T9pzjuLtPVnPzWPF_50.579708_12.810190@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9a3e75be40ec26d5ff8faa00331c58c9",
+    "wof:geomhash":"870e20bba1d9cec3ac3d158d9e025c7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -38,12 +41,14 @@
         }
     ],
     "wof:id":336601311,
-    "wof:lastmodified":1466233549,
+    "wof:lastmodified":1510942046,
     "wof:name":"Stanz- Und Filtertechnik R\u00f6nsch Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320675663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.998082,52.808376,9.998082,52.808376",
     "geom:latitude":52.808376,
     "geom:longitude":9.998082,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bollersener Weg 5",
     "sg:city":"Bergen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_6xMn3jqiQUhUasinaMLjkS_52.808376_9.998082@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"39937b79dabf84c73f65cad4b2af80d2",
+    "wof:geomhash":"d41502ad3773b77b4d18f903dea87023",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":118557543,
-    "wof:lastmodified":1466215747,
+    "wof:lastmodified":1510943208,
     "wof:name":"Lochow-petkus Gmbh",
     "wof:parent_id":85682555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118594653
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

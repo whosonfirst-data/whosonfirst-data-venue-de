@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.567958,52.295055,7.567958,52.295055",
     "geom:latitude":52.295055,
     "geom:longitude":7.567958,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rheiner Str. 55",
     "sg:city":"H\u00f6rstel",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0vk1ta3cbdahd6yCgEdjIl_52.295055_7.567958@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2a8688baca7bd1c1b9c6f04f64409c4b",
+    "wof:geomhash":"b83d6db6d851f4838b7574546a43c1db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":202482761,
-    "wof:lastmodified":1466215276,
+    "wof:lastmodified":1510942130,
     "wof:name":"Dominik Gmbh & Co. Pflanzenvertriebs- Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118597557
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

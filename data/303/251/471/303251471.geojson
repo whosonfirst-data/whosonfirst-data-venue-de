@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.422555,49.429161,8.422555,49.429161",
     "geom:latitude":49.429161,
     "geom:longitude":8.422555,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ludwigshafener Str. 114",
     "sg:city":"Neuhofen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4pqhDYcwSj638Hnu4OQWq7_49.429161_8.422555@1306269132"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ccfeee0846add1fef2242a242d62517e",
+    "wof:geomhash":"7edb55eea149e6a497f2fd77cedaa0f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303251471,
-    "wof:lastmodified":1466230699,
+    "wof:lastmodified":1510943163,
     "wof:name":"Technofond Gie\u00dferei- Hilfsmittel Gmbh",
     "wof:parent_id":85796279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940737965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

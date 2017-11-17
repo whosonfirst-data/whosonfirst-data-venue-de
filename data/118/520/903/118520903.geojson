@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.645148,48.099373,11.645148,48.099373",
     "geom:latitude":48.099373,
     "geom:longitude":11.645148,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Thomas-Dehler-Str. 18::",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1qFKAjQGlDbnNQ26Aq6pNW_48.099373_11.645148@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"429a1aacaf5fab7ac137104e72a8e74e",
+    "wof:geomhash":"0e68cf6e34cf9bf97fb9b4c4d67ce3c4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":118520903,
-    "wof:lastmodified":1466213658,
+    "wof:lastmodified":1510942640,
     "wof:name":"Hfs Immobilienfonds Gmbh",
     "wof:parent_id":85899707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135364535,
+        941099171
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

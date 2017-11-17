@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.017606,53.727623,10.017606,53.727623",
     "geom:latitude":53.727623,
     "geom:longitude":10.017606,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlenweg 131",
     "sg:city":"Norderstedt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_43aJFuPEE8oL4q5LOlbNBK_53.727623_10.017606@1306269130"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bc4d65c472eee30d2e2979524764edcc",
+    "wof:geomhash":"1e835c3e2abefd4ed0f7959e6d965c2d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287285469,
-    "wof:lastmodified":1466232651,
+    "wof:lastmodified":1510942132,
     "wof:name":"Winter Umwelttechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941499517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

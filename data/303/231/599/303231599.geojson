@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.104212,54.367962,10.104212,54.367962",
     "geom:latitude":54.367962,
     "geom:longitude":10.104212,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Projensdorfer Str. 324",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0Vsh3GzLlhCZz0oz9VeXIV_54.367962_10.104212@1306269131"
     },
     "wof:country":"DE",
-    "wof:geomhash":"218fe08b97b1f5e67ee257c30d76ff89",
+    "wof:geomhash":"43e25410c25c7c424f0d6a7e074cc87d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303231599,
-    "wof:lastmodified":1466230222,
+    "wof:lastmodified":1510942426,
     "wof:name":"Walterwerk Kiel Gmbh & Co. Kg",
     "wof:parent_id":85900035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940628543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

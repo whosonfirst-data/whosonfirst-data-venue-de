@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3391275406,51.3306655884,12.3391275406,51.3306655884",
     "geom:latitude":51.330666,
     "geom:longitude":12.339128,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wei\u00dfenfelserstra\u00dfe 15",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472010899,
-    "wof:geomhash":"167fba1ecfd5bb1e330494250bc70e16",
+    "wof:geomhash":"f4ffb54715330f0788f42da5ca76235d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":941045707,
-    "wof:lastmodified":1472010899,
+    "wof:lastmodified":1510942825,
     "wof:name":"Ghi Bauger\u00e4teservice Gmbh",
     "wof:parent_id":85899503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974176607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.296288,47.767693,9.296288,47.767693",
     "geom:latitude":47.767693,
     "geom:longitude":9.296288,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schlossseeallee 30::",
     "sg:city":"Salem",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4rPmEpa8lNx9hzrDZTWXLm_47.767693_9.296288@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"70c72135328482f46953db23a5d66c03",
+    "wof:geomhash":"a10b2f1a33bdd151f34ab3ecac2e8ef5",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":118525263,
-    "wof:lastmodified":1466213963,
+    "wof:lastmodified":1510942611,
     "wof:name":"Sparkasse Salem-heiligenberg",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135443291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

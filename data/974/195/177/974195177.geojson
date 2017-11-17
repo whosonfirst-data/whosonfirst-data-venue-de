@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7908468246,51.2226600647,6.7908468246,51.2226600647",
     "geom:latitude":51.22266,
     "geom:longitude":6.790847,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Immermannstr. 50",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472098077,
-    "wof:geomhash":"888d0c0b926fc738a40506299fb38fb7",
+    "wof:geomhash":"a5974c7e6dcc5acc2acccaf5f37689ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,15 @@
         }
     ],
     "wof:id":974195177,
-    "wof:lastmodified":1472098077,
+    "wof:lastmodified":1510943204,
     "wof:name":"Immobilien-vermietungsges. Dr. R\u00fchl & Co.",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940958367,
+        941098613
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

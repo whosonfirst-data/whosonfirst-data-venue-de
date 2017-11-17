@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.170271,47.985935,10.170271,47.985935",
     "geom:latitude":47.985935,
     "geom:longitude":10.170271,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Buxacher Str. 28",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_6rcIJZoPRHWvq9UKnyHrmp_47.985935_10.170271@1306268882"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c730464910c182697bd9e3bb657bf8e2",
+    "wof:geomhash":"c044edcc95edfb984a3c46ba9cd8d4c2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":152576491,
-    "wof:lastmodified":1466221980,
+    "wof:lastmodified":1510943362,
     "wof:name":"Animal Beteiligungs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135876679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

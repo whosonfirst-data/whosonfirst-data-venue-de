@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.303686,49.78059,12.303686,49.78059",
     "geom:latitude":49.78059,
     "geom:longitude":12.303686,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kellerbrunnen 21 POSTFACH 1165",
     "sg:city":"Pl\u00f6\u00dfberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6OuAfhu75u7VsFGRlVzjaF_49.780590_12.303686@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dabb48588dd1c101ab02a9e4c3594fbe",
+    "wof:geomhash":"689b1375d8d2591952d439d11fdfbace",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320016791,
-    "wof:lastmodified":1466233714,
+    "wof:lastmodified":1510942939,
     "wof:name":"H.g.h. Hildebrandindustriebau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940952857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

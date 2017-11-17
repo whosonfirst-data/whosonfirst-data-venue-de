@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.750963,51.376511,7.750963,51.376511",
     "geom:latitude":51.376511,
     "geom:longitude":7.750963,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ernst-Stenner-Str. 7",
     "sg:city":"Hemer",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0WolXULiSyMjPqmW2eiqC3_51.376511_7.750963@1306269126"
     },
     "wof:country":"DE",
-    "wof:geomhash":"aa05d2595456c058b5943aa5d3ec9410",
+    "wof:geomhash":"a1be364f153e297675555bae8133d311",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286822331,
-    "wof:lastmodified":1466237324,
+    "wof:lastmodified":1510943046,
     "wof:name":"Gede Drahtricht- Technologie Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974460261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.35557,50.664516,10.35557,50.664516",
     "geom:latitude":50.664516,
     "geom:longitude":10.35557,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schwarzbacherstrasse 2",
     "sg:city":"Wasungen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5h8a7CRyWKMi9buLXoe24R_50.664516_10.355570@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a3f5c580dfe43e132d35c3b71d994712",
+    "wof:geomhash":"27423371f9e03586c576fed08127faa4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336631289,
-    "wof:lastmodified":1466234299,
+    "wof:lastmodified":1510944037,
     "wof:name":"Aqua Bau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102630169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

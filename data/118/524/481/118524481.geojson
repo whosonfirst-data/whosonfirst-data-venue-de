@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.492371,51.32262,9.492371,51.32262",
     "geom:latitude":51.32262,
     "geom:longitude":9.492371,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rothenditmolder Str. 21::",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_278EC0Ta3VxHHJHJsibpDI_51.322620_9.492371@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c26b1c31ec675400b5e3517b880a7c92",
+    "wof:geomhash":"36f0c0a5af35dadac0837a33307d31b2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118524481,
-    "wof:lastmodified":1466213909,
+    "wof:lastmodified":1510944056,
     "wof:name":"Schroeder & Dietrich Ohg",
     "wof:parent_id":85905689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974237335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

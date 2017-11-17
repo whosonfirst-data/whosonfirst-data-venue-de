@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.652485,51.836441,6.652485,51.836441",
     "geom:latitude":51.836441,
     "geom:longitude":6.652485,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Bosch-Str. 15",
     "sg:city":"Bocholt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1Bp3iTiFCHzOk8zRVhsRcQ_51.836441_6.652485@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f6abca84fce54a27c7fb88c99333b36d",
+    "wof:geomhash":"c927c55893a5ed6d663199151a0fa6ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252874977,
-    "wof:lastmodified":1466222258,
+    "wof:lastmodified":1510941800,
     "wof:name":"Novo Chem Metallchemie Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118772267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

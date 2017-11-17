@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.4072942734,51.8986053467,9.4072942734,51.8986053467",
     "geom:latitude":51.898605,
     "geom:longitude":9.407294,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amtsstr. 10",
     "sg:city":"Polle",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472008757,
-    "wof:geomhash":"1221316f495fd87426d64f94069d75bb",
+    "wof:geomhash":"b0ffa262f7e8109a77a9e660b4893e59",
     "wof:hierarchy":[],
     "wof:id":940997071,
-    "wof:lastmodified":1472008757,
+    "wof:lastmodified":1510941971,
     "wof:name":"Hotel Zur Burg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957643161
+    ],
+    "wof:supersedes":[
+        957643161
+    ],
     "wof:tags":[]
 },
   "bbox": [

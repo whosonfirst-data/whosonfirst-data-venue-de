@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.982264,51.248341,6.982264,51.248341",
     "geom:latitude":51.248341,
     "geom:longitude":6.982264,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Feldstr. 24 A",
     "sg:city":"Mettmann",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_73Mon1mF0fz4ldXr5eiWpq_51.248341_6.982264@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1fdd3278c1597c47a80d7d9ce5eeec2a",
+    "wof:geomhash":"0c1f018a9187551e10e25e9908d66ddc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319933609,
-    "wof:lastmodified":1466235652,
+    "wof:lastmodified":1510943904,
     "wof:name":"Goldammer Regelungstechnik Gmbh",
     "wof:parent_id":85862931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941438469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

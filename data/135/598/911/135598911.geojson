@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.026247,53.550453,10.026247,53.550453",
     "geom:latitude":53.550453,
     "geom:longitude":10.026247,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heidenkampsweg 40",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1C0bwVrrVLrf0keZyuTPIX_53.550453_10.026247@1306268861"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3a454d3217e27905d2521e4317ccd04d",
+    "wof:geomhash":"125d72b2ec88b18402b0a0efd5ea6184",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":135598911,
-    "wof:lastmodified":1466239196,
+    "wof:lastmodified":1510943596,
     "wof:name":"Kalorimeta Ag & Co.",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941438523,
+        940879569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

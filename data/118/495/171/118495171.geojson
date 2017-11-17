@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.187198,53.56958,10.187198,53.56958",
     "geom:latitude":53.56958,
     "geom:longitude":10.187198,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Von-Bronsart-Str. 4",
     "sg:city":"Barsb\u00fcttel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0y6mzBbD8kRSApv9hhpj0D_53.569580_10.187198@1306268972"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fd8961358374c6521526c32059dcb7f3",
+    "wof:geomhash":"71634f90d10a97225ab13a1cf96fd5f9",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118495171,
-    "wof:lastmodified":1466214325,
+    "wof:lastmodified":1510943505,
     "wof:name":"Rietschfleischwarenfabrik Gmbh",
     "wof:parent_id":101756533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319967493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

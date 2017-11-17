@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.963160038,51.2488212585,6.963160038,51.2488212585",
     "geom:latitude":51.248821,
     "geom:longitude":6.96316,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinestrasse 47",
     "sg:city":"Mettmann",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015664,
-    "wof:geomhash":"9ea5426e8dbdc0af4096c038094dd059",
+    "wof:geomhash":"b0686656cfbbb3475e0010704afe62ce",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941151549,
-    "wof:lastmodified":1472015664,
+    "wof:lastmodified":1510943863,
     "wof:name":"Siegbert Spohr Gmbh",
     "wof:parent_id":85862931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958279537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

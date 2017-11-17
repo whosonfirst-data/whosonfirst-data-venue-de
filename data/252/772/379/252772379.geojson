@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.863896,50.959679,6.863896,50.959679",
     "geom:latitude":50.959679,
     "geom:longitude":6.863896,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Von-Linne-Weg 10",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2aEp4AMqYZKfxQPlBSziFk_50.959679_6.863896@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6a51ca05acb113c18c0db5695eccd4cf",
+    "wof:geomhash":"9e13470b5b3503d70b898e2da6d0255f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252772379,
-    "wof:lastmodified":1466220319,
+    "wof:lastmodified":1510942531,
     "wof:name":"Greentec Gesellschaft F\u00dcrpflanzenbiotechnologie Mbh",
     "wof:parent_id":85794901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940644919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

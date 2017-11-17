@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.84305,48.28265,8.84305,48.28265",
     "geom:latitude":48.28265,
     "geom:longitude":8.84305,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rosenfelderstr. 58",
     "sg:city":"Balingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6G8RVg795Es6sPxtdlpUyb_48.282650_8.843050@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"63e7626557a68c115f770a4d439b09c1",
+    "wof:geomhash":"b4f318f6ee7c658e7adf8af60c08c966",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":253107613,
-    "wof:lastmodified":1466221372,
+    "wof:lastmodified":1510943601,
     "wof:name":"Gebr Stumpp Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958327593
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

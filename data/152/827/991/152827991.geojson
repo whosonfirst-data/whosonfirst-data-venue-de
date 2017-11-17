@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.664028,49.554428,8.664028,49.554428",
     "geom:latitude":49.554428,
     "geom:longitude":8.664028,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00f6hnerweg 2-4",
     "sg:city":"Weinheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1TrSUtl0aIs6TFzXT2JlOh_49.554428_8.664028@1306268889"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e39243cb15663c944528b2ab3fe583a1",
+    "wof:geomhash":"0847e4e4dbf84351c76d7f54a76d9011",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,15 @@
         }
     ],
     "wof:id":152827991,
-    "wof:lastmodified":1466227698,
+    "wof:lastmodified":1510943287,
     "wof:name":"Freudenberg Forschungsdienste Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940643581,
+        940630749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

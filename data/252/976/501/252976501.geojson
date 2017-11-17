@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.14932,51.472252,7.14932,51.472252",
     "geom:latitude":51.472252,
     "geom:longitude":7.14932,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Feldstr. 4",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7BlVkvDKhnflcNMkag4UcZ_51.472252_7.149320@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"25b001263ae7308db0464fcd079e59f0",
+    "wof:geomhash":"13d70261dff9440d0eec5cdf50519d49",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,15 @@
         }
     ],
     "wof:id":252976501,
-    "wof:lastmodified":1466224123,
+    "wof:lastmodified":1510944035,
     "wof:name":"Klaus Steilmann Gmbh & Co Kg",
     "wof:parent_id":85796449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941593181,
+        253751945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

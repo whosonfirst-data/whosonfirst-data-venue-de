@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.239987,52.400486,13.239987,52.400486",
     "geom:latitude":52.400486,
     "geom:longitude":13.239987,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Warthestr. 21",
     "sg:city":"Teltow",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5fCpjcbMeeTqm3DNrD8fzj_52.400486_13.239987@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bcb2675ba1e3433e52e1c5276371a139",
+    "wof:geomhash":"5cdff5b82fc28aeb27e31750b7cb726a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252773707,
-    "wof:lastmodified":1466220347,
+    "wof:lastmodified":1510943625,
     "wof:name":"Wita Gmbh",
     "wof:parent_id":85905641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940636903
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

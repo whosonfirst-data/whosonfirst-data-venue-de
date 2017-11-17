@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.206179,48.809166,9.206179,48.809166",
     "geom:latitude":48.809166,
     "geom:longitude":9.206179,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Glockenstrasse 10",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5VuUWljb1FdGaY4MBbNxoH_48.809166_9.206179@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9a659663a096098b7cf9ebd3ebe15d92",
+    "wof:geomhash":"33149d140d53710be2ad62857a97751f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252997163,
-    "wof:lastmodified":1466224496,
+    "wof:lastmodified":1510943478,
     "wof:name":"Josef Krenn Gmbh & Co.",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958290699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

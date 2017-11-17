@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.432941,52.888412,8.432941,52.888412",
     "geom:latitude":52.888412,
     "geom:longitude":8.432941,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Goldenstedter Str. 22",
     "sg:city":"Wildeshausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2P8sqpNKr80og91yPlaZBz_52.888412_8.432941@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c986b308ca21fd505303736554dd1b05",
+    "wof:geomhash":"762a842fbe3d1f376f8209bf43a5a9d4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118587819,
-    "wof:lastmodified":1466217558,
+    "wof:lastmodified":1510942382,
     "wof:name":"Kreienborg Gefl\u00dcgel- Schlachterei Gmbh",
     "wof:parent_id":101808011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957461881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.966327,53.612656,9.966327,53.612656",
     "geom:latitude":53.612656,
     "geom:longitude":9.966327,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Willhoop 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_57FhQjHF1GrUeDnJIQUBrL_53.612656_9.966327@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1776837de4242f276a805c3dbf80142c",
+    "wof:geomhash":"68f0d32a8f4419158d042e07cc17c123",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270147205,
-    "wof:lastmodified":1466224834,
+    "wof:lastmodified":1510944087,
     "wof:name":"Nexus Technology Gmbh",
     "wof:parent_id":85898947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941157107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

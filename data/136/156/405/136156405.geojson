@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.214878,51.168362,7.214878,51.168362",
     "geom:latitude":51.168362,
     "geom:longitude":7.214878,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berghauser Strasse 62",
     "sg:city":"Remscheid",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4HZ3svGhm1RvewaWo9xnUp_51.168362_7.214878@1306268895"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d1a726f6b8e6306fbc2a1e643edcf447",
+    "wof:geomhash":"91f8e95358588fab64e0ee7b16550c6e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":136156405,
-    "wof:lastmodified":1466219095,
+    "wof:lastmodified":1510941971,
     "wof:name":"Xenon Deutschland Gmbh",
     "wof:parent_id":85862893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        940825555
+    ],
+    "wof:supersedes":[
+        118563321
+    ],
     "wof:tags":[]
 },
   "bbox": [

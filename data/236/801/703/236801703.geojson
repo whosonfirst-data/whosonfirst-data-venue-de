@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.090299,49.848186,9.090299,49.848186",
     "geom:latitude":49.848186,
     "geom:longitude":9.090299,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Obernburger Str 56-58",
     "sg:city":"M\u00f6mlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7hcUJh3eunJtXDzkOq0GnL_49.848186_9.090299@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cb53e70ba276538b6d8d19c6f406833f",
+    "wof:geomhash":"df427950ad6ebe01573869197faee5c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":236801703,
-    "wof:lastmodified":1466233632,
+    "wof:lastmodified":1510941752,
     "wof:name":"Ovg Industrieverpackungs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974488547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

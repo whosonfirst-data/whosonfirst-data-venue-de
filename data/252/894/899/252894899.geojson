@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.528094,52.42889,13.528094,52.42889",
     "geom:latitude":52.42889,
     "geom:longitude":13.528094,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rudower Chaussee 29",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1wxQjf1LwvKW2ozGw3Gu1y_52.428890_13.528094@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"840a4586c75ea3fb8478487b16984892",
+    "wof:geomhash":"b15a681a9c3e95dc6f84558a08438650",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252894899,
-    "wof:lastmodified":1466222623,
+    "wof:lastmodified":1510943354,
     "wof:name":"Heliocentris Energiesysteme Gmbh",
     "wof:parent_id":85900085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303159811
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

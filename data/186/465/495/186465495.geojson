@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.353229,51.511105,12.353229,51.511105",
     "geom:latitude":51.511105,
     "geom:longitude":12.353229,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Delitzscher Str. 23",
     "sg:city":"L\u00f6bnitz",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_7QgYG1noeVBY9Vo76taS0x_51.511105_12.353229@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"30778c31f523ea797ca1fa2a9831f98e",
+    "wof:geomhash":"35c3e0655e2f6c7d732d851328403a7c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":186465495,
-    "wof:lastmodified":1466218118,
+    "wof:lastmodified":1510943821,
     "wof:name":"Heka Fenster Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957450973
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.769895,53.394871,8.769895,53.394871",
     "geom:latitude":53.394871,
     "geom:longitude":8.769895,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Bahn 1",
     "sg:city":"Lunestedt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2fPCCjMlNwzXqfBNB2Su5s_53.394871_8.769895@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2447ab4fe68ba8a39b872965f8cd0687",
+    "wof:geomhash":"ee993bf506294df8c3fad764a94f84c7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118595245,
-    "wof:lastmodified":1466217913,
+    "wof:lastmodified":1510943814,
     "wof:name":"Raiffeisen-warengenossenschaft Lunestedt Eg",
     "wof:parent_id":101806969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974455483
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

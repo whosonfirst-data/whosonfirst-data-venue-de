@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.28218,51.516411,7.28218,51.516411",
     "geom:latitude":51.516411,
     "geom:longitude":7.28218,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinrichstrasse 71",
     "sg:city":"Bochum",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0hXAoj9lJQemf3825NuPqq_51.516411_7.282180@1306268890"
     },
     "wof:country":"DE",
-    "wof:geomhash":"32cec5f696c6e884b86a654779f5531d",
+    "wof:geomhash":"f062b092a854f51b7376cbc3ecfef33c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":136079071,
-    "wof:lastmodified":1466215748,
+    "wof:lastmodified":1510943066,
     "wof:name":"Imb Consult Gmbh",
     "wof:parent_id":85795539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958356863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

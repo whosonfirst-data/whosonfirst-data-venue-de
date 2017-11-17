@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.9867749214,51.9527435303,7.9867749214,51.9527435303",
     "geom:latitude":51.952744,
     "geom:longitude":7.986775,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fcnsterstra\u00dfe 21",
     "sg:city":"Warendorf",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"DE",
     "wof:created":1471987483,
-    "wof:geomhash":"f2d44ef349e4f49bea19108dc17c8aa7",
+    "wof:geomhash":"38f836a43253391b7657e59fb2b6393e",
     "wof:hierarchy":[],
     "wof:id":940575407,
-    "wof:lastmodified":1471987483,
+    "wof:lastmodified":1510943179,
     "wof:name":"Sparkasse Warendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        135444977
+    ],
+    "wof:supersedes":[
+        135366889
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.640776,49.304726,8.640776,49.304726",
     "geom:latitude":49.304726,
     "geom:longitude":8.640776,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-Thoma-Str. 14",
     "sg:city":"Walldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4uAe1rD97oXecI7V5HPjoJ_49.304726_8.640776@1306268910"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1c45b9c248d380d047dc864dfb4e4582",
+    "wof:geomhash":"37c81dbff3f22964d3499a8d98b8111b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102616079,
-    "wof:lastmodified":1466213710,
+    "wof:lastmodified":1510942369,
     "wof:name":"H. Und R. Koch Gmbh",
     "wof:parent_id":101827605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958339515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

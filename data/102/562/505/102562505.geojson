@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.828275,49.825714,8.828275,49.825714",
     "geom:latitude":49.825714,
     "geom:longitude":8.828275,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hahner Str 15",
     "sg:city":"Reinheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2zeVcTIacVnxzUZJRBqPbl_49.825714_8.828275@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c4c685faf7de1d59a1195e48c67170c8",
+    "wof:geomhash":"4db292c46c86ba696ea2242bfa561480",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102562505,
-    "wof:lastmodified":1466232020,
+    "wof:lastmodified":1510941170,
     "wof:name":"Feick Landtechnik Gmbh & Co Kg",
     "wof:parent_id":101813407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118558177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

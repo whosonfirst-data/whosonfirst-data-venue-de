@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.570709,52.273125,9.570709,52.273125",
     "geom:latitude":52.273125,
     "geom:longitude":9.570709,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstra\u00dfe 8",
     "sg:city":"Wennigsen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6dS3OI7BTLV7LbtqixP66n_52.273125_9.570709@1306269143"
     },
     "wof:country":"DE",
-    "wof:geomhash":"29848e040d24bfad097f09e13903a274",
+    "wof:geomhash":"e75af3367f8ee28990a28230ff9d07ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320370803,
-    "wof:lastmodified":1466239928,
+    "wof:lastmodified":1510941949,
     "wof:name":"Reiseb\u00fcro Cruising Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957626323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

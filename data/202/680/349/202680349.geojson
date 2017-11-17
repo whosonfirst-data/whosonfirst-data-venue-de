@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.669709,50.096581,8.669709,50.096581",
     "geom:latitude":50.096581,
     "geom:longitude":8.669709,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kennedyallee 89",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6XGxlFxR4hYKBDZSFcxrue_50.096581_8.669709@1306268902"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dbe512e43d9863515a1fb1168d2a6f0e",
+    "wof:geomhash":"8437b448bfa9c941cc43030a9828ea23",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202680349,
-    "wof:lastmodified":1466219062,
+    "wof:lastmodified":1510941852,
     "wof:name":"Wv Energie Ag",
     "wof:parent_id":85796369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320563815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

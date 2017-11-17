@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7400832176,51.2424316406,6.7400832176,51.2424316406",
     "geom:latitude":51.242432,
     "geom:longitude":6.740083,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Seestern 3",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472022219,
-    "wof:geomhash":"a58a769719a53bd8eb223f0a5b79879e",
+    "wof:geomhash":"59e88b93a49abd75e05b9c0a1de7d38e",
     "wof:hierarchy":[
         {
             "campus_id":102549121,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":941301157,
-    "wof:lastmodified":1472022219,
+    "wof:lastmodified":1510942246,
     "wof:name":"Ventelo Gmbh",
     "wof:parent_id":102549121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958282859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

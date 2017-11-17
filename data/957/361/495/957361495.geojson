@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3500199318,51.4567070007,7.3500199318,51.4567070007",
     "geom:latitude":51.456707,
     "geom:longitude":7.35002,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Liegnitzer Str 1",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472038464,
-    "wof:geomhash":"1a75b057c831ca9f35640a0590674202",
+    "wof:geomhash":"6bace76dcfd929b9d6348592bdff8d32",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":957361495,
-    "wof:lastmodified":1472038464,
+    "wof:lastmodified":1510942715,
     "wof:name":"Offsetdruck Team Gmbh & Co Kg",
     "wof:parent_id":85796543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957472583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

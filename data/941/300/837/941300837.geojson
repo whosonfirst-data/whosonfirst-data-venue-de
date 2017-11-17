@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6383080482,51.9557914734,7.6383080482,51.9557914734",
     "geom:latitude":51.955791,
     "geom:longitude":7.638308,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Soester Str 13",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472022202,
-    "wof:geomhash":"bf3c9975025d85d10814476220e33547",
+    "wof:geomhash":"d83d8b25c8ba92a6e68e93fbf54246ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":941300837,
-    "wof:lastmodified":1472022202,
+    "wof:lastmodified":1510943335,
     "wof:name":"Ics Media Gmbh",
     "wof:parent_id":85863183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941302009
+    ],
+    "wof:supersedes":[
+        269687089
+    ],
     "wof:tags":[]
 },
   "bbox": [

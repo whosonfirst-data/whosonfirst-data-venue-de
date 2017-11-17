@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.057802,53.583851,10.057802,53.583851",
     "geom:latitude":53.583851,
     "geom:longitude":10.057802,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alter Teichweg 63::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2jp24ZlIknnyDVK9jQgg3g_53.583851_10.057802@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8c2957be508b201646b3c0cdeb53b2a2",
+    "wof:geomhash":"a23c4aa816d0cf595e83ec89e62f362a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":118520709,
-    "wof:lastmodified":1466213642,
+    "wof:lastmodified":1510943534,
     "wof:name":"Hansa Tresor Gmbh",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958127117,
+        957392085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

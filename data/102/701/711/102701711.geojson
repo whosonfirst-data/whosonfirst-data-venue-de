@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.112683,49.46682,11.112683,49.46682",
     "geom:latitude":49.46682,
     "geom:longitude":11.112683,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Teutoburger Str 8",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0AZp8sW9l8kJR3j7QGiSp2_49.466820_11.112683@1306268895"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8145a0336b6b05ace360c05ddfab8340",
+    "wof:geomhash":"d0ed5dde31d7fc11a3a3c017e049f894",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102701711,
-    "wof:lastmodified":1466216188,
+    "wof:lastmodified":1510942320,
     "wof:name":"Seeadler-optik",
     "wof:parent_id":85900215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119285423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

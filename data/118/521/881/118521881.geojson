@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.187888,48.894726,9.187888,48.894726",
     "geom:latitude":48.894726,
     "geom:longitude":9.187888,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schillerplatz 6::",
     "sg:city":"Ludwigsburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0LxMf0dF0WZCP1kKKZotEg_48.894726_9.187888@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fc466aef44168774f8f1019e481f2c19",
+    "wof:geomhash":"052b5ca0145ed5d830900fd40a0bf073",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118521881,
-    "wof:lastmodified":1466213726,
+    "wof:lastmodified":1510942000,
     "wof:name":"Kreissparkasse Ludwigsburg",
     "wof:parent_id":101748521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135364803
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

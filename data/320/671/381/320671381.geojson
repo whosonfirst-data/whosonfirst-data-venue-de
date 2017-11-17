@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.040554,49.171032,9.040554,49.171032",
     "geom:latitude":49.171032,
     "geom:longitude":9.040554,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Benzstr. 2",
     "sg:city":"Massenbachhausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2P5bqvAuKc3ztDv98utsve_49.171032_9.040554@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9ef4d5c6105880a8299e7b217c8ee6b5",
+    "wof:geomhash":"254025ce267767f0fd456ec01684e126",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320671381,
-    "wof:lastmodified":1466242266,
+    "wof:lastmodified":1510943956,
     "wof:name":"Sbs Stanzprodukte Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974453487
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

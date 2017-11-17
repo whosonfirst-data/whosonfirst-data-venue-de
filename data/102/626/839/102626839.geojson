@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.489494,49.848045,10.489494,49.848045",
     "geom:latitude":49.848045,
     "geom:longitude":10.489494,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"W\u00fcrzburger Str 11",
     "sg:city":"Ebrach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_16po560gjAiNSi2Ft10K7D_49.848045_10.489494@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b93f83a2f468a7c5f888bedd8d2392ab",
+    "wof:geomhash":"c64f0c72378be1e4343e13613caf87ea",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102626839,
-    "wof:lastmodified":1466213974,
+    "wof:lastmodified":1510942488,
     "wof:name":"Silenta Produktions-gmbh",
     "wof:parent_id":101827153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974386847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

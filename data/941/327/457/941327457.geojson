@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5721039772,51.5016136169,7.5721039772,51.5016136169",
     "geom:latitude":51.501614,
     "geom:longitude":7.572104,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schleefstr. 1",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472023287,
-    "wof:geomhash":"e025d89c97ebe1c819b033262a7fc862",
+    "wof:geomhash":"0b4166ec044812f5c0f15477b808c9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":941327457,
-    "wof:lastmodified":1472023287,
+    "wof:lastmodified":1510941899,
     "wof:name":"Erwin Huchtemeier Mbh & Co. Kg",
     "wof:parent_id":85794747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957683481
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

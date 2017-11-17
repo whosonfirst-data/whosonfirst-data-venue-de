@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.79054,50.891579,14.79054,50.891579",
     "geom:latitude":50.891579,
     "geom:longitude":14.79054,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Stadtgrenze 4",
     "sg:city":"Olbersdorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0VaiXDFuqIAF2BzrvA18xa_50.891579_14.790540@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"40eabcc9dd9cbe5930d669c094380ce2",
+    "wof:geomhash":"14227ba61944ac84d8f44cf5c43bf1b3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336673697,
-    "wof:lastmodified":1466235315,
+    "wof:lastmodified":1510942528,
     "wof:name":"Olbersdorfer Guss Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320244621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

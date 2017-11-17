@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.437151,52.49369,13.437151,52.49369",
     "geom:latitude":52.49369,
     "geom:longitude":13.437151,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reichenberger Str 104",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4G89DiZkjlBPiTkLK526ev_52.493690_13.437151@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ecfd5aa3b765f76c374aa6eb8c53bc34",
+    "wof:geomhash":"a90fa946ec107846541cc51ba9265b1a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102571107,
-    "wof:lastmodified":1466218623,
+    "wof:lastmodified":1510942915,
     "wof:name":"Sehring Audio Systeme Gmbh",
     "wof:parent_id":85928793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957692699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

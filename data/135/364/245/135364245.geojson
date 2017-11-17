@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.668791,50.109623,8.668791,50.109623",
     "geom:latitude":50.109623,
     "geom:longitude":8.668791,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"J\u00fcrgen-Ponto-Pl. 1",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_50CBp94IisFRYHjNU9pUH4_50.109623_8.668791@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b33e965571c7aa546ff5eacca93dccb7",
+    "wof:geomhash":"6896193962d8e90238f0d35581d95e59",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -43,13 +46,18 @@
         }
     ],
     "wof:id":135364245,
-    "wof:lastmodified":1466219364,
+    "wof:lastmodified":1510943953,
     "wof:name":"Dresdner Bank Ag",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957481349,
+        135381629
+    ],
+    "wof:supersedes":[
+        118519629
+    ],
     "wof:tags":[]
 },
   "bbox": [

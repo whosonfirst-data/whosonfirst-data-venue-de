@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.93576,50.919659,6.93576,50.919659",
     "geom:latitude":50.919659,
     "geom:longitude":6.93576,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weisshausstrasse 30",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6xgwyOJ5p4zfHzXVu8V5lF_50.919659_6.935760@1306268942"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c6bd79e141bee6598cd982f3b791ced7",
+    "wof:geomhash":"25c69573d251cc0153b3335f3b07afcc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287004779,
-    "wof:lastmodified":1466225154,
+    "wof:lastmodified":1510942787,
     "wof:name":"Unykat Namefinding Gmbh & Co Kg",
     "wof:parent_id":85795563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286780193
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

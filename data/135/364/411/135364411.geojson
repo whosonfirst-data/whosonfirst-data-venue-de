@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.478562,49.481876,8.478562,49.481876",
     "geom:latitude":49.481876,
     "geom:longitude":8.478562,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Richard-Wagner-Str. 9",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4TyJDhOe79GM6jwNlrgCj5_49.481876_8.478562@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6fa6b9fe9717b74194d6ac99802c2fa3",
+    "wof:geomhash":"40b792f1612f12ae4b5fb9b427cb2756",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135364411,
-    "wof:lastmodified":1466219381,
+    "wof:lastmodified":1510942580,
     "wof:name":"Gebr. R\u00d6chling Kg",
     "wof:parent_id":85796023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320206119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

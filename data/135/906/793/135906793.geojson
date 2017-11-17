@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.667018,52.128883,8.667018,52.128883",
     "geom:latitude":52.128883,
     "geom:longitude":8.667018,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00fcnder Str. 85",
     "sg:city":"Herford",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3bcUbpgIEdMyMvb4M8u5DK_52.128883_8.667018@1306268880"
     },
     "wof:country":"DE",
-    "wof:geomhash":"656e5aa1f1eaf6ea8276df17dda4b8ef",
+    "wof:geomhash":"a0b2eb222262d960acd74204793530b9",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135906793,
-    "wof:lastmodified":1466244567,
+    "wof:lastmodified":1510941300,
     "wof:name":"S & G System-service St\u00e4dte- Und Geb\u00e4ude-",
     "wof:parent_id":85794927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941398051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

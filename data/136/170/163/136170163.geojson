@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.67817,49.400311,8.67817,49.400311",
     "geom:latitude":49.400311,
     "geom:longitude":8.67817,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Czernyring 22",
     "sg:city":"Heidelberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3by1LSSFEE9f7TRuCX2U2G_49.400311_8.678170@1306268895"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4afb57d64235332da789a632fcfb3e10",
+    "wof:geomhash":"3461887de6934c4da0406dc06ef2a1ae",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136170163,
-    "wof:lastmodified":1466219732,
+    "wof:lastmodified":1510942791,
     "wof:name":"Bioreliance Manufacturing Gmbh",
     "wof:parent_id":101748539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940639187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

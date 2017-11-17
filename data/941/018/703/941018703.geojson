@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9206399918,50.8243103027,12.9206399918,50.8243103027",
     "geom:latitude":50.82431,
     "geom:longitude":12.92064,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Annaberger Str 73",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472009727,
-    "wof:geomhash":"f331b8bccbda8b276115b1ada7423527",
+    "wof:geomhash":"e7eedf590109bcde767cfc619ca442c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":941018703,
-    "wof:lastmodified":1472009727,
+    "wof:lastmodified":1510944070,
     "wof:name":"Industriewerk Chemnitz Gmbh",
     "wof:parent_id":85899793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320647827,
+        957906587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

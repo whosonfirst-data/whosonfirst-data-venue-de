@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.23816,49.99538,8.23816,49.99538",
     "geom:latitude":49.99538,
     "geom:longitude":8.23816,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kantstrasse 1::",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1HHTv2hwa0mo4d30w1Dydh_49.995380_8.238160@1306268792"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9b789f20ac3c290ffdb35cfbbec6ff09",
+    "wof:geomhash":"bdc1a9d8985f3ed916a7c681ebc892aa",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118517995,
-    "wof:lastmodified":1466213427,
+    "wof:lastmodified":1510943564,
     "wof:name":"Bausparkasse Mainz Ag",
     "wof:parent_id":101748569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135370621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

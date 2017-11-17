@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.848937,48.436428,11.848937,48.436428",
     "geom:latitude":48.436428,
     "geom:longitude":11.848937,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freisinger Str. 2",
     "sg:city":"Langenbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3L4YTJgztt1GXwNhsMsxmU_48.436428_11.848937@1306269128"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bdf8880782757254a79545d501e7b90f",
+    "wof:geomhash":"153a7477820341bb0c983a6977235399",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287064181,
-    "wof:lastmodified":1466226746,
+    "wof:lastmodified":1510942245,
     "wof:name":"L-g-s Laden- Gastronomie- Handels- Und Service- Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102656243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

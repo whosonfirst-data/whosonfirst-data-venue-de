@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.68162,49.225861,9.68162,49.225861",
     "geom:latitude":49.225861,
     "geom:longitude":9.68162,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Wasserturm 17",
     "sg:city":"Kupferzell",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_02smsS5RVS3BJolSb72Bca_49.225861_9.681620@1306268923"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1e2b80416b512cacd5153d17388096dd",
+    "wof:geomhash":"202d6ab95d42fa2f0e317c9fef28ea7f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":253206033,
-    "wof:lastmodified":1466223214,
+    "wof:lastmodified":1510941780,
     "wof:name":"Hsv Hofmann Schrauben Und Verbindungselemente Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336705949
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

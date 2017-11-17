@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.435752,52.300297,7.435752,52.300297",
     "geom:latitude":52.300297,
     "geom:longitude":7.435752,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hovesaatstr. 6",
     "sg:city":"Rheine",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_26PD4E5Tf7T2r5moJFYrhF_52.300297_7.435752@1306268907"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2bc806867b1d332ec9c77d89a9894870",
+    "wof:geomhash":"bce3f175d8bd33dec442183b9492d8b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":219290905,
-    "wof:lastmodified":1466216763,
+    "wof:lastmodified":1510943218,
     "wof:name":"Kwk Wohnbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135695953
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

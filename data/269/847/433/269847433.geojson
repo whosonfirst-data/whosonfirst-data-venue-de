@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.193819,48.887432,9.193819,48.887432",
     "geom:latitude":48.887432,
     "geom:longitude":9.193819,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stuttgarter Str. 78",
     "sg:city":"Ludwigsburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5oWV2hO0XSoU4LTKgKuvnI_48.887432_9.193819@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b415e26529289e52dda03b0a91dd9aad",
+    "wof:geomhash":"26278f2acad90f2fa32e28c231816747",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269847433,
-    "wof:lastmodified":1466229518,
+    "wof:lastmodified":1510943279,
     "wof:name":"Birdy.net Internet Solutions Gmbh",
     "wof:parent_id":85796651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941308057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.55672,51.356796,7.55672,51.356796",
     "geom:latitude":51.356796,
     "geom:longitude":7.55672,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"F\u00e4rberstr. 4",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6kT6zP4b6uKnPwkksn2rh0_51.356796_7.556720@1306269146"
     },
     "wof:country":"DE",
-    "wof:geomhash":"609c18d3c3ca79e0580b8ecb2fcf8931",
+    "wof:geomhash":"18dc649400cc5384140346d05d20595e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320779655,
-    "wof:lastmodified":1466243140,
+    "wof:lastmodified":1510943209,
     "wof:name":"Menke Gmbh",
     "wof:parent_id":85796017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941149697
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

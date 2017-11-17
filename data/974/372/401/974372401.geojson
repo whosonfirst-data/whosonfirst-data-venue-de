@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5536394119,52.0330505371,8.5536394119,52.0330505371",
     "geom:latitude":52.033051,
     "geom:longitude":8.553639,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eckendorfer Str. 16",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472108478,
-    "wof:geomhash":"315703409780e8b036a234234dbd37fb",
+    "wof:geomhash":"b17325824b2f2f4e53bda41df7467988",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":974372401,
-    "wof:lastmodified":1472108478,
+    "wof:lastmodified":1510942944,
     "wof:name":"Daitronic Nachrichten- Technik Gmbh",
     "wof:parent_id":85796357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941500147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

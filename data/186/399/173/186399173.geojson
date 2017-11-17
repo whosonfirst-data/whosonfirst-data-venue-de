@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.333166,50.993748,11.333166,50.993748",
     "geom:latitude":50.993748,
     "geom:longitude":11.333166,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kromsdorfer Str. 5",
     "sg:city":"Weimar",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_10dSRcvkDZHYD4LkNVRquB_50.993748_11.333166@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a80c02925cfd83d450de309d7afdef61",
+    "wof:geomhash":"42f2eab9613e5859920b6bda30659656",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186399173,
-    "wof:lastmodified":1466217387,
+    "wof:lastmodified":1510941261,
     "wof:name":"Kcd Kunststoffe Additive Und Beratung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102641945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

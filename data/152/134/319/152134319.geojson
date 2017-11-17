@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.605438,52.113495,11.605438,52.113495",
     "geom:latitude":52.113495,
     "geom:longitude":11.605438,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Klausenerstr. 12",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0Zj4vXdC1zskFMI9FFCc6q_52.113495_11.605438@1306268868"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ebfbe7f0ccab7ced5733f876f13bf945",
+    "wof:geomhash":"2dfabde7c57735235f16a0a38a0d15d7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":152134319,
-    "wof:lastmodified":1466219221,
+    "wof:lastmodified":1510944183,
     "wof:name":"Bknw Baukompetenz- Netzwerk Gmbh",
     "wof:parent_id":85899185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941043301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

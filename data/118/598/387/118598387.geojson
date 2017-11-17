@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.124111,51.779072,11.124111,51.779072",
     "geom:latitude":51.779072,
     "geom:longitude":11.124111,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Unter Der Altenburg 3",
     "sg:city":"Quedlinburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7kZKXBD05LYorHu0tArQ6U_51.779072_11.124111@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e30d454158bd5cda309391ee5f6f2568",
+    "wof:geomhash":"ba2be35d2ab14013291caa0d2585c063",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118598387,
-    "wof:lastmodified":1466218110,
+    "wof:lastmodified":1510941934,
     "wof:name":"H & W Saatzuchtquedlinburg Gmbh",
     "wof:parent_id":101820903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102561261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.063025,52.387779,8.063025,52.387779",
     "geom:latitude":52.387779,
     "geom:longitude":8.063025,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Im Alten Dorf 31",
     "sg:city":"Bramsche",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_03P3cOLBKLyk2xDJ9aEXpr_52.387779_8.063025@1306268951"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ee98b1a88b47ae88d976b81a9b145dc3",
+    "wof:geomhash":"e7f78f5e5f0b5c5095854512c9bf0bb1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":303777349,
-    "wof:lastmodified":1466240346,
+    "wof:lastmodified":1510943209,
     "wof:name":"G\u00fcnther Herrling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941309089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

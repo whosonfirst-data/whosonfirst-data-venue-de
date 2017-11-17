@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.2001028061,51.2735481262,7.2001028061,51.2735481262",
     "geom:latitude":51.273548,
     "geom:longitude":7.200103,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlenweg 17-37",
     "sg:city":"Wuppertal",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472002860,
-    "wof:geomhash":"3b3e842e45cf6e67ce32b5a9837e70b3",
+    "wof:geomhash":"3103798faf24481e1f47bd841086a5b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":940875495,
-    "wof:lastmodified":1472002860,
+    "wof:lastmodified":1510943680,
     "wof:name":"Vorwerk & Co. Kg",
     "wof:parent_id":85795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940963055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

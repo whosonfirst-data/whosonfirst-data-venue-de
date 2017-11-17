@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.459295,51.307426,12.459295,51.307426",
     "geom:latitude":51.307426,
     "geom:longitude":12.459295,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Christian-Grunert-Str 2",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7GQ5kmEtWwFGAl3EoTtrjQ_51.307426_12.459295@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a917935124d06550160ab5de7100444f",
+    "wof:geomhash":"b5e040d44b6dce19bb7bbb5435b97afd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303088243,
-    "wof:lastmodified":1466226698,
+    "wof:lastmodified":1510942022,
     "wof:name":"Sprio Gmbh",
     "wof:parent_id":85900289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957487785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

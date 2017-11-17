@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.780499,51.041748,13.780499,51.041748",
     "geom:latitude":51.041748,
     "geom:longitude":13.780499,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bertolt-Brecht-Allee 24",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4hfmnX7ilwJKpAQRZGM3Yd_51.041748_13.780499@1306269131"
     },
     "wof:country":"DE",
-    "wof:geomhash":"db20ca6354c8a1f7dac6f0cdfc22d879",
+    "wof:geomhash":"c6b5fc7983bd898365cd8c42919786ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303145873,
-    "wof:lastmodified":1466228084,
+    "wof:lastmodified":1510943745,
     "wof:name":"Sysmik Gmbh",
     "wof:parent_id":85900115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957478235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.946782,53.551575,9.946782,53.551575",
     "geom:latitude":53.551575,
     "geom:longitude":9.946782,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jessenstr. 4",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_531aB3MVCpbtGh3wJjSGT7_53.551575_9.946782@1306269143"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f14e9678b7a7f0bd1f7f08b617f64c44",
+    "wof:geomhash":"b92c0be533203cde7ad1f4e949fc7eec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320445865,
-    "wof:lastmodified":1466240579,
+    "wof:lastmodified":1510943551,
     "wof:name":"Model-tray Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940878649
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.098159,53.588966,10.098159,53.588966",
     "geom:latitude":53.588966,
     "geom:longitude":10.098159,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Friedrich-Ebert-Damm 143",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_001mHhNKLmZ6h3gLjN2h4q_53.588966_10.098159@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3f9dddc5f6ef87ba8f2ae90eecbf88b0",
+    "wof:geomhash":"afee32e3ee786e4a59dc41ca127e191f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135364277,
-    "wof:lastmodified":1466219369,
+    "wof:lastmodified":1510943276,
     "wof:name":"Ermewa Gmbh",
     "wof:parent_id":85899293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974177741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

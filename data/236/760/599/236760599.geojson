@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.48074,48.05994,8.48074,48.05994",
     "geom:latitude":48.05994,
     "geom:longitude":8.48074,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Auf der Steig 6",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6Ch8o6y2vtRTzc5geu7srl_48.059940_8.480740@1306268918"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b5d2bb1daf118af5070902cdb099b3f1",
+    "wof:geomhash":"a4b90d36385c8b4e1051de00773f9702",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":236760599,
-    "wof:lastmodified":1466232839,
+    "wof:lastmodified":1510943820,
     "wof:name":"Intercard Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941440197,
+        320493277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

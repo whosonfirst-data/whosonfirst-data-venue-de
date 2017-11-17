@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.710413,50.586884,8.710413,50.586884",
     "geom:latitude":50.586884,
     "geom:longitude":8.710413,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gr\u00fcnberger Str 140",
     "sg:city":"Gie\u00dfen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2tzwMc8abw7UKzGLQXRYTz_50.586884_8.710413@1306268918"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fb483590927d88c2618434458cddd404",
+    "wof:geomhash":"bb8cf68ec60c3d62753daaa52cdf49ce",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102626265,
-    "wof:lastmodified":1466213960,
+    "wof:lastmodified":1510942064,
     "wof:name":"Cambium Holzbau Gmbh & Co Kg",
     "wof:parent_id":101748589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974503189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

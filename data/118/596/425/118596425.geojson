@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.015526,53.544724,10.015526,53.544724",
     "geom:latitude":53.544724,
     "geom:longitude":10.015526,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lippeltstr. 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0r7l2GnCqsGP5ySv8Bl5IU_53.544724_10.015526@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dba469386d98c03025a0fdc34427a8ed",
+    "wof:geomhash":"a8653f62b072f70e8471e4c84de77c0b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118596425,
-    "wof:lastmodified":1466217991,
+    "wof:lastmodified":1510942417,
     "wof:name":"T. Port Gmbh & Co",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957350777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

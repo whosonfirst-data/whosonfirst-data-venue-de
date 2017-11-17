@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.882485,51.544044,9.882485,51.544044",
     "geom:latitude":51.544044,
     "geom:longitude":9.882485,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-B\u00f6ckler-Str 25",
     "sg:city":"G\u00f6ttingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2htUVYri3kLxOkpA7ft0WA_51.544044_9.882485@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cadfbdd9415c2a638247fabda9c5001e",
+    "wof:geomhash":"d4193ff859625aa0a803f0b118d7894b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319970089,
-    "wof:lastmodified":1466236057,
+    "wof:lastmodified":1510943042,
     "wof:name":"Fleischwaren-wulff Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940627667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

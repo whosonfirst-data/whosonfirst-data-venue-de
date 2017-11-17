@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.507282,51.57505,7.507282,51.57505",
     "geom:latitude":51.57505,
     "geom:longitude":7.507282,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Altenderner Str. 219a POSTFACH 100443",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_69Wpu6FqkeaTaAr3dZhqJo_51.575050_7.507282@1306268923"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e45b4769582a40cb3940fcec179aaa01",
+    "wof:geomhash":"3a25ce71bfcc7d654b815eda4c7a28ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253172415,
-    "wof:lastmodified":1466222615,
+    "wof:lastmodified":1510941277,
     "wof:name":"Theodor Bergmann Gmbh & Co.",
     "wof:parent_id":85795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102630417
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

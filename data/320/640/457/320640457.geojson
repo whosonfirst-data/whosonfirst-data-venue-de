@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.493069,52.318768,10.493069,52.318768",
     "geom:latitude":52.318768,
     "geom:longitude":10.493069,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grotrian-Steinweg-Str. 9",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0kqV9lbooZoklFA7OJfg6M_52.318768_10.493069@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b13636b9e9688836e0b8b4c961864858",
+    "wof:geomhash":"451cc94a9b4c9a4f8d3e41ab27567514",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320640457,
-    "wof:lastmodified":1466242071,
+    "wof:lastmodified":1510941695,
     "wof:name":"G\u00dcnter Waldhelm Korrosionsschutz Gmbh",
     "wof:parent_id":85905767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940979023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

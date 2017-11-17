@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.980882,53.60146,9.980882,53.60146",
     "geom:latitude":53.60146,
     "geom:longitude":9.980882,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nedderfeld 95",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4pYwb3X18fPj3RmYnJ40JY_53.601460_9.980882@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"638f9055fd0c8a275bcecaeec5aba55a",
+    "wof:geomhash":"dd4edf6ea62898184d634d5f165abb40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":270358823,
-    "wof:lastmodified":1466229946,
+    "wof:lastmodified":1510942994,
     "wof:name":"Ald Autoleasing D Gmbh",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        974145913
+    ],
+    "wof:supersedes":[
+        135368407
+    ],
     "wof:tags":[]
 },
   "bbox": [

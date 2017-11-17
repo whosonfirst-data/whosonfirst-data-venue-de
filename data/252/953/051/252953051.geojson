@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.22779,47.872833,10.22779,47.872833",
     "geom:latitude":47.872833,
     "geom:longitude":10.22779,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kemptenerstr. 52",
     "sg:city":"Gr\u00f6nenbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4FgTnSltFBd3nxjhzIu6ak_47.872833_10.227790@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"279f30ee97d5f1ba74dca159af61adee",
+    "wof:geomhash":"76d73f4426954a0d413b1d29ea250114",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252953051,
-    "wof:lastmodified":1466223713,
+    "wof:lastmodified":1510941893,
     "wof:name":"Nitzsche Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135798899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

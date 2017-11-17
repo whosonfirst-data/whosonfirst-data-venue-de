@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.070415,51.459888,7.070415,51.459888",
     "geom:latitude":51.459888,
     "geom:longitude":7.070415,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00e4ngebank 6",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3rKJF8GtgCTir25ymkdKoO_51.459888_7.070415@1306268855"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e7685eff3d0f71f2ae867c800958c69d",
+    "wof:geomhash":"943fea146feafd9010ea08f3ed6d76de",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135487177,
-    "wof:lastmodified":1466230483,
+    "wof:lastmodified":1510942470,
     "wof:name":"Kunststoffe Beumers Gmbh & Co. Kg",
     "wof:parent_id":85865109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957454787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

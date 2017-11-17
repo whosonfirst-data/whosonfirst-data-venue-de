@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.242724,50.077549,8.242724,50.077549",
     "geom:latitude":50.077549,
     "geom:longitude":8.242724,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 18",
     "sg:city":"Wiesbaden",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1m5MvGmsx7AOYJrycFkmDg_50.077549_8.242724@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"99470d79a3994b27245db3b347204dd0",
+    "wof:geomhash":"d1ee46f662ffb90ddfb302aa9c0f9c03",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135365065,
-    "wof:lastmodified":1466219449,
+    "wof:lastmodified":1510942070,
     "wof:name":"Piag Pannonia Investitions-ag",
     "wof:parent_id":85795157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135934719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

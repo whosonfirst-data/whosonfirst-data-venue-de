@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.668309,50.108509,8.668309,50.108509",
     "geom:latitude":50.108509,
     "geom:longitude":8.668309,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserstrasse 56",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -27,10 +30,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":437334115,
         "sg:id":"SG_5yJzzIoyApAXcmaVfb6f9n_50.108509_8.668309@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"50d97ec8e640889f5c3c85f934ff76a6",
+    "wof:geomhash":"373c105785eccee55f440159b212b7f7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +47,17 @@
         }
     ],
     "wof:id":320344891,
-    "wof:lastmodified":1466239455,
+    "wof:lastmodified":1510943076,
     "wof:name":"Hermes Apotheke",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        118893953
+    ],
+    "wof:supersedes":[
+        118893953
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.27884,48.81525,9.27884,48.81525",
     "geom:latitude":48.81525,
     "geom:longitude":9.27884,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schorndorfer Str 31",
     "sg:city":"Fellbach",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_22ibw617psxPVPiKeYFbA7_48.815250_9.278840@1306268918"
     },
     "wof:country":"DE",
-    "wof:geomhash":"625f603b046ffaa0451c3756d5e04cb4",
+    "wof:geomhash":"e43a36f9e7c946c319a87cb3f58dabcd",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102625521,
-    "wof:lastmodified":1466213943,
+    "wof:lastmodified":1510943534,
     "wof:name":"Walter Vetter Karosserie- Und Fahrzeugbau Gmbh",
     "wof:parent_id":85794875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941502251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

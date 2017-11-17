@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.264161,47.628819,8.264161,47.628819",
     "geom:latitude":47.628819,
     "geom:longitude":8.264161,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karl-Benz-Str 5-9",
     "sg:city":"Waldshut-Tiengen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3YvBTSGxwP19pBpmLpCK4P_47.628819_8.264161@1306268989"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3851bcc6cf0973fa78a53b18570cd331",
+    "wof:geomhash":"cef9094ba38a3ef4af4d8c1f56f29465",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118515671,
-    "wof:lastmodified":1466213283,
+    "wof:lastmodified":1510944119,
     "wof:name":"Emil Laier Gmbh & Co Kg",
     "wof:parent_id":101828627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135650099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

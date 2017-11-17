@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.245797,50.617054,12.245797,50.617054",
     "geom:latitude":50.617054,
     "geom:longitude":12.245797,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Andreas-Schubert-Str 6b",
     "sg:city":"Netzschkau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0UqZdghMs4hDj6pxHVcIX0_50.617054_12.245797@1306268854"
     },
     "wof:country":"DE",
-    "wof:geomhash":"df512adf18badadb0f2dca3849640db5",
+    "wof:geomhash":"ea44d0687ed2daa0e3debf21da8a99ea",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102675739,
-    "wof:lastmodified":1466215440,
+    "wof:lastmodified":1510943917,
     "wof:name":"Datec Netzwerke & Druckerl\u00f6sungen Gmbh",
     "wof:parent_id":101841185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957944109
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

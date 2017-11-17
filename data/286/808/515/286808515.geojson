@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.191107,49.050385,9.191107,49.050385",
     "geom:latitude":49.050385,
     "geom:longitude":9.191107,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Landelstr. 24",
     "sg:city":"Neckarwestheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_18aJSKGnwe6sWtkE4FtbXD_49.050385_9.191107@1306269126"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5b9bacf77c0d98403e61cd89274db24d",
+    "wof:geomhash":"d582a229321fbd6c0ec6b1c8e67c8ab9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286808515,
-    "wof:lastmodified":1466237071,
+    "wof:lastmodified":1510942375,
     "wof:name":"Tdm-spindeltechnologie Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941150307
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

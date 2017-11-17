@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9138097763,50.7941627502,12.9138097763,50.7941627502",
     "geom:latitude":50.794163,
     "geom:longitude":12.91381,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schulstr. 38",
     "sg:city":"Chemnitz",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471994061,
-    "wof:geomhash":"f0f000ad66336ee2011f1734a9ff16f4",
+    "wof:geomhash":"a870fa2b268c6027779b38ae1d581ca1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":940701057,
-    "wof:lastmodified":1471994061,
+    "wof:lastmodified":1510943238,
     "wof:name":"Telco Informationssysteme Gmbh",
     "wof:parent_id":85898991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958282789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

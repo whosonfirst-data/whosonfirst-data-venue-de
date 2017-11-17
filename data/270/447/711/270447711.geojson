@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.044394,52.276001,8.044394,52.276001",
     "geom:latitude":52.276001,
     "geom:longitude":8.044394,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Krahnstra\u00dfe 30",
     "sg:city":"Osnabr\u00fcck",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6PirIHCrrd20djdSP1BYHI_52.276001_8.044394@1306268936"
     },
     "wof:country":"DE",
-    "wof:geomhash":"91b64370e597b0f4cc00178e4e60f855",
+    "wof:geomhash":"f6360a5d34b28aca92a4f2cda8ae2be9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270447711,
-    "wof:lastmodified":1466232312,
+    "wof:lastmodified":1510943704,
     "wof:name":"Photo Stange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940699891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

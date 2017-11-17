@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.170679,50.416042,12.170679,50.416042",
     "geom:latitude":50.416042,
     "geom:longitude":12.170679,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grabenstrasse 24",
     "sg:city":"Oelsnitz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_28CMZ1EZOXxMEngvVz3ZlW_50.416042_12.170679@1306268889"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8dc1d0c2cb5fe3b25feceea77300d484",
+    "wof:geomhash":"7c3a67d960f7b7a9ca7f3dfee4cd8d27",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136055395,
-    "wof:lastmodified":1466214685,
+    "wof:lastmodified":1510941535,
     "wof:name":"Elster Apotheke",
     "wof:parent_id":101824493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118813507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

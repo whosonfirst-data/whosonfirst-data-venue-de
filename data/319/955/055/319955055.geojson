@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.636499,51.227264,7.636499,51.227264",
     "geom:latitude":51.227264,
     "geom:longitude":7.636499,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lennestr. 2 POSTFACH 2760",
     "sg:city":"L\u00fcdenscheid",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3RgMEKGtdGIMSRVZUU3cjD_51.227264_7.636499@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e8ced1017f0e727238e24956b638d3b8",
+    "wof:geomhash":"f6168ede762f9c7e63313401d6547f6c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319955055,
-    "wof:lastmodified":1466235730,
+    "wof:lastmodified":1510941301,
     "wof:name":"Stadtwerke L\u00dcdenscheid Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320680205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.380562,51.908291,8.380562,51.908291",
     "geom:latitude":51.908291,
     "geom:longitude":8.380562,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berlinerstrasse 64::",
     "sg:city":"Guetersloh",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6DeYylfMUnxzJ1l8uQXbrr_51.908291_8.380562@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1dddc6825ef383c78ea007881663637b",
+    "wof:geomhash":"9edc40dd265e2d71693a2da2e64f88c9",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118524941,
-    "wof:lastmodified":1466213942,
+    "wof:lastmodified":1510941251,
     "wof:name":"Sparkasse Guetersloh",
     "wof:parent_id":101748773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135437631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

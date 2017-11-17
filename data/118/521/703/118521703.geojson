@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.16535,50.147366,7.16535,50.147366",
     "geom:latitude":50.147366,
     "geom:longitude":7.16535,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Br\u00fcckenstr. 2::",
     "sg:city":"Cochem",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5tEADUNWLZo00lpvr8sBQJ_50.147366_7.165350@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ac2b958c5c2a9d6549fcb31d7aacce2c",
+    "wof:geomhash":"a8218090fa88105cb4b403e676a5d83f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118521703,
-    "wof:lastmodified":1466213718,
+    "wof:lastmodified":1510943396,
     "wof:name":"Kreissparkasse Cochem-zell",
     "wof:parent_id":101811989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135404479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

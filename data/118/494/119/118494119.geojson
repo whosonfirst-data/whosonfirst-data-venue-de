@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.573726,49.949368,11.573726,49.949368",
     "geom:latitude":49.949368,
     "geom:longitude":11.573726,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Friedrich-Puchta-Str 6",
     "sg:city":"Bayreuth",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2IrMI4v24eAAdwc93lwUEe_49.949368_11.573726@1306268971"
     },
     "wof:country":"DE",
-    "wof:geomhash":"af9fbe4177715b4aba8d0f428f0f5d05",
+    "wof:geomhash":"ed70846d7258f21f6898a78848d8ab15",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118494119,
-    "wof:lastmodified":1466214007,
+    "wof:lastmodified":1510944031,
     "wof:name":"Ilec Industrie- Und Luftfahrt-elektronik Gmbh",
     "wof:parent_id":101748565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119449293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.588851,48.161182,11.588851,48.161182",
     "geom:latitude":48.161182,
     "geom:longitude":11.588851,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"feilitzsch 12",
     "sg:city":"Muenchen deutschland",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5xUOQayvVYZ8hT286GzL7D_48.161182_11.588851@1306268892"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7321025d7f9ff6c6e87f6fe86d8b9caf",
+    "wof:geomhash":"b5fb9fb1c9f14746b52fbc60a82601a6",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":152920835,
-    "wof:lastmodified":1466229913,
+    "wof:lastmodified":1510943447,
     "wof:name":"Restaurant-drugstore",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152920865
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

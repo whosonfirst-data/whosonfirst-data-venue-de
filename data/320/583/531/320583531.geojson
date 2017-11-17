@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.513444,48.859257,10.513444,48.859257",
     "geom:latitude":48.859257,
     "geom:longitude":10.513444,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbestr. 11",
     "sg:city":"N\u00f6rdlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4WPiSdv95HmK3WQysez3gH_48.859257_10.513444@1306268960"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c4ea91a70366ed94a9c0988568a308ef",
+    "wof:geomhash":"7f8abf4dec0f55d00cd15f775f3f56e3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320583531,
-    "wof:lastmodified":1466241721,
+    "wof:lastmodified":1510941779,
     "wof:name":"Pfannen Valeri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957933803
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

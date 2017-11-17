@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.74594,52.328518,8.74594,52.328518",
     "geom:latitude":52.328518,
     "geom:longitude":8.74594,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eickhorsterstr. 47",
     "sg:city":"Hille",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3ppGcHyuVx8sonl7UKH1uO_52.328518_8.745940@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6d2d1f651902dc2c4f72f19807668294",
+    "wof:geomhash":"1609eb75ddddc729f06ee0f6edd7c1a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320008049,
-    "wof:lastmodified":1466233506,
+    "wof:lastmodified":1510941403,
     "wof:name":"Gast Fl\u00c4chenheizungen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236938991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

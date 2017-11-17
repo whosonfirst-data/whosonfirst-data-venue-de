@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7914171219,53.1020851135,8.7914171219,53.1020851135",
     "geom:latitude":53.102085,
     "geom:longitude":8.791417,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fiegenstr. 2a",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472032267,
-    "wof:geomhash":"b28a4834652a8557e97ad36906e09e2e",
+    "wof:geomhash":"2e5cb781cb79094c7a10ab88ea84e936",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,13 +43,19 @@
         }
     ],
     "wof:id":941527069,
-    "wof:lastmodified":1472032267,
+    "wof:lastmodified":1510943533,
     "wof:name":"Gerd Haineman",
     "wof:parent_id":85796203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941531475
+    ],
+    "wof:supersedes":[
+        957699701,
+        119425919,
+        940950887
+    ],
     "wof:tags":[]
 },
   "bbox": [

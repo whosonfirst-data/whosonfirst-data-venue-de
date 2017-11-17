@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0578022003,53.5838508606,10.0578022003,53.5838508606",
     "geom:latitude":53.583851,
     "geom:longitude":10.057802,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alter Teichweg 63",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472039773,
-    "wof:geomhash":"b90732d03c5f67d040f4968cfa7c763b",
+    "wof:geomhash":"aa4f07c095e164c8473b47ab505bc4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":957392085,
-    "wof:lastmodified":1472039773,
+    "wof:lastmodified":1510943534,
     "wof:name":"Hansa-tresor Gmbh",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        958127117
+    ],
+    "wof:supersedes":[
+        118520709
+    ],
     "wof:tags":[]
 },
   "bbox": [

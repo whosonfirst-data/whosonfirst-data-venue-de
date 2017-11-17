@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.947844,50.914211,6.947844,50.914211",
     "geom:latitude":50.914211,
     "geom:longitude":6.947844,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Homburger Str. 22",
     "sg:city":"K\u00f6ln-Zollstock",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2bktOLtFtajGP81tIQ2N18_50.914211_6.947844@1306268936"
     },
     "wof:country":"DE",
-    "wof:geomhash":"78bab20e33278c761117d937c64b0cc7",
+    "wof:geomhash":"0ba6bf7e5d7f957b283784336f298909",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270439171,
-    "wof:lastmodified":1466232093,
+    "wof:lastmodified":1510942146,
     "wof:name":"Kopp Veranstaltungs Gmbh",
     "wof:parent_id":85795563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974444793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

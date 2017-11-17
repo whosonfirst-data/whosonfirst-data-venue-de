@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.827497,51.216457,6.827497,51.216457",
     "geom:latitude":51.216457,
     "geom:longitude":6.827497,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"K\u00f6nigsberger Str. 80",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1tEJErFSFQvXkstGRulVJx_51.216457_6.827497@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dc92640f8ec8359834f698d98e1575b9",
+    "wof:geomhash":"14712a3df5ad3ab1eda978c4fc931340",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":336648043,
-    "wof:lastmodified":1466234709,
+    "wof:lastmodified":1510943532,
     "wof:name":"Thyssenkrupp Stahlkontor Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940738089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

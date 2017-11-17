@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.284966,50.550743,12.284966,50.550743",
     "geom:latitude":50.550743,
     "geom:longitude":12.284966,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herlasgr\u00fcner Stra\u00dfe 99",
     "sg:city":"Treuen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5MFEJBQ4LX1EbZdgJEgzFj_50.550743_12.284966@1306268926"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7f760c0a0dda4983dc8c0a8277dc9ac7",
+    "wof:geomhash":"852bda09df19618da2388d0c9c3db68b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102633125,
-    "wof:lastmodified":1466214169,
+    "wof:lastmodified":1510942763,
     "wof:name":"Vollmer Aluminium Gmbh & Co.kg",
     "wof:parent_id":101824547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119441625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

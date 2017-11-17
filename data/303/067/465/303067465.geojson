@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.047968,51.855278,12.047968,51.855278",
     "geom:latitude":51.855278,
     "geom:longitude":12.047968,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dessauer Str 14",
     "sg:city":"Aken",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4mJU8Jee62WaOuvcUgeVUj_51.855278_12.047968@1306268945"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3e1ff2a51a0fdefe926e77d85cb1b365",
+    "wof:geomhash":"fd4d5a47811f24e242983f37441d9788",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303067465,
-    "wof:lastmodified":1466226191,
+    "wof:lastmodified":1510942639,
     "wof:name":"Tischlerei Ende Ek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119379415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

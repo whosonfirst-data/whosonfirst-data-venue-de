@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.869134,51.170876,6.869134,51.170876",
     "geom:latitude":51.170876,
     "geom:longitude":6.869134,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bayreuther Str. 67",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7QEdRqIxaNm0fYKfmxJL62_51.170876_6.869134@1306268949"
     },
     "wof:country":"DE",
-    "wof:geomhash":"eb5fc0e4e96468a858bec90d03e486b9",
+    "wof:geomhash":"3737e4aee582ed53c8cec7ddb7bdd59b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303557791,
-    "wof:lastmodified":1466237368,
+    "wof:lastmodified":1510942342,
     "wof:name":"Wilhelm R\u00f6sler Stahlstich- Pr\u00e4gedruck Gmbh",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957474251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

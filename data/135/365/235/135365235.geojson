@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.194676,48.593548,13.194676,48.593548",
     "geom:latitude":48.593548,
     "geom:longitude":13.194676,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stadtpl. 36",
     "sg:city":"Vilshofen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0910slFge96GYSHctLVHJ4_48.593548_13.194676@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3d446bd687ab98adb05dd159c06ef287",
+    "wof:geomhash":"75d7fc46e6a70bdeae8fcb600450962a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":135365235,
-    "wof:lastmodified":1466219465,
+    "wof:lastmodified":1510942389,
     "wof:name":"Raiffeisenbank Vilshofener Land Eg",
     "wof:parent_id":85682571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135429451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

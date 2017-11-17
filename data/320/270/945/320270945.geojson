@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.170884,47.989494,10.170884,47.989494",
     "geom:latitude":47.989494,
     "geom:longitude":10.170884,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Buxheimer Str. 48",
     "sg:city":"Memmingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0jfsPnvNIlXda2emSNqs97_47.989494_10.170884@1306268957"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9b72f993ce4fe9906f3fe085dc7a5c3c",
+    "wof:geomhash":"e82b62c219c5fd8bc06468dcede58bdc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320270945,
-    "wof:lastmodified":1466238494,
+    "wof:lastmodified":1510942826,
     "wof:name":"Der Neue Zeile E. K.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102724431
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

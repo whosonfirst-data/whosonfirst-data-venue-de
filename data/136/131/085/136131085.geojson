@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.948404,48.494293,7.948404,48.494293",
     "geom:latitude":48.494293,
     "geom:longitude":7.948404,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Unterer Mattenweg 4",
     "sg:city":"Offenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7A9qp7rO9TFjHpDLAL9al0_48.494293_7.948404@1306268893"
     },
     "wof:country":"DE",
-    "wof:geomhash":"619ebc051069131b30f6e4a0321f98c8",
+    "wof:geomhash":"f65a6659edd56c26cd20871a0554c4da",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136131085,
-    "wof:lastmodified":1466218030,
+    "wof:lastmodified":1510942371,
     "wof:name":"Strumpf-mode",
     "wof:parent_id":101748497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        136131135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

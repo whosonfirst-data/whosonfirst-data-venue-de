@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.196727,52.075478,8.196727,52.075478",
     "geom:latitude":52.075478,
     "geom:longitude":8.196727,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dissener Str 5",
     "sg:city":"Versmold",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_573gNVwhjZPmBPnQbYJ9Gu_52.075478_8.196727@1306268944"
     },
     "wof:country":"DE",
-    "wof:geomhash":"495283f13934af283f5b95aa11442477",
+    "wof:geomhash":"befe0a9ce1d34e93aa4136a895a2c30a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":287187601,
-    "wof:lastmodified":1466230103,
+    "wof:lastmodified":1510943026,
     "wof:name":"Berg\u00e9 & Co Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102742111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

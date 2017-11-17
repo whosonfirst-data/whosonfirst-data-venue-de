@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.829595,52.421249,7.829595,52.421249",
     "geom:latitude":52.421249,
     "geom:longitude":7.829595,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Auf der Westerlage 1-5",
     "sg:city":"Neuenkirchen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_30cf9345c2Q61ZEgZkkxKc_52.421249_7.829595@1306268923"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e6e179c544d7075cbf15a971dd3a90cf",
+    "wof:geomhash":"8ffc86ded5fbeefe2062d8aed4456340",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":253194891,
-    "wof:lastmodified":1466223015,
+    "wof:lastmodified":1510941272,
     "wof:name":"Paul Mertens Molkerei Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253582505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

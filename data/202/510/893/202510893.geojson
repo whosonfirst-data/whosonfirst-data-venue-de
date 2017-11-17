@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.00972,50.866348,8.00972,50.866348",
     "geom:latitude":50.866348,
     "geom:longitude":8.00972,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eiserfelder Str 22",
     "sg:city":"Siegen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_29QGuKX3zX2rKGkK1gjDzn_50.866348_8.009720@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dca47dd30f3f44ad7dfce6a88d57c326",
+    "wof:geomhash":"246b6a212a0235512f92ed99797bd452",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202510893,
-    "wof:lastmodified":1466215838,
+    "wof:lastmodified":1510943632,
     "wof:name":"J\u00fcnger Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320651591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

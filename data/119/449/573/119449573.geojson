@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.696782,50.007587,8.696782,50.007587",
     "geom:latitude":50.007587,
     "geom:longitude":8.696782,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Daimlerstr. 13",
     "sg:city":"Dreieich",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_33kCFVajS5ksq7xGDONLkG_50.007587_8.696782@1306268837"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5c3c20d4f4eca7eb956b6b92767c91ec",
+    "wof:geomhash":"74d16cb99b8174241fcaf2471d3f8305",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":119449573,
-    "wof:lastmodified":1466242556,
+    "wof:lastmodified":1510942011,
     "wof:name":"Warning-opto-elektronik -gmbh & Co. Produktions Kg",
     "wof:parent_id":101811755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941147085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.222921,51.832287,12.222921,51.832287",
     "geom:latitude":51.832287,
     "geom:longitude":12.222921,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brauereistr. 13",
     "sg:city":"Dessau",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6VNj7PgDuTl67CTlehW0A0_51.832287_12.222921@1306268910"
     },
     "wof:country":"DE",
-    "wof:geomhash":"710ee52e9b62ab72f3d2878a668e4287",
+    "wof:geomhash":"c5ef060adccf9f028bf4639a82c9e7e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":219748749,
-    "wof:lastmodified":1466225264,
+    "wof:lastmodified":1510944158,
     "wof:name":"B\u00fcma B\u00fcromaterial Dessau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940816963
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

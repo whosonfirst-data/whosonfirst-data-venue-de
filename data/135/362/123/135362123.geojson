@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9345,51.199459,6.9345,51.199459",
     "geom:latitude":51.199459,
     "geom:longitude":6.9345,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Max-Planck-Str 23",
     "sg:city":"Erkrath",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7Cteldor3AaTjQ7ojUkzrH_51.199459_6.934500@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a650bd723c56936d86c282b6e1da81d8",
+    "wof:geomhash":"e76586475a612708672cb683b48312f0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135362123,
-    "wof:lastmodified":1466219152,
+    "wof:lastmodified":1510944180,
     "wof:name":"Ntn W\u00e4lzlager (europa) Gmbh",
     "wof:parent_id":85796647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940583611
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

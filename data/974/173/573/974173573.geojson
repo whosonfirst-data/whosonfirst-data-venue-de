@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8792324066,53.4735450745,9.8792324066,53.4735450745",
     "geom:latitude":53.473545,
     "geom:longitude":9.879232,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Striepenweg 31",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472097100,
-    "wof:geomhash":"fad16b1d4c108dd8f5f7c10763ee5f77",
+    "wof:geomhash":"8b4cfb4ee312d78b3bb58fa0e7c7ef8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":974173573,
-    "wof:lastmodified":1472097100,
+    "wof:lastmodified":1510941358,
     "wof:name":"Koehlers Verlagsges. Mbh",
     "wof:parent_id":85898951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957479817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

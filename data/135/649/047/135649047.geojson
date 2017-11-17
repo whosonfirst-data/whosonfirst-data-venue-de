@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.014143,53.57972,10.014143,53.57972",
     "geom:latitude":53.57972,
     "geom:longitude":10.014143,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-Henny-Jahnn-Weg 9",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4sydI7IndllSMpdPuskDXk_53.579720_10.014143@1306268864"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4b2f2a3ddb1a2f5284f4f3e1db17358c",
+    "wof:geomhash":"bc4fcb357a38bc456886f5167cb42122",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135649047,
-    "wof:lastmodified":1466241016,
+    "wof:lastmodified":1510943114,
     "wof:name":"Jacob J\u00fcrgensen Gmbh & Co. Kg",
     "wof:parent_id":85898983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974485669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.177758,52.083073,13.177758,52.083073",
     "geom:latitude":52.083073,
     "geom:longitude":13.177758,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neue Park Str. 18",
     "sg:city":"Luckenwalde",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2fPNYA24U0aaJInXCFgH67_52.083073_13.177758@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"94684eaeb1ae85bf38653fa03464c11c",
+    "wof:geomhash":"7a42678b89c4a67cf703e4d6ead1db01",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":219551271,
-    "wof:lastmodified":1466221436,
+    "wof:lastmodified":1510941483,
     "wof:name":"Deutsches Rotes Kreuz Kreisverband Fl\u00c4ming-spreewald Ev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286950531
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

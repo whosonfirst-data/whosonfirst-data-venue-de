@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.832606,48.575344,10.832606,48.575344",
     "geom:latitude":48.575344,
     "geom:longitude":10.832606,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlstr. 24",
     "sg:city":"Westendorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_61xJ0ypEeECwJAFPLI9VMJ_48.575344_10.832606@1306268960"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1675f22f10cdd4037f657fb02e433d93",
+    "wof:geomhash":"12b29663bcfaab516bea20bd87bf572f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102756613,
-    "wof:lastmodified":1466218630,
+    "wof:lastmodified":1510942301,
     "wof:name":"Sfl Wasserkraft- Anlagen Gmbh",
     "wof:parent_id":101784229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320560453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

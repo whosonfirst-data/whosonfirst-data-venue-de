@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.273305,48.016148,10.273305,48.016148",
     "geom:latitude":48.016148,
     "geom:longitude":10.273305,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 12-16",
     "sg:city":"Ungerhausen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_0B1lWogGfO0h7kZ5ieSpec_48.016148_10.273305@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"322f6a35c40f026369c54e28d46d81bf",
+    "wof:geomhash":"47446aad90ff33412acf7c930b3483e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":252980015,
-    "wof:lastmodified":1466224184,
+    "wof:lastmodified":1510943652,
     "wof:name":"Maier & Wydra Gmbh & Co Vertriebs Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958314561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

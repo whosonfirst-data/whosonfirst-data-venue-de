@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.871118,49.910919,11.871118,49.910919",
     "geom:latitude":49.910919,
     "geom:longitude":11.871118,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kulmainer Str 44",
     "sg:city":"Immenreuth",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7dtrfJRdQdr6jBBhnZm6z2_49.910919_11.871118@1306268918"
     },
     "wof:country":"DE",
-    "wof:geomhash":"25288c73560e2d39488ddc94bb7e72e8",
+    "wof:geomhash":"14ef74197d5a1d31861d9b2478d4986c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":236758471,
-    "wof:lastmodified":1466232800,
+    "wof:lastmodified":1510943524,
     "wof:name":"Trassl-plastik Gmbh & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957391217
+    ],
+    "wof:supersedes":[
+        118494883
+    ],
     "wof:tags":[]
 },
   "bbox": [

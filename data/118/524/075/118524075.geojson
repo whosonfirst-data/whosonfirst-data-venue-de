@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.736686,51.236076,6.736686,51.236076",
     "geom:latitude":51.236076,
     "geom:longitude":6.736686,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heerdter Sandberg 32::",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4x6rDFjbCelpNE7Uw9f2IM_51.236076_6.736686@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a116455aabfcc0668c455688c9c8b813",
+    "wof:geomhash":"88dd5c446ad435b600f2ae0d387ecde1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118524075,
-    "wof:lastmodified":1466213876,
+    "wof:lastmodified":1510942579,
     "wof:name":"Reed Exhibitions/germany Gmbh",
     "wof:parent_id":85796275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958238833
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

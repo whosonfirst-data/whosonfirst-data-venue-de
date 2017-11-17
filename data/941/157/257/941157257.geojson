@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.1372690201,51.5924301147,7.1372690201,51.5924301147",
     "geom:latitude":51.59243,
     "geom:longitude":7.137269,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kurt-Schumacher-Str. 28",
     "sg:city":"Herten",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015913,
-    "wof:geomhash":"ce6051752da555bb1c2168ae225987b0",
+    "wof:geomhash":"778f8f9f245a94221f37feb86ff023d8",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941157257,
-    "wof:lastmodified":1472015913,
+    "wof:lastmodified":1510941951,
     "wof:name":"Prosoz-herten Gmbh",
     "wof:parent_id":85795495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957941301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

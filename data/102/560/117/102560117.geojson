@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.949265,53.56237,9.949265,53.56237",
     "geom:latitude":53.56237,
     "geom:longitude":9.949265,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stresemannstr. 161::",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -20,18 +23,18 @@
     "sg:province":"Hamburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85899243,
+        85682505,
         85633111,
         101748841,
         102064053,
-        85682505
+        85899243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g9CK3UusayKno7NgIddBw_53.562370_9.949265@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"914ba2d901d901be78f0779fa8bc6d2d",
+    "wof:geomhash":"735e4d3ac411b848a704fab1caafb75c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":102560117,
-    "wof:lastmodified":1466219356,
+    "wof:lastmodified":1510943947,
     "wof:name":"Broadway Musical Management Gmbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940748767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

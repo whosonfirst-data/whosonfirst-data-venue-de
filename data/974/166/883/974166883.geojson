@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.972755909,50.9121818542,6.972755909,50.9121818542",
     "geom:latitude":50.912182,
     "geom:longitude":6.972756,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gustav-Heinemann-Ufer 84-88",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472096795,
-    "wof:geomhash":"d6ef72a28afef505840b12dab424efb6",
+    "wof:geomhash":"92011d13a44d7aec6dea675dc47d389e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":974166883,
-    "wof:lastmodified":1472096795,
+    "wof:lastmodified":1510943144,
     "wof:name":"Deutscher Instituts- Verlag Gmbh",
     "wof:parent_id":85794761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957466937
+    ],
+    "wof:supersedes":[
+        202526275
+    ],
     "wof:tags":[]
 },
   "bbox": [

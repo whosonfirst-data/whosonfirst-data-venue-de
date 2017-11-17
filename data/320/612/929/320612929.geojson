@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.398385,51.370277,7.398385,51.370277",
     "geom:latitude":51.370277,
     "geom:longitude":7.398385,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Volmarsteiner Str 1-9",
     "sg:city":"Hagen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2Q3NV3kmYiOXukuTPiv0vK_51.370277_7.398385@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c39d5ecd8b9712af2c512bece3708fed",
+    "wof:geomhash":"f4fb3234dafb9d49ba94c3202e40f667",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320612929,
-    "wof:lastmodified":1466241931,
+    "wof:lastmodified":1510941976,
     "wof:name":"Mk Metallfolien Gmbh",
     "wof:parent_id":85794691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320696285
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

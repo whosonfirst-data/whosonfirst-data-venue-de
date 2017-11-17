@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.006488,50.571243,13.006488,50.571243",
     "geom:latitude":50.571243,
     "geom:longitude":13.006488,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lessingstr. 2",
     "sg:city":"Annaberg-Buchholz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6eQmknGDWokqh8aUTW3Bk1_50.571243_13.006488@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f98fbfd68f44e053a6407dee3d865a6d",
+    "wof:geomhash":"cce87834f2cc5ca98df2eced6d021232",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":219563905,
-    "wof:lastmodified":1466221694,
+    "wof:lastmodified":1510943910,
     "wof:name":"Berufsbildungsverein Annaberg Ev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        153019859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.715294,51.715424,8.715294,51.715424",
     "geom:latitude":51.715424,
     "geom:longitude":8.715294,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riemekestr. 160",
     "sg:city":"Paderborn",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5N4YQwUhTgjhNj2n5iOYIc_51.715424_8.715294@1306268893"
     },
     "wof:country":"DE",
-    "wof:geomhash":"31bb58ac9b7e1f8f2ed9534c5b4d0412",
+    "wof:geomhash":"8e515282d306fa7b786f161cfd1902cb",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":152935231,
-    "wof:lastmodified":1466230242,
+    "wof:lastmodified":1510943534,
     "wof:name":"Serviceone Facility Management Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940707695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

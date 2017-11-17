@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.816687,49.939865,7.816687,49.939865",
     "geom:latitude":49.939865,
     "geom:longitude":7.816687,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bergstr. 5",
     "sg:city":"Waldalgesheim",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_7UPzd4YcnO7J3nzQhZQwar_49.939865_7.816687@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"81ea7824894f63e7b19387fdd9386168",
+    "wof:geomhash":"65051a99f76b71d1245446238e96fbfa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":270325781,
-    "wof:lastmodified":1466229045,
+    "wof:lastmodified":1510943714,
     "wof:name":"Nachtigall Kuvertier- Service Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270398913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

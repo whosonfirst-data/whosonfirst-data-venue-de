@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.336487,48.764915,8.336487,48.764915",
     "geom:latitude":48.764915,
     "geom:longitude":8.336487,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bleichstr. 20-22",
     "sg:city":"Gernsbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_59NFNXBW1SPiCsWug0Kgzt_48.764915_8.336487@1306268889"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4a920939f28ca0a59cee1e81715246af",
+    "wof:geomhash":"cd51a26288abcc248da42ac1b2c865b1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":152809753,
-    "wof:lastmodified":1466227280,
+    "wof:lastmodified":1510943930,
     "wof:name":"Euwid - Europ\u00e4ischer Wirtschaftsdienst Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974497721
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

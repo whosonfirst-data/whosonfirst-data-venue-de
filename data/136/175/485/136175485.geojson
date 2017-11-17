@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.961977,51.992523,9.961977,51.992523",
     "geom:latitude":51.992523,
     "geom:longitude":9.961977,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Von-Steinberg-Str 1",
     "sg:city":"Harbarnsen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7MBx2obPzJUnzcBJYntLBl_51.992523_9.961977@1306268896"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d72cb17d570e8d03bdb5a40e625c03af",
+    "wof:geomhash":"34a1f530b50ce2e4f925a2b9a996c98f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136175485,
-    "wof:lastmodified":1466219951,
+    "wof:lastmodified":1510942206,
     "wof:name":"Schwarzt Verpackungs-gmbh",
     "wof:parent_id":101907721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102636593
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

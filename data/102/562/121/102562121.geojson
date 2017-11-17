@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.971134,50.815079,6.971134,50.815079",
     "geom:latitude":50.815079,
     "geom:longitude":6.971134,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Keldenicher Str 57",
     "sg:city":"Wesseling",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5Hf21oBIx9t3PQug6s0KDK_50.815079_6.971134@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e68442f3d67fc0275ae54b309dc0a148",
+    "wof:geomhash":"67727f434c80323b8375cc93a35052ed",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102562121,
-    "wof:lastmodified":1466224279,
+    "wof:lastmodified":1510944113,
     "wof:name":"Posso Marketing Gmbh!",
     "wof:parent_id":101755979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940721561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.092966,48.847012,10.092966,48.847012",
     "geom:latitude":48.847012,
     "geom:longitude":10.092966,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heinrich-Rieger-Str 5",
     "sg:city":"Aalen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3ZZjacTqb4szJcpm8aEiPZ_48.847012_10.092966@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ab1ba43ad0d86205435b9552c5ce48ec",
+    "wof:geomhash":"3079435f49256d3fe4017a1ea56e50e5",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135360847,
-    "wof:lastmodified":1466219053,
+    "wof:lastmodified":1510944060,
     "wof:name":"Riehle Maschinenbau Gmbh",
     "wof:parent_id":101748515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940628451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

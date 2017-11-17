@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.621414,49.751286,6.621414,49.751286",
     "geom:latitude":49.751286,
     "geom:longitude":6.621414,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eurener Str 1",
     "sg:city":"Trier",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6F5wAksDvM0LgrTQMX5m7L_49.751286_6.621414@1306268986"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e0a0f243aa32670e06ef13cbfcfd5cf2",
+    "wof:geomhash":"803cf31585565ce357bd7720a90c0174",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118499469,
-    "wof:lastmodified":1466219269,
+    "wof:lastmodified":1510943748,
     "wof:name":"F. J. Meyer Gmbh & Co Kg",
     "wof:parent_id":101748559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957978709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

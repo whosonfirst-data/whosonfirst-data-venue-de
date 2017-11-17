@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.50138,52.313919,10.50138,52.313919",
     "geom:latitude":52.313919,
     "geom:longitude":10.50138,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Adam-Opel-Str. 7",
     "sg:city":"Braunschweig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5O1jUqaYQJ7rYT9fAiRWgn_52.313919_10.501380@1306268969"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3665e24839ba099688c7ab663ed78457",
+    "wof:geomhash":"1cc2c1836805745e27a5b58f115400ef",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118493355,
-    "wof:lastmodified":1466213712,
+    "wof:lastmodified":1510942920,
     "wof:name":"Fliesen-wasmus Gmbh",
     "wof:parent_id":85905767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958337993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

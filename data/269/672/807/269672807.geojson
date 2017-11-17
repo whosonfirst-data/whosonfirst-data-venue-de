@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.091369,49.014881,12.091369,49.014881",
     "geom:latitude":49.014881,
     "geom:longitude":12.091369,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Waffnergasse 8",
     "sg:city":"Regensburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2K5Xd9EG4o4ZGYv2nZAb19_49.014881_12.091369@1306268929"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5c8d548fc218b46afffa1083938db59f",
+    "wof:geomhash":"a44cc576c0ba069e4db5a54d0ed8550c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269672807,
-    "wof:lastmodified":1466225281,
+    "wof:lastmodified":1510941994,
     "wof:name":"Insys Microelectronics Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941155755
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

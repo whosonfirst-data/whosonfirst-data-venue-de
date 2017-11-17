@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.990952,53.556538,9.990952,53.556538",
     "geom:latitude":53.556538,
     "geom:longitude":9.990952,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gro\u00dfe Theaterstr. 42",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5SyWxpzGAnKomepfHNKQOX_53.556538_9.990952@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1351ae780f52fb80c3695374804c3680",
+    "wof:geomhash":"8c41dc5458911edc362aeaf6a44c8fee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252727273,
-    "wof:lastmodified":1466219460,
+    "wof:lastmodified":1510942270,
     "wof:name":"Castrol Marine Oil Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941497025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

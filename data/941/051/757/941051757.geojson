@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0353050232,53.6156806946,10.0353050232,53.6156806946",
     "geom:latitude":53.615681,
     "geom:longitude":10.035305,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fuhlsb\u00fcttler Stra\u00dfe 672",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472011144,
-    "wof:geomhash":"bcda1a87d1c1ce65c775f1b25bd3c5c1",
+    "wof:geomhash":"4142c30b08dc1ba1f9884443f778c556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":941051757,
-    "wof:lastmodified":1472011144,
+    "wof:lastmodified":1510944016,
     "wof:name":"Allgemeine Deutsche Schiffszimmerer Genossenschaft Eg",
     "wof:parent_id":85898949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974185051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

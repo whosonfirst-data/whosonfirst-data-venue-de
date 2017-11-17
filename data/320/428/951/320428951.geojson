@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.354337,51.451889,7.354337,51.451889",
     "geom:latitude":51.451889,
     "geom:longitude":7.354337,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alfred-Herrhausen-Str. 44",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5xbTPYQTpDtBVpHMvFbqOt_51.451889_7.354337@1306269143"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6283f442c5abe3fdf2520b1763448c78",
+    "wof:geomhash":"6fcf56657529a8484ebd5e09e40900aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320428951,
-    "wof:lastmodified":1466240382,
+    "wof:lastmodified":1510942857,
     "wof:name":"Dr. Arabin Gmbh & Co. Kg",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941142409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

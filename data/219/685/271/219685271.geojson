@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.565863,48.179108,11.565863,48.179108",
     "geom:latitude":48.179108,
     "geom:longitude":11.565863,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schopenhauerstr. 97",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5n4jAxryrjD4QXm7tFzpiG_48.179108_11.565863@1306268909"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4efc73f346e323e81f3e1e06184283be",
+    "wof:geomhash":"6f0cb93a2361154dd08973b1dc495810",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219685271,
-    "wof:lastmodified":1466224015,
+    "wof:lastmodified":1510943115,
     "wof:name":"Clausnitzer Gmbh",
     "wof:parent_id":85899615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957930331
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

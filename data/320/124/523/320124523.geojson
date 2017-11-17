@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.529648,48.256054,11.529648,48.256054",
     "geom:latitude":48.256054,
     "geom:longitude":11.529648,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hackerstr. 18",
     "sg:city":"Oberschlei\u00dfheim",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5RMhwZhyFu8TQZQ6HPuL8O_48.256054_11.529648@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d26c157303125370dc49ce433110b596",
+    "wof:geomhash":"247d684aa4a69231429e4e95dd30cc32",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320124523,
-    "wof:lastmodified":1466236376,
+    "wof:lastmodified":1510942715,
     "wof:name":"Maschinenbau Eggerstorfer Gmbh",
     "wof:parent_id":85905627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941149615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

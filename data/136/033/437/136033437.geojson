@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.837751,49.246719,6.837751,49.246719",
     "geom:latitude":49.246719,
     "geom:longitude":6.837751,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaffhauserstrasse 2",
     "sg:city":"V\u00f6lklingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7fZ9X12Ndbq3q5f7a8lvJ2_49.246719_6.837751@1306268887"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d9e01671388f1244ded7ace9266bbba9",
+    "wof:geomhash":"b42cee1df0f28730cd69fcc5a393413b",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136033437,
-    "wof:lastmodified":1466213634,
+    "wof:lastmodified":1510942030,
     "wof:name":"Brueckenschenke",
     "wof:parent_id":85795777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957750289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

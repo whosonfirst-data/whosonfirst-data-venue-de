@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.039341,49.467964,11.039341,49.467964",
     "geom:latitude":49.467964,
     "geom:longitude":11.039341,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfaeckerstr. 37",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5cGWIYMjHLQkEedpLP0SDz_49.467964_11.039341@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8179a314bec1b1499c1c1d4d39e3b5c3",
+    "wof:geomhash":"d6788877fb2818e07684f61cae1b90d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":270413491,
-    "wof:lastmodified":1466231399,
+    "wof:lastmodified":1510941890,
     "wof:name":"E Inselsberger Gmbh & Co Kg",
     "wof:parent_id":85899667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958090919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

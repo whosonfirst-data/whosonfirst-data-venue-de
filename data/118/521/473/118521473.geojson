@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.608498,47.779507,9.608498,47.779507",
     "geom:latitude":47.779507,
     "geom:longitude":9.608498,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Olgastrasse 16::",
     "sg:city":"Ravensburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7NZpLCFjqn89NpG0JPtjPf_47.779507_9.608498@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"adf63f56ab5e2100222e82fae4604773",
+    "wof:geomhash":"06eeeee58616259dd108b62290f7b8a5",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118521473,
-    "wof:lastmodified":1466213704,
+    "wof:lastmodified":1510941815,
     "wof:name":"Kms Mobilien Leasing Gmbh",
     "wof:parent_id":101828649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135364715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

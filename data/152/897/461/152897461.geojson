@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.998796,50.872604,6.998796,50.872604",
     "geom:latitude":50.872604,
     "geom:longitude":6.998796,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestra\u00dfe 163",
     "sg:city":"K\u00f6ln (Rodenkirchen)",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4va0aNFAwM6pMaa6cvg0aw_50.872604_6.998796@1306268891"
     },
     "wof:country":"DE",
-    "wof:geomhash":"eebb1b9c114e547d1730b4bc98ecff48",
+    "wof:geomhash":"b7556ac97e4c421f371fcdee436d7390",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":152897461,
-    "wof:lastmodified":1466229334,
+    "wof:lastmodified":1510942207,
     "wof:name":"Pentus Immobilienvertrieb Gmbh",
     "wof:parent_id":85795815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941098247
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.707895,51.97971,7.707895,51.97971",
     "geom:latitude":51.97971,
     "geom:longitude":7.707895,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gildenstr. 2h",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5WeHq4Av5WnCF4FMH2MjAR_51.979710_7.707895@1306268890"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d1e0c77e30d5397440ba8867ca23a533",
+    "wof:geomhash":"1d0831ed3931b068375eb9ef67075849",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102602337,
-    "wof:lastmodified":1466213299,
+    "wof:lastmodified":1510943108,
     "wof:name":"H\u00fcls-versicherungsmakler Gmbh",
     "wof:parent_id":85795651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974290229
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

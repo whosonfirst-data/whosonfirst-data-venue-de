@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.784609,53.079075,8.784609,53.079075",
     "geom:latitude":53.079075,
     "geom:longitude":8.784609,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Auf dem Dreieck 2",
     "sg:city":"Bremen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7F4sXRkGmi8rfNSPl08870_53.079075_8.784609@1306268856"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d6d4dd3893d5704428235addf9844957",
+    "wof:geomhash":"ed5a72d870c041c8aa112491710dd6cd",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135505365,
-    "wof:lastmodified":1466232076,
+    "wof:lastmodified":1510943512,
     "wof:name":"Manfred J. C. Niemann",
     "wof:parent_id":85796255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974231255
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

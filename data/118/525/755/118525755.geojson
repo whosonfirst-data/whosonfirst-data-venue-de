@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.962621,48.367477,8.962621,48.367477",
     "geom:latitude":48.367477,
     "geom:longitude":8.962621,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brunnenstr. 4-6::",
     "sg:city":"Hechingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0FKj10lQBOfdiv3VqV4vlO_48.367477_8.962621@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4158ebd53772e01eca2918c2b28410a0",
+    "wof:geomhash":"48f34f7efafaa597833198703d04c6e7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118525755,
-    "wof:lastmodified":1466213996,
+    "wof:lastmodified":1510941943,
     "wof:name":"Sternenbaeck Gmbh",
     "wof:parent_id":101762879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135317077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

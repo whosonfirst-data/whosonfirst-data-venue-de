@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.363665,51.557117,7.363665,51.557117",
     "geom:latitude":51.557117,
     "geom:longitude":7.363665,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Deininghauser Str. 64",
     "sg:city":"Dortmund",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7Xsha9YZM1w9kGxEn2QzwZ_51.557117_7.363665@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"288347b7026320f4329ebb76eff73010",
+    "wof:geomhash":"c456e6015d6c2d5db76536f0c0e8b04a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320075095,
-    "wof:lastmodified":1466235152,
+    "wof:lastmodified":1510943489,
     "wof:name":"Schwarz & Fengler W\u00c4rmetechnik Gmbh",
     "wof:parent_id":85794905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940879543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

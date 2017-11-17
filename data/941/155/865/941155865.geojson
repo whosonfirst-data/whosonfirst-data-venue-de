@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9972958565,51.4469566345,6.9972958565,51.4469566345",
     "geom:latitude":51.446957,
     "geom:longitude":6.997296,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kruppstr. 82",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015854,
-    "wof:geomhash":"41978bd2a807e395120a3198e9ee9aec",
+    "wof:geomhash":"b3b52a034d7d1faa1c2e899449de1a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":941155865,
-    "wof:lastmodified":1472015854,
+    "wof:lastmodified":1510943537,
     "wof:name":"Sang Computersysteme Gmbh",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957945629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.733651,52.38628,9.733651,52.38628",
     "geom:latitude":52.38628,
     "geom:longitude":9.733651,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vahrenwalder Str 7",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3NJQAPIMiA6grDLMhOMVK0_52.386280_9.733651@1306268801"
     },
     "wof:country":"DE",
-    "wof:geomhash":"d79e190a0456befe96ddb2b1aab4c851",
+    "wof:geomhash":"fee7caec026696b8767b094bed702988",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118753739,
-    "wof:lastmodified":1466226995,
+    "wof:lastmodified":1510941446,
     "wof:name":"Comte Moderne Analysesysteme Gmbh",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135881947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

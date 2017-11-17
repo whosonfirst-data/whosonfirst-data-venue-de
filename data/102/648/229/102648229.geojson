@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.234084,49.184273,9.234084,49.184273",
     "geom:latitude":49.184273,
     "geom:longitude":9.234084,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Richard-Wagner-Str 21",
     "sg:city":"Neckarsulm",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4yBRNsvPR1hQNWNOYkrMV5_49.184273_9.234084@1306268809"
     },
     "wof:country":"DE",
-    "wof:geomhash":"94c4b0a75281fd83f3e0274d1ac73362",
+    "wof:geomhash":"7f485294a4a7c40ad277fba2245f88d2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102648229,
-    "wof:lastmodified":1466214622,
+    "wof:lastmodified":1510942370,
     "wof:name":"B\u00f6rsig Gmbh",
     "wof:parent_id":101755913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941145999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.982314,50.950481,6.982314,50.950481",
     "geom:latitude":50.950481,
     "geom:longitude":6.982314,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Auenweg 173",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1LeRViq8DDoaOd7c46SX2Z_50.950481_6.982314@1306268901"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6691f944307bb117393f50203967a3a7",
+    "wof:geomhash":"9d5c593828c3f1e1e4a62c020c5638ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":202500085,
-    "wof:lastmodified":1466215619,
+    "wof:lastmodified":1510941651,
     "wof:name":"K\u00d6lner Schiffswerft Deutz Gmbh & Co. Kg",
     "wof:parent_id":85795597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957928369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

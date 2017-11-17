@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.988442421,53.5671691895,9.988442421,53.5671691895",
     "geom:latitude":53.567169,
     "geom:longitude":9.988442,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Johnsallee 23",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472096955,
-    "wof:geomhash":"69b225f0003289b6092ba53790929ffd",
+    "wof:geomhash":"c3dda8e782a41725bb2868ed5be45c80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":974170121,
-    "wof:lastmodified":1472096955,
+    "wof:lastmodified":1510944118,
     "wof:name":"Internationale Musikverlage Hans Sikorski",
     "wof:parent_id":85898969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957928285
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

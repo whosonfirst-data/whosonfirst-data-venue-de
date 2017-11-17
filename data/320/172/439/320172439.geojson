@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.425829,50.104744,11.425829,50.104744",
     "geom:latitude":50.104744,
     "geom:longitude":11.425829,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vorwerkstr. 20",
     "sg:city":"Kulmbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0lT15WiJuho94USfaV1Zwh_50.104744_11.425829@1306268956"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2bde6de9b0f44ad5374ae1838e664515",
+    "wof:geomhash":"70814093e64d4545b671251030be3ca4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320172439,
-    "wof:lastmodified":1466236830,
+    "wof:lastmodified":1510942541,
     "wof:name":"Konrad Friedrichs Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320654811
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

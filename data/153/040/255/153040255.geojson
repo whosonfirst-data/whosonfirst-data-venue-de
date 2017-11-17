@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.917631,50.532581,10.917631,50.532581",
     "geom:latitude":50.532581,
     "geom:longitude":10.917631,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dachsbachstra\u00dfe 30",
     "sg:city":"Gie\u00df\u00fcbel/Th\u00fcringen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_57NAWcV9efVGdbghQvtSzd_50.532581_10.917631@1306268896"
     },
     "wof:country":"DE",
-    "wof:geomhash":"799bde394ce4b7d4d3d2f4630957c4de",
+    "wof:geomhash":"208d18efdd04a13fe6ed9dad613909a7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":153040255,
-    "wof:lastmodified":1466213387,
+    "wof:lastmodified":1510941572,
     "wof:name":"Meg Mechanik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135509413
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

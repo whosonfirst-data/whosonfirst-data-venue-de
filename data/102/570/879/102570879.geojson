@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.98089,48.915459,8.98089,48.915459",
     "geom:latitude":48.915459,
     "geom:longitude":8.98089,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rieter Str 72",
     "sg:city":"Vaihingen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_3Ls8UFdjcF6uqz8Grget5i_48.915459_8.980890@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"45e90812aab998df1291cd7858c65147",
+    "wof:geomhash":"434889354c7bf5ff76c6648137e7a21f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102570879,
-    "wof:lastmodified":1466218396,
+    "wof:lastmodified":1510942003,
     "wof:name":"Ask Industrie Service Gmbh",
     "wof:parent_id":85682567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941147905
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

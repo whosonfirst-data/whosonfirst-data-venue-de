@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.599477,51.928471,8.599477,51.928471",
     "geom:latitude":51.928471,
     "geom:longitude":8.599477,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gildemeisterstr. 60",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0JYrO3g2DESNvg9f8O4gRV_51.928471_8.599477@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5c73e516032123373664e4542cf82270",
+    "wof:geomhash":"c2a34093560e8bae9a70b7f888e99dee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320673511,
-    "wof:lastmodified":1466242421,
+    "wof:lastmodified":1510943963,
     "wof:name":"Sennestahl Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974490623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

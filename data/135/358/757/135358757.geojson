@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.049326,50.702271,13.049326,50.702271",
     "geom:latitude":50.702271,
     "geom:longitude":13.049326,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"August-Bebel-Str. 24",
     "sg:city":"Scharfenstein",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1M3yAK89OrQWZbbVZ5lAAs_50.702271_13.049326@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"47b711d9fa617d42557fb326c25dc7a1",
+    "wof:geomhash":"0b927fddafd6045dbd6dd960566ef5cc",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":135358757,
-    "wof:lastmodified":1466218865,
+    "wof:lastmodified":1510943204,
     "wof:name":"Erzgebirgische Landb\u00e4ckerei Gmbh",
     "wof:parent_id":85682523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940754725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.25092,53.112232,8.25092,53.112232",
     "geom:latitude":53.112232,
     "geom:longitude":8.25092,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gerhard-Stalling-Str 34",
     "sg:city":"Oldenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6IqFGb9iNDD5Acw8YF99YJ_53.112232_8.250920@1306268911"
     },
     "wof:country":"DE",
-    "wof:geomhash":"88a2d318c7a6b178b6d7c5453943c835",
+    "wof:geomhash":"363ba488350954a03996341e51cad08c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102708023,
-    "wof:lastmodified":1466216383,
+    "wof:lastmodified":1510941877,
     "wof:name":"A-plus Datenkabel Und Kommunikationssysteme Geserick Kg",
     "wof:parent_id":101748835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320715971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

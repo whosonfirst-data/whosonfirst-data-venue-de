@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.581027,48.14954,11.581027,48.14954",
     "geom:latitude":48.14954,
     "geom:longitude":11.581027,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ludwigstr. 24",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_19YHVDOVt7S9iYoclDBwuD_48.149540_11.581027@1306268912"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b263d254bf52e08079fd94a787343d32",
+    "wof:geomhash":"607957761b52552e3f18d4c237ef6044",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":220028331,
-    "wof:lastmodified":1466215131,
+    "wof:lastmodified":1510942910,
     "wof:name":"Cafe An Der Uni",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940742977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

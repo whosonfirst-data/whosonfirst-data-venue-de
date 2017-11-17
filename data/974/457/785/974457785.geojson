@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5292453766,52.5249977112,13.5292453766,52.5249977112",
     "geom:latitude":52.524998,
     "geom:longitude":13.529245,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Beilsteiner Str. 114",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472113442,
-    "wof:geomhash":"85c1d9bc11edbc2010a838f48a7b9513",
+    "wof:geomhash":"af9d5ea976d351376a45e68cfc572ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":974457785,
-    "wof:lastmodified":1472113442,
+    "wof:lastmodified":1510941533,
     "wof:name":"Forba Form- Vorrichtungs- Und Werkzeugbau Gmbh",
     "wof:parent_id":85900219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941502425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9993152618,53.5485649109,9.9993152618,53.5485649109",
     "geom:latitude":53.548565,
     "geom:longitude":9.999315,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kattrepelsbr\u00fccke 1",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472044152,
-    "wof:geomhash":"2071d10f520d9cd27eb4e27afa40e218",
+    "wof:geomhash":"2f7f3d6fde8c191db093e91507b665dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957479583,
-    "wof:lastmodified":1472044152,
+    "wof:lastmodified":1510942685,
     "wof:name":"Gerlach International Business Information Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940974143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

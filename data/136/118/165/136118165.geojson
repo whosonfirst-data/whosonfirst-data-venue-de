@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.118191,50.994675,7.118191,50.994675",
     "geom:latitude":50.994675,
     "geom:longitude":7.118191,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Paffrather Stra\u00dfe 132",
     "sg:city":"Bergisch Gladbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0yxjjT0w9BBGzcQZqvVAhj_50.994675_7.118191@1306268892"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f321f2cd2b631dc67d561af0670bb096",
+    "wof:geomhash":"e1d2f5dc0bf36b8b7af84a400e63cd62",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":136118165,
-    "wof:lastmodified":1466217507,
+    "wof:lastmodified":1510941815,
     "wof:name":"Sahler Tankschutz Gmbh",
     "wof:parent_id":85794941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320772975
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

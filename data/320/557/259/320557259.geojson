@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.181662,54.341606,10.181662,54.341606",
     "geom:latitude":54.341606,
     "geom:longitude":10.181662,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hasselfelde 40 POSTFACH 6124",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3Q6z3Rbi2LY5llEAGolynx_54.341606_10.181662@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"92e163d39addbadf532f7c3ad80bdf4b",
+    "wof:geomhash":"3649b6579b8c73e30a353bf3804334cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320557259,
-    "wof:lastmodified":1466241416,
+    "wof:lastmodified":1510941614,
     "wof:name":"Gemeinschaftskraftwerkkiel Gmbh",
     "wof:parent_id":85899097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320646273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

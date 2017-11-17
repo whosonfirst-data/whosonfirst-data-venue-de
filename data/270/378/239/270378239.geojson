@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.483322,49.481373,8.483322,49.481373",
     "geom:latitude":49.481373,
     "geom:longitude":8.483322,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Augustaanlage 33",
     "sg:city":"Mannheim",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_2zIOvseQCWF0K8gUCOL9ct_49.481373_8.483322@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1a53c21716aa6911d1311d31aedf5c01",
+    "wof:geomhash":"e80c8e600ba68ece71e58920133b5972",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":270378239,
-    "wof:lastmodified":1466230466,
+    "wof:lastmodified":1510942570,
     "wof:name":"Viola Grundst\u00fccksver- Waltungsgesellschaft Mbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941127671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

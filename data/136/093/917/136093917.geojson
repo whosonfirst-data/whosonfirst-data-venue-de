@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.002602,49.063747,9.002602,49.063747",
     "geom:latitude":49.063747,
     "geom:longitude":9.002602,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lindenstra\u00dfe 33",
     "sg:city":"74363 G\u00fcglingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6ZQ5BGJNMpiTsl22yCdMqX_49.063747_9.002602@1306268891"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8c6a31aa758a18d328def27f6042b287",
+    "wof:geomhash":"21f9bd65a1f300f66f7240f7e1e953ca",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":136093917,
-    "wof:lastmodified":1466216475,
+    "wof:lastmodified":1510943624,
     "wof:name":"Ksi Brennwerttechnik Gmbh",
     "wof:parent_id":101760895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320041817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

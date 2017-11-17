@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.445889,50.987141,7.445889,50.987141",
     "geom:latitude":50.987141,
     "geom:longitude":7.445889,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00fcchlerhausen 22",
     "sg:city":"Engelskirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2kOitK5XzomOaUAZVIMUHx_50.987141_7.445889@1306268802"
     },
     "wof:country":"DE",
-    "wof:geomhash":"71f279eedd986ca5502cbb96a94e07a1",
+    "wof:geomhash":"0ebeb3026df896675fac2ecd8a02bfd5",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118770067,
-    "wof:lastmodified":1466227938,
+    "wof:lastmodified":1510943357,
     "wof:name":"Thiel & Schulz Gmbh",
     "wof:parent_id":101753107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940871809
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

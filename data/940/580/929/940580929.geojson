@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.098490715,53.5355606079,10.098490715,53.5355606079",
     "geom:latitude":53.535561,
     "geom:longitude":10.098491,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Moorfleeter Str. 15",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471987836,
-    "wof:geomhash":"14d9219a971b0d59c2fc02646de38ac9",
+    "wof:geomhash":"e1def36cb2505c6bfcacc762d14a45c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":940580929,
-    "wof:lastmodified":1471987836,
+    "wof:lastmodified":1510943736,
     "wof:name":"Peter A. Bauer Gmbh",
     "wof:parent_id":85900015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320610189,
+        320743685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

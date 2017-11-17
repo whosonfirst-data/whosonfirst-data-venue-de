@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.656249,48.701675,9.656249,48.701675",
     "geom:latitude":48.701675,
     "geom:longitude":9.656249,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bleichstrasse 6",
     "sg:city":"G\u00f6ppingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_42WX5W6xj7Wdooon4in26J_48.701675_9.656249@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"554dc101ec31b437c423a5c0ff8ab66d",
+    "wof:geomhash":"e17376a1a7d38b1f7ed2aeddcc936bf8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320327983,
-    "wof:lastmodified":1466239249,
+    "wof:lastmodified":1510943279,
     "wof:name":"H\u00d6r-studio Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320384815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

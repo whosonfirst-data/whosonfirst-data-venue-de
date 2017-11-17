@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.569588,48.980709,9.569588,48.980709",
     "geom:latitude":48.980709,
     "geom:longitude":9.569588,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brenn\u00e4ckerstr. 7",
     "sg:city":"Murrhardt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5bNPSDzeMzZ2UuwFfPBozg_48.980709_9.569588@1306269118"
     },
     "wof:country":"DE",
-    "wof:geomhash":"85653a91730bbf0532209a21140aaddb",
+    "wof:geomhash":"91b82aeaa2c6d4178209c61f10332e80",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270025449,
-    "wof:lastmodified":1466221951,
+    "wof:lastmodified":1510941893,
     "wof:name":"Gedea Gesellschaft F\u00fcr Dezentrale Energieanlagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287179063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

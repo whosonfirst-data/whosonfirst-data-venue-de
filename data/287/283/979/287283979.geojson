@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.85618,48.956768,8.85618,48.956768",
     "geom:latitude":48.956768,
     "geom:longitude":8.85618,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eckenweiherstr. 10",
     "sg:city":"M\u00fchlacker",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6C7z61fAFybxN566SO1vYp_48.956768_8.856180@1306269130"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e87bbaf3eca264c2bcdcfb89f57933a1",
+    "wof:geomhash":"cfc67e5e4b5d307e3cf7020a2de4451d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":287283979,
-    "wof:lastmodified":1466232613,
+    "wof:lastmodified":1510942694,
     "wof:name":"Pawelko Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        924841689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

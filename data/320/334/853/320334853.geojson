@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.592113,52.297218,7.592113,52.297218",
     "geom:latitude":52.297218,
     "geom:longitude":7.592113,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstra\u00dfe 40",
     "sg:city":"H\u00f6rstel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6T24TjoMxXWczpTHGIKy8H_52.297218_7.592113@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"22985f6867165bf58af3b0c368508b53",
+    "wof:geomhash":"a8373074868057ad980f2ae2fb3524fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320334853,
-    "wof:lastmodified":1466239467,
+    "wof:lastmodified":1510942663,
     "wof:name":"Antonius Apotheke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118862663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

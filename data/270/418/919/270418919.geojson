@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.174751,53.223251,10.174751,53.223251",
     "geom:latitude":53.223251,
     "geom:longitude":10.174751,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00fcneburger-Str. 21",
     "sg:city":"Salzhausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7ImtsBJ3aFLyR4bul974fQ_53.223251_10.174751@1306269120"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2cf3687ba27dc97da3d8b0d27192e9b2",
+    "wof:geomhash":"d8ed08f49612341957bbc649c362bda5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270418919,
-    "wof:lastmodified":1466231530,
+    "wof:lastmodified":1510941807,
     "wof:name":"Albrecht Schuhm\u00c4rkte Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958316609
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

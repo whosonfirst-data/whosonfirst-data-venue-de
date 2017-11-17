@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.176094,48.778645,9.176094,48.778645",
     "geom:latitude":48.778645,
     "geom:longitude":9.176094,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kleiner Schlo\u00dfplatz 11",
     "sg:city":"Stuttgart",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_01SbxCKEiF1ZHiNscSFRRH_48.778645_9.176094@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ddb91ff306b0333cbd9c92fa5001cb4b",
+    "wof:geomhash":"4652f46f9f87de58a2e969a7c12da9f4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":135363767,
-    "wof:lastmodified":1466219314,
+    "wof:lastmodified":1510942218,
     "wof:name":"Baden-w\u00dcrttembergische Bank Ag",
     "wof:parent_id":85795269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        135369095
+    ],
+    "wof:supersedes":[
+        118517825
+    ],
     "wof:tags":[]
 },
   "bbox": [

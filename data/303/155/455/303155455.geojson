@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.758239,51.431034,6.758239,51.431034",
     "geom:latitude":51.431034,
     "geom:longitude":6.758239,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sonnenwall 85",
     "sg:city":"Duisburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3gNeXEMi7iCGNEj5m6WosB_51.431034_6.758239@1306269131"
     },
     "wof:country":"DE",
-    "wof:geomhash":"66378eaeec1018c665e0612fbe8053b5",
+    "wof:geomhash":"e034036d2edf6176a35c9073f3606cd2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303155455,
-    "wof:lastmodified":1466228332,
+    "wof:lastmodified":1510941864,
     "wof:name":"Rwe Industrie-l\u00f6sungen Gmbh",
     "wof:parent_id":85863029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320521765
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

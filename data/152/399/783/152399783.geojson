@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.845452,50.691353,8.845452,50.691353",
     "geom:latitude":50.691353,
     "geom:longitude":8.845452,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"In den Haing\u00e4rten 1",
     "sg:city":"Allendorf",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_3uOajwX4t9mKYQkJxyOUft_50.691353_8.845452@1306268876"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f5e69be82fef3778ab8c7c6d47265b62",
+    "wof:geomhash":"18431b62cf34ef0ae0db0729ce1226e1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":152399783,
-    "wof:lastmodified":1466218154,
+    "wof:lastmodified":1510941963,
     "wof:name":"Sch\u00f6nwandt Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336678065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

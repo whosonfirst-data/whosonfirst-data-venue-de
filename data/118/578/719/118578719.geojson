@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.711747,51.195526,6.711747,51.195526",
     "geom:latitude":51.195526,
     "geom:longitude":6.711747,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hammfelddamm 10",
     "sg:city":"Neuss",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6AdmTPXdHwJ99OF09PL9Zx_51.195526_6.711747@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"96ce18989b77e7bf9c5015fa4e70a9c7",
+    "wof:geomhash":"8f3348e981ec542402a748a09f473ebe",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":118578719,
-    "wof:lastmodified":1466217077,
+    "wof:lastmodified":1510942314,
     "wof:name":"Sid Sport-informations-dienst Gmbh & Co. Kg",
     "wof:parent_id":85795365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974166937,
+        958281965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

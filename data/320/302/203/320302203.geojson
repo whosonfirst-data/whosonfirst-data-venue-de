@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.401331,52.569466,13.401331,52.569466",
     "geom:latitude":52.569466,
     "geom:longitude":13.401331,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sch\u00f6nholzer Stra\u00dfe 1A",
     "sg:city":"- Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2xKQeZ20lT1X9v1XQlD6rS_52.569466_13.401331@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b520508181fb9214b8932b9668942b6b",
+    "wof:geomhash":"03b4ad9b79b3c0ff3b2a9324be00a8ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320302203,
-    "wof:lastmodified":1466238823,
+    "wof:lastmodified":1510941196,
     "wof:name":"Unabh\u00e4ngiges Meinungsforschungsinstitut Info Gmbh",
     "wof:parent_id":85905647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941470949
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

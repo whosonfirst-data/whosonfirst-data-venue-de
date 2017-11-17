@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.153187,49.88047,9.153187,49.88047",
     "geom:latitude":49.88047,
     "geom:longitude":9.153187,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gro\u00dfostheimer Str 14",
     "sg:city":"Gro\u00dfwallstadt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4kAZRvlKR9MLOStKw5QOhZ_49.880470_9.153187@1306268902"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ecd6195bb86055288933aafee16d61ca",
+    "wof:geomhash":"d7a4f53c4dc7d79818e69bd2ffbf7391",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":202572907,
-    "wof:lastmodified":1466217100,
+    "wof:lastmodified":1510941619,
     "wof:name":"Josef Geis Herrenkleiderfabrik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252975361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

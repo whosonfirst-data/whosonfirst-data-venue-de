@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.9791579247,48.5412864685,7.9791579247,48.5412864685",
     "geom:latitude":48.541286,
     "geom:longitude":7.979158,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ortenauer Str. 61",
     "sg:city":"Appenweier",
     "sg:classifiers":[],
@@ -24,16 +27,20 @@
     },
     "wof:country":"DE",
     "wof:created":1472011548,
-    "wof:geomhash":"9bbbb9398f8f1f4d7acaa8d0864f891f",
+    "wof:geomhash":"96bc97ff306c10ad5af4f8839b8bdfd6",
     "wof:hierarchy":[],
     "wof:id":941060257,
-    "wof:lastmodified":1472011548,
+    "wof:lastmodified":1510942998,
     "wof:name":"Dewi Haus Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        136159103
+    ],
+    "wof:supersedes":[
+        136159103
+    ],
     "wof:tags":[]
 },
   "bbox": [

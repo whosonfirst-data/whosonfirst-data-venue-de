@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.985311,53.54715,9.985311,53.54715",
     "geom:latitude":53.54715,
     "geom:longitude":9.985311,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00f6dingsmarkt 16",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0C0PNIZozqdwm5lPyl4GzL_53.547150_9.985311@1306269093"
     },
     "wof:country":"DE",
-    "wof:geomhash":"46ed8be9a04225a828697f0b7b223ba3",
+    "wof:geomhash":"8633994c3f8ee83af7a455a51f98c6ce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":202896133,
-    "wof:lastmodified":1466223054,
+    "wof:lastmodified":1510942379,
     "wof:name":"Verwaltung Leonhardt & Blumberg Schiffahrtsges. Mbh",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941421049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

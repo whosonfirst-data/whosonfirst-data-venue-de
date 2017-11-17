@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.572241,48.140064,11.572241,48.140064",
     "geom:latitude":48.140064,
     "geom:longitude":11.572241,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Promenadeplatz 12",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0zmSUQl1yoq9Bk3WZLGcAF_48.140064_11.572241@1306268866"
     },
     "wof:country":"DE",
-    "wof:geomhash":"370458d50f5b2cbabb7396690ce52b4b",
+    "wof:geomhash":"0028c84bf49aec8571c0ac783f620c3d",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135688553,
-    "wof:lastmodified":1466242025,
+    "wof:lastmodified":1510942401,
     "wof:name":"Abg Allgemeine Bautr\u00e4gerges. Mbh & Co. Kg",
     "wof:parent_id":85905607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958326233
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

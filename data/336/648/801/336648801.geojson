@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.133893,50.483707,12.133893,50.483707",
     "geom:latitude":50.483707,
     "geom:longitude":12.133893,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Me\u00dfbacherstr. 50",
     "sg:city":"Plauen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6VKrXKYgAP2DAaOUQyhYO7_50.483707_12.133893@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"79095289e334e36f8d7e19287cb592af",
+    "wof:geomhash":"66c42aca62cbfb8e991fa26d2d6920ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336648801,
-    "wof:lastmodified":1466234727,
+    "wof:lastmodified":1510941341,
     "wof:name":"Umwelttechnik Und Anlagen- Bau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957901175
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

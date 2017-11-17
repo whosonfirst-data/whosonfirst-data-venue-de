@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.4982328415,51.2803001404,9.4982328415,51.2803001404",
     "geom:latitude":51.2803,
     "geom:longitude":9.498233,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werner Heisenberg Str. 7",
     "sg:city":"Kassel",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472043842,
-    "wof:geomhash":"923bfa844b8ecb3684329a2fe5d760a0",
+    "wof:geomhash":"03ad7a34fed893e4cead8a95ddd42bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":957473265,
-    "wof:lastmodified":1472043842,
+    "wof:lastmodified":1510943891,
     "wof:name":"Satz & Form Gmbh",
     "wof:parent_id":85899739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        940972891
+    ],
+    "wof:supersedes":[
+        957462149
+    ],
     "wof:tags":[]
 },
   "bbox": [

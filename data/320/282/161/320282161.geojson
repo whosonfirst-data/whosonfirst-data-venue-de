@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.313213,52.318375,8.313213,52.318375",
     "geom:latitude":52.318375,
     "geom:longitude":8.313213,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wittekindstra\u00dfe 12",
     "sg:city":"Bad Essen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1xXlAYydPP6jpTeNx6Ewjb_52.318375_8.313213@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"1fda0e877516da6d0563c5167b880a1b",
+    "wof:geomhash":"41d16112669f3ee897cf7072a2a63f09",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320282161,
-    "wof:lastmodified":1466238498,
+    "wof:lastmodified":1510942430,
     "wof:name":"Clou Marketing Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958367525
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

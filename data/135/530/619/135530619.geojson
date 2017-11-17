@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.010017,51.455032,7.010017,51.455032",
     "geom:latitude":51.455032,
     "geom:longitude":7.010017,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Waldthausenpark 4",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1Fd4gG7BbFQc4VbdZ8YqNE_51.455032_7.010017@1306268857"
     },
     "wof:country":"DE",
-    "wof:geomhash":"95dcb5673954e689e10ee1ff5cb8f849",
+    "wof:geomhash":"0aa1153c24e1dcb4453fd955fc2195d3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,16 @@
         }
     ],
     "wof:id":135530619,
-    "wof:lastmodified":1466234430,
+    "wof:lastmodified":1510943128,
     "wof:name":"Mfi Grundst\u00fccksentwicklungs- Gesellschaft Mbh & Co.",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974215317,
+        135579309,
+        958324439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

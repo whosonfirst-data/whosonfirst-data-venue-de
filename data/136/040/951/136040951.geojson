@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.53545,48.152298,11.53545,48.152298",
     "geom:latitude":48.152298,
     "geom:longitude":11.53545,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nymphenburger Stra\u00dfe 154",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0oDv9UJYwegZxNvS2m59nS_48.152298_11.535450@1306268888"
     },
     "wof:country":"DE",
-    "wof:geomhash":"492807ce47a1d5587300641be11ae4f8",
+    "wof:geomhash":"90da12adb12781721d54c9509b159980",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":136040951,
-    "wof:lastmodified":1466213992,
+    "wof:lastmodified":1510943195,
     "wof:name":"Danner Marketing Gmbh",
     "wof:parent_id":85899743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958355099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

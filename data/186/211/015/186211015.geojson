@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.212444,50.531139,11.212444,50.531139",
     "geom:latitude":50.531139,
     "geom:longitude":11.212444,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eisenwerkstra\u00dfe 7",
     "sg:city":"Schmiedefeld",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1aBk80UHtFTWMmg1gIcxzf_50.531139_11.212444@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ab490bbfff7868f3c9331e813c8c2d63",
+    "wof:geomhash":"cfc5d8ffbf1f70e0cc6b180ffcd378a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186211015,
-    "wof:lastmodified":1466215407,
+    "wof:lastmodified":1510943403,
     "wof:name":"Isoco Kunststofftechnik Gmbh & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186282867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

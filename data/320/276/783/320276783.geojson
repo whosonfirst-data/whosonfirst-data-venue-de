@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.822428,51.211498,6.822428,51.211498",
     "geom:latitude":51.211498,
     "geom:longitude":6.822428,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lierenfelderstra\u00dfe 45",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7FPGNX5rDA1simmJ5vx0Na_51.211498_6.822428@1306269142"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2e1312cbeb66ef24dac9b76bea438823",
+    "wof:geomhash":"ba781a6e219d60b84ccaea5a55770421",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320276783,
-    "wof:lastmodified":1466238636,
+    "wof:lastmodified":1510942722,
     "wof:name":"\u00dcberblick Verlags Gmbh",
     "wof:parent_id":85795219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974172867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

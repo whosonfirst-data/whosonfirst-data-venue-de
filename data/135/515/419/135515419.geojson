@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.063421,49.473675,11.063421,49.473675",
     "geom:latitude":49.473675,
     "geom:longitude":11.063421,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Forchheimer Str. 4",
     "sg:city":"N\u00fcrnberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4SreqEBdckXNsw1Jg5TMLA_49.473675_11.063421@1306268856"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8fa445d995c9a1db498c7d05bbf931cb",
+    "wof:geomhash":"1decfdea3d01e12fa4229f463a2c17b2",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":135515419,
-    "wof:lastmodified":1466233028,
+    "wof:lastmodified":1510943639,
     "wof:name":"Vcs Video Communi- Cation Systems Ag",
     "wof:parent_id":85899227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974371179
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.136363,50.175446,12.136363,50.175446",
     "geom:latitude":50.175446,
     "geom:longitude":12.136363,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wittelsbacher Str. 42",
     "sg:city":"Selb",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_345Mp8Co0Laie8vzUvZKQY_50.175446_12.136363@1306269131"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a22077f639703bb7e08894f1a62a318e",
+    "wof:geomhash":"a13e24668a1c045d7e5f619aa4b10add",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":303189743,
-    "wof:lastmodified":1466229219,
+    "wof:lastmodified":1510942045,
     "wof:name":"Netzsch-ger\u00e4tebau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319947117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

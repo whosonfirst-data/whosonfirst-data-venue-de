@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5956,48.147823,11.5956,48.147823",
     "geom:latitude":48.147823,
     "geom:longitude":11.5956,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Emil-Riedel-Str. 21",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0xERtN0OJw0Hked4lT3QrB_48.147823_11.595600@1306268897"
     },
     "wof:country":"DE",
-    "wof:geomhash":"417a005d047b4f8965c31ad230f4d880",
+    "wof:geomhash":"009a435121c3b9519d5e5427d9e5b573",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":185667521,
-    "wof:lastmodified":1466213812,
+    "wof:lastmodified":1510942650,
     "wof:name":"Blumengarten Im Lehel",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957931559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

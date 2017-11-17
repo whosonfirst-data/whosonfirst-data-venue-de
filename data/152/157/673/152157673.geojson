@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.327201,52.499226,13.327201,52.499226",
     "geom:latitude":52.499226,
     "geom:longitude":13.327201,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fasanenstr. 63",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4uodgoirFfbkAiim6ad2MA_52.499226_13.327201@1306268869"
     },
     "wof:country":"DE",
-    "wof:geomhash":"5a5bff855d5b372d3fe862c6aaacf28e",
+    "wof:geomhash":"83bf09dfb7fe881407804a6f6652d30a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":152157673,
-    "wof:lastmodified":1466213160,
+    "wof:lastmodified":1510943634,
     "wof:name":"Aph-projektgesellschaft F\u00fcr Hausbesitz Mbh & Co.",
     "wof:parent_id":85899239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940875663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

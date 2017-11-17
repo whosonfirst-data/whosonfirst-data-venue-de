@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.568084,48.069115,8.568084,48.069115",
     "geom:latitude":48.069115,
     "geom:longitude":8.568084,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Albertistr. 16",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_26sXY7qSv7rBhfRcRFZrdJ_48.069115_8.568084@1306269088"
     },
     "wof:country":"DE",
-    "wof:geomhash":"25c1929ac940f409719eae4ba412ba57",
+    "wof:geomhash":"f0a80f25b731be60c146c4be2b03d227",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186250677,
-    "wof:lastmodified":1466215838,
+    "wof:lastmodified":1510943128,
     "wof:name":"Opo Oeschger Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941151425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

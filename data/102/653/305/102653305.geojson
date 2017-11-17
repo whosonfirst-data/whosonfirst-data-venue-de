@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.07591,54.367882,10.07591,54.367882",
     "geom:latitude":54.367882,
     "geom:longitude":10.07591,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eckernf\u00f6rder Str. 358",
     "sg:city":"Kiel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6RNuTyyhMbzO6rLrTlCZ1r_54.367882_10.075910@1306268837"
     },
     "wof:country":"DE",
-    "wof:geomhash":"bd17703c9d1fd04b0c24bb33d7a279cb",
+    "wof:geomhash":"9e2d763206c03c8026bb133c5d2c51ab",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102653305,
-    "wof:lastmodified":1466214844,
+    "wof:lastmodified":1510943924,
     "wof:name":"Hansefunk Sicherheits- Technik Gmbh",
     "wof:parent_id":85900189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941252875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.009828,51.442856,7.009828,51.442856",
     "geom:latitude":51.442856,
     "geom:longitude":7.009828,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hohenzollernstr. 24",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_77IR0YaxHHHmgOddhD6NzG_51.442856_7.009828@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"eef172bb80a0669202a6f1b3bbdb6895",
+    "wof:geomhash":"707f571ef207e03c31f5120e1cbd6f80",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":286561219,
-    "wof:lastmodified":1466231627,
+    "wof:lastmodified":1510942175,
     "wof:name":"Ferrostaal Ag",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336659379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

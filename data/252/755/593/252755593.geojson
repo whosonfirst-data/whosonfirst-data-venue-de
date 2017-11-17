@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.83533,51.433189,6.83533,51.433189",
     "geom:latitude":51.433189,
     "geom:longitude":6.83533,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Duisburger Str. 351-353 Ruhr",
     "sg:city":"M\u00fclheim",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_7U0SG3qJmv2DNp2Eyt5524_51.433189_6.835330@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ff4f2b0211d615b79c221c5ee272f05f",
+    "wof:geomhash":"b5afd087f69f3a6baaaafeea6b989bc0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252755593,
-    "wof:lastmodified":1466219985,
+    "wof:lastmodified":1510943530,
     "wof:name":"Hermann Uhlenbruck Mineral\u00d6l Vertrieb Gmbh",
     "wof:parent_id":85796459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941272135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

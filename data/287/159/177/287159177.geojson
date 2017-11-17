@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.034124,51.443405,7.034124,51.443405",
     "geom:latitude":51.443405,
     "geom:longitude":7.034124,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Huttropstra\u00dfe 60",
     "sg:city":"Essen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3WCr5ftQpEACiiogBVpEe2_51.443405_7.034124@1306268944"
     },
     "wof:country":"DE",
-    "wof:geomhash":"53f4616219af11ebdcbfc225783f4aef",
+    "wof:geomhash":"2186440c8aec9a63f96ac8c4cf1bd8de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":287159177,
-    "wof:lastmodified":1466229354,
+    "wof:lastmodified":1510942779,
     "wof:name":"Ruhrgas Ag",
     "wof:parent_id":85796467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        957481735
+    ],
+    "wof:supersedes":[
+        252855931
+    ],
     "wof:tags":[]
 },
   "bbox": [

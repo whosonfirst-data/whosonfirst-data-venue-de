@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0482387543,50.3730010986,8.0482387543,50.3730010986",
     "geom:latitude":50.373001,
     "geom:longitude":8.048239,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werner-Von-Siemens-Str. 28",
     "sg:city":"Diez",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471987990,
-    "wof:geomhash":"ad663783cec2311501bb5110ec941f29",
+    "wof:geomhash":"85bf0141fc2b25c39bc93a0e171158a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,17 @@
         }
     ],
     "wof:id":940584685,
-    "wof:lastmodified":1471987990,
+    "wof:lastmodified":1510942194,
     "wof:name":"Wf Kaiser & Co. Gmbh",
     "wof:parent_id":85862831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        102656209
+    ],
+    "wof:supersedes":[
+        336602531
+    ],
     "wof:tags":[]
 },
   "bbox": [

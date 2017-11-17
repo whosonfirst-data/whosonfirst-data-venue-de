@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.937236,53.546089,9.937236,53.546089",
     "geom:latitude":53.546089,
     "geom:longitude":9.937236,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Palmaille 71",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1WNdXh9yuLBwWFsgs6r8yU_53.546089_9.937236@1306268869"
     },
     "wof:country":"DE",
-    "wof:geomhash":"660d2c6214347305fe902c1aa1a7a44b",
+    "wof:geomhash":"b1c8d08c0dd0a9c0e90ae480e02c2789",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":152147441,
-    "wof:lastmodified":1466234460,
+    "wof:lastmodified":1510944030,
     "wof:name":"Bau-verein Zu Hamburg Wohnungsgesellschaft Mbh",
     "wof:parent_id":85899243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152754623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

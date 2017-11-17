@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.857425,49.44075,6.857425,49.44075",
     "geom:latitude":49.44075,
     "geom:longitude":6.857425,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schmelzer Str. 7",
     "sg:city":"Schmelz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6hWYFo5opWegDQ8DXAYTKu_49.440750_6.857425@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"52acac0ac6299ab17f5090b6a6ea6aa1",
+    "wof:geomhash":"bd70cc0b09b9ec58b04a7f8554a43cc3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336647613,
-    "wof:lastmodified":1466234697,
+    "wof:lastmodified":1510943477,
     "wof:name":"Spig Schutzplanken Produktions-gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958127583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

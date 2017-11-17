@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.588696,48.156155,11.588696,48.156155",
     "geom:latitude":48.156155,
     "geom:longitude":11.588696,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Koeniginstrasse 107::",
     "sg:city":"Muenchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0OjEtszjIiPDMR65H62Res_48.156155_11.588696@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fc628a61c40f8a14d12662398cdbff8b",
+    "wof:geomhash":"63a0c68a27fdd3f6bf969692199ec059",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":118522981,
-    "wof:lastmodified":1466213799,
+    "wof:lastmodified":1510944039,
     "wof:name":"Muenchener Rueckversicherungs-gesellschaft Aktiengesellschaft",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957693295,
+        135367819
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

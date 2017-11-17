@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.585391,48.179367,11.585391,48.179367",
     "geom:latitude":48.179367,
     "geom:longitude":11.585391,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leopoldstr. 236",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1SuNZJtV74sty91U6B3yDR_48.179367_11.585391@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9449f1de59efd96dbd6edbc95c5a2525",
+    "wof:geomhash":"c5a8f85618f058056e9fae81b601e371",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269762177,
-    "wof:lastmodified":1466227532,
+    "wof:lastmodified":1510942215,
     "wof:name":"Pact Informations- Technologie Gmbh",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269766449
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.18689,50.160469,9.18689,50.160469",
     "geom:latitude":50.160469,
     "geom:longitude":9.18689,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00fctzelh\u00e4user Str 18",
     "sg:city":"Linsengericht",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_6PcAafulPd2sx0nhgxP88J_50.160469_9.186890@1306268798"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0d453076fa083fd6b1adc369f77a5109",
+    "wof:geomhash":"530accf974871ef8de05bd866dcb7709",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102564553,
-    "wof:lastmodified":1466213075,
+    "wof:lastmodified":1510943610,
     "wof:name":"Elementebau H\u00f6fler Gmbh",
     "wof:parent_id":85682531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119427783
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

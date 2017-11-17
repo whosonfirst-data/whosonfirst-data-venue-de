@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.761845,51.025257,13.761845,51.025257",
     "geom:latitude":51.025257,
     "geom:longitude":13.761845,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lockwitzer Str. 17::",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3kTvvBjhIJEMayTF1aSMb7_51.025257_13.761845@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"708a5f1d3c911b875d93e47d7d9cd26c",
+    "wof:geomhash":"af8d0a9144ee8ac3f6715450011f2858",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118525425,
-    "wof:lastmodified":1466213973,
+    "wof:lastmodified":1510941632,
     "wof:name":"St Treuhand-lincke & Rinke Gmbh Wirtschaftspruefungsgesellschaft",
     "wof:parent_id":85899525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135365879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

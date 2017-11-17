@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.358237,50.916111,13.358237,50.916111",
     "geom:latitude":50.916111,
     "geom:longitude":13.358237,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dresdner Str. 23",
     "sg:city":"Freiberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1gN4R8nSRFFgrmw3z18n6V_50.916111_13.358237@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7e157fbe71c4383cecb669d10c23603a",
+    "wof:geomhash":"fb574ca1f9a57adce2ce345639586364",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":336696487,
-    "wof:lastmodified":1466235736,
+    "wof:lastmodified":1510943601,
     "wof:name":"Freiberger Metallwarenfabrikpaul Bachmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940979019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

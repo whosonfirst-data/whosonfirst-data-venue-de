@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.54757,48.147781,8.54757,48.147781",
     "geom:latitude":48.147781,
     "geom:longitude":8.54757,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ahornstr. 4",
     "sg:city":"Zimmern",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4I1rZf7QjVHz1USFNbadcD_48.147781_8.547570@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f4bb7fa7183efcf6de9263f42dfb952a",
+    "wof:geomhash":"6b11ba0f92b530bb45268878ad5d1bcb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":319951723,
-    "wof:lastmodified":1466235680,
+    "wof:lastmodified":1510944155,
     "wof:name":"Rieger Pr\u00c4zisions Drehteile Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957480827
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

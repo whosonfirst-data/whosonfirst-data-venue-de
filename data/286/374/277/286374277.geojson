@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.549631,48.800495,10.549631,48.800495",
     "geom:latitude":48.800495,
     "geom:longitude":10.549631,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merzinger Str. 4",
     "sg:city":"M\u00f6ttingen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_5RTVN9eraT7bmEturkUodw_48.800495_10.549631@1306269122"
     },
     "wof:country":"DE",
-    "wof:geomhash":"17321873561b369b83b71e3d68347b83",
+    "wof:geomhash":"bd467d763b327f9cee7b3e6f080449a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":286374277,
-    "wof:lastmodified":1466227206,
+    "wof:lastmodified":1510941265,
     "wof:name":"Metallbau Bachmann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958368887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

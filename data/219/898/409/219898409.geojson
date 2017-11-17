@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.93409,51.524986,9.93409,51.524986",
     "geom:latitude":51.524986,
     "geom:longitude":9.93409,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lotzestr. 29",
     "sg:city":"G\u00f6ttingen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_1W9RgUdM6z4XGjZdcjxjJp_51.524986_9.934090@1306268911"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e093762a711cf58b362d51c6fd4c56ee",
+    "wof:geomhash":"bdd1a0f4c16b67a4cdedbc7fadd98264",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":219898409,
-    "wof:lastmodified":1466228329,
+    "wof:lastmodified":1510943918,
     "wof:name":"Hi-tech Vision Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320255189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

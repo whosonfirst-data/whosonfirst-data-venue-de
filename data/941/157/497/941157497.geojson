@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9101881981,50.9453468323,6.9101881981,50.9453468323",
     "geom:latitude":50.945347,
     "geom:longitude":6.910188,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weinsbergstr. 190",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472015921,
-    "wof:geomhash":"b2a5a4e0da72ebe6b81b39692795daa4",
+    "wof:geomhash":"6ed18a7a29737077c75dcd9f83441270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":941157497,
-    "wof:lastmodified":1472015921,
+    "wof:lastmodified":1510943471,
     "wof:name":"Stb Datenservice Gmbh",
     "wof:parent_id":85795883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957946031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

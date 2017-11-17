@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.002394,51.332619,7.002394,51.332619",
     "geom:latitude":51.332619,
     "geom:longitude":7.002394,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Zeiss-Str 29",
     "sg:city":"Heiligenhaus",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0uSq43JroXc6CBT9U7Cje4_51.332619_7.002394@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"635b6b4ea6973743fef52cd2f8000130",
+    "wof:geomhash":"f5438cd9de8fc4930c7569c989dc61b4",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102755897,
-    "wof:lastmodified":1466218589,
+    "wof:lastmodified":1510941558,
     "wof:name":"Elektroanlagen H\u00f6lzemann-sparr Gmbh",
     "wof:parent_id":101755995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974371971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

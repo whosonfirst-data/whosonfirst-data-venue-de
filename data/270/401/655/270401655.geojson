@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.142836,48.70179,9.142836,48.70179",
     "geom:latitude":48.70179,
     "geom:longitude":9.142836,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Max-Lang-Strasse 62",
     "sg:city":"Leinfelden Echterdingen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_3AGZGqgdUxQkKcDJWWbjER_48.701790_9.142836@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"4f33eb48198f4735e9fd25a461c21409",
+    "wof:geomhash":"85155b4aa19254d36e0417e511a72e2c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":270401655,
-    "wof:lastmodified":1466231116,
+    "wof:lastmodified":1510941401,
     "wof:name":"Rieker Druckveredelung Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957473099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

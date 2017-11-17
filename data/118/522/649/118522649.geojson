@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.805022,50.827709,6.805022,50.827709",
     "geom:latitude":50.827709,
     "geom:longitude":6.805022,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Peter-May-Str. 45::",
     "sg:city":"Erftstadt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1oSBUvdw25e6l3h7y2tn91_50.827709_6.805022@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e1325d16f4529dfc93da8f2f601caf40",
+    "wof:geomhash":"bd8ec8fa636d6e3b7d295bfbb77c55a3",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118522649,
-    "wof:lastmodified":1466213778,
+    "wof:lastmodified":1510942597,
     "wof:name":"May Holding Gmbh & Co Kg",
     "wof:parent_id":101748637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940939341
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

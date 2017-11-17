@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.038945,49.934826,9.038945,49.934826",
     "geom:latitude":49.934826,
     "geom:longitude":9.038945,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mittelweg 4 POSTFACH 1205",
     "sg:city":"Gro\u00dfostheim",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_6FdZgCMKLj4D2RRaTUzkMn_49.934826_9.038945@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"99f19b509d3005e4e1af38758dedd2ca",
+    "wof:geomhash":"973fe2a1a3f117d0480c1bac9573ddb3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":319986003,
-    "wof:lastmodified":1466236430,
+    "wof:lastmodified":1510943085,
     "wof:name":"Brisay-maschinen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941308535
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.308249,51.043163,11.308249,51.043163",
     "geom:latitude":51.043163,
     "geom:longitude":11.308249,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weg Nach Schwerstedt 34",
     "sg:city":"Heichelheim",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_4XCD2Dr6HL0DFjJimopBo4_51.043163_11.308249@1306268795"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fc00082ab16196559af8f3b72b55414f",
+    "wof:geomhash":"84ec1d493b5c005f1933cd142cc8d69a",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":102562729,
-    "wof:lastmodified":1466233183,
+    "wof:lastmodified":1510943411,
     "wof:name":"Karland Agrarprodukte Gmbh & Co Kg",
     "wof:parent_id":85682541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957350471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

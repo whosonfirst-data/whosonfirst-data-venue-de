@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.240164,48.1474,10.240164,48.1474",
     "geom:latitude":48.1474,
     "geom:longitude":10.240164,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sch\u00f6neggwg. 26",
     "sg:city":"Babenhausen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0p6aln98lAoaGS0CjCvmED_48.147400_10.240164@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6582dc1f6f1e6b4da218bcfc2ab50337",
+    "wof:geomhash":"d780c07ae22c989ab1b08c662622d9fc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320504785,
-    "wof:lastmodified":1466241082,
+    "wof:lastmodified":1510943843,
     "wof:name":"Bader Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320704607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

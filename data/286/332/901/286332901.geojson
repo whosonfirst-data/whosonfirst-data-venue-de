@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.154757,51.035473,13.154757,51.035473",
     "geom:latitude":51.035473,
     "geom:longitude":13.154757,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karl-Wagner-Str. 2A",
     "sg:city":"Tiefenbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6dvVe8ow5Jo2cXt4hfHfwQ_51.035473_13.154757@1306269122"
     },
     "wof:country":"DE",
-    "wof:geomhash":"dc27e9a2c7aa36e95eb7d8035ba100ac",
+    "wof:geomhash":"be780f9e0922e9da2fd6fa8ac1fc82a1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":286332901,
-    "wof:lastmodified":1466226264,
+    "wof:lastmodified":1510943328,
     "wof:name":"Erla-dachrand- Verkleidungen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974460167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

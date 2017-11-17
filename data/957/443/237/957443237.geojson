@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9921522141,53.5574874878,9.9921522141,53.5574874878",
     "geom:latitude":53.557487,
     "geom:longitude":9.992152,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Esplanade 6",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472042285,
-    "wof:geomhash":"2b4358bfcc3a71335bba65d438c0108e",
+    "wof:geomhash":"cd83475b7293b42c056332840f80808c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":957443237,
-    "wof:lastmodified":1472042285,
+    "wof:lastmodified":1510943585,
     "wof:name":"Syntesia Chemie Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941145883,
+        957447415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

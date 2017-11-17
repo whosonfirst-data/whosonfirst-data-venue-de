@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.88546,49.25219,6.88546,49.25219",
     "geom:latitude":49.25219,
     "geom:longitude":6.88546,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stra\u00dfe des 13. Januar 190",
     "sg:city":"V\u00f6lklingen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_2GjBGYBrPM1D6kVvq7T7QT_49.252190_6.885460@1306268865"
     },
     "wof:country":"DE",
-    "wof:geomhash":"937bf40fc74abff44a1120713ac3d8f0",
+    "wof:geomhash":"988bee9a36558d776c6fcf0b7500b4ea",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135675807,
-    "wof:lastmodified":1466241816,
+    "wof:lastmodified":1510943787,
     "wof:name":"Wilhelm G\u00f6rgen",
     "wof:parent_id":85796285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974485997
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

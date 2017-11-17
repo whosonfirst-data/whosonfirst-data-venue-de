@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8030757904,52.3878898621,9.8030757904,52.3878898621",
     "geom:latitude":52.38789,
     "geom:longitude":9.803076,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Feodor-Lynen-Str 5",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472042286,
-    "wof:geomhash":"949e2591a957a78a09b09b8d4d03b024",
+    "wof:geomhash":"d3f86f75820f2d3bc29d25fbaaa40ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957443261,
-    "wof:lastmodified":1472042286,
+    "wof:lastmodified":1510943976,
     "wof:name":"Pegasus Pharma Arzneimittelherstellung Gmbh",
     "wof:parent_id":85899361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957447631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.586631,48.155941,11.586631,48.155941",
     "geom:latitude":48.155941,
     "geom:longitude":11.586631,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gedonstr. 2",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_30cOebyrA08vsHU1zPMZiD_48.155941_11.586631@1306268929"
     },
     "wof:country":"DE",
-    "wof:geomhash":"34a1b08563cea6323f6c7f4fb3a74e93",
+    "wof:geomhash":"43a7182e5012de4feb4f1d06e968a24b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269734983,
-    "wof:lastmodified":1466226857,
+    "wof:lastmodified":1510943171,
     "wof:name":"Callasong.de Ag",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940746583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.005723,52.367493,9.005723,52.367493",
     "geom:latitude":52.367493,
     "geom:longitude":9.005723,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 64",
     "sg:city":"Petershagen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_5FXYxQc6MoWhWMufbrSInf_52.367493_9.005723@1306268807"
     },
     "wof:country":"DE",
-    "wof:geomhash":"81472a381570f33739077b513d69db2d",
+    "wof:geomhash":"7183c9d5e81c2214992dfeace3f1aabd",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -37,13 +40,17 @@
         }
     ],
     "wof:id":118895147,
-    "wof:lastmodified":1466235892,
+    "wof:lastmodified":1510943658,
     "wof:name":"Hirsch-apotheke",
     "wof:parent_id":85682513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320337617
+    ],
+    "wof:supersedes":[
+        320337617
+    ],
     "wof:tags":[]
 },
   "bbox": [

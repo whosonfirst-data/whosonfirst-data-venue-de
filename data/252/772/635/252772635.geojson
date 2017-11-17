@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.770211,51.246334,6.770211,51.246334",
     "geom:latitude":51.246334,
     "geom:longitude":6.770211,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bennigsenplatz 1",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4uW0gU6kN60L6jQYaH8rKW_51.246334_6.770211@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"004df2375d588329bf462c0da2b52053",
+    "wof:geomhash":"cacb4300493176efc6ddaeab0048683d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252772635,
-    "wof:lastmodified":1466220324,
+    "wof:lastmodified":1510942236,
     "wof:name":"Degussa Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252813927
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

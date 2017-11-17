@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.817335,51.299706,6.817335,51.299706",
     "geom:latitude":51.299706,
     "geom:longitude":6.817335,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserswerther Str. 115",
     "sg:city":"Ratingen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_7i2AEiiRL3APkBRmGnrcD3_51.299706_6.817335@1306269128"
     },
     "wof:country":"DE",
-    "wof:geomhash":"37886372ba57e4efc01f46459321ef27",
+    "wof:geomhash":"7e47506ebec971d3ad50b5227226529f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":287112449,
-    "wof:lastmodified":1466228073,
+    "wof:lastmodified":1510942549,
     "wof:name":"Acome Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219961067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

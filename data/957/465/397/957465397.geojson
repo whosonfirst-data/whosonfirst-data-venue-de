@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1195640564,50.7987823486,6.1195640564,50.7987823486",
     "geom:latitude":50.798782,
     "geom:longitude":6.119564,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hergelsbendenstr. 20",
     "sg:city":"Aachen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472043477,
-    "wof:geomhash":"cdb327ff5ad171dedca4d2191140015c",
+    "wof:geomhash":"09e60d21c48f5ca9947cd849df4224e7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":957465397,
-    "wof:lastmodified":1472043477,
+    "wof:lastmodified":1510942821,
     "wof:name":"Wilhelm K\u00f6pp Zellkautschuk Gmbh & Co.",
     "wof:parent_id":85795391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957691599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

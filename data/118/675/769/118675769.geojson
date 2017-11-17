@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.202837,51.135738,7.202837,51.135738",
     "geom:latitude":51.135738,
     "geom:longitude":7.202837,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Burger Str 28",
     "sg:city":"Wermelskirchen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_14Nh8hW5fdZBIcDe8vVGzw_51.135738_7.202837@1306268798"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fa804eef674faca449ec127240d15076",
+    "wof:geomhash":"f854fa83ebb7968fb9117a6c8d5033e6",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118675769,
-    "wof:lastmodified":1466222484,
+    "wof:lastmodified":1510941997,
     "wof:name":"Alu-bau Burger Gmbh",
     "wof:parent_id":85796227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118677545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

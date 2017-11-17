@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.10367,50.733761,7.10367,50.733761",
     "geom:latitude":50.733761,
     "geom:longitude":7.10367,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Regina-Pacis-Weg 7",
     "sg:city":"Bonn",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6Iy95rcBnYBiY4UJZWjR4Z_50.733761_7.103670@1306268824"
     },
     "wof:country":"DE",
-    "wof:geomhash":"135c4f7f6044bb7cf1a9e0fb4421f1a8",
+    "wof:geomhash":"558ef54362ed03b540439d6a6a058dac",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":119210443,
-    "wof:lastmodified":1466229736,
+    "wof:lastmodified":1510943905,
     "wof:name":"Institut F\u00fcr Vor- Und Fr\u00fchgeschichte",
     "wof:parent_id":85794887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940632811
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

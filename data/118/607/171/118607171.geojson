@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.678414,50.568455,9.678414,50.568455",
     "geom:latitude":50.568455,
     "geom:longitude":9.678414,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hermann-Muth-Str 4",
     "sg:city":"Fulda",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2RsDtBx6E62HW84F462RcO_50.568455_9.678414@1306268796"
     },
     "wof:country":"DE",
-    "wof:geomhash":"eb48ba7d7871e9e8a45ae332e7c1de84",
+    "wof:geomhash":"1f1024dc559cddf4e94d4b9555ea5b15",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118607171,
-    "wof:lastmodified":1466218628,
+    "wof:lastmodified":1510942991,
     "wof:name":"Friedrich Zufall Gmbh & Co Kg",
     "wof:parent_id":101748593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958341011
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

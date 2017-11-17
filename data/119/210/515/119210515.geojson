@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.770047,50.807041,8.770047,50.807041",
     "geom:latitude":50.807041,
     "geom:longitude":8.770047,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Universit\u00e4tsstr. 6",
     "sg:city":"Marburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4cmbq2AHcPQGTwlk7iYdrh_50.807041_8.770047@1306268824"
     },
     "wof:country":"DE",
-    "wof:geomhash":"28c88d303607b9085b5ee15f98db2757",
+    "wof:geomhash":"1df86358e9c50ebfcbb47ebee1275c6f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":119210515,
-    "wof:lastmodified":1466229745,
+    "wof:lastmodified":1510941446,
     "wof:name":"Institut F\u00fcr \u00f6ffentliches Recht",
     "wof:parent_id":101748615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940640855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

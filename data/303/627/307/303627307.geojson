@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.406563,51.312298,10.406563,51.312298",
     "geom:latitude":51.312298,
     "geom:longitude":10.406563,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dingelst\u00e4dter Str 15",
     "sg:city":"Beberstedt",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_5QfGImWtXysjqWgxdh7PvT_51.312298_10.406563@1306268950"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9d1572dd7a1f6777776028e492f8757f",
+    "wof:geomhash":"195ae952e491bf8dcd541ddfc592e75c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":303627307,
-    "wof:lastmodified":1466238530,
+    "wof:lastmodified":1510942914,
     "wof:name":"N\u00f6ring & Prei\u00dfler Brunnenbau- Und Bohr Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958288591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

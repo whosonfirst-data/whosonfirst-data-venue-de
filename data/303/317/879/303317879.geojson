@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.982947,53.548241,9.982947,53.548241",
     "geom:latitude":53.548241,
     "geom:longitude":9.982947,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herrengraben 74",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5CMvxKtny8n8aNjh9DLLuG_53.548241_9.982947@1306269132"
     },
     "wof:country":"DE",
-    "wof:geomhash":"77ba4ddacee4d0e7e6e4b8222ebe8787",
+    "wof:geomhash":"6ea1872c455f6efd8116de30f08f5b67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":303317879,
-    "wof:lastmodified":1466232359,
+    "wof:lastmodified":1510942571,
     "wof:name":"Hanyuan Technical Service Center Gmbh",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        941252597
+    ],
+    "wof:supersedes":[
+        270237139
+    ],
     "wof:tags":[]
 },
   "bbox": [

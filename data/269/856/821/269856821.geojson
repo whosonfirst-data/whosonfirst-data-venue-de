@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.00437,51.219189,7.00437,51.219189",
     "geom:latitude":51.219189,
     "geom:longitude":7.00437,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"D\u00fcsselberger Str 19",
     "sg:city":"Haan",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6aykTd4dRpuqAYQBZIH7Y3_51.219189_7.004370@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2b9077a5312dc46085963b41f76ea383",
+    "wof:geomhash":"7e489564552da1c93f2cb8c0c579ef95",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":269856821,
-    "wof:lastmodified":1466229727,
+    "wof:lastmodified":1510942142,
     "wof:name":"Da Vinci Artfleur Gmbh & Co Kg",
     "wof:parent_id":85862931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957443039
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

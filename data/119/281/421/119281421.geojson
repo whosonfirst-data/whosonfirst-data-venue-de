@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.444209,48.069061,8.444209,48.069061",
     "geom:latitude":48.069061,
     "geom:longitude":8.444209,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Krebsgraben 15",
     "sg:city":"Villingen-Schwenningen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2wvtLcrRY7qrXWksqYVQJB_48.069061_8.444209@1306268828"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b294a56bd739371ca515cdd68144daab",
+    "wof:geomhash":"9c0d0c93cf3a891fcfbbf1b8bf434fd5",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,13 +43,17 @@
         }
     ],
     "wof:id":119281421,
-    "wof:lastmodified":1466236464,
+    "wof:lastmodified":1510943763,
     "wof:name":"Revox Gmbh",
     "wof:parent_id":101748477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        958139353
+    ],
+    "wof:supersedes":[
+        135515417
+    ],
     "wof:tags":[]
 },
   "bbox": [

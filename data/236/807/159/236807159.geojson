@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.55473,52.031445,8.55473,52.031445",
     "geom:latitude":52.031445,
     "geom:longitude":8.55473,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Stadtholz 39",
     "sg:city":"Bielefeld",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3eNaRV7fGuZL0bqe58H1mN_52.031445_8.554730@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e5bb65c51dd67a1f094e5bacb7fa13e7",
+    "wof:geomhash":"c79406bad5da1e5128ab28a9ef3f5e41",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":236807159,
-    "wof:lastmodified":1466233729,
+    "wof:lastmodified":1510943804,
     "wof:name":"Anker Systems Gmbh",
     "wof:parent_id":85796357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320487557
+    ],
+    "wof:supersedes":[
+        303144893
+    ],
     "wof:tags":[]
 },
   "bbox": [

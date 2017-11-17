@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7465677261,51.0465812683,13.7465677261,51.0465812683",
     "geom:latitude":51.046581,
     "geom:longitude":13.746568,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lingnerallee 3",
     "sg:city":"Dresden",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472043518,
-    "wof:geomhash":"cb7660c5fbfb59cf704a630230ee5a22",
+    "wof:geomhash":"316ff92ab09dcf89a8ae026b9d1cc796",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":957466209,
-    "wof:lastmodified":1472043518,
+    "wof:lastmodified":1510942669,
     "wof:name":"Sv Saxonia Verlag F\u00fcr Recht Wirtschaft Und Kultur Gmbh",
     "wof:parent_id":85898963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940973765
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

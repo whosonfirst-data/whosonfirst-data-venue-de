@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.123562,51.176777,8.123562,51.176777",
     "geom:latitude":51.176777,
     "geom:longitude":8.123562,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hunold-Rump-Str. 76-80 POSTFACH 8004",
     "sg:city":"Lennestadt",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_00dfFddrBCRmkNd6k1pJ1e_51.176777_8.123562@1306269147"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e5cd93c6bc52f254a580bd06cd065199",
+    "wof:geomhash":"ff4003ae4cf9d98a5cb2b7022f0676f3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":336648751,
-    "wof:lastmodified":1466234724,
+    "wof:lastmodified":1510943354,
     "wof:name":"Tracto Technik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957449389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

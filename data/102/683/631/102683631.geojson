@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.90973,50.987785,6.90973,50.987785",
     "geom:latitude":50.987785,
     "geom:longitude":6.90973,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Perthel-Str. 55",
     "sg:city":"K\u00f6ln",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0CbmAQPFiA7tSuL5mA5SDm_50.987785_6.909730@1306268873"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e967108c62ff685cc4f0d06a37723b6b",
+    "wof:geomhash":"6bcfffac8af9aef4fe349383c9a95c1c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":102683631,
-    "wof:lastmodified":1466215640,
+    "wof:lastmodified":1510941796,
     "wof:name":"Gerhard K. Dirks Gmbh & Co. Akustikbau Kg",
     "wof:parent_id":85795833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957391715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

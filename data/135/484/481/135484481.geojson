@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.633198,52.417294,9.633198,52.417294",
     "geom:latitude":52.417294,
     "geom:longitude":9.633198,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Leineufer 51",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3r3XkzyP7AY8HUBDzTSyqe_52.417294_9.633198@1306268854"
     },
     "wof:country":"DE",
-    "wof:geomhash":"adbdaab617af22ea2a90b42a5ace56a2",
+    "wof:geomhash":"3e77c0d940223f3e0c8145c1e305e297",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,13 +43,17 @@
         }
     ],
     "wof:id":135484481,
-    "wof:lastmodified":1466230240,
+    "wof:lastmodified":1510943991,
     "wof:name":"Vb Autobatterie Gmbh",
     "wof:parent_id":85907711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320523927
+    ],
+    "wof:supersedes":[
+        118610047
+    ],
     "wof:tags":[]
 },
   "bbox": [

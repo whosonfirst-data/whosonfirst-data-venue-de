@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.82305,51.263287,6.82305,51.263287",
     "geom:latitude":51.263287,
     "geom:longitude":6.82305,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kanzlerstr. 4",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_68qw2jHhu5lLLGRbhADot9_51.263287_6.823050@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"39e4daf8696b3f9a63979bf8e61a7347",
+    "wof:geomhash":"9c95cb5d5d2bf1c83919655ed80722c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252776975,
-    "wof:lastmodified":1466220421,
+    "wof:lastmodified":1510941296,
     "wof:name":"Ceva Tiergesundheit Gmbh",
     "wof:parent_id":85794683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957448771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

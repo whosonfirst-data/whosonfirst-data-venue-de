@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.147666,49.424717,12.147666,49.424717",
     "geom:latitude":49.424717,
     "geom:longitude":12.147666,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werksweg 2",
     "sg:city":"Stulln",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_538AtQ0fqx0AX1oFw7NAka_49.424717_12.147666@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"11b55747dca31d6ab3a4e61141e9bcb6",
+    "wof:geomhash":"1287a6b34d6194b35d663c603b1a08d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":252765659,
-    "wof:lastmodified":1466220180,
+    "wof:lastmodified":1510943763,
     "wof:name":"Fluorchemie Stulln Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252869933,
+        118754189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

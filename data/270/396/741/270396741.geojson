@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.250394,48.70705,9.250394,48.70705",
     "geom:latitude":48.70705,
     "geom:longitude":9.250394,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Siemensstra\u00dfe 16",
     "sg:city":"Ostfildern",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_0AaDXDzVtyXwHEaeZ0r4UZ_48.707050_9.250394@1306268935"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8f0beb58db43bef64a78c91858511482",
+    "wof:geomhash":"ef5e64f11d841c5ab73e085ebf7e55e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270396741,
-    "wof:lastmodified":1466230990,
+    "wof:lastmodified":1510942467,
     "wof:name":"Kurtz & Puchner Gmbh & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957471901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

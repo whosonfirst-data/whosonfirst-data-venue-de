@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.24164,50.751827,6.24164,50.751827",
     "geom:latitude":50.751827,
     "geom:longitude":6.24164,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00fcst 30",
     "sg:city":"Stolberg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1yDOzfCqUq87OZavDCQyVm_50.751827_6.241640@1306268854"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9fae66da52e4ff31c92e00b125e67dd8",
+    "wof:geomhash":"96742571ab8b606803bd9254a6184b1c",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135483131,
-    "wof:lastmodified":1466230115,
+    "wof:lastmodified":1510941461,
     "wof:name":"Bsr Naturstein-aufbereitungs Gmbh",
     "wof:parent_id":85795769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958131501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

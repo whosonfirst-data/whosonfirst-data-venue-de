@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.49539,47.953365,8.49539,47.953365",
     "geom:latitude":47.953365,
     "geom:longitude":8.49539,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Muehlenstr. 1::",
     "sg:city":"Donaueschingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2OqFDS3myTbJXHZwHEQ9Y0_47.953365_8.495390@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"26596c5b35f1ef2e4fb0617c19a35607",
+    "wof:geomhash":"191644c3ce002cf1b879999ecf046741",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118524883,
-    "wof:lastmodified":1466213939,
+    "wof:lastmodified":1510943942,
     "wof:name":"Sparkasse Donaueschingen",
     "wof:parent_id":101828671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135366771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

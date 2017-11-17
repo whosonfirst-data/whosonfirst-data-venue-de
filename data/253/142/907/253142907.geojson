@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.36041,50.9151,13.36041,50.9151",
     "geom:latitude":50.9151,
     "geom:longitude":13.36041,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dresdner Str. 27a",
     "sg:city":"Freiberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_060oJEKfebIygnKf2B8oXr_50.915100_13.360410@1306268923"
     },
     "wof:country":"DE",
-    "wof:geomhash":"604f1f94bb377aed242dc62783bf87d0",
+    "wof:geomhash":"ae20c13048543c43e434a6f4b3596475",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":253142907,
-    "wof:lastmodified":1466222038,
+    "wof:lastmodified":1510942027,
     "wof:name":"Landschaftsgestaltung Stra\u00dfen-tief-und Wasserbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252927035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

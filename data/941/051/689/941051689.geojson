@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7894878387,53.0124320984,8.7894878387,53.0124320984",
     "geom:latitude":53.012432,
     "geom:longitude":8.789488,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bremer Stra\u00dfe 2",
     "sg:city":"Stuhr",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472011142,
-    "wof:geomhash":"18835dddc75f817756e2a7ea7cd94d93",
+    "wof:geomhash":"4af6fae47c357bba8c51d7df0da1eff1",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":941051689,
-    "wof:lastmodified":1472011142,
+    "wof:lastmodified":1510943162,
     "wof:name":"W. D\u00fcnzelmann-hausverwaltungen Gmbh",
     "wof:parent_id":85862859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941140119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

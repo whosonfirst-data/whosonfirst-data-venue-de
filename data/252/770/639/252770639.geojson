@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.544506,48.966736,8.544506,48.966736",
     "geom:latitude":48.966736,
     "geom:longitude":8.544506,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Durlacherw. 39",
     "sg:city":"Pfinztal",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5olJoEfFL7FJzyTYYIrupI_48.966736_8.544506@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a41cb7238c599717945d6ceb07bdfe91",
+    "wof:geomhash":"1447a0dd49d95529a817815291711c7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252770639,
-    "wof:lastmodified":1466220282,
+    "wof:lastmodified":1510941448,
     "wof:name":"Hoffmann Gmbh & Co Kg",
     "wof:parent_id":85796593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252823965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

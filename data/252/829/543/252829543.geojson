@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.104588,53.647346,10.104588,53.647346",
     "geom:latitude":53.647346,
     "geom:longitude":10.104588,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"W\u00f6lckenstr. 11",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_6AzgEfEEcEEQiS9Qcnhu6h_53.647346_10.104588@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ede7aeb541a61b2d72149267dbbff954",
+    "wof:geomhash":"e06c1b5859e4de8b51993de2e33193c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":252829543,
-    "wof:lastmodified":1466221418,
+    "wof:lastmodified":1510943874,
     "wof:name":"Htk Hamburg Gmbh",
     "wof:parent_id":85900001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974462269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

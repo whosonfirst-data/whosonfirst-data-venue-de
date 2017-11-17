@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.563396,49.742188,6.563396,49.742188",
     "geom:latitude":49.742188,
     "geom:longitude":6.563396,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Niederkircher Str. 27",
     "sg:city":"Trier",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_6NrmJ2vlx7pdLsFX9QTcnV_49.742188_6.563396@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6980ea8e0a0111135762ae53dd02649b",
+    "wof:geomhash":"ef492b66d39b1577250cdbbe3a46e1fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":303126703,
-    "wof:lastmodified":1466227620,
+    "wof:lastmodified":1510943970,
     "wof:name":"Sektkellerei Schloss Wachenheim Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957959195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

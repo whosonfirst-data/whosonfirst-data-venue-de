@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.143641,49.88076,9.143641,49.88076",
     "geom:latitude":49.88076,
     "geom:longitude":9.143641,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriering 7",
     "sg:city":"Gro\u00dfwallstadt",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_64Uzu5aXleJbWxE4eFIgsD_49.880760_9.143641@1306268933"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c3838d4198dc829614bb154f49188141",
+    "wof:geomhash":"bd97659b09e40e0326dfc44bf02df8c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":270133051,
-    "wof:lastmodified":1466224492,
+    "wof:lastmodified":1510943222,
     "wof:name":"X-tended Engineering Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941204897
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.883773,53.629791,9.883773,53.629791",
     "geom:latitude":53.629791,
     "geom:longitude":9.883773,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Siemensstr. 35 B",
     "sg:city":"Rellingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_37AKRyKXPQhIi2bxqSYv5O_53.629791_9.883773@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fa75c686412c8e6973eff1ca21aee4ac",
+    "wof:geomhash":"ed348c07ffc3d893a5880c4e4a52d67f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":320501865,
-    "wof:lastmodified":1466240908,
+    "wof:lastmodified":1510944044,
     "wof:name":"Tobias Grau Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957938761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

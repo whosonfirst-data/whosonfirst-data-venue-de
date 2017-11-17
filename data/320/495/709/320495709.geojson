@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.393876,51.912113,8.393876,51.912113",
     "geom:latitude":51.912113,
     "geom:longitude":8.393876,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carl-Miele-Str. 29",
     "sg:city":"G\u00fctersloh",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1SWy3yzlcQyZ5w2l0Jxw7r_51.912113_8.393876@1306268959"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3cb84494b2809ff11078eb13aebfe63e",
+    "wof:geomhash":"9b5dcd8758145213ec0f04638cd24b4b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,15 @@
         }
     ],
     "wof:id":320495709,
-    "wof:lastmodified":1466240829,
+    "wof:lastmodified":1510942804,
     "wof:name":"Miele & Cie Gmbh & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940861085,
+        957933727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

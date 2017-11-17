@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5903339386,48.130771637,11.5903339386,48.130771637",
     "geom:latitude":48.130772,
     "geom:longitude":11.590334,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rosenheimer Str 30",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472070980,
-    "wof:geomhash":"16ba5e9ca45f34a57c270314d8d75774",
+    "wof:geomhash":"effcdd2b9b3a2b6ce2becbdd01769572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":957940879,
-    "wof:lastmodified":1472070980,
+    "wof:lastmodified":1510942548,
     "wof:name":"Spss Gmbh",
     "wof:parent_id":85905611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957952727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

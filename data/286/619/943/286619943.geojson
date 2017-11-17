@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.414444,51.325787,12.414444,51.325787",
     "geom:latitude":51.325787,
     "geom:longitude":12.414444,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Melscher Str 1",
     "sg:city":"Leipzig",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_02TErZAaRnkEpdmQC2QBUn_51.325787_12.414444@1306269124"
     },
     "wof:country":"DE",
-    "wof:geomhash":"65715216a6f8b4e25bace73eaf63f475",
+    "wof:geomhash":"2c2de31bb716c6ce23dbf428764de0d1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,15 @@
         }
     ],
     "wof:id":286619943,
-    "wof:lastmodified":1466233177,
+    "wof:lastmodified":1510943708,
     "wof:name":"Cosifan Computersysteme Gmbh",
     "wof:parent_id":85899109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940701261,
+        940709401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

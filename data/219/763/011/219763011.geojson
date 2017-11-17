@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.957077,53.630978,9.957077,53.630978",
     "geom:latitude":53.630978,
     "geom:longitude":9.957077,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Habichthorst 36",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_38eUEZQu1sB82wAbxwm7dx_53.630978_9.957077@1306268910"
     },
     "wof:country":"DE",
-    "wof:geomhash":"7614323b306f360c3535abe01888ba73",
+    "wof:geomhash":"58c5610b21161e583eda746181664e7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":219763011,
-    "wof:lastmodified":1466225574,
+    "wof:lastmodified":1510941293,
     "wof:name":"Uchida Yoko Europe Gmbh",
     "wof:parent_id":85899181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941499379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

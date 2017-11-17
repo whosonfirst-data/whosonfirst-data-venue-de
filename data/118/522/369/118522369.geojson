@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.013055,48.799042,9.013055,48.799042",
     "geom:latitude":48.799042,
     "geom:longitude":9.013055,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lindenstr. 21::",
     "sg:city":"Leonberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2IMxBYDjCVsWEmZ419PT8X_48.799042_9.013055@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"aa358b9d758df824daa125165e66aaad",
+    "wof:geomhash":"d1c3d334b9866af5b4e0820dd8160895",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118522369,
-    "wof:lastmodified":1466213760,
+    "wof:lastmodified":1510941340,
     "wof:name":"Leonberger Bausparkasse Ag",
     "wof:parent_id":101755901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287157319
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

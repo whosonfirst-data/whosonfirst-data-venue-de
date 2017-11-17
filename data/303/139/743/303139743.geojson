@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.482545,51.214825,6.482545,51.214825",
     "geom:latitude":51.214825,
     "geom:longitude":6.482545,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ueddinger Str 167",
     "sg:city":"M\u00f6nchengladbach",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4SpE9CIQaA4bOxLhSM7Ul3_51.214825_6.482545@1306268946"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a7977177e79d5b2ff530ed1438055985",
+    "wof:geomhash":"c8ebcc53f68c564d38601876654f229f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303139743,
-    "wof:lastmodified":1466227931,
+    "wof:lastmodified":1510943735,
     "wof:name":"Hps Antriebstechnische Elemente Volker Heymanns",
     "wof:parent_id":85795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320143575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

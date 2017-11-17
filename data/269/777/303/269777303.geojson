@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.173089,48.694672,9.173089,48.694672",
     "geom:latitude":48.694672,
     "geom:longitude":9.173089,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Esslinger Str. 7",
     "sg:city":"Leinfelden-Echterdingen",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1PvQm6dPvzax4OMOh3JZvh_48.694672_9.173089@1306268930"
     },
     "wof:country":"DE",
-    "wof:geomhash":"51de7e89ba9670a6923306c148221534",
+    "wof:geomhash":"4d6d4dc06ad2c2244f64b68d030aad5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":269777303,
-    "wof:lastmodified":1466227909,
+    "wof:lastmodified":1510943519,
     "wof:name":"Intelligent Instrumentation Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941050857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

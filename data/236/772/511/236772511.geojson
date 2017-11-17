@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.444689,51.836575,8.444689,51.836575",
     "geom:latitude":51.836575,
     "geom:longitude":8.444689,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Varenseller Str 11-15",
     "sg:city":"Rietberg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1hfwkOGyrFmrKVuKXfZ3vQ_51.836575_8.444689@1306268918"
     },
     "wof:country":"DE",
-    "wof:geomhash":"9a81ad448c4e9e0f125906769429e309",
+    "wof:geomhash":"71e3fce01a3eace5b6c0b890f8d58e3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":236772511,
-    "wof:lastmodified":1466233082,
+    "wof:lastmodified":1510943781,
     "wof:name":"Lear Corporation Gmbh & Co Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941501797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

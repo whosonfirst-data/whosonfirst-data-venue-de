@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.85937,48.623718,7.85937,48.623718",
     "geom:latitude":48.623718,
     "geom:longitude":7.85937,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Linxer Str. 26",
     "sg:city":"Kehl",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_37Nc5vj1xmUzr0g9xjYKaC_48.623718_7.859370@1306269140"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8c8039a9a6ca14fa096dff0cfdea1ff0",
+    "wof:geomhash":"8ddf205264dcae1f18744de36422ff0a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":320094681,
-    "wof:lastmodified":1466235509,
+    "wof:lastmodified":1510941863,
     "wof:name":"Wsk K\u00c4lte-klimatechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102643671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

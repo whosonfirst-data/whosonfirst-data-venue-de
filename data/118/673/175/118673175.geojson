@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.089327,53.575127,10.089327,53.575127",
     "geom:latitude":53.575127,
     "geom:longitude":10.089327,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Neumarkt 30",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3CW0cYYloBhrTPVaZDrAWi_53.575127_10.089327@1306268798"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ea2e61880f9655a140c1e829eab33b48",
+    "wof:geomhash":"b33218c479f43affc0ce95e9beb532d7",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":118673175,
-    "wof:lastmodified":1466222330,
+    "wof:lastmodified":1510942020,
     "wof:name":"Upcd Europe Gmbh",
     "wof:parent_id":85899293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940720351
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.552846,52.562271,13.552846,52.562271",
     "geom:latitude":52.562271,
     "geom:longitude":13.552846,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wolfener Str. 36",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3hu1D138mZ0yGk0QUjhwyJ_52.562271_13.552846@1306268922"
     },
     "wof:country":"DE",
-    "wof:geomhash":"84b59d88a73c7db5e9ee48cb9686c3db",
+    "wof:geomhash":"a84c9e9f5dbf6aa166dc6aa2cb979cc3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253060373,
-    "wof:lastmodified":1466220512,
+    "wof:lastmodified":1510943190,
     "wof:name":"Mikro - Univers Gmbh",
     "wof:parent_id":85899733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303583881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

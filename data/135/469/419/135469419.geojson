@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.501102,51.789738,8.501102,51.789738",
     "geom:latitude":51.789738,
     "geom:longitude":8.501102,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sch\u00f6ninger Str 50::",
     "sg:city":"Delbr\u00fcck",
     "sg:classifiers":[],
@@ -27,7 +30,7 @@
         "sg:id":"SG_1PMsvfF7hcDp7mhbzDXNNR_51.789738_8.501102@1306268853"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6eff380530456b1e1074e64cfb4d01f5",
+    "wof:geomhash":"5ffb56da2edb60d607a0a5e49c44d423",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -36,12 +39,14 @@
         }
     ],
     "wof:id":135469419,
-    "wof:lastmodified":1466228783,
+    "wof:lastmodified":1510942336,
     "wof:name":"Volksbank Westerloh-westerwiehe Eg",
     "wof:parent_id":85682513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135469427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.390523,51.906002,8.390523,51.906002",
     "geom:latitude":51.906002,
     "geom:longitude":8.390523,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gartenstr. 6 A",
     "sg:city":"G\u00fctersloh",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6KjYBsOBE0GUVfT1tWehvq_51.906002_8.390523@1306269139"
     },
     "wof:country":"DE",
-    "wof:geomhash":"3eeb1c869f477c69d4aa244f3f9d2c83",
+    "wof:geomhash":"2a1449b904b66b3c45d0fada380c13c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":319991767,
-    "wof:lastmodified":1466236742,
+    "wof:lastmodified":1510942989,
     "wof:name":"Diestelkamp K\u00c4lte-klima Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941271893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

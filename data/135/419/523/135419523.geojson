@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.588553,54.293053,10.588553,54.293053",
     "geom:latitude":54.293053,
     "geom:longitude":10.588553,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Markt 8",
     "sg:city":"L\u00fctjenburg",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4wrCY7ao04ixla7Zio4MOl_54.293053_10.588553@1306268851"
     },
     "wof:country":"DE",
-    "wof:geomhash":"cee23b05612d9932c2239c04559fa48c",
+    "wof:geomhash":"28b048f9f9bd08874f7b4cf07da633ad",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135419523,
-    "wof:lastmodified":1466224532,
+    "wof:lastmodified":1510943358,
     "wof:name":"Raiffeisenbank Im Kreis Pl\u00f6n Eg",
     "wof:parent_id":101817449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102560561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

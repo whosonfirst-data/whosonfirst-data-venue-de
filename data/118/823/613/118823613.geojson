@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.950985,48.070282,9.950985,48.070282",
     "geom:latitude":48.070282,
     "geom:longitude":9.950985,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 6",
     "sg:city":"Ochsenhausen",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_5qlh1ZD0FOQ3QJgIA6TbcW_48.070282_9.950985@1306268804"
     },
     "wof:country":"DE",
-    "wof:geomhash":"628708be351a8d29028cf2122bb2948e",
+    "wof:geomhash":"9ab3205d0d8e85e4d7ccff54281fa277",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":118823613,
-    "wof:lastmodified":1466231158,
+    "wof:lastmodified":1510942952,
     "wof:name":"Klosterapotheke",
     "wof:parent_id":101828685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118901281
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.608496,49.58585,10.608496,49.58585",
     "geom:latitude":49.58585,
     "geom:longitude":10.608496,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Unter Dem Lehenhof 4",
     "sg:city":"Neustadt/Aisch",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_29MEHJblDCEjHtph059WQq_49.585850_10.608496@1306268966"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0a287825686c96bfef40389e2dc06df6",
+    "wof:geomhash":"6b015e07e30d5a467e7bd5886af6a32f",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118491545,
-    "wof:lastmodified":1466213237,
+    "wof:lastmodified":1510941799,
     "wof:name":"Tws Formenbau Gmbh",
     "wof:parent_id":101842201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974453653
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

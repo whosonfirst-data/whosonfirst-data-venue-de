@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.560812,51.763855,8.560812,51.763855",
     "geom:latitude":51.763855,
     "geom:longitude":8.560812,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lange Str. 17::",
     "sg:city":"Delbr\u00fcck",
     "sg:classifiers":[],
@@ -26,10 +29,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":270011115,
         "sg:id":"SG_7elGA13Ls9ZgHaU4FEMYap_51.763855_8.560812@1306268793"
     },
     "wof:country":"DE",
-    "wof:geomhash":"c78431975304dd6d50d90ab8487c617c",
+    "wof:geomhash":"8824e00841a45a4abbf008ff31a93976",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,13 +44,17 @@
         }
     ],
     "wof:id":118525533,
-    "wof:lastmodified":1466213981,
+    "wof:lastmodified":1510942904,
     "wof:name":"Stadtsparkasse Delbrueck",
     "wof:parent_id":101808943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        940575427
+    ],
+    "wof:supersedes":[
+        940575427
+    ],
     "wof:tags":[]
 },
   "bbox": [

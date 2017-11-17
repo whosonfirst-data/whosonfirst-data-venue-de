@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.371695,48.67556,9.371695,48.67556",
     "geom:latitude":48.67556,
     "geom:longitude":9.371695,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sch\u00e4ferhauser Str 2",
     "sg:city":"Wendlingen",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_5lZkdZxc6nJBIlwRFqauo1_48.675560_9.371695@1306268869"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f32936ddee332f42cc3ad8f7f2480e04",
+    "wof:geomhash":"a2f7085c1e723fb6f265751a36f49481",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":135733231,
-    "wof:lastmodified":1466243262,
+    "wof:lastmodified":1510943949,
     "wof:name":"Luxorette-haustextilien Gmbh",
     "wof:parent_id":101827535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        940876845
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

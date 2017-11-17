@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.58224,48.165939,11.58224,48.165939",
     "geom:latitude":48.165939,
     "geom:longitude":11.58224,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karl- Theodor- Str. 29a",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1nLxEblKsz73LPrtz8Khwr_48.165939_11.582240@1306269145"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2bc0380b5a0b473ab6b9fe5562a7fd79",
+    "wof:geomhash":"6fa46b154bed932c80d81eb99849ecb6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320663863,
-    "wof:lastmodified":1466242223,
+    "wof:lastmodified":1510943218,
     "wof:name":"M\u00dcnchner Stanzformenbau",
     "wof:parent_id":85900043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958127237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

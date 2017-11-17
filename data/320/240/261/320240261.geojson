@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.990432,53.554295,9.990432,53.554295",
     "geom:latitude":53.554295,
     "geom:longitude":9.990432,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jungfernstieg 38",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1JZZ85o5GRL4mVEoGuZFbj_53.554295_9.990432@1306269141"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e3a428e6a7a01372c368fa91bdee8766",
+    "wof:geomhash":"3d7e319c3cf03b317243020e008756a1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320240261,
-    "wof:lastmodified":1466237851,
+    "wof:lastmodified":1510942027,
     "wof:name":"Klaus Jahn Markt- Und Mediaberatung Gmbh",
     "wof:parent_id":85899245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974444747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

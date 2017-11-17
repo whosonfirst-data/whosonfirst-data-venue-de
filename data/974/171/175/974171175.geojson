@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.980802536,53.5446586609,9.980802536,53.5446586609",
     "geom:latitude":53.544659,
     "geom:longitude":9.980803,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stubbenhuk 7",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472096999,
-    "wof:geomhash":"874370fe9cf677d373b3ccf212be7c72",
+    "wof:geomhash":"8beeabb2501ef466baa30c08509c1e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":974171175,
-    "wof:lastmodified":1472096999,
+    "wof:lastmodified":1510942796,
     "wof:name":"Einsatz Creative Production Gmbh & Co. Kg",
     "wof:parent_id":85899367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119253493,
+        957470465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

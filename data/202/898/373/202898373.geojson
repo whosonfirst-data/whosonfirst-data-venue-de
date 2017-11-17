@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.05311,53.517952,10.05311,53.517952",
     "geom:latitude":53.517952,
     "geom:longitude":10.05311,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Peutestr. 67",
     "sg:city":"Hamburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_11ArLTkjBlR7aQxoOiMmYj_53.517952_10.053110@1306269093"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fc06be14e24ad395f33832bbd3d955c4",
+    "wof:geomhash":"b84c556cea0680f2513056f8dbd195ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":202898373,
-    "wof:lastmodified":1466223106,
+    "wof:lastmodified":1510943459,
     "wof:name":"Pohl & Co. Gmbh & Co.",
     "wof:parent_id":85899893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957686439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.967488,48.400398,9.967488,48.400398",
     "geom:latitude":48.400398,
     "geom:longitude":9.967488,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Blaubeurer Str 71",
     "sg:city":"Ulm",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_31EjKmXnl30npkSXu5yrFj_48.400398_9.967488@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f3db9ee94eb586e9167763e03ea51abc",
+    "wof:geomhash":"c2e2c07bcba09bf4bf7ebd324eb9a4a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,16 @@
         }
     ],
     "wof:id":252896519,
-    "wof:lastmodified":1466222658,
+    "wof:lastmodified":1510943119,
     "wof:name":"Britax R\u00f6mer Kindersicherheit Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958291359,
+        941501123,
+        974140427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.327243,51.723476,14.327243,51.723476",
     "geom:latitude":51.723476,
     "geom:longitude":14.327243,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kantstr. 23",
     "sg:city":"Cottbus",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_50VWi8iJCqG2B2yN7UEN3Z_51.723476_14.327243@1306269094"
     },
     "wof:country":"DE",
-    "wof:geomhash":"01945a9120a754f58c36a55f42fa5109",
+    "wof:geomhash":"f7c4319048181793d1f61f91530703f6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":203030245,
-    "wof:lastmodified":1466214289,
+    "wof:lastmodified":1510942291,
     "wof:name":"F & S Fugenabdichtung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941043603
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

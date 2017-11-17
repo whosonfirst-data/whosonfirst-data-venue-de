@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.352323,51.455727,7.352323,51.455727",
     "geom:latitude":51.455727,
     "geom:longitude":7.352323,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Liegnitzer Str 24-26",
     "sg:city":"Witten",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_61nVdXq1TJEq2v5zUUsdev_51.455727_7.352323@1306268929"
     },
     "wof:country":"DE",
-    "wof:geomhash":"e2bc0139b04da80b915df0a3e3ede690",
+    "wof:geomhash":"ecf361c1672c09832338eb3d81f28efd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":269672975,
-    "wof:lastmodified":1466225285,
+    "wof:lastmodified":1510942752,
     "wof:name":"Maassen & Schmitz Gmbh & Co Kommunikationstecknik Kg",
     "wof:parent_id":85794853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941543149
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.264353,53.539017,12.264353,53.539017",
     "geom:latitude":53.539017,
     "geom:longitude":12.264353,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karl-Liebknecht-Str. 26",
     "sg:city":"Karow",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6VcEzzHmLhEvTpTcEfg4aq_53.539017_12.264353@1306268934"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b8a3bcfae272120fdef692936b9288bb",
+    "wof:geomhash":"19cab9c3b3b863527e0b993baf5f0260",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102727749,
-    "wof:lastmodified":1466216930,
+    "wof:lastmodified":1510942722,
     "wof:name":"Biopark E. V.",
     "wof:parent_id":101908293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974462575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

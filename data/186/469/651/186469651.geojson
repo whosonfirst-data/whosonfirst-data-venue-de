@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.406146,48.344288,8.406146,48.344288",
     "geom:latitude":48.344288,
     "geom:longitude":8.406146,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Reutiner Str. 14",
     "sg:city":"Alpirsbach",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_2qFyTlpSOu4yfAr9ZY4WJs_48.344288_8.406146@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"b48db5268e51ac9b9485efa031179036",
+    "wof:geomhash":"b3a80be0c283dcf850370228ad3097b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186469651,
-    "wof:lastmodified":1466218164,
+    "wof:lastmodified":1510943428,
     "wof:name":"Gfv Verschlu\u00dftechnik Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236758325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.715949,48.110241,11.715949,48.110241",
     "geom:latitude":48.110241,
     "geom:longitude":11.715949,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-Pinsel-Str 1",
     "sg:city":"Haar",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_40q7koycw0LHDTLL2Ozl4f_48.110241_11.715949@1306268921"
     },
     "wof:country":"DE",
-    "wof:geomhash":"92e7fd892597be82262a848f5b82e2ed",
+    "wof:geomhash":"d607040468666ae004d34f1a07de6ed8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252906531,
-    "wof:lastmodified":1466222845,
+    "wof:lastmodified":1510942007,
     "wof:name":"Vereinigte Ofen- Und Kaminwerkst\u00e4tten M\u00fcnchen Ag",
     "wof:parent_id":85899729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957358273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

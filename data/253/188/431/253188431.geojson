@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.647082,52.145409,11.647082,52.145409",
     "geom:latitude":52.145409,
     "geom:longitude":11.647082,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wittenberger Str 17",
     "sg:city":"Magdeburg",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_5gSlEhe5M5la6Hgn3EHy0d_52.145409_11.647082@1306268923"
     },
     "wof:country":"DE",
-    "wof:geomhash":"2df9e624c12335ff93ff79cd7d2c180f",
+    "wof:geomhash":"886f2a33c1438c5ae658e3c50415a56b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":253188431,
-    "wof:lastmodified":1466222906,
+    "wof:lastmodified":1510941677,
     "wof:name":"Kranservice Rheinberg Gmbh",
     "wof:parent_id":85899391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270251909
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

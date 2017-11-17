@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.674298,50.110359,8.674298,50.110359",
     "geom:latitude":50.110359,
     "geom:longitude":8.674298,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaiserstr. 24",
     "sg:city":"Frankfurt",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0YUB1dpKGGYckPyMqanubw_50.110359_8.674298@1306268849"
     },
     "wof:country":"DE",
-    "wof:geomhash":"fab7f8f78614dbe59d8f775b5e14e000",
+    "wof:geomhash":"ce634cab9f75c8b330ca8eb1f6fe10e0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135387757,
-    "wof:lastmodified":1466221797,
+    "wof:lastmodified":1510943855,
     "wof:name":"Georg Hauck & Sohn Bankiers Kgaa",
     "wof:parent_id":85796305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        135387761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

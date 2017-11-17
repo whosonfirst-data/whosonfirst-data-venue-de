@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6070671082,51.342716217,6.6070671082,51.342716217",
     "geom:latitude":51.342716,
     "geom:longitude":6.607067,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Uerdinger Str. 463a",
     "sg:city":"Krefeld",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1471994816,
-    "wof:geomhash":"e4de8a239dbedb56dfd784a9aacdfc2a",
+    "wof:geomhash":"9d634a5965fa860dc18996769d50cd6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":940716843,
-    "wof:lastmodified":1471994816,
+    "wof:lastmodified":1510943828,
     "wof:name":"Etacon Gesellschaft F\u00fcr Betriebskostensparsysteme Mbh",
     "wof:parent_id":85795791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941308679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

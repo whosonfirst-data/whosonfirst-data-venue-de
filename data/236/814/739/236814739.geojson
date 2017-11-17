@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.276585,50.029354,8.276585,50.029354",
     "geom:latitude":50.029354,
     "geom:longitude":8.276585,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Peter-Sander-Str 32",
     "sg:city":"Mainz-Kastel",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6tOzSx0dpGo0jbGZH6wQar_50.029354_8.276585@1306268919"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ac2156536d824f813112a8bb1eb8e1a7",
+    "wof:geomhash":"ea6ae1c40cb2e8abb08e8285200b072d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":236814739,
-    "wof:lastmodified":1466233865,
+    "wof:lastmodified":1510942922,
     "wof:name":"Didier-m & P Energietechnik Gmbh",
     "wof:parent_id":85795955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941164411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

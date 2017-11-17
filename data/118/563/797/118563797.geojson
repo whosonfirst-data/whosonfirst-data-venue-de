@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.266512,49.9622,8.266512,49.9622",
     "geom:latitude":49.9622,
     "geom:longitude":8.266512,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Robert-Koch-Str. 8",
     "sg:city":"Mainz",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_3HumGPHUcjeHdAnmwJRIO8_49.962200_8.266512@1306268794"
     },
     "wof:country":"DE",
-    "wof:geomhash":"6f1abca3b86d29afe776efdb09d4b397",
+    "wof:geomhash":"acbb995826fe4fac5d776b8857c1ab3e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":118563797,
-    "wof:lastmodified":1466216086,
+    "wof:lastmodified":1510941976,
     "wof:name":"Telefonbuchverlag G. M. Schmidt Gmbh & Co. Kg",
     "wof:parent_id":101748569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957468027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

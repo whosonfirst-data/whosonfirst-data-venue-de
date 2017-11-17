@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.73377,52.387016,9.73377,52.387016",
     "geom:latitude":52.387016,
     "geom:longitude":9.73377,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vahrenwalder Str. 9",
     "sg:city":"Hannover",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_4Hvilt6AFKpIIpx9RZSGe6_52.387016_9.733770@1306268884"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0690c246a0ac175782a0ca3c6b07f9c9",
+    "wof:geomhash":"fb7bf82ffc32ccc5a5794e8bae0f1df5",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":135970383,
-    "wof:lastmodified":1466244815,
+    "wof:lastmodified":1510944156,
     "wof:name":"Conti Tech Holding Gmbh",
     "wof:parent_id":85899535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        957691085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

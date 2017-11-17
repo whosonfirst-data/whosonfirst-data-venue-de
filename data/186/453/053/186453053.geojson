@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.820386,48.068428,9.820386,48.068428",
     "geom:latitude":48.068428,
     "geom:longitude":9.820386,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Noherrstr. 17",
     "sg:city":"Ummendorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_6MnYMjWB0KwsQmxnU2Yx7s_48.068428_9.820386@1306269089"
     },
     "wof:country":"DE",
-    "wof:geomhash":"ccf8dbee2f3f7c8098bad1c131a03144",
+    "wof:geomhash":"7dc7a091b797ed956133141f6c06227d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":186453053,
-    "wof:lastmodified":1466217980,
+    "wof:lastmodified":1510942196,
     "wof:name":"H\u00f6rr Pr\u00e4zisions- Metalltechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320647723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

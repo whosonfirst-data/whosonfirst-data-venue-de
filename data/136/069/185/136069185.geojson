@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.290282,52.352772,9.290282,52.352772",
     "geom:latitude":52.352772,
     "geom:longitude":9.290282,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbestrasse 5",
     "sg:city":"Lindhorst",
     "sg:classifiers":[],
@@ -28,7 +31,7 @@
         "sg:id":"SG_0I6Qf3fAteUXA0rGJfzN9j_52.352772_9.290282@1306268889"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8927e88b1f4033c52e7ab57136450114",
+    "wof:geomhash":"86a3f118ae8830772293560448165318",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -39,12 +42,14 @@
         }
     ],
     "wof:id":136069185,
-    "wof:lastmodified":1466215322,
+    "wof:lastmodified":1510943734,
     "wof:name":"Griese Industrieservice Gmbh",
     "wof:parent_id":101807617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286677185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

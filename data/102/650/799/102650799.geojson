@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.82165,51.263645,6.82165,51.263645",
     "geom:latitude":51.263645,
     "geom:longitude":6.82165,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberrather Str. 4",
     "sg:city":"D\u00fcsseldorf",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4Till3rx2jYitPPaKMBJHP_51.263645_6.821650@1306268826"
     },
     "wof:country":"DE",
-    "wof:geomhash":"a1f5fbeaf632836c7d690110ade61fc8",
+    "wof:geomhash":"655abb5ec2b120a479d70a55ade82de0",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -40,12 +43,14 @@
         }
     ],
     "wof:id":102650799,
-    "wof:lastmodified":1466214743,
+    "wof:lastmodified":1510941556,
     "wof:name":"Nec Electronics Europe Gmbh",
     "wof:parent_id":85794683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        941275263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

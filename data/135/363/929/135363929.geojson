@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.601678,48.200256,11.601678,48.200256",
     "geom:latitude":48.200256,
     "geom:longitude":11.601678,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heidemannstr. 164",
     "sg:city":"M\u00fcnchen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1BFk1XF9xw0ZaxGwjn72ej_48.200256_11.601678@1306268847"
     },
     "wof:country":"DE",
-    "wof:geomhash":"f6817a594570dd9af1501fc5ca5953ee",
+    "wof:geomhash":"a4bf32e47729af1a404c2d795a9758cc",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":135363929,
-    "wof:lastmodified":1466219330,
+    "wof:lastmodified":1510942643,
     "wof:name":"Bmw Bank Gmbh",
     "wof:parent_id":85899167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        270363791
+    ],
+    "wof:supersedes":[
+        118518397
+    ],
     "wof:tags":[]
 },
   "bbox": [

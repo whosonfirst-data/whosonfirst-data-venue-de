@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3188657761,51.5867996216,7.3188657761,51.5867996216",
     "geom:latitude":51.5868,
     "geom:longitude":7.318866,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Querstrasse 80",
     "sg:city":"Castrop-Rauxel",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472010805,
-    "wof:geomhash":"25347706a42d744fcf926655d41dfb0a",
+    "wof:geomhash":"e8fb2de7e8db5c057de3e6ec108afb3e",
     "wof:hierarchy":[
         {
             "country_id":85633111,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":941043469,
-    "wof:lastmodified":1472010805,
+    "wof:lastmodified":1510941884,
     "wof:name":"Eduard Friedrich Gmbh",
     "wof:parent_id":85794983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        119449641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

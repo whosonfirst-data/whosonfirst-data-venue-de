@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.635008812,51.9399147034,7.635008812,51.9399147034",
     "geom:latitude":51.939915,
     "geom:longitude":7.635009,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industrieweg 110",
     "sg:city":"M\u00fcnster",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"DE",
     "wof:created":1472113637,
-    "wof:geomhash":"ab1f40e9a7c743476ba12a18dd7ee908",
+    "wof:geomhash":"911e9b516a9f192abbf1c6d411782282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":974462123,
-    "wof:lastmodified":1472113637,
+    "wof:lastmodified":1510944086,
     "wof:name":"Raiffeisen Central Genossenschaft",
     "wof:parent_id":85795293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        974462847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

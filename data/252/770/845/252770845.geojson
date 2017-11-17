@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.184463,49.189037,11.184463,49.189037",
     "geom:latitude":49.189037,
     "geom:longitude":11.184463,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Albrecht-D\u00fcrer-Str. 33",
     "sg:city":"Hilpoltstein",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_7YrPsh29lCGTCOuIXpuzzl_49.189037_11.184463@1306268920"
     },
     "wof:country":"DE",
-    "wof:geomhash":"0fe5a881ffa45c462d14386f5ff65c2e",
+    "wof:geomhash":"75a519da1084b38fb9975a23a7d687a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":252770845,
-    "wof:lastmodified":1466220286,
+    "wof:lastmodified":1510943493,
     "wof:name":"Farben Loy Gmbh & Co. Kg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102747433
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

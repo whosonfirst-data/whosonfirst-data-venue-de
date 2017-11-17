@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.246235,51.605946,7.246235,51.605946",
     "geom:latitude":51.605946,
     "geom:longitude":7.246235,
     "iso:country":"DE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Christine-Englerth-Str. 4",
     "sg:city":"Recklinghausen",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_0OQeyGTcUDzjDqUd3Kgh2U_51.605946_7.246235@1306269131"
     },
     "wof:country":"DE",
-    "wof:geomhash":"8c6bb17825045b59cfe8524baa94aa09",
+    "wof:geomhash":"d86af04387650b40fff0c33199063acb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":303173041,
-    "wof:lastmodified":1466228791,
+    "wof:lastmodified":1510943990,
     "wof:name":"Vke Industrieanlagenbau Gmbh",
     "wof:parent_id":85863209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        958127465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
